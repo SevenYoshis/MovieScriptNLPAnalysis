@@ -1,0 +1,5885 @@
+{
+ "movie_url": "https://imsdb.com/scripts/La-La-Land.html",
+ "movie_title": "La La Land",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "LA LA LAND\nWritten by\nDamien Chazelle"
+  },
+  {
+   "type": "stage direction",
+   "text": "FADE IN..."
+  },
+  {
+   "type": "location",
+   "text": "A sun-blasted sky. We HEAR radios -- one piece of music after\nanother...\nWe're --\n1    EXT. 101 FREEWAY - DAY\nCars are at a standstill. It's a horrific traffic jam.\nMorning rush hour. Sun beating down, asphalt shimmering in the\nheat. The blown-out downtown L.A. skyline hovers in the\ndistance.\nWe DRIFT past more CARS. Hear one snippet of audio after\nanother...\nOne driver taps his steering wheel to PROG ROCK. Another\nsings to OPERA. A third raps along to a HIP-HOP track. We\nmove from a RADIO INTERVIEW to a FRENCH BALLAD to TECHNO,\nuntil finally we begin to hear...\n...a new, original piece of music... [ANOTHER DAY OF SUN]\nWe settle on the CAR from which this new tune is playing.\nThe driver is a YOUNG WOMAN. She hums along to the riff on\nher radio -- then starts SINGING.\nThen -- she EXITS her car. Then -- she starts MOVING down the\nlane.\nOne by one, more DRIVERS join her -- SINGING and DANCING\nalong. Without a single cut, we've found ourselves in a FULL-\nFLEDGED MUSICAL NUMBER...\nDrivers leap on car-tops, dance Jerome Robbins-style, making\nuse of the road and the hot gleam of the automobiles. Arms\nswaying, feet banging, dancers darting, as the MUSIC blasts.\nWe WEAVE and SWIRL and DART between and around the cars,\ntaking the magic in...\nFinally -- all the drivers swing back into their vehicles --\nand the song comes to a dramatic stop.\nFlash title card:\nWINTER\nA1   We settle on a new car. A 1983 Dodge Riviera. In it is\nSEBASTIAN, 32, L.A. native. He's listening to the radio. He's\nplaying a track on his music system -- a tape of Thelonious\nMonk's \"Japanese Folk Song\". But he keeps stopping it, over\nand over and over -- always rewinding to the same exact spot."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                           2."
+  },
+  {
+   "type": "location",
+   "text": "B1   OMIT\nC1   We DRIFT from his car to one further up ahead. A light-green\n2005 Prius. Inside is MIA, 27, Nevada-raised. Six years of\n\"no\" in L.A. have toughened her, but she's still a dreamer.\nShe seems to be on the phone, speaking into her car's system.\nFast, fiery, full of energy --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "...and I swear to God, she was wrecked.\nIt was pure insanity."
+  },
+  {
+   "type": "location",
+   "text": "Mia stops. Thinks. Mutters to herself: \"Insanity\"... Then\nleans down and grabs a piece of paper from the passenger\nseat. It's a SCRIPT."
+  },
+  {
+   "type": "stage direction",
+   "text": "(reading now)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Pure lunacy. Oh God, I know..."
+  },
+  {
+   "type": "location",
+   "text": "Just then -- the traffic around Mia starts to let up. She's\ntoo focused on her lines to notice.\nThen -- a long, sustained honk behind her: AHHHHHHHHHHHHHHHT.\nMia comes to. Jerked back to reality. The honking car behind\nher swerves into the next lane. It's Sebastian. Mia gives him\nthe finger. We then FOLLOW her as she drives...\n2    OMIT\n3    OMIT\n4    INT. COFFEE SHOP - DAY\nMia works, photos of Hollywood icons on the wall behind her, as --"
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER #1",
+   "text": "This doesn't taste like almond milk."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Don't worry, it is. I know sometimes it --"
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER #1",
+   "text": "Can I see the carton?"
+  },
+  {
+   "type": "location",
+   "text": "Mia hands it over. The Customer looks."
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER #1 (CONT'D)",
+   "text": "I'll have a black coffee."
+  },
+  {
+   "type": "location",
+   "text": "Mia gets the coffee. Quickly sneaks a look at a script hidden\nunderneath her counter. The same one we saw in her car..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                          3.\nShe hands the coffee to the Customer. We follow the Customer\nout through the door -- as a WOMAN walks into the shop. We\ndon't see the Woman's face, but we see all the eyes in the\nshop turn immediately to her. We see one CUSTOMER whisper to\nanother, discreetly pointing as the WOMAN passes by..."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "Cappuccino, please."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia nods. Gets it made. The Manager takes it from her."
+  },
+  {
+   "type": "speech",
+   "character": "MANAGER",
+   "text": "On us."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "No, I insist."
+  },
+  {
+   "type": "stage direction",
+   "text": "She pays. Then smiles at Mia and drops a bill in the tip jar.\nMia watches as the Woman walks off, is joined by a STUDIO\nEMPLOYEE on a golf cart outside -- we realize this coffee shop\nis on a STUDIO LOT -- and is driven away...\nThen -- Mia's phone rings. It reads: \"MOM\". Mia presses\n\"IGNORE\" and the time pops up on the phone's screen: 4:07."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Shit."
+  },
+  {
+   "type": "stage direction",
+   "text": "Removing her apron and hurrying out, turning back as --"
+  },
+  {
+   "type": "speech",
+   "character": "MANAGER",
+   "text": "Where do you think you're going?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "It's -- five past..."
+  },
+  {
+   "type": "speech",
+   "character": "MANAGER",
+   "text": "You'd better be here early tomorrow."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Ok."
+  },
+  {
+   "type": "stage direction",
+   "text": "-- then realizes she doesn't have her script, runs back to\ngrab it, hurries on and then -- CRASHES into a table. Coffee\nand food spill all over her shirt, and all at once we're --"
+  },
+  {
+   "type": "location",
+   "text": "5   INT. AUDITION ROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia's in a thick winter coat, covering her stained shirt. On\nher cell, loudly laughing while her adrenaline surges --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "And I swear to God, she was wrecked. It\nwas pure lunacy. Oh God, I know..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                      4.\nHer nerves are practically visible. As she talks, we PULL\nBACK -- to see that she's auditioning for a CASTING DIRECTOR."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "No, no, Turner's fine. So you -- are you\nwaiting `til Denver to tell her...?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(as her smile contracts)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Oh. I see..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(silence; she clenches her jaw...)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "No, you're right. I understand."
+  },
+  {
+   "type": "stage direction",
+   "text": "(...and a tear falls from her eye)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Ok... I just... Oh..."
+  },
+  {
+   "type": "stage direction",
+   "text": "An ASSISTANT appears through the glass on the door behind\nMia, waving to the Casting Director: Yoohoo. Can I come in?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(crying now)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "No, I'm happy for you... I -- I just --"
+  },
+  {
+   "type": "speech",
+   "character": "CASTING DIRECTOR",
+   "text": "One second."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia stops. The Casting Director waves the Assistant in. The\nAssistant scurries in, shows her boss a post-it. Mia stands\nthere, trying to hold onto the tears, hold onto the emotion, as\nthe Casting Director reads the post-it and thinks."
+  },
+  {
+   "type": "speech",
+   "character": "CASTING DIRECTOR (CONT'D)",
+   "text": "...I'll call her back. Tell her I'm almost\ndone in here."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Assistant nods. Walks out. Mia waits, trying to maintain..."
+  },
+  {
+   "type": "speech",
+   "character": "CASTING DIRECTOR (CONT'D)",
+   "text": "You know what? I think we're good. Thanks\nfor coming in."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia looks at her. A beat."
+  },
+  {
+   "type": "location",
+   "text": "6   INT. LOBBY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia exits. Nerves still on edge. Passes one beautiful redhead\nafter the next -- all getting ready to cry.\nEnters the elevator with two other WOMEN -- tall, statuesque.\nAlso redheads."
+  },
+  {
+   "type": "location",
+   "text": "7   INT. MIA'S APARTMENT - EARLY EVENING"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia enters. Exhausted. Heads to her ROOM.\nRevision                          5.\nOld movie posters hang on the walls, including a big Ingrid\nBergman one over the bed. There's also a shelf filled with\nacting books -- Uta Hagen, Stella Adler. Various other\ntrinkets: an old globe, an old blue-and-red suitcase. Mia\ntakes off her shoe. A blister on her sole."
+  },
+  {
+   "type": "location",
+   "text": "8   WE CUT TO: Mia in the BATHROOM. Just showered, wrapped in a"
+  },
+  {
+   "type": "stage direction",
+   "text": "towel. She hums to herself.\nThe mirror is fogged up. She turns off the vent. The mist on\nthe glass thickens. She dabs some of it away. Dims the\nlights. Looks...\nWith the fog in place, her reflection looks like one of those\nsoft-focus old Hollywood close-ups. She hums as she brushes\nher hair...\nThen -- the door SWINGS open -- and the spell is broken."
+  },
+  {
+   "type": "speech",
+   "character": "TRACY",
+   "text": "Holy Mother of God."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia snaps out of it. Turns. Fog is enveloping TRACY, 27."
+  },
+  {
+   "type": "speech",
+   "character": "TRACY (CONT'D)",
+   "text": "Ever heard of a vent?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I wanted to give you an entrance."
+  },
+  {
+   "type": "stage direction",
+   "text": "(appearing in the hall, 26,\neating Cheetos)"
+  },
+  {
+   "type": "speech",
+   "character": "ALEXIS",
+   "text": "Mia! How'd it go?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Eh..."
+  },
+  {
+   "type": "speech",
+   "character": "ALEXIS",
+   "text": "Same here. Was Jen there? Or Rachel?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I don't know who Jen and Rachel are."
+  },
+  {
+   "type": "speech",
+   "character": "ALEXIS",
+   "text": "They're the worst."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I don't know if they were there."
+  },
+  {
+   "type": "stage direction",
+   "text": "As Mia slips away --"
+  },
+  {
+   "type": "speech",
+   "character": "ALEXIS",
+   "text": "I bet they were."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                           6."
+  },
+  {
+   "type": "stage direction",
+   "text": "(appearing, 27)"
+  },
+  {
+   "type": "speech",
+   "character": "CAITLIN",
+   "text": "Why is there a convention in the bathroom?"
+  },
+  {
+   "type": "speech",
+   "character": "TRACY",
+   "text": "Two minutes, people! Mia you're coming,\nright?"
+  },
+  {
+   "type": "location",
+   "text": "WE PAN TO find Mia poking her head out of her bedroom --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Can't. Working."
+  },
+  {
+   "type": "stage direction",
+   "text": "TRACY (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "What?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(we PAN BACK to Tracy)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Did she say \"working\"?"
+  },
+  {
+   "type": "location",
+   "text": "A8   We follow Mia INSIDE her room. She closes the door. Takes a\nmoment. You can tell in her eyes -- work or not, a night on\nthe town is the last thing she wants to do now.\nB8   WE CUT to the HALLWAY, to find Tracy POUNDING on Mia's door."
+  },
+  {
+   "type": "stage direction",
+   "text": "(opening up)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Yes?"
+  },
+  {
+   "type": "speech",
+   "character": "TRACY",
+   "text": "Look, I know things didn't go well today.\nThere are four things in my inbox that\nyou're perfect for and I will submit you.\nBut right now -- you're coming."
+  },
+  {
+   "type": "location",
+   "text": "C8   With that -- she barges in and beelines to Mia's closet --"
+  },
+  {
+   "type": "speech",
+   "character": "TRACY (CONT'D)",
+   "text": "It'll be fun."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "It'll be a bunch of social climbers packed\ninto one of those glass houses."
+  },
+  {
+   "type": "speech",
+   "character": "TRACY",
+   "text": "Exactly. Fun."
+  },
+  {
+   "type": "location",
+   "text": "She pulls out a blue dress. As Alexis hurries in --"
+  },
+  {
+   "type": "location",
+   "text": "This looks familiar.             I was going to give it"
+  },
+  {
+   "type": "speech",
+   "character": "TRACY (CONT'D)                        MIA",
+   "text": "back!"
+  },
+  {
+   "type": "location",
+   "text": "Alexis moves from Mia's perfume to the dress, lighting up as\nshe grabs it --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                           7."
+  },
+  {
+   "type": "speech",
+   "character": "ALEXIS",
+   "text": "Come on, Mia. When else do you get to\nsee every Hollywood clich\u00e9 crammed\ninto a single home?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(faux-offended)"
+  },
+  {
+   "type": "speech",
+   "character": "TRACY",
+   "text": "Lex! I'm disappointed in you. There's\nnothing to make fun of. This party will\nbe humanity at its finest."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia rolls her eyes -- and, with that --\nTracy BREAKS INTO SONG. [SOMEONE IN THE CROWD]\nShe play-acts the clich\u00e9s this party will represent. Alexis\nand Caitlin join in, giddy and playful. Mia can't help but\nlaugh. The roommates sing and dance, hoping to persuade Mia\nto join the night's revelry...\nMia remains reluctant. Stays behind in her room as her\nroommates head out the door. But she's starting to wonder: A\nnight at home, feeling sorry for herself -- or a night out\nwith her friends...?"
+  },
+  {
+   "type": "location",
+   "text": "9     EXT. APARTMENT BUILDING / STREET - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "We're outside now, and BACK with Tracy, Alexis and Caitlin,\nmarching across the courtyard and toward the street. They\nsing, dance, half-assuming Mia is a no-go --\n-- until Mia APPEARS, blue-dress-clad. Her roommates look at\nher in surprise -- then delight. The energy swells and the\nfour characters dance their way together down the street.\nThey dive into a single CAR, and WE DISSOLVE TO..."
+  },
+  {
+   "type": "location",
+   "text": "10    OMIT.\nA10   OMIT.\n11    EXT. CITY - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "An old-fashioned MONTAGE of a night on the town: neon signs\nand overflowing champagne glasses. Soon enough, we're at..."
+  },
+  {
+   "type": "location",
+   "text": "12    EXT. MODERN HILLTOP HOUSE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Valet cars lined up. We FOLLOW Alexis, Tracy, Caitlin and Mia\nto the door..."
+  },
+  {
+   "type": "location",
+   "text": "13    INT./EXT. HILLTOP HOUSE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "...and into a big-glass hilltop pad. We FOLLOW Mia as she\ntakes in her surroundings.\nRevision                          8.\nA D.J. turning tables. A FAT OLD PRODUCER dancing with a\nTWENTY-SOMETHING. A trio of AGENTS glad-handing each other in\nrhythm by the bar. Yep -- every clich\u00e9 is here...\nMia tries talking to a pair of WOMEN -- who promptly ditch\nher.\nSeeing she's now alone, a YOUNG MAN swoops in to hit on her.\nShe makes a hasty exit toward the bar -- but the line's\nobscenely long.\nShe nears the BATHROOM door -- but a COUPLE stands in her way,\nmaking out.\nShe slips in behind them..."
+  },
+  {
+   "type": "location",
+   "text": "A13   Inside the BATHROOM, Mia takes a moment. The joy of seconds"
+  },
+  {
+   "type": "stage direction",
+   "text": "ago is gone from her eyes now. She gazes into the mirror --\n-- and SINGS by herself.\nThis verse, sung in private, belongs to a new style: less\nbrash, and far more vulnerable...\nOnce finished, Mia takes a breath, steels herself to once\nagain face the world, opens the door -- and rejoins the\ncrowd..."
+  },
+  {
+   "type": "location",
+   "text": "B13   We MOVE with her slowly now -- surrounded by the party, but"
+  },
+  {
+   "type": "stage direction",
+   "text": "everything set at a snail's pace, the crazed carousers moving\nin SLOW MOTION. It's the sadness underneath the revelry, the\npain underneath the clich\u00e9s...\nGradually we RAMP UP. Follow Mia OUTSIDE, where we see the\nsplash of blue-green that is the POOL -- and a flurry of FAKE\nSNOW falling from above...\nAs we reach FULL-SPEED, a PARTY-GOER races to the edge, jumps --\n-- and we PLUNGE WITH HIM INTO THE POOL.\nThis is the climax of the number. Everyone joins in,\ncircling the pool -- a swath of color against the black sky.\nEveryone dances, everyone sings -- and the song concludes\nwith a blast of fireworks."
+  },
+  {
+   "type": "location",
+   "text": "C13   OMIT\nA14   EXT. STREET - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Close on a sign: \"NO PARKING ANYTIME: TOW-AWAY ZONE\".\nRevision                      9.\nMIA (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "TRACY",
+   "text": "No..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We see Mia -- all alone, staring at the sign. No car in\nsight. She reaches into her purse, pulls out her cell phone\nto call Tracy. It's dead."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "No..."
+  },
+  {
+   "type": "location",
+   "text": "15    OMIT\n16    OMIT\n17    OMIT\nA17   OMIT\nB17   OMIT\n18    OMIT\n19    EXT. HILL / LOS ANGELES STREETS - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia trudges down the steep hill in her unwieldy heels. She's an\nhour-and-a-half walk from her place. She crosses roads and lots,\nnavigates stretches where the sidewalk stops and gives way to\nshrubbery."
+  },
+  {
+   "type": "location",
+   "text": "A19   And then -- she hears something... Music. A piano, in the"
+  },
+  {
+   "type": "stage direction",
+   "text": "distance. And a MELODY -- one we will come to know very well...\nWithout being sure why, she FOLLOWS THE SOUND. Passes several\ndoors. Then stops. Has found where it's coming from...\nShe reaches out -- and slowly opens a door...\nAND WE CUT RIGHT BACK TO:"
+  },
+  {
+   "type": "location",
+   "text": "20    EXT. 101 FREEWAY - EARLIER THAT MORNING"
+  },
+  {
+   "type": "stage direction",
+   "text": "AHHHHHHHHHHHHHHHHHHHHHHT. The same 101 traffic jam we began\nwith. This time we're on Sebastian -- the honker.\nHe passes Mia's car. She gives him the finger. He drives on,\nshaking his head..."
+  },
+  {
+   "type": "location",
+   "text": "21    OMIT\n22    EXT. RAYO'S - MOMENTS LATER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian sips a coffee as he gazes across the street -- at\na 30's Deco building. A sign above the door: \"VAN BEEK\". A\nnewer sub-heading below: \"TAPAS & TUNES\".\nRevision                          10.\nThe door opens. Two EMPLOYEES step out, setting up a valet\nstand. Sebastian watches them -- and shakes his head. The\nemployees notice him. Recognize him. What is it with that\nguy...?"
+  },
+  {
+   "type": "location",
+   "text": "23A   OMIT\n23    INT. SEBASTIAN'S APARTMENT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian enters his apartment -- cramped, dingy, bare\nwalls, no furniture or decoration, boxes filled with dusty\nblack-and-white photographs and unused instruments on the\nfloor, a black Steinway upright piano in the center of the\nliving room -- and sees a WOMAN rummaging around.\nSEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "You gotta stop breaking into my home."
+  },
+  {
+   "type": "stage direction",
+   "text": "She looks up. She's 37 quickly going on 50, and dressed like\nshe doesn't care. This is LAURA, Sebastian's older sister.\nLAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "You think Mom or Dad would call this a\nhome?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Seeing that she's seated on a stained, decrepit stool --\nSEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Please don't sit on that."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Are you serious?"
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Yes. Hoagy Carmichael sat on that stool.\nThe Baked Potato was gonna throw it away."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "I wonder why."
+  },
+  {
+   "type": "stage direction",
+   "text": "(then, rising,)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "I brought you this. It's a throw rug."
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Don't need it."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Yeah? What if I told you Miles Davis\npissed on it?"
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "That's almost insulting..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(then,)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Did he?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        11."
+  },
+  {
+   "type": "location",
+   "text": "She shakes her head: Unbelievable. Tosses the rug to the side."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "When are you going to unpack these boxes?"
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "When I unpack them in my club."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Oh my God. It's like a girl broke up with\nyou and you're stalking her."
+  },
+  {
+   "type": "stage direction",
+   "text": "(then, looks at him --)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "You're not still going by there, are you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "No."
+  },
+  {
+   "type": "location",
+   "text": "A beat. Then --"
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "They've turned it into a tapas-samba\nplace. You believe that?"
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Seb --"
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Who wants to tapas while they samba?"
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "I have someone I want you to meet."
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "I don't want to meet anyone."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "You'll like her."
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Uh-huh. Does she like jazz?"
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Probably not."
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Then what are we gonna talk about?"
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "You'll talk about the weather."
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Ok. Then I have someone I'd like you to\nmeet. He's got a face tattoo, but a heart\nof gold."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "Sebastian --"
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "How long's it been?"
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "You need to get serious. You live like a\nhermit. You're driving without insurance."
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "I am serious. I had a very serious plan\nfor my future. It's not my fault I got\nShanghai'ed."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "You did not get \"Shanghai'ed\", you got\nripped off."
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "What's the difference?"
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "It's not as romantic as that."
+  },
+  {
+   "type": "stage direction",
+   "text": "(she starts to walk off)"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "And everyone knew that guy was shady\nexcept for you."
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "Why do you say romantic like it's a dirty\nword?"
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "Unpaid bills are not romantic. Call her."
+  },
+  {
+   "type": "location",
+   "text": "She heads to the door. He follows her, won't give it up --"
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "You're acting like life's got me on the\nropes -- what you don't understand is, I\nwant to be on the ropes. I'm letting life\nhit me `til it gets tired. Then I'm gonna\nmake my move. It's a classic rope-a-dope."
+  },
+  {
+   "type": "location",
+   "text": "Laura can't help but laugh. Stops by the door. Looks at him."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "I love you. Unpack your boxes."
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "I'm changing the locks."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                       13.\nLAURA\n(out the door with a smile --)"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "You can't afford it."
+  },
+  {
+   "type": "stage direction",
+   "text": "She's gone. Sebastian thinks for a beat, then calls out --\nSEBASTIAN"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "I'm a phoenix rising from the ashes!"
+  },
+  {
+   "type": "stage direction",
+   "text": "No reply to his triumphant declaration. He shuts the door.\nLooks again at the napkin. Thinks. Tosses it in the trash."
+  },
+  {
+   "type": "location",
+   "text": "A23   INT. SEBASTIAN'S APARTMENT - LATER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Moments later. Sebastian takes a slice of pizza from the\nfridge, pours himself some more coffee, places a Thelonious\nMonk LP onto a record player, and sits down at the piano.\n\"Japanese Folk Song\" -- the piece we heard in his car --\nplays...\nSebastian plays along. Stops. Moves the record back a few\nbars. Starts it again. Plays the same passage over. Stops.\nMoves the record back a second time. Plays the passage again.\nStops. Over and over, just like in his car -- until, finally,\nhe gets it right.\nHe keeps playing, louder now, and we're --"
+  },
+  {
+   "type": "location",
+   "text": "B23   OMIT\n24    OMIT\n25    OMIT\n26    OMIT\n27    INT. RESTAURANT - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "A red-booth bar-and-restaurant. Christmas decorations all over.\nSebastian steps in. Immediately beelining over --\nBOSS"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "Seb."
+  },
+  {
+   "type": "stage direction",
+   "text": "SEBASTIAN\n(putting on a smile)"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "Bill. Thanks for having me back."
+  },
+  {
+   "type": "stage direction",
+   "text": "BOSS"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                      12.",
+   "text": "Your welcome. Stick to the set list."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                       14."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Of course."
+  },
+  {
+   "type": "stage direction",
+   "text": "(under his breath as he heads\nto the piano)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Though I don't think they care what I\nplay."
+  },
+  {
+   "type": "speech",
+   "character": "BOSS",
+   "text": "I do, and I don't want to hear the free\njazz."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "How `bout one for you, one for me? Or two\nfor you, one for me?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(the Boss just glares)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Or all for you, none for me? Ok, that\nworks. Good deal."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian sits down at the keys. A WAITRESS passes by."
+  },
+  {
+   "type": "speech",
+   "character": "WAITRESS",
+   "text": "Well... Welcome back."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "There's a nice way to say that."
+  },
+  {
+   "type": "location",
+   "text": "With that -- he starts playing \"Jingle Bells\".\n28   INT. RESTAURANT - LATER\nThe restaurant's demographic has changed. It's now younger\nstragglers wandering in. Sebastian looks beyond bored. He\nfinishes \"We Wish You a Merry Christmas\". Zero applause.\nHe begins a new chart: \"Deck the Halls\". But something seems\nto come over him now. He's restless. Slowly, his playing\ndrifts off -- his fingers charting their own path...\nAnd then -- we hear a melody. The one Mia heard outside. The\none we'll refer to from now on as Mia and Sebastian's song...\nThe door opens -- and Mia steps in. She sees Sebastian at the\npiano. Is instantly struck by his playing. [MIA AND\nSEBASTIAN'S THEME]\nGradually -- all sounds but the music drop out. We drift away\nfrom reality. Even the walls seem to go slightly darker -- as\nthough Sebastian and Mia were all alone... He concludes his\npiece with a jumble of chords, his playing almost free jazz\nnow, as we pull back to real life...\n...and see the Boss looking on in scorn."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        15."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian finishes. Silence. Mia looks like the wind has been\nknocked out of her. Sebastian looks up for a second -- and\nsees her. They look at one another. Just a moment.\nThen -- the Boss taps Sebastian on the shoulder. WE STAY ON\nMia as she watches Sebastian rise with the Boss. We just see\nthe Boss talking to Sebastian, can't hear what is said. Then,\nwe get closer -- and realize:"
+  },
+  {
+   "type": "speech",
+   "character": "BOSS",
+   "text": "...every goddamned night."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian is silent. Then, doesn't want to have to beg but --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I'll stick to the set list, I promise --"
+  },
+  {
+   "type": "speech",
+   "character": "BOSS",
+   "text": "Too late. You're done."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You're not gonna find a better player. You\nknow that."
+  },
+  {
+   "type": "stage direction",
+   "text": "(leans in, and --)"
+  },
+  {
+   "type": "speech",
+   "character": "BOSS",
+   "text": "Do you think anyone here gives a shit?"
+  },
+  {
+   "type": "location",
+   "text": "With that, the Boss walks off. We linger on Sebastian. Anger\ngiving way -- to hurt. He starts hurrying toward the door.\nBACK TO Mia -- who didn't hear what was said. She watches\nSebastian -- takes a breath, so moved that she's about to lay\nit all out -- swoops in to corner him -- and --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I just wanted to say -- I saw your\nplaying, and I --"
+  },
+  {
+   "type": "location",
+   "text": "-- but Sebastian just walks right by -- his shoulder\nbumping against Mia's for an added measure of disdain.\nHe heads out the door. Slams it shut. Mia is left standing on\nher own. She looks like she's just been slapped.\nSMASH CUT TO BLACK."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                         16.\nSPRING"
+  },
+  {
+   "type": "location",
+   "text": "29   OMIT\n30   INT. AUDITION ROOMS - DAY\nMia auditions. Pilot season cattle-call -- a series of soul-\ncrushing try-outs. She's pandering to the hilt. Quick glimpses:"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "I don't like the fissure on the GT scan.\nDid you test for achromatopsia?"
+  },
+  {
+   "type": "location",
+   "text": "31   Then, a second audition --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "D.O.A. on 23rd, perp laughing his face off\nat P.D. Damn Miranda Rights."
+  },
+  {
+   "type": "location",
+   "text": "32   And finally, a third audition --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "This is my classroom. You don't like it,\nthe door's to my left."
+  },
+  {
+   "type": "stage direction",
+   "text": "(a well-dressed forty-year-old\nWOMAN reading from sides)"
+  },
+  {
+   "type": "speech",
+   "character": "READER (O.S.)",
+   "text": "Lady why you be trippin' like that?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "No, Jamal. You be trippin'."
+  },
+  {
+   "type": "location",
+   "text": "34   EXT. PARTY - DAY\nMia wanders around another party. A BAD 80's COVER BAND plays."
+  },
+  {
+   "type": "speech",
+   "character": "TRACY",
+   "text": "There you are! You need to meet someone!\nCarlo, this is Mia. Mia, Carlo's a writer.\nCARLO                           TRACY"
+  },
+  {
+   "type": "location",
+   "text": "Nice to meet you, Mia.          He's got projects all over"
+  },
+  {
+   "type": "speech",
+   "character": "TRACY",
+   "text": "town."
+  },
+  {
+   "type": "stage direction",
+   "text": "(shrugs, faux-modest)"
+  },
+  {
+   "type": "speech",
+   "character": "CARLO",
+   "text": "They say I have a knack for world-building."
+  },
+  {
+   "type": "stage direction",
+   "text": "(takes this in; then --)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Congratulations. I have to grab a drink..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        17."
+  },
+  {
+   "type": "location",
+   "text": "She slips away. Presses toward the bar. The music gets louder,\nmore obnoxious. She peers toward the band to get a look...\nAnd then she sees him. Sebastian.\nPlaying keyboard-guitar for the band. Dressed up like his band-\nmates in a bright polyester outfit. And hating every second.\nThe band finishes, and the SINGER addresses the (thin) crowd."
+  },
+  {
+   "type": "speech",
+   "character": "SINGER",
+   "text": "Alright, one more for y'all before we\nbreak. Do I hear any requests?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "\"I Ran\"."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian turns. Sees Mia, looking at him with a defiant grin,\nenjoying her power. He thinks -- then recognizes the face."
+  },
+  {
+   "type": "speech",
+   "character": "SINGER",
+   "text": "\"I Ran\" it is."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Sebastian)"
+  },
+  {
+   "type": "speech",
+   "character": "SINGER",
+   "text": "Wanna start us off, piano-man?"
+  },
+  {
+   "type": "location",
+   "text": "Sebastian stays silent. Mortified. Finally, so reluctant, he\ntaps his keyboard to count the band in and begins playing.\nOn the keys, it's a single note, repeated measure after measure.\nMia knew this. Sebastian looks at her. She smiles right back."
+  },
+  {
+   "type": "speech",
+   "character": "SINGER (CONT'D)",
+   "text": "I walked along the avenue..."
+  },
+  {
+   "type": "location",
+   "text": "35   EXT. PARTY / INT. HOUSE - MOMENTS LATER\nSet break. Sebastian hurries from the keys -- enters the house,\nlooks both ways, finally spots Mia and --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Ok. I remember you."
+  },
+  {
+   "type": "location",
+   "text": "Mia looks at him. One eyebrow raised. Yeah?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "And I'm sorry if I was curt that night."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "\"Curt\"?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Ok I was an asshole. I can admit that."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                       18."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Ok."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "But requesting \"I Ran\" from a serious\nmusician -- it's too far."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "My God. Did you just call yourself \"a\nserious musician\"?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(beat)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I don't think so."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Can I borrow what you're wearing?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Why?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Because I have an audition next week. I'm\nplaying a serious fire-fighter."
+  },
+  {
+   "type": "stage direction",
+   "text": "(irritation building --)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "So you're an actress. That makes sense.\nHave I seen you in anything?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Uh... The coffee shop on the Warner\nBrothers lot. That's a classic."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Oh, you're a barista. Well now I see how\nyou can look down on me from all the way\nup there."
+  },
+  {
+   "type": "stage direction",
+   "text": "(popping in from nowhere)"
+  },
+  {
+   "type": "speech",
+   "character": "SINGER",
+   "text": "Sebastian. Second set."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian looks at Mia. She smirks. Pleased. The Singer walks\noff."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "He doesn't tell me what to do."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "He just told you what to do."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I let him."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                          19."
+  },
+  {
+   "type": "location",
+   "text": "A beat."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "What's your name?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Mia."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Mia. Guess I'll see you in the movies."
+  },
+  {
+   "type": "location",
+   "text": "He heads back to the keys, and the band resumes:"
+  },
+  {
+   "type": "speech",
+   "character": "SINGER",
+   "text": "Never seen you lookin' so lovely as you\ndid tonight..."
+  },
+  {
+   "type": "location",
+   "text": "36   EXT. PARTY / STREET - NIGHT\nThe party's finished. Sebastian exits, pulling out his keys,\nas we DRIFT and see a long line to the VALET. Standing way in\nthe back, waiting, is Mia. She's stuck once again with CARLO,\nwho's regaling her --"
+  },
+  {
+   "type": "speech",
+   "character": "CARLO",
+   "text": "...Goldilocks from the point of view of\nthe bears. Home-invasion thriller. Fox\nand Warners are going crazy for it."
+  },
+  {
+   "type": "location",
+   "text": "Mia spots Sebastian, passing by the Valet with his keys."
+  },
+  {
+   "type": "speech",
+   "character": "CARLO (CONT'D)",
+   "text": "...We're going after Charlize. For the\nbear. We're flipping it. Feels like a\nfranchise. But the thing is it's grounded."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Sebastian)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "George Michael!"
+  },
+  {
+   "type": "location",
+   "text": "Sebastian stops. Looks at her. Surprised."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You again."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Did you just get your keys?"
+  },
+  {
+   "type": "location",
+   "text": "Sebastian thinks. Sees the Valet. Playing it off --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...Yeah."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                       20."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Can you grab mine?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...Which one is it?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "The Prius."
+  },
+  {
+   "type": "location",
+   "text": "A beat. Sebastian turns to the Valet's box. Motions to the\nValet: Sorry. One second. Looks. All the keys are Prius keys."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "The one with the green ribbon."
+  },
+  {
+   "type": "location",
+   "text": "Another beat. Sebastian finds it. Grabs it.\n37   EXT. STREET - NIGHT\nMia and Sebastian trudge up a hill lined with cars. Mia aims\nher key fob. No beep. Sebastian points his own keys, also\naiming for a beep. Silence. They've been at this for a while."
+  },
+  {
+   "type": "stage direction",
+   "text": "(almost tripping in her heels)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Shit..."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Those look comfortable."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "They are...n't."
+  },
+  {
+   "type": "location",
+   "text": "A beat. She aims again. No beep."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Thank you for saving the day back there."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You didn't give me much of a choice."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Strange that we keep running into each\nother."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "It is strange. Maybe it means something."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I doubt it."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Yeah I don't think so either."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        21."
+  },
+  {
+   "type": "location",
+   "text": "On that, Mia aims again. As always -- no beep. Noticing --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Put the clicker under your chin."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "What?"
+  },
+  {
+   "type": "location",
+   "text": "Sebastian demonstrates with his fob. He looks idiotic."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "It turns your head into an antenna.\nProbably gives you cancer, but you find\nyour car more quickly."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You don't live as long, but you get\nthings done faster, so it all evens out."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Oh my God."
+  },
+  {
+   "type": "location",
+   "text": "Just then, they reach a clearing -- AND THE CITY SKYLINE\nAPPEARS BELOW. A ribbon of lights, stretching as far as you\ncan see. It's the most romantic sight imaginable. They look\nat each other. A beat. And then --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Eh."
+  },
+  {
+   "type": "location",
+   "text": "They walk on, the lights shimmering behind."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Not much to look at."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Agreed. I've seen better."
+  },
+  {
+   "type": "location",
+   "text": "And on that -- they SING. [A LOVELY NIGHT]\nMia and Sebastian try to downplay the romanticism of this\nsetting, this moment -- being lost here, at night, alone\ntogether, atop a hill, the city glittering before them. It's\n\"no big deal\", nothing they haven't seen or felt before --\nbecause, after all, there's no chance for romance between\nthem...\nOf course, the music, swelling and building, suggests\notherwise. Mia tires of her heels, finds a bench and fishes\nfor flats in her handbag. Sebastian sits beside her as she\nslips the flats on. They look at each other, suspicious..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        22."
+  },
+  {
+   "type": "location",
+   "text": "He moves his foot. She moves hers. They look at each other\nagain. Still suspicious...\nHe moves again. She moves again. They seem to be moving in\nsync -- without their even wanting to...\nAnd -- bit by bit -- before our eyes -- they've almost\nslipped into DANCE...\nSebastian rises. Mia rises as well. The two look at each\nother. Run back to the bench, hop atop it -- the lights\nstretch out like a magic carpet. They share a moment -- share\na look -- jump off -- AND START REALLY DANCING NOW...\nMia does a move, Sebastian responds. Sebastian does a move, Mia\nshakes her head: \"Nope\". They make the road their own, growing\nmore and more energized, as surprised as we are to find --\n...that they can really dance together.\nJust as this starts to look like a blossoming romance, real\njoy peeking through, our two heroes getting closer and closer\nand closer, looking at each other almost giddily...\n...a sound cuts through. It's a CELL PHONE ring.\nMia and Sebastian turn -- to her handbag, back by the bench.\nSnapped out of it, Mia heads over and pulls out her cell."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Hey... Greg...? Can you hear me...? Yeah,\nI'm just leaving now... K, see you soon..."
+  },
+  {
+   "type": "location",
+   "text": "She hangs up. Looks at Sebastian. An awkward silence. Finally --\nshe presses her fob again. Puts it under her chin this time. A\nBEEP can be heard. They see her Prius."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Ah. Great... Well... Do you want a ride\nto your car?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "No, that's fine... Thanks..."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "...Ok..."
+  },
+  {
+   "type": "location",
+   "text": "Not sure what else to say, she heads to her vehicle. Waves."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Night."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian waves back. Mia drives off. Fast. Silence..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        23.\nLooking even more disappointed than he thought he'd be,\nSebastian walks on for a bit -- then retreats back down."
+  },
+  {
+   "type": "location",
+   "text": "A37   Comes to a stop across from the party, and we see his Riviera --"
+  },
+  {
+   "type": "stage direction",
+   "text": "right, it seems, where he knew it was all along. He pulls out\nhis keys -- they don't have a clicker after all."
+  },
+  {
+   "type": "location",
+   "text": "38    OMIT\n39    INT. COFFEE SHOP - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "CLOSE on --\nCUSTOMER"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Are these pastries gluten-free?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia's at work. A typically chaotic day."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "No..."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUSTOMER"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "What?? I want a refund."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia nods, heads to the Manager --"
+  },
+  {
+   "type": "speech",
+   "character": "MANAGER",
+   "text": "You're closing up Friday."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I have an audition. Remember?"
+  },
+  {
+   "type": "speech",
+   "character": "MANAGER",
+   "text": "Do I look like I care? Reschedule it."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "But you said --"
+  },
+  {
+   "type": "speech",
+   "character": "MANAGER",
+   "text": "And fix your apron."
+  },
+  {
+   "type": "stage direction",
+   "text": "With that, the Manager walks off. Mia is silent for a moment\n-- wants to talk back but needs this job -- then turns -- and\nsees Sebastian at the counter."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "...Hi."
+  },
+  {
+   "type": "stage direction",
+   "text": "(then)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "What are you doing here?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Meetings. Studio heads."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                       24."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Uh-huh. How'd you get on the lot?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Piece of cake."
+  },
+  {
+   "type": "location",
+   "text": "Mia looks at him. He's sweating through his shirt. A beat."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Actually it took me four hours and I\nended up running. We probably have twenty\nminutes before the guy finds me. You got\na break coming up?"
+  },
+  {
+   "type": "location",
+   "text": "Mia laughs. A moment."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I'm off in ten."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Great. I'll hide in the bathroom."
+  },
+  {
+   "type": "location",
+   "text": "40   EXT. COFFEE SHOP / STUDIO LOT - DAY\nMia exits, apron off. She and Sebastian start walking. She points\nacross the street -- to the fa\u00e7ade of a Parisian apartment."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "That's the window Ingrid Bergman and\nHumphrey Bogart looked out of in\nCasablanca."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian nods. They start walking."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "What's your Bogart's name...?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Mia looks at him)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Is it Greg?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Yeah. Greg."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "How long have...?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "We've been seeing each other for a few\nmonths."
+  },
+  {
+   "type": "location",
+   "text": "An awkward beat. They pass a wooden SALOON -- where a WESTERN\nis being shot. Extras in COWBOY costumes drink coffee on the\nsteps."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        25."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "I love this stuff. Makes coming to work\neasier."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I know what you mean. I get breakfast\nfive miles out of the way just to sit\noutside a jazz club."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Oh yeah?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "It was called Van Beek. The swing bands\nplayed there. Count Basie. Chick Webb."
+  },
+  {
+   "type": "stage direction",
+   "text": "(then,)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "It's a samba-tapas place now."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "A what?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Samba-tapas. It's... Exactly. The joke's on\nhistory."
+  },
+  {
+   "type": "location",
+   "text": "Mia laughs."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Anyway, that's L.A. They worship everything\nand they value nothing."
+  },
+  {
+   "type": "location",
+   "text": "They reach a patch of green. Another shoot. A P.A. yells out:"
+  },
+  {
+   "type": "stage direction",
+   "text": "P.A."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Clear the frame!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Sebastian)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "We need to wait here."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I know. They shoot movies on my street.\n\"C-stands.\" \"Apple box.\" \"Don't forget to\nsign out.\""
+  },
+  {
+   "type": "location",
+   "text": "Mia laughs. A beat."
+  },
+  {
+   "type": "stage direction",
+   "text": "A.D. (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Quiet on set!"
+  },
+  {
+   "type": "location",
+   "text": "Mia and Sebastian watch the cameras roll. Then, in a whisper --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "How'd you get into all this?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                          26."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Into...? Oh -- I -- my aunt was an\nactress. She was in this traveling\ntheater company... And there was this\nlittle library across the street from my\nhouse when I was growing up. This was\nBoulder City, Nevada -- every house\nlooked exactly the same. I was ten and\nalready I needed to get out. And one day,\nmy aunt flew into town, and she showed me\nthe library's old-movie section. We spent\na whole day watching one after the other.\nBringing Up Baby. Notorious. Casablanca."
+  },
+  {
+   "type": "stage direction",
+   "text": "(a beat; then,)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I never knew the world was so big."
+  },
+  {
+   "type": "stage direction",
+   "text": "DIRECTOR (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Cut!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia and Sebastian resume walking. Now, at full volume --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I started putting on plays in my garage.\nI'd write the scripts and print up\nprograms, and she'd give me props to use\nfrom wherever she'd just been -- New\nYork, London, Paris. And then she'd jet\noff again and I wouldn't hear from her\nfor another year."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Who would you invite to watch? Your\nparents?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "God no -- I didn't invite anyone. That\nwould have been terrifying."
+  },
+  {
+   "type": "location",
+   "text": "C40   CUT TO: The entrance to a giant soundstage."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Honestly, I wish I loved something else.\nI've tried so hard to want other things."
+  },
+  {
+   "type": "stage direction",
+   "text": "She and Sebastian stop. Peer inside the stage."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "I left school after two years to come here,\nmy fourth manager just dropped me, and my\nlast audition was for a teen soap pitched\nas Dangerous Minds meets The O.C."
+  },
+  {
+   "type": "stage direction",
+   "text": "(a beat; then, deadpan --)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Should've been a lawyer."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        27.\nThey resume walking."
+  },
+  {
+   "type": "location",
+   "text": "D40   CUT TO: A row of closed soundstages, sandy-tan against the"
+  },
+  {
+   "type": "stage direction",
+   "text": "bright blue sky."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...`Cause the world needs more lawyers."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Well it doesn't need more actresses."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You're not just an actress."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "What do you mean, \"just an actress\"?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You said it yourself, you're a child-\nprodigy playwright."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "That is not what I said."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You're too modest to say it but it's\ntrue. So you could write your own roles.\nWrite something that's as interesting as\nyou are."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Last thing I wrote was a stand-up routine\nfor an open-mic night. It was horrible."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "All I'm saying is -- Louis Armstrong\ncould have played the marching-band\ncharts he was given. What did he do\ninstead? He made history."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Ok, I'll stop auditioning and make\nhistory instead."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian laughs."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Anyway -- I'm getting a feeling there's\nsomething I should tell you..."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Yeah?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                       28."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I hate jazz."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian stops. Turns to her."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "What does that mean? \"I hate jazz\"?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "It means when I listen to it I don't like\nit."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "But it's such a blanket statement. It's\nlike saying \"I hate animals\"."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I do hate some animals."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Do you need to be anywhere right now?"
+  },
+  {
+   "type": "location",
+   "text": "Mia looks at him. We hear DRUMS. A swinging ride pattern. And\nwe're in --\n41   INT. LIGHTHOUSE CAFE - DAY\n-- an old-school JAZZ CLUB. It's almost empty, only aged JAZZ\nCATS here -- except for Mia and Sebastian, watching a QUARTET..."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Most people say they hate jazz because\nthey don't have context. They don't get\nwhere it came from. All these people\npacked into flophouses in New Orleans,\nspeaking five different languages, and\njazz was how they talked to each other."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I thought it was just Kenny G."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...What?"
+  },
+  {
+   "type": "location",
+   "text": "Mia looks at him. Already knows just how to get to him."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I associate it with facials. It's\nrelaxing."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "It's not relaxing! Sid Bechet got into a\ngunfight `cause somebody told him he\nplayed a wrong note!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                           29."
+  },
+  {
+   "type": "stage direction",
+   "text": "(laying it on thick)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Right, but it's good to talk over. Where\nI grew up there's this jazz station\nthey'd play at cocktail parties whenever\nthey served the salami and cheese."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Mia. These are things you can't unsay."
+  },
+  {
+   "type": "location",
+   "text": "She bursts into laughter. Sebastian points to the band --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "It's not cocktail music -- it's a high-\nwire act. These guys are performing and\ncomposing and rearranging all at once."
+  },
+  {
+   "type": "location",
+   "text": "A beat. Mia looks at the band. We DRIFT over the instruments..."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "That's why you need to be in the space\nand see what's at stake. This whole thing\n-- it's dying. In twenty minutes they'll\nhead off to cut commercial sessions or do\npit at the Pantages `cause they have to --\nbut when I have my own place -- my club --\nthey'll play whatever they want."
+  },
+  {
+   "type": "location",
+   "text": "Mia looks at Sebastian. Her laughter has subsided. She can\nsee something in him now -- the same passion he's speaking of..."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Your club?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...It's gonna be the old Van Beek. I'm\ngetting the lease back. It'll be perfect."
+  },
+  {
+   "type": "location",
+   "text": "He watches the band. Lost in the sound. Then -- sincere --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "The world tells everyone to move on. Says\nthe music's had its moment. But I love it\ntoo much. I'm not moving on."
+  },
+  {
+   "type": "location",
+   "text": "The band finishes. The ride cymbal sizzles in the air..."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "So?"
+  },
+  {
+   "type": "location",
+   "text": "He looks at Mia. She's visibly moved.\nJust then -- we hear a BEEP. Mia looks at her phone."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                      30."
+  },
+  {
+   "type": "location",
+   "text": "42   INT. SIDE CORRIDOR - LIGHTHOUSE CAFE - CONTINUOUS"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Hi, I just missed a call..."
+  },
+  {
+   "type": "location",
+   "text": "43   INT. LIGHTHOUSE CAFE - MOMENTS LATER\nMia steps out, dazed. Sebastian's listening to a new tune. He\nspots Mia, turns to her -- as, shouting over the music --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "I got a call-back!"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Really? For what?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "That show I told you about."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Dangerous Minds meets The O.C.?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Right. It's -- actually more like Rebel\nWithout a Cause."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "That's amazing! \"I got the bulletsssss!\""
+  },
+  {
+   "type": "location",
+   "text": "Mia laughs. But Sebastian can tell something in her laugh..."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "You've seen it, right?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Obviously."
+  },
+  {
+   "type": "stage direction",
+   "text": "(a beat; then --)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "What? You're the movie person."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "It's the one I lie about."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Come on. You can't do this audition and\nnever see Rebel. The theater near me's\nplaying it. If you want -- I can take\nyou. For research."
+  },
+  {
+   "type": "stage direction",
+   "text": "(considering this)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "...Ok."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                          31."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "10pm Monday at the Rialto. Cool?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Ok."
+  },
+  {
+   "type": "stage direction",
+   "text": "(another nod, taking it in)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "For research."
+  },
+  {
+   "type": "location",
+   "text": "Mia looks at him -- he looks at her -- each of them\nsuppressing a newfound giddiness... And on that --\n44   EXT. LIGHTHOUSE CAFE - EVENING\nMia and Sebastian exit. Wave \"good-bye\". We FOLLOW Sebastian.\nHe rounds the corner, nears the Hermosa Beach pier...\n...and begins to SING. [CITY OF STARS] Lifted by a strange\nnew feeling -- a feeling he wasn't expecting. The feeling\nthat perhaps -- just perhaps -- he's falling in love...\nHe gazes out at the sea, the purple sky. Dances with an OLD\nCOUPLE, then continues on his way, as though caught in a\ndream. There's an uncertainty in his singing -- he's not sure\nif this dream will sustain. But for now, it's a beautiful\nfeeling...\nThe MUSIC simmers down -- and WE FADE OUT.\n45   EXT. AUDITION BUILDING - DAY\nA Pasadena building. As Mia approaches the door, another cell\nring. It's her MOM. This time, Mia is happy to get the call:"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Hi, Mom!"
+  },
+  {
+   "type": "speech",
+   "character": "MIA'S MOM (O.S.)",
+   "text": "Hi, sweetie. How are you?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Great, actually: I got a call-back on a pilot."
+  },
+  {
+   "type": "speech",
+   "character": "MIA'S MOM (O.S.)",
+   "text": "Oh my God! You're going to be on TV??"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Well -- it's not picked up yet."
+  },
+  {
+   "type": "speech",
+   "character": "MIA'S MOM (O.S.)",
+   "text": "Not picked up?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "First they make the pilot, then if they\nlike the pilot it goes on TV."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                           32."
+  },
+  {
+   "type": "speech",
+   "character": "MIA'S MOM (O.S.)",
+   "text": "And you're in the pilot?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Well, no, I have a call-back."
+  },
+  {
+   "type": "speech",
+   "character": "MIA'S MOM (O.S.)",
+   "text": "I see... Didn't you audition for a TV\nthing last week?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "It's another audition."
+  },
+  {
+   "type": "speech",
+   "character": "MIA'S MOM (O.S.)",
+   "text": "I see... So you might get a role in a\nthing that might one day be put on TV..."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "...Well when you put it like that it\nsounds like a huge accomplishment."
+  },
+  {
+   "type": "speech",
+   "character": "MIA'S MOM (O.S.)",
+   "text": "No, I don't mean that, it's so exciting.\nWhat channel? ABC? HBO?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Oxygen."
+  },
+  {
+   "type": "speech",
+   "character": "MIA'S MOM (O.S.)",
+   "text": "Oxygen?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "You know what, I have to go. I love you."
+  },
+  {
+   "type": "location",
+   "text": "She hangs up. Takes a deep breath. Enters the building.\n46   INT. WAITING ROOM - MOMENTS LATER\nMia sits, starts reviewing her script.\nLooks around her -- the room is filled with ACTRESSES silently\nMOUTHING THEIR LINES. It's a bizarre sight: a dozen women\nmoving their mouths, with no sound coming out at all.\nWhat's more, they're all in variations of the same type of\ncostume: Michelle Pfeiffer's leather jacket from Dangerous\nMinds.\nA few stare at Mia, sizing her up. In the corner, another\none of them GRUNTS while performing stretches. Then -- a\nDOOR to the side opens, and Mia can hear --"
+  },
+  {
+   "type": "speech",
+   "character": "DIRECTOR (O.S.)",
+   "text": "...We'll be seeing you very soon."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        33."
+  },
+  {
+   "type": "location",
+   "text": "An ACTRESS exits. Absolutely beaming. And then, a bored voice --"
+  },
+  {
+   "type": "speech",
+   "character": "ASSISTANT",
+   "text": "Mia Dolan?"
+  },
+  {
+   "type": "location",
+   "text": "47   INT. AUDITION ROOM - MOMENTS LATER\nMia steps in. The pilot's DIRECTOR is seated at a table,\nlooking in his folder at Mia's head-shot. He looks up at Mia."
+  },
+  {
+   "type": "speech",
+   "character": "DIRECTOR",
+   "text": "Whenever you're ready."
+  },
+  {
+   "type": "location",
+   "text": "Mia breathes in. Heart pounding. Sweat percolating. Has been\npracticing this for days now.\nFighting her nerves, she begins --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Two options. Follow my rules, or follow\nmy rules. Kapish? You want to bully,\nyou'd best be ready to get bullied --"
+  },
+  {
+   "type": "speech",
+   "character": "DIRECTOR",
+   "text": "Thanks."
+  },
+  {
+   "type": "location",
+   "text": "Mia is taken aback."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I can do it another way --"
+  },
+  {
+   "type": "speech",
+   "character": "DIRECTOR",
+   "text": "No, thanks, that was great."
+  },
+  {
+   "type": "location",
+   "text": "We linger on Mia for a moment, and then --\n48   EXT. PARKING LOT / INT. MIA'S CAR - DAY\nCrestfallen, humiliated, Mia hurries to her car. Sees a voice-\nmail on her cell. Plays it --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA'S MOM (O.S.)",
+   "text": "Dad just helped me find Oxygen on the\nguide! So exciting! So will you be\ngetting health insurance now?"
+  },
+  {
+   "type": "location",
+   "text": "Mia switches her phone off and drives. Clenches her jaw.\nTurns left and sees a movie theater. The Rialto. Manages a\nsmile.\nSomething she can remain upbeat about..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        34."
+  },
+  {
+   "type": "location",
+   "text": "49   INT. MIA'S APARTMENT - DAY\nMia in her room, sorting through outfits. Slips into jeans --"
+  },
+  {
+   "type": "speech",
+   "character": "ALEXIS",
+   "text": "Mia?"
+  },
+  {
+   "type": "location",
+   "text": "-- then spins around, startled. Alexis is at the door, eating\nFritos. Has been crying."
+  },
+  {
+   "type": "stage direction",
+   "text": "(with difficulty)"
+  },
+  {
+   "type": "speech",
+   "character": "ALEXIS (CONT'D)",
+   "text": "Greg's here..."
+  },
+  {
+   "type": "location",
+   "text": "Mia looks at Alexis -- completely confused. Then -- Greg steps\nout behind Alexis. Waves to her."
+  },
+  {
+   "type": "speech",
+   "character": "GREG",
+   "text": "Hey... I'm parked out front. But we\nshould hurry, my brother just landed."
+  },
+  {
+   "type": "location",
+   "text": "Mia looks at him, still confused. Then remembers."
+  },
+  {
+   "type": "speech",
+   "character": "GREG (CONT'D)",
+   "text": "Did you forget?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Shit. No. Yes. I'll change..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(smiles)"
+  },
+  {
+   "type": "speech",
+   "character": "GREG",
+   "text": "It's ok."
+  },
+  {
+   "type": "location",
+   "text": "Mia closes her door -- turns -- and we see her face. She's\ncrushed. She goes to call Sebastian -- then freezes.\nRemembers something else. She never got his number...\nWe linger on her face, as, on his phone outside her door --"
+  },
+  {
+   "type": "speech",
+   "character": "GREG (O.S.) (CONT'D)",
+   "text": "Josh! Yep, just picking Mia up now. Will\nbe there in twenty."
+  },
+  {
+   "type": "location",
+   "text": "50   INT. LIGHTHOUSE CAFE - NIGHT\nSebastian's playing a jam session. Excited, distracted. 10pm\ncan't come quickly enough.\n51   INT. JAR - NIGHT\nMia, in a green dress, with Greg, his brother JOSH, and\nJosh's FIANCEE. The restaurant is posh, modern. Josh wears a\nBrooks Brothers suit: he seems better-off than his brother."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                      35."
+  },
+  {
+   "type": "speech",
+   "character": "JOSH",
+   "text": "That's right -- but now we've got a\nsurround-sound set-up, so it's like --"
+  },
+  {
+   "type": "speech",
+   "character": "FIANCEE",
+   "text": "It's like being in a movie theater."
+  },
+  {
+   "type": "speech",
+   "character": "JOSH",
+   "text": "It's better than going to a theater,\nreally. You know theaters these days --"
+  },
+  {
+   "type": "speech",
+   "character": "GREG",
+   "text": "Oh, sure --"
+  },
+  {
+   "type": "speech",
+   "character": "JOSH",
+   "text": "-- they're so dirty, and they're either\ntoo hot or too cold, and there's always\npeople talking, which is just --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(his phone buzzes)"
+  },
+  {
+   "type": "speech",
+   "character": "JOSH",
+   "text": "-- just so annoying, I mean you're trying\nto watch a movie -- one second --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(opens phone)"
+  },
+  {
+   "type": "speech",
+   "character": "JOSH",
+   "text": "Hello?..."
+  },
+  {
+   "type": "location",
+   "text": "His Fianc\u00e9e smiles, looks at Greg and Mia, proud."
+  },
+  {
+   "type": "speech",
+   "character": "FIANCEE",
+   "text": "Probably work."
+  },
+  {
+   "type": "speech",
+   "character": "JOSH",
+   "text": "Yeah, I'll have to call you back."
+  },
+  {
+   "type": "stage direction",
+   "text": "(closes and pockets his phone)"
+  },
+  {
+   "type": "speech",
+   "character": "JOSH",
+   "text": "So, yeah, we love it."
+  },
+  {
+   "type": "location",
+   "text": "Awkward silence. Mia hasn't spoken a word.\n52   EXT. RIALTO MOVIE THEATER - NIGHT\nSebastian paces. People shuffle in. He looks. No sign of Mia.\n53   INT. JAR - NIGHT\nMidway through the meal.\nMia is bored, restless, uneasy."
+  },
+  {
+   "type": "speech",
+   "character": "JOSH (CONT'D)",
+   "text": "One word for you. Nicaragua."
+  },
+  {
+   "type": "speech",
+   "character": "GREG",
+   "text": "I've never heard anyone say that. Was it\namazing?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                          36."
+  },
+  {
+   "type": "speech",
+   "character": "JOSH",
+   "text": "Oh my God. A five-star jungle eco-resort.\nIt was unbelievable."
+  },
+  {
+   "type": "location",
+   "text": "Mia stays quiet, in her own thoughts, the voices around her\nfading away. And then she hears it -- coming from the\nrestaurant speakers, peeking out subtly at first: the melody\nwe now know so well... Her and Sebastian's song.\nShe FREEZES. The radio music seems to have morphed into the\nmelody, and the tune stirs something deep within her...\nA few seconds pass. And then she can't deny it any longer.\nIt's clear as day to her now. She rises from her seat --"
+  },
+  {
+   "type": "speech",
+   "character": "GREG",
+   "text": "Mia?"
+  },
+  {
+   "type": "location",
+   "text": "-- looks at Greg --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I'm sorry."
+  },
+  {
+   "type": "location",
+   "text": "-- and -- as the sounds of a FULL ORCHESTRA swoop in --\n-- RUNS out of the restaurant as fast as she can.\n54   EXT. JAR - NIGHT\nThe MUSIC SWELLS, strings carrying us through and lifting\nMia's spirits as she runs down the street in her green dress,\nfor once absolutely sure of what she's doing...\n55   INT. RIALTO MOVIE THEATER - NIGHT\nInside the Rialto, Sebastian settling into his seat, the show\nabout to begin. He's visibly disappointed that he's alone. The\nlights dim. Projector light cuts through the darkness. And\nthen, as the movie's credits start up, Sebastian spots, out of\nthe corner of his eye, a figure in the aisle...\nHe looks. The figure turns. Looks at him. It's Mia.\nAnd, caught like a freeze-frame in the projector   light, her\ngreen dress incandescent, the giant movie screen   behind her\nlike a great piece of back-projection, she looks   more beautiful\nthan ever right now. A true old-fashioned screen   siren.\nSebastian's eyes go wide. He's surprised. And thrilled. He\nwaves. Mia hurries toward him. Takes the seat next to his,\nas Rebel Without a Cause begins..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                           37."
+  },
+  {
+   "type": "location",
+   "text": "56    INT. RIALTO MOVIE THEATER - LATER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Half an hour has passed. The movie plays, lights flickering\non Mia and Sebastian's darkened faces.\nHe puts his arm on the armrest, she moves hers nervously.\nHe scoots to his right, she scoots back.\nShe edges her elbow onto the armrest, he moves his arm.\nInch by inch, their bodies grow closer. Hands approaching,\nbreaths quickening, hearts pounding...\n...until finally their hands touch...\nAnd then, suddenly -- just as James Dean and Natalie Wood\narrive at Griffith Observatory, and Mia and Sebastian seem\nabout to kiss --\n-- burn marks streak their way across the image.\nThe screen goes blank.\nSilence. The lights go on. Mia and Sebastian turn around.\nAUDIENCE MEMBERS start murmuring. Sebastian can barely\nbelieve his bad luck.\nBut then Mia turns to him. Energized."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "I have an idea."
+  },
+  {
+   "type": "location",
+   "text": "57    EXT. ROAD - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian's car, traveling up a winding road, stars glittering\nabove it, the lights of Los Angeles glittering below it. The sky\nis a deep, painted blue. Music plays... [PLANETARIUM]\nThe car is bending around the turns, making its way up to..."
+  },
+  {
+   "type": "location",
+   "text": "A57   ...the real Griffith Observatory. There, our MUSIC crests."
+  },
+  {
+   "type": "stage direction",
+   "text": "Our two characters get out of the car and wander, searching\nfor an open entrance. They find one -- and sneak in..."
+  },
+  {
+   "type": "location",
+   "text": "58    INT. GRIFFITH OBSERVATORY - CONTINUOUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "They ascend a staircase. Make their way past the exhibits --\nthe Tesla coil shooting off electric bolts.\nThey reach the pendulum, gaze up at the mural above it, look at\none another. Circle the pendulum, and then -- so tenderly, so\nnervously...\nRevision                          38.\n...they begin to DANCE.\nThis is a dance that fulfills all the promise in their\nearlier duet. They circle the floor, gently and gracefully.\nThe music BUILDS, and they drift into..."
+  },
+  {
+   "type": "location",
+   "text": "A58   ...the PLANETARIUM. It's darkened, empty. Mia removes her"
+  },
+  {
+   "type": "stage direction",
+   "text": "shoes, feels the soft carpet under her feet. Turns on the\nprojector. The screen STARTS TO GLOW. She and Sebastian take\nin the sight -- the STARS and GALAXIES...\nEnchanted, they look at one another, the lights from the\nscreen reflected on their faces. They approach, as though\nabout to kiss... When --\n-- Mia's shoes LIFT UP. Float toward the ceiling -- toward the\nstar-filled screen. She and Sebastian trade looks. Realize.\nAnd then they too begin to FLOAT...\n...RISING from the floor, nothing stopping them. SOARING\npast the views of comets and moons and nebulae. Eyes wide,\ntheir emotions seized, as they HOLD EACH OTHER TIGHT...\nAnd so unspools a gravity-free dance.\nMia and Sebastian SPIN and TWIRL through the planetarium as\nthough they themselves were in outer space, flying through\nthe cosmos. The music carries them higher and higher, and\ntheir spirits likewise soar -- JOYOUS, EXUBERANT -- until,\nfinally...\n...the music SOFTENS.\nMia and Sebastian drift back to the floor like feathers. They\nland on a pair of seats.\nThere, once again seated like audience members at a movie, they\nturn and look into each other's eyes. The music picks back up\nfor the big finish, as the lovers lean in and -- in true movie-\nmovie old-Hollywood big-musical fashion --\n-- LOCK LIPS.\nIt's their first kiss, and it's a kiss to remember -- full of\nall the hope and yearning and terror and wonder of love's first\nblush. A swoon-worthy kiss, with the orchestra soaring and the\ncamera swooping in to catch the embrace in all its glory.\nOn this triumphant moment...\n...we IRIS FADE OUT.\nRevision                      39."
+  },
+  {
+   "type": "location",
+   "text": "59    OMIT\n60    INT. MIA'S APARTMENT - LIVING ROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia's scribbling in a notebook. It's dialogue. We see character\nheadings, scene headings. Seems to be some kind of a script...\nTRACY (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "What's that?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia turns. Tracy has wandered in -- pajamas, eating cereal."
+  },
+  {
+   "type": "speech",
+   "character": "TRACY (CONT'D)",
+   "text": "Is that a script?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "It's a play. I'm going to put it on myself."
+  },
+  {
+   "type": "stage direction",
+   "text": "ALEXIS (O.S.)\n(chiming in from her bedroom)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "A play? You better give us roles!"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Actually -- it's a -- it's a one-woman\nshow..."
+  },
+  {
+   "type": "stage direction",
+   "text": "A beat -- and then --\nAHHHHHHHHHHHHHHHHHHHHHHHHHHHT.\nHONKING outside the nearest window. It's a honk we recognize:"
+  },
+  {
+   "type": "speech",
+   "character": "TRACY",
+   "text": "...Is that gonna happen every time?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(glowing)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I think so."
+  },
+  {
+   "type": "location",
+   "text": "A60   OMIT\n61    EXT. MIA'S APARTMENT BUILDING - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia dashes out -- and LEAPS into Sebastian's car and into his\narms. They KISS -- giddy, emotional, as though they'd been\nseparated for years. Sebastian drives off -- when --\nMIA (O.S.) (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "It's one-way!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The car SCREECHES to a stop in front of a TRUCK going the\nopposite direction. Sebastian goes into REVERSE as Mia cracks\nup laughing. A BURST OF MUSIC as a title card pops on:\nRevision                          40.\nSUMMER\nThe MUSIC carries us through the following series of GLIMPSES:"
+  },
+  {
+   "type": "location",
+   "text": "62    -- Mia and Sebastian ambling past weathered 30's bungalows in"
+  },
+  {
+   "type": "stage direction",
+   "text": "BUNKER HILL..."
+  },
+  {
+   "type": "location",
+   "text": "63    -- Mia guiding Sebastian down a street peppered with SILENT-"
+  },
+  {
+   "type": "stage direction",
+   "text": "ERA HOMES, past old gas-lamps and palms..."
+  },
+  {
+   "type": "location",
+   "text": "65    -- VAN BEEK. Sebastian gestures to the \"TAPAS & TUNES\" sign."
+  },
+  {
+   "type": "stage direction",
+   "text": "Excitedly tries to deface it. Mia, aghast, pulls him back..."
+  },
+  {
+   "type": "location",
+   "text": "66    -- The HUNTINGTON GARDENS, where Mia and Sebastian gaze at"
+  },
+  {
+   "type": "stage direction",
+   "text": "the tiny forest..."
+  },
+  {
+   "type": "location",
+   "text": "A66   -- WATTS TOWERS, where the two lovers stroll and kiss...\n67    OMIT\n64    -- The GRAND CENTRAL MARKET, where they grab food...\n68    -- ANGEL'S FLIGHT at night, where they stumble and slip into"
+  },
+  {
+   "type": "stage direction",
+   "text": "a tipsy, love-soaked dance..."
+  },
+  {
+   "type": "location",
+   "text": "69    OMIT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Interspersed throughout, WE SEE IMAGES OF LOS ANGELES:\n1940's high-rises, green movie-movie lettering, ochre walls\nshaded by palm fronds, red flowers and Spanish missions, old\nlamps and Art Deco hotels. It's a gorgeous city, and the music\nonly makes it more gorgeous -- building and carrying us to..."
+  },
+  {
+   "type": "location",
+   "text": "70    INT. LIGHTHOUSE CAFE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "A Lighthouse JAM SESSION. Sebastian's at the keys, having a\nblast. The place is again mostly empty, but Mia is dancing her\nheart out. She shoots looks at Sebastian. He laughs, plays out\nfor her. The two of them are in their own world -- one of pure,\nunadulterated JOY...\nThe song ends. Sebastian rises, joins Mia. They sit down as\nthe band strikes up a new tune, and kiss.\nKEITH (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Sebastian?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia and Sebastian look up, startled. A YOUNG MAN, 35, is\nstanding next to them. Tall, fierce eyes. This is KEITH."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Keith?"
+  },
+  {
+   "type": "stage direction",
+   "text": "KEITH"
+  },
+  {
+   "type": "location",
+   "text": "Sebastian gets up. Gives him a hug. But Mia can sense an\nunease in Sebastian's eyes. It's a strained hug."
+  },
+  {
+   "type": "stage direction",
+   "text": "(explaining to Mia)"
+  },
+  {
+   "type": "location",
+   "text": "Hey, Mia.                         Hey...\nSebastian sits back down. Wants to end the conversation."
+  },
+  {
+   "type": "stage direction",
+   "text": "KEITH"
+  },
+  {
+   "type": "stage direction",
+   "text": "KEITH"
+  },
+  {
+   "type": "stage direction",
+   "text": "KEITH"
+  },
+  {
+   "type": "stage direction",
+   "text": "(after a beat)"
+  },
+  {
+   "type": "stage direction",
+   "text": "KEITH"
+  },
+  {
+   "type": "location",
+   "text": "Sebastian looks at Keith. A moment."
+  },
+  {
+   "type": "location",
+   "text": "Keith almost smiles. Expected this."
+  },
+  {
+   "type": "stage direction",
+   "text": "KEITH"
+  },
+  {
+   "type": "stage direction",
+   "text": "KEITH"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                           42."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Nice meeting you."
+  },
+  {
+   "type": "location",
+   "text": "Keith walks off. Mia and Sebastian look at each other. Then --\n71   INT. SEBASTIAN'S APARTMENT - NIGHT\nCLOSE ON MIA. She looks anxious. CLOSE ON Sebastian. He looks\nhead-over-heels in love."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "It's beautiful."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "...You're just saying that."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "No... I'm not."
+  },
+  {
+   "type": "location",
+   "text": "We PULL BACK -- and see a script on Mia's lap. She's just\nfinished reading Sebastian her play."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I don't know... Is the whole thing too\nnostalgic?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "That's the point."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "But do you think people will like it?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Fuck `em."
+  },
+  {
+   "type": "stage direction",
+   "text": "(laughs)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "You always say that."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I truly believe it."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Fine -- as long as you sit front-row\n`cause I'll probably throw up on the\nmiddle of the stage otherwise."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I'll be front-row."
+  },
+  {
+   "type": "location",
+   "text": "Mia looks at him. Smiles. It genuinely means the world to\nher. Then, a glow in her eyes, wants to reciprocate --"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                       43.\nMIA",
+   "text": "I made something for you."
+  },
+  {
+   "type": "location",
+   "text": "She hops off the bed, fishes through a bag. Pulls out a\ndrawing."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "What's that?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "It could be the name design. On the door."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Why does it say \"Seb's\"?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "That's what you should name it."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Never."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Sebastian, no one's going to a club called\n\"Chicken on a Stick\"."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You don't get it. Charlie Parker got the name\n\"Bird\" because he loved chicken. So my club's\ngonna be old-school jazz and beer and\nchicken. \"Chicken on a Stick\"."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "No. Drop the chicken. Drinks and jazz."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he rolls his eyes)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "And it's time to start looking for other\nplaces."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "It's gotta be Van Beek. I can't let them\nsamba all over its history."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Make your own history."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian looks at her. Appreciates that line. A beat. Then --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Your play's incredible."
+  },
+  {
+   "type": "location",
+   "text": "Mia smiles. He approaches her, sits by her side."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "The whole world from your bedroom? Who's\ndoing that?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                    44."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I'm doing that."
+  },
+  {
+   "type": "location",
+   "text": "They laugh."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "So who was that guy at the Lighthouse?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...Which guy?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "The one who offered you a gig."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You mean Keith? He's the worst."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Why was it weird between you two?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "It's always weird with him."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "He did offer you a job."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Right..."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Are you going to call him?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "No."
+  },
+  {
+   "type": "location",
+   "text": "A beat."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Ok..."
+  },
+  {
+   "type": "location",
+   "text": "A moment passes. They lie down, side by side."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Here's what we know. It's definitely\nChicken on a Stick --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Mia rolls her eyes)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "-- and your play is going to be a\ntriumph."
+  },
+  {
+   "type": "location",
+   "text": "She looks at him. He looks at her. A shared smile.\nAnd on that --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                       45."
+  },
+  {
+   "type": "location",
+   "text": "72   INT. SEBASTIAN'S APARTMENT - MORNING\nThe next morning. Sebastian is in bed. Hears snatches of Mia's\nvoice -- she's on her phone in the other room:"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (O.S.)",
+   "text": "...No, Mom, it's a one-woman show... No,\nI'm acting in it as well... No, I'm not\ngetting paid, I'm paying to do it..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(then,)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (O.S.)",
+   "text": "He's great... He's going to open his own\njazz club. It's going to be incredible..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(beat; then, softer --)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (O.S.)",
+   "text": "Well he has to get the money together\nfirst, and... He's figuring it out...\nYeah, it's just been a little tricky\nlately..."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian listens. Takes it in."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (O.S.) (CONT'D)",
+   "text": "Look -- he's going to find a way to open\nit and you're going to love it. Ok? How's\nDad?"
+  },
+  {
+   "type": "location",
+   "text": "On Sebastian. He thinks...\n73   INT. REHEARSAL SPACE - DAY\nSebastian enters. Keith's combo is assembled.\nIt's a sign-up practice room in the West Valley. There's a\ndrummer, electric bassist, and trumpeter: COLE, MALCOLM and\nTOM. They're more polished in their looks than Sebastian.\nWell-groomed beards, tighter jeans."
+  },
+  {
+   "type": "stage direction",
+   "text": "KEITH"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (O.S.) (CONT'D)",
+   "text": "Sebastian."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian approaches."
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "Didn't know if I'd see you today."
+  },
+  {
+   "type": "stage direction",
+   "text": "(a bit awkward)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Well... Here I am."
+  },
+  {
+   "type": "location",
+   "text": "A moment. Then --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Where's the piano?"
+  },
+  {
+   "type": "location",
+   "text": "Keith gestures -- to an electronic keyboard. Sebastian winces."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                     46.\nKEITH"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Here's the deal. We've got distribution\nwith Universal, got our own imprint.\nWe're about to go on the road. We can cut\nyou in for 1K a week while we tour, plus\nan equal share of any merchandise or\nticket revenue that comes in. Sound good?"
+  },
+  {
+   "type": "stage direction",
+   "text": "We see Sebastian's face. Taken aback."
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "Sebastian?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Yeah, that...that..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(beat)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...sounds good."
+  },
+  {
+   "type": "stage direction",
+   "text": "A moment. Keith smiles.\nKEITH"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Let's play, see how it feels."
+  },
+  {
+   "type": "stage direction",
+   "text": "He pulls out a guitar. Cole starts on drums. Keith joins in.\nMalcolm and Tom follow suit. Sebastian listens. It sounds like\nmodern jazz -- electronic in feel, but still jazz...\nSebastian approaches the keyboard. Joins -- slowly, one step\nat a time. Then begins playing out a bit more, his fingers\nstarting to race. Malcolm gives Keith a look: \"Damn\". Keith\ngives Malcolm a look back: \"I told you so.\" Bit by bit,\nSebastian eases into the groove. This isn't so bad...\nThen -- Keith moves to a LAPTOP. Introduces a DRUM-MACHINE\nSAMPLE.\nSebastian, into the music, is caught off-guard. Uneasy now.\nThis isn't him...\nKeith plays a riff on his guitar. Tom echoes it on bass, then\nMalcolm on trumpet. Now it's Sebastian's turn. He hesitates.\nAnd then -- finally -- he plays the riff...\nIt doesn't feel so bad. The guys build on the riff. Sebastian\nkeeps up with them, trying to let go of his presuppositions.\nAfter all -- these guys can play...\nThe music builds, the whole thing swelling and finally\nCARRYING US TO --"
+  },
+  {
+   "type": "location",
+   "text": "A73   LATER: Sebastian and Keith sit across from each other as"
+  },
+  {
+   "type": "stage direction",
+   "text": "the other players pack up. Sebastian looks pensive. Noticing --\nRevision                          47."
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "I know. It's different."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian stays silent. Then, leaning in --"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "But you say you want to save jazz. How\nare you going to save jazz if no one's\nlistening? Jazz wouldn't exist if people\nhadn't gotten tired of what they were\nlistening to before."
+  },
+  {
+   "type": "stage direction",
+   "text": "(then,)"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "I mean, do you really think a bunch of\nninety-year-olds in a basement is the\nfuture of the form? Traditionalists whined\nwhen Kenny Clarke started dropping bombs.\nIf traditionalists had their way, we'd\nstill be playing Dixieland."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian considers this. As much as he might make a play of\nresisting -- we can tell the words are getting to him..."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You're holding onto the past. But jazz is\nabout the future."
+  },
+  {
+   "type": "location",
+   "text": "A moment. Then --"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH",
+   "text": "I get it. I got it wrong. Last guy wasn't\nas good as you. But you're a pain in the\nass, man."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian nods. Knows he can't argue with that.\nAnother beat."
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "If it's not your thing, just let me know.\nI don't want you uncomfortable and trying\nto change this into something it's not.\nBut if you want it -- the job's yours."
+  },
+  {
+   "type": "location",
+   "text": "Sebastian looks at Keith. A moment. He's really weighing\nthis. And on that -- his look of uncertainty -- we're --\n74   OMIT\n75   OMIT\n76   OMIT\n77   OMIT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                      48."
+  },
+  {
+   "type": "location",
+   "text": "77pt   INT. SEBASTIAN'S APARTMENT - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "The door opens. Mia enters. Takes a deep breath. Hears piano.\nSteps forward and sees Sebastian at his piano -- playing a\nmelody we've heard before. [CITY OF STARS AS DUET]\nShe smiles. Sebastian begins to SING. Mia sits down beside\nhim and begins to SING as well. They share a duet -- simple,\nunaffected, hopeful -- the music just perhaps suggesting\ntheir uncertainty about what they might be about to do...\nAs the vocals give way to instrumentation, we're --"
+  },
+  {
+   "type": "location",
+   "text": "A77    OMIT\nB77    OMIT\nC77    OMIT\n78     INT. DINER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian and Keith hunched over paperwork. Sebastian signs..."
+  },
+  {
+   "type": "location",
+   "text": "A78    INT. COFFEE SHOP / STUDIO LOT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia handing the Manager her apron. She's done with the job..."
+  },
+  {
+   "type": "location",
+   "text": "80     INT. PRACTICE SPACE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The band rehearsing in their new PRACTICE SPACE. We see\nSebastian play, see Keith sing this time..."
+  },
+  {
+   "type": "location",
+   "text": "79     INT. CAFE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia hunched over her script, obsessively fine-tuning it..."
+  },
+  {
+   "type": "location",
+   "text": "81     OMIT\n82     OMIT\n83     INT. DESIGNER CLOTHING STORE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian gets dressed up in a new suit..."
+  },
+  {
+   "type": "location",
+   "text": "84     INT. BLACK-BOX THEATER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "We follow Mia through a BLACK-BOX THEATER in North Hollywood.\nThe space is small, simple -- but perfect. We see her haggle\nwith the OWNER -- and then light up. They shake hands..."
+  },
+  {
+   "type": "location",
+   "text": "85     INT. GREEN ROOM - EVENING"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian and the band in a green room, waiting. Sebastian's\nwearing the new suit. Looking sharper...\nRevision                          49."
+  },
+  {
+   "type": "location",
+   "text": "86    INT. VINTAGE SHOP - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia looking for PROPS. Another wild assortment -- a TOP HAT,\na CANE, a DIORAMA of London, rolled-up MAPS, an old GLOBE..."
+  },
+  {
+   "type": "location",
+   "text": "87    OMIT\n88    INT. APARTMENT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "We MOVE IN on a laptop. On it a YOUTUBE video plays -- an\ninterview with Sebastian, Keith and the rest of the band..."
+  },
+  {
+   "type": "location",
+   "text": "89    EXT. RIALTO - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia drives by the Rialto theater. It's now CLOSED..."
+  },
+  {
+   "type": "location",
+   "text": "90    INT. SEBASTIAN'S APARTMENT - LIVING ROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia sits on the floor, penciling out drawings for her play.\nCostume and poster sketches scattered by her feet. She's\ntired. The clock on the wall reads: 10:54pm."
+  },
+  {
+   "type": "location",
+   "text": "A90   INT. SEBASTIAN'S APARTMENT - BEDROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia gets into bed. Checks her phone. Turns off the light."
+  },
+  {
+   "type": "location",
+   "text": "B90   INT. SEBASTIAN'S APARTMENT - LIVING ROOM - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian enters the apartment. Checks his reflection in the\nmirror -- a new addition. The clock reads: 4:57am."
+  },
+  {
+   "type": "location",
+   "text": "C90   INT. SEBASTIAN'S APARTMENT - BEDROOM - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian gets into bed, careful not to wake Mia."
+  },
+  {
+   "type": "location",
+   "text": "D90   INT. SEBASTIAN'S APARTMENT - LIVING ROOM - MORNING"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia crosses through to the kitchen to get herself breakfast,\ncareful not to wake Sebastian. The clock: 7:02am."
+  },
+  {
+   "type": "location",
+   "text": "E90   INT. SEBASTIAN'S APARTMENT - BEDROOM - MORNING"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian in bed, fast asleep. And WE RETURN TO..."
+  },
+  {
+   "type": "location",
+   "text": "F90   INT. SEBASTIAN'S APARTMENT - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "...Mia and Sebastian at the piano, before this latest journey\nbegan, finishing their song. The last lyrics resonating as\nthey look into one another's eyes:"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "SEBASTIAN                        MIA"
+  },
+  {
+   "type": "stage direction",
+   "text": "City of stars...              You've never shined so"
+  },
+  {
+   "type": "location",
+   "text": "brightly."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                           50."
+  },
+  {
+   "type": "location",
+   "text": "On that -- this image of love, Sebastian playing out the\nfinal chords on his piano -- WE GO DARK.\nAll sound fades out. And then, we hear --\n-- a CROWD CHEERING. [START A FIRE]\nWe see -- a white spotlight. It reveals Sebastian. We're --\n91   INT. THE ECHO - NIGHT\nSebastian is on-stage. He's the only musician we can see. The\nfloor beyond the stage is FILLED with people.\nAmong them, we spot Mia -- beaming with pride. Sebastian sees\nher, smiles to her as he plays a piano intro. Mia grins right\nback, heart swelling...\nA SECOND SPOTLIGHT turns on, illuminating Keith. He SINGS. He\nhas a beautiful voice. Mia bobs her head. It's just Keith and\nSebastian right now, all acoustic, a simple, catchy tune...\nAnd then -- suddenly -- a DRUM MACHINE SURGES IN -- and --\nBOOM! The entire CLUB is lit up as the MUSIC EXPLODES. A full-\nfledged dance beat and a thick radio-ready electronic track.\nMia is taken aback. But she keeps bobbing her head -- as the\ncrowd around her GOES CRAZY...\nKeith owns the stage, as Sebastian plays out more -- now\nswitched to an electronic keyboard, complete with synth\nsounds. We recognize fragments of melody from when Keith and\nSebastian first rehearsed -- but the tune has been\ntransformed beyond recognition. Not a hint of jazz...\nKeith breaks into the CHORUS -- and a TRIO OF BACKUP SINGERS\nare revealed stage-left. The band surges into the song's\nbridge -- and BACKUP DANCERS appear stage-right, scantily-\nclad.\nAnd then -- the lights go NUTS. It's a full-out LIGHT SHOW\nnow, shafts of red, blue, green and orange cutting through\nthe dark. The crowd starts CHEERING, pumping their fists...\nMia looks at Sebastian. He's not fighting any of this. He\nsees her. She smiles. But something is changing in her\nexpression...\nShe looks at the lights, the singers, the dancers, Sebastian\nand his bandmates in matching magazine-cover-ready outfits.\nShe looks at the crowd around her -- their hollers growing\nmore and more frenzied as Sebastian launches into a prolonged\nSOLO..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                          51."
+  },
+  {
+   "type": "location",
+   "text": "Mia looks back at him, takes it all in: Is this really him...?\nAs the mass of people swells and moves, Mia finds herself\nPUSHED TO THE SIDE, bit by bit, away from the center...\nShe tries to hold her ground, but is edged FURTHER AND\nFURTHER AWAY. Sebastian, deep in his solo, doesn't notice.\nMia tugs against the tide of the crowd, but to no avail.\nShe's pushed to the back of the club, away from the lights\nand into shadow...\nThe final chorus begins -- floor-shaking, fist-pounding. We\nlinger on Mia's face -- watching as the band feverishly tear\ninto their climactic bars, the dancers on-stage and the crowd\nbelow busting out one last burst of CRAZED CHOREOGRAPHY --\nending the song just as we SMASH CUT TO A TITLE CARD OVER\nBLACK:"
+  },
+  {
+   "type": "stage direction",
+   "text": "FALL"
+  },
+  {
+   "type": "location",
+   "text": "Silence.\nWe take a moment to collect ourselves before --\n92   OMIT\n93   EXT. / INT. CHINESE RESTAURANT - LOS ANGELES - DAY\nCLOSE on Mia. She looks tired. A bit weathered. She's nursing a\ngreen tea across from Laura. They've finished eating."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "Look at him -- watch --"
+  },
+  {
+   "type": "location",
+   "text": "Mia glances out the window. A MAN in his early 40's has just\nparked, is walking around his car, inspecting it."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "Now he's going to check the other window.\nYep, it's closed. Now he's going to check\nagain. Yep, still closed."
+  },
+  {
+   "type": "location",
+   "text": "Mia smiles. The MAN enters the restaurant -- greets Mia -- and\nkisses Laura. This is HARRY. Her new boyfriend."
+  },
+  {
+   "type": "stage direction",
+   "text": "HARRY"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "Hey. I'm grabbing some pastries, you two\nwant anything?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Thanks Harry, I'm good."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                       52.",
+   "text": "Same here but I think someone's trying to\nbreak into your car."
+  },
+  {
+   "type": "location",
+   "text": "Harry rolls his eyes, heads to the front. Laura looks at Mia."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                       52.",
+   "text": "Don't stress about the play. Where's Seb now?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I think today's San Diego. I'm not sure..."
+  },
+  {
+   "type": "location",
+   "text": "A moment passes."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "You should come over tonight. Harry's\ncooking, but don't let that stop you."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Mia manages a smile; a beat)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "What's the matter?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Nothing..."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "You miss him."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I guess. I'm adapting."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA\n(nods; then,)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I got used to being alone. Growing up it\nwas just me and Seb. We only had each other."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "He told me."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I wasn't looking for anybody. Then I met\nHarry and -- we just fit..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Mia smiles)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "You've changed Seb. You know that?"
+  },
+  {
+   "type": "location",
+   "text": "Laura means it positively -- but Mia seems concerned..."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Do you think he's happy?"
+  },
+  {
+   "type": "stage direction",
+   "text": "LAURA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Is he happy?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I mean with the band, the travel, all of it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        53."
+  },
+  {
+   "type": "location",
+   "text": "Laura shrugs."
+  },
+  {
+   "type": "speech",
+   "character": "LAURA",
+   "text": "Our dad never got to do what he wanted.\nWe were always treading water, he took a\njob running a washer-dryer store. But\nevery night at home he'd play his\nclarinet along to a Benny Goodman record."
+  },
+  {
+   "type": "stage direction",
+   "text": "(a beat)"
+  },
+  {
+   "type": "speech",
+   "character": "LAURA",
+   "text": "So I look at Sebastian... Playing music,\ngetting paid for it. I'm happy for him."
+  },
+  {
+   "type": "location",
+   "text": "She notices Harry through the window, returning. Her thoughts\ndrift."
+  },
+  {
+   "type": "speech",
+   "character": "LAURA (CONT'D)",
+   "text": "Dreams change."
+  },
+  {
+   "type": "location",
+   "text": "A beat. She looks back at Mia. Sees her worry."
+  },
+  {
+   "type": "speech",
+   "character": "LAURA (CONT'D)",
+   "text": "Don't overthink it. He'll be home soon."
+  },
+  {
+   "type": "location",
+   "text": "Harry rejoins the table. Hands Laura a sponge cake."
+  },
+  {
+   "type": "speech",
+   "character": "LAURA (CONT'D)",
+   "text": "I told you not to get me anything!"
+  },
+  {
+   "type": "speech",
+   "character": "HARRY",
+   "text": "Oh, right -- I'll eat it I guess."
+  },
+  {
+   "type": "speech",
+   "character": "LAURA",
+   "text": "No -- I changed my mind."
+  },
+  {
+   "type": "location",
+   "text": "They laugh. Kiss. Tender. Loving. Mia watches...\n94   INT. DINER - NIGHT\nMia eats, her laptop next to her meal. She takes a bite, types.\nWe see her screen -- an e-mail draft, glimpses of words: \"one-\nwoman show\", \"one night only\", \"7pm\", \"I would be thrilled...\"\nShe thinks. Picks up her phone. Dials Sebastian. Waits. No\nanswer."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Hey it's me... Not sure where you are --\nmaybe Boston? Or Dallas? Anyway... I\nhaven't heard from you in a while... I\nmiss you..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(a beat)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Ok... Bye..."
+  },
+  {
+   "type": "location",
+   "text": "She hangs up. Resumes typing."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                    54."
+  },
+  {
+   "type": "location",
+   "text": "95   INT. SEBASTIAN'S APARTMENT COMPLEX / APARTMENT - NIGHT\nMia walks through the courtyard. Reaches the door. Then hears\nsomething... Music -- LOUD, FAST JAZZ...\nShe enters -- has to jostle the door handle to do so --\n-- and then freezes in place. Sebastian is sashaying around a\nfully-decked table, lighting candles as he moves. He looks\nup, sees her -- and grins."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Surprise."
+  },
+  {
+   "type": "location",
+   "text": "She lights up. He lifts up silver serving trays, revealing\nwhat he's cooked. Roast chicken. Pasta."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "And..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he hurries to the kitchen --\nand holds up a big apple pie)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "There's twenty-five pounds of apples in\nit. It probably destroyed an ecosystem\nbut it tastes good."
+  },
+  {
+   "type": "location",
+   "text": "Mia laughs. Can't believe it. Sebastian looks at her --\nsincere now."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "I have to head back in the morning but I\nneeded to see you."
+  },
+  {
+   "type": "location",
+   "text": "Mia's eyes seem almost on the brink of tears. Beyond moved,\nshe runs into Sebastian's arms. A LONG, HEARTFELT KISS...\n96   INT. SEBASTIAN'S APARTMENT - EVENING\nCLOSE ON: The record player. An old jazz track. We see Mia and\nSebastian seated at the table -- eating, drinking, laughing."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Feels so good to be home."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Stay."
+  },
+  {
+   "type": "location",
+   "text": "He smiles."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "How's the play going?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I'm nervous."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                 55."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Why?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Because..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(a beat)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "What if people show up?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Fuck `em!"
+  },
+  {
+   "type": "location",
+   "text": "Laughter. Then --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "You're nervous about what they think?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I'm nervous to be up on a stage and\nperform in front of people. I'm\nterrified."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "They should be so lucky to see it."
+  },
+  {
+   "type": "stage direction",
+   "text": "(then,)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "It's going to be incredible. I can't\nwait."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I can."
+  },
+  {
+   "type": "location",
+   "text": "A smile. Beat."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "What time do you leave in the morning?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "6:45."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Ugh."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Yep. Boise."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Boise?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(nods)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You should come."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "To Boise?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                     56."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Yeah, you could knock that off your\nbucket list."
+  },
+  {
+   "type": "location",
+   "text": "Mia laughs."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Wish I could."
+  },
+  {
+   "type": "location",
+   "text": "A beat."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Why can't you?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Come to Boise?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Because I have to rehearse."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Can't you rehearse anywhere?"
+  },
+  {
+   "type": "location",
+   "text": "She looks at him."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "You mean anywhere you are?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...I -- I guess..."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Well, all my stuff is here and my show's\nin a few weeks and -- I don't know, it\ndoesn't seem practical..."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Right... I just -- we're going to have to\ndo things so we can see each other. We\nnever see each other."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I know, but when are you done?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...What do you mean?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "When are you done with the tour?"
+  },
+  {
+   "type": "speech",
+   "character": "Revision                   57.\nSEBASTIAN",
+   "text": "But -- as soon as we're done with the\ntour we go back and record, and then we\ngo back on tour."
+  },
+  {
+   "type": "location",
+   "text": "Mia looks at him. Doesn't seem to understand."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "We tour so we can make the record, and\nthen we go back on tour to sell the\nrecord."
+  },
+  {
+   "type": "location",
+   "text": "Beat. Mia takes this in."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "So it's...the long haul?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...What does that mean?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I mean the long haul -- like, you're\ngoing to be in this band for a long time."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "What did you think I was going to do?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I don't know, I didn't think the band\nwould --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You didn't think we'd be successful."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "No, that's not what I meant. What I meant\nwas -- this band -- you're going to be on\nthe road for -- what, years now?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Yeah, feasibly -- I could be on the road\nfor years with just this record."
+  },
+  {
+   "type": "location",
+   "text": "Beat."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Do you like the music you're playing?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I don't know how that matters."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "It matters if you're going to give up\nyour dream to be on the road for years.\nRevision                    58."
+  },
+  {
+   "type": "location",
+   "text": "Do you like the music I'm playing?"
+  },
+  {
+   "type": "location",
+   "text": "Yes. I do."
+  },
+  {
+   "type": "stage direction",
+   "text": "(beat)"
+  },
+  {
+   "type": "location",
+   "text": "I just didn't think you did."
+  },
+  {
+   "type": "location",
+   "text": "Yeah, well, I --"
+  },
+  {
+   "type": "location",
+   "text": "And now I hear you're going to be on the\nroad for years, and I'm --"
+  },
+  {
+   "type": "location",
+   "text": "What are you doing? Why are you doing\nthis?"
+  },
+  {
+   "type": "location",
+   "text": "What do you mean why am I doing this?"
+  },
+  {
+   "type": "location",
+   "text": "This is what you wanted from me."
+  },
+  {
+   "type": "location",
+   "text": "To be in this band?"
+  },
+  {
+   "type": "location",
+   "text": "To have a steady job."
+  },
+  {
+   "type": "location",
+   "text": "Yes, I wanted you to have a job so you\ncould take care of yourself and start\nyour club."
+  },
+  {
+   "type": "location",
+   "text": "So I'm doing that. So why aren't we\ncelebrating?"
+  },
+  {
+   "type": "location",
+   "text": "Why aren't you starting your club?"
+  },
+  {
+   "type": "location",
+   "text": "You said yourself no one wants to go to\nthat club! No one wants to go to a club\ncalled Chicken on a Stick --"
+  },
+  {
+   "type": "location",
+   "text": "Change the name!"
+  },
+  {
+   "type": "location",
+   "text": "-- and no one likes jazz. Not even you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                         59."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I do like jazz now, because of you."
+  },
+  {
+   "type": "stage direction",
+   "text": "(not listening to her)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "What am I supposed to do? Go back to\nplaying \"Jingle Bells\" so I can save\nmoney for some Shangri-La club no one\nwants to go to?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "People will want to go to it! People love\nwhat other people are passionate about."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Not in my experience."
+  },
+  {
+   "type": "location",
+   "text": "A beat. Mia realizes she's getting nowhere. A moment of\nquiet. Then --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Anyway -- it's time to grow up. You know?\nThis is what I'm doing. If you had a\nproblem, I wish you would've said\nsomething earlier, before I signed on the\ndotted line."
+  },
+  {
+   "type": "stage direction",
+   "text": "(trying again)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "You had a dream that you were sticking\nto, that --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "This is the dream!"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "This is not your dream."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Guys like me go their whole lives and\nnever do anything that's liked. I'm\nfinally doing something that people\nenjoy. What is wrong with that?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Why do you care so much about being liked"
+  },
+  {
+   "type": "stage direction",
+   "text": "(finally bursting--)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You're an actress, who are you to talk??"
+  },
+  {
+   "type": "location",
+   "text": "Silence. We suddenly realize --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        60."
+  },
+  {
+   "type": "location",
+   "text": "-- the LP has finished. You can hear the needle scratch\nagainst it now -- back and forth, back and forth. Sebastian\nlooks at Mia.\nA moment. Finally --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Maybe you liked me more when I was a\nfailure because it made you feel better\nabout yourself."
+  },
+  {
+   "type": "location",
+   "text": "Mia looks back at him. Can't believe he said that. Tears\nstarting to well in her eyes. She tries to suppress them."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Are you kidding?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "No."
+  },
+  {
+   "type": "location",
+   "text": "They stare at each other.\nThen -- all of a sudden -- the FIRE ALARM blares.\nSebastian turns and sees smoke billowing from the KITCHEN. A\ndish in the oven has started to burn.\nSebastian rises, springs toward the kitchen -- then sees Mia\ngrabbing her things."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Wait --"
+  },
+  {
+   "type": "location",
+   "text": "But she's out the door. It slams shut, as Sebastian pulls the\nburnt apple pie from the oven.\nAnd on that -- WE SMASH CUT TO --\n97   OMIT\n98   EXT. THEATER - DAY\nA poster, placed on the front of the theater we saw before.\nA title. A name below it: \"MIA DOLAN.\" And a word: \"TONIGHT.\"\nWe spot Mia, carrying a box of props. She enters the theater.\nAnd we're --\n99   INT. THEATER - DAY\nThe empty theater. Dark. Silent. Then -- a light turns on.\nMia steps in. We stay WIDE. She seems small from this\nvantage point, surrounded by her props and backdrops. She\ntakes a moment. Looks at all the empty seats."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                       61.\nTakes a deep breath. Nervous. And then, nodding to herself --\nyou can do this -- she starts setting up..."
+  },
+  {
+   "type": "location",
+   "text": "100   INT. PRACTICE SPACE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "A BLAST of music. The Messengers have just finished a\nrehearsal. Sebastian packs his stuff, heads toward the exit,\nnodding to the others --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "SEBASTIAN                          COLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "See you tomorrow.                 See ya.\n-- when --"
+  },
+  {
+   "type": "stage direction",
+   "text": "You good for tonight, right?\nSebastian stops. Looks at Keith."
+  },
+  {
+   "type": "stage direction",
+   "text": "...Tonight?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Seven. The photo shoot.\n(reading Sebastian's face, adding --)\nMojo.\nA beat. Sebastian is confused."
+  },
+  {
+   "type": "stage direction",
+   "text": "I thought that was next Thursday."
+  },
+  {
+   "type": "stage direction",
+   "text": "No. It's tonight.\nWe linger on Sebastian for a moment..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Is that ok?"
+  },
+  {
+   "type": "location",
+   "text": "101   EXT. REHEARSAL SPACE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian stands out front. Checks his watch. Thinks..."
+  },
+  {
+   "type": "location",
+   "text": "102   OMIT\n103   INT. THEATER / INT. BACKSTAGE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "People are shuffling into the theater. We DRIFT BACKSTAGE.\nMia, now in a male suit and tie, watches behind a curtain.\nChecks her phone. 7:04. Breathes in. Nervous, and alone...\nShe turns. Nods to the OWNER, off to the side. He heads to a\nswitch, and the lights GO DOWN.\nRevision                        62.\nYou can hear the murmurs beyond the curtain. The audience,\nexpecting. Mia tries to get her nerves under control. She can\ndo this... Sets her phone aside -- one last breath --\n-- and walks out."
+  },
+  {
+   "type": "location",
+   "text": "104   OMIT\n105   OMIT\n106   INT. PHOTO STUDIO - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "LOUD MUSIC. It's the band's song, blaring from a speaker.\nThey're pantomiming -- the musicians styled and ready for\ntheir close-ups. A PHOTOGRAPHER grabs shots.\nPHOTOGRAPHER"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "Put a light on the drums... I need more\nfill in this corner..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We ZERO IN on Sebastian. His hair sticks out at various\nangles. An artfully-undone tie hangs from his neck. He\nfake-plays, as Keith pretends to lay in sampled beats...\nKeith, Tom, Malcolm, Cole -- they all grin, as excited as\nkids. Sebastian looks at them -- then down at his\nelaborate outfit, then back up at the Photographer\nrunning around, then at his watch...\nPHOTOGRAPHER (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "Bass, head up. Piano, look down at the\nkeys."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian does as told, but his thoughts are elsewhere. The\nPhotographer moves in close, SNAPPING shots of just him --\nPHOTOGRAPHER (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "Cut the music. Turn the keyboard live.\nPiano look up, play."
+  },
+  {
+   "type": "stage direction",
+   "text": "The track stops. Sebastian stops as well. The CLICKS of the\nPhotographer's camera loud now.\nPHOTOGRAPHER (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "No -- piano -- actually play something."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian is still. Then he starts to play a single melody\non the keys. We recognize it. The first notes of his and\nMia's song...\nRevision                        63.\nPHOTOGRAPHER (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "Good, now bite your lip like you're\nconcentrating on a solo."
+  },
+  {
+   "type": "stage direction",
+   "text": "Beat. Sebastian stops. Silence. He stares ahead.\nPHOTOGRAPHER (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "That was good. Don't stop."
+  },
+  {
+   "type": "stage direction",
+   "text": "We PUSH IN on Sebastian..."
+  },
+  {
+   "type": "location",
+   "text": "107   INT. THEATER - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "We're CLOSE on Mia. In ordinary clothes now.\nBehind her is a wallpapered wall, and a small window. By\nher side are the globe we saw in her room, and other little\ntrinkets: a pearl necklace, an old suitcase, a roll of\nmaps. Outside the window, projection of a starlit Parisian\nnight sky. Completely silent, Mia moves to a lamp, turns it\noff.\nWe go BLACK.\nThen -- the house lights go on. White, fluorescent. Thin\napplause can be heard. Mia manages a smile, as we finally see --\n-- that the theater is less than a quarter full.\nMia takes a bow. Peers out. One seat, in the front row, has a\n\"RESERVED\" sign on it. The seat is empty."
+  },
+  {
+   "type": "location",
+   "text": "108   OMIT\n109   INT. THEATER - DRESSING ROOM - MOMENTS LATER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia slips inside, holding in her hurt. Starts collecting a\nfew outfits -- then overhears two AUDIENCE MEMBERS outside --\nAUDIENCE MEMBER #1 (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "I swear to God, if I have to hear one\nmore hipster waxing nostalgic I'm gonna\nslit my wrists."
+  },
+  {
+   "type": "stage direction",
+   "text": "AUDIENCE MEMBER #2 (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "Seriously."
+  },
+  {
+   "type": "stage direction",
+   "text": "AUDIENCE MEMBER #1 (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "She's not even good. That window\nthing...?"
+  },
+  {
+   "type": "stage direction",
+   "text": "AUDIENCE MEMBER #2 (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "KEITH (CONT'D)",
+   "text": "Christ... Don't quit your day job..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                       64.\nLaughter.\nMia freezes. The nail in the coffin. The voices fade. She\nslides into a chair."
+  },
+  {
+   "type": "location",
+   "text": "110   EXT. THEATER - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian SPEEDING. Screeching to a stop. He's at Mia's THEATER.\nHe dashes out and runs to the door.\nBut it's locked. No one's in sight. Fuck.\nHe spins around, frantic -- when Mia appears from an adjacent\ndoorway, alone and carrying her box of props to her car."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Mia!"
+  },
+  {
+   "type": "stage direction",
+   "text": "She turns. Sees him. He runs to her. WRAPS his arms around --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "I'm sorry --"
+  },
+  {
+   "type": "stage direction",
+   "text": "-- and KISSES her. The kind of kiss that might once have\nswept her off her feet. He starts to move with her...\n...starts to DANCE -- but --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Stop --"
+  },
+  {
+   "type": "stage direction",
+   "text": "She pulls away. Steps back. Sebastian looks at her. Unmoored."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I'm -- I'm sorry I missed it -- and I'm\nsorry I was a dick and I -- I promise\nI'll make it up to you --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "It's over."
+  },
+  {
+   "type": "stage direction",
+   "text": "She doesn't say the words with any anger. Just acceptance."
+  },
+  {
+   "type": "stage direction",
+   "text": "(a beat; then --)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...What do you mean?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I'm done embarrassing myself."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You didn't embarrass yourself..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                     65."
+  },
+  {
+   "type": "stage direction",
+   "text": "No one showed up. I can't even pay back\nthe theater.\nShe says this as though just realizing it. Sebastian looks\nat her. A moment passes. He doesn't know what to say now."
+  },
+  {
+   "type": "stage direction",
+   "text": "I'm gonna go home for a while."
+  },
+  {
+   "type": "stage direction",
+   "text": "...This is home."
+  },
+  {
+   "type": "stage direction",
+   "text": "Not anymore.\nSebastian is silent now. A tear in his eye. He clenches his\njaw. Mia looks at him one more time, steps into her car, and\ndrives off.\nSebastian lingers. Doesn't move. Silence. Then, music. Soft,\nmelancholy, just piano, as..."
+  },
+  {
+   "type": "location",
+   "text": "111    OMIT\nA111   OMIT"
+  },
+  {
+   "type": "stage direction",
+   "text": "...WE DISSOLVE TO:"
+  },
+  {
+   "type": "location",
+   "text": "112    OMIT\n113    EXT. MIA'S CAR - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia drives, boxes stacked in the back."
+  },
+  {
+   "type": "location",
+   "text": "A113   She gets on the 405... Heading out of the city...\n114    EXT. / INT. MIA'S HOUSE - NEVADA - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia steps inside a modest house. Her MOM is by the door. Hugs\nher. Her DAD stands by the hallway."
+  },
+  {
+   "type": "location",
+   "text": "115    INT. MIA'S HOUSE - BEDROOM - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia enters her old bedroom. Slides in a suitcase. Moves a couple\nof boxes from the hall. Looks around. Old photos. Old soccer\ntrophies. She sits down on the bed. Takes a breath. And,\nfinally, we're..."
+  },
+  {
+   "type": "location",
+   "text": "116    EXT. ORANGE GROVE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Laura and Harry's ENGAGEMENT PARTY. We're outside, in a sun-\ndappled grove. A small gathering.\nRevision                       66.\nSebastian plays a baby grand piano -- the source, we realize,\nof the music we've been hearing...\nAs he watches   Laura dance with her new fianc\u00e9 -- this woman he\nhas known for   so many years as a romantic cynic, now once\nagain full of   all the youthful innocence of first love -- his\nthoughts seem   to drift. The music comes to a close and..."
+  },
+  {
+   "type": "location",
+   "text": "117   LATER: Sebastian with Laura, by the orange trees..."
+  },
+  {
+   "type": "speech",
+   "character": "LAURA",
+   "text": "You remember the McKenzies?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Oh God, I didn't see them."
+  },
+  {
+   "type": "speech",
+   "character": "LAURA",
+   "text": "Yeah. They kept going, \"oh Sebastian's so\nhandsome\"."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian smiles. Then --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You look beautiful."
+  },
+  {
+   "type": "stage direction",
+   "text": "(beat)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I hope it was ok. I haven't played in a while."
+  },
+  {
+   "type": "speech",
+   "character": "LAURA",
+   "text": "You were great"
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "LAURA",
+   "text": "You're always great when you play."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian is silent. Then --"
+  },
+  {
+   "type": "speech",
+   "character": "LAURA (CONT'D)",
+   "text": "Now -- listen to me. I want you to save\nfor a down payment. You understand? You\nneed a home."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Yes ma'am."
+  },
+  {
+   "type": "speech",
+   "character": "LAURA",
+   "text": "I'm not gonna be hovering anymore."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...You still think New York?"
+  },
+  {
+   "type": "speech",
+   "character": "LAURA",
+   "text": "I think so. Maybe Boston. I don't know,\nit's exciting..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian smiles again. Some calls from the distance --\nRevision                     67."
+  },
+  {
+   "type": "speech",
+   "character": "LAURA (CONT'D)",
+   "text": "Ah I gotta -- the future in-laws..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She lights up. Likes the sound of that."
+  },
+  {
+   "type": "speech",
+   "character": "LAURA (CONT'D)",
+   "text": "Is my...my hair...?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian, without a word, pulls a strand back. Laura smiles,\nkisses him on the cheek. A quiet, tender moment. Then she\nhurries off. Sebastian stands there. Watches...\nWE FADE OUT."
+  },
+  {
+   "type": "location",
+   "text": "118   INT. SEBASTIAN'S APARTMENT - MORNING"
+  },
+  {
+   "type": "stage direction",
+   "text": "RINGING. Sebastian is awoken. Groaning, he rolls over. Lets\nthe phone ring. It keeps going. Endless... Finally, fed up, he\nreaches for it. Answers --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "What...?"
+  },
+  {
+   "type": "stage direction",
+   "text": "WOMAN #2 (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Hi, I'm trying to reach Mia Dolan."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian is taken aback. He goes to hang up, saying just --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Wrong number."
+  },
+  {
+   "type": "stage direction",
+   "text": "WOMAN #2 (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "-- She's not answering her cell and I was\ntold I might find her here."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian pauses. Hurt by the mere mention of Mia's name --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Yeah, well...not anymore."
+  },
+  {
+   "type": "stage direction",
+   "text": "WOMAN #2 (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Ok. If you do talk to her --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I won't."
+  },
+  {
+   "type": "stage direction",
+   "text": "WOMAN #2 (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "-- please tell her Jane at Amy Brandt\nCasting is trying to reach her."
+  },
+  {
+   "type": "stage direction",
+   "text": "A beat. Sebastian sits up. Suddenly wide-eyed."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "\"Casting\"...?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                      68."
+  },
+  {
+   "type": "location",
+   "text": "119   INT. MIA'S HOUSE - KITCHEN - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dinner has just finished. Mia's Mom gives her a kiss --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "MIA'S MOM                            MIA"
+  },
+  {
+   "type": "stage direction",
+   "text": "Night, sweetie.                 Night, Mom.\n-- and heads off, as Mia and her Dad stay behind. Getting up\nto scrape the dish --\nMIA'S DAD\nYou want some more rice?"
+  },
+  {
+   "type": "stage direction",
+   "text": "I'm ok.\nMIA'S DAD\nYou look hungry."
+  },
+  {
+   "type": "stage direction",
+   "text": "I'm good...\nA moment. Mia's Dad puts a few more dishes away, then sits\nback down across from her.\nMIA'S DAD\nIt's fun having you back. Your mom\nditches me at ten.\nMia laughs. A moment."
+  },
+  {
+   "type": "stage direction",
+   "text": "You took down the swing.\nMIA'S DAD\nShe made me.\nA smile.\nMIA'S DAD (CONT'D)\nI've still got all your old tapes."
+  },
+  {
+   "type": "stage direction",
+   "text": "Oh God. Throw those away.\nMIA'S DAD\nNever.\nJust then -- a loud, persistent HONK. Mia's Dad looks up,\neyebrow raised. Mia turns, hearing it as well. The HONKING\nis nearby -- just outside...\nMia's thoughts suddenly sharpen. Ears perk up. She's heard the\nhonking before:\nRevision                         69.\nAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHT.\nMIA'S DAD (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "What the hell...?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Disbelief on Mia's face. It can't be. She heads to the nearest\nwindow. There -- at the corner, smack-dab in front of her\nhouse -- is SEBASTIAN'S CAR.\nA NEIGHBOR angrily yells at him. Sebastian sees Mia. They lock\neyes. And on that --"
+  },
+  {
+   "type": "location",
+   "text": "120   EXT. MIA'S HOME / SEBASTIAN'S CAR - MOMENTS LATER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia and Sebastian stand next to his car."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Why did you come here?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Because I have good news."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Ok..."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Amy Brandt. The casting director."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I know who she is."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "She was at your play. And she loved it.\nAnd she loved it so much that she wants\nyou to come audition for a huge movie\nshe's got."
+  },
+  {
+   "type": "stage direction",
+   "text": "He's brimming over with excitement. But Mia just shakes\nher head."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I'm not going."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "...Excuse me?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I'm -- no... That will kill me."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "That's it?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "Revision                    70.\nSEBASTIAN",
+   "text": "So you're happy here?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I'm happier."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Why won't you come?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I told you."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I don't buy it."
+  },
+  {
+   "type": "stage direction",
+   "text": "(finally letting it out, fed up --)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Because it's another audition!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(a beat; then --)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I've been to hundreds of auditions. Do\nyou want to know what happens? Either\nthey interrupt me because someone ordered\na sandwich, or they cut me off after two\nseconds, or I'm crying and they start\nlaughing, or I'm one of a hundred\nlookalikes in the waiting room who never\nhas a chance, because --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(beat)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "-- because --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Because what?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Because I'm probably not good enough."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Yes you are."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "No. Maybe I'm not."
+  },
+  {
+   "type": "location",
+   "text": "A beat."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Maybe I'm one of those people who's\nalways wanted to do it but never had a\nchance. It's a pipe dream. Maybe it's\nlike you said. Maybe I need to grow up."
+  },
+  {
+   "type": "location",
+   "text": "She hesitates. Continues --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                         71."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "I can go back to school. I can find\nsomething else that I'm supposed to do. I\nleft school to give it a shot, and it\ndidn't work out, and it took six years,\nand I don't want to do it anymore."
+  },
+  {
+   "type": "stage direction",
+   "text": "Beat. But Sebastian isn't giving up."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Why?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Why what?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Why don't you want to do it anymore?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia thinks about this one for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "...Because it hurts a little bit too\nmuch."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian shakes his head. Nope. Won't accept this."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I told them you'd be there at five-thirty\ntomorrow. I'll swing by here before I\ndrive back at eight. Either you'll be\noutside or you won't."
+  },
+  {
+   "type": "stage direction",
+   "text": "With that, he gets back into his car. Mia is silent. Then --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "How did you find me?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian turns. Points. Matter-of-fact --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "The house across from the library."
+  },
+  {
+   "type": "stage direction",
+   "text": "He drives off. Mia looks up. There, sure enough, is the\nLIBRARY, crouched on the corner. The library that once\nhelped set her on her path to acting.\nShe looks at it. Thinks..."
+  },
+  {
+   "type": "location",
+   "text": "121   EXT. MIA'S STREET - NIGHT/DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Wide on the street. All is quiet. Night becomes morning...\nRevision                         72."
+  },
+  {
+   "type": "location",
+   "text": "122   EXT. MIA'S HOME - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian's car pulls over. He sits there. Sips a coffee, a\nsecond coffee in the holder. The time: 8:02.\nA moment passes. He taps the wheel. Looks at the house. The\nfront door remains closed. No Mia. He leans back. Seems\nworried. Closes his eyes, breathes out. We MOVE CLOSE on him.\nHe breathes in and out again...\nHe opens his eyes. 8:10. The door's still closed. Resigned,\nhe starts his car up, BEGINS TO PULL AWAY, when --\n-- BAM! A KNOCK on the opposite window. He jumps.\nIt's Mia. She's just arrived at the car from the other side,\ntwo just-bought cups of coffee and a bag of pastries in her\nhands. A beat. Sebastian smiles. Then OPENS the door for her."
+  },
+  {
+   "type": "location",
+   "text": "123   OMIT\n124   EXT. PARAMOUNT STUDIO LOT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "A cloudy late afternoon. Mia and Sebastian slowly walk\nthrough the lot together. They pass the New York street, the\nmurals and posters of classic Hollywood, the old Art Deco\nornaments and the big soundstages and backdrops. Neither says\na word..."
+  },
+  {
+   "type": "location",
+   "text": "125   INT. WAITING LOBBY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia and Sebastian are seated. Waiting. The DOOR opens. An\nACTRESS exits. A second later --\nASSISTANT #2"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Mia?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia gathers her nerves. Gets up. And steps in."
+  },
+  {
+   "type": "location",
+   "text": "126   INT. AUDITION ROOM / INT. LOBBY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "In the room is AMY BRANDT -- mid-forties. Seated behind her\nis the director, FRANK.\nAMY BRANDT                       MIA\nHi, Mia.                        Hi.\nAMY BRANDT"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I'm Amy, this is Frank. Glad we found you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia nods. Smiles. A moment.\nAMY BRANDT (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "The movie shoots in Paris. There's no script."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                        73.\nFRANK\nWe want to build the character with you.\nIt's a process. Three-month rehearsal,\nfour-month shoot."
+  },
+  {
+   "type": "stage direction",
+   "text": "...Ok.\nAMY BRANDT\nSo why don't you just tell us a story?"
+  },
+  {
+   "type": "stage direction",
+   "text": "...About...?\nAMY BRANDT\nAbout anything.\nMia nods again. A moment.\nAMY BRANDT (CONT'D)\nWhenever you're ready.\nMia thinks. She takes a breath -- then goes silent again. It\nseems she might be unsure what to do, might even be about to\nchoke the audition. We fear she may botch this completely..."
+  },
+  {
+   "type": "location",
+   "text": "A126   WE CUT TO THE LOBBY -- to Sebastian, hearing Mia's silence. On"
+  },
+  {
+   "type": "stage direction",
+   "text": "edge... Worried..."
+  },
+  {
+   "type": "location",
+   "text": "B126   WE RETURN to the AUDITION ROOM... Brandt and Frank waiting..."
+  },
+  {
+   "type": "stage direction",
+   "text": "My aunt lived in Paris for a bit... She\nused to tell me these stories, when I was\ngrowing up, about living abroad...\n(beat)\nI remember -- she told me she jumped into\nthe Seine once...\nShe pauses, and then continues -- in SONG. [TRACK: AUDITION]\nYes, this audition is different than the rest, and the switch\nto song signals just that. Mia's nerves fade away -- all the\naccents and fakery of earlier auditions a distant memory. This\nis Mia undisguised -- pure and stark and beautiful...\nShe uses the story of her aunt jumping into the river to\npaint a portrait of all the dreamers in the world -- all the\npeople who are told they're nuts for pursuing their passion --\nall the so-called \"fools\" who take the plunge. She sings\nabout them and for them. This is why Mia does what she does --\nwhy she simply has no choice...\nThe song ends, and we linger on her for a moment. Then...\nRevision                     74.\n...WE DISSOLVE TO:"
+  },
+  {
+   "type": "location",
+   "text": "127   EXT. GRIFFITH PARK - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia and Sebastian sit on a bench, the Observatory perched\nbehind them. The clouds have parted, and it's now a gorgeous\nLos Angeles afternoon, minutes before dusk.\nSebastian looks at Mia. A moment passes."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "When do you find out?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "They said the next couple of days... But\nI'm not expecting to find anything out."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You're going to get it."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "No, I'm not."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "You are. I know these things."
+  },
+  {
+   "type": "stage direction",
+   "text": "A beat."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Where are we?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian looks at her."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Griffith Park."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I mean -- where are we?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I know..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(beat)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I don't know."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "What do we do?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I don't think we can do anything. Because\nwhen you get this --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "If I get this --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                           75."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "When you get this -- you've got to give\nit everything you've got."
+  },
+  {
+   "type": "location",
+   "text": "Beat."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "It's your dream."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "What are you going to do?"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I've got to follow my own plan. Stay\nhere. Get my own thing going. You know..."
+  },
+  {
+   "type": "location",
+   "text": "A moment. Mia nods. Sebastian looks at her again."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "You're going to be in Paris. Good jazz\nthere. And you love jazz now."
+  },
+  {
+   "type": "location",
+   "text": "Mia smiles."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Right?"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Right."
+  },
+  {
+   "type": "location",
+   "text": "Another moment. And then, finally --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I guess we're just going to have to wait\nand see."
+  },
+  {
+   "type": "location",
+   "text": "Mia's eyes well up, just slightly, as she hears this. She\nnods."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "You know I'm always going to love you."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I'm always going to love you too."
+  },
+  {
+   "type": "location",
+   "text": "Beat. Sebastian looks up at the Observatory."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Look at this view."
+  },
+  {
+   "type": "stage direction",
+   "text": "(playfully)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I've seen better."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                         76."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Agreed."
+  },
+  {
+   "type": "stage direction",
+   "text": "They laugh.\nThen, almost to herself --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I've never been here during the day."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian smiles. A moment.\nWe CUT TO WIDE. Sebastian and Mia sit side by side. We linger\nhere, our two characters framed by the white-and-green\nObservatory, the rest of L.A. stretching out beyond.\nAnd then, ever so slowly...\n...we FADE TO:\nWINTER\nA palm tree, a cloudless sky. We PULL BACK -- to reveal it's\nall painted..."
+  },
+  {
+   "type": "location",
+   "text": "128   EXT. STUDIO LOT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "We're on a studio lot, looking at one of the old painted\nbackdrops, of a palm tree and sky. A new title card:\nFive years later...\nWe TILT down to the studio's entryway. A CAR enters.\nA WOMAN steps out. We don't see her face. We FOLLOW her from\nbehind. She walks elegantly, poised. The wind picks up a\nstrand of her hair. She makes her way down side-streets we've\nseen before, past Parisian-style fa\u00e7ades. Then enters a\nCOFFEE SHOP we recognize..."
+  },
+  {
+   "type": "location",
+   "text": "129   INT. COFFEE SHOP - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The eyes inside all look the WOMAN's way. She reaches the\ncounter -- and we finally SEE HER FACE:"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Hi... Iced coffee, please."
+  },
+  {
+   "type": "stage direction",
+   "text": "MIA looks different. Different haircut, different way of\nhandling herself.\nThe BARISTA hurries to get Mia's order. We recognize this as\nthe shop where Mia used to work. A man who appears to be the\nNEW MANAGER gives Mia the coffee --\nRevision                      77.\nNEW MANAGER"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "On us."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "No, no, that's fine."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia hands over a few dollar bills. Then drops another bill into\nthe tip jar. The Barista smiles."
+  },
+  {
+   "type": "location",
+   "text": "130   EXT. COFFEE SHOP - MOMENTS LATER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia exits the coffee shop...and is met by a CREW MEMBER on a\nGOLF CART. She gets on the cart -- and is driven away...\nCUT TO:\nCLOSE ON hands on piano keys, fluttering across the ivories.\nWe PULL BACK: it's SEBASTIAN. We're in..."
+  },
+  {
+   "type": "location",
+   "text": "131   INT. JAZZ CLUB - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "...a small jazz club. Simple, tasteful, cool. Stone arches in\n1940's style. The seats close to the band, the piano in the\ncenter. The club has the same old-school character as the\nLighthouse -- but it's not run-down. It's polished, inviting.\nThe place is empty save for Sebastian and an EMPLOYEE. It's\nbefore-hours. Sebastian finishes playing. Feels out the\nlowest keys once more, then the highest. Then turns and --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Alright, I'm done."
+  },
+  {
+   "type": "stage direction",
+   "text": "(gets up)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Harris did a nice job with it."
+  },
+  {
+   "type": "stage direction",
+   "text": "EMPLOYEE"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Took him long enough."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian smiles."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "No one touches the instruments. Carson's\ncoming an hour early to test levels."
+  },
+  {
+   "type": "stage direction",
+   "text": "EMPLOYEE"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I got a check for you to sign."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "How'd we do last month?"
+  },
+  {
+   "type": "stage direction",
+   "text": "EMPLOYEE"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Not too bad."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                          78."
+  },
+  {
+   "type": "stage direction",
+   "text": "(as he signs the check)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Not too bad is great."
+  },
+  {
+   "type": "stage direction",
+   "text": "(taps the Employee on the\nshoulder)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "See you tonight."
+  },
+  {
+   "type": "stage direction",
+   "text": "EMPLOYEE"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "See you tonight."
+  },
+  {
+   "type": "location",
+   "text": "132   EXT. CHATEAU MARMONT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia pulls into the driveway."
+  },
+  {
+   "type": "location",
+   "text": "133   INT. ROOM - CHATEAU MARMONT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "She steps inside. Flowers and cards. We glimpse cursive\n\"CONGRATULATIONS\" written on a few of them. A stack of scripts\non a nearby table. Her name visible. She drops her things,\nspots someone, goes in to kiss him. A long, tender, loving\nembrace, as we pull back...\n...and see that it's not Sebastian.\nIt's a MAN we haven't seen before: DAVID, mid-thirties. He\nand Mia kiss again. And, running over and grabbing Mia's leg,\nis a TWO-YEAR-OLD GIRL..."
+  },
+  {
+   "type": "location",
+   "text": "134   INT. SEBASTIAN'S APARTMENT - EVENING"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian steps in. The place is more habitable than his old\ndigs. Fully furnished, warm and welcoming. He heads to the\nkitchen, pulls out some pork cutlets he's been thawing. We see,\nsitting on the counter, a Christmas card with a photo attached:\nLaura, Harry, and a FOUR-YEAR-OLD BOY, all gathered on a couch\nand smiling at the camera."
+  },
+  {
+   "type": "location",
+   "text": "135   INT. SEBASTIAN'S APARTMENT - LATER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian eats his meal, in a new shirt and pants. Checks\nhis watch."
+  },
+  {
+   "type": "location",
+   "text": "136   EXT. JAZZ CLUB - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian pulls up outside the club. New car, same style.\nGets out and passes by a movie poster as he walks. We\ncan't see the title, but we can catch a glimpse of a face\non it.\nIt's MIA..."
+  },
+  {
+   "type": "location",
+   "text": "137   INT. JAZZ CLUB - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "We're back in the club.\nRevision                       79.\nIt's bustling now -- the BARTENDERS setting up, DOORMEN\ncoming in, MUSICIANS sound-checking. Sebastian enters, the\nmusicians greet him --\nDRUMMER"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "King Seb!"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Hothouse Eddie -- miss me?"
+  },
+  {
+   "type": "stage direction",
+   "text": "DRUMMER"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Like the desert misses the rain."
+  },
+  {
+   "type": "stage direction",
+   "text": "And then -- we see a SAXOPHONIST we recognize. One of the old\nLighthouse players.\nSAXOPHONIST"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Seb -- Edgar's bringing his horn tonight."
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Yeah? Tell him to tune it, huh?"
+  },
+  {
+   "type": "stage direction",
+   "text": "SAXOPHONIST"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "That's not Edgar."
+  },
+  {
+   "type": "stage direction",
+   "text": "Laughs, pats on the back."
+  },
+  {
+   "type": "location",
+   "text": "138   INT. ROOM - CHATEAU MARMONT - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia, in a new outfit, crosses the living area and grabs her\npurse and jacket. David is by the door, jacket on as well.\nMia bends back around a sofa, where the GIRL we saw before is\nseated next to a nineteen-year-old baby-sitter, CHELSEA."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Bye, sweetie. You be nice to Chelsea."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Girl nods. Mia kisses her forehead. Heads to the door.\nCHELSEA"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Bye, Mrs. Dolan."
+  },
+  {
+   "type": "location",
+   "text": "139   OMIT\n140   INT. CAR - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "David drives, Mia seated beside him. They're on the 101.\nGridlock traffic up ahead.\nDAVID"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "What if we miss this? What do we tell\nNatalie?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revision                      80."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "We can just see it back in New York..."
+  },
+  {
+   "type": "stage direction",
+   "text": "David nods. Looks at the time on the car. 8:06."
+  },
+  {
+   "type": "location",
+   "text": "141   INT. CAR - LATER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia and David are seated. Still not moving. Mia looks at the\nclock again: 8:27."
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Do you want to just skip it...? Turn off\nhere and get dinner?"
+  },
+  {
+   "type": "stage direction",
+   "text": "David looks at her. Smiles.\nDAVID"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Alright..."
+  },
+  {
+   "type": "location",
+   "text": "142   EXT. CITY STREET - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia and David walk down a street. A few open restaurants and\nbars, a few other closed storefronts. A lot of old, weathered\nbuildings: 1930's stucco, Art Deco signs.\nThen -- David's ears perk up. He hears something. MUSIC...\nHe looks around. Doesn't see the source. Heads to the end of\nthe block, then sees, just up ahead, a few people entering a\nbuilding. Seems to be where the music's coming from...\nMia heads over, curious. The music grows louder -- sounds like\na JAZZ COMBO. Mia peeks toward the door...\n...and then FREEZES.\nThe sign on the door reads: \"SEB'S\". It's written the way she\ndrew it for Sebastian, years ago...\nComing up to her side, oblivious --\nDAVID (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "This looks fun."
+  },
+  {
+   "type": "stage direction",
+   "text": "David edges past Mia. Glimpses the bar inside. Turns to her,\ninviting --\nDAVID (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Come on..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia doesn't know what to say. She follows David...\nRevision                          81."
+  },
+  {
+   "type": "location",
+   "text": "143   INT. JAZZ CLUB - CONTINUOUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Inside, a JAZZ COMBO is tearing through a fast bop chart. The\nseats around the band are almost all occupied. Young fans,\nolder couples, passersby trickling in from outside. It's an\nexcited crowd, far more varied than what we saw at the\nLighthouse -- a real range of ages and styles.\nMia's eyes drift as David heads to the bar. She recognizes the\nimages on the walls -- all Sebastian's. Recognizes a stool by\nthe bar -- also Sebastian's, formerly Hoagy Carmichael's...\nDAVID (CONT'D)"
+  },
+  {
+   "type": "speech",
+   "character": "MIA (CONT'D)",
+   "text": "Mia?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She turns to David. Wavering, unsure what to do, she follows\nhim as he manages to find two empty seats close to the\nbandstand...\nThe combo finishes. Hearty applause. A young PIANIST rises\nfrom the keys, waves \"thanks\".\nAnd -- just then -- Sebastian appears. Mia looks at him,\nfrozen."
+  },
+  {
+   "type": "stage direction",
+   "text": "(taking the microphone)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "Manny Halloran, ladies and gentlemen."
+  },
+  {
+   "type": "stage direction",
+   "text": "(more applause)"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN",
+   "text": "I don't know, I told him to play \"Jingle\nBells\"."
+  },
+  {
+   "type": "stage direction",
+   "text": "The crowd laughs. Sebastian smiles, looks at them --\n-- and sees Mia.\nShock. The two LOCK EYES -- and you can tell it's the first\ntime they've seen each other in years.\nA prolonged silence. Sebastian is speechless.\nThen -- forcing himself to keep on a face --"
+  },
+  {
+   "type": "speech",
+   "character": "SEBASTIAN (CONT'D)",
+   "text": "Welcome to Seb's."
+  },
+  {
+   "type": "stage direction",
+   "text": "More applause. Sebastian sits at the piano. Looks at the keys.\nHe seems uncertain -- perhaps unsure what to play. He looks at\nMia. Takes the sight in. Beat. Then looks at his fellow\nmusicians. Murmurs to them. Then turns back to the keys --\n-- and finally starts playing.\nRevision                         82.\nA quieter tune, just piano, soft and tender and melancholy. A\nmelody we -- and Mia -- instantly recognize...\nIt's Mia and Sebastian's song.\nMia looks at Sebastian. He looks at her, then back at his keys.\nThis is the most beautiful we've ever heard his playing. The\nmost tender, and full of emotion, it has ever sounded.\nWe MOVE CLOSER on Sebastian. We recognize this image. It\nrecalls the visualization of his dream, back at the RESTAURANT\nthat night in winter, years ago. Gradually, as Sebastian\nplays, his surroundings seem to grow DARKER. Slowly, subtly at\nfirst, with just shifts in lighting, then a shift in\nperspective, the interior of the club changes, and soon..."
+  },
+  {
+   "type": "location",
+   "text": "144   ...we find ourselves back at that same RESTAURANT... Back when"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia laid eyes on Sebastian for the first time...\nWithin this fantasy-flashback, Sebastian finishes his piece.\nWe stick on Mia, watching him as his Boss talks to him. All is\nas before, as we remember it... And sure enough, Mia\napproaches Sebastian as he walks near her, and --"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "I just wanted to say -- I saw your\nplaying, and I --"
+  },
+  {
+   "type": "stage direction",
+   "text": "-- but instead of brushing past her --\n-- Sebastian decks her with a kiss for the ages.\nA BURST OF ORCHESTRAL MUSIC. The DINERS in the restaurant spin\naround to face Mia and Sebastian -- and SNAP their fingers in\ntime. Even the Boss starts to DANCE. Mia and Sebastian grin --\nand then strut out together, hand in hand... [EPILOGUE]"
+  },
+  {
+   "type": "location",
+   "text": "145   INT. NEW APARTMENT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia and Sebastian push open a new door -- to their new place.\nIt's a shabby one-bedroom -- but it's theirs..."
+  },
+  {
+   "type": "location",
+   "text": "146   INT. LIGHTHOUSE CAFE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Next, Keith approaches Sebastian at the Lighthouse -- but\nSebastian immediately shakes his head \"no\"."
+  },
+  {
+   "type": "location",
+   "text": "147   INT. THEATER - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian watches Mia perform -- it's the night of her play.\nHe stands up to applaud -- and behind him, the entire\ntheater, utterly packed, rises as well. A huge standing\novation. Mia's ROOMMATES are there, giddy with joy, as are\nLAURA and HARRY...\nRevision                          83."
+  },
+  {
+   "type": "location",
+   "text": "148      INT. STUDIO SOUNDSTAGE - DAY / NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mia and Sebastian walk together outside -- but now that we're\noutside we realize this isn't the real L.A. at all..\nThis, in fact, is an L.A. that doesn't exist. A painted-\nbackdrop L.A., just like the one we saw Mia pass by when\nparking on the lot...\nThe old orange groves and the gabled rooftops and the moss-\ncovered bungalows and the ivy-decked lamps, the jacaranda\ntrees and the giant hills and Griffith and the Santa Monica\nPier -- all painted, all props, all figments of a studio-\nbackdrop imagination. We've entered a fully fantastical\nrealm, the realm of the old Hollywood ballets of the 40's and\n50's..."
+  },
+  {
+   "type": "location",
+   "text": "A148     Everyone DANCES -- the pedestrians and the street performers"
+  },
+  {
+   "type": "stage direction",
+   "text": "and the cops and the guards... AMY BRANDT races up to Mia --\nseems to beckon her to audition... We see the audition\nsilhouetted against a wall... We don't hear Mia sing, but the\nmusic takes on the melody of her song, carrying us to..."
+  },
+  {
+   "type": "location",
+   "text": "B148     PARIS... Sebastian travels there with Mia... We chart the"
+  },
+  {
+   "type": "stage direction",
+   "text": "journey through an OLD GLOBE -- the same one we saw Mia use\nfor her play -- a miniature plane and dissolves, the old-\nHollywood-movie way...\nFinally, we find ourselves looking at a PAINTED BACKDROP of\nParis -- the same one Mia used for her play. The Sacr\u00e9-Coeur\nand the Arc de Triomphe and the Eiffel Tower etched in bright\ncolors, the ornate lampposts and the cobblestones stretching\nbefore us... And then a sign -- \"CAVEAU DE LA HUCHETTE\"..."
+  },
+  {
+   "type": "location",
+   "text": "C148     We see a jam session at the Caveau -- a crypt-like jazz club."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian plays, on cloud nine..."
+  },
+  {
+   "type": "location",
+   "text": "C148pt   We see a MOVIE SHOOT, Mia surrounded by lights and cranes,"
+  },
+  {
+   "type": "stage direction",
+   "text": "decked in movie-movie glow.\nWe're BACK to the Caveau. The lights go out -- except for the\nTRUMPETER, playing out a lovelorn solo, rim-lit. We MOVE in\nclose on his horn -- DIVE into the bell --"
+  },
+  {
+   "type": "location",
+   "text": "D148     -- and emerge into NIGHTTIME PARIS. All painted. Mia and"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sebastian wander through this wonderland, pedestrians frozen\naround them... Finally, they stop and look at one another...\nAnd -- as the city lights behind them start to glitter like\nall the stars of the galaxy...\n...they DANCE.\nRevision                        84.\nThis is the last time we'll ever see them dance, and they\nseem to recognize that, so graceful and poised are their\nmovements... Remember -- this is a romance more perfect than\na real romance could ever be...\nWe DISSOLVE again -- to a projector beam...\n16mm footage plays on a screen, full of scratches and pockets\nof light... Mia and Sebastian sit down to watch together --\nand we see the following moments in brief, vivid GLIMPSES, as\nwe move in closer on the imagery:"
+  },
+  {
+   "type": "location",
+   "text": "149   The first home... (16mm)\n150   Mia's pregnancy... (16mm)\n151   The newborn child... (16mm)\n152   The child's first birthday... (16mm)\n153   The child's first day of pre-school, all dressed up... (16mm)"
+  },
+  {
+   "type": "stage direction",
+   "text": "Everything here glows with the warmth of old home movies...\nThese are memories, fluttering by, grabbed at random -- and\nyet all concocted, dreamed up out of nothing... The SCORE\ncontinuing to sway and taking us right up to..."
+  },
+  {
+   "type": "location",
+   "text": "154   Sebastian and Mia, husband and wife, father and mother,"
+  },
+  {
+   "type": "stage direction",
+   "text": "hiring a babysitter because they've decided to go out for a\nnight at the movies... (We're back to 35mm now.) The look\nhere is unaffected, just everyday. The MUSIC quiets slightly,\neverything goes more natural, as this happily married couple\nhit the road..."
+  },
+  {
+   "type": "location",
+   "text": "155   ...then find themselves blocked by a traffic jam...then take"
+  },
+  {
+   "type": "stage direction",
+   "text": "a side route, winding up in another part of L.A..."
+  },
+  {
+   "type": "location",
+   "text": "156   ...then walk down the street, then hear music -- a jazz combo"
+  },
+  {
+   "type": "stage direction",
+   "text": "playing somewhere..."
+  },
+  {
+   "type": "location",
+   "text": "157   ...and step into a place that looks just like Sebastian's"
+  },
+  {
+   "type": "stage direction",
+   "text": "club... They sit down to listen...\nAnd then -- and this is how our imagined montage-musical\nnumber ends -- the combo's PIANIST, who of course is not\nSebastian, launches into Mia and Sebastian's melody...\n...and Mia and Sebastian look at each other, recognizing it.\nThe music goes full-circle, back to where it started, as Mia\nand Sebastian look into each other's eyes, lean in and,\nsoftly, but with all the love in the world...\n...KISS.\nRevision                           85."
+  },
+  {
+   "type": "location",
+   "text": "158   WE CUT BACK TO THE PIANO: Sebastian has just finished his"
+  },
+  {
+   "type": "stage direction",
+   "text": "piece. We're back to reality. The audience in the club\napplauds.\nBeat. Mia looks at Sebastian. Looks away. A moment passes.\nDAVID"
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "Do you want to stay for another?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She's silent for a second. Then she looks at David."
+  },
+  {
+   "type": "speech",
+   "character": "MIA",
+   "text": "No... We should go."
+  },
+  {
+   "type": "stage direction",
+   "text": "He nods. They rise from their seats and head for the exit.\nJust as they reach the door, and as David steps out, Mia turns\nand looks back at Sebastian. He looks at her. Their eyes lock.\nA hint of a tear in both...\nAnd, ever so subtly, for just a fleeting second, Mia smiles.\nIt's the kind of smile you could miss if you blinked -- but\nit's enough to signal to Sebastian that she recognized the\nmelody he played, and that she still remembers it, and still\nthinks of it to this day...\nThen she walks out the door. Sebastian glances at his fellow\nmusicians. Then, he nods, and they launch into a new chart."
+  },
+  {
+   "type": "location",
+   "text": "159   EXT. STREET - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "It's silent outside. You can't hear the music. Mia and David\nreach their car. They get in. It pulls out.\nPassing by Sebastian's club, the car continues on. We stay put,\nthe jazz club on one side of the frame, the lights of the car\non the other. Those lights growing smaller and smaller, before\nfinally disappearing into the big L.A. night...\nIRIS FADE OUT.\nTHE END"
+  }
+ ]
+}

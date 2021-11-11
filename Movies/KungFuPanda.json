@@ -1,0 +1,4893 @@
+{
+ "movie_url": "https://imsdb.com/scripts/Kung-Fu-Panda.html",
+ "movie_title": "Kung Fu Panda",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "KUNG FU PANDA\nWritten By\nJonathan Aibel & Glenn Berger\nFINAL DRAFT\nJune 3, 2008\n1.\nEXT. VALLEY -- DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "A MYSTERIOUS WARRIOR treks across the rugged landscape."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR (V.O.)",
+   "text": "Legend tells of a legendary warrior\nwhose Kung Fu skills were the stuff\nof legend.\nThe warrior, his identity hidden beneath his flowing robe and\nwide-brimmed hat, gnaws on a staff of bamboo."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR (V.O.) (CONT'D)",
+   "text": "He traveled the land in search of\nworthy foes."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. BAR"
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR (V.O.) (CONT'D)",
+   "text": "The warrior sits at a table drinking tea and gnawing on his\nbamboo. The door BLASTS open. The MANCHU GANG rushes in and\nsurrounds him."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to warrior)"
+  },
+  {
+   "type": "speech",
+   "character": "GANG BOSS",
+   "text": "I see you like to CHEW!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(beat)"
+  },
+  {
+   "type": "speech",
+   "character": "GANG BOSS",
+   "text": "Maybe you should chew on my FIST!!\nThe Boss punches the table."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR (V.O.)",
+   "text": "The warrior said nothing for his\nmouth was full. Then, he swallowed.\nHe swallows."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR (V.O.) (CONT'D)",
+   "text": "And then, he spoke."
+  },
+  {
+   "type": "stage direction",
+   "text": "(dubbed hero voice)"
+  },
+  {
+   "type": "speech",
+   "character": "WARRIOR",
+   "text": "Enough talk. Let's FIGHT!\nSHASHABOOEY!\nWHAM! The warrior delivers a punch and the whole gang goes\nflying."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR (V.O.)",
+   "text": "He was so deadly in fact that his\nenemies would go blind from\noverexposure to pure awesomeness."
+  },
+  {
+   "type": "stage direction",
+   "text": "2."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR (V.O.)",
+   "text": "The gang members blindly flail about."
+  },
+  {
+   "type": "speech",
+   "character": "NINJA CAT",
+   "text": "MY EYES!"
+  },
+  {
+   "type": "speech",
+   "character": "GATOR",
+   "text": "HE'S TOO AWESOME!\nONLOOKERS swoon."
+  },
+  {
+   "type": "speech",
+   "character": "SMITTEN BUNNY",
+   "text": "And ATTRACTIVE!"
+  },
+  {
+   "type": "speech",
+   "character": "GRATEFUL BUNNY",
+   "text": "How can we repay you??"
+  },
+  {
+   "type": "speech",
+   "character": "WARRIOR",
+   "text": "There is no charge for awesomeness,\nor attractiveness.\nONE HUNDRED ASSASSINS appear and surround the warrior."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. BAR - CONTINUOUS"
+  },
+  {
+   "type": "speech",
+   "character": "WARRIOR",
+   "text": "The entire bar swells, packed to the rafters with ninjas."
+  },
+  {
+   "type": "speech",
+   "character": "WARRIOR",
+   "text": "KABLOOEY!"
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. BAR - CONTINUOUS"
+  },
+  {
+   "type": "speech",
+   "character": "WARRIOR",
+   "text": "The roof EXPLODES and a cloud of ninjas erupts into the sky.\nLike a tornado, the warrior spins and knocks them all down."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR (V.O.)",
+   "text": "It mattered not how many foes he\nfaced. They were no match for his\nbodacity.\nThe warrior beats up a thousand ninjas, delivering his final\nblow while doing a split between two trees.\nThe warrior stands amongst a field of vanquished foes as god-\nrays shine down upon him."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR (V.O.) (CONT'D)",
+   "text": "Never before had a panda been so\nfeared... and so loved."
+  },
+  {
+   "type": "stage direction",
+   "text": "3."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR (V.O.) (CONT'D)",
+   "text": "Even the most heroic heroes in all\nof China, the Furious Five, bowed\nin respect to this great master."
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "We should hang out."
+  },
+  {
+   "type": "speech",
+   "character": "WARRIOR",
+   "text": "Agreed.\nAs the Five salute the warrior, he turns to see more bandits\napproaching. The Five strike an attack pose. The warrior\nbrandishes a shiny green sword and leaps off the mountain\ninto the sea of bandits."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR (V.O.)",
+   "text": "But hanging out would have to wait.\n`Cause when you're facing the ten\nthousand demons of Demon Mountain,\nthere's only one thing that\nmatters. And that's--\nIn mid air, the Five talk to the warrior in a strange voice."
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "Po! Get up!"
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "You'll be late for work!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Whu?"
+  },
+  {
+   "type": "location",
+   "text": "INT. PO'S ROOM - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Po lands hard on the floor. He tries to clear his head and\nwake up."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (O.S.)",
+   "text": "Po! Get up!\nWe see his room is filled with various kung fu posters\n(including a poster featuring all of the Five) and souvenirs,\nand a wooden version of the Sword of Heroes (the green\nsword).\nPo SIGHS.\nHe attempts to kick himself to his feet but alas, his belly\nis too worthy a foe."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (O.S.) (CONT'D)",
+   "text": "Po! What are you doing up there?"
+  },
+  {
+   "type": "stage direction",
+   "text": "4."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Uh, nothing!\nPo hops to his feet, imitating his Kung Fu action figures."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Monkey! Mantis! Crane! Viper!\nTigress! Rowrrrr...\nOUTSIDE on the balcony of the neighboring house, a pig\nwatering flowers stares at Po. Po tries to play it cool and\nthen quickly ducks out of sight."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (O.S.)",
+   "text": "Po! Let's go! You're late for work!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Coming!\nHe takes a ninja star from his floor and chucks it at the\nwall. It bounces off.\nHe throws the star again, but it bounces off again. He picks\nit up and heads downstairs. He trips and falls the rest of\nthe way."
+  },
+  {
+   "type": "location",
+   "text": "INT. KITCHEN - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Po falls flat on his face on the kitchen floor. A panda-\nshaped shadow looms over Po."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Sorry, Dad."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Sorry doesn't make the noodles.\nReveal that the shadow is actually caused by a basket being\ncarried by a small DUCK. This is PO'S DAD. Po gets to work,\nwhich is not easy since the kitchen's not really made for a\npanda his size."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "What were you doing up there? All\nthat noise."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Oh, nothing. Just had a crazy\ndream.\nHe gets back to work."
+  },
+  {
+   "type": "stage direction",
+   "text": "5."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "About what?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Huh?"
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "The dream. What were you dreaming\nabout?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "What was I... eh, I was dreaming\nabout uh... heh...\nPush in on Po -- is he going to admit his dream? He hides his\nthrowing star behind his back."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Noodles.\nTHOK. Dad stops chopping vegetables."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Noodles. You were really dreaming\nabout noodles?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Uh, yeah. What else would I be\ndreaming about?\nPo hands a noodle bowl to a customer, then realizes his\nthrowing star is sitting in it."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to customer)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Careful, that soup is... sharp!"
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Oh, happy day! My son, finally\nhaving the noodle dream!\nHe throws his arms around Po."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "You don't know how long I have been\nwaiting for this moment.\nWhen Dad pulls out of the hug, Po is now wearing a noodle\napron."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "This is a sign, Po!"
+  },
+  {
+   "type": "stage direction",
+   "text": "6."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "Po looks at the apron nervously -- what has he gotten himself\ninto?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Uh...a sign of what?"
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "You are almost ready to be\nentrusted with the secret\ningredient of my \"Secret Ingredient\nSoup.\" And then you will fulfill\nyour destiny and take over the\nrestaurant, just as I took it over\nfrom my father, who took it over\nfrom his father, who won it from a\nfriend in a game of mahjong."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Dad Dad Dad, it was just a dream."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "No, it was the dream. We are noodle\nfolk. Broth runs through our veins."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "But Dad, didn't you ever, I dunno,\nwant to do something else?\nSomething besides noodles?"
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Actually...\nPo looks surprised."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "When I was young and crazy...\nDad gets a wistful look in his eyes."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "I thought about running away and\nlearning how to make tofu."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "So why didn't you?!"
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Oh, because it was a stupid dream.\nCan you imagine, me making tofu?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(laughs at the thought)"
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "No. We all have our place in this\nworld. Mine is here. And yours is--"
+  },
+  {
+   "type": "stage direction",
+   "text": "7."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I know. Is here."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "No, it's at tables two, five,\nseven, and twelve.\nHe loads Po's arms with bowls of soup."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "Service with a smile!\nA GONG sounds in the distance. Po looks out the window at the\ndistant JADE PALACE."
+  },
+  {
+   "type": "location",
+   "text": "EXT. JADE PALACE - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "SLAM ZOOM in towards Palace.\nEnd next to palace on an old red panda (SHIFU) playing a\nFLUTE. He is surrounded by the bushes and trees that nestle\nbetween the Palace buildings.\nWider: We dolly around from behind the bushes. Stealthy dark\nshapes move in the foreground.\nBack on Shifu, still playing. He seems oblivious.\nFive figures explode from the undergrowth simultaneously,\ndiving on Shifu.\nShifu moves like lightning - the flute now wielded like a\nstaff - he deflects, blocks, dodges, parries - the attackers\ngo flying -\nThey roll and pick themselves up, turning to face Shifu, who\nis now standing - poised - ready for their next move."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Well done, students... if you were\ntrying to disappoint me.\nHe uses his flute to correct the Five's technique."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Tigress, you need more ferocity.\nMonkey, greater speed.\nEach of the Five bows respectfully as their name is\nmentioned."
+  },
+  {
+   "type": "stage direction",
+   "text": "8."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Crane - height. Viper - subtlety.\nMantis--\nShifu suddenly points the flute at a scared PALACE GOOSE."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Master Shifu!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(impatiently)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "What?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(startled)"
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Aah! It's Master Oogway. He wants\nto see you.\nShifu looks up, concerned."
+  },
+  {
+   "type": "location",
+   "text": "INT. HALLWAY"
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Shifu strides purposefully down the hallway, which is lined\nwith palace geese."
+  },
+  {
+   "type": "location",
+   "text": "INT. SCROLL ROOM - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Candles, incense, and smoke fill the room. The door bursts\nopen, the candles flicker. Shifu enters."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Master Oogway? You summoned me.\nHe bows. Then looks up without unbowing."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Is something wrong?\nReveal Master Oogway... a wise, old tortoise."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Why must something be wrong for me\nto want to see my old friend?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "So... nothing's wrong?"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Well, I didn't say that.\nShifu looks up, concerned. Oogway opens his mouth... and\nblows out a candle. And another candle. And another."
+  },
+  {
+   "type": "stage direction",
+   "text": "9."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Finally, Shifu uses his Kung Fu to blow them all out. Oogway\nsmiles knowingly."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You were saying?"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "I have had a vision... Tai Lung\nwill return.\nShifu looks stricken.\nFLASHBACK - INT. SCROLL ROOM\nQuick, impressionistic images of Shifu battling a large,\nshadowy figure (Tai Lung).\nPRESENT - INT. SCROLL ROOM\nShifu is rattled. He looks at the claw marks that still scar\nthe wall and quickly looks away. But he regains his\ncomposure."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "That is impossible. He is in\nprison."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Nothing is impossible.\nShifu makes a split decision."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Zeng!\nHe comes flying in. Shifu gets in his face."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Fly to Chogun Prison and tell them\nto double the guards, double their\nweapons. Double everything! Tai\nLung does not leave that prison!"
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Yes, Master Shifu.\nThe goose flies off, but... SMACK! He hits a column. Then he\nis off. Back on Oogway, as he walks toward camera, away from\nShifu."
+  },
+  {
+   "type": "stage direction",
+   "text": "10."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "One often meets his destiny on the\nroad he takes to avoid it."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "We have to do something. We can't\njust let him march on the valley,\nand take his revenge! He'll, he'll--\nOogway looks into the water of the moon pool."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Your mind is like this water, my\nfriend. When it is agitated, it\nbecomes difficult to see. But if\nyou allow it to settle, the answer\nbecomes clear.\nShifu and Oogway stare into the pool. Oogway settles the\nwater, revealing the reflection of an intricately carved\ndragon clutching a SCROLL in its mouth."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "The Dragon Scroll..."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "It is time."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "But who? Who is worthy to be\ntrusted with the secret to\nlimitless power? To become...the\nDragon Warrior?!\nDramatic music as we push in on Oogway's face. Then..."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "I don't know."
+  },
+  {
+   "type": "location",
+   "text": "INT. NOODLE SHOP - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Po is serving customers, but has trouble squeezing between\ntables."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Oop...sorry."
+  },
+  {
+   "type": "speech",
+   "character": "ANGRY PATRON",
+   "text": "Hey! Watch it, Po!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Sorry. Suck it up."
+  },
+  {
+   "type": "stage direction",
+   "text": "11."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "He sucks his belly in, but this causes his butt to interfere\nwith a bunny family's meal."
+  },
+  {
+   "type": "speech",
+   "character": "DISGUSTED PATRON",
+   "text": "Ugh!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Oop! Sorry! A thousand pardons.\nA couple palace geese put up a poster on the wall and a\npalace pig hits a tiny gong. This gets Po's attention. He\nrushes up to the poster."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "What?! Master Oogway's choosing the\nDragon Warrior! Today!\nCustomers jump up excitedly."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Everyone! Everyone! Go! Get to the\nJade Palace!\nPo urges the villagers out the restaurant."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "One of the Five is gonna get the\nDragon Scroll!\nCustomers rush to finish their food."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "We've been waiting a thousand years\nfor this! Just take the bowl!\nOther customers are finishing their soup.\nOne old lady customer slowly counts out coins and puts them\non the table."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "This is the greatest day in Kung Fu\nhistory! Don't worry about it, just\ngo!\nHe starts to run."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Po! Where are you going?\nPo stops dead in his tracks, busted."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "To the...Jade Palace?"
+  },
+  {
+   "type": "stage direction",
+   "text": "12."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "But you're forgetting your noodle\ncart! The whole valley will be\nthere, and you'll sell noodles to\nall of them."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Selling noodles? But Dad, you know,\nI was kinda thinking maybe I..."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Yeah?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I was kinda thinking maybe I..."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Uh huh?\nPo wants to say something to his dad, but he loses his nerve."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "...Could also sell the bean buns.\nThey are about to go bad."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "That's my boy! I told you that\ndream was a sign!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Yeah, ha ha, glad I had it."
+  },
+  {
+   "type": "location",
+   "text": "EXT. VALLEY SQUARE - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Throngs of Villagers are streaming into the arena. A couple\nBUNNY KIDS run by."
+  },
+  {
+   "type": "speech",
+   "character": "BUNNY FAN #1",
+   "text": "Yippee!"
+  },
+  {
+   "type": "speech",
+   "character": "BUNNY FAN #2",
+   "text": "I'm a Kung Fu warrior!"
+  },
+  {
+   "type": "speech",
+   "character": "BUNNY FAN #1",
+   "text": "Me too!\nWhere's Po?\nPAN DOWN a long, long, long, long flight of stairs. Po stands\nat the bottom with his noodle cart, looking up at the\ndaunting task before him.\nPo struggles to pull his noodle cart up the stairs."
+  },
+  {
+   "type": "stage direction",
+   "text": "13."
+  },
+  {
+   "type": "speech",
+   "character": "BUNNY FAN #1",
+   "text": "The sun beats down on Po, but he presses forward. Climbing.\nClimbing."
+  },
+  {
+   "type": "stage direction",
+   "text": "DISSOLVE TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. VALLEY SQUARE - LATER"
+  },
+  {
+   "type": "speech",
+   "character": "BUNNY FAN #1",
+   "text": "Po is still struggling up the stairs."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Come on! Come on, ya-- Almost\nthere...\nHe stops, flopping onto his back to catch his breath.\nWIDEN TO REVEAL he's only made it up seven steps."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "What? No! Oh No!\nTwo Pigs pass by."
+  },
+  {
+   "type": "speech",
+   "character": "KG SHAW",
+   "text": "Sorry, Po."
+  },
+  {
+   "type": "speech",
+   "character": "JR SHAW",
+   "text": "We'll bring you back a souvenir.\nPo watches as they run up the stairs. His eyes narrow. This\nis his heroic moment."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "No. I'll bring me back a souvenir.\nPo tosses off his hat and apron and begins his ascent up the\nstairs."
+  },
+  {
+   "type": "location",
+   "text": "EXT. JADE PALACE - ARENA PLATFORM"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Oogway reaches the bottom of the palace stairs and a Palace\nPig bangs a gong."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "It is an historic day, isn't it,\nMaster Oogway?"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Yes, and one I feared I would not\nlive to see. Are your students\nready?"
+  },
+  {
+   "type": "stage direction",
+   "text": "14."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Yes, Master Oogway."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Now know this, old friend. Whomever\nI choose will not only bring peace\nto the Valley, but also to you.\nAs Shifu contemplates what this could mean, Oogway starts\nwalking off. Shifu quickly joins Oogway as they head towards\nthe roaring crowd below. The pig bangs the gong."
+  },
+  {
+   "type": "speech",
+   "character": "ANNOUNCER",
+   "text": "Let the tournament begin!"
+  },
+  {
+   "type": "location",
+   "text": "EXT. VALLEY SQUARE - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "ANNOUNCER",
+   "text": "Throngs of Villagers are streaming into the arena."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TOP OF STAIRS - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "ANNOUNCER",
+   "text": "Po gasps for air as he hoists himself over the last step,\nlaughing victoriously."
+  },
+  {
+   "type": "stage direction",
+   "text": "(out of breath)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Yeah!\nThe doors to the palace arena begin to close."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Oh no! No no no! Wait! I'm coming!\nPo runs to the entrance and proceeds to bang on the door."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Hey! Open the door!\nDRUMS inside drown out Po's pounding. He yells."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Let me in!\nInside, spectators' screams drown out Po's yelling.\nPo panics for a beat and then finds a window. He jumps and\nweakly struggles to pull himself up.\nPo struggles to peek through the window."
+  },
+  {
+   "type": "stage direction",
+   "text": "15."
+  },
+  {
+   "type": "location",
+   "text": "INT. PALACE ARENA - CONTINUOUS"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Citizens of the Valley of Peace! It\nis my great honor to present to\nyou... Tigress! Viper! Crane!\nMonkey! Mantis! The Furious Five!\nThe Five jump into the middle of the ring."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "The Furious Five!\nPo manages a brief glimpse of the Five before a gust of wind\nknocks Po to the ground and shuts the window."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Warriors prepare!\nPo runs over to a crack in the wall."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Peeky-hole!"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Ready for battle!\nInside the arena, Po catches a glimpse of Crane as he spreads\nhis wings."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Yeah! Woo! The Thousand Tongues of\nFire!\nOne of the spectators walks in front of Po, cutting off his\nview."
+  },
+  {
+   "type": "speech",
+   "character": "PIG FAN",
+   "text": "Whoa! Look at that."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Hey, get out of the way!\nPo backs up to get a better look at Crane in the sky and\naccidentally falls down the stairs.\nPo climbs back up and drops his head -- he missed it.\nMONTAGE:\nPo tries karate chopping the door open...to no avail. He\nslumps to the ground."
+  },
+  {
+   "type": "stage direction",
+   "text": "16."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Ow...\nPo attempts a pole vault, but falls on his back. The pole\nwhips around and hits him into the arena wall.\nPo rigs a catapult, only to get clobbered by it. The crowd\nCHEERS.\nPo sits atop the stairs. Alone."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "And finally...Master Tigress!\nPo snaps to attention.\nPo pulls on a rope tied to a tree."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (O.S.) (CONT'D)",
+   "text": "And believe me citizens, you have\nnot seen anything yet!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I KNOW!!"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (O.S.)",
+   "text": "Master Tigress! Face Iron Ox and\nhis Blades of Death!\nTigress sets up to deliver her move.\nPo launches himself up above the fence, gets a peek at\nTigress, then falls out of view just as she does her move.\nPo lands outside the arena in a fireworks tent."
+  },
+  {
+   "type": "location",
+   "text": "INT. TOURNAMENT RING - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (O.S.)",
+   "text": "Oogway senses something. He raises his hand and the crowd\nhushes."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "I sense the Dragon Warrior is among\nus.\nShifu motions for the Five to gather in the center of the\nring."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Citizens of the Valley of Peace!\nMaster Oogway will now choose...\nthe Dragon Warrior!"
+  },
+  {
+   "type": "stage direction",
+   "text": "17."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TOURNAMENT RING - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Po comes to."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Huh? Oh no! Wait!\nHe sees the fireworks and has an idea."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Yeah!"
+  },
+  {
+   "type": "location",
+   "text": "INT. TOURNAMENT RING - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Oogway closes his eyes and raises his hand as ceremonial\nDRUMS start to play."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TOURNAMENT RING - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Po struggles with something, his back turned to us. Reveal he\nhas tied a load of fireworks to a chair. He hops on and\nlights the fuse."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (O.S.)",
+   "text": "Po?!\nPo's Dad rushes over and tries to blow out the fuse."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "What are you doing?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "What does it look like I'm doing?\nStop! Stop! I'm going to see the\nDragon Warrior!"
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "But I don't understand. You finally\nhad the noodle dream.\nPo looks uneasy."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I lied. I don't dream about\nnoodles, Dad!\nHe looks at the fuse... almost all gone... Po holds onto the\nchair for dear life, closes his eyes, and braces himself for\nliftoff."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "I love kung fuuuuuuuuuuuuuuuuu-"
+  },
+  {
+   "type": "stage direction",
+   "text": "18."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Po finally opens his eyes...\nHe's still on the ground. The fuse was a dud. Po falls face\nfirst into the dirt. He looks away, embarrassed. Po's Dad\nholds out his apron."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Come on, son. Let's get back to\nwork."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Okay.\nPo sighs, starts to reach for the apron, then-- BOOM! The\nrockets ignite, propelling Po into the stadium wall."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Oh! Come back!\nPo's rocket chair blasts him into the sky amid a shower of\nfireworks."
+  },
+  {
+   "type": "speech",
+   "character": "CROWD",
+   "text": "Oooh! Aaahh!\nPo climbs up and up...until the rockets die out and the chair\nloses power..."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Uh oh...\nOogway's arm sweeps down the line of the expectant Five... Po\nfalls towards the center of the ring...\nThe tension builds as the Five wait to see who will be\npicked. Then... SMASH!\nPo lands and kicks up a huge dirt cloud, obscuring the ring."
+  },
+  {
+   "type": "location",
+   "text": "INT. ARENA"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "PO POV: He sees the Five looking down at him, appalled. Po\ncomes round slowly, getting his bearings. He looks around and\nsees Oogway. Strangely, the old turtle is smiling."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "What's going on? Where...uh? What\nare you pointing--?\nHe looks up. An awful realization starts to dawn. Po GULPS.\nHe is desperately embarrassed."
+  },
+  {
+   "type": "stage direction",
+   "text": "19."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Oh. Okay. Sorry. I just wanted to\nsee who the Dragon Warrior was.\nHe tries to shuffle his butt out of there, mumbling\napologies."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "How interesting."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "Master, are you pointing at...me?"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Him."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Who--?\nPo tries moving out of the way of Oogway's finger, but it\nkeeps following him."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "You."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Me?\nOogway grabs Po's hand and holds it up for all to see."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "The universe has brought us the\nDragon Warrior!"
+  },
+  {
+   "type": "stage direction",
+   "text": "QUICK CUTS:"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "What?"
+  },
+  {
+   "type": "speech",
+   "character": "FURIOUS FIVE",
+   "text": "What??"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "What???"
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "WHAT????\nThe pig bangs the gong.\nThe crowd goes wild! They cheer! They scream! Confetti falls!\nA palanquin is carried past Shifu."
+  },
+  {
+   "type": "stage direction",
+   "text": "20."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Stop! Wait! Who told you to--?\nPo stands there, utterly stunned, his mouth hanging open. He\nis abruptly lifted up out of shot.\nCut to the Palace Geese straining.\nPo is being lifted with great effort on the palanquin. He is\ncarried off. Shifu elbows his way urgently through the\nthronging crowd to get to Oogway."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Master Oogway, wait! That flabby\npanda can't possibly be the answer\nto... our problem. You were about\nto point at Tigress. That thing\nfell in front of her. That was just\nan accident!"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "There are no accidents.\nOogway smiles benignly as we hear an off-screen CRASH!\nThe camera adjusts to reveal the palanquin has collapsed\nunder Po.\nShifu looks at Oogway. Oogway just smiles.\nA squad of burly pigs rushes in and hoists Po, the palanquin,\nand the Geese onto their shoulders, and they head off for the\nJade Palace. Stunned, Shifu watches them go.\nBehind him, the Five approach and bow."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "Forgive us, Master. We have failed\nyou.\nShifu spins around."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "No. If the panda has not quit by\nmorning, then I will have failed\nyou.\nConfetti flutters through the air as the celebration\ncontinues around them."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:\n21."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PRISON -- NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "A huge prison is carved into the side of a frozen mountain.\nFifteen stories of iron and rock. No windows. One door --\nlocked, bolted and sealed tight. Rhinoceros guards in armor\npatrol the perimeter.\nZeng, the palace goose, flies into frame and a Rhino Sentry\nspots him in the distance. He lands, sliding on the ice and\ncrashing into the gate. The rhinos point their spears at him."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Wait wait wait! I bring a message\nfrom Master Shifu.\nCLANG! The doors creak open. The terrified goose peers in."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. PRISON -- A MOMENT LATER"
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "What?!?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(reading)"
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "\"Double the guard?! Extra\nprecautions?! Your prison may not\nbe adequate!\"\nThe Goose is quaking in fear. Stern Rhinos surround him,\nstaring daggers at him. The Commander snaps the scroll shut."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER (CONT'D)",
+   "text": "You doubt my prison's security?"
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Absolutely not."
+  },
+  {
+   "type": "stage direction",
+   "text": "(then)"
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Shifu does. I'm just the messenger."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "I'll give you a message for your\nMaster Shifu.\nON A BRIDGE"
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "Escape from Chogun Prison is\nimpossible!\nThe Goose is awed by the cavernous prison."
+  },
+  {
+   "type": "stage direction",
+   "text": "22."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Whoa.\nThe goose looks over the bridge's edge. The prison goes down\na long ways. The commander hits the goose on the back."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "Impressive, isn't it?\nA feather from the goose drifts down the prison."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Yes, very impressive. It's VERY\nimpressive."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "One way in, one way out, one\nthousand guards, and one prisoner."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Yes, except that prisoner is Tai\nLung...\nAT THE ELEVATOR"
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "Take us down.\nSeveral guard rhinos winch the goose and the commander down.\nThe commander grabs the chain and shakes the elevator, trying\nto scare the goose."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "What are you doing?!\nThe commander just laughs. The elevator finally lands,\nsending an echo throughout the prison.\nAT DOORS -\nA number of doors unlock, one after the other. Finally, a\ndrawbridge is lowered out onto an island."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG (CONT'D)",
+   "text": "Oh my..."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "Behold, Tai Lung."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "I'll um...I'm just gonna wait right\nhere."
+  },
+  {
+   "type": "stage direction",
+   "text": "23."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "It's nothing to worry about. It's\nperfectly safe.\nHe shoves the goose out ahead of him."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Oof!"
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "Crossbows! At the ready!"
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Crossbows?!\nThey approach TAI LUNG, a giant, muscular snow leopard bound\nin a giant piece of tortoise shell armor and chains. He\nbarely registers signs of life. The commander walks right up\nto him."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "Hey, tough guy, did you hear?\nOogway's finally gonna give someone\nthe Dragon Scroll and it's not\ngonna be you!\nThe goose can't believe it."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "What are you doing?! Don't get him\nmad."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "What's he gonna do about it? I've\ngot him completely immobilized.\nThe Commander stomps on Tai Lung's tail. We hear a crunch.\nThe goose flinches. But Tai Lung does not react."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER (CONT'D)",
+   "text": "Awww. Did I step on the witty\nkitty's tail? Awww.\nTai Lung doesn't move. His eyes stare coldly straight ahead."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "I'm good. I've seen enough. I'm\ngonna tell Shifu he's got nothing\nto worry about."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "No, he doesn't."
+  },
+  {
+   "type": "stage direction",
+   "text": "24."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Okay, I'll tell him that. Can we\nplease go now?\nThe Commander starts to walk back to the elevator. The goose\nhurries after him.\nThe goose's feather flutters into frame. We follow the\nfeather as it lands right in front of Tai Lung.\nHIS EYES OPEN. Tai Lung grabs the feather with his tail."
+  },
+  {
+   "type": "location",
+   "text": "INT. JADE PALACE - HALLWAY"
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "The palace doors open to reveal Po on the palanquin, hundreds\nof villagers behind him."
+  },
+  {
+   "type": "stage direction",
+   "text": "(chanting)"
+  },
+  {
+   "type": "speech",
+   "character": "CROWD",
+   "text": "Dragon Warrior! Dragon Warrior!\nPo is ushered in and the doors close. He is alone. He runs\nback to the closed palace doors."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Wait a second! Hello? Uh...I think\nthere's been a slight mistake.\nEveryone seems to think that I'm,\nuh...\nPo finally realizes where he is."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Whoa. The Sacred Hall of Warriors.\nNo way! Would you look at this\nplace!\nHe rushes up to a display of armor."
+  },
+  {
+   "type": "stage direction",
+   "text": "(GASP)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Master Flying Rhino's Armor! With\nauthentic battle damage!\nHe rushes up to a green sword, making sure not to touch it."
+  },
+  {
+   "type": "stage direction",
+   "text": "(GASP)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "The Sword of Heroes! Said to be so\nsharp you can cut yourself just by\nlooking-- OW!\nHe stares at a black sopt on the wall."
+  },
+  {
+   "type": "stage direction",
+   "text": "25."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "(GASP)\nThe Invisible Trident of Destiny!?\nHe admires a painting."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "(GASP)\nI've only seen paintings of that\npainting...\nPo runs around the room, amazed by all the ancient kung fu\nartifacts. Something special catches Po's eye."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "(loudly)\nNooo! Ohhhh!\nHe runs over to it."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "The legendary Urn of Whispering\nWarriors! Said to contain the souls\nof the entire Tenshu army.\n(calling into vase)\nHellooo?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Have you finished sight-seeing?\nPo GASPS."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "(to vase)\nSorry. I should've come to see you\nfirst."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "My patience is wearing thin."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "(to vase)\nOh. Well, I mean, it's not like you\nwere going anywhere."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Would you turn around?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Sure.\nPo turns and sees Shifu."
+  },
+  {
+   "type": "stage direction",
+   "text": "26."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Hey, how's it going?\nPo turns back to the vase."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to vase)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Now how do you get five thousand--"
+  },
+  {
+   "type": "stage direction",
+   "text": "(cutting himself off)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Master Shifu!\nPo bumps the vase which falls and BREAKS."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Someone...broke that. But I'm gonna\nfix it. Do you have some glue?\nThe vase debris screams as Po tries to pick up the pieces."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Ow! Ooh. Splinter.\nPo fumbles around. Shifu looks irked."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "So you're the legendary Dragon\nWarrior. Hmmm?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Uh...I guess so?\nShifu smiles and shakes his head."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Wrong! You are not the Dragon\nWarrior. You will never be the\nDragon Warrior until you have\nlearned the secret of the Dragon\nScroll.\nHe points to a dragon on the ceiling with a single scroll in\nits mouth."
+  },
+  {
+   "type": "stage direction",
+   "text": "(in awe)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Whoa."
+  },
+  {
+   "type": "stage direction",
+   "text": "(then)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "So how does this work? You have a\nladder or trampoline or...?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You think it's that easy? That I am\njust going to hand you the secret\nto limitless power?"
+  },
+  {
+   "type": "stage direction",
+   "text": "27."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "No, I..."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "One must first master the highest\nlevel of kung fu. And that is\nclearly impossible if that one is\nsomeone like you."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Someone like me?\nShifu walks around Po - pointing out his weaknesses."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Yes. Look at you...this fat butt.\nShifu HITS Po on the butt with his staff."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Flabby arms..."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Those are sensitive in the flabby\nparts.\nShifu SWATS Po on the arm with his staff."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "And this ridiculous belly.\nShifu HITS Po in the belly with his staff."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Hey..."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "--and utter disregard for personal\nhygiene."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pointing at Shifu)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Now wait a minute. That's a little\nuncalled-for."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Don't stand that close...I can\nsmell your breath."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Listen...Oogway said that I was the-\nShifu pinches Po's outstretched digit."
+  },
+  {
+   "type": "stage direction",
+   "text": "28."
+  },
+  {
+   "type": "stage direction",
+   "text": "(gasp)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "The Wuxi Finger Hold?! Not the Wuxi\nFinger Hold!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(sly)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Oh, you know this hold?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "DevelopedbyMasterWuxiInTheThirdDyna\nsty-- YES."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Oh, then you must know what happens\nwhen I flex my pinky.\nPo nervously eyes his finger locked in Shifu's grip and nods\nquickly."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "No no no!"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You know the hardest part of this?\nThe hardest part is cleaning up\nafterwards..."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Okay! Okay! Take it easy..."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Now listen closely, panda. Oogway\nmay have picked you, but when I'm\nthrough with you, I promise you,\nyou're going to wish he hadn't. Are\nwe clear?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Yeah, we're clear. We're clear. We\nare so clear."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Good. I can't wait to get started."
+  },
+  {
+   "type": "location",
+   "text": "INT. TRAINING HALL"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "The doors open, revealing Po nursing his wounded finger.\nShifu steps out of the way and Po's face goes into shock. The\nFive are performing death-defying kung fu moves in the\ntraining hall. Tigress smashes a swinging, spiked ball of\nwood. ANGLE ON AN AWESTRUCK PO, as shards of wood blast into\nhis face. Po is intimidated and overwhelmed."
+  },
+  {
+   "type": "stage direction",
+   "text": "29."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Shifu scowls at Po."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Let's begin.\nHe gestures to the gauntlet. Po's eyes go wide."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Wait wait wait...What? Now?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Yes...now. Unless you think the\ngreat Oogway was wrong, and you are\nnot the Dragon Warrior."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Oh, okay. Well-- I don't know if I\ncan do all of those moves.\nShifu walks away and Po half-heartedly follows."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Well, if we don't try, we'll never\nknow will we?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Uh, yeah. It's just, maybe we can\nfind something more suited to my\nlevel."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "And what level is that?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Well, ya know...I'm not a master,\nbut uh, let's just start at zero,\nlevel zero."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "There is no such thing as level\nzero."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Hey! Maybe I can start with that.\nPo points at a rather friendly-looking dummy."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "That? We use that for training\nchildren. And for propping the door\nopen when it's hot. But if you\ninsist...\nRelieved, Po turns to the dummy. The Five gather around him."
+  },
+  {
+   "type": "stage direction",
+   "text": "30."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Whoa. The Furious Five. You're so\nmuch bigger than your action\nfigures -- except for you, Mantis.\nYou're about the same.\nMantis gives him a look."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Go ahead, panda. Show us what you\ncan do."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Um, are they gonna watch? Or should\nI just wait until they get back to\nwork or something..."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Hit it."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Ok. I mean, I just ate. So I'm\nstill digesting... So my kung fu\nmight not be as good as later on."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Just hit it.\nPo psyches himself up, doing some Jack Fu."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Alright. Whatcha got? You got\nnothing cause I got it right here.\nYou picking on my friends? Get\nready to feel the thunder. I'm\ncomin' at him with the crazy feet.\nWhatcha gonna do about my crazy\nfeet? I'm a blur. I'm a blur. You\nnever seen bear style, you only\nseen praying Mantis! OR... I could\ncome at you Monkey style. OR... I'm\ncomin' at ya snikity-snake.\nShifu and the Five stare at Po, perplexed."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Would you hit it!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Alright...alright.\nPo lightly hits the dummy and it rocks back into place."
+  },
+  {
+   "type": "stage direction",
+   "text": "31."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Why don't you try again?   A little\nharder...\nPo punches it again, knocking it all the way backwards. He\nturns to Shifu, smug."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "How's tha--\nWHAP! The dummy rights itself and smacks Po. Totally dazed,\nPo trips and stumbles his way through the obstacle course.\nThe Five instinctively step forward to help Po, but Shifu\nholds up his hand to stop them.\nBACK ON PO"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Ow, that hurts.\nA spiky tethered ball sends Po flying into the jade turtle\nexercise, where it rattles him around."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to the Five)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "This'll be easier than I thought.\nBack to Po in the turtle bowl."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Feeling a little nauseous.\nThe turtle spills him out and he stumbles into the army of\nwooden dummies."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Ow, those are hard! Ooh! I think\nI...\nThe last dummy whaps him in the crotch and everything becomes\nstill."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Oooohoohoo...my tenders.\nHe struggles to get on his feet, takes one step and reaches\nout to a dummy arm...and immediately gets pummeled all over\nagain. Po comes out the other side battered and bruised and\nfinds he is standing on the floor that shoots out bursts of\nflame. We see reflections of fire on the Five and Shifu as Po\ngets singed. He comes crawling into frame."
+  },
+  {
+   "type": "stage direction",
+   "text": "32."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "How did I do?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "There is now a level zero."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. BUNKHOUSE - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "The Five are walking to the bunkhouse, which sits high on a\nhill."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "There's no words."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "No denying that."
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "I don't understand what Master\nOogway was thinking. The poor guy's\njust gonna get himself killed."
+  },
+  {
+   "type": "stage direction",
+   "text": "(mocking)"
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "He is so mighty! The Dragon Warrior\nfell out of the sky on a ball of\nfire."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "When he walks, the very ground\nshakes!"
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "One would think that Master Oogway\nwould choose someone who actually\nknew Kung Fu."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "Yeah, or could at least touch his\ntoes."
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "Or even see his toes.\nAs the others walk off, we reveal Po, who unbeknownst to them\nhas been walking behind them this whole time, hearing\neverything.\nHe attempts to look at his toes but just sees gut. He lifts\nup his stomach, leans forward... leans... leans... and falls\nover."
+  },
+  {
+   "type": "stage direction",
+   "text": "33."
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "He gets up and watches them go inside. He sighs."
+  },
+  {
+   "type": "location",
+   "text": "INT. BUNKHOUSE"
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "Po peeks around the corner."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Okay.\nHe tip-toes into the hall.\nSQUEAK. The floorboards strain beneath him. SQUEAK."
+  },
+  {
+   "type": "stage direction",
+   "text": "(whispering)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Great.\nPo takes a gentle step. CRE-E-E-A-AA--CHUNK! Po's foot goes\nthrough the floor. Po tries to recover. SQUEAK-SQUEAK-SQUEAK!\nTHUNK! Po rolls his ankle and stumbles through a bedroom\ndoor.\nCrane is staring back at him."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Oh hey...hi. You're up."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "Am now."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I was just uh... Some day huh?\nThat kung fu stuff is hard work,\nright? Your biceps sore?\nCrane looks at his wing."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "Um...I've had a long and rather\ndisappointing day, so uh...yeah, I\nshould probably get to sleep now."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Yeah yeah yeah, of course."
+  },
+  {
+   "type": "stage direction",
+   "text": "(relieved)"
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "Okay, thanks."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "It's just...I'm such a big fan."
+  },
+  {
+   "type": "stage direction",
+   "text": "34."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "Oop."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "You guys were totally amazing at\nthe Battle of Weeping River.\nOutnumbered a thousand to one, but\nyou didn't stop, and then you\njust... HI-YAH!\nPo does a spastic series of Kung Fu moves. We hear a RIP, and\nreveal that he's kicked his foot through the paper wall."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Ooo, sorry about that."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "Look, you don't belong here.\nPo looks stung to be hearing this from one of his heroes."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I know. I know. You're right. I\njust - my whole life I've dreamed\nof-\nCrane stops Po before he embarrasses himself even more."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "No no no... I meant you don't\nbelong here. I mean, in this room.\nThis is my room. Property of Crane.\nPo is mortified, but covers."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Oh, okay. Right right. Yeah, you\nwant to get to sleep."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I'm keepin' you up. We got big\nthings tomorrow. Alright. You're\nawesome. Last thing I'm gonna say.\nOkay. Bye bye.\nPo shuts the door. Crane sighs. The door flies open. Po\nenters with an eager smile."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "What was that?"
+  },
+  {
+   "type": "stage direction",
+   "text": "35."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "I didn't say anything."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Okay. Alright. Goodnight. Sleep\nwell.\nPo backs out into the hall and closes the door."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Seemed a little bit awkward.\nPo turns and walks down the hall to find a vacant room. CREAK-\nCREAK.\nTigress opens the door behind him. Po winces."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Master Tigress! Didn't mean to wake\nyou. Just uh..."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "You don't belong here."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Uh, yeah, yeah. Of course. This is\nyour room."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "I mean...you don't belong in the\nJade Palace. You're a disgrace to\nKung Fu, and if you have any\nrespect for who we are and what we\ndo, you will be gone by morning.\nShe closes the door on Po, who slumps sadly."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Big fan..."
+  },
+  {
+   "type": "location",
+   "text": "EXT. JADE PALACE - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "A dejected Po stands under a peach tree in the moonlight.\nOogway approaches."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "I see you have found the Sacred\nPeach Tree of Heavenly Wisdom.\nPo spins around, his face dripping with peach juice."
+  },
+  {
+   "type": "stage direction",
+   "text": "36."
+  },
+  {
+   "type": "stage direction",
+   "text": "(mouth full)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Is that what this is? I am so\nsorry. I thought it was just a\nregular peach tree."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "I understand. You eat when you are\nupset."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Upset? I'm not upset. What makes\nyou think I'm upset?"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "So why are you upset?\nPo sighs, there's no use trying to lie to Oogway."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I probably sucked more today than\nanyone in the history of kung fu,\nin the history of China, in the\nhistory of sucking."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Probably."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "And the Five... man, you should\nhave seen them, they totally hate\nme."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Totally."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "How's Shifu ever going to turn me\ninto the Dragon Warrior? I mean,\nI'm not like The Five. I've got no\nclaws, no wings, no venom. Even\nMantis has those..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he imitates a mantis'\nfront legs)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "...thingies. Maybe I should just\nquit and go back to making noodles."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Quit, don't quit. Noodles, don't\nnoodles.\nPo looks confused."
+  },
+  {
+   "type": "stage direction",
+   "text": "37."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY (CONT'D)",
+   "text": "You are too concerned with what was\nand what will be. There is a\nsaying: Yesterday is history,\ntomorrow is a mystery, but today is\na gift. That is why it is called\nthe present.\nOogway hits the tree with his staff as he walks away and a\npeach falls into Po's open hand."
+  },
+  {
+   "type": "location",
+   "text": "INT. PRISON -- NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY (CONT'D)",
+   "text": "Using the goose's feather to pick the lock, Tai Lung BURSTS\nfree from his armor.\nAn ALARM RINGS OUT!\nThe Commander runs to the ledge, the Goose right behind him."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "What's happening?!\nThe Goose looks over the edge and sees Tai Lung at the bottom\nof the pit.\nTai Lung struggles with his shackles."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "Fire Crossbows!\nTai Lung uses the incoming spears to break his shackles and\nthen manages to kick the spears back up into the walls,\ncreating a makeshift staircase."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Tai Lung is free! I must warn\nShifu!\nThe Commander shuts the Goose up."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "You're not going anywhere. And\nneither is he."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Let go of me!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to guards)"
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "Bring it up!"
+  },
+  {
+   "type": "stage direction",
+   "text": "38."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "The winch turns and the elevator starts to rise. A rhino\nguard tries to reach it, but just misses."
+  },
+  {
+   "type": "speech",
+   "character": "RHINO GUARD #1",
+   "text": "Wait! Bring it back!"
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "He's coming this way!"
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "He won't get far."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to guards)"
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "Archers!\nLeaping across the spears, Tai Lung catches the elevator as\nthe volley of arrows flies down past him.\nThe guards cut the rope and the elevator crashes back down to\nthe bottom of the pit.\nTai Lung swings up from the bottom of the elevator house and\ncatches the guards by surprise. He grabs the chain and jumps\nover the edge and swings around, launching himself up to the\nnext tier, disappearing into the shadows.\nTai Lung lands on a bridge, fights his way through, finally\nreaching the top tier where the Commander and the rest of the\nRhino army await."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "We're dead. So very, very dead.\nThe Commander hushes the Goose."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Goose)"
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "Heh heh...not yet we're not! Now!\nArchers set off charges on the ceiling. Massive stalactites\ncrash down and the bridge begins to crumble. Tai Lung leaps\nacross the crumbling debris and attempts one last huge jump\ntowards the Commander. But he falls short, claws scraping and\nsparking against the rock wall. The Commander laughs\nmaniacally.\nOn his way down, Tai Lung looks up and sees a fuse burning\ndown to the last group of explosives. He leaps across the\nraining debris up to the ceiling of the cavern.\nGrabbing a hold of the dynamite, Tai Lung falls and slings it\nahead of him at the guards."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Can we run now?"
+  },
+  {
+   "type": "stage direction",
+   "text": "39."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "Yes."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PRISON"
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDER",
+   "text": "KA-THOOM! The door blasts open and Rhinos go flying\neverywhere.\nWHUMP. The Goose hits the ground. The commander's horn\nprosthetic falls in front of him."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Nuuu... Urggg...\nTai Lung picks up the Goose by the throat."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG (CONT'D)",
+   "text": "URRK!"
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "I'm glad Shifu sent you. I was\nbeginning to think I had been\nforgotten.\nWith a creepy tenderness, Tai Lung smooths the Goose's\nruffled feathers."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "Fly back there and tell them...the\nreal Dragon Warrior is coming home.\nTai Lung throws the Goose into the air and he flutters off.\nLightning strikes."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. BUNKHOUSE - MORNING"
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "CLOSE-UP of a gong being struck."
+  },
+  {
+   "type": "location",
+   "text": "INT. BUNKHOUSE - CONTINUOUS"
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "Shifu enters the hallway of the bunkhouse. The Five burst out\nof their rooms and land, ready for inspection."
+  },
+  {
+   "type": "speech",
+   "character": "FURIOUS FIVE",
+   "text": "Good morning master!\nOne door remains closed."
+  },
+  {
+   "type": "stage direction",
+   "text": "40."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Panda! Panda, wake up!\nHe slides open Po's door. The room is empty."
+  },
+  {
+   "type": "stage direction",
+   "text": "(satisfied)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Hmm. He's quit."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TRAINING HALL - MOMENTS LATER"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Shifu walks with a bit more energy."
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "What do we do now, Master? With the\npanda gone, who will be the Dragon\nWarrior?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "All we can do is resume our\ntraining and trust that in time,\nthe true Dragon Warrior will be\nrevealed."
+  },
+  {
+   "type": "location",
+   "text": "INT. JADE PALACE - MOMENTS LATER"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Shifu enters the training hall, only to find himself face-to-\nface with Po's butt. Shifu and the Five are taken aback."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "What are you doing here?!\nReveal Po is in the middle of the floor, his legs spread wide\napart. Po looks back over his shoulder to see Shifu and the\nFive enter the hall."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Hey! Huh... Good morning, Master! I\nthought I'd warm up a little."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You're stuck."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Stuck?! Whaa? Pfft... stuck...\nYeah, I'm stuck."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Crane)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Help him.\nCrane approaches Po."
+  },
+  {
+   "type": "stage direction",
+   "text": "41."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "Oh dear.\nCrane gingerly grabs Po's waistband and attempts to pull him\nup by flapping his wings."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Maybe on three. One. Two-\nCrane pulls him up and Po flops onto his back."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Threeeee. Thank you."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "Don't mention it."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "No really, I appreci--"
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "--EVER."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You actually thought you could\nlearn to do a full split in one\nnight? It takes years to develop\none's flexibility and years longer\nto apply it in combat.\nShifu flings two boards into the air. Instantly, Tigress\nleaps up and executes a perfect split kick. Po is awestruck.\nAs Tigress lands, the broken chunks of board land all around\nPo, knocking him on the head.\nPo collects a piece of splintered board as a souvenir. Shifu\nnotices and steps forward."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Put that down! The only souvenirs\nwe collect here are bloody knuckles\nand broken bones."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Yeah, excellent!\nHe laughs excitedly and salutes Shifu."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Let's get started."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:\n42."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "MONTAGE\nShifu snaps his fingers. Viper and Po face off."
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "Are you ready?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I was born ready--\nViper lashes her tail around Po's wrist, wrenches his arm\nback, flings him into the air and brings him crashing back\ndown on his head."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Eaghhh..."
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "I'm sorry, brother! I thought you\nsaid you were ready!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "That was awesome! Let's go again."
+  },
+  {
+   "type": "stage direction",
+   "text": "(salutes)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Shifu snaps.\nMonkey twirls a bamboo staff. He lunges at Po who takes a\ncomical beating.\nShifu snaps.\nPo and Crane prepare to spar atop the turtle bowl. CRASH. Po\nfalls in and is tossed around like a sack of soup.\nShifu snaps.\nWe see a series of shots of Po falling on his face at the\nhands of some invisible opponent, who turns out to be...\nMantis.\nShifu smiles. Flat on his back, Po manages a salute. Shifu\nhas had it."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "I've been taking it easy on you,\npanda, but no more! Your next\nopponent... will be me.\nPo looks excited."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Alright! Let's go!"
+  },
+  {
+   "type": "stage direction",
+   "text": "43."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "The Five exchange worried looks."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Po)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Step forth.\nPo doesn't even finish the step as Shifu whirls him around\nand throws him to the floor pinning his arm behind him."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "The true path to victory is to find\nyour opponent's weakness and make\nhim suffer for it."
+  },
+  {
+   "type": "stage direction",
+   "text": "(delighted)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Oh, yeah!\nShifu whips Po around again."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "To take his strength and use it\nagainst him.\nAgain, this time Shifu holds Po by the nose."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "--until he finally falls, or quits.\nPo is totally inspired."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "But a real warrior never quits.\nDon't worry, Master, I will never\nquit!\nAt his breaking point, Shifu flings Po into the air and then\nleaps at him with a flying kick."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. TRAINING HALL - CONTINUOUS"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Po crashes out of the door and tumbles down the steps.\nThe Five watch him fall."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "If he's smart, he won't come back\nup those steps."
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "But he will."
+  },
+  {
+   "type": "stage direction",
+   "text": "44."
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "He's not gonna quit, is he?"
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "He's not gonna quit bouncin', I'll\ntell ya that.\nCut WIDE as Po continues to tumble."
+  },
+  {
+   "type": "location",
+   "text": "INT. BUNKHOUSE - EVENING"
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "Close on Po, who grimaces."
+  },
+  {
+   "type": "speech",
+   "character": "PO (O.S.)",
+   "text": "Aaaoo...whoohoo...EEEee...hee-\nhee... I thought you said\nacupuncture would make me feel\nbetter.\nMantis pops up from behind Po holding a handful of needles\nand sticks Po again."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "Trust me, it will. It's just not\neasy finding the right nerve points\nunder all this--"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Fat?"
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "Fur, I was gonna say fur."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Sure you were."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "Who am I to judge a warrior based\non his size? I mean -- look at me.\nPo looks for Mantis..."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS (O.C.) (CONT'D)",
+   "text": "I'm over here.\n...But Mantis is now on his other shoulder. He jabs another\nneedle into Po."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Ow!"
+  },
+  {
+   "type": "stage direction",
+   "text": "45."
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "Maybe you should take a look at\nthis again.\nViper is holding a diagram of acupuncture meridians (onto\nwhich someone has overlaid a drawing of a panda.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "(re: diagram)"
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "Oh! Okay.\nQuick cuts to Monkey meditating in his room and Crane doing\ncalligraphy in his. Po's yelps distract them."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Ow! Don't..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(laughing)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Stop it, stop-- Yow! I know Master\nShifu's trying to inspire me and\nall, but if I didn't know any\nbetter, I'd say he was trying to\nget rid of me.\nPo chuckles. The others look at each other and chuckle\nawkwardly."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "I know he can seem kind of\nheartless--\nHe violently jabs another needle in Po."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS (CONT'D)",
+   "text": "But, ya know, he wasn't always like\nthat."
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "According to legend, there was once\na time when Master Shifu actually\nused to smile."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "Yes.\nCut to Tigress out in the hallway. She can hear them talking."
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "But that was before..."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Before what?"
+  },
+  {
+   "type": "stage direction",
+   "text": "46."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Tigress enters."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "Before Tai Lung.\nCrane's shadow is silhouetted on the wall."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "Uh yeah, we're not really supposed\nto talk about him."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "Well, if he's going to stay here,\nhe should know."
+  },
+  {
+   "type": "stage direction",
+   "text": "(trying to ease the\ntension)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Guys, guys. I know about Tai Lung.\nTigress turns to Po."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "He was a student, the first ever to\nmaster the thousand...\nTigress approaches Po and leans in towards him."
+  },
+  {
+   "type": "stage direction",
+   "text": "(nervously trailing off)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "...scrolls of... kung fu... and...\nthen he turned bad... and now he's\nin jail.\nTigress shakes her head at the panda's ignorance."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "He wasn't just a student."
+  },
+  {
+   "type": "stage direction",
+   "text": "DISSOLVE TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. TRAINING HALL"
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "FLASHBACK. Shifu peeks out of the Training Hall and finds a\nbaby leopard cub on the steps."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS (V.O.)",
+   "text": "Shifu found him as a cub. And he\nraised him as a son.\nBaby Tai Lung pulls on Shifu's whiskers."
+  },
+  {
+   "type": "stage direction",
+   "text": "47."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS (V.O.) (CONT'D)",
+   "text": "...and when the boy showed talent\nin Kung Fu...\nBaby Tai Lung punches the training dummy across the floor."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS (V.O.) (CONT'D)",
+   "text": "...Shifu trained him.\nShifu teaches Baby Tai Lung how to punch."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS (V.O.) (CONT'D)",
+   "text": "He believed in him. He told him he\nwas destined for greatness.\nHard cut to a full-grown Tai Lung demolishing a training\ndummy."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS (V.O.) (CONT'D)",
+   "text": "It was never enough for Tai Lung.\nHe wanted the Dragon Scroll. But\nOogway saw darkness in his heart\nand refused. Outraged, Tai Lung\nlaid waste to the valley. He tried\nto take the scroll by force. And\nShifu had to destroy what he had\ncreated.\nTai Lung ransacks a village on his way up to the Jade Palace.\nHe crashes through the doors, running towards a waiting Shifu\nand Oogway.\nShifu leaps at Tai Lung to deliver a kick."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS (V.O.) (CONT'D)",
+   "text": "But how could he?\nSeeing only baby Tai Lung running towards him, Shifu pulls\nhis kick short. Tai Lung counters with a devastating strike\nand Shifu crashes to the ground holding his broken leg.\nTai Lung leaps for the scroll, but Oogway stops him with\nstrikes at his pressure points. He falls to the ground in a\nheap."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS (V.O.) (CONT'D)",
+   "text": "Shifu loved Tai Lung like he'd\nnever loved anyone before...\nYoung Tigress in the training hall strikes the dummy in the\nsame manner as Tai Lung. Shifu corrects her form. Nothing\nmore. Young Tigress looks crestfallen."
+  },
+  {
+   "type": "stage direction",
+   "text": "48."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS (V.O.) (CONT'D)",
+   "text": "...or since.\nThe sad, young Tigress cross-dissolves to adult Tigress."
+  },
+  {
+   "type": "location",
+   "text": "INT. BUNKHOUSE - EVENING"
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS (V.O.) (CONT'D)",
+   "text": "Everyone is quiet in the moment."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "And now he has a chance to make\nthings right, to train the true\nDragon Warrior. And he's stuck with\nyou: a big, fat panda who treats it\nlike a joke.\nPo makes a googly-eyed face."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Doieeeee..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(charging at Po)"
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "Oh! That is it!\nMantis pops up and halts Tigress."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "Wait! My fault! I accidentally\ntweaked his facial nerve.\nPo falls face first to the floor, revealing his back is\ncovered with needles."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS (CONT'D)",
+   "text": "And may have also stopped his\nheart."
+  },
+  {
+   "type": "location",
+   "text": "INT. TRAINING HALL - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS (CONT'D)",
+   "text": "Shifu is sitting in meditation, fidgeting incessantly."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Inner peace. Inner peace. Inner\npeace.\nHe finally opens one eye."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Would whoever is making that\nflapping sound, quiet down!"
+  },
+  {
+   "type": "stage direction",
+   "text": "49."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Satisfied with the silence, Shifu nods and resumes his\nmeditation."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Inner...\nBOOM. Zeng drops in from the ceiling."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Oh, Zeng. Excellent. I could use\nsome good news right now."
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Uh..."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. JADE PALACE GROUNDS - EVENING"
+  },
+  {
+   "type": "speech",
+   "character": "ZENG",
+   "text": "Oogway stands under the peach tree, deep in thought. Shifu\nrushes in, emerging from the mist, extremely agitated."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Master! Master!"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Hmmm?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(out of breath)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "I have-- it's-- it's very bad news."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Ah, Shifu. There is just news.\nThere is no good or bad."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Master, your vision...your vision\nwas right. Tai Lung has broken out\nof prison. He's on his way!"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "That is bad news...\nHe turns to face Shifu and stares at him, eyebrow raised."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY (CONT'D)",
+   "text": "...If you do not believe that the\nDragon Warrior can stop him."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "The panda? Master, that panda is\nnot the Dragon Warrior."
+  },
+  {
+   "type": "stage direction",
+   "text": "50."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "He wasn't even meant to be here --\nit was an accident!"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "There are no accidents."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Yes, I know. You've said that\nalready. Twice."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Well, that was no accident either."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Thrice."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "My old friend, the panda will never\nfulfill his destiny, nor you yours,\nuntil you let go of the illusion of\ncontrol."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Illusion?"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Yeah. Look at this tree, Shifu. I\ncannot make it blossom when it\nsuits me, nor make it bear fruit\nbefore its time."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "But there are things we can\ncontrol.\nShifu kicks the tree and a peach falls to his feet."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "I can control when the fruit will\nfall.\nA peach falls on his head and Oogway chuckles. Shifu tosses\nthe peach in the air, leaps up, and splits it with a chop."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "And I can control--\nShifu punches the ground, creating a hole and places the seed\nin it."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "--where to plant the seed. That is\nno illusion, Master."
+  },
+  {
+   "type": "stage direction",
+   "text": "51."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Ah, yes. But no matter what you do,\nthat seed will grow to be a peach\ntree. You may wish for an apple, or\nan orange... but you will get a\npeach."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "But a peach cannot defeat Tai Lung!"
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Maybe it can. If you are willing to\nguide it, to nurture it. To believe\nin it.\nOogway covers the seed with dirt."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "But how? How? I need your help,\nMaster."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "No, you just need to believe.\nPromise me, Shifu. Promise me you\nwill believe."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "I... I will try.\nOogway smiles, then glances up at the sky, then back down to\nShifu."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "Good. My time has come. You must\ncontinue your journey without me.\nHe hands his staff to a confused Shifu."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "What... what are you..?\nOogway backs away into the swirling fog."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Master, you can't leave me!\nThe petals surround Oogway as he approaches the cliff's edge."
+  },
+  {
+   "type": "speech",
+   "character": "OOGWAY",
+   "text": "You must believe."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Master!"
+  },
+  {
+   "type": "stage direction",
+   "text": "52."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Shifu runs after him. Oogway is engulfed by peach blossoms.\nAs the winds settle, Shifu is revealed standing at the edge\nof a cliff.\nOogway is gone.\nWe pan across to the bunkhouse."
+  },
+  {
+   "type": "speech",
+   "character": "PO (O.S.)",
+   "text": "...So I'm like, fine, you may be a\nwolf, you may be the scariest\nbandit in Haijin Province..."
+  },
+  {
+   "type": "location",
+   "text": "INT. KITCHEN -- NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "PO (O.S.)",
+   "text": "Reveal Po is cooking for the Five.   He chops some veggies mid-\nair."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "...but you're a lousy tipper."
+  },
+  {
+   "type": "stage direction",
+   "text": "(incredulous)"
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "Really? So... how'd you get out of\nthere alive?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I mean, I didn't actually say that,\nbut I thought it... in my mind.\nPo flips some bowls and expertly lines them up on his arm. He\nladles soup into them."
+  },
+  {
+   "type": "stage direction",
+   "text": "(covering)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "If he... could read my mind, he'd\nhave been like, \"What?\""
+  },
+  {
+   "type": "stage direction",
+   "text": "(then)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Order up!\nPo looks around expectantly and the Five (minus Tigress) dig\nin."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Hope you like it."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "This is really good."
+  },
+  {
+   "type": "stage direction",
+   "text": "(bashful)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "No, c'mon."
+  },
+  {
+   "type": "stage direction",
+   "text": "53."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "You should try my dad's secret\ningredient soup. He actually knows\nthe secret ingredient."
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "What are you talking about? This is\namazing."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "Wow, you're a really good cook."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "I wish my mouth was bigger.\nThe others laugh. But not Tigress."
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "Tigress, you gotta try this.\nTigress looks up from her meal."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "It is said that the Dragon Warrior\ncan survive for months at a time on\nnothing but the dew of a single\ngingko leaf and the energy of the\nuniverse.\nOn the others for a beat. Then Po shrugs."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I guess my body doesn't know it's\nthe Dragon Warrior yet. I'm gonna\nneed a lot more than dew. And, uh,\nuniverse juice.\nPo laughs. He picks up his bowl and takes a giant gulp. When\nhe lowers the bowl, we see a noodle hanging from his face --\nit looks like a moustache. Mantis snickers."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "What?"
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "Oh, nothing... Master Shifu!\nThe rest start laughing. Po realizes he's wearing a noodle\nmoustache. He plays it up."
+  },
+  {
+   "type": "stage direction",
+   "text": "54."
+  },
+  {
+   "type": "stage direction",
+   "text": "(imitating Shifu)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "You will never be the Dragon\nWarrior, unless you lose five\nhundred pounds and brush your\nteeth!\nThe Five LAUGH."
+  },
+  {
+   "type": "stage direction",
+   "text": "(imitating Shifu)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "What is that noise you're making?\nLaughter? I never heard of it!\nThe Five keep LAUGHING. Po reaches over and grabs two empty\nbowls and holds them up like ears."
+  },
+  {
+   "type": "stage direction",
+   "text": "(imitating Shifu)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Work hard, Panda. And maybe,\nsomeday... you will have ears like\nmine.\nAs the rest of the Five laugh, Tigress sneaks a moment to\nsmell Po's soup. Leaning towards the bowl, she suddenly looks\nup and stops. The Five also look up and stop laughing.\nReveal Shifu has entered behind Po. He is holding Oogway's\nstaff."
+  },
+  {
+   "type": "stage direction",
+   "text": "(normal)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Ears. It's not working for you? I\nthought they were pretty good.\nPo looks at the stone-faced Five. Tigress jumps to her feet."
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "It's Shifu."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Of course it's Shifu. What do you\nthink I'm doing?\nHe finally notices Shifu standing there, doing a slow burn.\nEmbarrassed, he places the soup bowls on his chest like a\nbra."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Ooh! Master Shifu!\nPo slurps up the noodle moustache. Monkey can't help but\nsnicker."
+  },
+  {
+   "type": "stage direction",
+   "text": "55."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You think this is funny? Tai Lung\nhas escaped from prison and you're\nacting like children!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "What?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "He is coming for the Dragon Scroll,\nand you are the only one who can\nstop him.\nThe bowls fall off. A beat as this sinks in... then Po starts\nto laugh."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "And here I am saying you got no\nsense of humor. I'm gonna stop\nTai...\nShifu just stares at him, deadly serious."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "What? You're serious? And I have to--\nuh, Master Oogway will stop him! He\ndid it before, he'll do it again."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Oogway cannot, not anymore.\nThey notice Shifu holding Oogway's staff. They know what this\nmeans. They are saddened by the news."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Our only hope is the Dragon\nWarrior."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "The panda?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Yes, the panda!"
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "Master, please. Let us stop Tai\nLung. This is what you've trained\nus for."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "No! It is not your destiny to\ndefeat Tai Lung. It is his.\nHe dramatically points at Po... but Po is gone."
+  },
+  {
+   "type": "stage direction",
+   "text": "56."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Where'd he go?\nShifu throws up his hands in frustration and heads after Po."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. BUNKHOUSE \u00ad DAY"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Super wide shot as Po runs away from the compound. Closer as\nhe continues running. He checks over his shoulder, turns\nback... Shifu lands right in front of him."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You cannot leave! A real warrior\nnever quits!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Watch me!\nHe tries to maneuver around Shifu, but is redirected back."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Come on! How am I supposed to beat\nTai Lung? I can't even beat you to\nthe stairs."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You will beat him because you are\nthe Dragon Warrior!\nHe pushes Po back with the staff."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Ow! You don't believe that! You\nnever believed that! From the first\nmoment I got here, you've been\ntrying to get rid of me.\nShifu pokes him again, this time causing Po to fall on his\nback."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Yes. I was. But now I ask you to\ntrust in your master as I have come\nto trust in mine."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "You're not my master. And I'm not\nthe Dragon Warrior.\nPo shoves the staff away and gets up."
+  },
+  {
+   "type": "stage direction",
+   "text": "57."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Then why didn't you quit? You knew\nI was trying to get rid of you, and\nyet you stayed."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Yeah, I stayed. I stayed because\nevery time you threw a brick at my\nhead or said I smelled, it hurt.\nBut it could never hurt more than\nit did every day of my life just\nbeing me.\nPo looks down at the Valley, then turns back to Shifu."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "I stayed because I thought if\nanyone could change me, could make\nme... not me, it was you. The\ngreatest kung fu teacher in all of\nChina."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "But I can change you! I can turn\nyou into the Dragon Warrior! And I\nwill!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "C'mon, Tai Lung is on his way here\nright now. And even if it takes him\na hundred years to get here, how\nare you gonna change this..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(indicate belly)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "...into the Dragon Warrior? How?\nHow? How?!\nIn frustration, Shifu yells out the answer."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "I don't know!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(then, resigned)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "I don't know."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "That's what I thought.\nShifu walks away, leaving the path open to Po."
+  },
+  {
+   "type": "location",
+   "text": "EXT. JADE PALACE - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Tigress stands in the moonlight outside the palace. She has\nseen what just transpired between Shifu and Po."
+  },
+  {
+   "type": "stage direction",
+   "text": "58."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "She turns away, a look of resolve on her face... and LEAPS.\nShe flies through the air, finally landing on a rooftop in\nthe valley below. She looks back up at the palace."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "This is what you trained me for.\nShe takes off running.\nThe other four are right behind her."
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "Tigress!\nShe keeps going and they give chase."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "Don't try and stop me!\nThe chase continues through the village."
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "We're not trying to stop you!"
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "What?"
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "We're coming with you!\nThen...the others join her. Tigress smiles. They leap off\ninto the night."
+  },
+  {
+   "type": "location",
+   "text": "EXT. JADE PALACE - EVENING"
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "Night dissolves to dawn. Shifu sits under the peach tree. He\nstirs, hearing KUNG FU NOISES from the training hall. He goes\nto investigate."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. TRAINING HALL - DAWN"
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "Shifu looks inside -- it's empty. The NOISES continue from\nsomewhere else -- the bunkhouse."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:\n59."
+  },
+  {
+   "type": "location",
+   "text": "INT. KITCHEN - DAWN"
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "As Shifu turns the corner he sees Po's shadow as he performs\nsome amazing Kung Fu.\nEntering the kitchen, Shifu finds Po is stuffing his face\nwith food. Seeing Shifu, he stops mid-munch.\nIn silence they eye each other. Shifu surveys the room --\nbroken lock, smashed doors, unhinged cabinets. Po belches."
+  },
+  {
+   "type": "stage direction",
+   "text": "(mouth full)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "What? I eat when I'm upset, okay?\nShifu gets a glimmer in his eye. He has an idea."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Oh, no need to explain. I just\nthought you might be Monkey -- he\nhides his almond cookies on the top\nshelf.\nShifu calmly exits and hides just outside the doorway,\nwaiting to see if his hunch is correct.\nKLUMP! KLONK! THUNK! Shifu peeks back inside and finds Po\nperched atop the high shelves jamming more cookies into his\nmouth. Po notices Shifu walking back in."
+  },
+  {
+   "type": "stage direction",
+   "text": "(mouth full)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Don't tell Monkey.\nHe glances back down at Shifu, whose disbelief turns to a\nwise smile."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Look at you."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Yeah, I know. I disgust you."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "No no, I mean... how did you get up\nthere?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I don't know. I guess I-- I don't\nknow. I was getting a cookie...\nHe looks at the cookie and then can't help but eat it."
+  },
+  {
+   "type": "stage direction",
+   "text": "60."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "And yet you are ten feet off the\nground and have done a perfect\nsplit."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "No, this... this is just an\naccident.\nHe and Po stare at each other for a beat. Then... WHOOMP! Po\nslips and crashes to the kitchen floor. A cookie rolls over\nto Shifu. He picks it up."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "There are no accidents. Come with\nme."
+  },
+  {
+   "type": "location",
+   "text": "EXT. MOUNTAINS - DAWN"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Shifu leads Po through the mountains."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I know you're trying to be all\nmystical and kung fu-y, but could\nyou at least tell me where we're\ngoing?\nShifu just continues walking."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. MOUNTAINS - LATER"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Shifu is sitting beneath a tree. Winded and wheezing, Po\nslowly works his way up the hill.\nPo sets his gear down and looks around. Shifu breathes in the\nmorning mist as Po approaches."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "You dragged me all the way out here\nfor a bath?!\nPo begins to pat his armpits with water."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Panda, we do not wash our pits in\nThe Pool of Sacred Tears.\nPo quickly stops. Realizing."
+  },
+  {
+   "type": "stage direction",
+   "text": "61."
+  },
+  {
+   "type": "stage direction",
+   "text": "(in awe)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "The pool of..."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "This is where Oogway unravelled the\nmysteries of harmony and focus.\nThis is the birthplace of Kung Fu.\nThe camera cranes up to reveal they are standing on rock\nshapes that resemble a yin yang symbol.\nAs the camera pulls further out, it pulls back through a\nvision of Oogway doing Kung Fu moves.\nFLASH FRAME -- Shifu leaps atop one of the rocks and looks\ndown at Po."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Do you want to learn Kung Fu?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(awestruck)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Yeah..."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Then I am your master!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Okay!\nTears of joy well up in Po's eyes."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Don't cry."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Okay.\nPo sniffs the tears back and smiles."
+  },
+  {
+   "type": "location",
+   "text": "EXT. FIELD - LATER"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Shifu leads Po out into an open field."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "When you focus on Kung Fu, when you\nconcentrate...you stink.\nPo scowls."
+  },
+  {
+   "type": "stage direction",
+   "text": "62."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "But perhaps that is my fault. I\ncannot train you the way I have\ntrained the Five. I now see that\nthe way to get through to you is\nwith this!\nShifu produces a bowl of dumplings."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Oh great, `cause I'm hungry."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Good. When you have been trained,\nyou may eat. Let us begin."
+  },
+  {
+   "type": "location",
+   "text": "EXT. FIELD - LATER"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Po's training unfolds -- deep breathing exercises, balance\ntests, push ups, sit ups, climbing, etc. Through it all, he\nnever gets to eat, although he does indeed learn kung fu."
+  },
+  {
+   "type": "location",
+   "text": "EXT. CLEARING - A MOMENT LATER"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Shifu sets a bowl of dumplings on a boulder."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "After you, panda.\nPo stops short, suspicious."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Just like that? No situps? No ten\nmile hike?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "I vowed to train you... and you\nhave been trained. You are free to\neat.\nPo grabs one of the dumplings in his chopsticks."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Enjoy.\nPo raises the dumpling to his mouth. WHOOSH! Shifu snatches\nthe dumpling away and eats it himself."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Hey!"
+  },
+  {
+   "type": "stage direction",
+   "text": "63."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "I said you are free to eat. Have a\ndumpling.\nPo reaches again as Shifu leaps across the table and kicks\nthe dumpling into the air."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Hey!\nShifu eats it and Po scowls."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You are free to eat!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(upset)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Am I?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(challenging)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Are you?!\nPo and Shifu ready their chopsticks. Po slams the table and\nsends the bowl of dumplings airborne. Back and forth, Po and\nShifu spar, vying for the dumplings. Until there is only one\nleft.\nShifu tries every trick to keep the dumpling away from Po. He\nhides it underneath one of the bowls. He uses his chopsticks\nas weapons to smack Po's chopsticks away. He attacks Po with\nhis bamboo staff.\nBut Po skillfully manages to best Shifu for the final\ndumpling.\nShifu smiles. Po has passed the final test.\nBut then Po tosses the dumpling into Shifu's open hand."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I'm not hungry... master.\nMaster and pupil bow to each other."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. MOUNTAIN PASS"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "The Five race toward a rope bridge stretched between mountain\npeaks."
+  },
+  {
+   "type": "stage direction",
+   "text": "64."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Tai Lung appears at the other end of the bridge. He ROARS and\nraces toward them."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "Cut it!\nThe others slash at the ropes securing the bridge to the\nmountain. Tai Lung is almost upon them when Tigress cuts the\nfinal rope. But Tai Lung is too close -- Tigress must launch\nherself into him. The two cats end up in the middle of the\nbridge just as it starts to tumble into the canyon below. The\nFive grab support ropes and hold on for dear life."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "Where's the Dragon Warrior?"
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "How do you know you're not looking\nat her?\nTai Lung laughs. It echoes off the mountain walls."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "You think I'm a fool? I know you're\nnot the Dragon Warrior. None of\nyou!\nThe Five exchange quick, worried looks."
+  },
+  {
+   "type": "stage direction",
+   "text": "(nodding confidently)"
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "I heard how he fell out of the sky\non a ball of fire, that he's a\nwarrior unlike anything the world\nhas ever seen.\nThe Five exchange quick, confused looks."
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "Po?"
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "So that is his name -- Po. Finally,\na worthy opponent. Our battle will\nbe legendary!\nTigress charges at him. The battle begins. Tigress punches\nTai Lung as he hangs from the bridge. But Tai Lung counters\nwith a maneuver that sends Tigress slamming backwards through\nthe bridge's wooden slats. Then Tigress gets choked by the\nbridge's ropes. Monkey turns to Crane and Viper."
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "We've got this. Help her!"
+  },
+  {
+   "type": "stage direction",
+   "text": "65."
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "Viper grabs Tai Lung, which causes him to let go of the\nropes. Tigress plummets down into the gorge... but Crane\nmanages to catch her. Viper punches Tai Lung repeatedly with\nhis own fist. Tai Lung manages to get a paw around Viper's\n\"throat\"."
+  },
+  {
+   "type": "speech",
+   "character": "VIPER",
+   "text": "Monkey!\nANGLE ON MANTIS AND MONKEY. Mantis is straining to hold the\nrope by himself."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "Go!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(then)"
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "Ack! What was I thinking?!\nMonkey leaps into action, kicking Tai Lung in the chest and\nsending him crashing through the slats of the bridge. He gets\nback to his feet and starts running back to them on a single\nstrand of rope."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "Mantis!\nMantis whips his end of the rope, sending a sine wave\nshooting toward Tai Lung. The rope whips Tai Lung in the face\nand he gets tangled up. The Five see their chance."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS (CONT'D)",
+   "text": "Now!\nWorking as a team, the Five kick Tai Lung's butt every which\nway. Tigress finally slashes the last rope holding up Tai\nLung. He plummets down... down... disappearing into the mist.\nMantis whips his end of the rope, returning his buddies\nsafely to the mountain.\nThe Five look relieved. But the relief is short-lived...\nTigress notices that the other end of the bridge is circling\nthe far mountain peak. Her eyes go wide with dread. The rope\nwhips up. But Tai Lung isn't there.\nWith a crash, he suddenly appears behind the Five."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "Shifu taught you well...\nTai Lung jabs a finger at Monkey, who instantly freezes."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "But he didn't teach you everything."
+  },
+  {
+   "type": "stage direction",
+   "text": "66."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "Tai lung lunges toward the rest."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TRAINING HALL - EVENING"
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "Shifu and Po walk through the palace courtyard. Po has an\neasy spring in his step."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You have done well, Panda."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Done well? Done well?! I've done\nawesome!\nHe swings his belly around and knocks Shifu off balance.\nShifu staggers back, regaining his dignity."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "The mark of a true hero is\nhumility!\nAfter a moment's thought, though, he leans toward Po -"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "But yes...you have done awesome.\nAnd he punches him playfully on the arm. Po smiles at him. As\nthey LAUGH, an indistinct figure appears in the clouds behind\nthem. IT'S CRANE!\nCrane carries the five to the palace grounds, crashing in a\nheap."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Huh? Guys? Guys!\nPo throws his backpack aside and runs over to them."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "They're dead? No, they're\nbreathing! They're asleep?! No,\ntheir eyes are open.\nCrane struggles to lift his head."
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "We were no match for his nerve\nattack.\nHis head collapses to the ground."
+  },
+  {
+   "type": "stage direction",
+   "text": "67."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "He has gotten stronger."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Who? Tai Lung? Stronger?\nShifu starts freeing the Five. First Viper, then Mantis, then\nMonkey releases suddenly from his paralysis -"
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "He's too fast!\nHe delivers a Kung Fu punch to Po's head and then slowly\nrealizes where he is."
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY (CONT'D)",
+   "text": "Sorry, Po.\nShifu kneels before Tigress and works to free her."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "I thought we could stop him."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "He could have killed you."
+  },
+  {
+   "type": "speech",
+   "character": "MANTIS",
+   "text": "Why didn't he?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "So you could come back here and\nstrike fear into our hearts. But it\nwon't work!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Uh, it might, I mean, a little. I'm\npretty scared."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You can defeat him, panda."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Are you kidding? If they can't--\nThey're five masters. I'm just one\nme."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "But you will have the one thing\nthat no one else does."
+  },
+  {
+   "type": "stage direction",
+   "text": "68."
+  },
+  {
+   "type": "location",
+   "text": "INT. SCROLL ROOM - MOMENTS LATER"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "CLOSE-UP of the Dragon Scroll. Po stares at Shifu - then\nlooks up at the Scroll. Then back at Shifu -"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "You really believe I'm ready?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You are, Po.\nThey look at each other. This is a big moment.\nOogway's staff hangs in a rack surrounded by candles. As Po\nand The Five stand by, Shifu carries the staff over to the\nreflecting pool. Shifu bows his head, then, eyes still\nclosed, he raises the staff up above his head. Po and the\nothers watch, expectantly. The peach blossom petals rise in a\nflickering, spinning cloud up from the pool. The gentle\ntornado rises up around the ceiling carving that holds the\nDragon Scroll. The petals loosen the scroll from the dragon's\nmouth and it falls. At the last second, Shifu reaches out\nwith the staff to catch the scroll on the end of it. He turns\nto Po, holding it out."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Behold. The Dragon Scroll... It is\nyours."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Wait, what happens when I read it?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "No one knows, but legend says you\nwill be able to hear a butterfly's\nwing-beat."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Whoa! Really? That's cool."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Yes. And see light in the deepest\ncave. You will feel the universe in\nmotion around you."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Wow! Can I punch through walls?\nCan I do a quadruple back flip?\nWill I have invisibility--"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Focus. Focus."
+  },
+  {
+   "type": "stage direction",
+   "text": "69."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Huh? Oh, yeah... yeah."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Read it, Po, and fulfill your\ndestiny. Read it and become... the\nDragon Warrior!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Whooaa!!!\nPo takes a deep breath. Then he grasps the tube and tries to\npull the top off it. It doesn't budge. He strains at it."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "It's impossible to open.\nHe strains again. He tries to bite it off..."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Come on baby. Come on now...\nShifu SIGHS and holds out his hand. Po passes him the tube.\nShifu pops the end off effortlessly and passes it back to Po."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Thank you. I probably loosened it\nup for you though... Okay, here\ngoes.\nHe glances at the Five. They look on in awe. Monkey gives him\nthe `thumbs up.' Po starts to unroll the scroll, the golden\nlight bathing his face. Across the scroll we see Shifu,\nexcited that he is witness to history...\nOn Po's face as he finishes opening the scroll.\nThen -"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "AAAAAAAAAAAAAAAAAAAAAAAAA!\nShifu looks concerned. The Five look concerned. Po looks\nutterly terrified."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "It's blank!"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "What?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Here! Look!"
+  },
+  {
+   "type": "stage direction",
+   "text": "70."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Po tries to show Shifu the scroll. Shifu covers his eyes and\nturns his head away."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "No! I am forbidden to look upon--\nBut he can't help himself. He takes a peek. Then he GRABS if\noff Po. He turns it around, then upside down. He closes it\nand opens it again, astonished."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Blank? I don't...I don't\nunderstand.\nShifu turns away, contemplative. What can this mean?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Okay. So like, Oogway was just a\ncrazy old turtle after all?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "No. Oogway was wiser than us all.\nPo sits heavily on the floor, dejected."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Oh, come on! Face it. He picked me\nby accident. Of course I'm not the\nDragon Warrior. Who am I kidding?\nThe Five don't argue."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "But who will stop Tai Lung?"
+  },
+  {
+   "type": "speech",
+   "character": "CRANE",
+   "text": "He'll destroy everything...and\neveryone.\nShifu puts the scroll back in its container and seals it. He\nlooks oddly calm as he turns around."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "No, evacuate the Valley. You must\nprotect the villagers from Tai\nLung's rage."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "What about you master?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "I will fight him."
+  },
+  {
+   "type": "stage direction",
+   "text": "71."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "What?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "I can hold him off long enough for\neveryone to escape."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "But Shifu, he'll kill you."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Then I will finally have paid for\nmy mistake.\nThe Five and Po look devastated."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Listen to me, all of you. It is\ntime for you to continue your\njourney without me. I am very proud\nto have been your master.\nShifu salutes them and turns away. Po is heartbroken. Crane\nsteps forward and kindly puts a wing around Po, pulling away.\nPo resists for a moment, then lets the Five lead him off."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. VALLEY"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "The Five arrive at the base of the stairs."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "We've got to get them out safely.\nMonkey picks up a small child."
+  },
+  {
+   "type": "speech",
+   "character": "MONKEY",
+   "text": "Come, little one. Let's find your\nmama."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "Viper, gather the southern farmers.\nMantis, the north. Crane, light the\nway.\nThey split up and begin helping the villagers evacuate. Po is\nleft by himself.\nHe makes his way through the bustling town."
+  },
+  {
+   "type": "stage direction",
+   "text": "72."
+  },
+  {
+   "type": "stage direction",
+   "text": "(skeptically)"
+  },
+  {
+   "type": "speech",
+   "character": "JR SHAW",
+   "text": "Look, it's the Dragon Warrior.\nPo approaches the Noodle Shop."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Hey, Dad."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Po!\nSeeing Po, Po's Dad hurries over and wraps his arms around\nhis son. Po bends down to reciprocate the hug, as Po's dad\npulls away, having fastened an apron around Po's waist."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "Good to have you back, son!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(listlessly)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Good to be back.\nPo's Dad goes back to packing things up."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Let's go Po. So, for our next shop,\nit's time to face it -- the future\nof noodles is dice-cut vegetables,\nno longer slices.\nDad starts to walk off, unaware that Po isn't following."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "Also, I was thinking, maybe this\ntime we'll have a kitchen you can\nactually stand up in. Hmm? You like\nthat?\nHe turns and notices that Po hasn't moved. He walks to Po\nsympathetically."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "Po, I'm sorry things didn't work\nout. It just... wasn't meant to be.\nPo slumps against the cart."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD (CONT'D)",
+   "text": "Po, forget everything else. Your\ndestiny still awaits. We are noodle\nfolk -- broth runs deep through our\nveins."
+  },
+  {
+   "type": "stage direction",
+   "text": "73."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I don't know, Dad. Honestly,\nsometimes I can't believe I'm\nactually your son.\nDad is taken aback."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Po, I think it's time I told you\nsomething I should have told you a\nlong time ago..."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Okay.\nDad pauses dramatically."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "The secret ingredient of my secret\ningredient soup!\nPo feigns excitement."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Oh."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "C'mere! The secret ingredient is...\nnothing!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Huh?"
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "You heard me. Nothing. There is no\nsecret ingredient!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Wait wait...it's just plain old\nnoodle soup? You don't add some\nkind of special sauce or something?"
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "Don't have to. To make something\nspecial, you just have to believe\nit's special.\nPo looks at his father with dawning realization. He picks up\nthe Scroll.\nFor a moment, Po stares at his reflection on the scroll, then\nhe smiles serenely. He gets it now."
+  },
+  {
+   "type": "stage direction",
+   "text": "74."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "There is no secret ingredient...\nPo turns back to look at the palace."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. JADE PALACE - DAWN"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "At the top of the stairs, Shifu looks upon the Valley,\nawaiting his fate. With a gust of wind, Tai Lung appears\nbefore him."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "I have come home, Master."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "This is no longer your home. And I\nam no longer your master."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "Yes. You have a new favorite. So\nwhere is this...Po? Did I scare him\noff?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "This battle is between you and me."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "So. That is how it's going to be?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "That is how it must be.\nThey fight. At last. Tai Lung punches Shifu clean through the\ndoors of the Jade Palace.\nTai Lung enters."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "I rotted in jail for twenty years\nbecause of your weakness!"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Obeying your master is not\nweakness!"
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "You knew I was the Dragon Warrior!\nYou always knew...\nDissolve to FLASHBACK."
+  },
+  {
+   "type": "stage direction",
+   "text": "75."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "A young Tai Lung looks expectant. Oogway shakes his head."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (V.O.) (CONT'D)",
+   "text": "But when Oogway said otherwise,\nwhat did you do? What did you do?!\nTai Lung looks to Shifu who averts his eyes and the past\ndissolves into the present."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "NOTHING!\nShifu takes a Kung Fu stance."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You were not meant to be the Dragon\nWarrior! That was not my fault!"
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "NOT YOUR FAULT?!\nEnraged, Tai Lung knocks over the Kung Fu artifacts and\nthrows them at Shifu."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "WHO FILLED MY HEAD WITH DREAMS?!\nWHO DROVE ME TO TRAIN UNTIL MY\nBONES CRACKED?! WHO DENIED ME MY\nDESTINY?!\nShifu dodges each attack."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "It was never my decision to make!\nTai Lung pulls Oogway's staff from the shrine."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "It is now.\nThey fight. Tai Lung pins Shifu down with the staff."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "Give me the scroll!"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "I would rather die.\nThey struggle for a beat until finally, the staff splinters\ninto a hundred pieces. Shifu looks back at the pieces and a\nflutter of peach tree petals fly by. Caught off guard, Shifu\ngets kicked by Tai Lung into a column."
+  },
+  {
+   "type": "stage direction",
+   "text": "76."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Shifu climbs the column to the rafters. Tai Lung follows and\nsends them both crashing through the roof.\nLightning flash.\nGrappling in mid-air, Tai Lung gets his hands around Shifu's\nthroat as they crash back through the roof.\nThey kick apart. Shifu crashes to the floor and lands hard.\nTai Lung bounces off the wall and throws a lantern to the\nfloor. Flames go everywhere. Tai Lung's arms are aflame as he\ncharges at Shifu."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "All I ever did, I did to make you\nproud! Tell me how proud you are,\nShifu! Tell me! TELL ME!\nTHOOM! A fiery punch sends Shifu skidding across the floor\nand crashing against the reflecting pool. The flames\nextinguish and Tai Lung extends his claws."
+  },
+  {
+   "type": "stage direction",
+   "text": "(weakly)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "I have always been proud of you.\nFrom the first moment, I've been\nproud of you. And it was my pride\nthat blinded me. I loved you too\nmuch to see what you were becoming.\nWhat I was turning you into. I'm...\nsorry.\nTai Lung stops in his tracks. Shifu waits. Tai Lung's\nexpression goes cold. He grabs Shifu by the throat."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "I don't want your apology. I want\nmy scroll!\nHe holds Shifu up to the ceiling. Looking up, Tai Lung\nbristles when he sees the scroll is missing."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "WHAT? WHERE IS IT?!\nTai Lung slams Shifu to the floor."
+  },
+  {
+   "type": "stage direction",
+   "text": "(weakly)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Dragon Warrior has taken scroll\nhalfway across China by now. You\nwill never see that scroll, Tai\nLung. Never. Never..."
+  },
+  {
+   "type": "stage direction",
+   "text": "77."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Tai Lung is furious. He roars, ready to strike Shifu.\nSuddenly..."
+  },
+  {
+   "type": "speech",
+   "character": "PO (O.S.)",
+   "text": "Hey!\nTai Lung turns around to find Po standing in the doorway."
+  },
+  {
+   "type": "stage direction",
+   "text": "(out of breath)"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Stairs...\nTai Lung casts Shifu aside."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "Who are you?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Buddy, I am the Dragon Warrior."
+  },
+  {
+   "type": "stage direction",
+   "text": "(exhales hard)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Huhhh..."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "You?! Him?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Shifu)"
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "He's a panda."
+  },
+  {
+   "type": "stage direction",
+   "text": "(back to Po)"
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "You're a panda. What are you gonna\ndo, big guy? Sit on me?"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Don't tempt me. Haha. No. I'm gonna\nuse this. You want it? Come and get\nit.\nPo shows him the Dragon Scroll.\nFrom out of nowhere, Tai Lung appears and punches Po across\nthe room, grabbing the scroll knocked from Po's hands."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "Finally!\nPo bounces off a nearby pillar and slams back into Tai Lung,\nsending him flying into a column. Po puts on a brave face and\nstrikes a pose as Tai Lung recovers and charges. Po turns to\nrun.\nTai Lung quickly catches up and they both sail off the Palace\nsteps.\nPo clings to the scroll as Tai Lung delivers a kick and sends\nhim crashing onto the theater rooftops below."
+  },
+  {
+   "type": "stage direction",
+   "text": "78."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "Po rolls down off a tree and uses the recoil to whip back and\nsmash Tai Lung. He briefly skids across the rooftop and comes\nright back at Po."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "That scroll is mine!\nDown the Theater steps, Po and Tai Lung grapple for the\nscroll. Po is oblivious to the effects of crashing down\nstairs and in slow motion, his voluminous butt presses down\non Tai Lung's head. As they crash through the Gateway the\nscroll is knocked loose. Tai Lung goes for the scroll but Po\nsnatches it away using a noodle lasso. The scroll flies\ntowards him and bounces off his head. Tai Lung leaps for it,\nbut Po grabs his tail and pulls him back down onto a cart\nwhich see-saws Po into the air. In mid-air, Po slurps the\nnoodle.\nUp and over the rooftops, Po lands in a grove of bamboo trees\nand into a nearby wok shop. The scroll rolls to a stop in the\nstreet.\nAs Tai Lung makes his move on the scroll, Po turns the array\nof overturned woks into a shell game, sliding the woks around\nto hide the scroll."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Lightning!\nTai Lung knocks the woks away and exposes the scroll as Po\nuses his bamboo stilts to block Tai Lung. The leopard swipes\nout the stilts and brings Po down on top of him as the scroll\nrolls down the steps towards the river.\nPo gets thrown into a fireworks booth. As Tai Lung chases\ndown the scroll, he turns back to see Po flying through the\nfireworks-filled sky.\nPo slams through Tai Lung and crashes into a rock wall. The\nscroll flies out of his hand and lands in the mouth of an\nornamental rooftop dragon. He looks back at Tai Lung, who\nsees where the scroll has landed. Via the magic of cookie-\nvision, Po effortlessly scales the building. Tai Lung is\nshocked."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "The scroll has given him power."
+  },
+  {
+   "type": "stage direction",
+   "text": "(then)"
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "NOOO0!!\nHe takes a giant leap and kicks the wall. The resulting\nshockwave collapses the building."
+  },
+  {
+   "type": "stage direction",
+   "text": "79."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "Amazingly, Po skips across the falling roof tiles to reach\nthe scroll in mid-air as Tai Lung leaps up behind him and\nunleashes a punishing blow that sends Po smashing into the\nground. As Tai Lung lands, he delivers a final devastating\npunch.\nAs the dust settles, Tai Lung is looming over Po in the\nimpact crater."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "(out of breath)\nFinally... oh yes... the power of\nthe Dragon Scroll... is mine!\nTai Lung grabs for the scroll and opens it. His face falls."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG (CONT'D)",
+   "text": "It's NOTHING!!\nPo stirs."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "It's okay. I didn't get it the\nfirst time either."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "(disbelief)\nWhat?\nPo gets to his feet."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "There is no secret ingredient. It's\njust you.\nTai Lung snarls and lunges at Po."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "RRRAAAH!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "AAAAGGGHH!\nTai Lung attacks Po's nerve points. But Po begins giggling."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Stop! Stop it! I'm gonna pee!\nDon't! Don't!\nTai Lung's nerve attack has no effect on Po. Frustrated, he\ndelivers a double-fisted punch to Po's belly."
+  },
+  {
+   "type": "stage direction",
+   "text": "80."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "The shockwave ripples through Po's entire body and Po's arms\ncome back and strike Tai Lung, sending the leopard crashing\nback into a building. Po looks at his hands, amazed at what\nhe just did.\nTai Lung rises from the rubble and runs at Po again. But Po\nstrikes back, using an unorthodox panda-style technique, even\ngetting Tai Lung to chomp down on his own tail. Po gives Tai\nLung a butt bump that sends him crashing into a building. Tai\nLung emerges and attempts one more lunge at Po. But Po\nprepares... and Tai Lung is swiftly met by Po's IRON BELLY!\nHe is launched into the air. Po waits... and waits... until\nfinally, Tai Lung appears in the sky and crashes to the\nground.\nTai Lung is battered, but still defiant."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "(heavy breathing)\nYou... can't defeat me. You're just\na big, fat panda!\nSCHWING! Po grabs Tai Lung's finger. Tai Lung's eyes go wide."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "I'm not a big, fat panda. I'm the\nbig, fat panda.\nPo's pinky pops up. Tai Lung gasps."
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "The Wuxi Finger Hold!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Oh, you know this hold?"
+  },
+  {
+   "type": "speech",
+   "character": "TAI LUNG",
+   "text": "You're bluffing. You're bluffing!\nShifu didn't teach you that."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Nope. I figured it out.\nHe flexes his pinky..."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Skadoosh!\nKA-THOOM!"
+  },
+  {
+   "type": "stage direction",
+   "text": "81."
+  },
+  {
+   "type": "location",
+   "text": "EXT. VALLEY OF PEACE"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "A mushroom cloud appears over the Valley, sweeping past the\nFurious Five and the fleeing villagers."
+  },
+  {
+   "type": "stage direction",
+   "text": "DISSOLVE TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. VALLEY SQUARE - A LITTLE LATER"
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Villagers emerge from hiding. Po walks out from the mist\nlooking very much like the warrior from the opening dream."
+  },
+  {
+   "type": "speech",
+   "character": "KG SHAW",
+   "text": "Look! The Dragon Warrior.\nAs he nears, we see that his hat is an upside down wok and\nhis scarf is a torn apron.\nVillagers CHEER the Dragon Warrior. Po's Dad emerges from the\ncrowd."
+  },
+  {
+   "type": "speech",
+   "character": "PO'S DAD",
+   "text": "That's my boy. That big, lovely\nkung fu warrior is my son!"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Thanks, Dad.\nPo hugs his dad. The wok falls off Po's head and rolls on the\nground until Mantis appears in frame and stops it. The rest\nof the Five are with him. Po takes notice."
+  },
+  {
+   "type": "speech",
+   "character": "PO (CONT'D)",
+   "text": "Hey, guys."
+  },
+  {
+   "type": "speech",
+   "character": "TIGRESS",
+   "text": "Master.\nTigress bows deeply. The others follow."
+  },
+  {
+   "type": "speech",
+   "character": "FURIOUS FIVE",
+   "text": "Master."
+  },
+  {
+   "type": "stage direction",
+   "text": "(modest)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Master?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(then, remembering)"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Master Shifu!\nPo races toward the Jade Palace. He climbs the steps. Then\nmore steps."
+  },
+  {
+   "type": "stage direction",
+   "text": "82."
+  },
+  {
+   "type": "location",
+   "text": "INT. PALACE - MOMENTS LATER"
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Po arrives breathless at the Jade Palace. Shifu is still\nlying in the scroll room, his eyes closed. Po rushes to his\nside."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Master! Shifu! Shifu! Are you okay?\nShifu weakly opens his eyes."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Po! You're alive!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(then, darkly)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Or we're both dead."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "No, Master, I didn't die. I\ndefeated Tai Lung!"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "You did?!\nShifu smiles and shakes his head in disbelief."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU (CONT'D)",
+   "text": "Wow. It is as Oogway foretold --\nYou are the Dragon Warrior. You\nhave brought peace to this Valley.\nAnd to me. Thank you. Thank you,\nPo. Thank you...\nShifu closes his eyes. He is still. Po starts freaking out."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "No! Master! No No No! Don't die,\nShifu. Please..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(eyes snapping open)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "I'm not dying, you idiot-- ah,\nDragon Warrior. I'm simply at\npeace. Finally."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Oh. So, um, I should...stop\ntalking?"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "If you can.\nPo nods reverently as Shifu closes his eyes again. Master and\npupil lie next to each other. The camera pulls up and back\naway from them. Po tries to remain still, but it's hard."
+  },
+  {
+   "type": "stage direction",
+   "text": "83."
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "He's about to say something, but he stops himself. He fidgets\nfor a beat, then can't control himself any longer."
+  },
+  {
+   "type": "speech",
+   "character": "PO",
+   "text": "Want to get something to eat?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(sighs)"
+  },
+  {
+   "type": "speech",
+   "character": "SHIFU",
+   "text": "Yeah."
+  },
+  {
+   "type": "stage direction",
+   "text": "IRIS OUT.\nTHE END"
+  }
+ ]
+}
