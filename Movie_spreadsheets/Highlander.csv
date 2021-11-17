@@ -1,0 +1,1739 @@
+,character,line #,line
+0,FIRST MAN,0,MacLeod.
+1,MOTHER,1,"My, but are you the
+picture."
+2,CONOR,2,"(surveying himself)
+It's a bit tight."
+3,FATHER,3,"Ah, Conor, how you look
+a man."
+4,MOTHER,4,"Have you time for some-
+thing to eat?"
+5,CONOR,5,"No, Mother.  They'll be
+here shortly."
+6,FATHER,6,"Your grandfather wore
+that in his service to
+the King, and I to fight
+for the Duke."
+7,MOTHER,7,Must he go?
+8,FATHER,8,"Aye.  It is his duty.  All
+of ours."
+9,MOTHER,9,"But Ian, he's still but a boy."
+10,FATHER,10,He's a MacLeod.
+11,CONOR,11,I'll be fine Mother.
+12,CLANSMAN,12,They march.
+13,KNIGHT,13,Is the boy among them?
+14,CLANSMAN,14,Aye.
+15,VASSAL #1,15,Is a bad day for this.
+16,VASSAL #2,16,"The Duke has been compro-
+mised.  He will have his due."
+17,VASSAL #1,17,"By day's end he will have
+our heads."
+18,VASSAL #2,18,"We ride against the Suther-
+lands.  That is all that
+matters."
+19,VASSAL #1,19,This makes no sense to me.
+20,FRIEND,20,"The fog is bad.  We cannot
+even see the sides of our
+own ranks."
+21,FRIEND,21,Is this your first?
+22,CONOR,22,Aye.
+23,FRIEND,23,It's begun.
+24,KNIGHT,24,There can be but one.
+25,VASSAL #1,25,Leave him!
+26,OFFICER #1,26,Kevin!  Get is a backup.
+27,TAUPIN,27,"I was merely walking by
+when-"
+28,OFFICER #1,28,Don't move.
+29,OFFICER #2,29,They're on their way.
+30,OFFICER #2,30,Christ.
+31,PRIEST,31,"...Libera Domine Animan
+servi tui sicut libertasi
+David de manu regis Saul..."
+32,PRIEST,32,"...In mamus tuas domine
+commendo spiritum meum..."
+33,VASSAL #1,33,Has the boy died?
+34,CLANSMAN,34,"He is having the last rites
+now.  It should be over by
+morning."
+35,VASSAL #1,35,"Never seen anybody cut as
+bad live so long.  He should
+have died on the field."
+36,CLANSMAN,36,"Tonight or tomorrow, it's
+all the same."
+37,PRIEST,37,"...Auditorium nostrum in
+nomine domini..."
+38,VASSAL #1,38,This has been a dark day.
+39,PRIEST,39,...Requiescant in pace...
+40,EXAMINER,40,"Real clean.  No sawing
+action at all.  Whatever
+it was did it in one
+swipe."
+41,EXAMINER,41,Like the other one.
+42,MORAN,42,What about that?
+43,EXAMINER,43,Hasn't any blood on it.
+44,MORAN,44,"About the only thing
+that doesn't."
+45,EXAMINER,45,"I'll give it a closer
+look when I get back."
+46,OFFICER #3,46,"Come on Brenna, you know
+better than that."
+47,BRENNA,47,I'm invited.
+48,BRENNA,48,Mr. Levine...
+49,EXAMINER,49,"Hope this isn't past your
+bedtime."
+50,BRENNA,50,"Doesn't have a head,
+does he?"
+51,EXAMINER,51,This one came unassembled.
+52,MORAN,52,"Just show her what she came
+for, Tom."
+53,EXAMINER,53,"Come on, this is more
+your line of work."
+54,EXAMINER,54,"How's your uncle?  I hardly
+ever see him anymore."
+55,BRENNA,55,Fine.
+56,EXAMINER,56,There you go.
+57,EXAMINER,57,"Didn't look like it came from
+""Toys-Are-Us"", that's why I
+called you."
+58,BRENNA,58,"Didn't think it was my
+buddy over there."
+59,EXAMINER,59,"Figured you knew more about
+swords than I did."
+60,BRENNA,60,Claymore.
+61,EXAMINER,61,Huh?
+62,BRENNA,62,"Scottish claymore.  Take
+a French epee, add twenty
+pounds of ballast so it
+means business, and you've
+got a claymore."
+63,EXAMINER,63,You're the expert.
+64,BRENNA,64,It's in good condition.
+65,MORAN,65,This your present address?
+66,TAUPIN,66,Yes.
+67,MORAN,67,"Mr.-
+(looks at license)
+Taupin, what were you
+doing in that alley?"
+68,TAUPIN,68,"I was walking by when I
+heard a shout.  Your men
+came right after."
+69,MORAN,69,Did you know the victim?
+70,TAUPIN,70,No.
+71,MORAN,71,"His name was Iman Fasil
+if that jogs your memory."
+72,TAUPIN,72,It doesn't.
+73,MORAN,73,"He was carrying a Syrian
+passport and had been in
+the country less than a week."
+74,MORAN,74,"Two days ago a Bulgarian
+national was murdered the
+same way.  He'd also been
+in the country less than a
+week."
+75,(beat),75,What is your citizenship?
+76,TAUPIN,76,American.
+77,MORAN,77,"Do you make a habit of
+hanging out in that neigh-
+borhood at night?"
+78,TAUPIN,78,What are you getting at?
+79,MORAN,79,"Let's just say that in my
+years with this department
+I've seen more than one well
+dressed business man look for
+a hand job on 14th Street."
+80,MORAN,80,What were _you_ looking for?
+81,TAUPIN,81,That's none of your business.
+82,MORAN,82,You're wrong.
+83,MORAN,83,Do you know what this is?
+84,TAUPIN,84,I presume it's a sword.
+85,MORAN,85,"A claymore to be exact.  You
+wouldn't know anything about
+it would you?"
+86,TAUPIN,86,Your murder weapon?
+87,MORAN,87,"It was covered with Mr.
+Fasil's fingerprints, but
+none of his blood."
+88,TAUPIN,88,A mystery.
+89,MORAN,89,For the moment.
+90,MORAN,90,"All right Mr. Taupin, we'll be in
+touch."
+91,MOTHER,91,"Ah Steven, it is good to see you."
+92,TRAVELLER,92,"I only just heard of Conor.  I came
+up from Catroch as soon as I could."
+93,MOTHER,93,You're a kind man to be sure.
+94,TRAVELLER,94,"I thought it only proper to pay
+me last respects to the family."
+95,MOTHER,95,"Steven, Conor didn't die."
+96,TRAVELLER,96,"But I had heard his wounds were
+mortal."
+97,MOTHER,97,"They were Steven, they were.  It's
+been a miracle it has.  He lasted
+right through and healed.  No one
+in the village has ever seen anything
+like it.  Ever."
+98,CONOR,98,You're pretty today.
+99,CONOR,99,"I'm your future husband, remember?"
+100,MARA,100,I have no future husband.
+101,CONOR,101,"I don't understand.  Not a week
+ago your father gave us his blessing."
+102,MARA,102,"My future husband died in battle
+against the Sutherlands."
+103,CONOR,103,"What are you saying?  I'm standing
+here as real as you."
+104,MARA,104,"You cannot be real, Conor.  You had
+the last rites.  No man has been cut
+half as bad and lived."
+105,CONOR,105,But I did live.
+106,MARA,106,"Live?  In less than a week you're
+prancing about the country like a
+squirrel."
+107,CONOR,107,"So why the crazy talk?  It's a
+miracle it is.  Saint Andrew has
+smiled on me.  On us."
+108,MARA,108,Some think not.
+109,CONOR,109,Who?
+110,MARA,110,"There's rumor in the village.
+Some call it magic."
+111,CONOR,111,"That's mad.  Surely you don't
+take their word?"
+112,MARA,112,"I don't know, Conor.  It's not
+natural.  Maybe something has
+touched you."
+113,CONOR,113,"You're sounding like that mad
+woman, Widow Baggins."
+114,MARA,114,"Me father has taken back my
+hand."
+115,CONOR,115,"Ah, Lassie..."
+116,MARA,116,"Please not be touching me, Conor."
+117,CONOR,117,"I'll not take that kind of talk
+from you.  From those others
+below, maybe.  But not from you."
+118,MARA,118,"Leave me alone, Conor.  Please."
+119,CONOR,119,"You're not talking sense, Mara!"
+120,CONOR,120,I'm sorry.
+121,CONOR,121,"If you send me away now, Mara,
+I'll not come looking for you."
+122,MARA,122,Do what you must.
+123,RECEPTIONIST,123,"Mrs. Thompson agreed to settle for
+fifteen, Melvin's wants to make a
+pick-up at three o'clock, the coffee
+machine's broken, and there's a
+Miss Cartwright from the Smithsonian
+in your office."
+124,BRENNA,124,Do you play?
+125,TAUPIN,125,Yes.
+126,BRENNA,126,Very traditional.
+127,TAUPIN,127,"Miss Cartwright, what is it I can
+do for you?"
+128,BRENNA,128,"I'd like to ask you about the
+claymore."
+129,TAUPIN,129,It's not mine.
+130,BRENNA,130,"It's quite rare you know, some-
+thing so common in its time so
+well looked after all these years."
+131,TAUPIN,131,"Miss Cartwright, unless you have
+come here to sell the sword,
+there's very little I can help
+you with.  Now if you will excuse
+me, I have a great deal of work
+to do."
+132,BRENNA,132,Byzantine?
+133,TAUPIN,133,Basil the II.
+134,BRENNA,134,"Charming guy, Basil.  Once after
+beating an army of Serbians he
+blinded all but-"
+135,TAUPIN,135,"-All but one out of a hundred, I
+know.  All left to be led like
+donkeys back home.  Now if you will
+please-"
+136,BRENNA,136,Good reflexes.
+137,TAUPIN,137,"Good day, Miss Cartwright."
+138,BRENNA,138,I don't believe him.
+139,SUPERVISOR,139,Why?
+140,BRENNA,140,"He's too cool.  Too sharp.  I
+think he's got something to
+do with it."
+141,RESEARCHER #1,141,"Oh, has your penetrating research
+on 9th Century Lithuanian dildos
+suddenly made you an expert on the
+criminal mentality?"
+142,BRENNA,142,"Screw off, Larry."
+143,RESEARCHER #2,143,"The cops bought it.  They let him
+go."
+144,BRENNA,144,"What could they hold him for?  I
+think they're just waiting for
+something concrete before they
+haul him in for real.  We should
+look into it.  He had to have
+gotten that sword from somewhere."
+145,SUPERVISOR,145,"Hang on a sec, you did your little
+favor for the boys downtown, I'm
+sure your uncle and the rest are
+perfectly capable of taking it
+from here."
+146,BRENNA,146,"I've seen nobleman swords that
+weren't as well preserved.  It's
+just a hunk of peasant iron.  Why
+would he be carrying it around
+in an alley?"
+147,RESEARCHER #1,147,"Here we go.  Everytime there's a
+murder in town we have to put up
+with junior D.A."
+148,RESEARCHER #2,148,Must be genetic.
+149,BRENNA,149,"Someone should check him out.
+Maybe a collection somewhere
+got knocked over.  He has one,
+he might have two."
+150,SUPERVISOR,150,"You see that desk?  _Your_ desk?  You see
+the crap piled up on it?"
+151,BRENNA,151,"Give it a rest Ned, huh?"
+152,RESEARCHER #2,152,"Might be interesting to see what
+his family connections are.  That's
+a hell of a piece to be just chuck-
+ing around in an alley."
+153,SUPERVISOR,153,"I swear to God Brenna, between you
+and Thompson's novels I'm going to
+get a bloody ulcer."
+154,CONOR,154,"Evening, Douglas."
+155,DOUGLAS,155,Conor.
+156,CONOR,156,Ale suits me.
+157,TAVERN MAN #1,157,"We rather you not be sitting with
+us, Conor."
+158,TAVERN MAN #2,158,We be drinking alone as well.
+159,CONOR,159,What's wrong with you all?
+160,TAVERN MAN #2,160,Requiem acer'nam donaei-
+161,CONOR,161,What are you doing man?
+162,TAVERN MAN #2,162,-Et lux perpetua-
+163,CONOR,163,"You'll not be bringing the church
+into this."
+164,TAVERN MAN #2,164,-Luceat ei-
+165,CONOR,165,Be quiet.
+166,TAVERN MAN #2,166,-Auditorium nostrum-
+167,CONOR,167,Stop.
+168,TAVERN MAN #2,168,-In nomine sanctus esperitu-
+169,CONOR,169,Stop!
+170,MOTHER,170,Please take care of yourself.
+171,CONOR,171,Aye.
+172,FATHER,172,I wish there was some other way.
+173,FATHER,173,"Goodbye, Conor."
+174,CONOR,174,Goodbye.
+175,DESK OFFICER,175,This is against the rules.
+176,BRENNA,176,"So's playing choo-choo with two
+high school cheerleaders in the
+middle of-"
+177,DESK OFFICER,177,-Okay okay.
+178,BRENNA,178,"You owe me.  Besides, I'm cute."
+179,DESK OFFICER,179,"Taupin, Richard Marshall.  Born
+March 16, 1945 in Church Hill,
+Maryland.  Received first driver
+permit 1967 in Philadelphia."
+180,BRENNA,180,"Church Hill, that's pretty close,
+isn't it?"
+181,DESK OFFICER,181,Anything in Maryland is close.
+182,TAUPIN,182,Where is he?
+183,TAUPIN,183,Where!
+184,INTRUDER,184,I don't know.
+185,TAUPIN,185,What name is he using?
+186,INTRUDER,186,Smith.  Carl Smith.
+187,TAUPIN,187,How many came?
+188,INTRUDER,188,The last four.
+189,TAUPIN,189,And the Bulgarian?
+190,INTRUDER,190,He got him.
+191,INTRUDER,191,He always does.  Eventually.
+192,TAUPIN,192,He knows I'm here.  How?
+193,INTRUDER,193,"None of this would be happening
+if you hadn't run..."
+194,TAUPIN,194,_Answer_ me.
+195,INTRUDER,195,"We learned he'd found the immigration
+notaries in Liverpool and traced them
+to New York.  Then he figured out the
+birth records in Church Hill..."
+196,BRENNA,196,Taupin...Taupin...
+197,BRENNA,197,"Tarmin...Tatum...Taupin, Richard
+Marshall.  Born to William and
+Karen Taupin, no address.  Attend-
+ing physician, Dr. Willis Kidell."
+198,KIDELL,198,"1945, that strains the memory."
+199,KIDELL,199,"Here we are, Richard Taupin."
+200,KIDELL,200,Would you like more tea?
+201,BRENNA,201,"No thank you, I'm fine."
+202,KIDELL,202,He was unsual.
+203,BRENNA,203,Why?
+204,KIDELL,204,"Well, this is a small town, and
+it was even smaller then.  Most
+all the babies I delivered were
+from local families.  Richard's
+parents were just passing through
+when his mother's time came.  I
+did it right here at the house."
+205,BRENNA,205,"Then you didn't know Richard
+later on."
+206,KIDELL,206,No.
+207,BRENNA,207,"I've been trying to find somebody
+who knew him and any connections
+his family might have had with
+museums or historical societies."
+208,KIDELL,208,"Don't know about any of that.
+Suppose nobody does."
+209,BRENNA,209,I don't follow you.
+210,KIDELL,210,"Poor little tyke didn't have a
+chance.  Hopelessly premature.  He
+died a few days after he was born."
+211,BRENNA,211,The boy _died_?
+212,KIDELL,212,"Mother too.  Sad case it was.  The
+young lady just couldn't make it
+through labor.  Never even saw her
+son."
+213,KIDELL,213,"My brother worked for the town
+paper at the time.  He took this
+picture of the funeral."
+214,BRENNA,214,"Have you spoken to anyone else
+about this?"
+215,KIDELL,215,"There was this one fella.  Asked
+a lot of questions.  I was out
+of town but I heard he spent near
+a full day in the records office."
+216,BRENNA,216,Would you remember his name?
+217,KIDELL,217,Carl Smith.
+218,OFFICER,218,Just tell us when you see the one.
+219,UNCLE JOE,219,Forget it.
+220,BRENNA,220,I'm just curious.
+221,UNCLE JOE,221,"You're never ""just curious""."
+222,UNCLE JOE,222,"You've met my neice, Brenna."
+223,ASSISTANT,223,Hi Brenna.
+224,OFFICER,224,"Number 5, lift your coat up more."
+225,UNCLE JOE,225,"Aren't you getting a little old for
+this?  You flunked out of law school."
+226,BRENNA,226,Now there's a new topic.
+227,UNCLE JOE,227,"Don't they have enough for you to
+do at the castle?"
+228,UNCLE JOE,228,"Forgers do it all the time.  They
+take the birth certificate of some-
+one who died young and use it to
+get legit I.D.  Usually they carry
+it long enough to pass some bad
+checks then dump it."
+229,BRENNA,229,Thanks.
+230,UNCLE JOE,230,Call your mother.  You never call her.
+231,OFFICER,231,Well?
+232,OLD LADY,232,"I don't know.  I'd have to see his
+thing."
+233,BRENNA,233,"I can't figure out why he's doing it.
+He's been Richard Taupin at least
+since 1967.  And the guys rich.  You
+should see the stuff he has in that shop."
+234,DENNIS,234,Maybe he's hiding from something.
+235,BRENNA,235,"Some guy named Smith was asking
+about him in Church Hill.  I passed
+his name around with your buddies
+downtown but they drew a blank.  So
+he isn't a cop.  District anyway."
+236,DENNIS,236,"Probably just some exec ducking
+an ex-wife."
+237,BRENNA,237,"Dr. Kidell had a picture in his
+file of the funeral.  The father
+looked just like Richard.  Even had
+a mark on his cheek."
+238,DENNIS,238,How old is Richard?
+239,BRENNA,239,"P.D. says 41, but he barely looks
+30."
+240,DENNIS,240,"Find the father.  That should clear
+things up."
+241,DENNIS,241,"Taupin, isn't that the guy Moran
+picked up the other night?"
+242,BRENNA,242,Yeah.
+243,DENNIS,243,He'd want to know about all this.
+244,BRENNA,244,"Mr. Congeniality?  Let him find his
+own clues.  There's a journal article
+in this somewhere."
+245,DENNIS,245,"Uncle Joey's little girl.  Can't
+get the taste out of her mouth."
+246,DENNIS,246,"Well, the cream of society awaits."
+247,DENNIS,247,If you're ever in the neighborhood...
+248,BRENNA,248,Sure.
+249,OFFICER,249,They found it.
+250,OFFICER,250,"It was about fifty yards down-
+stream from the head."
+251,OFFICER,251,"Both were cut real clean.  Like the
+other ones..."
+252,MORAN,252,There's been another murder.
+253,TAUPIN,253,My condolences.
+254,MORAN,254,Where were you Tuesday night?
+255,TAUPIN,255,Home.
+256,MORAN,256,A neighbor saw your car leave.
+257,TAUPIN,257,He's mistaken.
+258,MORAN,258,"Look, I don't know what the hell
+you're up to, but I think I've got
+a pretty good idea."
+259,TAUPIN,259,Do you?
+260,MORAN,260,All I need is time.
+261,TAUPIN,261,I've got all the time in the world.
+262,TAUPIN,262,"Except right now.  If you will excuse
+me, Lieutenant."
+263,BRENNA,263,Someone beat you.
+264,TAUPIN,264,"Have you taken to touring small
+town cemetaries, Miss Cartwright?"
+265,BRENNA,265,Grave robbers?
+266,TAUPIN,266,Probably.
+267,BRENNA,267,Who?
+268,TAUPIN,268,"People like that rarely leave
+business cards."
+269,BRENNA,269,Does Carl Smith?
+270,TAUPIN,270,"I don't know what you're talking
+about."
+271,BRENNA,271,"I think you do.  Better yet, I don't
+think anything was stolen because
+nothing was there in the first place.
+And I think Mr. Smith, whoever he is,
+now knows that."
+272,TAUPIN,272,You have an active imagination.
+273,BRENNA,273,I've been to Church Hill.
+274,TAUPIN,274,"Miss Cartwright, you are
+involving yourself in
+matters that do not concern
+you.  I strongly suggest you
+return to Washington and stay
+out of small town cemetaries."
+275,BRENNA,275,I could find him.
+276,BRENNA,276,I have friends.
+277,TAUPIN,277,I doubt that.
+278,(beat),278,"Good day, Miss Cartwright."
+279,BRENNA,279,What's wrong?
+280,TAUPIN,280,Your help may be unneccessary.
+281,"VOICE
+(o.s.)",281,"Good afternoon, ""Mr. Taupin""."
+282,KNIGHT,282,Long time.
+283,TAUPIN,283,Not so long.
+284,TAUPIN,284,"You've been here from the
+start."
+285,KNIGHT,285,"My quarry grows clever with
+age.  And the others, incompetent."
+286,KNIGHT,286,Friend of yours?
+287,TAUPIN,287,Of sorts.
+288,KNIGHT,288,"I do hope she enjoys a good
+show."
+289,KNIGHT,289,So now it ends.
+290,KNIGHT,290,"Generation upon generation.
+Tens of thousands of miles."
+291,KNIGHT,291,"You're the last, MacLeod.
+Romirez, Lacroux, Neuvich,
+those fools that followed
+me, their heads all line my
+shelf.  All but yours."
+292,KNIGHT,292,"Can you feel it, MacLeod?
+Can you _feel_ it!"
+293,KNIGHT,293,There can be but one.
+294,WATCHMAN,294,Hey!  What's going on here?
+295,TAUPIN,295,Run!
+296,TAUPIN,296,Run!
+297,KNIGHT,297,MACLEOD!
+298,BRENNA,298,Jesus Christ.
+299,TAUPIN,299,"You'll be safe here.  He won't
+kill in a church."
+300,BRENNA,300,Why not?
+301,TAUPIN,301,Tradition.
+302,BRENNA,302,What the hell is going on?
+303,CONOR,303,Afternoon.
+304,ROMIREZ,304,Your name is Conor?
+305,CONOR,305,Aye.
+306,ROMIREZ,306,"Juan Cid Romirez.  Chief
+surveyor and alchemist."
+307,CONOR,307,"You're not from these
+parts."
+308,ROMIREZ,308,"I am from Spain.  And I
+would like a moment of
+your time."
+309,CONOR,309,"I haven't much to offer,
+Mr. Romirez from Spain,
+but you're welcome to what's
+here."
+310,ROMIREZ,310,Please go to no trouble.
+311,ROMIREZ,311,"Your back, it would seem
+perhaps you were injured
+in battle?"
+312,CONOR,312,"Five years past me clan
+fought another over some-
+thing I cannot even re-
+member."
+313,ROMIREZ,313,"Your marks would suggest
+great injury."
+314,CONOR,314,I was nearly killed.
+315,ROMIREZ,315,But you lived.
+316,CONOR,316,I did at that.
+317,ROMIREZ,317,"And but for a mark you are
+well as any man, no?"
+318,CONOR,318,Aye.
+319,ROMIREZ,319,"I should imagine that your
+recovery must have alarmed
+your fellow villagers, perhaps
+giving them reason to invent
+an explanation.  And a solution."
+320,CONOR,320,I was driven out.
+321,ROMIREZ,321,"And now you live in a small
+village miles away from all
+you knew."
+322,CONOR,322,How can you know this?
+323,ROMIREZ,323,"First food, no?  A good meal
+makes conversation so much
+easier."
+324,ROMIREZ,324,"Hmm, que rico.  What is it you
+call this?"
+325,CONOR,325,Pheasant.
+326,ROMIREZ,326,"You Scots have a way with
+game.  It still has life in it.
+Spirit.  Back home the food
+is so...domestic."
+327,CONOR,327,Why are you here?
+328,ROMIREZ,328,"I was sent by his majesty of
+Spain to Inverness as a con-
+sultant on matters of metal."
+329,CONOR,329,You're a long way from Inverness.
+330,ROMIREZ,330,"In my travels I heard the story of
+the MacLeod boy struck down and
+brought from the hand of
+death by powers not of this Earth."
+331,CONOR,331,You know me home.  Me name.
+332,ROMIREZ,332,It was time for our paths to cross.
+333,ROMIREZ,333,You see this?
+334,ROMIREZ,334,"When I was a boy a cart driven
+by a drunken fool crushed me.  All
+thought I would die or be maimed
+for life.  But I healed quickly.
+And like you I paid the price
+for being different."
+335,CONOR,335,You are the same?
+336,ROMIREZ,336,"Do you ever feel a flow, as if some-
+thing were pushing against you?"
+337,CONOR,337,Yes.  Always.
+338,ROMIREZ,338,Does it change with me in the room?
+339,CONOR,339,It is less.
+340,ROMIREZ,340,You feel you know me.
+341,CONOR,341,I don't know why.
+342,ROMIREZ,342,We are brothers.
+343,CONOR,343,"He told me there could be only
+one."
+344,ROMIREZ,344,"Some cling to sanity through time
+with the one continuity and trad0
+ition their lives have known: The
+Game."
+345,ROMIREZ,345,"You and I Conor, we are different
+from all others around us.  You
+know this, you can feel it.  We are
+flesh and bone like any man, but
+unlike our neighbors we are rather
+difficult to injure,"
+346,ROMIREZ,346,permanently.
+347,CONOR,347,I don't understand.
+348,ROMIREZ,348,You are still so very young.
+349,CONOR,349,I'm twenty-two.
+350,ROMIREZ,350,Not even a single lifetime.
+351,ROMIREZ,351,"Conor, you and I, we cannot be
+killed."
+352,CONOR,352,What?
+353,ROMIREZ,353,We are immortal.
+354,CONOR,354,"No, that can't be."
+355,ROMIREZ,355,It is as you are.
+356,CONOR,356,No!
+357,ROMIREZ,357,Listen to me.  Hear the words.
+358,CONOR,358,This is madness!
+359,ROMIREZ,359,It is the truth.
+360,CONOR,360,No!
+361,MALE VOICE,361,"This is Dr. Wickland at GWU.  Your
+test came back today.  You can call
+me here at the med center if you
+have any questions."
+362,SUPERVISOR'S VOICE,362,"Brenna, where the hell are you?
+The place is full of cops asking
+weird questions.  What's going on?
+I've got work stacking up.  Get
+in here right away."
+363,KNIGHT'S VOICE,363,Brenna.
+364,KNIGHT'S VOICE,364,"My quarrel is not with you.  Meet
+me."
+365,KNIGHT'S VOICE,365,"We have much to talk of, you and
+I.  Answers for the young historian."
+366,(beat),366,"O'Reily's.  Tonight.  I've grown to
+like taverns."
+367,SEVERAL LITTLE GIRLS,367,"Happy birthday to you, happy birth-
+day to you, happy birthday dear
+Brenna, happy birthday to you."
+368,MOTHER'S VOICE,368,"Hi Brenna, it's mom.  Me and your neices
+just wanted to call and wish you a
+happy birthday.  Crissy made a real cute
+card for you, be sure to call her.  Will
+you be home for Easter?  Call when you
+can.  Love you."
+369,ROMIREZ,369,"Three days you've laid there.
+It's time you ate."
+370,CONOR,370,This can't be.
+371,ROMIREZ,371,"You are not dead, boy.  Accept it."
+372,CONOR,372,"This is monstrous.  I'll burn in
+hell for all eternity."
+373,ROMIREZ,373,You'd have to die first.
+374,ROMIREZ,374,Aqui.
+375,CONOR,375,"What is to become of me?  Am I to
+wander the Earth forever like a
+ghost?"
+376,ROMIREZ,376,You will live.  Survive.
+377,CONOR,377,"Then they were right.  I am evil.
+This is God's punishment."
+378,ROMIREZ,378,"You have done nothing wrong Conor
+MacLeod."
+379,CONOR,379,Oh my God.  Oh my God I'm lost.
+380,CONOR,380,Why does he want to kill me?
+381,ROMIREZ,381,"You recall how I spoke of the push
+you feel and how I make it less?"
+382,CONOR,382,Aye.
+383,ROMIREZ,383,"It is always less with my living.
+Far or near.  But if I were to die
+the push would become stronger
+than ever before.  There is power
+in this.  And as long as you and I
+live, The Knight can never have
+it all."
+384,CONOR,384,But we cannot be killed.
+385,ROMIREZ,385,"There is an imperfection.  For all
+your healing, if your head ever
+leaves your neck, you are dead.
+You can survive anything but steel
+against your threat.  Then it is
+over.  The end."
+386,CONOR,386,How can I stop such a man?
+387,ROMIREZ,387,"Hide.  Run to the ends of the Earth
+till you learn.  You must learn to
+defend yourself.  In this I can help."
+388,CONOR,388,Why?
+389,ROMIREZ,389,"We are brothers.  And you are a
+defense-"
+390,(beat),390,-of sorts.
+391,MR. NORTH,391,"When your father died I saw to
+it that the grounds were kept up."
+392,TAUPIN,392,"The money in the estate was
+enough to cover your costs?"
+393,MR. NORTH,393,"Oh yes, more than enough."
+394,MR. NORTH,394,"Most of the furniture was put
+into protective storage.  I'll
+have some boys come up and clean
+the place out for you."
+395,MR. NORTH,395,"You're one of William's kids,
+huh?"
+396,TAUPIN,396,His only kid.
+397,MR. NORTH,397,"Sure take after him.  Never seen
+a father and son look more alike."
+398,TAUPIN,398,We were very close.
+399,MR. NORTH,399,The resemblance is amazing.
+400,TAUPIN,400,When may I expect the cleaners?
+401,MR. NORTH,401,I'll send them right up.
+402,MAN,402,"That stuff'll put you away if
+you're not careful."
+403,BRENNA,403,"There was a Count.  Count Dusan.  He
+would invite the local peasants to
+his chateau, fill them full of wine,
+then slice their bellies so he
+could reuse it."
+404,(smiles),404,"The symmetry of that somehow always
+appealed to me."
+405,MAN,405,You're very macabre.
+406,BRENNA,406,It's my birthday.
+407,MAN,407,Happy birthday.
+408,BRENNA,408,Thanks.
+409,BRENNA,409,Buy a birthday girl a drink?
+410,TAUPIN,410,Lager and lime.
+411,KAHN,411,MacLeod.
+412,KAHN,412,Spare a chair?
+413,TAUPIN,413,Kahn?
+414,KAHN,414,"Are you going to offer me a chair
+or leave me standing here all night?"
+415,TAUPIN,415,Sit.
+416,TAUPIN,416,How are you?
+417,KAHN,417,Head still secure to the neck.
+418,TAUPIN,418,How did you find me?
+419,KAHN,419,"How many places this side of the
+Atlantic serve lager and lime?"
+420,KAHN,420,Old habits die hard.
+421,KAHN,421,Waitress!  A round of Nitzhic!
+422,(beat),422,"Peasant drool, I know.  But it's the
+closest thing they stock to my side
+of the fence."
+423,TAUPIN,423,What are you doing here?
+424,KAHN,424,"It is the gathering, my friend.  The
+settling of old scores."
+425,TAUPIN,425,"And have you something to settle
+with me?"
+426,"KAHN
+(smiles)",426,"Not tonight.  Tonight I have a drink
+with an old friend."
+427,TAUPIN,427,"It's good to see you, Kahn."
+428,KAHN,428,"Come, toast with me the past."
+429,KAHN,429,"To old conquests, old loves, and to a
+time when we cared about either."
+430,KAHN,430,Waitress!
+431,KAHN,431,"I'll never forget the look on that
+Papal commander's face when his
+""heretic stronghold"" turned out to
+be a rock full of whores climbing
+all over Neuvich."
+432,TAUPIN,432,"Neuvich, the clown of the crusades."
+433,KAHN,433,"But then rides up Pope Pius who
+calmly brushes the dust from his
+papal cross, climbs off his papal
+horse, draws his papal sword and
+asks just what the hell is going
+on.  And what did Neuvich, dear
+dear drunken Neuvich do?"
+434,TAUPIN,434,Offered the Pope one of his whores.
+435,TAUPIN,435,"Had a great swing with his blade.
+For a Pope."
+436,"KAHN
+(sighs)",436,"Good times then.  A man could
+stretch his legs without bring-
+ing half the world down around
+his ears.  Not like now."
+437,TAUPIN,437,He found us even there.
+438,KAHN,438,He always did.
+439,TAUPIN,439,I haven't drunk this much since-
+440,KAHN,440,-Since you last saw me.
+441,KAHN,441,Come on.
+442,KAHN,442,"I love zoos.  Ever since I was
+a kid."
+443,TAUPIN,443,You were never a kid.
+444,KAHN,444,I knew his great-grandfather.
+445,TAUPIN,445,You're insane.
+446,KAHN,446,"No, seriously.  We used to shoot pool
+together in Rangoon."
+447,TAUPIN,447,"How do you do it, Kahn?  How do you
+live so full of life for so long?"
+448,KAHN,448,"Tasting and enjoying life is the
+only thing of value we have.  All
+else is just marking time."
+449,(beat),449,You're marking time.
+450,TAUPIN,450,I've had a few more concerns.
+451,KAHN,451,"The pressure only comes when you
+let the taste slip into your mouth."
+452,TAUPIN,452,You're wrong.
+453,KAHN,453,"You don't run as hard, MacLeod.
+You just don't run as hard anymore."
+454,AUCTIONEER,454,"I apoligize for the lateness of the
+hour, but I'm sure you will all agree
+the quality of this year's collection
+is well worth the time."
+455,AUCTIONEER,455,"For this fine example of medieval
+religious art, let us open the bid
+at 4,000 dollars."
+456,AUCTIONEER,456,"10,500 once, 10,500 twice..."
+457,AUCTIONEER,457,"11,000.  A bid at 11,000."
+458,BRENNA,458,"No, I-"
+459,BRENNA,459,"Mr. Taupin?  I have to talk to
+you."
+460,TAUPIN,460,Finished?
+461,BRENNA,461,He tried to kill me last night.
+462,TAUPIN,462,Where?
+463,BRENNA,463,Dupont Circle.
+464,BRENNA,464,Who is he?
+465,TAUPIN,465,At the moment?  Carl Smith.
+466,BRENNA,466,And you?
+467,BRENNA,467,What will you do now?
+468,TAUPIN,468,"You needn't worry Miss Cartwright.
+I've been at this a very long time."
+469,BRENNA,469,"He called you ""MacLeod""."
+470,TAUPIN,470,Not your concern.
+471,BRENNA,471,"I left a man dead in
+Felton.  But you don't
+really care, do you?"
+472,TAUPIN,472,That bothers you?
+473,BRENNA,473,He was innocent.
+474,TAUPIN,474,"He's dead.  Whatever I may
+or may not feel means
+exceedingly little to him
+now."
+475,BRENNA,475,What about me?
+476,TAUPIN,476,You?
+477,BRENNA,477,"I'm a witness to a murder.  That
+seems to put me pretty high
+on your friend's chop list."
+478,TAUPIN,478,"Have you gone to the
+police?"
+479,BRENNA,479,No.
+480,TAUPIN,480,"Why not?  I'm sure they'd
+love to hear your story."
+481,BRENNA,481,I'd rather hear yours.
+482,"TAUPIN
+(beat)",482,You are being foolish.
+483,BRENNA,483,"I'm a historian, Mr. Taupin.
+Only once in a lifetime do you
+stare history in the face."
+484,TAUPIN,484,Go home.
+485,BRENNA,485,Why does he want to kill you?
+486,TAUPIN,486,He sees me as a threat.
+487,BRENNA,487,Are you?
+488,ROMIREZ,488,Concentrate!
+489,ROMIREZ,489,Harder.  Concentrate harder.
+490,CONOR,490,Me arm hurts.
+491,ROMIREZ,491,Again.  Try again.
+492,ROMIREZ,492,"Harder!  You swing like an impotent
+cow!"
+493,CONOR,493,Go to hell.
+494,ROMIREZ,494,"Oh, the boy has a mouth,
+now if only he had an arm."
+495,CONOR,495,Impotent cow.
+496,ROMIREZ,496,Muy Bien!
+497,ROMIREZ,497,"Here my boy, from vineyards
+as sweet and smooth as a young
+girl's thigh."
+498,ROMIREZ,498,"It will take less effort
+as you learn."
+499,CONOR,499,It's like to kill me first.
+500,ROMIREZ,500,"You have a gift.  One you
+must protect."
+501,CONOR,501,"And what is this great
+gift that cannot be seen
+or smelt?"
+502,ROMIREZ,502,"The Fabric of life.  The spark
+that allows the passing of
+existence from one generation
+to another."
+503,CONOR,503,"If that was meant to be an ex-
+planation Mr. Romirez from Spain,
+I'm afraid you've failed."
+504,ROMIREZ,504,"Come.  Enough sword play for an
+afternoon."
+505,CONOR,505,"You're no match for Scot, Mr.
+Romirez.  We're raised as riders."
+506,ROMIREZ,506,"Point conceeded, Mr. MacLeod."
+507,CONOR,507,"What is the fascinatioon?  It is only
+a leaf."
+508,ROMIREZ,508,"All living things pay dues,
+Conor.  They must be respected
+for that."
+509,ROMIREZ,509,"As they age they contribute to a
+sum that is the kindling from which
+all future life comes.  To feel it,
+to know it, is to be in touch with
+the will of every living thing."
+510,CONOR,510,"I do not think I like the sound
+of that."
+511,ROMIREZ,511,"It does not feel nearly as frightening
+as it sounds.  But the consequences of
+such feelings can be very frightening.
+For it gives you great strength.  The
+strength of _knowledge_.  The ability
+to stand between the giving of what
+has always been to what will always
+be."
+512,CONOR,512,I feel hardly nothing.
+513,ROMIREZ,513,"You have not been fully trained.
+But you will learn.  And you will be
+good, I can feel that.  You have apt-
+itude.  This is why our friend is
+so concerned."
+514,CONOR,514,But why be so concerned about me?
+515,ROMIREZ,515,"This power is divided amongst you,
+me, and others like cuts in a pie.
+But the cuts are not equal.  Some,
+like you and he, have more.  Much
+more."
+516,CONOR,516,And you?
+517,ROMIREZ,517,"I am a small player.  But if by
+helping you I can keep that monster
+from being the last, then perhaps
+my life has meant something."
+518,CONOR,518,I am not ready for this.
+519,ROMIREZ,519,"You must be.  You have responsibilities.
+You must learn the rules.  You can never
+attract attention to yourself, never
+show the side that will draw others to
+you.  You will always know when you are
+in the presence of another.  Beware.
+But more importantly Conor MacLeod, will
+be your battle against time.  In the
+coming years you will see kingdoms rise
+then rot like wheat.  People will
+become a transitory, pathetic lot.  The
+only constant you will know will be
+the others and the tradition their
+greed and quest represent.  But life
+without morality, without the ability
+to truly taste the sweetness of wine
+and love, is no life at all.  That is
+how the others exist.  Nothing more
+than walking corpses living only to
+slaughter each other in an insane quest
+to be the last.  Keep your soul sewed
+to the earth.  Do not become one of them."
+520,CONOR,520,Of course.
+521,ROMIREZ,521,"You are young, inexperienced.  You
+do not know what time can do.  How
+it can sap all pity, all love."
+522,CONOR,522,That is not me.
+523,ROMIREZ,523,"With the proper tools, Conor, a
+naive man can be much more dangerous
+than an evil one."
+524,VILLAGER,524,Conor!
+525,CONOR,525,"Yes, Darin."
+526,VILLAGER,526,"Hate to be bothering you like this,
+but me mare threw a shoe."
+527,ROMIREZ,527,"Go ahead, Senor."
+528,ROMIREZ,528,I have my friend to keep me company.
+529,CONOR,529,I'll be back when I can.
+530,KNIGHT,530,Romirez.  What a surprise.
+531,ROMIREZ,531,Madonna!
+532,KNIGHT,532,Bastard!
+533,ROMIREZ,533,"Oh, Santa Maria!"
+534,KNIGHT,534,Why run?
+535,ROMIREZ,535,Demonio!
+536,KNIGHT,536,To hell with you.
+537,LIBRARIAN,537,"Come on Brenna, your ass
+is already in a sling, don't
+drag me into it."
+538,BRENNA,538,"All I need is for you
+to check the name."
+539,LIBRARIAN,539,"You talked to your supervisor
+lately?  He's burning up the
+place about you just dropping
+out of sight.  That on top of
+the cops bugging him."
+540,BRENNA,540,"I'll take care of that
+Corey, but I need this now."
+541,BRENNA,541,"Corey, you _owe_ me."
+542,LIBRARIAN,542,It's that important?
+543,BRENNA,543,Yeah.
+544,RESEARCHER,544,Wilson know about this?
+545,BRENNA,545,I'm doing it on my own.
+546,LIBRARIAN,546,Good way to lose your job.
+547,BRENNA,547,"Some job.  Card filing and
+cabinet dusting.  Four years
+in this dump and I haven't
+written anything for Wilson
+that a wounded yak couldn't
+do."
+548,LIBRARIAN,548,"I liked the bit you did
+about Baltic chastity belts.
+Too bad no one else did."
+549,BRENNA,549,"It's bullshit.  Everything.
+My job, the people I get
+involved with, I'm up to here
+with it."
+550,LIBRARIAN,550,"You always were hard to
+impress."
+551,BRENNA,551,Who is it?
+552,LIBRARIAN,552,"Not who.  What.  Worstick's
+a town in Pennsylvania."
+553,BRENNA,553,"Chris, have you seen my
+notebook?"
+554,BRENNA,554,"Why, that son of a bitch."
+555,BRENNA,555,"What's wrong Wilson, huh?  Not enough
+excitement in your own desk?  What the
+hell were you looking for in mine?"
+556,MORAN,556,A murder.
+557,BRENNA,557,"You better have a warrant.  That's
+my notebook, you've got no right
+to be sticking your fingers into it."
+558,MORAN,558,"I've got a morgue filling up with
+bodies.  That's my right."
+559,BRENNA,559,What do you want from me?
+560,MORAN,560,"Well, the man of the hour that we
+all would like to talk to about now
+has apparently skipped town."
+561,MORAN,561,"And all of a sudden the Smithsonian's
+ambulence chaser is an expert on
+missing persons."
+562,BRENNA,562,I'm calling an attorney.
+563,MORAN,563,You and I should talk first.
+564,BRENNA,564,We've got nothing to say.
+565,MORAN,565,"What are you going to tell them?  That
+you're protecting a man who's
+killed four people?"
+566,BRENNA,566,Four?
+567,MORAN,567,All fashionably without heads.
+568,BRENNA,568,Spare me the details.
+569,MORAN,569,"But there's more.  Wednesday someone
+played javelin with the cemetary
+curator in Felton, Delaware.  Some
+locals spotted two cars with D.C.
+plates and surprise surprise, they
+turn out to be registered to our
+own Brenna Cartwright and the ever
+popular Richard Taupin."
+570,BRENNA,570,"What are you getting at, Moran?"
+571,MORAN,571,"You've been a busy little beaver.
+Especially with that records mess
+up in Church Hill."
+572,MORAN,572,"Your notes are very complete.
+Naturally my feelings were crushed
+when you didn't rush right over
+and tell us what you knew."
+573,MORAN,573,"In fact, we're considering book-
+ing the ambulence chaser as an
+accessory to murder."
+574,BRENNA,574,It'll never stick.
+575,MORAN,575,"But we might just give it the
+'ole college try.  What with the
+court back ups, it could be days
+before you got an arraignment.
+But then, I'm sure the flunk-out
+neice of the D.A. knows all about
+that."
+576,BRENNA,576,"You're an asshole, Moran."
+577,MORAN,577,I want Taupin.
+578,BRENNA,578,"What makes you so sure he's
+the one?"
+579,MORAN,579,"Just for laughs we raided wonder
+boy's house.  There was a gallon
+of one of the corpse's blood in
+his carpet.  I think it was about
+then I withdrew his name for
+humanitarian of the year."
+580,BRENNA,580,"What's all of this got to do
+with me?"
+581,MORAN,581,What were you doing in Felton?
+582,BRENNA,582,"Research.  If your pal was there
+I never saw him."
+583,MORAN,583,"I have witnesses that can put
+the two of you together."
+584,BRENNA,584,"Never take up poker, Detective."
+585,MORAN,585,"Don't be stupid, lady.  Your neck
+can be sliced as fast as anyone
+else's."
+586,BRENNA,586,"Why don't you wait until it comes
+out in paperback?"
+587,DENNIS,587,I warned you.
+588,BRENNA,588,Go to hell.
+589,TAUPIN,589,You shouldn't have come.
+590,TAUPIN,590,We're you followed?
+591,BRENNA,591,No.
+592,TAUPIN,592,No one knows you're here?
+593,BRENNA,593,No.  I had to talk to you.
+594,TAUPIN,594,You had to do _nothing_!
+595,BRENNA,595,You're wrong.
+596,TAUPIN,596,You're a fool.
+597,BRENNA,597,Maybe.
+598,TAUPIN,598,Come inside.
+599,BRENNA,599,Is this what you killed them with?
+600,TAUPIN,600,You've been listening to rumors.
+601,BRENNA,601,"Our cars were seen together in
+Felton.  They're calling me an
+accessory to murder."
+602,TAUPIN,602,You are.  Now.
+603,TAUPIN,603,"There's several bedrooms down the
+hall.  Take your pick."
+604,OFFICER,604,"No, that's the last place we saw
+her.  Okay, will do."
+605,PARTNER,605,Well?
+606,"OFFICER
+(shrugs)",606,We keep looking.
+607,PARTNER,607,Wonderful.
+608,BRENNA,608,What's all that?
+609,TAUPIN,609,"Richard Taupin has become
+cumbersome.  It would be best
+if he just disappeared."
+610,BRENNA,610,You did kill those men.
+611,TAUPIN,611,Not all of them.
+612,BRENNA,612,"When you finish, what then?"
+613,TAUPIN,613,"I go my way and you can write
+all you want about the big bad
+Mr. Taupin."
+614,BRENNA,614,You make it all sound so simple.
+615,TAUPIN,615,"The only real difficulty comes
+in changing over the ownership
+of property I've aquired.  That
+requires certain records and
+most importantly a personal
+appearance at the county seat in
+Gettysburg.  But that's where
+you come in."
+616,BRENNA,616,You want me to front for you.
+617,TAUPIN,617,"The less exposure I recieve
+around government buildings the
+better.  You, as Mrs. Taupin,
+will attract considerably less
+attention than I."
+618,TAUPIN,618,"Not such a bad trade.  The story
+of a lifetime for a few days
+work?"
+619,INSPECTOR,619,They lost her outside of Thurmont.
+620,MORAN,620,"I want people in here to check
+over every piece of this stuff."
+621,INSPECTOR,621,Figure she's with him?
+622,MORAN,622,Yeah.
+623,INSPECTOR,623,"We ran down that Church Hill info.
+She's right.  There is no Richard
+Taupin."
+624,MORAN,624,Any other I.D.s come up?
+625,INSPECTOR,625,"Not yet.  Called FBI yesterday.
+Thompson's going to try CIA
+this afternoon."
+626,INSPECTOR,626,Y'never know.
+627,MORAN,627,"Should have seen him the first
+night.  Son of a bitch stood there
+with a quart of blood on his
+pant leg and didn't even blink."
+628,INSPECTOR,628,You'd think he'd had practice.
+629,MORAN,629,I think he has.
+630,AIDE,630,"The men are assembled, Major."
+631,GENERAL,631,"See that they are indeed ready,
+Dupont."
+632,DUPONT (CONOR),632,Yes General.
+633,STAFF SARGEANT,633,"Regiment ready for review, sir."
+634,DUPONT,634,"Stand straight, you are a soldier
+of the King."
+635,SOLDIER #1,635,Yes sir.
+636,DUPONT,636,Where is your bayonet?
+637,SOLIDER #3,637,Lost it sir.
+638,DUPONT,638,Where?
+639,STAFF SARGEANT,639,You heard the Major!  Where!
+640,SOLDIER #3,640,Whorehouse sir.
+641,DUPONT,641,Your rifle.  Hand it to me.
+642,DUPONT,642,"The flint is cracked.  No spark
+will reach your powder.  You will
+die tomorrow."
+643,DUPONT,643,"Tomorrow you go to _battle_!  And
+you look like children!"
+644,(beat),644,"The General has charged me with
+seeing that you are prepared, and
+prepared you will be!  If necessary
+you stand here all night!  Sargeant!"
+645,SARGEANT,645,Yes sir.
+646,DUPONT,646,See to it.
+647,SARGEANT,647,Yes sir.
+648,DUPONT,648,Your name?
+649,MULET,649,Mulet.
+650,"CAPTAIN
+(amused)",650,"...And what a sight!  That old
+mare just kept falling over her
+own guts till someone finally
+shot her."
+651,MAJOR,651,Complete your inspection?
+652,DUPONT,652,"They're nothing but boys.  It
+will be a slaughter tomorrow."
+653,"MAJOR
+(laughs)",653,"I doubt much can change that.
+The enemy has five brigades
+waiting for us."
+654,DUPONT,654,We need more time.
+655,MAJOR,655,Won't get it.
+656,MAJOR,656,We are a sacrifice.  A diversion.
+657,MAJOR,657,"Eat up Dupont.  It will probably
+be your last."
+658,"DUPONT
+(rises)",658,Not likely.
+659,DUPONT (CONOR),659,"I thought I gave orders the
+regiment was to drill."
+660,MULET,660,"Staff sargeant detailed me to
+prepare firewood for the break-
+fast cooking."
+661,DUPONT,661,What is your position?
+662,MULET,662,Second musketeer.
+663,DUPONT,663,"I understand you joined up in
+Bremen."
+664,MULET,664,"You seem to understand a great
+deal."
+665,DUPONT,665,"I am a Major, Private.  You would
+do well remembering that when
+addressing me."
+666,MULET,666,"Excuse me, ""sir"".  I thought we
+spoke as equals."
+667,DUPONT,667,Equals?
+668,MULET,668,"If you wish to play games, Major."
+669,DUPONT,669,"Wait.  I think we understand each
+other."
+670,MULET,670,We have no understanding.
+671,DUPONT,671,"Then it is time two of us did.
+You are very young.  I was once
+young.  I can help."
+672,MULET,672,"Help?  I've seen others ""help"".
+Somehow a head always ended up
+on the counter."
+673,DUPONT,673,It can be different.  It must be.
+674,MULET,674,"It never changes, Major."
+675,DUPONT,675,We must talk.
+676,MULET,676,Stay out of it.
+677,"DUPONT
+(angry)",677,"Don't threaten me, Private."
+678,"MULET
+(disgust)",678,"Who do you think I am?  One of your
+freckle faced children waiting to
+die tomorrow?  ""Threaten you""?  You
+and I just living will always be a
+threat.  Forever.  Look at your life,
+Major.  Look at mine.  Nothing there
+but threat.  Threats and nothingness.
+It's what we live for."
+679,DUPONT,679,Do not turn your back on me.
+680,MULET,680,"You are really going to force this,
+aren't you?"
+681,DUPONT,681,Either you are with me or against me.
+682,MULET,682,Have I a choice?
+683,MULET,683,"You see Major?  You are not so
+different."
+684,MULET,684,"You see Major?  You are not so
+different..."
+685,DUPONT,685,I had no choice.
+686,DUPONT,686,Who am I deceiving?
+687,KNIGHT,687,Certainly not me.
+688,KNIGHT,688,"You needn't look so flushed,
+Major.  You are quite safe in
+church."
+689,KNIGHT,689,State of grace and all that.
+690,DUPONT,690,Tradition.
+691,KNIGHT,691,It's all we have.
+692,KNIGHT,692,"All this time and still a scared
+little boy."
+693,DUPONT,693,Not so scared.
+694,KNIGHT,694,Perhaps not.
+695,(smiles),695,"You seem to have misplaced a
+private.  No doubt by now his
+head is stranger to his neck."
+696,DUPONT,696,No doubt.
+697,KNIGHT,697,"You surprise me.  Eliminating a
+rival like that.  Such are the
+actions of a man of conquest.  I
+was mistaken.  300 years have
+turned the boy's fear into ambit-
+ion."
+698,DUPONT,698,You're wrong.
+699,KNIGHT,699,"I know you very well, Conor MacLeod.
+And I can see the truth beginning
+to make itself clear to you.  Mulet,
+Romirez, they were fools without
+vision.  It was destined that the
+board would be cleared for the real
+players."
+700,DUPONT,700,Romirez understood.  Not you.
+701,KNIGHT,701,Romirez is dust.
+702,KNIGHT,702,Finish your prayers?
+703,DUPONT,703,Finish yours?
+704,"KNIGHT
+(smiles)",704,Our common heritage.
+705,(beat),705,"I am your only real friend, you
+know.  The only one who truly
+understands you."
+706,(rises),706,"I look forward to the day we
+meet again.  And I kill you."
+707,DUPONT,707,So sure?
+708,KNIGHT,708,You can't stay in church forever.
+709,KNIGHT,709,"Good night, Major."
+710,MR. NORTH,710,Morning Mr. North
+711,TAUPIN,711,Same.
+712,MR. NORTH,712,"Such a pretty day.  If I live
+to be 90 I'll never tire of
+mornings like this.  Mind you
+I'm 74 now."
+713,TAUPIN,713,No.
+714,MR. NORTH,714,"Yes sir.  When you get older your
+priorities change.  It's the simple
+things that count.  Without them
+growing old can be a very lonely
+thing."
+715,TAUPIN,715,I'm sure that's true.
+716,TAUPIN,716,"Here.  The hook should go just below
+the head, where the meat is toughest."
+717,GRANDSON,717,Thanks.
+718,TAUPIN,718,Show you a trick.
+719,TAUPIN,719,"Fish are creatures of habit.  They
+like their food where they're used
+to it.  At the top, hiding in old
+leaves."
+720,GRANDSON,720,Where did you learn that?
+721,TAUPIN,721,My father taught me.
+722,GRANDSON,722,Your father must be smart.
+723,TAUPIN,723,"Yes, he was."
+724,TAUPIN,724,"There was a man once.  Just a simple
+woodcarver.  But he understood.  More
+than anyone he could see to the heart
+of it."
+725,(beat),725,"It never ends.  Today is the same as
+the first.  Tomorrow will be the
+same as today.  So much time.  And all
+of it wasted."
+726,(beat),726,You love history?
+727,BRENNA,727,Yes.
+728,TAUPIN,728,I wish I could.
+729,BRENNA,729,"The estate stuff is pretty straight
+forward.  Just lots of forms and an
+appearance at the county seat."
+730,TAUPIN,730,"It will take some time for the
+forms to clear before you go to
+Gettysburg."
+731,TAUPIN,731,Second thoughts?
+732,BRENNA,732,No.
+733,(beat),733,So what now?  We just wait?
+734,TAUPIN,734,Yes.
+735,BRENNA,735,"Well, as long as we're stuck here."
+736,BRENNA,736,"It's some sort of party the
+town is throwing."
+737,TAUPIN,737,They do it each year.
+738,BRENNA,738,"I thought it might be a nice break
+from all of this."
+739,TAUPIN,739,Maybe it would do us both good.
+740,BRENNA,740,"There's a catch.  You're supposed
+to wear 19th century clothing."
+741,TAUPIN,741,"My father was something of a
+junk collector."
+742,TAUPIN,742,"Here, try this.  I suppose they're
+still making women the same as back
+then."
+743,BRENNA,743,It's beautiful.
+744,TAUPIN,744,A little dusty.
+745,KATHERINE,745,Do it again.
+746,CONOR,746,All right.
+747,CONOR,747,A lion.
+748,KATHERINE,748,Oh please.  Another one.
+749,CONOR,749,What would you like?
+750,KATHERINE,750,Something pretty.
+751,CONOR,751,Like you.
+752,KATHERINE,752,"That's wonderful.  Where did you
+ever learn it?"
+753,CONOR,753,Far away.
+754,KATHERINE,754,Kiss me.
+755,"YOUNG MAN
+(o.s.)",755,You'll be leaving the girl alone.
+756,KATHERINE,756,David.
+757,CONOR,757,"Do you have cause to bothering
+us?"
+758,YOUNG MAN,758,That's my girl.
+759,KATHERINE,759,"David, we've already spoken of this."
+760,YOUNG MAN,760,He's not what he pretends to be.
+761,CONOR,761,"You best leave, son."
+762,YOUNG MAN,762,"You think you're so high and
+mighty, coming into town and
+taking a man's woman.  Well I
+know about you.  I know about
+the things you do."
+763,CONOR,763,I said you best leave.
+764,YOUNG MAN,764,"You'd like that, wouldn't you?"
+765,YOUNG MAN,765,"Ask him about his friends.  The
+ones he meets in the town square.
+Ask him about the blade he keeps
+beneath his bed."
+766,CONOR,766,Leave.  While you still can.
+767,YOUNG MAN,767,You don't frighten me.
+768,CONOR,768,I should.
+769,KATHERINE,769,"No!  Leave him.  Please don't hurt him.
+Please."
+770,YOUNG MAN,770,He's not what you think.
+771,YOUNG MAN,771,He's not what you think!
+772,KATHERINE,772,"I don't care who you are or where
+you come from."
+773,KATHERINE,773,I love you.
+774,MR. NORTH,774,"Mr. Taupin!  Glad you could make it.
+Best get some punch before it's
+gone.  Near the whole valley showed
+up."
+775,WOMAN,775,"If I didn't know better I'd say
+William Taupin."
+776,TAUPIN,776,His son.  Richard.
+777,MR. NORTH,777,"Mr. Taupin is up from Washington
+to look over his father's estate."
+778,WOMAN,778,"Your father died some years ago.
+This is your first visit?"
+779,TAUPIN,779,Of sorts.
+780,WOMAN,780,"I suppose a Taupin had to show
+up eventually."
+781,TAUPIN,781,"Good evening, Mrs. Butler."
+782,BRENNA,782,What was all that about?
+783,MR. NORTH,783,"Sorry Mr. Taupin.  That's not meant
+for you.  Just some didn't take
+much to your father."
+784,BRENNA,784,Why?
+785,TAUPIN,785,"My father was never one for social
+whirls."
+786,MR. TAUPIN,786,"Kept to himself for sure.  Then with
+all that business in '31."
+787,BRENNA,787,What business?
+788,MR. NORTH,788,"Family down the road from the
+Taupin place was murdered.  All
+cut up they were.  Horrible.  Two
+strangers were also found with
+the bodies.  No one ever accused
+William, but with his reputation
+as a loner and the rumors about
+him and some of the wives in town,
+folks just never forgot.  Most
+were relieved when they heard he'd
+died.  Sorry Mr. Taupin."
+789,TAUPIN,789,Nothing to be sorry about.
+790,MR. NORTH,790,Just your pappy scared some.
+791,PORTLY,791,"All right, the kids have had their
+fun.  Now it's time for a little
+more traditional dancing."
+792,BRENNA,792,"I don't know any of these.  I'll
+make a fool of myself."
+793,TAUPIN,793,Follow me.
+794,BRENNA,794,"William Taupin seems to have left
+his mark."
+795,TAUPIN,795,Yes.
+796,BRENNA,796,"And you are William
+Taupin, aren't you?"
+797,TAUPIN,797,Yes.
+798,BRENNA,798,"You're using your son's
+name."
+799,TAUPIN,799,"No.  Just the child of
+some lonely girl I gave
+a ride to.  When they
+died I put them in a
+grave with my name on it.
+Twenty years later I
+became the son."
+800,TAUPIN,800,More punch?
+801,BRENNA,801,"Then you must be at least
+70 years old."
+802,TAUPIN,802,At least.
+803,BRENNA,803,That's impossible.
+804,BRENNA,804,"It's frightening sometimes the
+way you talk about other people's
+lives."
+805,TAUPIN,805,A factor of age.
+806,BRENNA,806,I hope I never get that old.
+807,TAUPIN,807,You won't.
+808,BRENNA,808,"I must be insane.  Leaving work,
+ditching cops.  All to follow a
+murderer.  A very old murderer,
+but a murderer just the same."
+809,TAUPIN,809,Why are you here?
+810,BRENNA,810,"I've been telling myself it's the
+award winning journal article I'm
+going to write.  But it's not."
+811,BRENNA,811,It's you.
+812,TAUPIN,812,I see.
+813,BRENNA,813,I'm not even sure why.
+814,TAUPIN,814,"Hardly a reason to run off with
+a murderer."
+815,BRENNA,815,"My life has been chock full of
+people with complications and weak-
+nesses.  I can't stand it.  But
+you're different.  It's in your
+hands.  A clarity."
+816,TAUPIN,816,"You are a very perceptive young
+woman."
+817,BRENNA,817,Just a little crazy.
+818,TAUPIN,818,"Miss Cartwright, it's time I
+showed you something."
+819,TAUPIN,819,Miss Cartwright?
+820,BRENNA,820,My God.
+821,TAUPIN,821,"I had this room built some
+time ago."
+822,BRENNA,822,Who are you?
+823,TAUPIN,823,That would be difficult to explain.
+824,BRENNA,824,I'd like you to try.
+825,TAUPIN,825,"I was born Conor MacLeod in the
+village of Ardvrek on the High-
+land plain of Strathnaver in the
+clan of MacLeod under the King
+of Scotland.  On the eleventh of
+December, 1408."
+826,TAUPIN,826,"I have served in the armies of
+twelve nations, married nine
+women, fathered thirty-eight
+children and buried them all."
+827,TAUPIN,827,"I carried that rifle in World
+War I.  This book is a 16th Century
+policy report for the King of
+Austria.  The diploma is my con-
+ference of degree in Latin from
+Trinity College.  Class of 1672."
+828,(beat),828,It goes on.
+829,BRENNA,829,"That's why Smith called you
+MacLeod."
+830,TAUPIN,830,Yes.
+831,BRENNA,831,He knows about you.
+832,TAUPIN,832,He is older than I.
+833,BRENNA,833,"What could possibly be worth all
+this murder and distruction."
+834,TAUPIN,834,"Sometimes I think it's just for
+something to do.  A conquest to
+be the last.  Something to hold
+onto while everything else around
+you withers and blows away.  Some-
+thing to replace the love that can
+never work."
+835,BRENNA,835,That's insane.
+836,TAUPIN,836,"Perhaps.  There is something more.
+An inheritance."
+837,BRENNA,837,Of bodies.
+838,TAUPIN,838,I didn't kill the watchman.
+839,BRENNA,839,You killed those other two.
+840,TAUPIN,840,Not the same.
+841,BRENNA,841,What about that family in '31?
+842,TAUPIN,842,Sometimes innocents become involved.
+843,BRENNA,843,"You and your buddy make a real
+team, don't you?  Exchanging
+eloquent threats in iambic pen-
+tameter while hacking up all
+the innocents in between."
+844,TAUPIN,844,There are differences.
+845,BRENNA,845,You kill with your left hand?
+846,TAUPIN,846,I haven't killed _you_.
+847,BRENNA,847,Is that a threat?
+848,TAUPIN,848,No.
+849,BRENNA,849,Don't.
+850,TAUPIN,850,"Come here, Brenna."
+851,BRENNA,851,Damn you.
+852,MINISTER,852,"May God commend into his kingdom
+the soul of our dear departed
+Jason, son of Katherine-"
+853,MINISTER,853,And brother to Howard and James-
+854,OLD WOMAN,854,You.
+855,CONOR,855,Katherine.
+856,OLD WOMAN,856,What are you doing here?
+857,CONOR,857,I owe him this.
+858,OLD WOMAN,858,He never knew you.
+859,SON #1,859,"Is something wrong, Mother?"
+860,OLD WOMAN,860,"Howard.  James.  This is your
+father..."
+861,TAUPIN,861,"""Brenna"".  In Celtic is means
+""woman with raven hair"".  Only
+chieftan's daughters were allowed
+it."
+862,BRENNA,862,What is it like?  Being you?
+863,TAUPIN,863,"Empty.  And fear.  Fear of those that
+would kill you and fear of those that
+would love you.  It can never last, and
+in the end you always end up destroying
+both."
+864,BRENNA,864,"But you're known so much.
+History I'll only read about."
+865,TAUPIN,865,"It's all the same.  Half lives that
+never go away."
+866,BRENNA,866,What is it you want?
+867,TAUPIN,867,All of it finished.
+868,TAUPIN,868,"Gettysburg's an hour's drive
+at most.  You should be back
+by nightfall."
+869,BRENNA,869,Will I see you again?
+870,TAUPIN,870,"Be careful.  Don't stay any
+longer than you have to."
+871,TAUPIN,871,Good luck.
+872,MORAN,872,Are you sure?
+873,INSPECTOR,873,"Won't know till the
+records department comes
+back with it this after-
+noon.  Looks good though.
+They found the receipt
+in his townhouse.  It was
+pretty smeared but had
+Taupin's father listed
+as a signatory."
+874,MORAN,874,"Round up who you can
+and put them on standby."
+875,INSPECTOR,875,"Think we should call the
+local P.D. out there
+first?"
+876,MORAN,876,"No.  I want this to be
+all ours."
+877,CLERK,877,"O.K. Mrs. Taupin, that's
+all I need."
+878,CLERK,878,"Just take this down
+the hall to the regis-
+trar.  Hurry up though,
+it's near closing time.
+Most everyone's gone
+home already."
+879,CLERK #2,879,I'll be right back.
+880,BRENNA,880,"Do you have a drinking
+fountain?"
+881,CLERK #3,881,Around the corner.
+882,"BRENNA
+(crying)",882,Oh God...
+883,BRENNA,883,"Go away!  Oh God, go
+away!"
+884,KNIGHT'S VOICE,884,"We have some unfinished
+business."
+885,TAUPIN,885,Are you here?
+886,KNIGHT'S VOICE,886,"I want you to come to
+me."
+887,TAUPIN,887,And if I refuse?
+888,KNIGHT'S VOICE,888,"Give me an address where
+I can forward Miss Cart-
+wright's head."
+889,KNIGHT'S VOICE,889,"Yes laddie, I have her."
+890,TAUPIN,890,Should I care?
+891,KNIGHT,891,You have three hours.
+892,INSPECTOR,892,He's not here.
+893,KNIGHT,893,Welcome.
+894,KNIGHT,894,Kahn sends his best.
+895,TAUPIN,895,Let her go.
+896,KNIGHT,896,You disappoint me.
+897,KNIGHT,897,"I thought you'd finally gotten over
+that sort of thing."
+898,TAUPIN,898,Leave her out of this.
+899,KNIGHT,899,As you wish.
+900,KNIGHT,900,You can do better than that.
+901,BOY,901,It's from over near the memorial.
+902,BOY,902,Shit.
+903,MORAN,903,"Moran.  All right, get a patrol
+unit out there right away.  I'll
+meet them."
+904,KNIGHT,904,No.  Not now.
+905,DENNIS,905,Brenna?
+906,KNIGHT,906,Get up.
+907,TAUPIN,907,What's the point?
+908,KNIGHT,908,This isn't done.  Get up.
+909,TAUPIN,909,"What's the point!  You have me,
+finish it!"
+910,KNIGHT,910,"I have waited forever for this.
+You will not cheapen it, little
+boy."
+911,"TAUPIN
+(irony)",911,Tradition.
+912,KNIGHT,912,It's all we have.
+913,TAUPIN,913,Go to hell.
+914,KNIGHT,914,"Perhaps Miss Cartwright would like
+to play."
+915,TAUPIN,915,Leave her alone.
+916,KNIGHT,916,Get up.
+917,BRENNA,917,You bastard!
+918,KNIGHT,918,Be silent.
+919,BRENNA,919,Leave him alone.
+920,KNIGHT,920,You will be silent!!
+921,KNIGHT,921,"I do hope you're enjoying this
+as much as me."
+922,KNIGHT,922,Get out.
+923,KNIGHT,923,This is nothing that concerns you.
+924,KNIGHT,924,You will leave!
+925,TAUPIN,925,Don't.
+926,TAUPIN,926,Stop.  You don't understand.
+927,TAUPIN,927,"In mamus tuas Domine commendo
+spiritum meum.  Auditorium nostrum
+in nomine Domine."
+928,TAUPIN,928,Requiescant in pace.
+929,BRENNA,929,My God.
+930,BRENNA,930,Conor.
+931,KNIGHT,931,And now you know.
+932,BRENNA,932,What's wrong?
+933,TAUPIN,933,"I can't stand it.  Oh God, I can't
+stand it!"
+934,TAUPIN,934,"The scream of your blood.  The
+shriek of trees.  Stop it!  Stop it!"
+935,BRENNA,935,What is it?
+936,TAUPIN,936,"I'm the last.  Oh Christ, I'm the
+_last one_!"
+937,TAUPIN,937,Get out.
+938,BRENNA,938,No!
+939,TAUPIN,939,"I'll destroy you.  I've destroyed
+everything I've ever touched!  Oh
+God..."
+940,BRENNA,940,Conor...
+941,TAUPIN,941,_Get out_!
+942,BRENNA,942,What are we supposed to say?
+943,TAUPIN,943,"The emptyness.  The years and years
+of void.  Nothingness.  Bordered only
+by the quest for ultimate nothingness.
+Who would have guessed?"
+944,BRENNA,944,The inheritance.
+945,TAUPIN,945,Not power.  Not control.
+946,TAUPIN,946,"Life.  It is the gift and the under-
+standing of life."
+947,BRENNA,947,You have lived forever.
+948,TAUPIN,948,"Life is only life when it is bounded
+by death.  The inheritance is death.
+The gift is the finality of life.
+To be part of the fabric.  The inside."
+949,TAUPIN,949,I love you Brenna.
+950,TAUPIN,950,"It will be horrible.  The future.  I
+may die tomorrow or 10,000 tomorrows.
+I can promise you nothing.  Nothing
+but a moment.  Maybe two.  But a moment
+of love, is that not worth a lifetime?"
+951,BRENNA,951,Yes.
+952,TAUPIN,952,"It's taken me so long.  So very
+long."

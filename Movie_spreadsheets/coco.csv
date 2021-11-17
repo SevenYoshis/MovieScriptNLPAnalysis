@@ -1,112 +1,112 @@
-,id,character,line #,line
-0,0,MIGUEL (V.O.),0,"Sometimes I think I'm cursed...
+,character,line #,line
+0,MIGUEL (V.O.),0,"Sometimes I think I'm cursed...
 'cause of something that happened
 before I was even born."
-1,1,MIGUEL (V.O.),1,"See, a long time ago there was this
+1,MIGUEL (V.O.),1,"See, a long time ago there was this
 family."
-2,2,MIGUEL (V.O.),2,"The papá, he was a musician."
-3,3,MIGUEL (V.O.),3,"He and his family would sing, and
+2,MIGUEL (V.O.),2,"The papá, he was a musician."
+3,MIGUEL (V.O.),3,"He and his family would sing, and
 dance, and count their blessings..."
-4,4,MIGUEL (V.O.),4,"But he also had a dream... to play
+4,MIGUEL (V.O.),4,"But he also had a dream... to play
 for the world."
-5,5,MIGUEL (V.O.),5,"And one day he left with his
+5,MIGUEL (V.O.),5,"And one day he left with his
 guitar... and never returned."
-6,6,MIGUEL (V.O.),6,"And the mamá...? She didn't have
+6,MIGUEL (V.O.),6,"And the mamá...? She didn't have
 time to cry over that walkaway
 musician!"
-7,7,MIGUEL (V.O.),7,"After banishing all music from her
+7,MIGUEL (V.O.),7,"After banishing all music from her
 life..."
-8,8,MIGUEL (V.O.),8,"She found a way to provide for her
+8,MIGUEL (V.O.),8,"She found a way to provide for her
 daughter..."
-9,9,MIGUEL (V.O.),9,"She rolled up her sleeves and she
+9,MIGUEL (V.O.),9,"She rolled up her sleeves and she
 learned to make shoes."
-10,10,MIGUEL (V.O.),10,She could have made candy!
-11,11,MIGUEL (V.O.),11,Or fireworks!
-12,12,MIGUEL (V.O.),12,Or sparkly underwear for wrestlers!
-13,13,MIGUEL (V.O.),13,But no... she chose shoes...
-14,14,MIGUEL (V.O.),14,"Then she taught her daughter to
+10,MIGUEL (V.O.),10,She could have made candy!
+11,MIGUEL (V.O.),11,Or fireworks!
+12,MIGUEL (V.O.),12,Or sparkly underwear for wrestlers!
+13,MIGUEL (V.O.),13,But no... she chose shoes...
+14,MIGUEL (V.O.),14,"Then she taught her daughter to
 make shoes. And later, she taught
 her son-in-law."
-15,15,MIGUEL (V.O.),15,"Then her grandkids got roped in.
+15,MIGUEL (V.O.),15,"Then her grandkids got roped in.
 As her family grew, so did the
 business."
-16,16,MIGUEL (V.O.),16,"Music had torn her family apart,
+16,MIGUEL (V.O.),16,"Music had torn her family apart,
 but shoes held them all together."
-17,17,MIGUEL (V.O.),17,"You see, that woman was my great-
+17,MIGUEL (V.O.),17,"You see, that woman was my great-
 great grandmother, Mamá Imelda."
-18,18,MIGUEL (V.O.),18,"She died WAY before I was born.
+18,MIGUEL (V.O.),18,"She died WAY before I was born.
 But my family still tells her story
 every year on Día de los Muertos --
 the Day of the Dead..."
-19,19,MIGUEL (V.O.),19,And her little girl?
-20,20,MIGUEL (V.O.),20,"She's my great grandmother, Mamá
+19,MIGUEL (V.O.),19,And her little girl?
+20,MIGUEL (V.O.),20,"She's my great grandmother, Mamá
 Coco."
-21,21,MIGUEL,21,"Holá, Mamá Coco."
-22,22,MAMÁ COCO,22,"How are you, Julio?"
-23,23,MIGUEL (V.O.),23,"Actually, my name is Miguel. Mamá
+21,MIGUEL,21,"Holá, Mamá Coco."
+22,MAMÁ COCO,22,"How are you, Julio?"
+23,MIGUEL (V.O.),23,"Actually, my name is Miguel. Mamá
 Coco has trouble remembering
 things... But it's good to talk to
 her anyway. So I tell her pretty
 much everything."
-24,24,MIGUEL,24,I used to run like this...
-25,25,MIGUEL,25,"But now I run like this which is
+24,MIGUEL,24,I used to run like this...
+25,MIGUEL,25,"But now I run like this which is
 way faster!"
-26,26,MIGUEL,26,"And the winner is... Luchadora
+26,MIGUEL,26,"And the winner is... Luchadora
 Coco!"
-27,27,MIGUEL,27,"I have a dimple on this side, but
+27,MIGUEL,27,"I have a dimple on this side, but
 not on this side. Dimple. No
 dimple. Dimple. No dimple--"
-28,28,ABUELITA,28,Miguel!   Eat your food.
-29,29,MIGUEL (V.O.),29,"My Abuelita? She's Mamá Coco's
+28,ABUELITA,28,Miguel!   Eat your food.
+29,MIGUEL (V.O.),29,"My Abuelita? She's Mamá Coco's
 daughter."
-30,30,ABUELITA,30,"Aw, you're a twig, mijo.         Have some
+30,ABUELITA,30,"Aw, you're a twig, mijo.         Have some
 more."
-31,31,MIGUEL,31,"No, gracias."
-32,32,ABUELITA,32,"I asked if you would like more
+31,MIGUEL,31,"No, gracias."
+32,ABUELITA,32,"I asked if you would like more
 tamales."
-33,33,MIGUEL,33,S-sí?
-34,34,ABUELITA,34,That's what I THOUGHT you said.
-35,35,MIGUEL (V.O.),35,"Abuelita runs our house just like
+33,MIGUEL,33,S-sí?
+34,ABUELITA,34,That's what I THOUGHT you said.
+35,MIGUEL (V.O.),35,"Abuelita runs our house just like
 Mamá Imelda did."
-36,36,ABUELITA,36,No music!
-37,37,ABUELITA,37,No music!!
-38,38,MUSICIANS,38,AUNQUE LA VIDA--
-39,39,ABUELITA,39,NO MUSIC!!!
-40,40,MIGUEL (V.O),40,"I think we're the only family in
+36,ABUELITA,36,No music!
+37,ABUELITA,37,No music!!
+38,MUSICIANS,38,AUNQUE LA VIDA--
+39,ABUELITA,39,NO MUSIC!!!
+40,MIGUEL (V.O),40,"I think we're the only family in
 México who hates music..."
-41,41,MIGUEL (V.O.),41,And my family's fine with that...
-42,42,MIGUEL (V.O.),42,But me?
-43,43,MAMÁ,43,"Be back by lunch, mijo!"
-44,44,MIGUEL,44,"Love you, Mamá!"
-45,45,MIGUEL (V.O.),45,"I am NOT like the rest of my
+41,MIGUEL (V.O.),41,And my family's fine with that...
+42,MIGUEL (V.O.),42,But me?
+43,MAMÁ,43,"Be back by lunch, mijo!"
+44,MIGUEL,44,"Love you, Mamá!"
+45,MIGUEL (V.O.),45,"I am NOT like the rest of my
 family..."
-46,46,WOMAN,46,"Hola, Miguel!"
-47,47,MIGUEL,47,Hola!
-48,48,MIGUEL,48,Muchas gracias!
-49,49,STREET VENDOR,49,"De nada, Miguel!"
-50,50,MIGUEL,50,"Hey, hey!    Dante!"
-51,51,MIGUEL,51,"Sit. Down. Roll over.        Shake.
+46,WOMAN,46,"Hola, Miguel!"
+47,MIGUEL,47,Hola!
+48,MIGUEL,48,Muchas gracias!
+49,STREET VENDOR,49,"De nada, Miguel!"
+50,MIGUEL,50,"Hey, hey!    Dante!"
+51,MIGUEL,51,"Sit. Down. Roll over.        Shake.
 Fist bump."
-52,52,MIGUEL,52,"Good boy, Dante!"
-53,53,MIGUEL (V.O),53,"I know I'm not supposed to love
+52,MIGUEL,52,"Good boy, Dante!"
+53,MIGUEL (V.O),53,"I know I'm not supposed to love
 music -- but it's not my fault!"
-54,54,MIGUEL (V.O),54,It's his: Ernesto de la Cruz...
-55,55,MIGUEL (V.O),55,"...The greatest musician of all
+54,MIGUEL (V.O),54,It's his: Ernesto de la Cruz...
+55,MIGUEL (V.O),55,"...The greatest musician of all
 time."
-56,56,TOUR GUIDE,56,"And right here, in this very plaza,
+56,TOUR GUIDE,56,"And right here, in this very plaza,
 the young Ernesto de la Cruz took
 his first steps toward becoming the
 most beloved singer in Mexican
 history!"
-57,57,MIGUEL (V.O.),57,"He started out a total nobody from
+57,MIGUEL (V.O.),57,"He started out a total nobody from
 Santa Cecilia, like me. But when
 he played music, he made people
 fall in love with him."
-58,58,MIGUEL (V.O.),58,"He starred in movies. He had the
+58,MIGUEL (V.O.),58,"He starred in movies. He had the
 coolest guitar... He could fly!"
-59,59,MIGUEL (V.O.),59,"And he wrote the best songs! But
+59,MIGUEL (V.O.),59,"And he wrote the best songs! But
 my all-time favorite? It's--"
-60,60,DE LA CRUZ,60,"REMEMBER ME
+60,DE LA CRUZ,60,"REMEMBER ME
 THOUGH I HAVE TO SAY GOODBYE
 REMEMBER ME
 DON'T LET IT MAKE YOU CRY
@@ -115,1038 +115,1038 @@ I HOLD YOU IN MY HEART
 I SING A SECRET SONG TO YOU
 EACH NIGHT WE ARE APART
 REMEMBER ME"
-61,61,DE LA CRUZ (CONT'D),61,"THOUGH I HAVE TO TRAVEL FAR
+61,DE LA CRUZ (CONT'D),61,"THOUGH I HAVE TO TRAVEL FAR
 REMEMBER ME
 EACH TIME YOU HEAR A SAD GUITAR
 KNOW THAT I'M WITH YOU THE ONLY WAY
 THAT I CAN BE..."
-62,62,MIGUEL (V.O.),62,"He lived the kind of life you dream
+62,MIGUEL (V.O.),62,"He lived the kind of life you dream
 about... Until 1942..."
-63,63,DE LA CRUZ,63,"UNTIL YOU'RE IN MY ARMS AGAIN
+63,DE LA CRUZ,63,"UNTIL YOU'RE IN MY ARMS AGAIN
 REMEMBER ME!"
-64,64,MIGUEL (V.O.),64,"When he was crushed by a giant
+64,MIGUEL (V.O.),64,"When he was crushed by a giant
 bell."
-65,65,MIGUEL (V.O),65,I wanna be just like him.
-66,66,MIGUEL (V.O.),66,"Sometimes, I look at de la Cruz and
+65,MIGUEL (V.O),65,I wanna be just like him.
+66,MIGUEL (V.O.),66,"Sometimes, I look at de la Cruz and
 I get this feeling... like we're
 connected somehow. Like, if HE
 could play music, maybe someday I
 could too..."
-67,67,MIGUEL (CONT'D),67,...If it wasn't for my family.
-68,68,PLAZA MARIACHI,68,"Ay, ay, ay, muchacho."
-69,69,MIGUEL,69,Huh?
-70,70,PLAZA MARIACHI,70,"I asked for a shoe shine, not your
+67,MIGUEL (CONT'D),67,...If it wasn't for my family.
+68,PLAZA MARIACHI,68,"Ay, ay, ay, muchacho."
+69,MIGUEL,69,Huh?
+70,PLAZA MARIACHI,70,"I asked for a shoe shine, not your
 life story."
-71,71,MIGUEL,71,"Oh, yeah, sorry."
-72,72,MIGUEL,72,"I just can't really talk about any
+71,MIGUEL,71,"Oh, yeah, sorry."
+72,MIGUEL,72,"I just can't really talk about any
 of this at home so..."
-73,73,PLAZA MARIACHI,73,"Look, if I were you I'd march right
+73,PLAZA MARIACHI,73,"Look, if I were you I'd march right
 up to my family and say, ""Hey! I'm
 a musician. Deal with it!"""
-74,74,MIGUEL,74,I could never say that...
-75,75,PLAZA MARIACHI,75,"You ARE a musician, no?"
-76,76,MIGUEL,76,"I don't know. I mean... I only
+74,MIGUEL,74,I could never say that...
+75,PLAZA MARIACHI,75,"You ARE a musician, no?"
+76,MIGUEL,76,"I don't know. I mean... I only
 really play for myself--"
-77,77,PLAZA MARIACHI,77,"Did de la Cruz become the world's
+77,PLAZA MARIACHI,77,"Did de la Cruz become the world's
 best musician by hiding his sweet,
 sweet skills? No! He walked out
 onto that plaza and he played out
 loud!"
-78,78,PLAZA MARIACHI (CONT'D),78,"Ah, mira, mira! They're setting up
+78,PLAZA MARIACHI (CONT'D),78,"Ah, mira, mira! They're setting up
 for tonight. The music competition
 for Día de Muertos. You wanna be
 like your hero? You should sign
 up!"
-79,79,MIGUEL,79,"Uh-uh, my family would freak!"
-80,80,PLAZA MARIACHI,80,"Look, if you're too scared, then,
+79,MIGUEL,79,"Uh-uh, my family would freak!"
+80,PLAZA MARIACHI,80,"Look, if you're too scared, then,
 well... have fun making shoes."
-81,81,PLAZA MARIACHI (CONT'D),81,"C'mon.    What did de la Cruz always
+81,PLAZA MARIACHI (CONT'D),81,"C'mon.    What did de la Cruz always
 say?"
-82,82,MIGUEL,82,...Seize your moment?
-83,83,PLAZA MARIACHI,83,"Show me what you got, muchacho.
+82,MIGUEL,82,...Seize your moment?
+83,PLAZA MARIACHI,83,"Show me what you got, muchacho.
 I'll be your first audience."
-84,84,ABUELITA (O.S.),84,MIGUEL!
-85,85,MIGUEL,85,Abuelita!
-86,86,ABUELITA,86,What are you doing here?
-87,87,MIGUEL,87,Um...uh...
-88,88,ABUELITA,88,You leave my grandson alone!
-89,89,PLAZA MARIACHI,89,"Doña, please -- I was just getting
+84,ABUELITA (O.S.),84,MIGUEL!
+85,MIGUEL,85,Abuelita!
+86,ABUELITA,86,What are you doing here?
+87,MIGUEL,87,Um...uh...
+88,ABUELITA,88,You leave my grandson alone!
+89,PLAZA MARIACHI,89,"Doña, please -- I was just getting
 a shine!"
-90,90,ABUELITA,90,"I know your tricks, mariachi!"
-91,91,ABUELITA,91,What did he say to you?
-92,92,MIGUEL,92,"He was just showing me his
+90,ABUELITA,90,"I know your tricks, mariachi!"
+91,ABUELITA,91,What did he say to you?
+92,MIGUEL,92,"He was just showing me his
 guitar..."
-93,93,TÍO BERTO,93,Shame on you!
-94,94,ABUELITA,94,"My grandson is a sweet little
+93,TÍO BERTO,93,Shame on you!
+94,ABUELITA,94,"My grandson is a sweet little
 angelito querido cielito -- he
 wants no part of your music,
 mariachi! You keep away from him!"
-95,95,ABUELITA,95,"Ay, pobrecito! Estás bien, mijo?"
-96,96,ABUELITA,96,"You know better than to be here in
+95,ABUELITA,95,"Ay, pobrecito! Estás bien, mijo?"
+96,ABUELITA,96,"You know better than to be here in
 this place! You will come home.
 Now."
-97,97,TÍO BERTO,97,"How many times have we told you --
+97,TÍO BERTO,97,"How many times have we told you --
 that plaza is crawling with
 mariachis!"
-98,98,MIGUEL,98,"Yes, Tío Berto."
-99,99,MIGUEL,99,"No, no, no!"
-100,100,ABUELITA,100,"Go away, you! Go!"
-101,101,MIGUEL,101,It's just Dante...
-102,102,ABUELITA,102,"Never name a street dog.         They'll
+98,MIGUEL,98,"Yes, Tío Berto."
+99,MIGUEL,99,"No, no, no!"
+100,ABUELITA,100,"Go away, you! Go!"
+101,MIGUEL,101,It's just Dante...
+102,ABUELITA,102,"Never name a street dog.         They'll
 follow you forever."
-103,103,ABUELITA,103,"Now, go get my shoe."
-104,104,ABUELITA,104,I found your son in Mariachi Plaza!
-105,105,PAPÁ,105,Miguel...
-106,106,MAMÁ,106,"You know how Abuelita feels about
+103,ABUELITA,103,"Now, go get my shoe."
+104,ABUELITA,104,I found your son in Mariachi Plaza!
+105,PAPÁ,105,Miguel...
+106,MAMÁ,106,"You know how Abuelita feels about
 the plaza."
-107,107,MIGUEL,107,I was just shining shoes!
-108,108,TÍO BERTO,108,A musician's shoes!
-109,109,MIGUEL,109,"But the plaza's where all the foot
+107,MIGUEL,107,I was just shining shoes!
+108,TÍO BERTO,108,A musician's shoes!
+109,MIGUEL,109,"But the plaza's where all the foot
 traffic is."
-110,110,PAPÁ,110,"If Abuelita says no more plaza,
+110,PAPÁ,110,"If Abuelita says no more plaza,
 then no more plaza."
-111,111,MIGUEL,111,But what about tonight?
-112,112,PAPÁ FRANCO,112,What's tonight?
-113,113,MIGUEL,113,"Well they're having this talent
+111,MIGUEL,111,But what about tonight?
+112,PAPÁ FRANCO,112,What's tonight?
+113,MIGUEL,113,"Well they're having this talent
 show-"
-114,114,MIGUEL,114,And I thought I might...
-115,115,MAMÁ,115,...Sign up?
-116,116,MIGUEL,116,"Well, maybe?"
-117,117,PRIMA ROSA,117,"You have to have talent to be in a
+114,MIGUEL,114,And I thought I might...
+115,MAMÁ,115,...Sign up?
+116,MIGUEL,116,"Well, maybe?"
+117,PRIMA ROSA,117,"You have to have talent to be in a
 talent show."
-118,118,PRIMO ABEL,118,"What are YOU going to do, shine
+118,PRIMO ABEL,118,"What are YOU going to do, shine
 shoes?"
-119,119,ABUELITA,119,"It's Día de los Muertos -- no one's
+119,ABUELITA,119,"It's Día de los Muertos -- no one's
 going anywhere. Tonight is about
 family."
-120,120,ABUELITA,120,Ofrenda room. Vámonos.
-121,121,ABUELITA,121,"Don't give me that look. Día de
+120,ABUELITA,120,Ofrenda room. Vámonos.
+121,ABUELITA,121,"Don't give me that look. Día de
 los Muertos is the one night of the
 year our ancestors can come visit
 us."
-122,122,ABUELITA,122,"We've put their photos on the
+122,ABUELITA,122,"We've put their photos on the
 ofrenda so their spirits can cross
 over. That is very important! If
 we don't put them up, they can't
 come!"
-123,123,ABUELITA,123,"We made all this food -- set out
+123,ABUELITA,123,"We made all this food -- set out
 the things they loved in life,
 mijo. All this work to bring the
 family together. I don't want you
 sneaking off to who-knows-where."
-124,124,ABUELITA (CONT'D),124,Where are you going?
-125,125,MIGUEL,125,I thought we were done...
-126,126,ABUELITA,126,"Ay, Dios mío... Being part of this
+124,ABUELITA (CONT'D),124,Where are you going?
+125,MIGUEL,125,I thought we were done...
+126,ABUELITA,126,"Ay, Dios mío... Being part of this
 family means being HERE for this
 family... I don't want to see you
 end up like--"
-127,127,MIGUEL,127,Like Mamá Coco's papá?
-128,128,ABUELITA,128,"Never mention that man!      He's
+127,MIGUEL,127,Like Mamá Coco's papá?
+128,ABUELITA,128,"Never mention that man!      He's
 better off forgotten."
-129,129,MIGUEL,129,But you're the one who--
-130,130,ABUELITA,130,"Ta, ta, ta-tch!"
-131,131,MIGUEL,131,I was just--
-132,132,ABUELITA,132,Tch-tch!
-133,133,MIGUEL,133,But--
-134,134,ABUELITA,134,Tch!
-135,135,MIGUEL,135,I--
-136,136,ABUELITA,136,Tch-tch!
-137,137,MAMÁ COCO,137,Papá?
-138,138,MAMÁ COCO (CONT'D),138,Papá is home...?
-139,139,ABUELITA,139,"Mamá, cálmese, cálmese."
-140,140,MAMÁ COCO,140,Papá is coming home?
-141,141,ABUELITA,141,"No Mamá.   It's okay, I'm here."
-142,142,MAMÁ COCO,142,Who are you?
-143,143,ABUELITA,143,"Rest, Mamá."
-144,144,ABUELITA (CONT'D),144,"I'm hard on you because I care,
+129,MIGUEL,129,But you're the one who--
+130,ABUELITA,130,"Ta, ta, ta-tch!"
+131,MIGUEL,131,I was just--
+132,ABUELITA,132,Tch-tch!
+133,MIGUEL,133,But--
+134,ABUELITA,134,Tch!
+135,MIGUEL,135,I--
+136,ABUELITA,136,Tch-tch!
+137,MAMÁ COCO,137,Papá?
+138,MAMÁ COCO (CONT'D),138,Papá is home...?
+139,ABUELITA,139,"Mamá, cálmese, cálmese."
+140,MAMÁ COCO,140,Papá is coming home?
+141,ABUELITA,141,"No Mamá.   It's okay, I'm here."
+142,MAMÁ COCO,142,Who are you?
+143,ABUELITA,143,"Rest, Mamá."
+144,ABUELITA (CONT'D),144,"I'm hard on you because I care,
 Miguel."
-145,145,ABUELITA (CONT'D),145,Miguel... Miguel?
-146,146,ABUELITA (CONT'D),146,"What are we going to do with that
+145,ABUELITA (CONT'D),145,Miguel... Miguel?
+146,ABUELITA (CONT'D),146,"What are we going to do with that
 boy...?"
-147,147,ABUELITA (CONT'D),147,"You're right. That's just what he
+147,ABUELITA (CONT'D),147,"You're right. That's just what he
 needs!"
-148,148,MIGUEL,148,"Oh, it's you. Get in here, c'mon,
+148,MIGUEL,148,"Oh, it's you. Get in here, c'mon,
 Dante. Hurry up."
-149,149,MIGUEL (CONT'D),149,"You're gonna get me in trouble,
+149,MIGUEL (CONT'D),149,"You're gonna get me in trouble,
 boy. Someone could hear me!"
-150,150,MIGUEL (CONT'D),150,I wish someone wanted to hear me...
-151,151,MIGUEL (CONT'D),151,Other than you...
-152,152,MIGUEL (CONT'D),152,Perfecto!
-153,153,DE LA CRUZ (FILM CLIP),153,"I have to sing. I have to play.
+150,MIGUEL (CONT'D),150,I wish someone wanted to hear me...
+151,MIGUEL (CONT'D),151,Other than you...
+152,MIGUEL (CONT'D),152,Perfecto!
+153,DE LA CRUZ (FILM CLIP),153,"I have to sing. I have to play.
 The music, it's -- it's not just in
 me. It is me."
-154,154,DE LA CRUZ (FILM CLIP),154,"When life gets me down, I play my
+154,DE LA CRUZ (FILM CLIP),154,"When life gets me down, I play my
 guitar."
-155,155,DE LA CRUZ (FILM CLIP),155,"The rest of the world may follow
+155,DE LA CRUZ (FILM CLIP),155,"The rest of the world may follow
 the rules, but I must follow my
 heart!"
-156,156,DE LA CRUZ (FILM CLIP),156,"You know that feeling? Like
+156,DE LA CRUZ (FILM CLIP),156,"You know that feeling? Like
 there's a song in the air and it's
 playing just for you..."
-157,157,DE LA CRUZ (FILM CLIP),157,"A FEELING SO CLOSE
+157,DE LA CRUZ (FILM CLIP),157,"A FEELING SO CLOSE
 YOU COULD REACH OUT AND TOUCH IT
 I NEVER KNEW I COULD
 WANT SOMETHING SO MUCH
 BUT IT'S TRUE..."
-158,158,DE LA CRUZ (FILM CLIP),158,"You must have faith, sister."
-159,159,NUN (FILM CLIP),159,"Oh but Padre, he will never listen."
-160,160,DE LA CRUZ (FILM CLIP),160,He will listen... to MUSIC!
-161,161,DE LA CRUZ (FILM CLIP),161,"ONLY A SONG
+158,DE LA CRUZ (FILM CLIP),158,"You must have faith, sister."
+159,NUN (FILM CLIP),159,"Oh but Padre, he will never listen."
+160,DE LA CRUZ (FILM CLIP),160,He will listen... to MUSIC!
+161,DE LA CRUZ (FILM CLIP),161,"ONLY A SONG
 ONLY A SONG
 HAS THE POWER TO CHANGE A HEART..."
-162,162,DE LA CRUZ (FILM CLIP),162,"Never underestimate the power of
+162,DE LA CRUZ (FILM CLIP),162,"Never underestimate the power of
 music..."
-163,163,LOLA (FILM CLIP),163,"But my father, he will never give
+163,LOLA (FILM CLIP),163,"But my father, he will never give
 his permission."
-164,164,DE LA CRUZ (FILM CLIP),164,"I am done asking permission. When
+164,DE LA CRUZ (FILM CLIP),164,"I am done asking permission. When
 you see your moment you mustn't let
 it pass you by, you must seize it!"
-165,165,INTERVIEWER (FILM CLIP),165,"Señor de la Cruz, what did it take
+165,INTERVIEWER (FILM CLIP),165,"Señor de la Cruz, what did it take
 for you to seize your moment?"
-166,166,DE LA CRUZ (FILM CLIP),166,"I had to have faith in my dream.
+166,DE LA CRUZ (FILM CLIP),166,"I had to have faith in my dream.
 No one was going to hand it to me.
 It was up to me to reach for that
 dream, grab it tight, and make it
 come true."
-167,167,MIGUEL,167,...and make it come true.
-168,168,MIGUEL,168,"No more hiding, Dante.      I gotta
+167,MIGUEL,167,...and make it come true.
+168,MIGUEL,168,"No more hiding, Dante.      I gotta
 seize my moment!"
-169,169,MIGUEL (CONT'D),169,"I'm gonna play in Mariachi Plaza if
+169,MIGUEL (CONT'D),169,"I'm gonna play in Mariachi Plaza if
 it kills me!"
-170,170,ABUELITA,170,Día de los Muertos has begun!
-171,171,MAMÁ,171,"No, no, no, no, no."
-172,172,MAMÁ (CONT'D),172,"We have to make a clear path. The
+170,ABUELITA,170,Día de los Muertos has begun!
+171,MAMÁ,171,"No, no, no, no, no."
+172,MAMÁ (CONT'D),172,"We have to make a clear path. The
 petals guide our ancestors home. We
 don't want their spirits to get
 lost. We want them to come, and
 enjoy all the food and drinks on
 the ofrenda, sí?"
-173,173,PAPÁ,173,"Mamá, where should we put this
+173,PAPÁ,173,"Mamá, where should we put this
 table?"
-174,174,ABUELITA,174,"In the courtyard, mijos."
-175,175,PAPÁ,175,You want it down by the kitchen?
-176,176,ABUELITA,176,Sí.   Next to the other one.
-177,177,MIGUEL,177,"Get under, get under!"
-178,178,ABUELITA (O.S.),178,Miguel!
-179,179,MIGUEL,179,Nothing!
-180,180,MIGUEL (CONT'D),180,"Mamá -- Papá, I--"
-181,181,PAPÁ,181,Miguel...
-182,182,PAPÁ,182,"Your Abuelita had the most
+174,ABUELITA,174,"In the courtyard, mijos."
+175,PAPÁ,175,You want it down by the kitchen?
+176,ABUELITA,176,Sí.   Next to the other one.
+177,MIGUEL,177,"Get under, get under!"
+178,ABUELITA (O.S.),178,Miguel!
+179,MIGUEL,179,Nothing!
+180,MIGUEL (CONT'D),180,"Mamá -- Papá, I--"
+181,PAPÁ,181,Miguel...
+182,PAPÁ,182,"Your Abuelita had the most
 wonderful idea!"
-183,183,PAPÁ,183,"We've all decided -- it's time you
+183,PAPÁ,183,"We've all decided -- it's time you
 joined us in the workshop!"
-184,184,MIGUEL,184,What?!
-185,185,PAPÁ,185,"No more shining shoes -- you will
+184,MIGUEL,184,What?!
+185,PAPÁ,185,"No more shining shoes -- you will
 be making them! Every day after
 school!"
-186,186,ABUELITA,186,"Our Migueli-ti-ti-ti-to carrying on
+186,ABUELITA,186,"Our Migueli-ti-ti-ti-to carrying on
 the family tradition! And on Día
 de los Muertos! Your ancestors
 will be so proud!"
-187,187,ABUELITA (CONT'D),187,"You'll craft huaraches just like
+187,ABUELITA (CONT'D),187,"You'll craft huaraches just like
 your Tía Victoria."
-188,188,PAPÁ,188,"And wingtips, like your Papá Julio--"
-189,189,MIGUEL,189,"But what if I'm no good at making
+188,PAPÁ,188,"And wingtips, like your Papá Julio--"
+189,MIGUEL,189,"But what if I'm no good at making
 shoes?"
-190,190,PAPÁ,190,"Ah, Migue... You have your family
+190,PAPÁ,190,"Ah, Migue... You have your family
 here to guide you..."
-191,191,PAPÁ,191,"You are a Rivera. And a Rivera
+191,PAPÁ,191,"You are a Rivera. And a Rivera
 is...?"
-192,192,MIGUEL,192,"...A shoemaker. Through and
+192,MIGUEL,192,"...A shoemaker. Through and
 through."
-193,193,PAPÁ,193,That's my boy!
-194,194,PAPÁ,194,"Berto, break out the good stuff, I
+193,PAPÁ,193,That's my boy!
+194,PAPÁ,194,"Berto, break out the good stuff, I
 wanna make a toast!"
-195,195,MIGUEL,195,"Dante!   No, Dante, stop!"
-196,196,MIGUEL (CONT'D),196,"No, no, no, no, no! No..."
-197,197,MIGUEL,197,De la Cruz's guitar...?
-198,198,MAMÁ COCO,198,Papá?
-199,199,MAMÁ COCO (CONT'D),199,Papá?
-200,200,MIGUEL,200,"Mamá Coco, is your papá... Ernesto
+195,MIGUEL,195,"Dante!   No, Dante, stop!"
+196,MIGUEL (CONT'D),196,"No, no, no, no, no! No..."
+197,MIGUEL,197,De la Cruz's guitar...?
+198,MAMÁ COCO,198,Papá?
+199,MAMÁ COCO (CONT'D),199,Papá?
+200,MIGUEL,200,"Mamá Coco, is your papá... Ernesto
 de la Cruz?"
-201,201,MAMÁ COCO,201,Papá!   Papá!
-202,202,MIGUEL,202,"Ha, ha!"
-203,203,MIGUEL,203,Papá!   Papá!
-204,204,MIGUEL (CONT'D),204,"It's him! I know who my great-
+201,MAMÁ COCO,201,Papá!   Papá!
+202,MIGUEL,202,"Ha, ha!"
+203,MIGUEL,203,Papá!   Papá!
+204,MIGUEL (CONT'D),204,"It's him! I know who my great-
 great grandfather was!"
-205,205,MAMÁ,205,Miguel!   Get down from there!
-206,206,MIGUEL,206,"Mamá Coco's father was Ernesto de
+205,MAMÁ,205,Miguel!   Get down from there!
+206,MIGUEL,206,"Mamá Coco's father was Ernesto de
 la Cruz!"
-207,207,PAPÁ,207,What are you talking about?
-208,208,MIGUEL,208,I'm gonna be a musician!
-209,209,ABUELITA,209,"What is all this? You keep secrets
+207,PAPÁ,207,What are you talking about?
+208,MIGUEL,208,I'm gonna be a musician!
+209,ABUELITA,209,"What is all this? You keep secrets
 from your own family?"
-210,210,TÍO BERTO,210,"It's all that time he spends in the
+210,TÍO BERTO,210,"It's all that time he spends in the
 plaza..."
-211,211,TÍA GLORIA,211,"...Fills his head with crazy
+211,TÍA GLORIA,211,"...Fills his head with crazy
 fantasies!"
-212,212,MIGUEL,212,It's not a fantasy!
-213,213,MIGUEL (CONT'D),213,"That man was Ernesto de la Cruz!
+212,MIGUEL,212,It's not a fantasy!
+213,MIGUEL (CONT'D),213,"That man was Ernesto de la Cruz!
 The greatest musician of all time!"
-214,214,PAPÁ,214,"We've never known anything about
+214,PAPÁ,214,"We've never known anything about
 this man. But whoever he was, he
 still abandoned his family. This
 is no future for my son."
-215,215,MIGUEL,215,"But Papá, you said my family would
+215,MIGUEL,215,"But Papá, you said my family would
 guide me! Well de la Cruz IS my
 family! I'm supposed to play
 music!"
-216,216,ABUELITA,216,"Never!    That man's music was a
+216,ABUELITA,216,"Never!    That man's music was a
 curse!    I will not allow it!"
-217,217,MIGUEL,217,If you would just let--
-218,218,MAMÁ,218,Miguel--
-219,219,PAPÁ,219,"You will listen to your family.    No
+217,MIGUEL,217,If you would just let--
+218,MAMÁ,218,Miguel--
+219,PAPÁ,219,"You will listen to your family.    No
 more music."
-220,220,MIGUEL,220,Just listen to me play--
-221,221,PAPÁ,221,End of argument.
-222,222,ABUELITA,222,"You want to end up like that man?
+220,MIGUEL,220,Just listen to me play--
+221,PAPÁ,221,End of argument.
+222,ABUELITA,222,"You want to end up like that man?
 Forgotten? Left off your family's
 ofrenda?!"
-223,223,MIGUEL,223,"I don't care if I'm on some stupid
+223,MIGUEL,223,"I don't care if I'm on some stupid
 ofrenda!"
-224,224,MIGUEL,224,No!
-225,225,PAPÁ,225,Mamá...
-226,226,ABUELITA,226,"There. No guitar, no music."
-227,227,ABUELITA (CONT'D),227,"Come. You'll feel better after you
+224,MIGUEL,224,No!
+225,PAPÁ,225,Mamá...
+226,ABUELITA,226,"There. No guitar, no music."
+227,ABUELITA (CONT'D),227,"Come. You'll feel better after you
 eat with your family."
-228,228,MIGUEL,228,I don't wanna be in this family!
-229,229,PAPÁ,229,Miguel!   MIGUEL!
-230,230,MIGUEL,230,"I wanna play in the plaza. Like de
+228,MIGUEL,228,I don't wanna be in this family!
+229,PAPÁ,229,Miguel!   MIGUEL!
+230,MIGUEL,230,"I wanna play in the plaza. Like de
 la Cruz! Can I still sign-up?"
-231,231,STAGE MANAGER,231,You got an instrument?
-232,232,MIGUEL,232,No... But if I can borrow a guitar--
-233,233,STAGE MANAGER,233,"Musicians gotta bring their own
+231,STAGE MANAGER,231,You got an instrument?
+232,MIGUEL,232,No... But if I can borrow a guitar--
+233,STAGE MANAGER,233,"Musicians gotta bring their own
 instruments..."
-234,234,STAGE MANAGER,234,"You find a guitar, kid, I'll put
+234,STAGE MANAGER,234,"You find a guitar, kid, I'll put
 you on the list."
-235,235,MIGUEL,235,"Excuse me, can I borrow your
+235,MIGUEL,235,"Excuse me, can I borrow your
 guitar?"
-236,236,MUSICIAN #1,236,"Sorry, muchacho."
-237,237,MIGUEL,237,You guys have a spare guitar?
-238,238,MUSICIAN #2,238,No.
-239,239,MIGUEL,239,"I need a guitar, just for a little
+236,MUSICIAN #1,236,"Sorry, muchacho."
+237,MIGUEL,237,You guys have a spare guitar?
+238,MUSICIAN #2,238,No.
+239,MIGUEL,239,"I need a guitar, just for a little
 bit--"
-240,240,MUSICIAN #3,240,"Get outta here, kid!"
-241,241,MIGUEL,241,"Great-great grandfather... What am
+240,MUSICIAN #3,240,"Get outta here, kid!"
+241,MIGUEL,241,"Great-great grandfather... What am
 I supposed to do?"
-242,242,MIGUEL,242,"No, no, no, no, no, Dante stop!
+242,MIGUEL,242,"No, no, no, no, no, Dante stop!
 Cállate! Shhh!"
-243,243,MIGUEL,243,I'm sorry...
-244,244,MIGUEL,244,"Señor de la Cruz? Please don't be
+243,MIGUEL,243,I'm sorry...
+244,MIGUEL,244,"Señor de la Cruz? Please don't be
 mad. I'm Miguel, your great-great
 grandson... I need to borrow this."
-245,245,MIGUEL (CONT'D),245,"Our family thinks music is a curse.
+245,MIGUEL (CONT'D),245,"Our family thinks music is a curse.
 None of them understand, but I know
 you would have. You would've told
 me to follow my heart. To seize my
 moment!"
-246,246,MIGUEL (CONT'D),246,"So if it's all right with you, I'm
+246,MIGUEL (CONT'D),246,"So if it's all right with you, I'm
 gonna play in the plaza, just like
 you did!"
-247,247,VOICES (O.S.),247,"The guitar! It's gone! Somebody
+247,VOICES (O.S.),247,"The guitar! It's gone! Somebody
 stole de la Cruz's guitar! The
 window's broken, look."
-248,248,GROUNDSKEEPER,248,"Alright, who's in there?"
-249,249,MIGUEL,249,"I... I'm sorry! It's not what it
+248,GROUNDSKEEPER,248,"Alright, who's in there?"
+249,MIGUEL,249,"I... I'm sorry! It's not what it
 looks like! De la Cruz is my..."
-250,250,GROUNDSKEEPER,250,There's nobody here!
-251,251,MAMÁ,251,Miguel!
-252,252,MIGUEL,252,Mamá!
-253,253,PAPÁ,253,Miguel!   Come home!
-254,254,PAPÁ,254,"Where are you, Miguel?!"
-255,255,WOMAN,255,"Dios mío!    Little boy, are you
+250,GROUNDSKEEPER,250,There's nobody here!
+251,MAMÁ,251,Miguel!
+252,MIGUEL,252,Mamá!
+253,PAPÁ,253,Miguel!   Come home!
+254,PAPÁ,254,"Where are you, Miguel?!"
+255,WOMAN,255,"Dios mío!    Little boy, are you
 okay?"
-256,256,WOMAN (CONT'D),256,"Here, let me help you."
-257,257,MIGUEL,257,"Thanks, I--"
-258,258,SKELETON HEAD,258,Do you mind?
-259,259,MIGUEL,259,Ahhh!
-260,260,SKELETON HEAD,260,Ahhh!
-261,261,MIGUEL,261,AHHH!
-262,262,SKELETON ABUELA,262,Look how big she's getting!
-263,263,MIGUEL,263,"Dante?! You can see me?          W-wait!
+256,WOMAN (CONT'D),256,"Here, let me help you."
+257,MIGUEL,257,"Thanks, I--"
+258,SKELETON HEAD,258,Do you mind?
+259,MIGUEL,259,Ahhh!
+260,SKELETON HEAD,260,Ahhh!
+261,MIGUEL,261,AHHH!
+262,SKELETON ABUELA,262,Look how big she's getting!
+263,MIGUEL,263,"Dante?! You can see me?          W-wait!
 What's going on?!"
-264,264,MIGUEL,264,Dante!    Dante!
-265,265,MIGUEL,265,"I'm sorry, I'm sorry..."
-266,266,PAPÁ JULIO,266,Miguel?!
-267,267,TÍA ROSITA,267,Miguel?
-268,268,TÍA VICTORIA,268,Miguel?
-269,269,PAPÁ JULIO,269,You're here! HERE here!
-270,270,PAPÁ JULIO (CONT'D),270,And you can see us?!
-271,271,TÍA ROSITA,271,Our Migueli-ti-ti-ti-ti-to!
-272,272,MIGUEL,272,Remind me how I know you?
-273,273,TÍA ROSITA,273,"We're your family, mijo!"
-274,274,MIGUEL,274,Tía... Rosita?
-275,275,TÍA ROSITA,275,Sí!
-276,276,MIGUEL,276,Papá Julio?
-277,277,PAPÁ JULIO,277,Hola.
-278,278,MIGUEL,278,Tía Victoria?
-279,279,TÍA VICTORIA,279,He doesn't seem entirely dead.
-280,280,TÍA ROSITA,280,He's not quite alive either...
-281,281,PAPÁ JULIO,281,"We need Mamá Imelda. She'll know
+264,MIGUEL,264,Dante!    Dante!
+265,MIGUEL,265,"I'm sorry, I'm sorry..."
+266,PAPÁ JULIO,266,Miguel?!
+267,TÍA ROSITA,267,Miguel?
+268,TÍA VICTORIA,268,Miguel?
+269,PAPÁ JULIO,269,You're here! HERE here!
+270,PAPÁ JULIO (CONT'D),270,And you can see us?!
+271,TÍA ROSITA,271,Our Migueli-ti-ti-ti-ti-to!
+272,MIGUEL,272,Remind me how I know you?
+273,TÍA ROSITA,273,"We're your family, mijo!"
+274,MIGUEL,274,Tía... Rosita?
+275,TÍA ROSITA,275,Sí!
+276,MIGUEL,276,Papá Julio?
+277,PAPÁ JULIO,277,Hola.
+278,MIGUEL,278,Tía Victoria?
+279,TÍA VICTORIA,279,He doesn't seem entirely dead.
+280,TÍA ROSITA,280,He's not quite alive either...
+281,PAPÁ JULIO,281,"We need Mamá Imelda. She'll know
 how to fix this!"
-282,282,TÍO FELIPE,282,"(huffing)
+282,TÍO FELIPE,282,"(huffing)
 Oye!"
-283,283,TÍO OSCAR,283,It's Mamá Imelda--
-284,284,TÍO FELIPE,284,--She couldn't cross over!
-285,285,TÍO OSCAR,285,She's stuck--
-286,286,TÍO FELIPE,286,--On the other side!
-287,287,MIGUEL,287,Tío Oscar?     Tío Felipe?
-288,288,TÍO OSCAR,288,"Oh, hey Miguel."
-289,289,TÍA VICTORIA,289,"I have a feeling this has something
+283,TÍO OSCAR,283,It's Mamá Imelda--
+284,TÍO FELIPE,284,--She couldn't cross over!
+285,TÍO OSCAR,285,She's stuck--
+286,TÍO FELIPE,286,--On the other side!
+287,MIGUEL,287,Tío Oscar?     Tío Felipe?
+288,TÍO OSCAR,288,"Oh, hey Miguel."
+289,TÍA VICTORIA,289,"I have a feeling this has something
 to do with you."
-290,290,TÍA ROSITA,290,"But if Mamá Imelda can't come to
+290,TÍA ROSITA,290,"But if Mamá Imelda can't come to
 us..."
-291,291,PAPÁ JULIO,291,"...Then we are going to her!
+291,PAPÁ JULIO,291,"...Then we are going to her!
 Vámonos!"
-292,292,MIGUEL,292,Whoa...
-293,293,PAPÁ JULIO,293,"Come on, Miguel. It's ok."
-294,294,MIGUEL,294,"Dante!   Dante! Dante, wait up!"
-295,295,MIGUEL (CONT'D),295,"You gotta stay with me, boy.       We
+292,MIGUEL,292,Whoa...
+293,PAPÁ JULIO,293,"Come on, Miguel. It's ok."
+294,MIGUEL,294,"Dante!   Dante! Dante, wait up!"
+295,MIGUEL (CONT'D),295,"You gotta stay with me, boy.       We
 don't know... where..."
-296,296,MIGUEL,296,"This isn't a dream, then.        You're
+296,MIGUEL,296,"This isn't a dream, then.        You're
 all really out there..."
-297,297,TÍA VICTORIA,297,You thought we weren't?
-298,298,MIGUEL,298,"Well I don't know, I thought it
+297,TÍA VICTORIA,297,You thought we weren't?
+298,MIGUEL,298,"Well I don't know, I thought it
 might've been one of those made up
 things that adults tell kids...
 like... vitamins."
-299,299,TÍA VICTORIA,299,"Miguel, vitamins are a real thing."
-300,300,MIGUEL,300,"Well, now I'm thinking maybe they
+299,TÍA VICTORIA,299,"Miguel, vitamins are a real thing."
+300,MIGUEL,300,"Well, now I'm thinking maybe they
 could be..."
-301,301,SKELETON MOTHER,301,"Mija, it's not nice to stare at--"
-302,302,SKELETON MOTHER,302,Ay! Santa Maria!
-303,303,MIGUEL,303,"Are those...? Alebrijes!         But
+301,SKELETON MOTHER,301,"Mija, it's not nice to stare at--"
+302,SKELETON MOTHER,302,Ay! Santa Maria!
+303,MIGUEL,303,"Are those...? Alebrijes!         But
 those are--"
-304,304,TÍO OSCAR,304,"REAL alebrijes. Spirit
+304,TÍO OSCAR,304,"REAL alebrijes. Spirit
 creatures..."
-305,305,TÍA ROSITA,305,"They guide souls on their
+305,TÍA ROSITA,305,"They guide souls on their
 journey..."
-306,306,TÍO FELIPE,306,"Watch your step, they make caquitas
+306,TÍO FELIPE,306,"Watch your step, they make caquitas
 everywhere."
-307,307,CANNED LOOP (V.O.),307,"Welcome back to the Land of the
+307,CANNED LOOP (V.O.),307,"Welcome back to the Land of the
 Dead. Please have all offerings
 ready for re-entry. We hope you
 enjoyed your holiday!"
-308,308,ARRIVALS AGENT,308,Welcome back! Anything to declare?
-309,309,TRAVELER,309,Some churros... from my family.
-310,310,ARRIVALS AGENT,310,How wonderful! Next!
-311,311,CANNED LOOP (V.O.),311,"...If you are experiencing travel
+308,ARRIVALS AGENT,308,Welcome back! Anything to declare?
+309,TRAVELER,309,Some churros... from my family.
+310,ARRIVALS AGENT,310,How wonderful! Next!
+311,CANNED LOOP (V.O.),311,"...If you are experiencing travel
 issues, agents at the Department of
 Family Reunions are available to
 assist you."
-312,312,DEPARTURES AGENT,312,"Next family, please!"
-313,313,DEPARTURES AGENT (CONT'D),313,"Oh, your photos are on your son's
+312,DEPARTURES AGENT,312,"Next family, please!"
+313,DEPARTURES AGENT (CONT'D),313,"Oh, your photos are on your son's
 ofrenda. Have a great visit!"
-314,314,ELDERLY COUPLE,314,Gracias.
-315,315,CANNED LOOP (V.O.),315,"...And remember to return before
+314,ELDERLY COUPLE,314,Gracias.
+315,CANNED LOOP (V.O.),315,"...And remember to return before
 sunrise. Enjoy your visit!"
-316,316,DEPARTURES AGENT,316,Next!
-317,317,DEPARTURES AGENT (CONT'D),317,"Your photo's on your dentist's
+316,DEPARTURES AGENT,316,Next!
+317,DEPARTURES AGENT (CONT'D),317,"Your photo's on your dentist's
 ofrenda. Enjoy your visit!"
-318,318,JUAN ORTODONCIA,318,Grashiash!
-319,319,DEPARTURES AGENT,319,Next!
-320,320,HÉCTOR,320,"Yes, it is I. Frida Kahlo."
-321,321,HÉCTOR,321,"Shall we skip the scanner? I'm on
+318,JUAN ORTODONCIA,318,Grashiash!
+319,DEPARTURES AGENT,319,Next!
+320,HÉCTOR,320,"Yes, it is I. Frida Kahlo."
+321,HÉCTOR,321,"Shall we skip the scanner? I'm on
 so many ofrendas, it'll just
 overwhelm your blinky thingie..."
-322,322,DEPARTURES AGENT,322,"Well shoot. Looks like no one put
+322,DEPARTURES AGENT,322,"Well shoot. Looks like no one put
 up your photo, Frida..."
-323,323,HÉCTOR,323,"Okay, when I said I was Frida...
+323,HÉCTOR,323,"Okay, when I said I was Frida...
 just now? That... that was a lie.
 And I apologize for doing that."
-324,324,DEPARTURES AGENT,324,"No photo on an ofrenda, no crossing
+324,DEPARTURES AGENT,324,"No photo on an ofrenda, no crossing
 the bridge."
-325,325,HÉCTOR,325,"You know what, I'm just gonna zip
+325,HÉCTOR,325,"You know what, I'm just gonna zip
 right over, you won't even know I'm
 gone."
-326,326,HÉCTOR,326,Ha HA!
-327,327,HÉCTOR,327,"Almost there, just a little
+326,HÉCTOR,326,Ha HA!
+327,HÉCTOR,327,"Almost there, just a little
 further...!"
-328,328,OFFICER,328,Upsy-daisy...
-329,329,HÉCTOR,329,"Fine, okay. Fine, who cares...
+328,OFFICER,328,Upsy-daisy...
+329,HÉCTOR,329,"Fine, okay. Fine, who cares...
 Dumb flower bridge!"
-330,330,TÍA ROSITA,330,"I don't know what I'd do if no one
+330,TÍA ROSITA,330,"I don't know what I'd do if no one
 put up my photo."
-331,331,ARRIVALS AGENT (O.S.),331,Next!
-332,332,TÍA ROSITA,332,"Oh!   Come mijo, it's our turn."
-333,333,ARRIVALS AGENT,333,"Welcome back, amigos! Anything to
+331,ARRIVALS AGENT (O.S.),331,Next!
+332,TÍA ROSITA,332,"Oh!   Come mijo, it's our turn."
+333,ARRIVALS AGENT,333,"Welcome back, amigos! Anything to
 declare?"
-334,334,PAPÁ JULIO,334,"As a matter of fact, yes."
-335,335,MIGUEL,335,Hola.
-336,336,VOICE OVER P.A.,336,"Paging Marta Gonzales-Ramos. Marta
+334,PAPÁ JULIO,334,"As a matter of fact, yes."
+335,MIGUEL,335,Hola.
+336,VOICE OVER P.A.,336,"Paging Marta Gonzales-Ramos. Marta
 Gonzales-Ramos, please report to
 Level 7."
-337,337,MIGUEL,337,Whoa...
-338,338,TÍO OSCAR,338,I miss my nose...
-339,339,DISTRESSED TRAVELER,339,"C'mon! Help us out amigo... We
+337,MIGUEL,337,Whoa...
+338,TÍO OSCAR,338,I miss my nose...
+339,DISTRESSED TRAVELER,339,"C'mon! Help us out amigo... We
 gotta get to a dozen ofrendas
 tonight..."
-340,340,MIFFED WIFE,340,"We are NOT visiting your ex-wife's
+340,MIFFED WIFE,340,"We are NOT visiting your ex-wife's
 family for Día de Muertos!"
-341,341,MAMÁ IMELDA,341,"I demand to speak to the person in
+341,MAMÁ IMELDA,341,"I demand to speak to the person in
 charge!"
-342,342,CASE WORKER,342,"I'm sorry, señora, it says here no
+342,CASE WORKER,342,"I'm sorry, señora, it says here no
 one put up your photo--"
-343,343,MAMÁ IMELDA,343,"My family always -- ALWAYS -- puts
+343,MAMÁ IMELDA,343,"My family always -- ALWAYS -- puts
 my photo on the ofrenda! That
 devil box tells you nothing but
 lies!"
-344,344,PAPÁ JULIO,344,Mamá Imelda?
-345,345,MAMÁ IMELDA,345,"Oh, mi familia! They wouldn't let
+344,PAPÁ JULIO,344,Mamá Imelda?
+345,MAMÁ IMELDA,345,"Oh, mi familia! They wouldn't let
 me cross the bridge! Tell this
 woman and her devil box that my
 photo is on the ofrenda."
-346,346,PAPÁ JULIO,346,"Well, we never made it to the
+346,PAPÁ JULIO,346,"Well, we never made it to the
 ofrenda..."
-347,347,MAMÁ IMELDA,347,What?!
-348,348,PAPÁ JULIO,348,We ran into... um...
-349,349,MAMÁ IMELDA,349,Miguel?
-350,350,MIGUEL,350,Mamá Imelda...
-351,351,MAMÁ IMELDA,351,What is going on?
-352,352,CLERK,352,You the Rivera family?
-353,353,CLERK,353,"Well, you're cursed."
-354,354,MIGUEL,354,What?!
-355,355,CLERK,355,"Día de los Muertos is a night to
+347,MAMÁ IMELDA,347,What?!
+348,PAPÁ JULIO,348,We ran into... um...
+349,MAMÁ IMELDA,349,Miguel?
+350,MIGUEL,350,Mamá Imelda...
+351,MAMÁ IMELDA,351,What is going on?
+352,CLERK,352,You the Rivera family?
+353,CLERK,353,"Well, you're cursed."
+354,MIGUEL,354,What?!
+355,CLERK,355,"Día de los Muertos is a night to
 GIVE to the dead. You STOLE from
 the dead."
-356,356,MIGUEL,356,But I wasn't stealing the guitar!
-357,357,MAMÁ IMELDA,357,Guitar...?
-358,358,MIGUEL,358,"It was my great-great
+356,MIGUEL,356,But I wasn't stealing the guitar!
+357,MAMÁ IMELDA,357,Guitar...?
+358,MIGUEL,358,"It was my great-great
 grandfather's, he would have wanted
 me to have it--"
-359,359,MAMÁ IMELDA,359,"Ah-ah-ah! We do not speak of
+359,MAMÁ IMELDA,359,"Ah-ah-ah! We do not speak of
 that..."
-360,360,MAMÁ IMELDA,360,"...musician! He is DEAD to this
+360,MAMÁ IMELDA,360,"...musician! He is DEAD to this
 family!"
-361,361,MIGUEL,361,"Uh, you're all dead."
-362,362,CLERK,362,"ACHOO! I am sorry, whose alebrije
+361,MIGUEL,361,"Uh, you're all dead."
+362,CLERK,362,"ACHOO! I am sorry, whose alebrije
 is that?"
-363,363,MIGUEL,363,That's just Dante.
-364,364,TÍA ROSITA,364,"He sure doesn't look like an
+363,MIGUEL,363,That's just Dante.
+364,TÍA ROSITA,364,"He sure doesn't look like an
 alebrije."
-365,365,TÍO OSCAR,365,"He just looks like a plain old
+365,TÍO OSCAR,365,"He just looks like a plain old
 dog..."
-366,366,TÍO FELIPE,366,"...Or a sausage someone dropped in
+366,TÍO FELIPE,366,"...Or a sausage someone dropped in
 a barbershop."
-367,367,CLERK,367,"Whatever he is, I am -- ACHOO! --
+367,CLERK,367,"Whatever he is, I am -- ACHOO! --
 terribly allergic."
-368,368,MIGUEL,368,But Dante doesn't have any hair.
-369,369,CLERK,369,"And I don't have a nose, and yet
+368,MIGUEL,368,But Dante doesn't have any hair.
+369,CLERK,369,"And I don't have a nose, and yet
 here we are -- ACHOO!!"
-370,370,MAMÁ IMELDA,370,"But none of this explains why I
+370,MAMÁ IMELDA,370,"But none of this explains why I
 couldn't cross over."
-371,371,MIGUEL,371,Oh...
-372,372,MAMÁ IMELDA,372,You took my photo off the ofrenda?!
-373,373,MIGUEL,373,It was an accident!
-374,374,MAMÁ IMELDA,374,How do we send him back?!
-375,375,CLERK,375,"Well, since it's a family matter..."
-376,376,CLERK,376,"The way to undo a family curse is
+371,MIGUEL,371,Oh...
+372,MAMÁ IMELDA,372,You took my photo off the ofrenda?!
+373,MIGUEL,373,It was an accident!
+374,MAMÁ IMELDA,374,How do we send him back?!
+375,CLERK,375,"Well, since it's a family matter..."
+376,CLERK,376,"The way to undo a family curse is
 to get your family's blessing."
-377,377,MIGUEL,377,That's it?
-378,378,CLERK,378,"Get your family's blessing, and
+377,MIGUEL,377,That's it?
+378,CLERK,378,"Get your family's blessing, and
 everything SHOULD go back to
 normal. But you gotta do it by
 sunrise!"
-379,379,MIGUEL,379,What happens at sunrise?
-380,380,PAPÁ JULIO,380,Híjole!   Your hand!
-381,381,PAPÁ JULIO,381,"Whoa, Miguel. Can't have you
+379,MIGUEL,379,What happens at sunrise?
+380,PAPÁ JULIO,380,Híjole!   Your hand!
+381,PAPÁ JULIO,381,"Whoa, Miguel. Can't have you
 fainting on us."
-382,382,CLERK,382,"But not to worry! Your family's
+382,CLERK,382,"But not to worry! Your family's
 here, you can get your blessing
 right now."
-383,383,CLERK,383,"Cempasúchil, cempasúchil.        Aha!
+383,CLERK,383,"Cempasúchil, cempasúchil.        Aha!
 Perdón, señora."
-384,384,CLERK,384,"Now, you look at the living and say
+384,CLERK,384,"Now, you look at the living and say
 his name."
-385,385,MAMÁ IMELDA,385,Miguel.
-386,386,CLERK,386,"Nailed it.     Now say: I give you my
+385,MAMÁ IMELDA,385,Miguel.
+386,CLERK,386,"Nailed it.     Now say: I give you my
 blessing."
-387,387,MAMÁ IMELDA,387,I give you my blessing.
-388,388,MAMÁ IMELDA (CONT'D),388,"I give you my blessing to go
+387,MAMÁ IMELDA,387,I give you my blessing.
+388,MAMÁ IMELDA (CONT'D),388,"I give you my blessing to go
 home..."
-389,389,MAMÁ IMELDA (CONT'D),389,"To put my photo back on the
+389,MAMÁ IMELDA (CONT'D),389,"To put my photo back on the
 ofrenda..."
-390,390,MAMÁ IMELDA (CONT'D),390,And to never play music again!
-391,391,MIGUEL,391,What?   She can't do that!
-392,392,CLERK,392,"Well technically she can add any
+390,MAMÁ IMELDA (CONT'D),390,And to never play music again!
+391,MIGUEL,391,What?   She can't do that!
+392,CLERK,392,"Well technically she can add any
 conditions she wants."
-393,393,MIGUEL,393,Fine.
-394,394,CLERK,394,Then you hand the petal to Miguel.
-395,395,MIGUEL,395,No skeletons!
-396,396,MIGUEL,396,"Mariachi Plaza, here I come--"
-397,397,MAMÁ IMELDA,397,"Two seconds and you already break
+393,MIGUEL,393,Fine.
+394,CLERK,394,Then you hand the petal to Miguel.
+395,MIGUEL,395,No skeletons!
+396,MIGUEL,396,"Mariachi Plaza, here I come--"
+397,MAMÁ IMELDA,397,"Two seconds and you already break
 your promise!"
-398,398,MIGUEL,398,"This isn't fair, it's my life!     You
+398,MIGUEL,398,"This isn't fair, it's my life!     You
 already had yours!"
-399,399,MIGUEL,399,"Papá Julio, I ask for your
+399,MIGUEL,399,"Papá Julio, I ask for your
 blessing."
-400,400,MIGUEL (CONT'D),400,"Tía Rosita? Oscar? Felipe?       Tía
+400,MIGUEL (CONT'D),400,"Tía Rosita? Oscar? Felipe?       Tía
 Victoria?"
-401,401,MAMÁ IMELDA,401,"Don't make this hard, mijo.      You go
+401,MAMÁ IMELDA,401,"Don't make this hard, mijo.      You go
 home my way, or no way."
-402,402,MIGUEL,402,You really hate music that much?
-403,403,MAMÁ IMELDA,403,"I will not let you go down the same
+402,MIGUEL,402,You really hate music that much?
+403,MAMÁ IMELDA,403,"I will not let you go down the same
 path he did."
-404,404,MIGUEL,404,The same path he did.
-405,405,MIGUEL (CONT'D),405,He's family...
-406,406,TÍA VICTORIA,406,Listen to your Mamá Imelda.
-407,407,TÍO OSCAR,407,She's just looking out for you.
-408,408,TÍA ROSITA,408,Be reasonable.
-409,409,MIGUEL,409,"Con permiso, I... need to visit the
+404,MIGUEL,404,The same path he did.
+405,MIGUEL (CONT'D),405,He's family...
+406,TÍA VICTORIA,406,Listen to your Mamá Imelda.
+407,TÍO OSCAR,407,She's just looking out for you.
+408,TÍA ROSITA,408,Be reasonable.
+409,MIGUEL,409,"Con permiso, I... need to visit the
 restroom. Be right back!"
-410,410,CLERK,410,"Uh, should we tell him there are no
+410,CLERK,410,"Uh, should we tell him there are no
 restrooms in the Land of the Dead?"
-411,411,MIGUEL,411,Vámonos.
-412,412,PATROLWOMAN,412,"We got a family looking for a
+411,MIGUEL,411,Vámonos.
+412,PATROLWOMAN,412,"We got a family looking for a
 LIVING BOY."
-413,413,MIGUEL,413,"If I wanna be a musician, I need a
+413,MIGUEL,413,"If I wanna be a musician, I need a
 MUSICIAN'S blessing. We gotta find
 my great-great grandpa."
-414,414,PATROLMAN,414,"Hold it, muchacho."
-415,415,PATROLMAN,415,Ahh!
-416,416,PATROLMAN,416,I've found that living boy!
-417,417,PATROLMAN,417,"Uh whoa, excuse me, excuse me
+414,PATROLMAN,414,"Hold it, muchacho."
+415,PATROLMAN,415,Ahh!
+416,PATROLMAN,416,I've found that living boy!
+417,PATROLMAN,417,"Uh whoa, excuse me, excuse me
 folks! Excuse me--"
-418,418,MIGUEL,418,"No, no -- Dante!"
-419,419,CORRECTIONS OFFICER,419,"...disturbing the peace, fleeing an
+418,MIGUEL,418,"No, no -- Dante!"
+419,CORRECTIONS OFFICER,419,"...disturbing the peace, fleeing an
 officer, falsifying a unibrow..."
-420,420,HÉCTOR,420,That's illegal?
-421,421,CORRECTIONS OFFICER,421,"VERY illegal. You need to clean up
+420,HÉCTOR,420,That's illegal?
+421,CORRECTIONS OFFICER,421,"VERY illegal. You need to clean up
 your act, amigo."
-422,422,HÉCTOR,422,Amigo?
-423,423,HÉCTOR,423,"Oh, that's so nice, to hear you say
+422,HÉCTOR,422,Amigo?
+423,HÉCTOR,423,"Oh, that's so nice, to hear you say
 that, because..."
-424,424,HÉCTOR,424,"I've just had a really hard Día de
+424,HÉCTOR,424,"I've just had a really hard Día de
 Muertos, and I could really use an
 amigo right now."
-425,425,HÉCTOR (CONT'D),425,"And amigos, they help their amigos.
+425,HÉCTOR (CONT'D),425,"And amigos, they help their amigos.
 Listen, you get me across that
 bridge tonight and I'll make it
 worth your while."
-426,426,HÉCTOR (CONT'D),426,"Oh, you like de la Cruz? He and I
+426,HÉCTOR (CONT'D),426,"Oh, you like de la Cruz? He and I
 go way back! I can get you front
 row seats to his Sunrise
 Spectacular Show!"
-427,427,CORRECTIONS OFFICER,427,Uh--
-428,428,HÉCTOR,428,"I'll -- I'll get you backstage, you
+427,CORRECTIONS OFFICER,427,Uh--
+428,HÉCTOR,428,"I'll -- I'll get you backstage, you
 can meet him!"
-429,429,HÉCTOR,429,"You just gotta let me cross that
+429,HÉCTOR,429,"You just gotta let me cross that
 bridge!"
-430,430,CORRECTIONS OFFICER,430,"I should lock you up for the rest
+430,CORRECTIONS OFFICER,430,"I should lock you up for the rest
 of the holiday..."
-431,431,CORRECTIONS OFFICER,431,"But my shift's almost up, and I
+431,CORRECTIONS OFFICER,431,"But my shift's almost up, and I
 wanna visit my living family... so
 I'm letting you off with a warning."
-432,432,HÉCTOR,432,Can I at least get my costume back?
-433,433,CORRECTIONS OFFICER,433,"Uh, no."
-434,434,HÉCTOR,434,Some amigo...
-435,435,MIGUEL,435,"Hey. Hey!     You really know de la
+432,HÉCTOR,432,Can I at least get my costume back?
+433,CORRECTIONS OFFICER,433,"Uh, no."
+434,HÉCTOR,434,Some amigo...
+435,MIGUEL,435,"Hey. Hey!     You really know de la
 Cruz?"
-436,436,HÉCTOR,436,Who wants to--
-437,437,HÉCTOR,437,Ah! You're alive!
-438,438,MIGUEL,438,Shhh!
-439,439,MIGUEL (CONT'D),439,"Yeah I'm alive. And if I wanna get
+436,HÉCTOR,436,Who wants to--
+437,HÉCTOR,437,Ah! You're alive!
+438,MIGUEL,438,Shhh!
+439,MIGUEL (CONT'D),439,"Yeah I'm alive. And if I wanna get
 back to the Land of the Living, I
 need de la Cruz's blessing."
-440,440,HÉCTOR,440,That's weirdly specific.
-441,441,MIGUEL,441,He's my great-great-grandfather.
-442,442,HÉCTOR,442,He's your wha-whaat...?
-443,443,HÉCTOR (CONT'D),443,"Wait, wait, wait, wait, wait.
+440,HÉCTOR,440,That's weirdly specific.
+441,MIGUEL,441,He's my great-great-grandfather.
+442,HÉCTOR,442,He's your wha-whaat...?
+443,HÉCTOR (CONT'D),443,"Wait, wait, wait, wait, wait.
 Wait, wait..."
-444,444,HÉCTOR (CONT'D),444,"Wait, no, wait, wait, wait. Wait,
+444,HÉCTOR (CONT'D),444,"Wait, no, wait, wait, wait. Wait,
 wait, wait, wait, wait, wait?"
-445,445,HÉCTOR (CONT'D),445,"Yes! You're going back to the Land
+445,HÉCTOR (CONT'D),445,"Yes! You're going back to the Land
 of the Living?!"
-446,446,MIGUEL,446,"D'ya know what, maybe this isn't
+446,MIGUEL,446,"D'ya know what, maybe this isn't
 such a g--"
-447,447,HÉCTOR,447,"No, niño, niño, niño, I can help
+447,HÉCTOR,447,"No, niño, niño, niño, I can help
 you! You can help me. We can help
 each other! But most importantly,
 you can help ME."
-448,448,MAMÁ IMELDA,448,Miguel!
-449,449,MIGUEL,449,AH!
-450,450,HÉCTOR,450,I'm Héctor.
-451,451,MIGUEL,451,That's nice!
-452,452,HÉCTOR,452,Espérame chamaco!
-453,453,MAMÁ IMELDA,453,"Ay, he is going to get himself
+448,MAMÁ IMELDA,448,Miguel!
+449,MIGUEL,449,AH!
+450,HÉCTOR,450,I'm Héctor.
+451,MIGUEL,451,That's nice!
+452,HÉCTOR,452,Espérame chamaco!
+453,MAMÁ IMELDA,453,"Ay, he is going to get himself
 killed... I need my spirit guide,
 Pepita."
-454,454,MAMÁ IMELDA,454,Who has that petal Miguel touched?
-455,455,PAPÁ JULIO,455,Here!
-456,456,PAPÁ JULIO,456,Nice alebrije...
-457,457,HÉCTOR,457,"Hey, hey, hold still."
-458,458,HÉCTOR,458,"Look up. Look up. A ver, a ver...
+454,MAMÁ IMELDA,454,Who has that petal Miguel touched?
+455,PAPÁ JULIO,455,Here!
+456,PAPÁ JULIO,456,Nice alebrije...
+457,HÉCTOR,457,"Hey, hey, hold still."
+458,HÉCTOR,458,"Look up. Look up. A ver, a ver...
 look up. Up, UP!... Ta-da!"
-459,459,HÉCTOR (CONT'D),459,Dead as a doorknob.
-460,460,HÉCTOR (CONT'D),460,"So listen, Miguel: this place runs
+459,HÉCTOR (CONT'D),459,Dead as a doorknob.
+460,HÉCTOR (CONT'D),460,"So listen, Miguel: this place runs
 on memories. When you're well-
 remembered, people put up your
 photo and you get to cross the
 bridge and visit the living on Día
 de Muertos."
-461,461,HÉCTOR (CONT'D),461,Unless you're me.
-462,462,MIGUEL,462,You don't get to cross over.
-463,463,HÉCTOR,463,No one's ever put up my picture...
-464,464,HÉCTOR,464,But you can change that!
-465,465,MIGUEL,465,This is you?
-466,466,HÉCTOR,466,"Muy guapo, eh?"
-467,467,MIGUEL,467,"So you get me to my great-great
+461,HÉCTOR (CONT'D),461,Unless you're me.
+462,MIGUEL,462,You don't get to cross over.
+463,HÉCTOR,463,No one's ever put up my picture...
+464,HÉCTOR,464,But you can change that!
+465,MIGUEL,465,This is you?
+466,HÉCTOR,466,"Muy guapo, eh?"
+467,MIGUEL,467,"So you get me to my great-great
 grandpa, then I put up your photo
 when I get home?"
-468,468,HÉCTOR,468,"Such a smart boy! Yes! Great
+468,HÉCTOR,468,"Such a smart boy! Yes! Great
 idea, yes!"
-469,469,HÉCTOR,469,"One hiccup: de la Cruz is a tough
+469,HÉCTOR,469,"One hiccup: de la Cruz is a tough
 guy to get to. And I need to cross
 that bridge soon. Like TONIGHT."
-470,470,HÉCTOR,470,"So, you got any other family here,
+470,HÉCTOR,470,"So, you got any other family here,
 you know? Someone a bit more...
 accessible?"
-471,471,MIGUEL,471,"Mmm, nope."
-472,472,HÉCTOR,472,"Don't yank my chain, chamaco.      You
+471,MIGUEL,471,"Mmm, nope."
+472,HÉCTOR,472,"Don't yank my chain, chamaco.      You
 gotta have SOME other family."
-473,473,MIGUEL,473,"ONLY de la Cruz. If you can't help
+473,MIGUEL,473,"ONLY de la Cruz. If you can't help
 me, I'll find him myself."
-474,474,HÉCTOR,474,"Okay, okay, kid, fine -- fine!
+474,HÉCTOR,474,"Okay, okay, kid, fine -- fine!
 I'll get you to your great-great
 grandpa...!"
-475,475,HÉCTOR (CONT'D),475,"...It's not gonna be easy, you
+475,HÉCTOR (CONT'D),475,"...It's not gonna be easy, you
 know? He's a busy man."
-476,476,HÉCTOR (CONT'D),476,What are you doing?
-477,477,MIGUEL,477,"I'm walking like a skeleton.
+476,HÉCTOR (CONT'D),476,What are you doing?
+477,MIGUEL,477,"I'm walking like a skeleton.
 Blending in."
-478,478,HÉCTOR,478,"No, skeletons don't walk like that."
-479,479,MIGUEL,479,It's how you walk.
-480,480,HÉCTOR,480,"No, I don't."
-481,481,HÉCTOR (CONT'D),481,Stop it!
-482,482,MIGUEL,482,"Whoa...""Ernesto de la Cruz's
+478,HÉCTOR,478,"No, skeletons don't walk like that."
+479,MIGUEL,479,It's how you walk.
+480,HÉCTOR,480,"No, I don't."
+481,HÉCTOR (CONT'D),481,Stop it!
+482,MIGUEL,482,"Whoa...""Ernesto de la Cruz's
 Sunrise Spectacular...!"" Qué
 padre!"
-483,483,HÉCTOR,483,"Blech. Every year, your great-
+483,HÉCTOR,483,"Blech. Every year, your great-
 great grandpa puts on that dumb
 show to mark the end of Día de
 Muertos."
-484,484,MIGUEL,484,And you can get us in!
-485,485,HÉCTOR,485,Ahhhh--
-486,486,MIGUEL,486,"Hey, you said you had front row
+484,MIGUEL,484,And you can get us in!
+485,HÉCTOR,485,Ahhhh--
+486,MIGUEL,486,"Hey, you said you had front row
 tickets!"
-487,487,HÉCTOR,487,"That... that was a lie.      I
+487,HÉCTOR,487,"That... that was a lie.      I
 apologize for that."
-488,488,HÉCTOR,488,"Cool off, chamaco, come on... I'll
+488,HÉCTOR,488,"Cool off, chamaco, come on... I'll
 get you to him."
-489,489,MIGUEL,489,How?
-490,490,HÉCTOR,490,"'Cause I happen to know where he's
+489,MIGUEL,489,How?
+490,HÉCTOR,490,"'Cause I happen to know where he's
 rehearsing!"
-491,491,CECILIA,491,"You better have my dress, Héctor!"
-492,492,HÉCTOR,492,"Hola, Ceci!"
-493,493,MIGUEL,493,Hola.
-494,494,HÉCTOR,494,"Ceci, I lost the dress--"
-495,495,CECILIA,495,"Ya lo sabía! I gotta dress forty
+491,CECILIA,491,"You better have my dress, Héctor!"
+492,HÉCTOR,492,"Hola, Ceci!"
+493,MIGUEL,493,Hola.
+494,HÉCTOR,494,"Ceci, I lost the dress--"
+495,CECILIA,495,"Ya lo sabía! I gotta dress forty
 dancers by sunrise and thanks to
 you, I'm one Frida short of an
 opening number!"
-496,496,HÉCTOR,496,"Ceci -- I know, Ceci. I know, I
+496,HÉCTOR,496,"Ceci -- I know, Ceci. I know, I
 know. Ceci -- Ceci... Ceci.
 Ceci..."
-497,497,MIGUEL,497,Dante... Dante!
-498,498,MIGUEL,498,We shouldn't be in here...
-499,499,MIGUEL,499,"No, no, Dante! Ven acá!"
-500,500,FRIDA,500,You!    How did you get in here?
-501,501,MIGUEL,501,I just followed my--
-502,502,FRIDA,502,"Oh, the mighty Xolo dog...! Guider
+497,MIGUEL,497,Dante... Dante!
+498,MIGUEL,498,We shouldn't be in here...
+499,MIGUEL,499,"No, no, Dante! Ven acá!"
+500,FRIDA,500,You!    How did you get in here?
+501,MIGUEL,501,I just followed my--
+502,FRIDA,502,"Oh, the mighty Xolo dog...! Guider
 of wandering spirits...!"
-503,503,FRIDA,503,"And whose spirit have you guided to
+503,FRIDA,503,"And whose spirit have you guided to
 me?"
-504,504,MIGUEL,504,I don't think he's a spirit guide.
-505,505,FRIDA,505,"Ah-ah-ah. The alebrijes of this
+504,MIGUEL,504,I don't think he's a spirit guide.
+505,FRIDA,505,"Ah-ah-ah. The alebrijes of this
 world can take many forms... They
 are as mysterious as they are
 powerful..."
-506,506,FRIDA (CONT'D),506,"Or maybe he's just a dog.        Come!    I
+506,FRIDA (CONT'D),506,"Or maybe he's just a dog.        Come!    I
 need your eyes!"
-507,507,FRIDA,507,You are the audience.
-508,508,FRIDA,508,"Darkness. And from the darkness...
+507,FRIDA,507,You are the audience.
+508,FRIDA,508,"Darkness. And from the darkness...
 A giant PAPAYA!"
-509,509,FRIDA,509,"Dancers emerge from the papaya and
+509,FRIDA,509,"Dancers emerge from the papaya and
 the dancers are all me!"
-510,510,FRIDA (CONT'D),510,"And they go to drink from the milk
+510,FRIDA (CONT'D),510,"And they go to drink from the milk
 of their mother who is a cactus,
 but who is also me. And her milk
 is not milk but tears."
-511,511,FRIDA (CONT'D),511,Is it too obvious?
-512,512,MIGUEL,512,"I think it's just the right amount
+511,FRIDA (CONT'D),511,Is it too obvious?
+512,MIGUEL,512,"I think it's just the right amount
 of obvious?"
-513,513,MIGUEL,513,"It could use some music... Oh!
+513,MIGUEL,513,"It could use some music... Oh!
 What if you did, like, doonk-doonk-
 doonk-doonk..."
-514,514,MIGUEL (CONT'D),514,"Oh! And then it could go dittle-
+514,MIGUEL (CONT'D),514,"Oh! And then it could go dittle-
 ittle-dittle-ittle-dittle-ittle-
 dittle-ittle -- WHAAA!"
-515,515,FRIDA,515,"And... what if everything was on
+515,FRIDA,515,"And... what if everything was on
 fire? Yes! Fire everywhere!"
-516,516,FRIDA,516,Inspired!
-517,517,FRIDA,517,"You... you have the spirit of an
+516,FRIDA,516,Inspired!
+517,FRIDA,517,"You... you have the spirit of an
 artist!"
-518,518,FRIDA,518,"The dancers exit, the music fades,
+518,FRIDA,518,"The dancers exit, the music fades,
 the lights go out! And Ernesto de
 la Cruz rises to the stage!"
-519,519,MIGUEL,519,Huh?
-520,520,FRIDA,520,"He does a couple of songs, the sun
+519,MIGUEL,519,Huh?
+520,FRIDA,520,"He does a couple of songs, the sun
 rises, everyone cheers--"
-521,521,MIGUEL,521,"Excuse me, where's the real de la
+521,MIGUEL,521,"Excuse me, where's the real de la
 Cruz?"
-522,522,FRIDA,522,"Ernesto doesn't do rehearsals.
+522,FRIDA,522,"Ernesto doesn't do rehearsals.
 He's too busy hosting that fancy
 party at the top of his tower."
-523,523,HÉCTOR,523,"Chamaco! You can't run off on me
+523,HÉCTOR,523,"Chamaco! You can't run off on me
 like that! C'mon, stop pestering
 the celebrities..."
-524,524,MIGUEL,524,"You said my great-great grandpa
+524,MIGUEL,524,"You said my great-great grandpa
 would be here! He's halfway across
 town, throwing some big party."
-525,525,HÉCTOR,525,"That bum! Who doesn't show up to
+525,HÉCTOR,525,"That bum! Who doesn't show up to
 his own rehearsal?"
-526,526,MIGUEL,526,"If you're such good friends, how
+526,MIGUEL,526,"If you're such good friends, how
 come he didn't invite you?"
-527,527,HÉCTOR,527,"He's YOUR great-great grandpa.   How
+527,HÉCTOR,527,"He's YOUR great-great grandpa.   How
 come he didn't invite YOU?"
-528,528,HÉCTOR,528,"Hey Gustavo! You know anything
+528,HÉCTOR,528,"Hey Gustavo! You know anything
 about this party?"
-529,529,GUSTAVO,529,"It's the hot ticket. But if you're
+529,GUSTAVO,529,"It's the hot ticket. But if you're
 not on the guest list you're never
 getting in, Chorizo..."
-530,530,MUSICIANS,530,"Hey, it's Chorizo! / Choricito!"
-531,531,HÉCTOR,531,"Ha ha, very funny guys.      Very
+530,MUSICIANS,530,"Hey, it's Chorizo! / Choricito!"
+531,HÉCTOR,531,"Ha ha, very funny guys.      Very
 funny."
-532,532,MIGUEL,532,Chorizo?
-533,533,GUSTAVO,533,"Oh, this guy's famous! Go on, go
+532,MIGUEL,532,Chorizo?
+533,GUSTAVO,533,"Oh, this guy's famous! Go on, go
 on, ask him how he died!"
-534,534,HÉCTOR,534,I don't want to talk about it.
-535,535,GUSTAVO,535,He choked on some CHORIZO!
-536,536,HÉCTOR,536,"I didn't choke, okay -- I got food
+534,HÉCTOR,534,I don't want to talk about it.
+535,GUSTAVO,535,He choked on some CHORIZO!
+536,HÉCTOR,536,"I didn't choke, okay -- I got food
 poisoning, which is a big
 difference!"
-537,537,HÉCTOR,537,"This is why I don't like
+537,HÉCTOR,537,"This is why I don't like
 musicians... bunch of self-
 important jerks!"
-538,538,MIGUEL,538,"Hey, I'm a musician."
-539,539,HÉCTOR,539,You are?
-540,540,GUSTAVO,540,"Well, if you really want to get to
+538,MIGUEL,538,"Hey, I'm a musician."
+539,HÉCTOR,539,You are?
+540,GUSTAVO,540,"Well, if you really want to get to
 Ernesto, there IS that music
 competition at the Plaza de la
 Cruz. Winner gets to play at his
 party..."
-541,541,HÉCTOR,541,"No, no, no, chamaco, you are loco
+541,HÉCTOR,541,"No, no, no, chamaco, you are loco
 if you think--"
-542,542,MIGUEL,542,"I need to get my great-great
+542,MIGUEL,542,"I need to get my great-great
 grandfather's blessing."
-543,543,MIGUEL (CONT'D),543,You know where I can get a guitar?
-544,544,HÉCTOR,544,I know a guy...
-545,545,MAMÁ IMELDA,545,"Have you found him, Pepita?      Have
+543,MIGUEL (CONT'D),543,You know where I can get a guitar?
+544,HÉCTOR,544,I know a guy...
+545,MAMÁ IMELDA,545,"Have you found him, Pepita?      Have
 you found our boy?"
-546,546,TÍA ROSITA,546,A footprint!
-547,547,PAPÁ JULIO,547,It's a Rivera boot!
-548,548,TÍO OSCAR,548,Size seven...
-549,549,TÍO FELIPE,549,...and a half.
-550,550,TÍA VICTORIA,550,Pronated.
-551,551,MAMÁ IMELDA,551,Miguel.
-552,552,HÉCTOR,552,"Why the heck would you wanna be a
+546,TÍA ROSITA,546,A footprint!
+547,PAPÁ JULIO,547,It's a Rivera boot!
+548,TÍO OSCAR,548,Size seven...
+549,TÍO FELIPE,549,...and a half.
+550,TÍA VICTORIA,550,Pronated.
+551,MAMÁ IMELDA,551,Miguel.
+552,HÉCTOR,552,"Why the heck would you wanna be a
 musician?"
-553,553,MIGUEL,553,"My great-great grandpa was a
+553,MIGUEL,553,"My great-great grandpa was a
 musician."
-554,554,HÉCTOR,554,"...Who spent his life performing
+554,HÉCTOR,554,"...Who spent his life performing
 like a monkey for complete
 strangers. Blech, no, no thank
 you, guácala, no..."
-555,555,MIGUEL,555,Whadda you know?
-556,556,MIGUEL,556,"So, how far is this guitar anyway?"
-557,557,HÉCTOR,557,We're almost there...
-558,558,HÉCTOR (CONT'D),558,"Keep up, chamaco, come on!"
-559,559,RATTY GROUP,559,COUSIN HÉCTOR!!
-560,560,HÉCTOR,560,Eh!   These guys!
-561,561,RATTY MEMBER,561,HÉCTOR!!
-562,562,HÉCTOR,562,Hey Tío!   Qué onda!
-563,563,MIGUEL,563,These people are all your family?
-564,564,HÉCTOR,564,"Eh, in a way... We're all the ones
+555,MIGUEL,555,Whadda you know?
+556,MIGUEL,556,"So, how far is this guitar anyway?"
+557,HÉCTOR,557,We're almost there...
+558,HÉCTOR (CONT'D),558,"Keep up, chamaco, come on!"
+559,RATTY GROUP,559,COUSIN HÉCTOR!!
+560,HÉCTOR,560,Eh!   These guys!
+561,RATTY MEMBER,561,HÉCTOR!!
+562,HÉCTOR,562,Hey Tío!   Qué onda!
+563,MIGUEL,563,These people are all your family?
+564,HÉCTOR,564,"Eh, in a way... We're all the ones
 with no photos or ofrendas, no
 family to go home to. Nearly
 forgotten, you know?"
-565,565,HÉCTOR,565,"So, we all call each other cousin,
+565,HÉCTOR,565,"So, we all call each other cousin,
 or tío, or whatever."
-566,566,TÍA CHELO,566,Héctor!
-567,567,HÉCTOR,567,Tía Chelo!     He-hey!
-568,568,OLD TIAS,568,Muchas gracias!
-569,569,HÉCTOR,569,"Hey, hey! Save some for me!      Is
+566,TÍA CHELO,566,Héctor!
+567,HÉCTOR,567,Tía Chelo!     He-hey!
+568,OLD TIAS,568,Muchas gracias!
+569,HÉCTOR,569,"Hey, hey! Save some for me!      Is
 Chicharrón around?"
-570,570,TÍA CHELO,570,"In the bungalow. I don't know if
+570,TÍA CHELO,570,"In the bungalow. I don't know if
 he's in the mood for visitors..."
-571,571,HÉCTOR,571,"Who doesn't like a visit from
+571,HÉCTOR,571,"Who doesn't like a visit from
 Cousin Héctor?"
-572,572,HÉCTOR,572,"Buenas noches, Chicharrón!"
-573,573,CHICHARRÓN,573,"I don't want to see your stupid
+572,HÉCTOR,572,"Buenas noches, Chicharrón!"
+573,CHICHARRÓN,573,"I don't want to see your stupid
 face, Héctor."
-574,574,HÉCTOR,574,"C'mon, it's Día de Muertos! I
+574,HÉCTOR,574,"C'mon, it's Día de Muertos! I
 brought you a little offering!"
-575,575,CHICHARRÓN,575,Get out of here...
-576,576,HÉCTOR,576,"I would, Cheech, but the thing
+575,CHICHARRÓN,575,Get out of here...
+576,HÉCTOR,576,"I would, Cheech, but the thing
 is... me and my friend, Miguel, we
 really need to borrow your guitar."
-577,577,CHICHARRÓN,577,My guitar?!
-578,578,HÉCTOR,578,Yes?
-579,579,CHICHARRÓN,579,"My prized, beloved guitar...?"
-580,580,HÉCTOR,580,"I promise we'll bring it right
+577,CHICHARRÓN,577,My guitar?!
+578,HÉCTOR,578,Yes?
+579,CHICHARRÓN,579,"My prized, beloved guitar...?"
+580,HÉCTOR,580,"I promise we'll bring it right
 back."
-581,581,CHICHARRÓN,581,"Like the time you promised to bring
+581,CHICHARRÓN,581,"Like the time you promised to bring
 back my van?"
-582,582,HÉCTOR,582,Uh...
-583,583,CHICHARRÓN,583,Or my mini-fridge?
-584,584,HÉCTOR,584,"Ah, you see­-"
-585,585,CHICHARRÓN,585,"Or my good napkins? My lasso?    My
+582,HÉCTOR,582,Uh...
+583,CHICHARRÓN,583,Or my mini-fridge?
+584,HÉCTOR,584,"Ah, you see­-"
+585,CHICHARRÓN,585,"Or my good napkins? My lasso?    My
 femur?!"
-586,586,HÉCTOR,586,"No, no, not like those times."
-587,587,CHICHARRÓN,587,Where's my femur?! You--
-588,588,HÉCTOR,588,"Whoa, whoa -- you okay, amigo?"
-589,589,CHICHARRÓN,589,"I'm fading, Héctor. I can feel it."
-590,590,CHICHARRÓN,590,"I couldn't even play that thing if
+586,HÉCTOR,586,"No, no, not like those times."
+587,CHICHARRÓN,587,Where's my femur?! You--
+588,HÉCTOR,588,"Whoa, whoa -- you okay, amigo?"
+589,CHICHARRÓN,589,"I'm fading, Héctor. I can feel it."
+590,CHICHARRÓN,590,"I couldn't even play that thing if
 I wanted to."
-591,591,CHICHARRÓN,591,You play me something.
-592,592,HÉCTOR,592,"You know I don't play anymore,
+591,CHICHARRÓN,591,You play me something.
+592,HÉCTOR,592,"You know I don't play anymore,
 Cheech. The guitar's for the kid--"
-593,593,CHICHARRÓN,593,"You want it, you got to earn it..."
-594,594,HÉCTOR,594,"Only for you, amigo.     Any requests?"
-595,595,CHICHARRÓN,595,"You know my favorite, Héctor."
-596,596,HÉCTOR,596,"WELL EVERYONE KNOWS JUANITA,
+593,CHICHARRÓN,593,"You want it, you got to earn it..."
+594,HÉCTOR,594,"Only for you, amigo.     Any requests?"
+595,CHICHARRÓN,595,"You know my favorite, Héctor."
+596,HÉCTOR,596,"WELL EVERYONE KNOWS JUANITA,
 HER EYES EACH A DIFFERENT COLOR.
 HER TEETH STICK OUT,
 AND HER CHIN GOES IN,
 AND HER..."
-597,597,HÉCTOR (CONT'D),597,...KNUCKLES THEY DRAG ON THE FLOOR.
-598,598,CHICHARRÓN,598,Those aren't the words!
-599,599,HÉCTOR,599,There are children present.
-600,600,HÉCTOR,600,"HER HAIR IS LIKE A BRIAR,
+597,HÉCTOR (CONT'D),597,...KNUCKLES THEY DRAG ON THE FLOOR.
+598,CHICHARRÓN,598,Those aren't the words!
+599,HÉCTOR,599,There are children present.
+600,HÉCTOR,600,"HER HAIR IS LIKE A BRIAR,
 SHE STANDS IN A BOW-LEGGED STANCE.
 AND IF I WEREN'T SO UGLY,
 SHE'D POSSIBLY GIVE ME A CHANCE!"
-601,601,CHICHARRÓN,601,Brings back memories.     Gracias...
-602,602,MIGUEL,602,Wait... what happened?
-603,603,HÉCTOR,603,He's been forgotten.
-604,604,HÉCTOR,604,"When there's no one left in the
+601,CHICHARRÓN,601,Brings back memories.     Gracias...
+602,MIGUEL,602,Wait... what happened?
+603,HÉCTOR,603,He's been forgotten.
+604,HÉCTOR,604,"When there's no one left in the
 living world who remembers you, you
 disappear from this world. We call
 it the ""Final Death."""
-605,605,MIGUEL,605,Where did he go?
-606,606,HÉCTOR,606,No one knows.
-607,607,MIGUEL,607,"But I've met him... I could
+605,MIGUEL,605,Where did he go?
+606,HÉCTOR,606,No one knows.
+607,MIGUEL,607,"But I've met him... I could
 remember him, when I go back..."
-608,608,HÉCTOR,608,"No, it doesn't work like that,
+608,HÉCTOR,608,"No, it doesn't work like that,
 chamaco. Our memories... they have
 to be passed down by those who knew
 us in life -- in the stories they
 tell about us. But there's no one
 left alive to pass down Cheech's
 stories..."
-609,609,HÉCTOR (CONT'D),609,"Hey, it happens to everyone
+609,HÉCTOR (CONT'D),609,"Hey, it happens to everyone
 eventually."
-610,610,HÉCTOR (CONT'D),610,"C'mon ""de la Cruzcito."" You've got
+610,HÉCTOR (CONT'D),610,"C'mon ""de la Cruzcito."" You've got
 a contest to win."
-611,611,MIGUEL,611,"You told me you hated musicians,
+611,MIGUEL,611,"You told me you hated musicians,
 you never said you were one."
-612,612,HÉCTOR,612,"How do you think I knew your great-
+612,HÉCTOR,612,"How do you think I knew your great-
 great grandpa? We used to play
 music together. Taught him
 everything he knows."
-613,613,MIGUEL,613,"No manches! You played with
+613,MIGUEL,613,"No manches! You played with
 Ernesto de la Cruz, the greatest
 musician of all time?"
-614,614,HÉCTOR,614,"Ha-ha, you're funny! Greatest
+614,HÉCTOR,614,"Ha-ha, you're funny! Greatest
 eyebrows of all time maybe but his
 music, eh, not so much."
-615,615,MIGUEL,615,"You don't know what you're talking
+615,MIGUEL,615,"You don't know what you're talking
 about..."
-616,616,HÉCTOR,616,Welcome to the Plaza de la Cruz!
-617,617,HÉCTOR,617,"Showtime, chamaco!"
-618,618,VENDOR,618,Llévelo!   T-shirts!    Bobble-heads!
-619,619,EMCEE,619,"Bienvenidos a todos!     Who's ready
+616,HÉCTOR,616,Welcome to the Plaza de la Cruz!
+617,HÉCTOR,617,"Showtime, chamaco!"
+618,VENDOR,618,Llévelo!   T-shirts!    Bobble-heads!
+619,EMCEE,619,"Bienvenidos a todos!     Who's ready
 for some música?"
-620,620,EMCEE (CONT'D),620,"It's a battle of the bands, amigos!
+620,EMCEE (CONT'D),620,"It's a battle of the bands, amigos!
 The winner gets to play for the
 maestro himself, Ernesto de la
 Cruz, at his fiesta tonight!"
-621,621,HÉCTOR,621,"That's our ticket, muchacho."
-622,622,EMCEE,622,Let the competition begin!
-623,623,HÉCTOR,623,"So what's the plan?     What are you
+621,HÉCTOR,621,"That's our ticket, muchacho."
+622,EMCEE,622,Let the competition begin!
+623,HÉCTOR,623,"So what's the plan?     What are you
 gonna play?"
-624,624,MIGUEL,624,"Definitely ""Remember Me."""
-625,625,HÉCTOR,625,"No, not that one.     No."
-626,626,MIGUEL,626,"C'mon, it's his most popular song!"
-627,627,HÉCTOR,627,"Ehck, it's too popular."
-628,628,SKELETON MUSICIAN,628,"REMEMBER ME, THOUGH I HAVE TO TRAVEL FAR,
+624,MIGUEL,624,"Definitely ""Remember Me."""
+625,HÉCTOR,625,"No, not that one.     No."
+626,MIGUEL,626,"C'mon, it's his most popular song!"
+627,HÉCTOR,627,"Ehck, it's too popular."
+628,SKELETON MUSICIAN,628,"REMEMBER ME, THOUGH I HAVE TO TRAVEL FAR,
 REMEMBER ME..."
-629,629,OPERA SINGERS,629,"REMEMBER ME!
+629,OPERA SINGERS,629,"REMEMBER ME!
 DON'T LET IT MAKE YOU CRY!"
-630,630,MIGUEL,630,"Um... what about ""Poco Loco?"""
-631,631,HÉCTOR,631,Epa!   Now that's a song!
-632,632,STAGEHAND,632,De la Cruzcito? You're on standby!
-633,633,STAGEHAND,633,"Los Chachalacos, you're up next!"
-634,634,CROWD,634,LOS CHACHALACOS!
-635,635,HÉCTOR,635,"You always this nervous before a
+630,MIGUEL,630,"Um... what about ""Poco Loco?"""
+631,HÉCTOR,631,Epa!   Now that's a song!
+632,STAGEHAND,632,De la Cruzcito? You're on standby!
+633,STAGEHAND,633,"Los Chachalacos, you're up next!"
+634,CROWD,634,LOS CHACHALACOS!
+635,HÉCTOR,635,"You always this nervous before a
 performance?"
-636,636,MIGUEL,636,"I don't know -- I've never
+636,MIGUEL,636,"I don't know -- I've never
 performed before."
-637,637,HÉCTOR,637,"What?! You said you were a
+637,HÉCTOR,637,"What?! You said you were a
 musician!"
-638,638,MIGUEL,638,I am!
-639,639,MIGUEL,639,I mean I will be.     Once I win.
-640,640,HÉCTOR,640,That's your plan?!
-641,641,HÉCTOR,641,"No, no, no, no, no, you have to
+638,MIGUEL,638,I am!
+639,MIGUEL,639,I mean I will be.     Once I win.
+640,HÉCTOR,640,That's your plan?!
+641,HÉCTOR,641,"No, no, no, no, no, you have to
 win, Miguel. Your life LITERALLY
 depends on you winning! AND YOU'VE
 NEVER DONE THIS BEFORE?!"
-642,642,HÉCTOR (CONT'D),642,I'll go up there--
-643,643,MIGUEL,643,No!    I need to do this.
-644,644,HÉCTOR,644,Why?
-645,645,MIGUEL,645,"If I can't go out there and play
+642,HÉCTOR (CONT'D),642,I'll go up there--
+643,MIGUEL,643,No!    I need to do this.
+644,HÉCTOR,644,Why?
+645,MIGUEL,645,"If I can't go out there and play
 one song... how can I call myself a
 musician?"
-646,646,HÉCTOR,646,What does that matter?!
-647,647,MIGUEL,647,"'Cuz I don't just want to get de la
+646,HÉCTOR,646,What does that matter?!
+647,MIGUEL,647,"'Cuz I don't just want to get de la
 Cruz's blessing. I need to prove
 that... that I'm worthy of it."
-648,648,HÉCTOR,648,"Oh. Oh, that's such a sweet
+648,HÉCTOR,648,"Oh. Oh, that's such a sweet
 sentiment... at SUCH a bad time!"
-649,649,HÉCTOR,649,"Okay... okay, okay, okay. Okay.
+649,HÉCTOR,649,"Okay... okay, okay, okay. Okay.
 Okay."
-650,650,HÉCTOR,650,Okay.
-651,651,HÉCTOR,651,"Okay you wanna perform? Then
+650,HÉCTOR,650,Okay.
+651,HÉCTOR,651,"Okay you wanna perform? Then
 you've got to PERFORM!"
-652,652,HÉCTOR (CONT'D),652,"First you have to loosen up.     Shake
+652,HÉCTOR (CONT'D),652,"First you have to loosen up.     Shake
 off those nerves! Sáquenlo
 sáquenlo, sáquenlo!"
-653,653,HÉCTOR (CONT'D),653,Now gimme your best grito!
-654,654,MIGUEL,654,My best grito?
-655,655,HÉCTOR,655,"Come on, yell! Belt it out!
+653,HÉCTOR (CONT'D),653,Now gimme your best grito!
+654,MIGUEL,654,My best grito?
+655,HÉCTOR,655,"Come on, yell! Belt it out!
 OOOOOOH HE-HE-HEY! Ha! Ah, feels
 good! Okay... now you."
-656,656,MIGUEL,656,Ah -- ah -- ayyyyy yaaaaayyyyay...
-657,657,HÉCTOR,657,"Oh, c'mon kid..."
-658,658,STAGEHAND,658,"De la Cruzcito, you're on now!"
-659,659,HÉCTOR,659,"Miguel, look at me."
-660,660,STAGEHAND,660,"Come on, let's go!"
-661,661,HÉCTOR,661,"Hey!     Hey, look at me.
+656,MIGUEL,656,Ah -- ah -- ayyyyy yaaaaayyyyay...
+657,HÉCTOR,657,"Oh, c'mon kid..."
+658,STAGEHAND,658,"De la Cruzcito, you're on now!"
+659,HÉCTOR,659,"Miguel, look at me."
+660,STAGEHAND,660,"Come on, let's go!"
+661,HÉCTOR,661,"Hey!     Hey, look at me.
 (beat)"
-662,662,HÉCTOR (CONT'D),662,"You can do this. Grab their
+662,HÉCTOR (CONT'D),662,"You can do this. Grab their
 attention and don't let it go!"
-663,663,EMCEE (O.S.),663,"We have one more act, amigos!"
-664,664,MIGUEL,664,Héctor...
-665,665,HÉCTOR,665,"Make 'em listen, chamaco!        You got
+663,EMCEE (O.S.),663,"We have one more act, amigos!"
+664,MIGUEL,664,Héctor...
+665,HÉCTOR,665,"Make 'em listen, chamaco!        You got
 this!"
-666,666,EMCEE (O.S.),666,"Damas y caballeros! De la
+666,EMCEE (O.S.),666,"Damas y caballeros! De la
 Cruzcito!"
-667,667,HÉCTOR,667,Arre papá!     Hey!
-668,668,HÉCTOR,668,"What's he doing? Why isn't he
+667,HÉCTOR,667,Arre papá!     Hey!
+668,HÉCTOR,668,"What's he doing? Why isn't he
 playing?"
-669,669,AUDIENCE MEMBER (O.S.),669,Bring back the singing dogs!
-670,670,MIGUEL,670,HAAAAAAAI-YAAAAAAAAAAAI-YAAAAAAAAI!
-671,671,MIGUEL,671,"WHAT COLOR IS THE SKY?
+669,AUDIENCE MEMBER (O.S.),669,Bring back the singing dogs!
+670,MIGUEL,670,HAAAAAAAI-YAAAAAAAAAAAI-YAAAAAAAAI!
+671,MIGUEL,671,"WHAT COLOR IS THE SKY?
 AY MI AMOR, AY MI AMOR
 YOU TELL ME THAT IT'S RED
 AY MI AMOR, AY MI AMOR
@@ -1154,100 +1154,100 @@ WHERE SHOULD I PUT MY SHOES?
 AY MI AMOR, AY MI AMOR
 YOU SAY PUT THEM ON YOUR HEAD
 AY MI AMOR, AY MI AMOR"
-672,672,MIGUEL (CONT'D),672,"YOU MAKE ME UN POCO LOCO
+672,MIGUEL (CONT'D),672,"YOU MAKE ME UN POCO LOCO
 UN POQUI-TI-TI-TO LOCO
 THE WAY YOU KEEP ME GUESSING
 I'M NODDING AND I'M YES-ING
 I'LL COUNT IT AS A BLESSING
 THAT I'M ONLY UN POCO LOCO..."
-673,673,HÉCTOR,673,"No, no, no, no..."
-674,674,MIGUEL,674,Not bad for a dead guy!
-675,675,HÉCTOR,675,"You're not so bad yourself,
+673,HÉCTOR,673,"No, no, no, no..."
+674,MIGUEL,674,Not bad for a dead guy!
+675,HÉCTOR,675,"You're not so bad yourself,
 gordito! Eso!"
-676,676,MAMÁ IMELDA,676,He's close. Find him.
-677,677,HÉCTOR,677,"THE LOCO THAT YOU MAKE ME
+676,MAMÁ IMELDA,676,He's close. Find him.
+677,HÉCTOR,677,"THE LOCO THAT YOU MAKE ME
 IT IS JUST UN POCO CRAZY
 THE SENSE THAT YOU'RE NOT MAKING..."
-678,678,MIGUEL,678,THE LIBERTIES YOU'RE TAKING...
-679,679,TÍO FELIPE/TÍO OSCAR,679,"We're looking for a living kid...
+678,MIGUEL,678,THE LIBERTIES YOU'RE TAKING...
+679,TÍO FELIPE/TÍO OSCAR,679,"We're looking for a living kid...
 about 12?"
-680,680,TÍA ROSITA,680,Have you seen a living boy?
-681,681,TÍA ROSITA,681,HECTOR                               MIGUEL
-682,682,HÉCTOR,682,"Hey, you did good!     I'm proud of
+680,TÍA ROSITA,680,Have you seen a living boy?
+681,TÍA ROSITA,681,HECTOR                               MIGUEL
+682,HÉCTOR,682,"Hey, you did good!     I'm proud of
 you! Eso!"
-683,683,AUDIENCE,683,Otra!   Otra! Otra!
-684,684,HÉCTOR,684,"Hey, where are you going?"
-685,685,MIGUEL,685,We gotta get outta here.
-686,686,HÉCTOR,686,"What, are you crazy?     We're about
+683,AUDIENCE,683,Otra!   Otra! Otra!
+684,HÉCTOR,684,"Hey, where are you going?"
+685,MIGUEL,685,We gotta get outta here.
+686,HÉCTOR,686,"What, are you crazy?     We're about
 to win this thing!"
-687,687,EMCEE,687,"Damas y caballeros, I have an
+687,EMCEE,687,"Damas y caballeros, I have an
 emergency announcement."
-688,688,EMCEE,688,"Please be on the lookout for a
+688,EMCEE,688,"Please be on the lookout for a
 living boy, answers to the name of
 Miguel. Earlier tonight he ran
 away from his family. They just
 want to send him back to the Land
 of the Living..."
-689,689,EMCEE (O.S.),689,"...If anyone has information,
+689,EMCEE (O.S.),689,"...If anyone has information,
 please contact the authorities."
-690,690,HÉCTOR,690,"Wait, wait, wait! You said de la
+690,HÉCTOR,690,"Wait, wait, wait! You said de la
 Cruz was your ONLY family. The
 ONLY person who could send you
 home."
-691,691,MIGUEL,691,"I do have other family, but--"
-692,692,HÉCTOR,692,"You could have taken my photo back
+691,MIGUEL,691,"I do have other family, but--"
+692,HÉCTOR,692,"You could have taken my photo back
 this whole time?!"
-693,693,MIGUEL,693,"--But they hate music!      I need a
+693,MIGUEL,693,"--But they hate music!      I need a
 musician's blessing!"
-694,694,HÉCTOR,694,You lied to me!
-695,695,MIGUEL,695,"Oh, you're one to talk!"
-696,696,HÉCTOR,696,"Look at me. I'm being forgotten,
+694,HÉCTOR,694,You lied to me!
+695,MIGUEL,695,"Oh, you're one to talk!"
+696,HÉCTOR,696,"Look at me. I'm being forgotten,
 Miguel. I don't even know if I'm
 gonna last the night!"
-697,697,HÉCTOR,697,"I'm not gonna miss my one chance to
+697,HÉCTOR,697,"I'm not gonna miss my one chance to
 cross that bridge 'cause you want
 to live out some stupid musical
 fantasy!"
-698,698,MIGUEL,698,It's not stupid.
-699,699,HÉCTOR,699,I'm taking you to your family.
-700,700,MIGUEL,700,Let go of me!
-701,701,HÉCTOR,701,You'll thank me later--
-702,702,MIGUEL,702,"You don't wanna help me, you only
+698,MIGUEL,698,It's not stupid.
+699,HÉCTOR,699,I'm taking you to your family.
+700,MIGUEL,700,Let go of me!
+701,HÉCTOR,701,You'll thank me later--
+702,MIGUEL,702,"You don't wanna help me, you only
 care about yourself! Keep your
 dumb photo!"
-703,703,HÉCTOR,703,"No -- no, no, no!     No..."
-704,704,MIGUEL,704,Stay away from me!
-705,705,HÉCTOR,705,"Hey, chamaco! Where did you go?!
+703,HÉCTOR,703,"No -- no, no, no!     No..."
+704,MIGUEL,704,Stay away from me!
+705,HÉCTOR,705,"Hey, chamaco! Where did you go?!
 Chamaco! I'm sorry! Come back!"
-706,706,MIGUEL,706,"Dante, cállate!"
-707,707,MIGUEL (CONT'D),707,"No, Dante!     Stop it! He can't help
+706,MIGUEL,706,"Dante, cállate!"
+707,MIGUEL (CONT'D),707,"No, Dante!     Stop it! He can't help
 me!"
-708,708,MIGUEL (CONT'D),708,"Dante, stop! Stop it! Leave me
+708,MIGUEL (CONT'D),708,"Dante, stop! Stop it! Leave me
 alone! You're not a spirit guide,
 you're just a dumb dog! Now get
 out of here!"
-709,709,CROWD MEMBERS,709,"It's him! / It's that living boy! /
+709,CROWD MEMBERS,709,"It's him! / It's that living boy! /
 I heard about him. / Look! / He's
 alive! / The boy's alive."
-710,710,MIGUEL,710,AAHH!
-711,711,MAMÁ IMELDA,711,"This nonsense ends now, Miguel! I
+710,MIGUEL,710,AAHH!
+711,MAMÁ IMELDA,711,"This nonsense ends now, Miguel! I
 am giving you my blessing and you
 are going home!"
-712,712,MIGUEL,712,I don't want your blessing!
-713,713,MAMÁ IMELDA,713,Miguel!   Stop!
-714,714,MAMÁ IMELDA (CONT'D),714,Come back!     Miguel!
-715,715,MAMÁ IMELDA (CONT'D),715,I am trying to save your life!
-716,716,MIGUEL,716,You're ruining my life!
-717,717,MAMÁ IMELDA,717,What?
-718,718,MIGUEL,718,"Music's the only thing that makes
+712,MIGUEL,712,I don't want your blessing!
+713,MAMÁ IMELDA,713,Miguel!   Stop!
+714,MAMÁ IMELDA (CONT'D),714,Come back!     Miguel!
+715,MAMÁ IMELDA (CONT'D),715,I am trying to save your life!
+716,MIGUEL,716,You're ruining my life!
+717,MAMÁ IMELDA,717,What?
+718,MIGUEL,718,"Music's the only thing that makes
 me happy. And you, you wanna take
 that away!"
-719,719,MIGUEL,719,You'll never understand.
-720,720,MAMÁ IMELDA,720,"Y AUNQUE LA VIDA ME CUESTE,
+719,MIGUEL,719,You'll never understand.
+720,MAMÁ IMELDA,720,"Y AUNQUE LA VIDA ME CUESTE,
 LLORONA... NO DEJARÉ DE QUERERTE..."
-721,721,MIGUEL,721,I thought you hated music.
-722,722,MAMÁ IMELDA,722,"Oh, I loved it."
-723,723,MAMÁ IMELDA,723,"I remember that feeling, when my
+721,MIGUEL,721,I thought you hated music.
+722,MAMÁ IMELDA,722,"Oh, I loved it."
+723,MAMÁ IMELDA,723,"I remember that feeling, when my
 husband would play, and I would
 sing and nothing else mattered.
 But when we had Coco, suddenly...
@@ -1255,50 +1255,50 @@ there was something in my life that
 mattered more than music. I wanted
 to put down roots. He wanted to
 play for the world."
-724,724,MAMÁ IMELDA (CONT'D),724,"We each made a sacrifice to get
+724,MAMÁ IMELDA (CONT'D),724,"We each made a sacrifice to get
 what we wanted. Now you must make
 a choice."
-725,725,MIGUEL,725,But I don't wanna... pick sides!
-726,726,MIGUEL,726,"Why can't you be on MY side?
+725,MIGUEL,725,But I don't wanna... pick sides!
+726,MIGUEL,726,"Why can't you be on MY side?
 That's what family's supposed to do
 -- support you."
-727,727,MIGUEL,727,But you never will.
-728,728,SECURITY GUARD,728,Have a good time.
-729,729,GUEST,729,"Oh, how exciting!"
-730,730,SECURITY GUARD,730,Oh!  El Santo!
-731,731,SECURITY GUARD,731,I'm a big fan.
-732,732,SECURITY GUARD,732,You mind if I--
-733,733,SECURITY GUARD,733,"Gracias, señor!"
-734,734,SECURITY GUARD,734,Invitation?
-735,735,MIGUEL,735,"It's okay. I'm Ernesto's great-
+727,MIGUEL,727,But you never will.
+728,SECURITY GUARD,728,Have a good time.
+729,GUEST,729,"Oh, how exciting!"
+730,SECURITY GUARD,730,Oh!  El Santo!
+731,SECURITY GUARD,731,I'm a big fan.
+732,SECURITY GUARD,732,You mind if I--
+733,SECURITY GUARD,733,"Gracias, señor!"
+734,SECURITY GUARD,734,Invitation?
+735,MIGUEL,735,"It's okay. I'm Ernesto's great-
 great grandson!"
-736,736,MIGUEL,736,"Disculpen, señores..."
-737,737,BAND LEADER,737,"Hey guys, it's Poco Loco!"
-738,738,BAND MEMBER #2,738,You were on fire tonight!
-739,739,MIGUEL,739,"You too! Hey, musician to
+736,MIGUEL,736,"Disculpen, señores..."
+737,BAND LEADER,737,"Hey guys, it's Poco Loco!"
+738,BAND MEMBER #2,738,You were on fire tonight!
+739,MIGUEL,739,"You too! Hey, musician to
 musician, I need a favor..."
-740,740,SECURITY GUARD,740,"Ooo, the competition winners!
+740,SECURITY GUARD,740,"Ooo, the competition winners!
 Congratulations chicos!"
-741,741,MIGUEL,741,Thanks guys!
-742,742,MIGUEL,742,Whoa...
-743,743,BAND LEADER,743,"Enjoy the party, little músico!"
-744,744,MIGUEL,744,Gracias!
-745,745,GUEST,745,"Look, it's Ernesto!"
-746,746,MIGUEL,746,De la Cruz...
-747,747,MIGUEL,747,Señor de la Cruz!
-748,748,MIGUEL,748,"Pardon me, Señor de la Cruz!     Señor
+741,MIGUEL,741,Thanks guys!
+742,MIGUEL,742,Whoa...
+743,BAND LEADER,743,"Enjoy the party, little músico!"
+744,MIGUEL,744,Gracias!
+745,GUEST,745,"Look, it's Ernesto!"
+746,MIGUEL,746,De la Cruz...
+747,MIGUEL,747,Señor de la Cruz!
+748,MIGUEL,748,"Pardon me, Señor de la Cruz!     Señor
 de la--"
-749,749,DE LA CRUZ (FILM CLIP),749,"When you see your moment, you
+749,DE LA CRUZ (FILM CLIP),749,"When you see your moment, you
 mustn't let it pass you by. You
 must seize it."
-750,750,DE LA CRUZ (FILM CLIP),750,"We're almost there, Dante."
-751,751,MIGUEL,751,Señor de la Cruz!     Señor de la--
-752,752,NUN (FILM CLIP),752,"But what can we do? It is
+750,DE LA CRUZ (FILM CLIP),750,"We're almost there, Dante."
+751,MIGUEL,751,Señor de la Cruz!     Señor de la--
+752,NUN (FILM CLIP),752,"But what can we do? It is
 hopeless..."
-753,753,DE LA CRUZ (FILM CLIP),753,"You must have faith, sister."
-754,754,NUN (FILM CLIP),754,"Oh but Padre, he will never listen."
-755,755,DE LA CRUZ (FILM CLIP),755,He will listen... to MUSIC!
-756,756,MIGUEL,756,"SEÑORAS Y SEÑORES
+753,DE LA CRUZ (FILM CLIP),753,"You must have faith, sister."
+754,NUN (FILM CLIP),754,"Oh but Padre, he will never listen."
+755,DE LA CRUZ (FILM CLIP),755,He will listen... to MUSIC!
+756,MIGUEL,756,"SEÑORAS Y SEÑORES
 BUENAS TARDES, BUENAS NOCHES
 BUENAS TARDES, BUENAS NOCHES
 SEÑORITAS Y SEÑORES
@@ -1306,528 +1306,528 @@ TO BE HERE WITH YOU TONIGHT
 BRINGS ME JOY! ¡QUÉ ALEGRÍA!
 FOR THIS MUSIC IS MY LANGUAGE
 AND THE WORLD ES MI FAMILIA"
-757,757,MIGUEL,757,"FOR THIS MUSIC IS MY LANGUAGE
+757,MIGUEL,757,"FOR THIS MUSIC IS MY LANGUAGE
 AND THE WORLD ES MI FAMILIA"
-758,758,MIGUEL & DE LA CRUZ,758,"FOR THIS MUSIC IS MY LANGUAGE
+758,MIGUEL & DE LA CRUZ,758,"FOR THIS MUSIC IS MY LANGUAGE
 AND THE WORLD ES MI FAMILIA"
-759,759,MIGUEL,759,FOR THIS MUSIC IS MY LANG--
-760,760,DE LA CRUZ,760,"Are you all right, niño?"
-761,761,DE LA CRUZ,761,"It's you... you, you are that boy,
+759,MIGUEL,759,FOR THIS MUSIC IS MY LANG--
+760,DE LA CRUZ,760,"Are you all right, niño?"
+761,DE LA CRUZ,761,"It's you... you, you are that boy,
 the one who came from the Land of
 the Living."
-762,762,MIGUEL,762,You... know about me?
-763,763,DE LA CRUZ,763,"You are all anyone has been talking
+762,MIGUEL,762,You... know about me?
+763,DE LA CRUZ,763,"You are all anyone has been talking
 about! Why have you come here?"
-764,764,MIGUEL,764,"I'm Miguel. Your great-great
+764,MIGUEL,764,"I'm Miguel. Your great-great
 grandson."
-765,765,DE LA CRUZ,765,I... have a great-great grandson?
-766,766,MIGUEL,766,"I need your blessing. So I can go
+765,DE LA CRUZ,765,I... have a great-great grandson?
+766,MIGUEL,766,"I need your blessing. So I can go
 back home and be a musician, just
 like you."
-767,767,MIGUEL (CONT'D),767,"The rest of our family, they
+767,MIGUEL (CONT'D),767,"The rest of our family, they
 wouldn't listen. But I... I hoped
 you would?"
-768,768,DE LA CRUZ,768,"My boy, with a talent like yours,
+768,DE LA CRUZ,768,"My boy, with a talent like yours,
 how could I not listen?"
-769,769,DE LA CRUZ,769,I HAVE A GREAT-GREAT GRANDSON!
-770,770,CROWD,770,"Look, it's Frida!"
-771,771,HÉCTOR,771,"Yes, it is I. Frida Kahlo."
-772,772,SECURITY GUARD,772,"It is an honor, señora!"
-773,773,HÉCTOR,773,Gracias...
-774,774,DE LA CRUZ,774,"Hey Negrete! Infante! Have you
+769,DE LA CRUZ,769,I HAVE A GREAT-GREAT GRANDSON!
+770,CROWD,770,"Look, it's Frida!"
+771,HÉCTOR,771,"Yes, it is I. Frida Kahlo."
+772,SECURITY GUARD,772,"It is an honor, señora!"
+773,HÉCTOR,773,Gracias...
+774,DE LA CRUZ,774,"Hey Negrete! Infante! Have you
 met my great-great-grandson?"
-775,775,DE LA CRUZ,775,My great-great grandson!
-776,776,DE LA CRUZ,776,"He's alive! And a musician to
+775,DE LA CRUZ,775,My great-great grandson!
+776,DE LA CRUZ,776,"He's alive! And a musician to
 boot!"
-777,777,MIGUEL,777,"Dimple.   No dimple.      Dimple.   No
+777,MIGUEL,777,"Dimple.   No dimple.      Dimple.   No
 dimple."
-778,778,DE LA CRUZ,778,No dimple!
-779,779,DON HIDALGO (FILM CLIP),779,To our friendship!...
-780,780,DE LA CRUZ,780,"You know, I did all my own stunts."
-781,781,DE LA CRUZ,781,"All of this came from my amazing
+778,DE LA CRUZ,778,No dimple!
+779,DON HIDALGO (FILM CLIP),779,To our friendship!...
+780,DE LA CRUZ,780,"You know, I did all my own stunts."
+781,DE LA CRUZ,781,"All of this came from my amazing
 fans in the Land of the Living!
 They leave me more offerings than I
 know what to do with!"
-782,782,DE LA CRUZ,782,"Hey, what's wrong? Is it too much?
+782,DE LA CRUZ,782,"Hey, what's wrong? Is it too much?
 You look overwhelmed..."
-783,783,MIGUEL,783,No -- it's all great.
-784,784,DE LA CRUZ,784,But...?
-785,785,MIGUEL,785,"It's just -- I've been looking up
+783,MIGUEL,783,No -- it's all great.
+784,DE LA CRUZ,784,But...?
+785,MIGUEL,785,"It's just -- I've been looking up
 to you my whole life. You're the
 guy who actually did it! But..."
-786,786,MIGUEL,786,"Did you ever regret it? Choosing
+786,MIGUEL,786,"Did you ever regret it? Choosing
 music over... everything else."
-787,787,DE LA CRUZ,787,"It was hard. Saying goodbye to my
+787,DE LA CRUZ,787,"It was hard. Saying goodbye to my
 hometown. Heading off on my own..."
-788,788,MIGUEL,788,Leaving your family?
-789,789,DE LA CRUZ,789,"Sí. But I could not have done it
+788,MIGUEL,788,Leaving your family?
+789,DE LA CRUZ,789,"Sí. But I could not have done it
 differently."
-790,790,DE LA CRUZ,790,"One cannot deny who one is meant to
+790,DE LA CRUZ,790,"One cannot deny who one is meant to
 be. And you, my great-great
 grandson, are meant to be a
 musician!"
-791,791,DE LA CRUZ (CONT'D),791,"You and I, we are artists, Miguel!
+791,DE LA CRUZ (CONT'D),791,"You and I, we are artists, Miguel!
 We cannot belong to one family.
 The world is our family!"
-792,792,DE LA CRUZ (CONT'D),792,"Ooo, the fireworks have begun!"
-793,793,DE LA CRUZ,793,"Soon, the party will move across
+792,DE LA CRUZ (CONT'D),792,"Ooo, the fireworks have begun!"
+793,DE LA CRUZ,793,"Soon, the party will move across
 town for my ""Sunrise Spectacular!"""
-794,794,DE LA CRUZ,794,"Miguel, you must come to the show!
+794,DE LA CRUZ,794,"Miguel, you must come to the show!
 You will be my guest of honor!"
-795,795,MIGUEL,795,You mean it?!
-796,796,DE LA CRUZ,796,"Of course, my boy!"
-797,797,MIGUEL,797,"I can't... I have to get home
+795,MIGUEL,795,You mean it?!
+796,DE LA CRUZ,796,"Of course, my boy!"
+797,MIGUEL,797,"I can't... I have to get home
 before sunrise."
-798,798,DE LA CRUZ,798,"Oh, I really do need to get you
+798,DE LA CRUZ,798,"Oh, I really do need to get you
 home."
-799,799,DE LA CRUZ (CONT'D),799,"It has been an honor. I am sorry
+799,DE LA CRUZ (CONT'D),799,"It has been an honor. I am sorry
 to see you go, Miguel. I hope you
 die very soon."
-800,800,DE LA CRUZ (CONT'D),800,You know what I mean.
-801,801,DE LA CRUZ (CONT'D),801,Miguel. I give you my bles--
-802,802,HÉCTOR (O.S.),802,"We had a deal, chamaco!"
-803,803,DE LA CRUZ,803,"Who are you? What is the meaning
+800,DE LA CRUZ (CONT'D),800,You know what I mean.
+801,DE LA CRUZ (CONT'D),801,Miguel. I give you my bles--
+802,HÉCTOR (O.S.),802,"We had a deal, chamaco!"
+803,DE LA CRUZ,803,"Who are you? What is the meaning
 of this?"
-804,804,DE LA CRUZ (CONT'D),804,"Oh, Frida!     I thought you couldn't
+804,DE LA CRUZ (CONT'D),804,"Oh, Frida!     I thought you couldn't
 make it."
-805,805,HÉCTOR,805,"You said you'd take back my photo.
+805,HÉCTOR,805,"You said you'd take back my photo.
 You promised, Miguel."
-806,806,DE LA CRUZ,806,"You know this, uh... man?"
-807,807,MIGUEL,807,"I just met him tonight.      He told me
+806,DE LA CRUZ,806,"You know this, uh... man?"
+807,MIGUEL,807,"I just met him tonight.      He told me
 he knew you--"
-808,808,DE LA CRUZ,808,Hé-- Héctor?
-809,809,HÉCTOR,809,"Please Miguel, put my photo up."
-810,810,DE LA CRUZ,810,"My friend... you're being
+808,DE LA CRUZ,808,Hé-- Héctor?
+809,HÉCTOR,809,"Please Miguel, put my photo up."
+810,DE LA CRUZ,810,"My friend... you're being
 forgotten..."
-811,811,HÉCTOR,811,And whose fault is that?
-812,812,DE LA CRUZ,812,"Héctor, please--"
-813,813,HÉCTOR,813,"Those were MY songs you took.     MY
+811,HÉCTOR,811,And whose fault is that?
+812,DE LA CRUZ,812,"Héctor, please--"
+813,HÉCTOR,813,"Those were MY songs you took.     MY
 songs that made YOU famous."
-814,814,MIGUEL,814,W-What?
-815,815,HÉCTOR,815,"If I'm being forgotten, it's
+814,MIGUEL,814,W-What?
+815,HÉCTOR,815,"If I'm being forgotten, it's
 because you never told anyone that
 I wrote them--"
-816,816,MIGUEL,816,"That's crazy, de la Cruz wrote all
+816,MIGUEL,816,"That's crazy, de la Cruz wrote all
 his own songs."
-817,817,HÉCTOR,817,"You wanna tell him, or should I?"
-818,818,DE LA CRUZ,818,"Héctor, I never meant to take
+817,HÉCTOR,817,"You wanna tell him, or should I?"
+818,DE LA CRUZ,818,"Héctor, I never meant to take
 credit."
-819,819,DE LA CRUZ (CONT'D),819,"We made a great team but -- you
+819,DE LA CRUZ (CONT'D),819,"We made a great team but -- you
 died and I -- I only sang your
 songs because I wanted to keep a
 part of you alive."
-820,820,HÉCTOR,820,"Oh, how generous."
-821,821,MIGUEL,821,You really did play together...
-822,822,HÉCTOR,822,"Look, I don't want to fight about
+820,HÉCTOR,820,"Oh, how generous."
+821,MIGUEL,821,You really did play together...
+822,HÉCTOR,822,"Look, I don't want to fight about
 it. I just want you to make it
 right. Miguel can put my photo up--"
-823,823,DE LA CRUZ,823,Héctor...
-824,824,HÉCTOR,824,"--And I can cross over the bridge.
+823,DE LA CRUZ,823,Héctor...
+824,HÉCTOR,824,"--And I can cross over the bridge.
 I can see my girl."
-825,825,HÉCTOR,825,"Ernesto... Remember the night I
+825,HÉCTOR,825,"Ernesto... Remember the night I
 left?"
-826,826,DE LA CRUZ,826,That was a long time ago.
-827,827,HÉCTOR,827,"We drank together and you told me
+826,DE LA CRUZ,826,That was a long time ago.
+827,HÉCTOR,827,"We drank together and you told me
 you would move heaven and earth for
 your amigo. Well, I'm asking you
 to now."
-828,828,MIGUEL,828,"Heaven and earth?     Like in the
+828,MIGUEL,828,"Heaven and earth?     Like in the
 movie?"
-829,829,HÉCTOR,829,What?
-830,830,MIGUEL,830,"That's Don Hidalgo's toast... in
+829,HÉCTOR,829,What?
+830,MIGUEL,830,"That's Don Hidalgo's toast... in
 the de la Cruz movie, ""El Camino A
 Casa."""
-831,831,HÉCTOR,831,"I'm talking about my real life,
+831,HÉCTOR,831,"I'm talking about my real life,
 Miguel."
-832,832,YOUNG DE LA CRUZ,832,"I can't do this without your songs,
+832,YOUNG DE LA CRUZ,832,"I can't do this without your songs,
 Héctor--"
-833,833,YOUNG HÉCTOR,833,"I'm going home, Ernesto."
-834,834,YOUNG HÉCTOR,834,"Hate me if you want, but my mind is
+833,YOUNG HÉCTOR,833,"I'm going home, Ernesto."
+834,YOUNG HÉCTOR,834,"Hate me if you want, but my mind is
 made up."
-835,835,YOUNG DE LA CRUZ,835,"Oh, I could never hate you. If you
+835,YOUNG DE LA CRUZ,835,"Oh, I could never hate you. If you
 must go, then I'm... I'm sending
 you off with a toast!"
-836,836,YOUNG DE LA CRUZ (CONT'D),836,"To our friendship. I would move
+836,YOUNG DE LA CRUZ (CONT'D),836,"To our friendship. I would move
 Heaven and Earth for you, mi amigo.
 Salud!"
-837,837,HÉCTOR (V.O.),837,You walked me to the train station.
-838,838,HÉCTOR (V.O.),838,"But I felt a pain in my stomach. I
+837,HÉCTOR (V.O.),837,You walked me to the train station.
+838,HÉCTOR (V.O.),838,"But I felt a pain in my stomach. I
 thought it must have been something
 I ate..."
-839,839,YOUNG DE LA CRUZ,839,"Perhaps it was that chorizo my
+839,YOUNG DE LA CRUZ,839,"Perhaps it was that chorizo my
 friend..."
-840,840,HÉCTOR (V.O.),840,Or something I... drank.
-841,841,HÉCTOR,841,You took everything away from me!
-842,842,HÉCTOR,842,You rat!
-843,843,DE LA CRUZ,843,"Have him taken care of.      He's not
+840,HÉCTOR (V.O.),840,Or something I... drank.
+841,HÉCTOR,841,You took everything away from me!
+842,HÉCTOR,842,You rat!
+843,DE LA CRUZ,843,"Have him taken care of.      He's not
 well."
-844,844,HÉCTOR,844,"I just wanted to go back home!      No,
+844,HÉCTOR,844,"I just wanted to go back home!      No,
 no, NO!"
-845,845,DE LA CRUZ,845,I apologize. Where were we?
-846,846,MIGUEL,846,"You were going to give me your
+845,DE LA CRUZ,845,I apologize. Where were we?
+846,MIGUEL,846,"You were going to give me your
 blessing..."
-847,847,DE LA CRUZ,847,Yes.   Uh... sí.
-848,848,DE LA CRUZ,848,"Miguel, my reputation, it is very
+847,DE LA CRUZ,847,Yes.   Uh... sí.
+848,DE LA CRUZ,848,"Miguel, my reputation, it is very
 important to me. I would hate to
 have you think..."
-849,849,MIGUEL,849,"That you murdered Héctor... for his
+849,MIGUEL,849,"That you murdered Héctor... for his
 songs?"
-850,850,DE LA CRUZ,850,You don't think that.     Do you?
-851,851,MIGUEL,851,"I -- no! Everyone knows you're
+850,DE LA CRUZ,850,You don't think that.     Do you?
+851,MIGUEL,851,"I -- no! Everyone knows you're
 the... the good guy."
-852,852,MIGUEL,852,Papá Ernesto? My blessing?
-853,853,DE LA CRUZ,853,Security!
-854,854,DE LA CRUZ (CONT'D),854,"Take care of Miguel. He'll be
+852,MIGUEL,852,Papá Ernesto? My blessing?
+853,DE LA CRUZ,853,Security!
+854,DE LA CRUZ (CONT'D),854,"Take care of Miguel. He'll be
 extending his stay."
-855,855,MIGUEL,855,What?!    But I'm your family!
-856,856,DE LA CRUZ,856,And Héctor was my best friend.
-857,857,DE LA CRUZ,857,"Success doesn't come     for free,
+855,MIGUEL,855,What?!    But I'm your family!
+856,DE LA CRUZ,856,And Héctor was my best friend.
+857,DE LA CRUZ,857,"Success doesn't come     for free,
 Miguel. You have to      be willing to
 do whatever it takes     to... seize
 your moment. I know      you
 understand."
-858,858,MIGUEL,858,"No, NO!"
-859,859,MIGUEL,859,Let go!
-860,860,MIGUEL,860,NO!   AHHHHHH!
-861,861,MIGUEL,861,"Help! Can anyone hear me?        I wanna
+858,MIGUEL,858,"No, NO!"
+859,MIGUEL,859,Let go!
+860,MIGUEL,860,NO!   AHHHHHH!
+861,MIGUEL,861,"Help! Can anyone hear me?        I wanna
 go home!"
-862,862,MIGUEL,862,Héctor?
-863,863,HÉCTOR,863,Kid?
-864,864,MIGUEL,864,"Oh, Héctor!"
-865,865,MIGUEL,865,"You were right. I should have gone
+862,MIGUEL,862,Héctor?
+863,HÉCTOR,863,Kid?
+864,MIGUEL,864,"Oh, Héctor!"
+865,MIGUEL,865,"You were right. I should have gone
 back to my family--"
-866,866,HÉCTOR,866,"Hey -- hey, hey..."
-867,867,MIGUEL,867,"They told me not to be like de la
+866,HÉCTOR,866,"Hey -- hey, hey..."
+867,MIGUEL,867,"They told me not to be like de la
 Cruz, but I didn't listen--"
-868,868,HÉCTOR,868,"Hey, it's okay..."
-869,869,MIGUEL,869,"I told them I didn't care if they
+868,HÉCTOR,868,"Hey, it's okay..."
+869,MIGUEL,869,"I told them I didn't care if they
 remembered me. I didn't care if I
 was on their stupid ofrenda."
-870,870,HÉCTOR,870,"Hey, chamaco, it's okay.         It's
+870,HÉCTOR,870,"Hey, chamaco, it's okay.         It's
 okay."
-871,871,MIGUEL,871,I told them I didn't care.
-872,872,HÉCTOR,872,Hhuuh!
-873,873,MIGUEL,873,Héctor!   Héctor--
-874,874,HÉCTOR,874,She's... forgetting me.
-875,875,MIGUEL,875,Who?
-876,876,HÉCTOR,876,My daughter...
-877,877,MIGUEL,877,"She's the reason you wanted to
+871,MIGUEL,871,I told them I didn't care.
+872,HÉCTOR,872,Hhuuh!
+873,MIGUEL,873,Héctor!   Héctor--
+874,HÉCTOR,874,She's... forgetting me.
+875,MIGUEL,875,Who?
+876,HÉCTOR,876,My daughter...
+877,MIGUEL,877,"She's the reason you wanted to
 cross the bridge..."
-878,878,HÉCTOR,878,I just wanted to see her again...
-879,879,HÉCTOR,879,"I never should have left Santa
+878,HÉCTOR,878,I just wanted to see her again...
+879,HÉCTOR,879,"I never should have left Santa
 Cecilia. I wish I could apologize.
 I wish I could tell her that her
 papá was trying to come home. That
 he loved her so much."
-880,880,HÉCTOR,880,My Coco...
-881,881,MIGUEL,881,Coco?
-882,882,MIGUEL (CONT'D),882,"You should be the one the world
+880,HÉCTOR,880,My Coco...
+881,MIGUEL,881,Coco?
+882,MIGUEL (CONT'D),882,"You should be the one the world
 remembers, not de la Cruz!"
-883,883,HÉCTOR,883,"I didn't write ""Remember Me"" for
+883,HÉCTOR,883,"I didn't write ""Remember Me"" for
 the world... I wrote it for Coco.
 I'm a pretty sorry excuse for a
 great-great grandpa."
-884,884,MIGUEL,884,"Are you kidding? A minute ago I
+884,MIGUEL,884,"Are you kidding? A minute ago I
 thought I was related to a
 murderer. You're a total upgrade!"
-885,885,MIGUEL,885,"My whole life, there's been
+885,MIGUEL,885,"My whole life, there's been
 something that made me different...
 and I never knew where it came
 from."
-886,886,MIGUEL,886,But now I know. It comes from you.
-887,887,MIGUEL,887,I'm proud we're family!
-888,888,MIGUEL (CONT'D),888,"I'm proud to be his family!
+886,MIGUEL,886,But now I know. It comes from you.
+887,MIGUEL,887,I'm proud we're family!
+888,MIGUEL (CONT'D),888,"I'm proud to be his family!
 TRRRRRAI-HAY-HAY-HAY-HAAAY!"
-889,889,HÉCTOR,889,"TRRRRRRAAAAAI-HAAAI-HAAAAAY!
+889,HÉCTOR,889,"TRRRRRRAAAAAI-HAAAI-HAAAAAY!
 I'm proud to be HIS family!"
-890,890,DANTE (O.S),890,Rooo-rooo-roooooooo!
-891,891,MIGUEL,891,Dante?
-892,892,DANTE (O.S.),892,Roooooo-roo-roo-rooo!
-893,893,MIGUEL,893,Dante!    It's Dante!
-894,894,HÉCTOR,894,Imelda!
-895,895,MAMÁ IMELDA,895,Héctor.
-896,896,HÉCTOR,896,You look good...
-897,897,MIGUEL,897,"Dante, you knew he was my Papá
+890,DANTE (O.S),890,Rooo-rooo-roooooooo!
+891,MIGUEL,891,Dante?
+892,DANTE (O.S.),892,Roooooo-roo-roo-rooo!
+893,MIGUEL,893,Dante!    It's Dante!
+894,HÉCTOR,894,Imelda!
+895,MAMÁ IMELDA,895,Héctor.
+896,HÉCTOR,896,You look good...
+897,MIGUEL,897,"Dante, you knew he was my Papá
 Héctor the whole time! You ARE a
 real spirit guide!"
-898,898,MIGUEL,898,"Who's a good spirit guide? You
+898,MIGUEL,898,"Who's a good spirit guide? You
 are!"
-899,899,MIGUEL,899,Whoa...
-900,900,MIGUEL,900,Dante!
-901,901,PAPÁ JULIO,901,"Look, there they are!"
-902,902,FAMILY,902,"Miguel! / Miguelito! / Ay, gracias
+899,MIGUEL,899,Whoa...
+900,MIGUEL,900,Dante!
+901,PAPÁ JULIO,901,"Look, there they are!"
+902,FAMILY,902,"Miguel! / Miguelito! / Ay, gracias
 a Dios! / It's Miguel! / He's all
 right! / Oh thank goodness! /
 Gracias, Dios mío!"
-903,903,MAMÁ IMELDA,903,"Mijo, I was so worried! Thank
+903,MAMÁ IMELDA,903,"Mijo, I was so worried! Thank
 goodness we found you in time!"
-904,904,MAMÁ IMELDA,904,"And you! How many times must I
+904,MAMÁ IMELDA,904,"And you! How many times must I
 turn you away?"
-905,905,HÉCTOR,905,Imelda--
-906,906,MAMÁ IMELDA,906,"I want nothing to do with you. Not
+905,HÉCTOR,905,Imelda--
+906,MAMÁ IMELDA,906,"I want nothing to do with you. Not
 in life, not in death!"
-907,907,MAMÁ IMELDA,907,"I spent decades protecting my
+907,MAMÁ IMELDA,907,"I spent decades protecting my
 family from your mistakes. He
 spends five minutes with you and I
 have to fish him out of a sinkhole!"
-908,908,MIGUEL,908,"I wasn't in there `cause of Héctor.
+908,MIGUEL,908,"I wasn't in there `cause of Héctor.
 He was in there `cause of me."
-909,909,MIGUEL,909,"He was just trying to get me
+909,MIGUEL,909,"He was just trying to get me
 home... I didn't wanna listen, but
 he was right... nothing is more
 important than family."
-910,910,MIGUEL (CONT'D),910,"I'm ready to accept your
+910,MIGUEL (CONT'D),910,"I'm ready to accept your
 blessing... and your conditions.
 But first, I need to find de la
 Cruz. To get Héctor's photo."
-911,911,MAMÁ IMELDA,911,What?
-912,912,MIGUEL,912,"So he can see Coco again.        Héctor
+911,MAMÁ IMELDA,911,What?
+912,MIGUEL,912,"So he can see Coco again.        Héctor
 should be on our ofrenda.        He's
 part of our family--"
-913,913,MAMÁ IMELDA,913,He left this family!
-914,914,MIGUEL,914,"He tried to go home to you and
+913,MAMÁ IMELDA,913,He left this family!
+914,MIGUEL,914,"He tried to go home to you and
 Coco... but de la Cruz murdered
 him!"
-915,915,HÉCTOR,915,"It's true, Imelda."
-916,916,MAMÁ IMELDA,916,"And so what if it's true? You
+915,HÉCTOR,915,"It's true, Imelda."
+916,MAMÁ IMELDA,916,"And so what if it's true? You
 leave me alone with a child to
 raise and I'm just supposed to
 forgive you?"
-917,917,HÉCTOR,917,"Imelda, I--"
-918,918,MIGUEL,918,Héctor?
-919,919,HÉCTOR,919,"I'm running out of time.         It's
+917,HÉCTOR,917,"Imelda, I--"
+918,MIGUEL,918,Héctor?
+919,HÉCTOR,919,"I'm running out of time.         It's
 Coco..."
-920,920,MAMÁ IMELDA,920,She's forgetting you...
-921,921,MIGUEL,921,"You don't have to forgive him...
+920,MAMÁ IMELDA,920,She's forgetting you...
+921,MIGUEL,921,"You don't have to forgive him...
 But we shouldn't forget him."
-922,922,MAMÁ IMELDA,922,"I wanted to forget you. I wanted
+922,MAMÁ IMELDA,922,"I wanted to forget you. I wanted
 Coco to forget you too, but--"
-923,923,HÉCTOR,923,"This is my fault, not yours."
-924,924,HÉCTOR,924,"I'm sorry, Imelda."
-925,925,MAMÁ IMELDA,925,"Miguel, if we help you get his
+923,HÉCTOR,923,"This is my fault, not yours."
+924,HÉCTOR,924,"I'm sorry, Imelda."
+925,MAMÁ IMELDA,925,"Miguel, if we help you get his
 photo... you will return home?          No
 more music?"
-926,926,MIGUEL,926,Family comes first.
-927,927,MAMÁ IMELDA,927,"I -- I can't forgive you.        But I
+926,MIGUEL,926,Family comes first.
+927,MAMÁ IMELDA,927,"I -- I can't forgive you.        But I
 will help you."
-928,928,MAMÁ IMELDA,928,So how do we get to de la Cruz?
-929,929,MIGUEL,929,I might know a way...
-930,930,MIGUEL,930,Everyone clear on the plan?
-931,931,TÍA VICTORIA,931,Find Héctor's photo.
-932,932,PAPÁ JULIO,932,Give it to Miguel.
-933,933,MAMÁ IMELDA,933,Send Miguel home.
-934,934,HÉCTOR,934,Got your petals?
-935,935,MAMÁ IMELDA,935,"Now, we just have to find de la
+928,MAMÁ IMELDA,928,So how do we get to de la Cruz?
+929,MIGUEL,929,I might know a way...
+930,MIGUEL,930,Everyone clear on the plan?
+931,TÍA VICTORIA,931,Find Héctor's photo.
+932,PAPÁ JULIO,932,Give it to Miguel.
+933,MAMÁ IMELDA,933,Send Miguel home.
+934,HÉCTOR,934,Got your petals?
+935,MAMÁ IMELDA,935,"Now, we just have to find de la
 Cruz--"
-936,936,DE LA CRUZ,936,Yes?
-937,937,MAMÁ IMELDA,937,Ah!
-938,938,DE LA CRUZ,938,Don't I know you?
-939,939,MAMÁ IMELDA,939,"That's for murdering the love of my
+936,DE LA CRUZ,936,Yes?
+937,MAMÁ IMELDA,937,Ah!
+938,DE LA CRUZ,938,Don't I know you?
+939,MAMÁ IMELDA,939,"That's for murdering the love of my
 life!"
-940,940,DE LA CRUZ,940,Who the?
-941,941,HÉCTOR,941,She's talking about me!
-942,942,HÉCTOR,942,I'm the love of your life?
-943,943,MAMÁ IMELDA,943,"I don't know! I'm still angry at
+940,DE LA CRUZ,940,Who the?
+941,HÉCTOR,941,She's talking about me!
+942,HÉCTOR,942,I'm the love of your life?
+943,MAMÁ IMELDA,943,"I don't know! I'm still angry at
 you."
-944,944,DE LA CRUZ,944,Héctor?!    How did you--
-945,945,MAMÁ IMELDA,945,"And that's for trying to murder my
+944,DE LA CRUZ,944,Héctor?!    How did you--
+945,MAMÁ IMELDA,945,"And that's for trying to murder my
 grandson!"
-946,946,DE LA CRUZ,946,Grandson?
-947,947,MIGUEL,947,She's talking about me!
-948,948,DE LA CRUZ,948,"You! Wait, you're related to
+946,DE LA CRUZ,946,Grandson?
+947,MIGUEL,947,She's talking about me!
+948,DE LA CRUZ,948,"You! Wait, you're related to
 Héctor?"
-949,949,MIGUEL,949,The photo!
-950,950,MAMÁ IMELDA,950,After him!
-951,951,DE LA CRUZ,951,Security!     Ayúdenme!
-952,952,HÉCTOR,952,"You said ""love of your life..."""
-953,953,MAMÁ IMELDA,953,I don't know WHAT I said!
-954,954,MIGUEL,954,That's what I heard...
-955,955,STAGEHAND,955,"Places, señor, you're on in 30
+949,MIGUEL,949,The photo!
+950,MAMÁ IMELDA,950,After him!
+951,DE LA CRUZ,951,Security!     Ayúdenme!
+952,HÉCTOR,952,"You said ""love of your life..."""
+953,MAMÁ IMELDA,953,I don't know WHAT I said!
+954,MIGUEL,954,That's what I heard...
+955,STAGEHAND,955,"Places, señor, you're on in 30
 seconds!"
-956,956,MAMÁ IMELDA,956,Miguel!   I have it!
-957,957,MIGUEL,957,"Hurry, come on!"
-958,958,ANNOUNCER (O.S.),958,"Ladies and gentlemen... the one,
+956,MAMÁ IMELDA,956,Miguel!   I have it!
+957,MIGUEL,957,"Hurry, come on!"
+958,ANNOUNCER (O.S.),958,"Ladies and gentlemen... the one,
 the only... ERNESTO DE LA CRUZ!"
-959,959,CROWD MEMBER,959,Nesto!
-960,960,DE LA CRUZ,960,Get her off the stage!
-961,961,MIGUEL (O.S.),961,Sing!
-962,962,MIGUEL (CONT'D),962,SING!
-963,963,MAMÁ IMELDA,963,"AY DE MÍ, LLORONA
+959,CROWD MEMBER,959,Nesto!
+960,DE LA CRUZ,960,Get her off the stage!
+961,MIGUEL (O.S.),961,Sing!
+962,MIGUEL (CONT'D),962,SING!
+963,MAMÁ IMELDA,963,"AY DE MÍ, LLORONA
 LLORONA DE AZUL CELESTE..."
-964,964,MAMÁ IMELDA,964,"AY DE MÍ, LLORONA
+964,MAMÁ IMELDA,964,"AY DE MÍ, LLORONA
 LLORONA DE AZUL CELESTE..."
-965,965,MAMÁ IMELDA,965,"Y AUNQUE LA VIDA ME CUESTE, LLORONA,
+965,MAMÁ IMELDA,965,"Y AUNQUE LA VIDA ME CUESTE, LLORONA,
 NO DEJARÉ DE QUERERTE.
 NO DEJARÉ DE QUERERTE!"
-966,966,MAMÁ IMELDA,966,"ME SUBÍ AL PINO MÁS ALTO, LLORONA,
+966,MAMÁ IMELDA,966,"ME SUBÍ AL PINO MÁS ALTO, LLORONA,
 A VER SI TE DIVISABA."
-967,967,MAMÁ IMELDA,967,"COMO EL PINO ERA TIERNO, LLORONA
+967,MAMÁ IMELDA,967,"COMO EL PINO ERA TIERNO, LLORONA
 AL VERME LLORAR, LLORABA."
-968,968,MAMÁ IMELDA (CONT'D),968,"AY DE MÍ, LLORONA, LLORONA,
+968,MAMÁ IMELDA (CONT'D),968,"AY DE MÍ, LLORONA, LLORONA,
 LLORONA DE AZUL CELESTE..."
-969,969,DE LA CRUZ/MAMÁ IMELDA,969,"AY DE MÍ, LLORONA, LLORONA
+969,DE LA CRUZ/MAMÁ IMELDA,969,"AY DE MÍ, LLORONA, LLORONA
 LLORONA DE AZUL CELESTE..."
-970,970,DE LA CRUZ/MAMÁ IMELDA,970,"Y AUNQUE LA VIDA ME CUESTE, LLORONA,
+970,DE LA CRUZ/MAMÁ IMELDA,970,"Y AUNQUE LA VIDA ME CUESTE, LLORONA,
 NO DEJARÉ DE QUERERTE."
-971,971,DE LA CRUZ,971,"Y AUNQUE LA VIDA ME CUESTE, LLORONA,
+971,DE LA CRUZ,971,"Y AUNQUE LA VIDA ME CUESTE, LLORONA,
 NO DEJARÉ DE QUERERTE.
 NO DEJARÉ DE QUERERTE!"
-972,972,MAMÁ IMELDA,972,Let go of me!
-973,973,DE LA CRUZ,973,"NO DEJARÉ DE QUERERTE!
+972,MAMÁ IMELDA,972,Let go of me!
+973,DE LA CRUZ,973,"NO DEJARÉ DE QUERERTE!
 ...AY, AY, AY!"
-974,974,MAMÁ IMELDA,974,I forgot what that felt like.
-975,975,HÉCTOR,975,You... still got it.
-976,976,MIGUEL,976,Ahem.
-977,977,MAMÁ IMELDA,977,Oh!
-978,978,MAMÁ IMELDA,978,"Miguel, I give you my blessing."
-979,979,MAMÁ IMELDA (CONT'D),979,"To go home... to put up our
+974,MAMÁ IMELDA,974,I forgot what that felt like.
+975,HÉCTOR,975,You... still got it.
+976,MIGUEL,976,Ahem.
+977,MAMÁ IMELDA,977,Oh!
+978,MAMÁ IMELDA,978,"Miguel, I give you my blessing."
+979,MAMÁ IMELDA (CONT'D),979,"To go home... to put up our
 photos..."
-980,980,MAMÁ IMELDA (CONT'D),980,And to never...
-981,981,MIGUEL,981,Never play music again...
-982,982,MAMÁ IMELDA,982,"To never... forget how much your
+980,MAMÁ IMELDA (CONT'D),980,And to never...
+981,MIGUEL,981,Never play music again...
+982,MAMÁ IMELDA,982,"To never... forget how much your
 family loves you."
-983,983,HÉCTOR,983,You're going home.
-984,984,DE LA CRUZ,984,You're not going anywhere!
-985,985,HÉCTOR,985,Imelda--
-986,986,DE LA CRUZ,986,Stay back!     Stay back.   All of you!
-987,987,DE LA CRUZ,987,Stay back!     Not one more step.
-988,988,MIGUEL,988,Dante!
-989,989,HÉCTOR,989,"Ernesto, stop! Leave the boy
+983,HÉCTOR,983,You're going home.
+984,DE LA CRUZ,984,You're not going anywhere!
+985,HÉCTOR,985,Imelda--
+986,DE LA CRUZ,986,Stay back!     Stay back.   All of you!
+987,DE LA CRUZ,987,Stay back!     Not one more step.
+988,MIGUEL,988,Dante!
+989,HÉCTOR,989,"Ernesto, stop! Leave the boy
 alone!"
-990,990,DE LA CRUZ,990,"I've worked too hard, Héctor...
+990,DE LA CRUZ,990,"I've worked too hard, Héctor...
 Too hard to let him destroy
 everything..."
-991,991,HÉCTOR,991,"He's a living child, Ernesto!"
-992,992,DE LA CRUZ,992,He's a threat!
-993,993,DE LA CRUZ,993,"You think I'd let him go back to
+991,HÉCTOR,991,"He's a living child, Ernesto!"
+992,DE LA CRUZ,992,He's a threat!
+993,DE LA CRUZ,993,"You think I'd let him go back to
 the land of the living with your
 photo? To keep your memory alive?"
-994,994,DE LA CRUZ,994,No.
-995,995,MIGUEL,995,You're a coward!
-996,996,DE LA CRUZ,996,"I am Ernesto de la Cruz, the
+994,DE LA CRUZ,994,No.
+995,MIGUEL,995,You're a coward!
+996,DE LA CRUZ,996,"I am Ernesto de la Cruz, the
 greatest musician of all time!"
-997,997,MIGUEL,997,"Héctor's the real musician, you're
+997,MIGUEL,997,"Héctor's the real musician, you're
 just the guy who murdered him and
 stole his songs!"
-998,998,CROWD,998,Murder?
-999,999,DE LA CRUZ,999,"I am the one who is willing to do
+998,CROWD,998,Murder?
+999,DE LA CRUZ,999,"I am the one who is willing to do
 what it takes to seize my moment..."
-1000,1000,DE LA CRUZ,1000,Whatever it takes.
-1001,1001,MIGUEL,1001,AHHH!
-1002,1002,HÉCTOR,1002,NO!
-1003,1003,TÍO OSCAR/TÍO FELIPE,1003,Miguel!
-1004,1004,MAMÁ IMELDA,1004,Miguel!
-1005,1005,DE LA CRUZ,1005,"Apologies old friend, but the show
+1000,DE LA CRUZ,1000,Whatever it takes.
+1001,MIGUEL,1001,AHHH!
+1002,HÉCTOR,1002,NO!
+1003,TÍO OSCAR/TÍO FELIPE,1003,Miguel!
+1004,MAMÁ IMELDA,1004,Miguel!
+1005,DE LA CRUZ,1005,"Apologies old friend, but the show
 must go on..."
-1006,1006,DE LA CRUZ,1006,Ha ha!
-1007,1007,CROWD,1007,Boo!    Murderer!
-1008,1008,DE LA CRUZ,1008,"Please, please, mi familia..."
-1009,1009,AUDIENCE MEMBER,1009,Get off the stage!
-1010,1010,DE LA CRUZ,1010,Orchestra!     A-one-A-two-A-one--
-1011,1011,DE LA CRUZ,1011,"REMEMBER ME, THOUGH I HAVE TO--"
-1012,1012,DE LA CRUZ,1012,Hey!--
-1013,1013,CROWD MEMBER,1013,Look!
-1014,1014,CROWD MEMBER,1014,He's alright!
-1015,1015,MIGUEL,1015,Héctor!    Héctor?!
-1016,1016,HÉCTOR,1016,Coco...
-1017,1017,MIGUEL,1017,No!   We can still find the photo...
-1018,1018,MAMÁ IMELDA,1018,"Miguel, it's almost sunrise!"
-1019,1019,MIGUEL,1019,"No, no, no, I can't leave you. I
+1006,DE LA CRUZ,1006,Ha ha!
+1007,CROWD,1007,Boo!    Murderer!
+1008,DE LA CRUZ,1008,"Please, please, mi familia..."
+1009,AUDIENCE MEMBER,1009,Get off the stage!
+1010,DE LA CRUZ,1010,Orchestra!     A-one-A-two-A-one--
+1011,DE LA CRUZ,1011,"REMEMBER ME, THOUGH I HAVE TO--"
+1012,DE LA CRUZ,1012,Hey!--
+1013,CROWD MEMBER,1013,Look!
+1014,CROWD MEMBER,1014,He's alright!
+1015,MIGUEL,1015,Héctor!    Héctor?!
+1016,HÉCTOR,1016,Coco...
+1017,MIGUEL,1017,No!   We can still find the photo...
+1018,MAMÁ IMELDA,1018,"Miguel, it's almost sunrise!"
+1019,MIGUEL,1019,"No, no, no, I can't leave you. I
 promised I'd put your photo up. I
 promised you'd see Coco!"
-1020,1020,HÉCTOR,1020,"We're both out of time, mijo."
-1021,1021,MIGUEL,1021,"No, no... she can't forget you!"
-1022,1022,HÉCTOR,1022,"I just wanted her to know that I
+1020,HÉCTOR,1020,"We're both out of time, mijo."
+1021,MIGUEL,1021,"No, no... she can't forget you!"
+1022,HÉCTOR,1022,"I just wanted her to know that I
 loved her."
-1023,1023,MIGUEL,1023,Héctor--
-1024,1024,HÉCTOR,1024,"You have our blessing, Miguel."
-1025,1025,MAMÁ IMELDA,1025,No conditions.
-1026,1026,ABUELITA,1026,Where have you been?!
-1027,1027,MIGUEL,1027,"Ah! I need to see Mamá Coco,
+1023,MIGUEL,1023,Héctor--
+1024,HÉCTOR,1024,"You have our blessing, Miguel."
+1025,MAMÁ IMELDA,1025,No conditions.
+1026,ABUELITA,1026,Where have you been?!
+1027,MIGUEL,1027,"Ah! I need to see Mamá Coco,
 please--"
-1028,1028,ABUELITA,1028,"What are you doing with that?     Give
+1028,ABUELITA,1028,"What are you doing with that?     Give
 it to me!"
-1029,1029,ABUELITA,1029,"Miguel!   Stop! Miguel!      Miguel!
+1029,ABUELITA,1029,"Miguel!   Stop! Miguel!      Miguel!
 Miguel!   MIGUEL!"
-1030,1030,MIGUEL,1030,"Mamá Coco?     Can you hear me?   It's
+1030,MIGUEL,1030,"Mamá Coco?     Can you hear me?   It's
 Miguel."
-1031,1031,MIGUEL (CONT'D),1031,"I saw your papá. Remember? Papá?
+1031,MIGUEL (CONT'D),1031,"I saw your papá. Remember? Papá?
 Please -- if you forget him, he'll
 be gone... forever!"
-1032,1032,PAPÁ (O.S.),1032,"Miguel, open this door!"
-1033,1033,MIGUEL,1033,"Here -- this was his guitar, right?
+1032,PAPÁ (O.S.),1032,"Miguel, open this door!"
+1033,MIGUEL,1033,"Here -- this was his guitar, right?
 He used to play it to you? See,
 there he is."
-1034,1034,MIGUEL (CONT'D),1034,"Papá, remember? Papá?"
-1035,1035,PAPÁ (O.S.),1035,Miguel!
-1036,1036,MIGUEL,1036,"Mamá Coco, please, don't forget
+1034,MIGUEL (CONT'D),1034,"Papá, remember? Papá?"
+1035,PAPÁ (O.S.),1035,Miguel!
+1036,MIGUEL,1036,"Mamá Coco, please, don't forget
 him."
-1037,1037,ABUELITA,1037,"What are you doing to that poor
+1037,ABUELITA,1037,"What are you doing to that poor
 woman?"
-1038,1038,ABUELITA,1038,"It's okay, Mamita, it's okay."
-1039,1039,PAPÁ,1039,What's gotten into you?
-1040,1040,PAPÁ,1040,"I thought I'd lost you, Migue..."
-1041,1041,MIGUEL,1041,"I'm sorry, Papá."
-1042,1042,MAMÁ,1042,"We're all together now, that's what
+1038,ABUELITA,1038,"It's okay, Mamita, it's okay."
+1039,PAPÁ,1039,What's gotten into you?
+1040,PAPÁ,1040,"I thought I'd lost you, Migue..."
+1041,MIGUEL,1041,"I'm sorry, Papá."
+1042,MAMÁ,1042,"We're all together now, that's what
 matters."
-1043,1043,MIGUEL,1043,Not all of us...
-1044,1044,ABUELITA,1044,"It's okay, mamita."
-1045,1045,ABUELITA,1045,"Miguel, you apologize to your Mamá
+1043,MIGUEL,1043,Not all of us...
+1044,ABUELITA,1044,"It's okay, mamita."
+1045,ABUELITA,1045,"Miguel, you apologize to your Mamá
 Coco!"
-1046,1046,MIGUEL,1046,Mamá Coco...
-1047,1047,ABUELITA,1047,Well?   Apologize.
-1048,1048,MIGUEL,1048,"Mamá Coco? Your papá -- he wanted
+1046,MIGUEL,1046,Mamá Coco...
+1047,ABUELITA,1047,Well?   Apologize.
+1048,MIGUEL,1048,"Mamá Coco? Your papá -- he wanted
 you to have this."
-1049,1049,PAPÁ,1049,"Mamá, wait--"
-1050,1050,MIGUEL,1050,"REMEMBER ME
+1049,PAPÁ,1049,"Mamá, wait--"
+1050,MIGUEL,1050,"REMEMBER ME
 THOUGH I HAVE TO SAY GOODBYE
 REMEMBER ME
 DON'T LET IT MAKE YOU CRY"
-1051,1051,MAMÁ,1051,Look...
-1052,1052,MIGUEL,1052,"FOR EVEN IF I'M FAR AWAY,
+1051,MAMÁ,1051,Look...
+1052,MIGUEL,1052,"FOR EVEN IF I'M FAR AWAY,
 I HOLD YOU IN MY HEART
 I SING A SECRET SONG TO YOU
 EACH NIGHT WE ARE APART"
-1053,1053,MIGUEL (CONT'D),1053,"REMEMBER ME
+1053,MIGUEL (CONT'D),1053,"REMEMBER ME
 THOUGH I HAVE TO TRAVEL FAR"
-1054,1054,MAMÁ COCO,1054,"Elena?   What's wrong, mija?"
-1055,1055,ABUELITA,1055,Nothing Mamá. Nothing at all.
-1056,1056,MAMÁ COCO,1056,My papá used to sing me that song.
-1057,1057,MIGUEL,1057,"He loved you, Mamá Coco.         Your papá
+1054,MAMÁ COCO,1054,"Elena?   What's wrong, mija?"
+1055,ABUELITA,1055,Nothing Mamá. Nothing at all.
+1056,MAMÁ COCO,1056,My papá used to sing me that song.
+1057,MIGUEL,1057,"He loved you, Mamá Coco.         Your papá
 loved you so much."
-1058,1058,MAMÁ COCO,1058,"I kept... his letters... poems he
+1058,MAMÁ COCO,1058,"I kept... his letters... poems he
 wrote me... and..."
-1059,1059,MAMÁ COCO,1059,"Papá was a musician. When I was a
+1059,MAMÁ COCO,1059,"Papá was a musician. When I was a
 little girl, he and Mamá would sing
 such beautiful songs..."
-1060,1060,TOUR GUIDE (O.S.),1060,"And right over here, one of Santa
+1060,TOUR GUIDE (O.S.),1060,"And right over here, one of Santa
 Cecilia's greatest treasures..."
-1061,1061,TOUR GUIDE (CONT'D),1061,"The home of the esteemed songwriter
+1061,TOUR GUIDE (CONT'D),1061,"The home of the esteemed songwriter
 Héctor Rivera! The letters Héctor
 wrote home for his daughter Coco
 contain the lyrics for all of your
 favorite songs, not just ""Remember
 Me""."
-1062,1062,MIGUEL (O.S.),1062,And that man is your Papá Julio...
-1063,1063,MIGUEL (CONT'D),1063,"...And there's Tía Rosita... and
+1062,MIGUEL (O.S.),1062,And that man is your Papá Julio...
+1063,MIGUEL (CONT'D),1063,"...And there's Tía Rosita... and
 your Tía Victoria... and those two
 are Oscar and Felipe. These aren't
 just old pictures -- they're our
 family -- and they're counting on
 us to remember them."
-1064,1064,MIGUEL (O.S.),1064,"SAY THAT I'M CRAZY
+1064,MIGUEL (O.S.),1064,"SAY THAT I'M CRAZY
 OR CALL ME A FOOL"
-1065,1065,DEPARTURES AGENT,1065,Next!
-1066,1066,DEPARTURES AGENT,1066,"Enjoy your visit, Héctor!"
-1067,1067,MIGUEL (O.S.),1067,"BUT LAST NIGHT IT SEEMED
+1065,DEPARTURES AGENT,1065,Next!
+1066,DEPARTURES AGENT,1066,"Enjoy your visit, Héctor!"
+1067,MIGUEL (O.S.),1067,"BUT LAST NIGHT IT SEEMED
 THAT I DREAMED ABOUT YOU"
-1068,1068,MAMÁ COCO,1068,Papá!
-1069,1069,HÉCTOR,1069,Coco!
-1070,1070,MIGUEL (O.S.),1070,"WHEN I OPENED MY MOUTH
+1068,MAMÁ COCO,1068,Papá!
+1069,HÉCTOR,1069,Coco!
+1070,MIGUEL (O.S.),1070,"WHEN I OPENED MY MOUTH
 WHAT CAME OUT WAS A SONG
 AND YOU KNEW EVERY WORD
 AND WE ALL SANG ALONG"
-1071,1071,MIGUEL (O.S.),1071,"TO A MELODY PLAYED
+1071,MIGUEL (O.S.),1071,"TO A MELODY PLAYED
 ON THE STRINGS OF OUR SOULS
 AND A RHYTHM THAT RATTLED US
 DOWN TO THE BONE
@@ -1835,11 +1835,11 @@ OUR LOVE FOR EACH OTHER
 WILL LIVE ON FOREVER
 IN EVERY BEAT
 OF MY PROUD CORAZÓN"
-1072,1072,MIGUEL,1072,"OUR LOVE FOR EACH OTHER
+1072,MIGUEL,1072,"OUR LOVE FOR EACH OTHER
 WILL LIVE ON FOREVER
 IN EVERY BEAT
 OF MY PROUD CORAZÓN"
-1073,1073,MIGUEL,1073,"AY MI FAMILIA!
+1073,MIGUEL,1073,"AY MI FAMILIA!
 OIGA MI GENTE!
 CANTEN A CORO!
 LET IT BE KNOWN...
@@ -1847,7 +1847,7 @@ OUR LOVE FOR EACH OTHER
 WILL LIVE ON FOREVER
 IN EVERY BEAT
 OF MY PROUD CORAZÓN"
-1074,1074,MIGUEL,1074,"AY MI FAMILIA!
+1074,MIGUEL,1074,"AY MI FAMILIA!
 OIGA ME GENTE!
 CANTEN A CORO!
 LET IT BE KNOWN...

@@ -1,0 +1,2355 @@
+,character,line #,line
+0,VOICE (O.S.),0,Hey.
+1,JACK,1,Hey.
+2,GIRL,2,Whatcha doin' over there?
+3,JACK,3,Gotta go.
+4,GIRL,4,How come?
+5,JACK,5,Job.
+6,GIRL,6,Funny hours.
+7,JACK,7,Funny job.
+8,GIRL,8,Will I see you again?
+9,JACK,9,No.
+10,GIRL,10,"You weren't wearing that, were
+you? Earlier."
+11,JACK,11,Brought it.
+12,GIRL,12,"Shit, thank God.  You look like a creep."
+13,JACK,13,Thanks.
+14,GIRL,14,"I mean, I'd hate to think I'd pick up someone
+who wore that shit."
+15,GIRL,15,Hey.
+16,GIRL,16,You got great hands.
+17,DOORMAN,17,"Hey, Jackie!"
+18,JACK,18,"How goes it, Tommy?"
+19,TOMMY (DOORMAN),19,"Ah, you know. Howsa pooch?"
+20,JACK,20,Losing his teeth.
+21,TOMMY,21,"No shit. It's the goddamn water. Kill an ox.
+I buy bottled for my Danny. You can't trust
+the taps."
+22,JACK,22,Yeah.
+23,JACK,23,"Jesus, you look like fucking
+royalty, Tommy."
+24,TOMMY,24,"Yeah.  The big boys sent it down
+yesterday."
+25,JACK,25,"Another five years, huh?"
+26,TOMMY,26,"Like clockwork.  You got a good
+memory, Jackie."
+27,JACK,27,"It ain't always a blessing.  My
+brother here?"
+28,TOMMY,28,He's got blood in his eye.
+29,FRANK,29,"Great.  Terrific.  Glad you could
+make it."
+30,JACK,30,How we doing?
+31,FRANK,31,"How we ... ? What, are you kidding
+me?"
+32,JACK,32,Am I late?
+33,FRANK,33,That's not the point.
+34,JACK,34,What's the point?
+35,FRANK,35,"You cannot continue to walk in at
+the last moment, Jack."
+36,JACK,36,"You want me to show up late a few
+nights?"
+37,FRANK,37,Jack.
+38,JACK,38,Frank.
+39,FRANK,39,Jack.
+40,JACK,40,"Frank.  I'm here.  I always get
+here.  Don't sweat it."
+41,FRANK,41,"Christ, will you look at your hair?"
+42,JACK,42,What's wrong with it?
+43,FRANK,43,"You look like you just crawled out
+of bed."
+44,JACK,44,"No one's gonna be looking at my
+hair.  Come on, we're on."
+45,JACK,45,"Careful, Frank.  When you get angry your
+tie starts to spin."
+46,FRANK,46,"Thank you.  Thank you.  Good evening and welcome
+to the Starfire lounge.  My name is Frank Baker
+and eighty-eight keys across from me is my
+little brother, Jack."
+47,FRANK,47,"You know, my brother and I have been playing
+together, gosh, I don't know.  How long has it
+been, Jack?"
+48,JACK,48,"Twenty-eight years, Frank."
+49,FRANK,49,"That's a lot of water under the
+bridge, eh, Jack?"
+50,JACK,50,Lotta water.
+51,FRANK,51,"Of course, back then, things were a little
+different.  I was eight, Jack was seven, just
+about the only song we knew was 'My Bonnie
+Lies Over the Ocean', and the only one who would
+listen to us was the family cat, Cecil."
+52,FRANK,52,"We must have shaved three lives off that cat,
+eh, Jack?"
+53,FRANK,53,"But seriously.  It's been fifteen years since
+Jack and I first stepped on the stage as
+professionals. Three states, sixty-eight cities,
+and more-grayhairs-then-we'd-like-to-admit later...
+well, believe me, we've seen our share of this
+crazy country of ours.  But even though we've
+played some of the finest venues in the world ..."
+54,FRANK,54,"... There's one place that's always been, for us,
+a very special place, and that place is... this
+place, the Starfire lounge."
+55,FRANK,55,"Why?  Well, I guess you could just say it's
+the ..."
+56,FRANK,56,... people.
+57,FRANK,57,"Thank you.  Remember, room service is available"
+58,FRANK,58,"Don't make trouble, all right?"
+59,JACK,59,Who's gonna make trouble?
+60,JACK,60,"Hey, amigo!"
+61,MAN,61,Jack!
+62,MAN,62,Frank.
+63,FRANK,63,"Yeah, hi, Hector."
+64,HECTOR (MAN),64,For Eddie.  I wrap.
+65,JACK,65,Gracias.
+66,FRANK,66,"I mean it, Jack.  Behave."
+67,JACK,67,Like an angel.
+68,LLOYD (YOUNG MAN),68,"Terrific, boys.  Really.  Terrific."
+69,FRANK,69,"Thanks, Lloyd."
+70,LLOYD,70,"Yes, sir.  You're just what we needed on a night
+like this."
+71,FRANK,71,Uh ... thanks.
+72,LLOYD,72,"Only, Jack, do me a favor, will ya, pal?  If you
+wanna smoke, put on a pair of sunglasses and go
+play with the niggers on State Street.  These
+blisters from the midwest don't wanna watch some
+guy dripping ash all over himself while he's
+playing 'The Sound of Music.'"
+73,LLOYD,73,"Okay, boys, that ought to buy you a few more"
+74,FRANK,74,Uh ... You don't know when you'll be wanting us
+75,LLOYD,75,I'll call you.
+76,FRANK,76,"Uh, well, you know, the way our schedule is, I"
+77,LLOYD,77,I'll call you.
+78,JACK,78,Count it.
+79,FRANK,79,Huh?
+80,JACK,80,Count it.
+81,FRANK,81,Jack...
+82,JACK,82,"Count the fucking money, Frank."
+83,FRANK,83,It's all here.
+84,FRANK,84,"I'll be talking to you, Lloyd."
+85,FRANK,85,"You mind telling me what that was about in there?
+Was that planned?
+Or were you just bored and decided
+to get creative?"
+86,JACK,86,Fuck him.
+87,FRANK,87,"This isn't the Pine Tree Inn on
+Route 81, Jack."
+88,JACK,88,Fuck him.
+89,FRANK,89,Fuck him.  Great.  Terrific.  Fuck him.
+90,JACK,90,So we on tomorrow night?
+91,FRANK,91,"Maybe Thursday.  I hear the harpist at the
+Sheraton's got appendicitis."
+92,FRANK,92,Hey.
+93,FRANK,93,"Listen ... why don't you come out to the house
+this weekend.  Say hello to the kids.
+They've grown."
+94,JACK,94,"I hate your kids, Frank."
+95,FRANK,95,You're their uncle.
+96,JACK,96,"Only by relation.  Besides, they hate me, too."
+97,FRANK,97,They don't.  They're always asking about you.
+98,JACK,98,"They tried to electrocute me, Frank."
+99,FRANK,99,It was an accident.
+100,JACK,100,"It was no fucking accident, Frank. The little
+one ..."
+101,FRANK,101,Cindy.
+102,JACK,102,"She threw a goddamn radio into the bathtub.
+How do you explain that?"
+103,FRANK,103,"She didn't know what she was doing.
+You're too sensitive."
+104,JACK,104,"You got weird kids, Frank."
+105,FRANK,105,"Look, I just thought if you came out you might
+see what you're missing."
+106,FRANK,106,"Just think about it, all right?
+Consider it a standing offer."
+107,FRANK,107,"You want a ride, Jack?  No, Frank,
+I'll walk.  Okay, Jack, good night.
+Good night, Frank."
+108,JACK,108,"Hi, pal.  Thought you were gonna clean the
+apartment."
+109,JACK,109,"Take it easy, will ya?  You're becoming a regular
+Johhny Appleseed the way you're dropping teeth
+around here."
+110,FRANK,110,"What happened to the two Clays, Willie?"
+111,WILLIE,111,Out.
+112,FRANK,112,When they coming in?
+113,WILLIE,113,"Wednesday next.
+Frank looks across the room at Jack."
+114,FRANK,114,"What d'ya got?,"
+115,JACK,115,Bosen black.
+116,JACK,116,Flat.
+117,FRANK,117,"What d'you say, Willie?  Tighten her up?"
+118,WILLIE,118,What's the gig?
+119,FRANK,119,Two nights.
+120,FRANK,120,What d'ya got?
+121,JACK,121,Yamaha white.  Nice.
+122,FRANK,122,What do you think?
+123,JACK,123,Try the black Knable.
+124,FRANK,124,"Tag 'em, Willie.  The Regency downtown,
+Thursday-Friday.  Thanks."
+125,WILLIE,125,My pleasure.
+126,FRANK,126,"You know, I think it's been five years since I
+saw you eat anything. That's the God's truth."
+127,JACK,127,"Trust me, you're not missing anything."
+128,FRANK,128,You look awful.
+129,JACK,129,Thanks.
+130,FRANK,130,Really.  You sleeping?
+131,JACK,131,Only on odd days.
+132,FRANK,132,Seeing anyone in particular?
+133,JACK,133,Why the interest?
+134,FRANK,134,"Because I'm your brother.  Because I care about
+you. Because sometimes it seems like the most
+significant relationship in your life is with
+that goddamn dog of yours."
+135,JACK,135,I'm not seeing anyone.  In particular.
+136,FRANK,136,What about that waitress at the Ambassador?
+137,JACK,137,Uh-uh.  How about you?  You seeing anyone?
+138,FRANK,138,Funny.
+139,FRANK,139,Strike a bell?
+140,JACK,140,It's only a ring.  Not a collar.
+141,FRANK,141,It's more than that.
+142,FRANK,142,"By the way, we gotta go see Ma tomorrow."
+143,JACK,143,No thanks.
+144,FRANK,144,"No, I mean it."
+145,JACK,145,So do I.
+146,FRANK,146,"We gotta go, Jack."
+147,JACK,147,"No, you gotta go 'cause if you don't get up
+there every couple weeks you feel guilty.
+I won't feel guilty, so I don't gotta go."
+148,FRANK,148,This time you gotta go.
+149,JACK,149,I don't gotta go.
+150,FRANK,150,You gotta go.
+151,JACK,151,Says who?
+152,FRANK,152,Your older brother.
+153,JACK,153,"You're thirteen months older than me, Frank.
+That might've meant something in the Apache
+clubhouse, but it don't cut too deep anymore."
+154,FRANK,154,"Christ, Jack, it's her birthday."
+155,FRANK,155,"So what do you say?
+Think the city can spare you for an afternoon?"
+156,FRANK,156,"Okay.  And don't worry about a present.
+I got her something from both of us."
+157,FRANK,157,Make sure you lock.
+158,FRANK,158,"Place looks good, huh?  I got a neighbor boy to
+mow the lawn, pick up. Five bucks.
+Times've changed, huh?"
+159,FRANK,159,"See the tree?
+Remember the job Cecil did on it the day
+Dad planted it?
+You can still see the scars on the trunk.  Really.
+I was looking at it just the other day.
+Jesus, I thought he was gonna kill that cat."
+160,JACK,160,So what'd we get her?
+161,FRANK,161,You'll see.
+162,MRS. BAKER,162,"Well, if it isn't the fabulous Baker Boys!"
+163,FRANK,163,How's the birthday girl?
+164,MRS. BAKER,164,"A little stiffer, but just as sturdy."
+165,MRS. BAKER,165,John.  It's good to see you.
+166,JACK,166,"Good to see you, Ma."
+167,FRANK,167,"Uh, Ma, you know, no one calls him that anymore.
+Jack. He goes by Jack."
+168,MRS. BAKER,168,I thought maybe held gotten over that.
+169,FRANK,169,"Twenty years, Ma ..."
+170,MRS. BAKER,170,"Yes, yes.  It's just that John is so much nicer.
+Jack sounds so ... crude. When I was a little girl,
+we had a pig on the farm named Jack.
+I guess I just can't help making the association."
+171,FRANK,171,"Uh ... yeah, well, you know, Ma,
+John Kennedy went by Jack."
+172,MRS. BAKER,172,"Catholics.  What do you expect?
+Oh, well, what's in a name, right?
+Let's go inside and have a look at that cake."
+173,FRANK,173,"Keep her busy, will ya?
+I have to set a few things up."
+174,MRS.  BAKER,174,"Well, now, where's everyone run off to?
+Frank?"
+175,JACK,175,Downstairs.
+176,MRS. BAKER,176,Oh.
+177,MRS. BAKER,177,"Well, shall we cut that cake?"
+178,MRS. BAKER,178,So. How are you?
+179,JACK,179,Fine.  You?
+180,MRS. BAKER,180,"Oh, fine."
+181,MRS. BAKER,181,Big piece or little?
+182,JACK,182,"Huh? Oh, no."
+183,MRS. BAKER,183,None?
+184,JACK,184,I'm not much for sweets.
+185,MRS. BAKER,185,How's that dog of yours?  What was his name?
+186,JACK,186,Eddie.
+187,MRS. BAKER,187,Yes.  Right.  Eddie.  How is he?
+188,JACK,188,He's losing his teeth.
+189,MRS. BAKER,189,Sounds like your brothers back with us.
+190,MRS. BAKER,190,What's all this?
+191,FRANK,191,Go on.
+192,MRS.  BAKER,192,"Why, what's this?"
+193,MRS. BAKER,193,Oh my God ...
+194,FRANK,194,Recognize these two characters?
+195,MRS. BAKER,195,"I thought these were lost.
+Where did you find ..."
+196,FRANK,196,In the attic.  Behind some of Dad's stuff.
+197,FRANK,197,"Look, Jack can hardly reach the pedals."
+198,MRS. BAKER,198,Oh no!
+199,FRANK,199,"I had a boy down at the camera shop cut them
+all together.  Boy, old man Henderson didn't
+fool around when he gave a haircut, did he, Jack?"
+200,MRS. BAKER,200,"Oh, look at you two.  So skinny.
+And those tiny suits ..."
+201,FRANK,201,Wait.  Watch.  Here comes Dad.
+202,MRS. BAKER,202,That man.
+203,MRS.  BAKER (O.S.),203,"Oh, look how you're growing.
+My little boys ..."
+204,JACK,204,I made her nervous.
+205,FRANK,205,What do you mean?
+206,JACK,206,Her hands.  Like that.
+207,FRANK,207,Nah.  Medication.
+208,FRANK,208,"Couple years, now."
+209,FRANK,209,Keeps the beat steady.  Nothing serious.
+210,FRANK,210,She was glad to see you.
+211,NINA,211,Morning.  You want coffee?  I made coffee.
+212,NINA,212,I did the dishes last night. You're missing a cup.
+213,NINA,213,"Did you break a cup, Jack?"
+214,JACK,214,Eddie did.
+215,NINA,215,"I practiced the piano last night.  Two hours.
+I think I'm ready for 'Jingle all the way.'"
+216,NINA,216,Guess they're up.
+217,JACK,217,Sounds big.  What's he do?
+218,NINA,218,"Process server.
+Ma said it's like a lawyer only the hours
+are more regular.  All I know's he came to take
+the TV one afternoon and ended up staying for
+dinner.  And breakfast."
+219,JACK,219,What happened to the donut king?
+220,NINA,220,Married.
+221,NINA,221,No breakfast.  Maybe they had a fight.
+222,NINA,222,"Well, gotta go.  Teach me later?"
+223,JACK,223,Hey.
+224,FRANK,224,"Uh, thank you.  That concludes our show for this
+evening.  Jack and I only hope you enjoyed
+yourselves as much as we did."
+225,BELLHOP,225,Mr. Baker.
+226,FRANK,226,"Yeah, Jimmy."
+227,JIMMY (BELLHOP),227,Mr. Simpson asked to see you.
+228,FRANK,228,"All right, tell him I'll be right there."
+229,FRANK,229,Tomorrow we close with the 'Aquarius Suite.'
+230,FRANK,230,"Frank pauses before a door marked ""HOTEL MANAGER.""
+It's half-open.  Inside, CHARLIE SIMPSON,
+a heavy man in a shiny suit,
+is throwing darts in the general direction of a
+dartboard.  He's not very good.  Frank knocks."
+231,CHARLIE,231,Frankie.
+232,FRANK,232,"You wanted to see me, Charlie?"
+233,CHARLIE,233,"Yeah, come on in."
+234,FRANK,234,Little slow tonight.
+235,CHARLIE,235,Mondays.
+236,FRANK,236,What's this?
+237,CHARLIE,237,Your pay.
+238,FRANK,238,Now?  Why not tomorrow?  After the show.
+239,CHARLIE,239,Take it now.
+240,FRANK,240,What about tomorrow?
+241,CHARLIE,241,"We don't need you, Frankie."
+242,FRANK,242,"I've got the grands for two nights,
+Charlie.  You can't just --"
+243,CHARLIE,243,It's all there.  Both nights.
+244,FRANK,244,"What're you saying, Charlie?"
+245,CHARLIE,245,"Look, Frankie.  You and Jack been
+playing here, a long time."
+246,FRANK,246,Twelve years.
+247,CHARLIE,247,"Right, twelve years.  Couple times
+a month."
+248,FRANK,248,So?
+249,CHARLIE,249,"So maybe it's time we took a vacation from
+each other."
+250,FRANK,250,"Vacation?  Christ, Charlie, it's a Monday night.
+You said so yourself."
+251,CHARLIE,251,"It wasn't half full out there tonight, Frankie.
+I got six waiters standing in back listening
+to baseball.  I gotta move the liquor.
+To move the liquor, I gotta fill the tables.
+It's a matter of economics.  Me, I love you.
+I love both you guys, you know that.
+You're class.  But people today.
+They don't know class if it walks up and
+grabs 'em by the balls."
+252,JACK,252,What's with Charlie?
+253,FRANK,253,"Nothing.  Everything's great.
+Terrific."
+254,JACK,254,Yeah?
+255,FRANK (V.0.),255,It's me.
+256,JACK,256,Frank?
+257,FRANK (V.0.),257,"Yeah.  Listen ... come out to the
+house tomorrow, will ya?"
+258,JACK,258,"I've had enough family for one
+month, Frank."
+259,FRANK (V.0.),259,It's not family.  It's business.
+260,JACK,260,"So talk to me tomorrow.  After
+the gig."
+261,FRANK (V.0.),261,We don't get a gig.
+262,JACK,262,What're you talking about?
+263,FRANK (V.0.),263,"Something came up.  Don't worry,
+Charlie stayed true.  Both nights.
+I'll give you your share tomorrow.
+At the house."
+264,FRANK (V.0),264,"So you'll come out, right?"
+265,JACK,265,"Yeah, okay."
+266,JACK,266,"Hey, kids.  Dad home?"
+267,JACK,267,"What d'ya say?  Wanna run and get
+him for me?"
+268,JACK,268,Shit.
+269,JACK,269,"Hey, kid.  Take it easy."
+270,FRANK,270,Cindy!  What is it?
+271,FRANK,271,Jack.
+272,JACK,272,Your doorbell doesn't work.
+273,FRANK,273,"Honey, it's only Uncle Jack.  You
+remember Uncle Jack."
+274,DONNA,274,What's the matter?  Jack?
+275,FRANK,275,"Nothing's the matter. Is it, sweetheart?"
+276,DONNA,276,"I'll take her inside.  You too,
+little Frank.  Out of the pool."
+277,FRANK,277,Feet!
+278,FRANK,278,"It's probably the excitement of
+seeing you again."
+279,FRANK,279,"Well, look at this."
+280,DONNA,280,"You bring trunks, Jack?"
+281,JACK,281,Trunks?
+282,DONNA,282,Swimming trunks.
+283,JACK,283,Oh. No. Strictly dryland.
+284,DONNA,284,"Too bad.  You could use some sun.
+Really."
+285,JACK,285,Maybe next time.
+286,DONNA,286,We have some lotion.
+287,JACK,287,Just the same.
+288,DONNA,288,Suit yourself.
+289,FRANK,289,"Nice, huh?"
+290,JACK,290,What?
+291,FRANK,291,The trees.  The flowers.  Nice.
+292,JACK,292,Terrific.
+293,FRANK,293,"Yeah ... we're gonna paint in the spring.
+After the rains.  Look good as new."
+294,JACK,294,"You ask me out here to sell me
+your house, Frank?"
+295,JACK,295,"Charlie paid you off last night,
+didn't he?"
+296,FRANK,296,I don't know what you mean.
+297,JACK,297,The hell you don't.
+298,FRANK,298,"I told you.  Something came up.
+Some political dinner or something."
+299,JACK,299,"Bullshit.  Fifteen years, Frank.
+No one paid us off."
+300,FRANK,300,It wasn't like that.
+301,JACK,301,No?
+302,FRANK,302,No.
+303,JACK,303,What was it like?
+304,FRANK,304,"Hey pal, I got a mortgage, all right?
+I got two kids. I got a wife.
+Besides, he made the deal.
+There's no shame in it."
+305,JACK,305,That how you see it?
+306,FRANK,306,"Yeah, that's how I see it."
+307,FRANK,307,"And don't go shaking your head, little brother.
+I'm not the one who walks in every night smelling
+like he's got a day job in a piss factory."
+308,FRANK,308,"It killed him, you know."
+309,JACK,309,A gust of wind killed him.
+310,FRANK,310,"Yeah, and what put him up there?"
+311,JACK,311,"Hey, you weren't there.  Right?"
+312,FRANK,312,"Look, can we forget last night?
+We gotta talk."
+313,JACK,313,Talk.
+314,FRANK,314,"I been thinking maybe we should
+make some changes."
+315,FRANK,315,"I been thinking maybe we should
+take on a singer."
+316,JACK,316,"Sure, why not."
+317,FRANK,317,"It's just an idea.  I want your opinion.
+I mean, we go halfway on everything, right?"
+318,JACK,318,"It's more like 40-60, wouldn't
+you say?"
+319,FRANK,319,"We agreed that if I took care of the business;
+I'd be entitled to the extra.
+Isn't that what we agreed?"
+320,JACK,320,That's what we agreed.
+321,FRANK,321,"If you're unhappy with the
+arrangement --"
+322,JACK,322,I'm not unhappy.
+323,FRANK,323,"If you'd like to assume more of the financial
+responsibilities, I'd be glad --"
+324,JACK,324,Frank.  Fuck it.  Okay?
+325,FRANK,325,"I've tried to do well by you, Jack.
+By both of us."
+326,JACK,326,"I'm grateful, Frank.  How much?
+For the singer."
+327,FRANK,327,"I thought maybe twenty percent.
+Look, with the additional bookings we'll
+come out ahead.  The big hotels,
+they want a pretty girl with a big voice.
+We have to stay competitive, Jack."
+328,FRANK,328,What's that?
+329,JACK,329,"You, Frank.  All these years you been telling me
+we're different.  We got novelty, Jack.
+No one can touch us."
+330,FRANK,330,"Two pianos isn't enough anymore,
+Jack."
+331,JACK,331,It never was.
+332,FRANK,332,"Good morning, Miss...?"
+333,YOUNG WOMAN,333,Moran.  Monica Moran.
+334,FRANK,334,"All right, Miss Moran"
+335,MONICA (YOUNG WOMAN),335,"Actually, that's my stage name."
+336,FRANK,336,I'm sorry?
+337,MONICA,337,"Moran.  Monica.  The whole thing.
+It's my stage name.  My real name's Blanche."
+338,FRANK,338,Blanche.
+339,MONICA,339,"No romance, right?  That's why I came up with
+Monica. It's what I prefer."
+340,FRANK,340,"Well, that's fine --"
+341,MONICA,341,"But if you call my house and my mother answers,
+ask for Blanche.  If you ask for Monica, she'll
+think you have the wrong number and hang up."
+342,FRANK,342,Right.
+343,MONICA,343,"And if she asks what it's about, don't tell her.
+She's opposed to my career."
+344,FRANK,344,"Uh-huh.  Well, Miss Moran, what
+is it you'd like to do for us?"
+345,MONICA,345,Candy Man.'
+346,MONICA,346,Is that all right?
+347,FRANK,347,It's one of Jack's favorites.
+348,MONICA,348,"Oops.  I almost forgot you were
+there.  Here's the music."
+349,FRANK,349,Uh... he knows it.
+350,MONICA,350,Really?  Isn't that a coincidence.
+351,JACK,351,Small world.
+352,FRANK,352,"Well, shall we?"
+353,MONICA,353,"Who can take a sunrise
+Sprinkle it with dew
+Toss it in the air and
+Make a groovy lemon pie
+The Candy Man can
+The Candy Man can...,"
+354,FRANK,354,"Thank you, Miss Moran, that's enough."
+355,FRANK,355,"Miss Moran ... Miss Moran ...
+Blanche!"
+356,MONICA,356,"Oh, sorry.  I get so caught up in
+it sometimes.  It's scary."
+357,FRANK,357,"Yes, it is."
+358,MONICA,358,Well ... thanks.
+359,MONICA,359,Bye.
+360,JACK,360,Drive carefully.
+361,WOMAN,361,"Hey.  You one of the fabulous
+Baker Boys?"
+362,FRANK,362,Thirty-seven.  Thirty-seven.
+363,JACK,363,What?
+364,FRANK,364,"Thirty-seven girls.
+And not one who can carry a tune.
+That must be statistically impossible."
+365,JACK,365,"It was a somewhat extraordinary
+day."
+366,FRANK,366,"I just don't understand.  You
+would think someone ... anyone ..."
+367,WOMAN (O.S.),367,Damn!
+368,WOMAN,368,"Brand new Thursday.  You believe
+it?"
+369,WOMAN,369,This where the auditions are?
+370,FRANK,370,This is where the auditions were.
+371,WOMAN,371,What do you mean?
+372,FRANK,372,We're finished.
+373,WOMAN,373,What about me?
+374,FRANK,374,You're an hour and a half late.
+375,WOMAN,375,"My watch is broken, too."
+376,FRANK,376,"Punctuality.  First rule of show
+business."
+377,WOMAN,377,This is show business?
+378,FRANK,378,"Look, miss.  We're tired,
+you have gum on your lip, and we're going home."
+379,WOMAN,379,"Just like that, huh?  You're not
+even gonna give me a chance?"
+380,FRANK,380,Don't take it personally.
+381,WOMAN,381,How should I take it?
+382,FRANK,382,Impersonally.
+383,WOMAN,383,"I don't believe it.  I come all the way down down
+here, break a heel, and you're not gonna give me
+a chance because I have gum on my lip and I'm a
+few minutes late."
+384,FRANK,384,You're an hour and a half late.
+385,WOMAN,385,So if I'm so 'late how come you're still here?
+386,FRANK,386,We ran long.
+387,WOMAN,387,So run a little longer.
+388,FRANK,388,Miss --
+389,WOMAN,389,You find a girl?
+390,JACK,390,No.
+391,WOMAN,391,"So. I'm here, you're here, the
+piano's here.  What d'ya say?"
+392,FRANK,392,Terrific.  Thirty-eight.
+393,WOMAN,393,What's that mean?  Thirty-eight.
+394,JACK,394,Don't worry about it.
+395,WOMAN,395,"You know, I'm feeling a lot of
+hostility from you."
+396,FRANK,396,Jack.
+397,JACK,397,Let's get it over with.
+398,FRANK,398,All right.  What's your name?
+399,WOMAN,399,Susie.  Susie Diamond.
+400,FRANK,400,"Catchy.  You have any previous entertainment
+experience, Miss Diamond?"
+401,SUSIE (WOMAN),401,"Well ... for the last four years
+I've been on call to Triple A
+Escort service."
+402,SUSIE,402,"Hey, it's legit.  Strictly dinner
+and dance."
+403,FRANK,403,"Okay.  I think that's all we
+need to know."
+404,SUSIE,404,I sing now?
+405,FRANK,405,That's the premise.
+406,SUSIE,406,"I Get Along Without You.' Slowly,
+okay?"
+407,SUSIE,407,"I get along without you very well
+Of course I do
+Except when soft rains fall
+And drip from leaves, then I recall
+The thrill of being
+Sheltered in your arms
+Of course I do
+But I get along without you very well.'"
+408,SUSIE,408,So?
+409,FRANK,409,Uh ... we'll let you know.
+410,SUSIE,410,When?
+411,FRANK,411,When we know.
+412,SUSIE,412,"Don't leave a girl hanging.
+Second rule of show business."
+413,SUSIE,413,"Yeah, well, okay.  'Bye, Bakers."
+414,JACK,414,"What are you, crazy?"
+415,FRANK,415,"I just thought we should talk
+about it.  Between ourselves."
+416,JACK,416,"What's there to talk about?  She can sing.
+That puts her at the head of the class.
+That makes her the only one in the class."
+417,FRANK,417,"I don't know ... She had gum on her lip,
+for Christ sake.
+I don't think she's right for the act."
+418,JACK,418,"You're getting cold feet about
+this."
+419,FRANK,419,"I was just thinking what Ma would
+think."
+420,JACK,420,"Ma? Ma?  Was Ma there the last time we played the
+Ambassador?  Oh, that's right, she was on bass.
+How could I forget."
+421,JACK,421,"How many other silent partners are there, Frank?
+Donna?  Little Cindy?
+Hell, let's give Eddie a vote."
+422,FRANK,422,"Okay, okay.  I'll call the girl."
+423,JACK,423,What's the matter?
+424,FRANK,424,I didn't get her number.
+425,FRANK,425,"We can always look her up in the
+book.
+JACK.
+Right.  Susie Diamond.  She's probably listed right
+next to Monica Moran."
+426,WOMAN (O.S.),426,Does this mean I get the job?
+427,SUSIE,427,Intuition.
+428,FRANK,428,Ready?
+429,FRANK,429,Ready?
+430,FRANK,430,Ready?
+431,FRANK,431,Ready?
+432,SUSIE,432,"What are we, an orchestra all of
+a sudden?"
+433,SUSIE,433,Sorry.
+434,SUSIE,434,"Fellas, fellas ..."
+435,FRANK,435,What's the problem?
+436,SUSIE,436,"The problem is I can't hear myself
+sing with all this..."
+437,SUSIE,437,... music.  You know what I'm saying?
+438,SUSIE,438,"I mean, back there it may be hard to notice,
+but up here I'm having a little trouble
+getting a word in."
+439,SUSIE,439,"I mean, you're supposed to be
+backing me up, right?"
+440,FRANK,440,"No. We are not supposed to be
+backing you up."
+441,SUSIE,441,What I mean is --
+442,FRANK,442,We're a team.  We work together.
+443,SUSIE,443,"So work with me, not against me.
+Okay?"
+444,FRANK,444,"I suppose we can bring it down a
+little."
+445,JACK,445,I'll drop the eighths.
+446,FRANK,446,Okay?
+447,SUSIE,447,Okay.
+448,FRANK,448,"I'm telling you, Ray.  She's got
+a voice like an angel ... What?"
+449,FRANK,449,"No, I wouldn't say she's got a
+body like an angel."
+450,SUSIE,450,"Hey, he's not sore, is he?"
+451,JACK,451,He'll come around.
+452,JACK,452,You never sang before?
+453,SUSIE,453,Not for money. With my mother.
+454,SUSIE,454,"She used to waitress downtown, nights,
+when I was a kid.  On the way home, we'd sing.
+You know how people whistle when they're nervous?
+My mother sang.  She always said you're never alone
+with a song 'cause thousands of people know the
+same song and even though you can't hear 'em,
+they're singing with you.  I don't know.
+If they were, they were all singing safe inside
+their apartments."
+455,SUSIE,455,"But it worked.  We always got home.  Ever since,
+I always wanted to sing.
+I never took lessons or anything, though.
+I guess you guys took a lot of lessons."
+456,JACK,456,Yeah.  We took a lot of lessons.
+457,NINA,457,"You shave like an old movie, Jack."
+458,JACK,458,"In the old days, every man had a shaving mug that
+he kept at the barber shop.  Then, whenever he
+wanted a shave, held go down to the barber shop
+and there would be his mug, waiting for him."
+459,NINA,459,Is that what you used to do?
+460,JACK,460,"My days are not the old days,
+genius."
+461,NINA,461,What are they?
+462,JACK,462,The recent past.
+463,NINA,463,Oh.
+464,NINA,464,Bigfoot gets his out of a can.
+465,JACK,465,How do you know?
+466,NINA,466,I saw his stuff in the bathroom.
+467,JACK,467,Oh?
+468,NINA,468,I guess it's getting serious.
+469,JACK,469,"Maybe he'll ask your ma to marry
+him."
+470,NINA,470,"I hope not.  He's already busted the springs
+in two chairs.  Hey, what's this?"
+471,JACK,471,Ivory.
+472,NINA,472,Looks old.
+473,JACK,473,Older than me.
+474,NINA,474,Wow.
+475,JACK,475,"Hey, what do you want to do?  Grow
+a beard?"
+476,NINA,476,Why not?
+477,JACK,477,"Well, let's get your first prom
+under the belt, okay?"
+478,NINA,478,What's a prom?
+479,JACK,479,Ever go to church?
+480,JACK,480,"It's like that.  Only you gotta
+dance."
+481,FRANK,481,Where the hell is she?
+482,JACK,482,It's early.
+483,FRANK,483,"I told everyone seven-fifteen.
+Didn't I? Seven-fifteen."
+484,JACK,484,She'll get here.
+485,FRANK,485,"Just like the day of the auditions,
+right?  Jesus.  How's my hair?"
+486,JACK,486,Awe inspiring.
+487,FRANK,487,"Yeah, well, Your's isn't."
+488,FRANK,488,Let me run a comb though it.
+489,JACK,489,Get out of here.
+490,FRANK,490,"Come on, stand still."
+491,JACK,491,Get out of here!
+492,FRANK,492,It's not gonna hurt you.
+493,JACK,493,"I'll hit you, Frank.  I swear."
+494,FRANK,494,You hit me.
+495,JACK,495,I told you I was gonna hit you.
+496,FRANK,496,"All right, all right.  I'm a little
+tense."
+497,JACK,497,You're a fucking alarm clock.
+498,FRANK,498,"I just wish she'd get here, that's
+all."
+499,JACK,499,She's here.
+500,FRANK,500,"Christ, look at her. You'd think if she was gonna
+wear her street clothes she'd have enough sense
+to come in the back."
+501,FRANK,501,"Good evening, Miss Diamond.  You're late."
+502,SUSIE,502,Where's my name?
+503,FRANK,503,What-?
+504,SUSIE,504,"And how come you guys are the only ones with
+your pictures on the poster?"
+505,FRANK,505,"We'll talk about it later.  Right
+now, you gotta get changed."
+506,SUSIE,506,Changed?
+507,FRANK,507,Where's your dress?
+508,SUSIE,508,What's he talking about?
+509,FRANK,509,"Is there a language problem here?  Your dress.
+For tonight.  Where is it?"
+510,SUSIE,510,Do I look like I'm naked?
+511,FRANK,511,That!  You can't wear that!
+512,SUSIE,512,What's wrong with it?
+513,FRANK,513,It's orange!
+514,SUSIE,514,Am I missing something?
+515,FRANK,515,Come on.
+516,SUSIE,516,Hey!
+517,FRANK,517,Come on.  We don't have much time.
+518,SUSIE,518,Time for what?
+519,SUSIE,519,"If you ask me, this is pretty
+stupid."
+520,FRANK,520,"Just look.  What do you wear?
+A nine?"
+521,SUSIE,521,A seven.
+522,FRANK,522,"My wife wears a seven.  You don't
+look like a seven to me."
+523,SUSIE,523,I wear a seven.
+524,FRANK,524,"Okay, okay.  Here, how about this?"
+525,SUSIE,525,Save it for your wife.
+526,FRANK,526,"We're not exactly silly with time,
+you know.  Jack, you find anything?"
+527,JACK,527,No.
+528,FRANK,528,"Here, how's this?"
+529,FRANK,529,Close enough.  Let's go.
+530,SUSIE,530,"Hey, pal.  I don't know about you, but where I
+come from there's a little girl's room and a
+little boy's room and the little boys don't go
+where the little girls go."
+531,FRANK,531,"All right, but make it quick."
+532,FRANK,532,Shoes!  What size do you wear?
+533,SUSIE,533,Nine.
+534,FRANK,534,Nine?
+535,SUSIE,535,Nine!
+536,FRANK,536,Big feet.
+537,FRANK,537,See anything?
+538,JACK,538,How about these?
+539,FRANK,539,"Jack, for crying out loud.  Your
+bachelorhood's showing."
+540,FRANK,540,"Ah, here we go."
+541,FRANK,541,Hey!  Do these come in black?
+542,SALESMAN,542,"I'll be with you in a minute, sir."
+543,FRANK,543,"I don't have a minute, pal.  Yes
+or no?"
+544,SALESMAN,544,Yes.  They come in black.
+545,FRANK,545,"Okay.  Give me a pair of nines.
+Pronto."
+546,SALESMAN,546,"Does he want a pair, too?"
+547,FRANK,547,"All right, we got your shoes."
+548,SUSIE,548,What do you think?
+549,FRANK,549,Uh... good.
+550,SUSIE,550,Zip me up?
+551,SUSIE,551,Shoes?
+552,FRANK,552,Right.
+553,SUSIE,553,They're tight.
+554,FRANK,554,They're nines.
+555,SUSIE,555,"Well, they're aspiring to be
+sevens."
+556,FRANK,556,You can buy new ones tomorrow.
+557,SUSIE,557,"Oh, thanks."
+558,FRANK,558,"Don't worry.  We'll take it out
+of your share."
+559,SUSIE,559,You're a prince.
+560,RAY,560,"You better buy yourself a watch,
+Frankie."
+561,FRANK,561,We had a little emergency.
+562,RAY,562,"Yeah, well, I've got a little emergency.
+You know what I'm saying?"
+563,RAY,563,"Who's this, Minnie Pearl?"
+564,FRANK,564,Jesus.
+565,RAY,565,"I want seventy-five minutes, Frankie.
+You hear me?"
+566,JACK,566,"This is going well, isn't it?"
+567,FRANK,567,"We need scissors over here!
+Who's got scissors?"
+568,FRANK,568,"Okay, remember.  Jack and I go on first,
+I do the set-up, then introduce you.
+And you say ..."
+569,SUSIE,569,"Good evening, ladies and gentlemen.
+I can't tell you how thrilled I am to be here.
+It's like a dream come true.
+And speaking of dreams ..."
+570,FRANK,570,Right.
+571,SUSIE,571,Piece of cake.
+572,FRANK,572,"Carlos, that's,a cleaver.  I need
+scissors."
+573,CARLOS (MAN),573,No scissors.
+574,FRANK,574,"Jesus Christ.  All right.  Let's
+go, Jack.  Fix your tie."
+575,FRANK,575,"Good evening, ladies and gentlemen.
+Welcome to the Ambassador Lounge.
+My name's Frank Baker and no, you're not
+seeing double, it's just my
+little brother, Jack."
+576,FRANK,576,"I'm glad you're all in such a good mood tonight,
+because we've got a very special
+evening planned ..."
+577,WAITRESS,577,Hey!
+578,SUSIE,578,"Just a sip.  To kill the
+butterflies, okay?"
+579,WAITRESS,579,Okay.  But no lipstick.
+580,SUSIE,580,There.  No one's the wiser.
+581,WAITRESS,581,Nice dress.
+582,SUSIE,582,"Appreciate it, Ace."
+583,FRANK,583,"But seriously, folks, as I sit here tonight,
+looking out on all your kind faces, I can't help
+but feel some of us have met before.  We may not
+know each other's names, we might not recognize
+one another on the street, but we know each other
+just the same.  And over the years we've shared
+something.  A little music, a little drink,
+a little laughter, maybe even... a few tears.
+But I guess that's what friends are for, huh?"
+584,JACK,584,"Oh, brother."
+585,FRANK,585,"And it's especially nice to be among friends
+tonight, because, well, tonight's a very special
+night for my brother and I. This evening we've
+asked a young lady to join us, a lady Jack and I
+are sure will soon seem like just another old
+friend to you all.  She's making her debut here
+this evening and, as far as I'm concerned, she
+couldn't be doing it in a better place.
+Because there's one place that's always been for
+us a very special place, and that place is this
+place, the Ambassador Lounge.  Ladies and gentlemen,
+please welcome a very special lady with a very
+special way of singing a song, Miss Susie Diamond."
+586,FRANK,586,The switch.  Hit the switch.
+587,SUSIE,587,Switch?
+588,SUSIE,588,What fucking switch?
+589,SUSIE,589,Pardon me.
+590,SUSIE,590,"I can't tell you how thrilled I
+am to be here."
+591,SUSIE,591,"I'm all smiles, darling
+Through and through...'"
+592,BELLBOY,592,"I thought the Bakers were on
+tonight."
+593,CLERK,593,They are.
+594,BELLBOY,594,"Well, who's that?"
+595,CLERK,595,I don't know.  Frank?
+596,FRANK,596,"Fucking.  She says fucking in
+front of an entire room of people."
+597,SUSIE,597,I said I was sorry.
+598,FRANK,598,Did you hear it?
+599,JACK,599,Fucking.
+600,SUSIE,600,"Look, they were all on their third Mai Tais
+by the time I got out there anyway."
+601,FRANK,601,Fucking.
+602,SUSIE,602,"For Christ sake, I said it, I
+didn't do it."
+603,SUSIE,603,"Besides, I don't think they were
+too offended, do you?"
+604,FRANK,604,Give me that.
+605,SUSIE,605,Hey!
+606,FRANK,606,"We are not a saloon act.  We do
+not take tips from dirty old men."
+607,SUSIE,607,I was gonna split it with you guys.
+608,FRANK,608,"We do not take tips.  I'll apply
+this to the cost of the dress."
+609,SUSIE,609,"Then I want my name on the poster.
+And my picture!"
+610,SUSIE,610,And these shoes are too goddamn tight!
+611,JACK,611,Nice girl.
+612,LLOYD,612,"Yes, sir.  That's quite a girl you boys latched
+onto.  She a local?"
+613,FRANK,613,Born and bred.
+614,LLOYD,614,"Lucky for you.  Well, there you go, guys.
+Don't spend it all in one place.
+Oh ... you want to count it, Jack?"
+615,FRANK,615,"We trust you, Lloyd.  You know
+that."
+616,LLOYD,616,"Say, Frankie.  Since I've got you here...
+How's next week look for you guys?"
+617,JACK,617,We'll call you.
+618,SUSIE,618,"Night, Bakers."
+619,WOMAN,619,Barker.
+620,WOMAN,620,Jock Barker?
+621,JACK,621,Baker.  Jack Baker.
+622,WOMAN,622,Right.  Bring him back.
+623,JACK,623,"Come on, Ed."
+624,WOMAN,624,"You should've brought a leash, Mr. Barker.
+The doctor doesn't like to be bitten."
+625,JACK,625,He doesn't bite.
+626,WOMAN,626,"They never do, Mr. Barker."
+627,JACK,627,Baker.
+628,WOMAN,628,Right.  In there.
+629,JACK,629,"You shoulda brushed, pal."
+630,DR. BEASLEY (MAN),630,"Ah, labradorus retreiverus.  Good fellows.
+Quiet, but able to appreciate a good joke."
+631,DR. BEASLEY,631,Beasley.
+632,JACK,632,Baker.
+633,DR. BEASLEY,633,What's our friend's problem?
+634,JACK,634,Teeth.
+635,DR. BEASLEY,635,What's wrong with them?
+636,JACK,636,They're falling out.
+637,DR. BEASLEY,637,"Uh-oh.  That's not good.  Let's
+get him up here."
+638,DR. BEASLEY,638,They gotta go.
+639,JACK,639,How many?
+640,DR. BEASLEY,640,"Five's my guess.  Maybe more.
+Won't know till I get in there."
+641,DR. BEASLEY,641,"Leave him now and you can pick
+him up in the morning."
+642,JACK,642,"Isn't there something you can
+give him?  A pill or something?"
+643,DR. BEASLEY,643,"Decay unfortunately doesn't limit itself to
+the denture, Mr. Baker. It spreads into his chest.
+Then the heart goes. We wouldn't want that,
+would we?"
+644,JACK,644,How will he eat?
+645,DR. BEASLEY,645,"Start him out on cottage cheese.
+If you've got him on kibble, just soak it a
+few minutes.  Go down like pudding
+through a hot pipe."
+646,JACK,646,No bones?
+647,DR. BEASLEY,647,No bones.
+648,JACK,648,What do you do to him?
+649,DR. BEASLEY,649,"Don't worry, Mr. Baker.  We'll knock him out.
+He won't feel a thing."
+650,JACK,650,"I think maybe I'll bring him back
+next week ..."
+651,DR. BEASLEY,651,"The sooner we do this the better,
+Mr. Baker."
+652,FRANK,652,"The twenty-third ... Yeah, here it is. We got the
+Carlton or the Plaza.  Four day turns.
+What do you think, Jack?"
+653,FRANK,653,"Jack, you with us?"
+654,SUSIE,654,"The Carlton's a dump.  No cover.  No minimum.
+And they water their drinks.
+It's strictly for the Fuller brush crowd."
+655,FRANK,655,"I guess it's,the Plaza then.
+That brings us to the twenty-seventh.
+We got the Avedon for three or the Park
+downtown for two."
+656,SUSIE,656,"We take the Avedon, right?  Simple."
+657,SUSIE,657,"The Park?  It's only two nights.
+Why throw away a night?"
+658,JACK,658,"Because Blackie Carson books the Park and
+whenever we've needed a gig he's come through."
+659,SUSIE,659,Oh.
+660,SUSIE,660,"Well, for Blackie then."
+661,FRANK,661,"By the way, I got a messsage
+yesterday from some guy looking for
+New Year's action.  Resort, upstate."
+662,SUSIE,662,Hey.
+663,JACK,663,"Sounds like a booking agent
+looking to book an easy fee."
+664,FRANK,664,"That's what I figure.  Probably have us in
+a bed-and-breakfast playing to the owls."
+665,SUSIE,665,Maybe it's legit.
+666,FRANK,666,Maybe.  I'll call him.
+667,JACK,667,Make it collect.
+668,FRANK,668,"That's it except for the first.
+We got the Sheraton, the Ambassador, or the
+Holiday Inn on Sixtieth.  All three-day turns."
+669,JACK,669,Draw.
+670,SUSIE,670,"How'd you guys used to decide what
+gig to take?"
+671,FRANK,671,"Uh, well ... we flipped a coin."
+672,SUSIE,672,"So find a dime.  Let's get out
+of here."
+673,FRANK,673,"Jesus, it's gonna be mean this year.
+Where're your gloves?"
+674,FRANK,674,"Better take care of your fingers, little brother.
+Buy yourself a case of arthritis and you won't
+be able to play 'Chopsticks.'"
+675,JACK,675,I'll take my chances.
+676,FRANK,676,"Something, huh?  All those bids."
+677,JACK,677,Yeah.  Something.
+678,FRANK,678,"Yeah ... Well, I gotta go."
+679,JACK,679,You wanna get a drink?
+680,FRANK,680,"No, I... Little Frank's got strep. Donna's been
+up two nights making sure the rest of us
+don't get it."
+681,FRANK,681,You all right?
+682,JACK,682,"Yeah, fine."
+683,FRANK,683,Okay I'll see you tomorrow night then.
+684,JACK,684,Right.
+685,SUSIE,685,Where's egghead?
+686,JACK,686,His kid's sick.
+687,SUSIE,687,"I don't know.  It's hard figuring you two
+as brothers.  Seems like the hospital might've
+scrambled the babies somewhere."
+688,JACK,688,He takes after our mother.
+689,SUSIE,689,"Yeah,well, a11 I know is mother nature must be
+one crazy dame.  Shit."
+690,SUSIE,690,"Uh-uh.  I never touch American
+cigarettes."
+691,SUSIE,691,What's tomorrow again?
+692,JACK,692,The Stratford.
+693,SUSIE,693,"Nice place.  Fulla velvet.  Even
+the bedspreads."
+694,SUSIE,694,"Damn!  Two-fifty a pack and I go
+through 'em like toothpicks.
+Twelve-and-a-half cents a piece,
+you believe that?"
+695,JACK,695,Huh?
+696,SUSIE,696,"Paris Opals.  Twelve-and-a-half cents.  I sat
+down with a pencil and added it one day.  But
+I figure, if you're gonna be sticking something
+in your mouth, you might as well make it the best."
+697,SUSIE,697,"Ah, here's a lost soul."
+698,SUSIE,698,"Mmm.  Like kissing a rose.  Well,
+au revoir."
+699,JACK,699,Hey.
+700,JACK,700,You feel like a cup of coffee?
+701,SUSIE,701,"You kidding?  We must've killed three pots in
+there.  Anyway, I gotta get home.  Rest the pipes."
+702,JACK,702,You want me to walk you?
+703,SUSIE,703,"No. Thanks.
+She starts to move away, then stops and looks back."
+704,SUSIE,704,"Hey, listen.  You're not going soft on me, are
+you? I mean, you're not gonna start dreaming about me
+and waking up all sweaty and looking at me like
+I'm some kinda princess when I burp."
+705,JACK,705,Forget it.
+706,SUSIE,706,"I mean, that'd be too creepy.
+With us working together and all."
+707,JACK,707,Forget it.
+708,SUSIE,708,Nothing personal --
+709,JACK,709,"Better hurry.  You're a nickel
+down on your cigarette."
+710,KID,710,Yeah?
+711,KID,711,"You want something, pal?  If you're looking for a
+bathroom, try the Super Chief around the corner."
+712,JACK,712,"No, I, uh, left a dog here this morning.
+He needed some work on his mouth."
+713,KID,713,Regular hours are eight to five.
+714,JACK,714,"Yeah, yeah, I know.  I was just passing by.
+Thought I'd check in on him."
+715,KID,715,"You can check in on him tomorrow.
+Between eight and five."
+716,JACK,716,"Yeah, well, couldn't I take a
+look now?"
+717,KID,717,"You want to know if he's okay.
+Right?"
+718,JACK,718,Yeah.
+719,KID,719,All right.  Hold on.
+720,JACK,720,The name's Baker --
+721,KID,721,Save it.  What's he look like?
+722,JACK,722,Black.  Labrador.
+723,KID,723,"All right. they lay the dead ones out in the
+cold room.  I'll take a look."
+724,KID,724,Nope.  Just a couple poodles.
+725,NINA,725,"I tried Cheerios this morning.
+He didn't even get up.
+Maybe they took out the wrong teeth."
+726,JACK,726,"He's just feeling sorry for himself.  This is it,
+pal.  Hear me? Two bucks a can."
+727,JACK,727,Chili.
+728,JACK,728,"You're gonna knock her dead, kid."
+729,JACK,729,"Hey, Frank."
+730,FRANK,730,You recognized me.
+731,JACK,731,Just a lucky guess.
+732,FRANK,732,So what do you think?
+733,JACK,733,Very realistic.
+734,FRANK,734,"Yeah, well, what can I say?  Dad must've had
+forty pounds on me.
+Jesus, you remember him being this big?"
+735,JACK,735,Yeah.
+736,FRANK,736,"Well, the line's growing weaker, little brother.
+Lucky for us there aren't any dragons left to slay."
+737,FRANK,737,"You want to come out to the house tomorrow?
+The way the bookings been piling up, Donna's decided
+to really lay it on.  Turkey, stuffing, the
+whole bit.  Kitchen's so full of food you can
+hardly move.  We could use another appetite."
+738,JACK,738,"Thanks, but I've got plans."
+739,FRANK,739,"All right, but if you change your mind,
+let me know.  I gotta go get Ma in the
+morning anyway."
+740,SUSIE,740,"Well, well.  Ho, ho, ho.  You
+moonlighting at Macy's, Frank?"
+741,FRANK,741,For the kids.
+742,FRANK,742,"Merry Christmas, you two.  Don't
+forget.  We leave the twenty-sixth."
+743,SUSIE,743,He do that every year?
+744,JACK,744,Every year.
+745,SUSIE,745,Aren't the kids asleep?
+746,JACK,746,Every year.
+747,SUSIE,747,So why's he do it?
+748,JACK,748,I guess in case one year they're not.
+749,SUSIE,749,"Call me a cab, will ya?"
+750,NINA,750,How'd the show go?
+751,JACK,751,Okay.  How'd yours go?
+752,NINA,752,Not so good.
+753,NINA,753,Eggnog?
+754,NINA,754,From Hurley's?
+755,JACK,755,"Eighty proof. What d'ya say?
+Think you can handle it?"
+756,NINA,756,Jack.
+757,JACK,757,Yeah?
+758,NINA,758,"Can I stay here tonight?  Even if
+she comes here?"
+759,JACK,759,"Sure.
+He hands Nina her glass, then takes his own."
+760,NINA,760,"Merry Christmas, Jack."
+761,JACK,761,Merry Christmas.
+762,NINA,762,What do you think?
+763,JACK,763,Very cool.
+764,NINA,764,"There were more flowers last year.  Mr. Rinaldi
+down at the drugstore says it's going to snow
+by New Year's.  Says he can feel it in his elbows.
+I hope it snows.  I want to make a snowman.
+You ever make a snowman, Jack?"
+765,JACK,765,Sure.
+766,NINA,766,"That's what I want to do.
+I want to make a snowman."
+767,NINA,767,Now?
+768,NINA,768,"Merry Christmas, Mr. Baker."
+769,JACK,769,"Hey, Eddie.  Have some respect,
+will ya?"
+770,FRANK,770,So. How was everyone's Christmas?
+771,FRANK,771,"Too early, huh?  Well, there's coffee and donuts
+for whoever wants them.
+How about a maple bar, Jack?"
+772,FRANK,772,"Uh, Jack ... if you don't mind."
+773,FRANK,773,"By the way, if anyone gets bored,
+Donna packed some travel games.
+They work wonders with the kids."
+774,FRANK,774,You two could play checkers.
+775,SUSIE,775,Maybe we should just listen to the radio.
+776,FRANK,776,Sorry.  It only plays static.
+777,SUSIE,777,"How long did you say it takes to
+get to this place?"
+778,FRANK,778,Any more coffee?
+779,SUSIE,779,"Uh-uh.  Hey, what's this?"
+780,SUSIE,780,You play all these places?
+781,FRANK,781,Baker's unabridged.
+782,SUSIE,782,"Jesus, you fellas've made a lot of
+noise.  What's with the stars?"
+783,FRANK,783,Virgins.
+784,SUSIE,784,Virgins?
+785,FRANK,785,"First times. Hey, look at this."
+786,FRANK,786,"When's the last time we played a
+wedding, Jack?"
+787,JACK,787,Two years ago.  March.
+788,SUSIE,788,He's right.
+789,FRANK,789,He's always right.  Go ahead.  Pick a virgin.
+790,FRANK,790,Go ahead.
+791,SUSIE,791,Okay.The Fantasy Inn.
+792,FRANK,792,Jack?
+793,JACK,793,November.  '71.
+794,FRANK,794,First night?
+795,JACK,795,Day.  Wednesday.
+796,FRANK,796,Last?
+797,JACK,797,Sunday.
+798,SUSIE,798,I don't believe it.
+799,FRANK,799,"I told you, he's got the gift.  Same with music.
+Hears it once and he's got it.
+Frank smiles into the rear view mirror."
+800,FRANK,800,My brilliant little brother.
+801,FRANK,801,Will you listen to that ocean?
+802,FRANK,802,"And how about this air? I'm telling you,
+a few days in this place'll put five years
+on your life."
+803,SUSIE,803,Smells like fish.
+804,FRANK,804,"Of course it smells like fish.
+We're on the ocean.
+What'd you expect, Chanel number five?"
+805,SUSIE,805,Smells like tuna number two to me.
+806,FRANK,806,"It's paradise.  That's what it is.
+Paradise."
+807,FRANK,807,"Hi, we're the Fabulous Baker Boys."
+808,CLERK,808,"Glad to meet you.  I'm Terrific
+Tom."
+809,FRANK,809,No. We're the entertainment.
+810,TOM (CLERK),810,"Oh, right, gotcha.  You got bags?"
+811,FRANK,811,Outside.  Blue Chevy.
+812,TOM,812,"Cyril.  Chevy.  Blue.  Take 'em up
+to the Guinevere Suite."
+813,TOM,813,"Right on the ocean, Mr. Baker.
+You can practically dangle your toes
+in the water."
+814,FRANK,814,"You believe this?  I'm telling you, we're getting
+away with murder.  Two shows a night and the rest
+of the time we live like kings.  It's a crime."
+815,SUSIE,815,"Hey, we're connected."
+816,FRANK,816,Great.
+817,SUSIE,817,Great?
+818,FRANK,818,Yeah.
+819,JACK,819,I thought we had separate rooms.
+820,FRANK,820,"We do.  She's got hers, we've got ours. Hey.
+Wash and Dries."
+821,JACK,821,I thought we all had separate rooms.
+822,FRANK,822,"Come on, Jack.  It's not like it's the first
+time we've bunked together.  It'll be like when
+we were kids.  Relax.  Enjoy the view."
+823,SUSIE,823,You're kidding me.
+824,FRANK,824,As Charlie Steinway is my witness.
+825,SUSIE,825,Peggy Lee?
+826,FRANK,826,Tell her.
+827,JACK,827,"She was staying at the Grand
+downtown ..."
+828,FRANK,828,"It was April.  April seventeenth.
+That one I remember."
+829,JACK,829,"We were playing the lounge one
+night and she came in."
+830,FRANK,830,Pearls.  White gown.  Beautiful.
+831,JACK,831,"Frank asked if she'd sit in for a song, she said
+yes, and we did a few bars."
+832,FRANK,832,A few bars!
+833,SUSIE,833,What'd she sing?
+834,FRANK,834,"People.' You think Streisand, right?
+Hot that night.  Chills.
+Through the whole audience.  I could hardly play."
+835,SUSIE,835,Wow. You ever see her again?
+836,FRANK,836,"No. We got a picture, though.
+One of the waitresses had a camera."
+837,FRANK,837,"God, we were just kids.  That was
+something, wasn't it?"
+838,FRANK,838,"Hey, will you look at that?"
+839,SUSIE,839,"They must've bought the same
+map we did."
+840,FRANK,840,"What do you say we send a bottle
+over?"
+841,SUSIE,841,"I don't believe it.  You're a
+romantic, Frank."
+842,JACK,842,He's drunk.
+843,FRANK,843,"Not true.  Besides, Jack's the romantic."
+844,SUSIE,844,Oh yeah?
+845,FRANK,845,"He's just afraid to show it.
+Aren't you, little brother?"
+846,JACK,846,"Have some more wine, Frank."
+847,FRANK,847,Good idea.
+848,FRANK,848,To Peggy Lee.
+849,FRANK,849,"I'm putting my stuff on the right,
+okay?"
+850,JACK,850,Okay.
+851,FRANK,851,I figure that way we won't get confused.
+852,JACK,852,Right.
+853,FRANK,853,Unless you want the right.
+854,JACK,854,"No, you take the right."
+855,FRANK,855,We might as well do the towels the same way.
+856,JACK,856,Okay.
+857,FRANK,857,"I just figure things'll go smoother, you know,
+if we have it all worked out from the beginning."
+858,JACK,858,Good idea.
+859,FRANK,859,"But if it doesn't work out, let
+me know.  I'm,flexible."
+860,JACK,860,Right.
+861,JACK,861,You leaving that on?
+862,FRANK,862,Yeah.
+863,JACK,863,All night?
+864,FRANK,864,Yeah.
+865,JACK,865,We're gonna be here a week?
+866,FRANK,866,Yeah.
+867,JACK,867,"So you're gonna leave it on.
+Every night.  For a week."
+868,FRANK,868,Yeah.  You mind?
+869,JACK,869,Why would I mind?
+870,FRANK,870,"I don't know.  I mean, I always did it as a kid.
+I figured it was no big deal.  Is it?  A big deal?"
+871,FRANK,871,"Oh. I didn't know.  I mean, I always did it as a kid.
+It was never a big deal then.  Was it?"
+872,FRANK,872,"Oh. Well.  You want me to turn
+it off?"
+873,FRANK,873,I'll turn it off.
+874,JACK,874,Forget it.  It's no big deal.
+875,FRANK,875,"They're beauties, huh?"
+876,FRANK,876,Reminds me of those Steinways Willie used to have.
+877,FRANK,877,What?
+878,MR. DANIELS (LITTLE MAN),878,"Good morning, gentlemen.  I'm Mr. Daniels,
+the manager.  I believe I've spoken to one of you
+on the phone."
+879,FRANK,879,"That'd be me, sir.  Frank Baker.
+This is my brother Jack."
+880,MR. DANIELS,880,"Tom here tells me there's a problem with the
+pianos.  We were assured they were in tune."
+881,FRANK,881,"Yes, well, they are."
+882,MR. DANIELS,882,Then I'm afraid I don't understand.
+883,FRANK,883,"They are in tune.  But not with
+each other."
+884,MR. DANIELS,884,Is that important?
+885,FRANK,885,"Uh, well ..."
+886,JACK,886,Yes.  It's important.
+887,MR. DANIELS,887,"Tom, who're we dealing with on
+these?"
+888,TOM,888,"A Mr. Reynolds, sir.  But he's gone on vacation.
+I called this morning."
+889,MR. DANIELS,889,"Well, gentlemen, I don't know what to say.
+Not being a musician myself I find it difficult
+to grasp the magnitude of this.  I don't suppose
+there's any way you could just ... accommodate."
+890,JACK,890,"Accommodate?  I don't think I know
+what you mean."
+891,FRANK,891,"I think what Mr. Daniels is trying to say,
+Jack, is --"
+892,JACK,892,"Why don't we let Mr. Daniels tell
+us what he's trying to say."
+893,MR. DANIELS,893,"I assure you, Mr. Baker, no offense is intended.
+I simply mean, well, we're not a symphony, are we?"
+894,FRANK,894,"Jack ... Jack ... You're acting like
+a kid."
+895,JACK,895,"No, that's your problem, Frank.  You get around
+one of these assholes and you turn into a
+fucking three-year-old."
+896,FRANK,896,"What's the matter with you?  So the piano's a
+little out of tune.  So what?"
+897,JACK,897,"Christ, can't you hear it?"
+898,FRANK,898,No! I never hear it!
+899,FRANK,899,"Maybe.  Sometimes.  I don't know.
+But I won't let it bother me."
+900,JACK,900,Doesn't it matter to you?
+901,FRANK,901,"What matters to me is we've got the six easiest
+nights we've had in ten years.
+So 'Tie a Yellow Ribbon' sounds a little flat.
+So what?  Nobody's gonna hear it, Jack.  Nobody.
+So why should you care?"
+902,JACK,902,Because I can hear it.
+903,FRANK,903,"Well, then stuff cotton in your ears, because
+come six o'clock we're gonna walk into that
+dining room with smiles on.
+Understand, little brother?"
+904,SUSIE,904,"Hey, fellas.  What's the word?"
+905,SUSIE,905,What's with you two?
+906,FRANK,906,"Jack woke up on the wrong side
+of the bottle."
+907,SUSIE,907,0-kay.
+908,FRANK,908,"Thank you, thank you."
+909,FRANK,909,"You know, Susie and Jack and I only just arrived
+here yesterday, but already the people here at the
+King Corporation's Moorish Manor have made us feel,
+well, a part of the family. And it's their hope that,
+before you leave, everyone of you will feel a part
+of that family also.  So, if during-the next few days,
+we should happen to pass one another in the hallway
+or in the lobby or wherever ... don't be a stranger.
+Stop.  Say hello.  Introduce yourself.  Because here,
+there are no strangers, only friends.
+And family.  Right, Jack?"
+910,JACK,910,"Right.  I love you, Frank."
+911,FRANK,911,What?
+912,JACK,912,I love you.  I just wanted to say it.
+913,FRANK,913,"Uh, well, I love you, too, Jack."
+914,FRANK,914,So. Susie.  How 'bout it.
+915,SUSIE,915,Huh?
+916,FRANK,916,Got another song for us?
+917,SUSIE,917,Oh. Yeah.  I gotta bunch of them.
+918,FRANK,918,Well then ... shall we?
+919,FRANK,919,What's the matter with you?
+920,JACK,920,"I'm sorry, Frank.  All that talk about family.
+I just got emotional."
+921,FRANK,921,How dare you say you love me.
+922,JACK,922,"It won't happen again.  Scout's
+honor."
+923,SUSIE,923,What's with you guys?
+924,FRANK,924,"Someone needs to grow up.  I won't
+take it, Jack."
+925,JACK,925,Sure you will.
+926,SUSIE,926,"Oh, sorry.  With the light always
+on, it's hard to tell."
+927,JACK,927,It's okay.
+928,JACK,928,Last one.
+929,SUSIE,929,Can't sleep?
+930,JACK,930,In and out.
+931,SUSIE,931,"It's the waves.  God's music, my mother used to say.
+She was crazy for the ocean."
+932,JACK,932,"Yeah, well, I wish God would go
+a little easy on the trumpets."
+933,SUSIE,933,How's egghead?
+934,JACK,934,Like a baby. You?
+935,SUSIE,935,In and out.
+936,SUSIE,936,"If you want, I got a pack in the
+room."
+937,JACK,937,"No thanks.  I never touch French
+cigarettes."
+938,JACK,938,What the hell are you doing?
+939,FRANK,939,"What's it look like I'm doing?
+I'm tuning a goddamn piano."
+940,JACK,940,Really.
+941,FRANK,941,"Yes, really.  I don't want you to be unhappy,
+Jack.  If you say it's out of tune,
+it's out of tune."
+942,JACK,942,How's it coming?
+943,FRANK,943,Fine.
+944,JACK,944,How long you been at it?
+945,FRANK,945,"Half-hour.  Once I finish this octave I'm gonna
+get breakfast.  You see what's on the buffet?"
+946,JACK,946,They stopped serving two hours ago.
+947,FRANK,947,Two hours ago!
+948,JACK,948,"Time flies, huh?"
+949,JACK,949,"I could give you a hand.  If
+you want."
+950,FRANK,950,What do you make that?  Paruchi?
+951,FRANK,951,"You haven't seen Susie, have you?"
+952,JACK,952,No. Why?
+953,FRANK,953,"Just wonder what she's up to.
+I never see her.  Makes me nervous."
+954,JACK,954,She's a big girl.
+955,FRANK,955,"Yeah, well, she's our girl now.  I think we better
+keep an eye on her.  There's trouble there."
+956,FRANK,956,"Hey, listen to this.  Ethel and Bert Lane.
+Married seventy-five years.  You believe that?"
+957,JACK,957,What the hell are these?
+958,FRANK,958,"Dedications.  I came up with the idea on the road.
+See, every morning the maids drop one of these
+cards in each room.  The guest fills out the card,
+leaves it at the front desk, and that night we play
+it.  Daniels went crazy for the idea."
+959,FRANK,959,"And that's not all.  Last night, after the nine
+o'clock, he corners me, right, and starts asking
+about our availability.  Like he wants to line
+something up.
+I think he's got a hard-on for Susie."
+960,WOMAN,960,Excuse me.
+961,WOMAN,961,"I'm sorry to interrupt, but when I saw you sitting
+here, I just had to come over.  Florence Simmons."
+962,FRANK,962,"Uh ... Frank Baker.  This is my
+brother."
+963,FLORENCE SIMMONS (WOMAN),963,"Oh, I know, I know.  My husband and I saw you
+play last night and it's the most remarkable thing."
+964,FRANK,964,"Oh. Well, thank you."
+965,FLORENCE SIMMONS,965,"No, I mean you."
+966,FLORENCE SIMMONS,966,"I have a brother-in-law who looks exactly like you.
+Exactly.  You don't happen to have a Huckleberry
+in your family tree, do you?"
+967,JACK,967,Afraid not.
+968,FLORENCE SIMMONS,968,"Well, it's frightening.  You could be his twin.
+Of course, he doesn't have your talent.  Musically,
+I mean.  He sharpens things for a living.  Lawn
+mower blades, kitchen knives, anything with an edge.
+Can imagine?"
+969,FLORENCE SIMMONS,969,"Well, anyway, I just had to make sure there was
+no relation.  You play wonderfully.  Both of you."
+970,FRANK,970,"Funny, huh?"
+971,JACK,971,What?
+972,FRANK,972,"Thinking there's someone who looks like you,
+walking around the street somewhere."
+973,FRANK,973,"Wonder if I saw him I'd think it
+was you?"
+974,FLORENCE SIMMONS,974,"I just know my sister won't believe
+me. Do you mind?"
+975,FLORENCE SIMMONS,975,"I really hate to impose.  It's just that the
+resemblance is so extraordinary."
+976,FLORENCE SIMMONS,976,"I wonder if you could turn this way so your face
+isn't in the shadows."
+977,FLORENCE SIMMONS,977,Say cheese.
+978,FLORENCE SIMMONS,978,"Gotcha.  Would you like a copy for
+yourself?  The hotel develops."
+979,JACK,979,No.
+980,FRANK,980,"Thank you.  You know, before we came out here
+this evening, Susie and Jack and I were looking
+over your dedications and something struck us."
+981,FRANK,981,"We realized that, well, we're really not so
+different from one another after all.  Oh sure,
+we may be at different points in our journey,
+but we all travel pretty much the same road.
+And so, with that in mind, we'd like to introduce
+you to two very special couples.  First, married
+for all of two days, please say hello to Helen
+and Bud Wilson.  Helen.  Bud."
+982,FRANK,982,"And now, our second couple.  I'm talking about
+Ethel and Bert Lane, ladies and gentlemen.  Now,
+Ethel and Bert would be upset with me if I told
+you they'd been married for fifty years.  Why?
+Because, ladies and gentlemen, Ethel and Bert Lane
+have been married for seventy-five years!"
+983,FRANK,983,"Ethel, Bert.  Get up here and
+show these kids how it's done."
+984,FRANK,984,Aren't they a sight?
+985,SUSIE,985,"Forget your tie, handsome ...
+Frank!"
+986,FRANK,986,"You want to tell me what the
+hell's going on?"
+987,SUSIE,987,Huh?
+988,FRANK,988,"I just saw a man walk out of
+your room."
+989,SUSIE,989,Uh ...
+990,FRANK,990,"In case you've forgotten, we're being paid to be
+here.  So it might be nice if you conducted
+yourself with a certain amount of decency."
+991,SUSIE,991,"Decency?  Hey listen, pal ..."
+992,FRANK,992,"No. You listen.  I had my doubts
+about you from the beginning"
+993,JACK,993,Hey!
+994,JACK,994,"What're you trying to do?  Wake
+up the whole goddamn hotel?"
+995,FRANK,995,"We were just having a little
+discussion about morality."
+996,SUSIE,996,Some discussion.
+997,FRANK,997,"I just saw a man walk out of your
+room!"
+998,JACK,998,You saw wrong.
+999,FRANK,999,Huh?
+1000,JACK,1000,He's with the hotel.  I called him.
+1001,FRANK,1001,What are you talking about?
+1002,JACK,1002,"We had a leak in the bathroom.
+He fixed it."
+1003,FRANK,1003,He was wearing a suit.
+1004,JACK,1004,"He had to come quickly.  It was
+a big leak."
+1005,FRANK,1005,How come I didn't hear anything?
+1006,JACK,1006,"You're a heavy sleeper, Frank.
+You've always-been a heavy sleeper."
+1007,JACK,1007,Unlike me.
+1008,FRANK,1008,I guess I ... If I jumped to...
+1009,SUSIE,1009,Forget it.
+1010,FRANK,1010,Well...
+1011,SUSIE,1011,"Boy, he comes on like a hurricane
+in the morning, doesn't he?"
+1012,SUSIE,1012,"Yeah, well, thanks for sticking
+your head in."
+1013,JACK,1013,"Hey, business is business."
+1014,SUSIE,1014,It wasn't business.  It was pleasure.
+1015,JACK,1015,"Just dinner and dance, right?"
+1016,SUSIE,1016,Paradise.
+1017,FRANK,1017,"Yes, Daddy promises.  I'll bring you one of the
+little glasses, how's that?  Just like Grandma has.
+It has a picture of the hotel on it and everything
+... No, honey, they don't sell puppies here ...
+Who? ... Well, we'll see.  Let me talk to Mommy,
+okay?... Okay,sweetheart.  Happy New Year."
+1018,FRANK,1018,"Hi, honey.  She says Angela Secoli got a puppy for
+Christmas.  Explain to her why we can't ... I don't
+know, tell her you're allergic ... It's not lying.
+Well, okay, it is lying, but ... All right, then tell
+her I'll explain it ... He what? ... No kidding?
+Without the training wheels?"
+1019,FRANK,1019,"Well, that's great.  Tell him, tell him. I can't wait
+to see ... No, no new bike.  Maybe for his birthday ...
+Okay.  Listen, honey, I have to go.We're on in ten
+minutes ... Yeah, Happy New Year ... I love you ..."
+1020,FRANK,1020,"Well, let's go.  The public waits."
+1021,FRANK,1021,"All right, everyone.  This is it.
+Let's hear it.  Ten.  Nine ..."
+1022,FRANK/EVERYONE,1022,"Eight.  Seven.  Six.  Five.
+Four.  Three.  Two!  ONE!
+HAPPY NEW YEAR!"
+1023,SUSIE/EVERYONE,1023,Lest old acquaintances be forgot ...
+1024,FRANK,1024,"Ah, well, if it isn't the lad with the golden ear.
+Happy New Year, little brother."
+1025,JACK,1025,What're you doing down here?
+1026,FRANK,1026,Celebrating.  Join me?
+1027,JACK,1027,The party's over.
+1028,FRANK,1028,"No, you're wrong.  It's just beginning.
+Come on, have a drink.
+Show your big brother how it's done."
+1029,JACK,1029,Expensive hangover.
+1030,FRANK,1030,"A gift.  Courtesy of our courteous
+hotel manager, Mr. Daniels."
+1031,FRANK,1031,"We, dear brother, are a fucking
+smash."
+1032,FRANK,1032,"Yup.  They want us back.  Easter.  It seems they
+have this egg hunt every year.  Only not for kids.
+Adults.  They stuff these plastic eggs with
+Timexes and little certificates for free Mai Tais
+and everyone has a grand time crawling around on
+the front lawn.  Then afterwards, they have a
+dance.  An egg dance.  Everyone comes dressed in
+a different colored shell and at the end of the
+evening they crack themselves open.  It's our job
+to separate the yolks from the whites.
+Slippery business."
+1033,FRANK,1033,"You know, I've never kissed my wife on New Year's.
+Not once in twelve years."
+1034,FRANK,1034,"The Holmby has a chandelier like that doesn't it?
+With the blue glass."
+1035,JACK,1035,The Royal.
+1036,FRANK,1036,"Right.  The Royal.  When's the
+last time we were there?"
+1037,JACK,1037,Couple years.
+1038,FRANK,1038,February?
+1039,JACK,1039,April.
+1040,FRANK,1040,"Right.  It's incredible how you
+do that.  Remember things."
+1041,JACK,1041,A useless talent.
+1042,FRANK,1042,"Drove me crazy when we were kids.
+The way you never looked at the music.
+Miss Simpson would just play it and ..."
+1043,JACK,1043,They were simple songs.
+1044,FRANK,1044,"Not for me.  I still have to look at the music
+sometimes, you know that?  Otherwise, I forget.
+I just forget.  But you.  You never forget.
+Ever."
+1045,FRANK,1045,So how come you couldn't remember Ma's birthday?
+1046,JACK,1046,I told you.  It's a useless talent.
+1047,FRANK,1047,"God, the old man would've loved
+this view, wouldn't he?"
+1048,JACK,1048,Yeah.
+1049,FRANK,1049,"I always think of him on New Year's.
+How he used to pour us each half a can of beer.
+Remember?"
+1050,JACK,1050,You always threw up.
+1051,FRANK,1051,"Yeah, and you drank yours like it was orange juice.
+He loved that about you."
+1052,JACK,1052,He was just having fun.
+1053,FRANK,1053,"It was like you'd passed some test,
+you know?"
+1054,JACK,1054,"It was just a can of beer, Frank."
+1055,FRANK,1055,"Yeah, but he told you things.  He never told me
+anything.  Even though I was the oldest.
+It was always you two, running off, doing things
+together."
+1056,JACK,1056,You could've come.
+1057,FRANK,1057,"I could've.  But he didn't want
+me to."
+1058,JACK,1058,"You're making things up, Frank."
+1059,FRANK,1059,Maybe so.
+1060,FRANK,1060,"You ever go back there?  Where it
+happened."
+1061,JACK,1061,No.
+1062,FRANK,1062,Want one?
+1063,FRANK,1063,"Ah well, the kids'll break a
+couple anyway."
+1064,BUD,1064,Give me the keys.
+1065,HELEN,1065,You're not going to drive.
+1066,BUD,1066,Give me the keys!
+1067,HELEN,1067,You're not going to drive!
+1068,BUD,1068,It's my goddamn car!
+1069,HELEN,1069,It's our goddamn car!
+1070,BUD,1070,Give me the keys.
+1071,HELEN,1071,No.
+1072,FRANK,1072,I think I'll warm up the car.
+1073,FRANK,1073,"That takes care of this week.  The tenth we
+got the Sheraton, the sixteenth we're
+at the Capri."
+1074,JACK,1074,The tenth's out.
+1075,FRANK,1075,What?
+1076,JACK,1076,I can't make the tenth.
+1077,FRANK,1077,What do you mean?
+1078,JACK,1078,"I mean maybe you should check with us before you
+go off and book us a month in advance."
+1079,FRANK,1079,"Be reasonable, Jack."
+1080,JACK,1080,"I play two hundred nights a year with you, Frank.
+How much more reasonable you expect me to be?"
+1081,FRANK,1081,"How about you?  Got a Bar Mitzvah
+this weekend?"
+1082,SUSIE,1082,Huh?
+1083,FRANK,1083,Forget it.
+1084,SUSIE,1084,"Feelings ... Wo wo wo ... Feelings
+... Wo wo wo ... Feelings ..."
+1085,SUSIE,1085,I can't sing it anymore.
+1086,FRANK,1086,What?
+1087,SUSIE,1087,"That song.  I can't sing it anymore.
+I'm gonna get sick."
+1088,FRANK,1088,"What're you talking about?  They
+love it."
+1089,SUSIE,1089,"I'm gonna throw up, Frank.  I mean it.
+Let's drop it for the ten o'clock, okay?"
+1090,FRANK,1090,"Susie.  It's one more show.  One
+more time.  That's all."
+1091,SUSIE,1091,"And two more times tomorrow night, and two more
+times the next night, and the next night and the
+next night and the next night.  Frank, I can't
+sing that fucking song anymore!"
+1092,SUSIE,1092,I need some air.
+1093,JACK,1093,"You're gonna wear down those
+heels if you don't give it a rest.
+She stops."
+1094,JACK,1094,Relax.  We'll drop the song.
+1095,SUSIE,1095,Guess I got a little scattered.
+1096,JACK,1096,It's a shitty  song.
+1097,SUSIE,1097,How do you do it? Every night?
+1098,JACK,1098,Practice.
+1099,JACK,1099,"There are worse songs, you know.
+Not many, but a few."
+1100,SUSIE,1100,Listen...
+1101,SUSIE,1101,Nothing.
+1102,HENRY,1102,"Thank you.  As most of you know, we like to shake
+things up here every so often just to keep you
+people on your toes.  So I'm gonna take a little
+rest, grab myself a drink, and let an old friend sit
+in.  He drops by about once a year just to keep
+his hands clean.  Ladies and gentlemen.
+Jack Baker."
+1103,SUSIE (O.S.),1103,You were good.
+1104,JACK,1104,I can keep the beat.
+1105,SUSIE,1105,Better than that.
+1106,SUSIE,1106,What's the matter?
+1107,JACK,1107,Nothing.
+1108,SUSIE,1108,What'd I say?
+1109,JACK,1109,Nothing.
+1110,SUSIE,1110,You're upset.
+1111,JACK,1111,I'm not upset.
+1112,SUSIE,1112,All I said was you were good.
+1113,JACK,1113,Look. You don't know good. All right?
+1114,SUSIE,1114,What's that supposed to mean?
+1115,JACK,1115,"It means you wouldn't know good
+if it came up and fucked you."
+1116,SUSIE,1116,You were good.
+1117,JACK,1117,Let's make a deal.  You shut up.
+1118,SUSIE,1118,You were good.
+1119,JACK,1119,How do you know?
+1120,SUSIE,1120,"Because I saw the other people!
+And they knew you were good!
+You were good, goddamnit!"
+1121,SUSIE,1121,So you wanna get a drink?
+1122,JACK,1122,Nina?
+1123,SUSIE,1123,Who's Nina?
+1124,JACK,1124,Friend.
+1125,SUSIE,1125,"Friend?  What's she look like?
+Maybe I can help you find her."
+1126,JACK,1126,She's four feet tall.  Ed?
+1127,SUSIE,1127,Ed? How many people live here?
+1128,JACK,1128,"I have to make him some chili.
+Okay?"
+1129,SUSIE,1129,Sure.
+1130,SUSIE,1130,"Like diamonds, huh?  I never get over it.
+When I was a little girl, my mama'd stand me before
+the window and tell me to close my eyes and make a
+wish.Like I could reach out and grab all the lights
+of the city and string them into-a necklace for
+myself.  She'd take my hand and when she closed her
+eyes, I don't know, it was like she really
+believed it."
+1131,JACK,1131,How come you didn't close your eyes?
+1132,SUSIE,1132,"I don't know.  I guess I didn't
+trust the night like she did."
+1133,SUSIE,1133,"Let me have a cigarette, will you?
+All of mine are down there on the sidewalk."
+1134,SUSIE,1134,Long story.
+1135,SUSIE,1135,"You know, I saw you guys once.
+You and Frank.  At the Roosevelt."
+1136,JACK,1136,Must've been a cheap date.
+1137,SUSIE,1137,Soap convention.
+1138,JACK,1138,Soap?
+1139,SUSIE,1139,"Yeah, they got a convention for everything. At
+least he was clean.  Boy, the guys I met when I
+was with the service, you wouldn't believe.  The
+older ones, they were okay.  Nice.  Polite.  Pulled
+the chair out for you.  But the younger ones ..."
+1140,SUSIE,1140,"Mama used to say, dance with a man once, but if you
+can feel calluses on his fingers, don't dance with
+him again.  She thought she had it all figured out.
+But she wasn't so smart.  There are killers with
+palms like a baby."
+1141,SUSIE,1141,"It wasn't so bad, though.  I'd get a nice piece of
+steak, flowers, sometimes even a gift.  Usually
+whatever the guy was into.  Got a socket set once.
+Believe it?  The guy looked like held just given me
+four dozen roses."
+1142,SUSIE,1142,"But I stayed at the Hartford once.  You should see
+the rooms.  All satin and velvet.  And the bed.
+Royal blue, trimmed in lace clean as snow.  Hard to
+believe sleeping in a room like that don't change
+your life.  But it don't.  The bed may be magic, but
+the mirror isn't.  You wake up the same old Susie."
+1143,SUSIE,1143,"I didn't always, you know.  If I liked the guy ..."
+1144,SUSIE,1144,Sometimes I wish the sun would never come up.
+1145,SUSIE,1145,So what's this?
+1146,JACK,1146,History.
+1147,SUSIE,1147,Huh?
+1148,JACK,1148,"My father proposed to my mother
+in there."
+1149,SUSIE,1149,No kidding?
+1150,SUSIE,1150,The both of them?  In there?
+1151,JACK,1151,He called her.
+1152,SUSIE,1152,Oh. So what's it doing here?
+1153,JACK,1153,Long story.
+1154,SUSIE,1154,You sending me home?
+1155,JACK,1155,"They'd been out dancing all night and he took
+her to the train station -- she lived over in
+Brookhaven.  Usually held ride with her, but this
+time he didn't.  Anyway, he starts walking home,
+only as he's walking he starts getting nervous."
+1156,SUSIE,1156,Nervous?
+1157,JACK,1157,"By the time he gets to the corner newstand, he's
+got her meeting some rich guy on the train, the
+rich guy's asked her to marry him, and he's reading
+about it in the morning edition."
+1158,SUSIE,1158,You're kidding.
+1159,JACK,1159,He had a mind that escalated things.
+1160,SUSIE,1160,"So, what happened?"
+1161,JACK,1161,"He calls her, asks her to marry him, she thinks
+he's crazy, he asks her again, she still thinks
+he's crazy but says yes anyway, and the next thing
+you know he's got his brothers down there and
+they're tearing the thing right off the curb."
+1162,JACK,1162,"I don't know.  Maybe he thought some rich guy was
+gonna try and call her."
+1163,SUSIE,1163,Wow.  But I still don't see how ...
+1164,JACK,1164,Ma didn't want it around.  After.
+1165,SUSIE,1165,Oh.
+1166,SUSIE,1166,Frank said you saw him die.
+1167,SUSIE,1167,Frank said ---
+1168,JACK,1168,Frank wasn't 'there.
+1169,JACK,1169,"He took me out to the docks one day.  We did that a
+lot.  There were other places, but he loved the ocean.
+He'd worked boats as a kid.  Never got rid of it.
+It was always in him.  He'd drink a little when we'd
+go.  If he drank enough, he'd do this funny Irish jig.
+To make me laugh."
+1170,JACK,1170,He drank a lot that day.
+1171,JACK,1171,"There was a lot of wind.  He was up on this cargo
+shelf, right over the ocean.  And he started to
+do the jig.  One minute he was there ..."
+1172,JACK,1172,"I thought it was a joke at first.
+He did things like that.  Games."
+1173,JACK,1173,I was laughing when it happened.
+1174,JACK,1174,"You got pretty eyes, you know that."
+1175,JACK,1175,"You gotta move 'em around if you want to
+play a song."
+1176,SUSIE,1176,Oh. Hi.  Sorry.
+1177,JACK,1177,Coffee?
+1178,SUSIE,1178,Yeah... No.
+1179,JACK,1179,"Look, if you want to leave..."
+1180,SUSIE,1180,"Yeah, maybe ... No. God, I hate these cigarettes!"
+1181,SUSIE,1181,Shit.  I think I started a fire.
+1182,JACK,1182,"If our feet get hot, you grab
+the piano."
+1183,JACK,1183,"Why don't you go.  I'll see you
+tomorrow night at the Ambassador."
+1184,SUSIE,1184,"I followed you last night.  I
+mean, I was here.  Outside.  I was
+about to come up when you came out."
+1185,SUSIE,1185,"The reason I came by ... I couldn't tell Frank...
+I'm leaving.  The act."
+1186,SUSIE,1186,"It's a ... I met this guy at the resort.  He liked
+my voice.  And, it's ... He thinks I can sell cat
+food just by singing about it.  Can you believe it?"
+1187,SUSIE,1187,You can always get another girl.
+1188,JACK,1188,There's always another girl.
+1189,NICK,1189,Sick?  How sick?
+1190,FRANK,1190,The flu.
+1191,NICK,1191,So she's got a few sniffles.
+1192,FRANK,1192,Doctor's orders.
+1193,NICK,1193,"You got no right springing this on me, Frankie.
+It's unethical."
+1194,FRANK,1194,"Look, Nick.  You want us to pack up, we'll pack up."
+1195,NICK,1195,"What am I gonna do?  Put a record
+player out there?"
+1196,NICK,1196,"Bad, Frankie.  Bad."
+1197,JACK,1197,What're you doing?
+1198,FRANK,1198,Just until we find another girl.
+1199,JACK,1199,"Cancel, Frank."
+1200,FRANK,1200,"You want to know how much I got tied up in
+deposits with Willie?  We're in for three
+weeks solid, Jack."
+1201,JACK,1201,Better give her pneumonia.
+1202,GIRL (O.S.),1202,Remember me?
+1203,GIRL,1203,"Monica.  Monica Moran.  I came in the last time
+you guys were looking for a singer."
+1204,GIRL,1204,Perseverance.  First rule of show business.
+1205,MONICA (GIRL),1205,I bought a book.  That's what it says.
+1206,FRANK,1206,"We got the Roosevelt on Thursday, the Park in a
+couple of weeks.  Larry Shelton said he'd let me
+know by Friday on the Ambassador.  That's it."
+1207,FRANK,1207,"I got some calls out.  Things
+that might be good for us."
+1208,FRANK,1208,"We'll try for a girl again next
+week."
+1209,FRANK,1209,"Okay.  Well, the Roosevelt then."
+1210,FRANK,1210,"You know, my brother and I have been playing
+together, gosh, I don't know.  Jack?"
+1211,JACK,1211,Twenty-eight years.
+1212,FRANK,1212,"Of course, uh, back then it was, uh, a little
+different.  We were just kids.  Just about the
+only one who would listen to us was the family
+cat, Cecil.  We must've shaved three lives off old
+Cecil, huh, Jack?"
+1213,FRANK,1213,"Yeah, well, anyway.  It's nice to be back here in
+the Roosevelt Room, because this has always
+been ..."
+1214,FRANK,1214,a very special place for Jack and I.
+1215,FRANK,1215,"And tonight we'd like to open with a very special
+song.  It's the song my mother and father danced
+to the night they were married.  This is for them."
+1216,FRANK,1216,"You should've told us you were coming, Ma.
+We would've come and got you."
+1217,MRS.  BAKER,1217,Spur of the moment.
+1218,FRANK,1218,So what'd you think?
+1219,MRS.  BAKER,1219,Thrilling.
+1220,MRS.  BAKER,1220,Both of you.
+1221,FRANK,1221,"The audience was a little off
+tonight."
+1222,MRS.  BAKER,1222,"A few empty tables.  It's cozier.
+Besides, Mel Torme couldn't fill this place
+on a Wednesday night."
+1223,FRANK,1223,"I guess you're,right.  Well, what do you say we
+get a little midnight snack?
+Theo's should still be open."
+1224,MRS.  BAKER,1224,"No, no.  You boys are tired."
+1225,FRANK,1225,"No, we're not.  Jack?"
+1226,JACK,1226,No.
+1227,MRS.  BAKER,1227,"I'm tired.  Really.  I should get
+home."
+1228,FRANK,1228,You sure?
+1229,MRS.  BAKER,1229,Just call me a cab.
+1230,FRANK,1230,"A cab?  Ma, come on.  My car's just a half
+block down.  You wait here."
+1231,MRS.  BAKER,1231,All right.
+1232,MRS.  BAKER,1232,"It's beautiful, isn't it?"
+1233,JACK,1233,Yeah.
+1234,MRS.  BAKER,1234,"This was quite,a place once.  After the war.  On
+Friday nights they had dances in the ballroom
+upstairs.  It was beautiful.  Crystal chandeliers.
+White tablecloths.  Orchids floating in the punch
+bowls... It was a wonderful place to be young."
+1235,MRS.  BAKER,1235,It went well tonight.
+1236,JACK,1236,Frank works hard.
+1237,MRS.  BAKER,1237,And you don't?
+1238,JACK,1238,"He leads, I follow."
+1239,MRS.  BAKER,1239,Is that the way it is?
+1240,JACK,1240,Pretty much.
+1241,MRS.  BAKER,1241,"He mentioned you had a girl for
+a while.  A singer."
+1242,JACK,1242,For a while.  She left.
+1243,MRS.  BAKER,1243,"Yes, well, it's probably best.
+No sense bringing someone else in."
+1244,JACK,1244,I suppose.
+1245,MRS.  BAKER,1245,"Funny.  Watching tonight, I was
+remembering when you were young.
+How I used to stand in the kitchen, listening to
+the two of you practice while I did the dishes."
+1246,MRS.  BAKER,1246,"My two little radios.  Sometimes I'd stop and go to
+the door and just watch.  Sometimes your father
+would too."
+1247,MRS.  BAKER,1247,"He liked to listen to you play.
+Did you know that?"
+1248,MRS.  BAKER,1248,"You miss him, don't you?"
+1249,JACK,1249,"It's been a long time, Ma."
+1250,MRS.  BAKER,1250,Yes.
+1251,MRS.  BAKER,1251,I supposed you still have that old phone booth.
+1252,MRS.  BAKER,1252,"His love scared me, you know.  The day he died he"
+1253,MRS.  BAKER,1253,You look so like him.
+1254,FRANK,1254,"Your limo's ready, Ma."
+1255,MRS.  BAKER,1255,All right.
+1256,MRS.  BAKER,1256,"Good night, Jack."
+1257,JACK,1257,Sorry.
+1258,JACK,1258,We're not getting paid then.
+1259,FRANK,1259,No.
+1260,JACK,1260,Nothing. We get nothing.
+1261,FRANK,1261,"I told you, Jack.  It's a telethon.
+No one gets a cent."
+1262,JACK,1262,What's it for?
+1263,FRANK,1263,I don't know. Some disease.
+1264,JACK,1264,What disease?
+1265,FRANK,1265,I don't know.
+1266,JACK,1266,You don't know?
+1267,FRANK,1267,"It's a disease, Jack.  We're against it.
+It's not a moral decision."
+1268,JACK,1268,What channels it on?
+1269,FRANK,1269,Seventy-one
+1270,JACK,1270,Seventy-one?  What's seventy-one?
+1271,FRANK,1271,"A channel.
+It's just a little further down the dial, that's all.
+Look, it's publicity.  Publicity's publicity.  Right?"
+1272,JACK,1272,Right.
+1273,FRANK,1273,"The guy said to find Studio E and
+turn right.  What's that say?"
+1274,YOUTH,1274,Fast break!
+1275,FRANK,1275,I guess it's that way.
+1276,FRANK,1276,"This must be it.  I'll see when
+we're on."
+1277,EARL (MAN),1277,You the magician?
+1278,JACK,1278,No.
+1279,EARL,1279,Oh.  What do you do?
+1280,JACK,1280,Piano.
+1281,EARL,1281,Two at a time?
+1282,JACK,1282,My brother and I. One each.
+1283,EARL,1283,Oh.
+1284,JACK,1284,What's wrong with the kid?
+1285,EARL,1285,"Knee.  Tore it up against St. Anthony's.  Right
+before the accident."
+1286,JACK,1286,Accident?
+1287,EARL,1287,"The fire.  The way we're going we'll be lucky to
+buy a carton of jockstraps, let alone a new gym.
+As Jack registers this, Earl's PHONE RINGS.  Frank
+returns and gestures to the kid in the wheelchair."
+1288,FRANK,1288,We're on after Meadowlark.
+1289,FRANK,1289,What's wrong?
+1290,JACK,1290,"Are you kidding me?  Are you
+fucking kidding me?"
+1291,FRANK,1291,What?
+1292,JACK,1292,"We're playing for a goddamn
+gymnasium!"
+1293,FRANK,1293,What?
+1294,VINCE,1294,"Let's hear it for our own Jimmy
+Marshall, shall we?"
+1295,VINCE,1295,"As most of you'know, young Jimmy put a nasty twist
+on that knee trying to win-one for good ol' Grant
+High this year.  Luckily, the doctors tell us
+Jimmy'll be able to play next season.  That is ...
+if there is a next season."
+1296,VINCE,1296,"That's where you come in.  Pick up that phone.
+Make a donation.  Let's keep our kids off the
+streets and in the gym where they belong."
+1297,VINCE,1297,"All right.  Well, friends, what can I say about
+our next guest?"
+1298,VINCE,1298,"He, uh, they, uh, we are very pleased to have with
+us two of the most respected men in the musical
+entertainment field.  I think you'll agree with me
+when I tell you we're in for a real treat when I
+say that we have with us ... the Fabulous Bunker
+Boys!  Come on out here guys."
+1299,VINCE,1299,"Whoops, there they are.  Hey, nice
+suits, fellas."
+1300,VINCE,1300,"Now I know a lot of you amateur musicians out
+there are going to want to rap with these guys and
+don't worry.  Right after they finish up here,
+they're going to be manning the phones.  Maybe we
+can even convince them to raffle off a few piano
+lessons if we're lucky.  What do you think?"
+1301,VINCE,1301,"Well, all right then.  What are we
+waiting for?  Take it away, guys."
+1302,VINCE,1302,"Uh oh.  We know what that means, don't we?  It's
+time to turn the board over."
+1303,VINCE,1303,"I'm afraid you fellas'll just have to wait a minute.
+Let's bring out the board."
+1304,FRANK,1304,Jack ...
+1305,VINCE,1305,What the --
+1306,JACK,1306,"You're a fucking creep, you know
+that.  I oughta kick your ass."
+1307,FRANK,1307,"Jack, you're on television."
+1308,JACK,1308,"Shut up, Frank."
+1309,EARL,1309,"What do you say we go for a walk,
+pal."
+1310,JACK,1310,Get your hand off me.
+1311,EARL,1311,"Come on, friend.  I can smell it on you.
+Get yourself a cup of coffee.  You'll forget
+what you're angry about."
+1312,JACK,1312,Go fuck yourself.
+1313,EARL,1313,"You're a real tough guy when the
+ladies are around, aren't you, Ace?"
+1314,JACK,1314,"I don't see any ladies here.
+Except maybe you."
+1315,FRANK,1315,"Hey, leave him alone."
+1316,EARL,1316,Do your brother a favor and have his mouth sewn up.
+1317,JACK,1317,"You're a lousy dancer, Earl.  Don't
+you know the man's supposed to lead?"
+1318,EARL,1318,"Who do you think you are, asshole?
+Liberace?"
+1319,FRANK,1319,"Jack.  We just,passed the car. Jack.  This is a
+tuxedo.  Three hundred dollars."
+1320,FRANK,1320,"You gonna talk to me?  Or is this Jack's famous
+silent act?  Look, it was for publicity.
+Do you understand?  Publicity."
+1321,JACK,1321,"What-are you?  A fucking moron?
+It's three o'clock in the morning,
+Frank.  Who's watching?  Your wife?
+Maybe you can get us a gig playing
+Little Frank's birthday party.
+What do you think?"
+1322,FRANK,1322,"Look.  I didn't know when we were going to be on
+until yesterday.  What was I supposed to do?
+I had the pianos anyway."
+1323,JACK,1323,"Basketballs, Frank.  You had us
+playing for basketballs."
+1324,FRANK,1324,"I'm sorry.  I should've checked it out.  I screwed
+up.  But that doesn't mean you walk out in the middle
+of a gig."
+1325,JACK,1325,What?
+1326,FRANK,1326,"It wasn't professional, Jack.  It was a stunt.
+A stupid-ass stunt."
+1327,JACK,1327,"What's happening to you, Frank?  You been kissing
+ass so long you're starting to like it?  You let
+that guy turn us into clowns tonight.  We were
+always small time, but we were never clowns, Frank.
+What's happened to your dignity?"
+1328,FRANK,1328,"Dignity?  Who the hell are you to
+talk about dignity?"
+1329,FRANK,1329,"This where you get your dignity, Jack?
+This is where you get your courage?"
+1330,FRANK,1330,"No, let's do it straight for
+once, shall we?"
+1331,FRANK,1331,"Let me explain something to you, little brother.
+See, I've got people who depend on me.  I've got
+a wife and two children who expect to wake up every
+morning with food on the table and heat in the house.
+I got a mortgage.  I got car payments.  I got Ma's
+medical bills. Oh yeah, and I got you.  Yeah, you.
+Jack the shadow who's so cool and so hip and so
+fucking sure he's better than everyone else.  Don't
+you think I'd like to walk up to one of these assholes
+and blow smoke in his face?  Goddamn right I would.
+But I can't.  Because I have to be responsible, little
+brother.  I have to make sure the numbers balance out
+in my favor at the end of each month so everyone can go
+on living their lives.  You don't win medals for it,
+but you can be damn sure you'd all take notice if I
+folded up shop.  So don't talk to me about dignity,
+little brother.  You're drawing on a weak hand."
+1332,FRANK,1332,"Great.  Terrific.  Walk away.  You're good at that,
+Jack.  Just don't forget to stop off for another
+bottle of courage on your way home."
+1333,FRANK,1333,That's what he'd do.
+1334,FRANK,1334,"You've found the perfect solution to all the
+pain in the world, haven't you, little brother?
+Eight-fifty a bottle, available any time day or
+night at your friendly neighborhood liquor store.
+You're weak, Jack.  Just like he was."
+1335,JACK,1335,Stay off it.
+1336,FRANK,1336,"No, let's stay on it.  I'm sick and tired of
+watching you make him up into some kinda god.
+For Christ sake, Jack, he died doing a stupid
+bullshit jig.  He left a wife and two sons.  He
+wasn't a hero.  He was a fool."
+1337,JACK,1337,You weren't there.
+1338,FRANK,1338,"That's right.  I wasn't there.  I don't have the
+luxury of being a witness to tragedy."
+1339,JACK,1339,Fuck you.
+1340,FRANK,1340,"No, fuck you.  And fuck him too.
+Fuck the both-of you."
+1341,FRANK,1341,"Hey, what're you doing?  Hey!"
+1342,FRANK,1342,Jack! ... Jack! ...
+1343,JACK,1343,"How's it feel to have your little brother beat
+the shit out of you?  Huh?  Huh!"
+1344,FRANK,1344,My hands!  My hands!
+1345,JACK,1345,"Your hands.  Your hands couldn't take the blue
+ribbon on amateur night."
+1346,FRANK,1346,Jack!
+1347,JACK,1347,"Who's weak now, big brother?"
+1348,FRANK,1348,Jack!  JACK!
+1349,JACK,1349,"I'm through with it.  I can't do
+it anymore."
+1350,CINDY (V.0.),1350,Hello?
+1351,CINDY,1351,Hello ... Hellooooo ...
+1352,CINDY,1352,"Daddy.  Daddy!  Someone's on the
+phone and they won't talk."
+1353,MAN,1353,"If they wanna talk about their wife, you listen.
+If they wanna talk about their job, you listen.
+If they wanna talk about their parakeet, you listen.
+That's it, six nights a week, nine to one or until I
+send you home.  Okay?"
+1354,JACK,1354,That it?
+1355,MAN,1355,How many you need?
+1356,JACK,1356,It's out of tune.
+1357,MAN,1357,"Trust me, the way I fix a martini,
+it'll be in tune."
+1358,SUSIE (O.S.),1358,"I thought the Bakers didn't take
+tips."
+1359,JACK,1359,I give it all to charity.
+1360,SUSIE,1360,"Saw the sign outside.  Got your
+own sign, huh?"
+1361,JACK,1361,Yeah.  Got my own sign.
+1362,SUSIE,1362,So ... ?
+1363,JACK,1363,We outgrew each other.
+1364,SUSIE,1364,"Yeah, well, like I said, it didn't
+figure.  You two."
+1365,JACK,1365,You don't pick your brother.
+1366,SUSIE,1366,Yeah.
+1367,JACK,1367,So how's the cat food business?
+1368,SUSIE,1368,Terrific.  I'm doing vegetables next week.
+1369,JACK,1369,What kind?
+1370,SUSIE,1370,Huh?
+1371,JACK,1371,Vegetables.
+1372,SUSIE,1372,"Oh. Carrots.  And peas.  None of
+the important ones."
+1373,SUSIE,1373,"Listen... you want to get a drink?  I got a new
+place.  Or we could go to a bar ..."
+1374,SUSIE,1374,"Well, maybe not a bar.  But I know
+a place uptown, if you want --"
+1375,JACK,1375,I've given it up.
+1376,SUSIE,1376,"No kidding?  Well ... I guess you can't do a
+reunion over tomato juice, can you?"
+1377,SUSIE,1377,"Anyway, if you're ever in the
+neighborhood ... I wrote it down."
+1378,SUSIE,1378,"Tell egghead I said hi.  If you
+see him."
+1379,JACK,1379,If I see him.
+1380,JACK,1380,Hey.
+1381,JACK,1381,You got pretty eyes.
+1382,DONNA,1382,"Frank?  It's late, honey."
+1383,DONNA,1383,"Mrs. Lerner called after dinner.  Robbie can't make
+his lesson tomorrow."
+1384,FRANK,1384,"You know how good he is?  It's like breathing
+with him.  I've always envied it.  But tonight,
+looking at all this -- at his face -- I don't know.
+Maybe it's worse.  For him."
+1385,FRANK,1385,"It's funny.  When I sit here and play ... nothing.
+But when I was up there with him...
+It was like I had the gift, too."
+1386,FRANK,1386,"Come on, Jeremy.  Open the door."
+1387,FRANK,1387,"Jeremy.  You want me to call your father?
+He's not going to be very happy when he hears
+he's spending fifteen dollars an hour for you
+to sit on the toilet."
+1388,DONNA,1388,Honey ...
+1389,FRANK,1389,"You believe this?  The kid won't come out.  I'm
+playing 'Camptown Races' for him and the next
+thing I know he's locked himself in the bathroom.
+There's nothing sharp in there, is there?"
+1390,DONNA,1390,Honey ...
+1391,FRANK,1391,"Where are our kids?
+Has he got one of them in there?"
+1392,DONNA,1392,Frank.
+1393,JACK,1393,Donna.  Where is she?
+1394,DONNA,1394,"We tried the apartment, but after
+that we didn't know where to call."
+1395,DONNA,1395,"Frank'll be back in a moment.
+He took Little Frank to the bathroom."
+1396,DONNA,1396,Jack ...
+1397,SUSIE,1397,Jack.
+1398,JACK,1398,Hi.
+1399,SUSIE,1399,"Well, this is some surprise."
+1400,SUSIE,1400,"Hey ... You don't look so good, pal."
+1401,SUSIE,1401,Jack?
+1402,SUSIE,1402,You want to come in?
+1403,SUSIE,1403,Let me get the light.
+1404,JACK,1404,No.
+1405,JACK,1405,Leave it dark.
+1406,SUSIE,1406,I used to do that.
+1407,SUSIE,1407,"Sneak out in the morning.  Before the guy could
+wake up and ruin it.  Never figured I'd be on
+the other end of it, though."
+1408,JACK,1408,I didn't want to wake you.
+1409,SUSIE,1409,Yeah.
+1410,JACK,1410,Thanks.  For letting me in last night.
+1411,SUSIE,1411,"Funny how life repeats itself, huh?  Over and over.
+Like a song."
+1412,SUSIE,1412,Hey.
+1413,SUSIE,1413,Am I gonna see you again?
+1414,JACK,1414,Yeah.  You're gonna see me again.
+1415,SUSIE,1415,Okay.
+1416,JACK,1416,What're you looking for?
+1417,FRANK,1417,I didn't hear you come in.
+1418,JACK,1418,What're you doing?
+1419,FRANK,1419,"Uh, we already boxed some things.  I figured you'd
+want to go through Dad's stuff.  It's in there.
+If you want to get started."
+1420,JACK,1420,Later.
+1421,JACK,1421,"Is everything done?  The arrangements, I mean."
+1422,FRANK,1422,"Oh. Yeah.  It was all worked out before, you know.
+She and Dad had taken care of it."
+1423,JACK,1423,Right.
+1424,FRANK,1424,"I set it for Wednesday.  The ceremony.  They're
+doing the stone today."
+1425,FRANK,1425,It's okay?  Wednesday?
+1426,JACK,1426,"Yeah, fine."
+1427,FRANK,1427,"There's not going to be a viewing.
+I figured with the kids and all ..."
+1428,JACK,1428,Sure.
+1429,FRANK,1429,"It's funny.  Before, whenever I came here, the
+house seemed small.  But today ... I can't keep
+up with it. I keep losing my wind."
+1430,FRANK,1430,"God, I could use a drink."
+1431,FRANK,1431,"Oh. Well, great.  I'll get a couple glasses."
+1432,FRANK,1432,"Damn.  Donna must've packed
+them up this morning."
+1433,JACK,1433,Go ahead.
+1434,FRANK,1434,No.
+1435,JACK,1435,"Bought it on the way over.  Clean
+as a nun."
+1436,FRANK,1436,"No, it's not that.  I ... can't
+drink from the bottle.  I ... gag."
+1437,JACK,1437,"Oh, yeah, right.  I forgot."
+1438,FRANK,1438,"Oh, hey, I want to show you
+something.  Come on."
+1439,FRANK,1439,Hit the C. Go ahead.
+1440,FRANK,1440,"I'm right, aren't I? They're
+in tune."
+1441,FRANK,1441,"All these years.  She kept them in tune.
+Can you imagine?
+Now why would she do something like that?"
+1442,FRANK,1442,"Hey, what do you know.  Looks like we can have
+that drink after all."
+1443,FRANK,1443,"What's your pleasure?  We got the downtown Ramada.
+We got the Travelodge on Route 41.
+And ... the Mallory."
+1444,JACK,1444,I'll take the Mallory.
+1445,FRANK,1445,Good choice.
+1446,FRANK,1446,Looks like these got a few years on them.
+1447,JACK,1447,This'll kill 'em.
+1448,FRANK,1448,Jesus.
+1449,JACK,1449,How're your hands?
+1450,FRANK,1450,"Oh. Fine.  It was nothing.  Couple
+sore knuckles.  Nothing."
+1451,JACK,1451,"You know, that night, I ... It
+just all came up."
+1452,FRANK,1452,"Yeah, I know.  Me, too."
+1453,JACK,1453,"I mean, you can play.  You're
+okay."
+1454,FRANK,1454,I can keep the beat.
+1455,FRANK,1455,Charlie called.
+1456,JACK,1456,Yeah?
+1457,FRANK,1457,"Yeah.  Larry Shelton.  Blackie.  Couple others.
+Donna said even Lloyd called the other day.
+Nothing like a little absence to make the heart
+grow fonder, huh?"
+1458,JACK,1458,Yeah.
+1459,FRANK,1459,"Jesus, when was the last time we played the Mallory?"
+1460,JACK,1460,Five years ago.
+1461,JACK,1461,November.
+1462,FRANK,1462,"Right.  It was someone's birthday.
+Halloran?"
+1463,JACK,1463,Daughter's.  Sweet sixteen.
+1464,FRANK,1464,"Christ, that's right.  How could
+I forget.  What a nightmare."
+1465,JACK,1465,She asked for it.
+1466,FRANK,1466,"I told Halloran we didn't do
+vocals, but he said:"
+1467,JACK AND FRANK,1467,"What my Sissy-wants, my Sissy gets."
+1468,JACK,1468,She got it all right.
+1469,JACK AND FRANK,1469,"She comes on like a dream
+Peaches and cream
+Lips like strawberry wine
+She's sixteen, she's beautiful and she's mine.
+Ribbons and curls
+Ooh, what a girl
+Eyes that sparkle and shine
+You're sixteen, you're beautiful, and you're mine."
+1470,FRANK,1470,Well ... One more time?

@@ -1,0 +1,4312 @@
+{
+ "movie_url": "https://imsdb.com/scripts/Rocky-Horror-Picture-Show,-The.html",
+ "movie_title": "Rocky Horror Picture Show",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "THE\nROCKY HORROR\nPICTURE SHOW\nA SCREENPLAY BY JIM SHARMAN AND RICHARD O'BRIEN\nAdapted from \"The Rocky Horror Show\" a musical\nwith Book, Music & Lyrics by Richard O'Brien\n1\tTHE FIRST IMAGE IS A SET OF RED VELVET CINEMA CURTAINS\nSoft Drum-Roll.\n2\tTHEY SPLIT OPTICALLY TO REVEAL THE DISTRIBUTION COMPANY LOGO."
+  },
+  {
+   "type": "stage direction",
+   "text": "Fanfare.\n3\tA SMALL WHITE SCREEN - ACADEMY SIZE - APPEARS IN THE MIDDLE OF THE\nWIDE-SCREEN FORMAT\nOn the sides of the image are stationary sprocket holes of celluloid.\nSCIENCE FICTION DOUBLE FEATURE * Musical Introduction.\nFilm head runs down numbers:  10, 9, 8, 7, 6, 5, 4, 3, 2, 1, START.\nVery scratched.  During the SONG we see snatches of the films mentioned\nin SONG.  They look old and scratched and they are INTERCUT with flashes\nof white screen, burnt celluloid, etc.\nSONG:\t\t\"SCIENCE FICTION DOUBLE FEATURE\"\n4\tTHE DAY THE EARTH STOOD STILL - THE END SEQUENCE OF THE ROBOT CARRYING\nTHE HERO"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE OVER",
+   "text": "Michael Rennie was ill.\nThe day the earth stood still\nBut he told us where we stand"
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n5\tFLASH GORDON - BUSTER CRABBE IN ACTION"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE OVER (Cont)",
+   "text": "And Flash Gordon was there\nIn silver underwear."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n6\tTHE INVISIBLE MAN - CLAUDE RAINS IN BANDAGES AND DARK GLASSES"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE OVER (Cont)",
+   "text": "Claude Rains was the invisible man."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n7\tKING KONG - EMPIRE STATE BUILDING SEQUENCE WITH FAY WRAY"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE OVER (Cont)",
+   "text": "Then something went wrong\nFor Fay Wray and King Kong\nThey got caught in a celluloid jam"
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n8\tIT CAME FROM OUTER SPACE - GEODESIC GLOBE ECLIPSING THE EARTH"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE OVER (Cont)",
+   "text": "Then at a deadly pace\nIt came from outer space\nAnd this is how the message ran"
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n9\tTITLE SEQUENCE - CAST AND WRITING CREDITS"
+  },
+  {
+   "type": "speech",
+   "character": "CHORUS",
+   "text": "Science Fiction - double-feature\nDr X will build a creature\nSee Androids fighting Brad and Janet\nAnne Francis stars in Forbidden Planet\nOh - at the late night, double-feature\nPicture Show."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n10\tTARANTULA - THE MUTATION SEQUENCE"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE OVER",
+   "text": "I knew Leo G. Carrol\nWas over a barrel\nWhen tarantula took to the hills"
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n11\tTHE DAY OF THE TRIFFIDS - FIGHT IN THE LIGHTHOUSE"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE OVER (Cont)",
+   "text": "And I really got hot\nWhen I saw Jeanette Scott\nFight a Triffid that spits poison and kills"
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n12\tTHE NIGHT OF THE DEMON - SEQUENCE OF \"RUNIC WRITING\", FLYING INTO THE\nFIRE"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE OVER (Cont)",
+   "text": "Dana Andrews said prunes\nGave him the runes\nAnd passing them used lots of skills."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n13\tWHEN WORLDS COLLIDE - ROCKET INVASION SEQUENCE"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE OVER (Cont)",
+   "text": "And when worlds collide\nSaid George Pal to his bride\nI'm going to give you some terrible trills\nLike a -"
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n14\tTITLE CONTINUED - TECHNICAL AND PRODUCTION CREDITS"
+  },
+  {
+   "type": "speech",
+   "character": "CHORUS",
+   "text": "Science Fiction - double-feature\nDr X will build a creature\nSee Androids fighting Brad and Janet\nAnne Francis stars in Forbidden Planet\nOh - at the late-night, double-feature\nPicture Show\nBy RKO O- Oh\nAt the late-night, double-feature\nPicture Show\nIn the back row\nAt the late-night, double-feature\nPicture Show\nI want to go."
+  },
+  {
+   "type": "stage direction",
+   "text": "DISSOLVE TO\n15\tEXT.\tA STILL FRAME OF A DENTON CATHOLIC CHURCH\tDAY"
+  },
+  {
+   "type": "speech",
+   "character": "CHORUS (Cont)",
+   "text": "To the late night double feature\nPicture Show."
+  },
+  {
+   "type": "stage direction",
+   "text": "The SONG ends with church bells ringing joyously as the IMAGE EXPANDS TO\nWIDE-SCREEN.  The STILL FRAME bursts to life as the doors of the Denton\nCatholic Church are flung open and Mendelssohn's wedding march resounds\nfrom the church organ.\nThe young married couple, RALPH and BETTY HAPSCHATT appear followed by a\ncrowd of friends and well-wishers throwing confetti and shouting\nexcitedly.\nThe MINISTER shakes RALPH by the hand while RALPH slips him a $20 bill.\nPHOTOGRAPHERS take pictures.\nBRAD MAJORS, a young slightly awkward, clean-cut American in his mid-\ntwenties, comes over the congratulate RALPH.  BRAD and RALPH shake\nhands."
+  },
+  {
+   "type": "speech",
+   "character": "RALPH",
+   "text": "Well Brad, I guess we made it huh!"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Well I don't think there was any doubt\nabout that - You and Betty have been\nalmost inseparable ever since you sat\nin on Dr Scott's refresher lectures."
+  },
+  {
+   "type": "speech",
+   "character": "RALPH",
+   "text": "Tell you the truth Brad, she was the\nonly reason I came in the first place.\nScience was never one of my favourite\nsubjects but I sure with Dr Scott\ncould have made it today."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Yes, Janet and I are both fond of him.\nWe drove over to see him last vacation.\nIt's a shame his new job took him away\nfrom Denton."
+  },
+  {
+   "type": "stage direction",
+   "text": "BETTY, the bride, throws the bouquet.\nJANET catches it.  She squeals with delight.\nThe GUESTS cheer."
+  },
+  {
+   "type": "speech",
+   "character": "RALPH",
+   "text": "Hey fella.  It looks like it could be\nyour turn next."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Who knows...ha ha."
+  },
+  {
+   "type": "stage direction",
+   "text": "RALPH & BETTY drive off.  GUESTS wave and shout, BRAD & JANET with great\nenthusiasm.  GUESTS begin to disperse.\nJANET & BRAD linger outside the church.  So do a strange FAMILY :  An\nold man with a pitchfork and his wife and daughter.  They resemble the\nQuaker family in \"American Gothic\", a painting.\nThe MOTHER (MAGENTA) and FATHER (RIFF RAFF) stand outside the church\ndoors.  Their DAUGHTER (COLUMBIA) goes inside.  The FAMILY, and the\nMINISTER (FRANK N. FURTER), and the GUESTS all resemble characters we\nshall meet later at the Frank N. Furter place."
+  },
+  {
+   "type": "speech",
+   "character": "JANET (who is holding the bouquet)",
+   "text": "Oh Brad, wasn't it wonderful. Didn't\nBetty look radiantly beautiful.\nJust an hour ago she was plain old\nBetty Monroe.  Now she's Mrs.\nRalph Hapschatt."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD (Still looking after the car)",
+   "text": "Er...yes, Janet.......Ralph's a\nlucky guy.  (They start to move d.s.)"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Everyone knows Betty's a wonderful\nlittle cook."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "And Ralph himself will be in line for\npromotion in a year or so."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Yes."
+  },
+  {
+   "type": "stage direction",
+   "text": "FIRST CHORD OF \"WEDDING SONG\"\n16\tEXT.\tCHURCH\tDAY\n\"WEDDING SONG\" (Silent playback for dialogue)\nWith great decision BRAD turns on JANET"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD (spoken)",
+   "text": "Hey Janet."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Yes Brad."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I've got something to say."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Uh huh."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I really loved the skilful way\nYou beat the other girls\nTo the bride's bouquet."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh Brad."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Singing begins)"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "The river was deep but I swam it."
+  },
+  {
+   "type": "speech",
+   "character": "FAMILY (Riff & Magenta)",
+   "text": "Janet."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "The future is ours so let's plan it."
+  },
+  {
+   "type": "speech",
+   "character": "FAMILY (R & M)",
+   "text": "Janet."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "So please don't tell me to can it."
+  },
+  {
+   "type": "speech",
+   "character": "FAMILY (R & M)",
+   "text": "Janet."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I've one thing to say and that's\nDammit, Janet.\nI love you.\nThe road was long but I ran it.\n(He runs backwards towards church doors)"
+  },
+  {
+   "type": "speech",
+   "character": "FAMILY (Riff and Magenta)",
+   "text": "Janet."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD (Climbing onto fence)",
+   "text": "There's a fire in my heart\nAnd you fan it.  (Jumps off)"
+  },
+  {
+   "type": "speech",
+   "character": "FAMILY (Riff and Magenta)",
+   "text": "Janet."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "If there's one fool for you\nThen I am it."
+  },
+  {
+   "type": "speech",
+   "character": "FAMILY (Riff and Magenta)",
+   "text": "Janet."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD (Getting chalk from pocket)",
+   "text": "I've one thing to say and that's,\nDammit, Janet."
+  },
+  {
+   "type": "stage direction",
+   "text": "He chalks a heart and arrow on the church door, which Riff Raff proceeds\nto wipe off."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I love you."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET runs to him, he kneels and produces a ring."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Here's a ring to prove that\nI'm not joker."
+  },
+  {
+   "type": "stage direction",
+   "text": "CHURCH BELLS Peal out.  RIFF & MAGENTA open doors and solemnly enter the\nchurch, door closes behind them."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "There's three ways that love can grow.\nThat's good bad or mediocre."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET grabs the ring as BRAD rises.  She throws down the bouquet and\nwould fall into BRAD's arms but he goes to the door to chalk on it\nagain."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Oh - J - A - N - E - T\nI love you so."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET, transfixed, bursts into the church.\n17\tINT. CHURCH\t\tDAY\n\"WEDDING SONG\"  Pt. 2\nJANET bursts into the church, hypnotised by the ring.  BRAD follows her."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh!......It's nicer than\nBetty Munroe had"
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA (Peering up from behind pew)",
+   "text": "Oh Brad."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Now we're engaged and I'm so glad."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA & COLUMBIA",
+   "text": "Oh Brad.  (Both peer up and disappear)"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "That you met Mom\nAnd you know Dad."
+  },
+  {
+   "type": "speech",
+   "character": "WHOLE FAMILY",
+   "text": "Oh Brad.  (peering up together)"
+  },
+  {
+   "type": "speech",
+   "character": "JANET (Taking his arm)",
+   "text": "I've one thing to say\nAnd that's, Brad\nI'm mad,\nFor you too."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD & JANET start to walk d.s., arm in arm.\nthe strange FAMILY march slowly across them l/r., in front."
+  },
+  {
+   "type": "speech",
+   "character": "JANET (Laying head on Brad's sh.)",
+   "text": "Oh, Brad."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Oh Dammit."
+  },
+  {
+   "type": "speech",
+   "character": "JANET (Caresses his cheek)",
+   "text": "I'm mad....."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Oh Janet"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "For you."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD (briefly kisses her)",
+   "text": "I love you too-oo-oo."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD takes JANET's hands, turning to her.  We are aware of THE FAMILY\nbringing in coffin in b.g. through vestry door."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD & JANET",
+   "text": "There's one thing left to do-ah-ooh"
+  },
+  {
+   "type": "stage direction",
+   "text": "(They separate)"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "And that's go see the man\nWho began it"
+  },
+  {
+   "type": "speech",
+   "character": "FAMILY (Carrying coffin)",
+   "text": "Janet."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "When we met in his science exam\nIt -"
+  },
+  {
+   "type": "stage direction",
+   "text": "THE FAMILY move into position behind BRAD & JANET"
+  },
+  {
+   "type": "speech",
+   "character": "FAMILY",
+   "text": "Janet."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Made me give you the eye\nAnd then panic,"
+  },
+  {
+   "type": "speech",
+   "character": "FAMILY",
+   "text": "Janet"
+  },
+  {
+   "type": "stage direction",
+   "text": "FAMILY lower coffin onto floor."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I've got one thing to say, and that's\nDammit,\nJanet.\nI love you."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET runs to BRAD and he hugs her."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD (Circling Janet)",
+   "text": "Dammit, Janet."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET circles BRAD twice, admiring her ring on the way."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh Brad,\nI'm mad."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Dammit, Janet."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD & JANET kneel together with each following word until they are\nkneeling on the floor)"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD, JANET, FAMILY.",
+   "text": "I love you."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD & JANET kiss.\nThe cross above spits optically.\n18\tINT.\tA STUDY\tNIGHT\nMahogany bookcases, a large desk with a prominent globe of the world.  A\nwell-padded armchair has its back to the camera.  It swings around\nrevealing the NARRATOR.  He is in his smoking jacket.  He speaks\ndirectly to us."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "I would like if I may to take you on a\nstrange journey."
+  },
+  {
+   "type": "stage direction",
+   "text": "He crosses to the bookshelf.  He selects a dossier.  We see the title:\n\"The Denton Affair\".  He returns to his desk and places it on a\nbookstand.  He puts on his reading glasses."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "It seemed a fairly ordinary night when\nBrad Majors and his fiancee Janet Weiss\n(two young ordinary healthy kids) left\nDenton that late November evening to\nvisit Dr Everett Scott, ex. tutor and\nnow friend of both of them.  It's true\nthere were dark storm clouds, heavy,\nblack and pendulous, toward which they\nwere driving.  It's true also that the\nspare tyre they were carrying was badly\nin need of some air.  But they being\nnormal kids and on a night out, well\nthey were not going to let a storm\nspoil the events of their evening.\nOn a night out."
+  },
+  {
+   "type": "stage direction",
+   "text": "He closes the book marking the place.\nThunder is heard distantly on the sound track."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "It was a night out they were going to\nremember for a very long time."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lighting cracks on the sound track.\nWIPE TO\n19\tEXT.\tNIGHT\nA windscreen wiper working under strain.  Torrential rain on the\nwindscreen.  BRAD concentrating on visibility.  JANET eating chocolates\nand listening to the car radio playing an Orson Welles serial - The\nShadow.\nA motorcycle roars past them."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Gosh.  That's the third motorcyclist\nthat's passed us.  They certainly take\ntheir lives in their hands.  What with\nthe weather and all."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Yes, Janet.  Life's pretty cheap to\nthat type."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET takes another stick of gum.\nOffers BRAD some.  He declines.\nThe car slows to a halt."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "What's the matter Brad, darling?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Headlights on sign reading: \"DEAD END\"."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I think we took the wrong fork a few\nmiles back."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh dear!  But then where did the\nmotorcyclists come from?"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Hmmm ... Well, I guess we will have\nto turn back."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n20\tEXT.\tROAD\tNIGHT\nCar reverses.\nBRAD puts his foot on the accelerator.  The wheel skids and explodes.\nCUT TO\n21\tINT.\tCAR\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "What was that bang?"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "We must have a blow-out."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause\nCUT TO\n22\tEXT.\tROAD\tNIGHT\nA bolt of lighting strikes a tree.\nCUT TO\n23\tINT.\tCAR\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "You'd better sit here and keep warm\nwhile I go for help."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "But where will you go?  We're in the\nmiddle of nowhere."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Didn't we pass a castle back down the\nroad a few miles?  Maybe they have\na telephone I might use."
+  },
+  {
+   "type": "stage direction",
+   "text": "He unbuckles his seatbelt."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "I'm coming with you."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "There's no point both of us getting wet."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "I'm coming with you."
+  },
+  {
+   "type": "stage direction",
+   "text": "(she unbuckles her seatbelt)"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Besides, darling, the owner of the phone\nmight be a beautiful woman and you may\nnever come back."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD laughs.\nA thunderclap.\nMUSIC commences and she alights from the car and follows him, newspaper\nover her head.\nCUT TO\n24\tEXT.\tROAD\tNIGHT\nSONG:\t\t\"OVER AT THE FRANKENSTEIN PLACE\"\nThe rain pours off the newspaper down JANET's face.  She walks along,\ncatching up with BRAD.\nShe sing plaintively."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "In the velvet darkness\nOf the blackest night\nBurning bright."
+  },
+  {
+   "type": "stage direction",
+   "text": "We see the two of them - BRAD striding ahead, JANET nearly catching up\nwith him.\nBehind them on the side of the road, sparse trees and rock formations."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "There's a guiding star\nNo matter what or who you are."
+  },
+  {
+   "type": "stage direction",
+   "text": "They have passed a row of trees.  A rock formation in the shape of a\ncastle is silhouetted against the sky.  It has a flag flying from the\nturret.\nLightning strikes.\nA glow of light appears in a window.  It illuminates a path to the\ncastle.\nBRAD and JANET turn.\nThe castle is in the distance between the two of them."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD & JANET",
+   "text": "There's a light"
+  },
+  {
+   "type": "stage direction",
+   "text": "The castle looms in the distance."
+  },
+  {
+   "type": "speech",
+   "character": "PHANTOM VOICES",
+   "text": "Over at the Frankenstein place."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD stares hard."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "There's a light."
+  },
+  {
+   "type": "stage direction",
+   "text": "The castle looms closer."
+  },
+  {
+   "type": "speech",
+   "character": "PHANTOM VOICES",
+   "text": "Burning in the fireplace."
+  },
+  {
+   "type": "stage direction",
+   "text": "(looks to Brad)"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "There's a light, a light\nIn the darkness of everybody's life"
+  },
+  {
+   "type": "stage direction",
+   "text": "Taking JANET by the hand, BRAD moves off the roadway towards the house."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I can see the flag fly\nI can see the rain\nJust the same\nThere has got to be\nSomething better here\nFor you and me."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lighting strikes.\nJANET jumps towards BRAD."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD & JANET",
+   "text": "There's a light."
+  },
+  {
+   "type": "stage direction",
+   "text": "The castle seems to move forward."
+  },
+  {
+   "type": "speech",
+   "character": "PHANTOM VOICES",
+   "text": "Burning in the fireplace."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "There's a light."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n25\tEXT.\tCASTLE DRIVEWAY\tNIGHT\nA motorcycle convoy roars by revealing a hidden road to the castle."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "A light\nIn the darkness of everybody's life."
+  },
+  {
+   "type": "stage direction",
+   "text": "The convoy drives up and disappears into a secret entrance in the rock.\nCUT TO\n26\tEXT.\tCASTLE FACADE\tNIGHT\nWe see a cell-like window near a massive lighted window.  A tortured\nface appears squinting into the darkness."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "The darkness must go\nDown the river of nights dreaming\nFlow morphia slow\nLet the sun and light come streaming\nInto my life."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n27\tEXT.\tSKY\tNIGHT\nLightning strikes.\nCUT TO\n28\tCASTLE FACADE\tNIGHT\nRIFF RAFF moves to the lighted window where his hunchbacked shape\nbecomes a giant shadow."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Into my life."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n29\tEXT.\tCASTLE DRIVE\tNIGHT\nBRAD and JANET start moving down the driveway."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD & JANET",
+   "text": "There's a light."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n30\tCASTLE FACADE\tNIGHT\nShadow turns in the window."
+  },
+  {
+   "type": "speech",
+   "character": "PHANTOM VOICES",
+   "text": "Over at the Frankenstein place."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n31\tEXT.\tCASTLE DRIVE\tNIGHT\nBRAD and JANET approach the gateway to the castle."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD & JANET",
+   "text": "There's a light."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n32\tCASTLE FACADE\tNIGHT\nThe shadow slowly covers the whole window."
+  },
+  {
+   "type": "speech",
+   "character": "PHANTOM VOICES",
+   "text": "Burning in the fireplace."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n33\tEXT.\tCASTLE DRIVE\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "PHANTOM VOICES",
+   "text": "There's a light, a light."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD and JANET are at the gate.  There is a rusted sign."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD & JANET",
+   "text": "In the darkness of everybody's life."
+  },
+  {
+   "type": "stage direction",
+   "text": "A bolt of lighting illuminates the sign which reads:  FRANK N. FURTER -\nSCIENTIST.\nWIPE TO\n34\tINT.\tSTUDY\tNIGHT\nThe NARRATOR is in his armchair.  He leans forward with some urgency."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "And so it seemed that fortune had smiled\non Brad and Janet and that they had found\nthe assistance that their plight required -\nor had they?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Thunderclap.\nWIPE TO\n35\tEXT.\tFRONT DOOR OF THE CASTLE\tNIGHT\nBRAD rings the doorbell.  It makes a strange sound."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh, Brad.  Let's go back.  I'm cold\nand I'm frightened."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Just a moment, Janet.  They may have\na telephone."
+  },
+  {
+   "type": "stage direction",
+   "text": "The door opens.  Throbbing music is heard in the background as if there\nis a party going on in the distance.\nThe figure we have seen at the window emerges.  He is a hunch-backed\nservant, RIFF RAFF."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Hello."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Uh - oh - Hi!  My name is Brad Majors.\nAnd this is my fiancee, Janet Weiss.  I -\nah - wondered if you could help us.  Our\ncar has broken down about two miles up the\nroad.  Do you have a phone we might use?"
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "You're wet."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Yes, the rain has been very heavy."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Yes."
+  },
+  {
+   "type": "stage direction",
+   "text": "36\tEXT.\tCASTLE\tNIGHT\nA bolt of lighting illuminates a row of vehicles parked by the castle.\n37\tEXT.\tFRONT DOOR OF CASTLE\tNIGHT\nBRAD sees them and reacts with surprise.\nRIFF RAFF realises BRAD has seen them."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "I think you had better both come inside."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "You're too kind."
+  },
+  {
+   "type": "stage direction",
+   "text": "They enter apprehensively.\nDISSOLVE\n38\tINT.\tSTAIRWAY\tNIGHT\nRIFF RAFF leads them down a stairway and beckons them to follow.\nThe MUSIC has become louder."
+  },
+  {
+   "type": "stage direction",
+   "text": "(sotto voce)"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh Brad, I'm frightened.  What kind\nof place is this?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(sotto voce)"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Oh, it's probably some kind of hunting\nlodge for rich weirdos."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n39\tINT.\tHALLWAY\tNIGHT\nThey arrive at a hallway at the bottom of the stairs.  Another servant,\nMAGENTA, who bears a striking physical resemblance to RIFF RAFF is\nvacuuming the stairs."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "This way."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET steps over the vacuum lead."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Are you - giving a party?"
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "No.  You've arrived on a rather special\nnight.  It's one of the master's affairs."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh, lucky him."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "He's lucky."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD and JANET look at MAGENTA, surprised by her voice."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "You're lucky, I'm lucky, we're all\nlucky."
+  },
+  {
+   "type": "stage direction",
+   "text": "40\tSONG:\t\t\"THE TIME WARP\"\nBRAD and JANET are rather unnerved by this outburst from the domestic.\nThey look back to RIFF RAFF.  He is now standing by a set of mirrors\nreflecting to infinity."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "It's astounding\nTime is fleeting\nMadness takes its toll\nBut listen closely\nNot for very much longer\nI've got to keep control."
+  },
+  {
+   "type": "stage direction",
+   "text": "MAGENTA gives RIFF RAFF a strange signal.\nRIFF RAFF starts to dance in an extraordinary fashion."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "I remember doing the Time Warp."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD and JANET are amazed."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Drinking those moments when\nThe blackness would hit me."
+  },
+  {
+   "type": "stage direction",
+   "text": "MAGENTA half closes her eyes in pleasure.\nJANET clings to BRAD."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "And the void would be calling."
+  },
+  {
+   "type": "stage direction",
+   "text": "RIFF RAFF opens a set of double doors marked BALLROOM.\n41\tINT.\tBALLROOM\tNIGHT\nBRAD and JANET find themselves on a balcony of a huge black and silver\nballroom.  At the furthest end is a throne-like chair and, surrounding\nit, a theatre proscenium.  In the body of the room are GUESTS.  They are\nthe people BRAD and JANET passed on the road.  They are the\nTransylvanian Secret Agents - assembled on this special occasion from\nall over the earth.  It is the Annual Transylvanian Convention -\nannounced by an official banner suspended over the Ballroom.  They are\nall dressed in strange but elegant evening wear.  They are a distorted\nversion of the GUESTS from the Denton wedding.  A party spirit prevails,\nthey throw their arms out in a plea to RIFF RAFF on the balcony."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Let's do the Time Warp again."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET falls into BRAD's arms.\nRIFF RAFF is ecstatic.\nBRAD revives JANET."
+  },
+  {
+   "type": "stage direction",
+   "text": "(repeating action)"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Let's do the Time Warp again."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET faints again.\nCUT TO\n42\tINT.\tSTUDY\tNIGHT\nThe NARRATOR moves from his desk to the wall behind him.  He pulls down\na chart with illustrated dance steps on it.  He gestures to the\nappropriate section of the diagram with the pointer."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "It's just a jump to the left."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n43\tINT.\tBALLROOM\tNIGHT\nThe GUESTS leap to the left in one giant step."
+  },
+  {
+   "type": "stage direction",
+   "text": "(dancing)"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "And a step to the right - right -\nright - right - right."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n44\tINT.\tSTUDY\tNIGHT\nNARRATOR points to next step on the chart."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "With your hands on your hips."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n45\tINT.\tBALLROOM\tNIGHT\nALL GUESTS have hands on hips."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "You bring your knees in tight.\nBut it's the pelvic thrust."
+  },
+  {
+   "type": "stage direction",
+   "text": "The rows of GUESTS open out with pelvic thrusts."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS (Cont)",
+   "text": "They really drive you insane."
+  },
+  {
+   "type": "stage direction",
+   "text": "We see them from the balcony and they open out in formation."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS (Cont)",
+   "text": "Let's do the Time Warp again."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET revives.\nThe GUESTS re-form."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Let's do the Time Warp again."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD and JANET make a run out the door.\nCUT TO\n46\tINT.\tSTAIRWAY\tNIGHT\nThey collide with MAGENTA who has blocked off the corridor with her\nvacuum.  She sings with menace, waving the cleaner hose dangerously."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "It's so dreamy\nOh, fantasy free me\nSo you can't see me\nNo not at all."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD and JANET look at each other in alarm."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "In another dimension."
+  },
+  {
+   "type": "stage direction",
+   "text": "(she forces them back towards\nbalcony)"
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "With voyeuristic intention."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD blushes."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "Well secluded I see all\nWith a bit of a mind flip\nYou're into the time slip\nNothing will ever seem the same."
+  },
+  {
+   "type": "stage direction",
+   "text": "They are back at the balcony."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "You're spaced out on sensation."
+  },
+  {
+   "type": "stage direction",
+   "text": "They are at the edge of the balcony."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "Like you're under sedation."
+  },
+  {
+   "type": "stage direction",
+   "text": "They force BRAD and JANET into the Ballroom proper.\nThe GUESTS turn on them."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Let's do the Time Warp again."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD and JANET are completely dismayed."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Let's do the Time Warp again."
+  },
+  {
+   "type": "stage direction",
+   "text": "COLUMBIA, a young girl, is the household groupie.  She sings with the\nband at the end of the Ballroom.\nCUT TO\n47\tINT.\tBANDSTAND\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "Well I was walking down the street\nJust having a think\nWhen a snake of a guy\nGave me an evil wink.\nWell it shook me up\nIt took me by surprise\nHe had a pick-up truck\nAnd the devil's eyes\nHe stared at me\nAnd I felt a change\nTime meant nothing\nNever would again."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n48\tINT.\tBALLROOM\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Let's do the Time Warp again."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD and JANET are reeling."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Let's do the Time Warp again."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n49\tINT.\tSTUDY\tNIGHT\nNARRATOR.  He has now become rather involved in the dance and is\nstanding on the blotter on the top of his desk."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "It's just a jump to the left."
+  },
+  {
+   "type": "stage direction",
+   "text": "He jumps to the left.\nWIPE TO\n50\tINT.\tBALLROOM\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "And then a step to the right."
+  },
+  {
+   "type": "stage direction",
+   "text": "The GUESTS take one.\nWIPE TO\n51\tINT.\tSTUDY\tNIGHT\nThe NARRATOR dancing on the desk."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "With your hands on your hips."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n52\tINT.\tBALLROOM\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "You bring your knees in tight."
+  },
+  {
+   "type": "stage direction",
+   "text": "OVERHEAD TRAVELLING SHOT."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "But it's the pelvic thrust."
+  },
+  {
+   "type": "stage direction",
+   "text": "LOW TRAVELLING SHOT between their legs."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "That really drives you insane.\nLet's do the Time Warp again."
+  },
+  {
+   "type": "stage direction",
+   "text": "Everyone reverses direction."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Let's do the Time Warp again."
+  },
+  {
+   "type": "stage direction",
+   "text": "All the GUESTS fall to the floor like flies exhausted.\nCUT TO\n53\tINT.\tBALCONY/HALLWAY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh....Say something."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Say!  Do any of you guys know the Madison?"
+  },
+  {
+   "type": "stage direction",
+   "text": "No one laughs.\nGUESTS turn nasty.\n53A\tINT.\tHALL/LIFT\tNIGHT\nBRAD and JANET retreat to the hall.  Behind them a lift slowly descends\nbearing a figure in a black cloak and a diamante stiletto heel - beating\ntime to a rhythm the band has started playing."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Brad, please lets get out of here."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "For God's sake keep a grip on yourself Janet."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "But it seems so unhealthy here."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "It's just a..a party Janet."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Well I want to leave."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "We can't go anywhere until I get to a phone."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Then ask the butler - or someone."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Let's wait awhile Janet.  We don't want\nto interfere with their celebrations."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "This isn't the Junior Chamber of\nCommerce Brad."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "They're probably foreigners with ways\ndifferent from our own.  -  They may\ndo some more folk dancing."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Brad - I'm cold, I'm wet, and plain scared."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I'm here, there's nothing to worry about."
+  },
+  {
+   "type": "stage direction",
+   "text": "GUESTS rise, staring mesmerised at the lift.\nJANET sees the shoe, looks up at the face of its owner.\nJANET faints.\nGO TO COLOUR AT BEGINNING OF FOLLOWING SCENE\n54\tINT.\tLIFT/HALL\tNIGHT\nThe figure turns and throws open lift cage door.  As camera zooms in to\nthe death mask above them the film changes from black and white to\ncolour.  However the only colour in evidence is the red lipstick on the\nmouth of their host.\nSONG:\t\t\"SWEET TRANSVESTITE\""
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "How do you do.\nI see you've met my faithful handyman.\nHe's a little brought down -\nBecause when you knocked\nHe thought you were the candyman."
+  },
+  {
+   "type": "stage direction",
+   "text": "RIFF RAFF scowls.\n54A\tINT.\tBALLROOM\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Don't get strung out by the way\nthat I look."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK strides across the Ballroom to the throne."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Don't judge a book by its cover\nI'm not much of a man\nBy the light of day\nBut by night I'm one hell of a lover."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET gives a silent scream.\nFRANK lets the cloak fall onto the throne, which reveals his\ntransvestite attire.\nThe GUESTS scream with delight."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I'm just a sweet Transvestite\nFrom Transexual Transylvania."
+  },
+  {
+   "type": "stage direction",
+   "text": "He slowly moves back to BRAD and JANET, doing leg kicks."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Let me show you around, maybe play you a sound\nYou look like you're both pretty groovie."
+  },
+  {
+   "type": "stage direction",
+   "text": "He circles them and forces them into the Ballroom."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Or if you want something visual\nnot too abysmal\nWe could take in an old Steve Reeves movie."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD clumsily attempts to circle around FRANK.  FRANK meanwhile ignores\nhim and greets his other guests."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I'm glad we caught you at home\nAh - could we use your phone\nWe're both in a bit of a hurry."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET joins BRAD."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Right!"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "We'll just say where we are\nThen go back to the car\nWe don't want to be any worry."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK turns on them."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You got caught with a flat\nWell how about that\nWell babies don't you panic\nBy the light of the night\nIt'll seem alright\nI'll get you a satanic mechanic."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK turns his back on BRAD and JANET and splitting the ranks of his\nGUESTS, departs for the other end of the Ballroom.  Streamers fall."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I'm just a sweet transvestite\nFrom Transexual Transylvania."
+  },
+  {
+   "type": "stage direction",
+   "text": "From the throne he gestures towards BRAD and JANET rather slowly over\nthe next verse."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Why dont'cha stay for the night"
+  },
+  {
+   "type": "speech",
+   "character": "RIFF & MAGENTA",
+   "text": "\"night\"\nOr maybe a bite"
+  },
+  {
+   "type": "speech",
+   "character": "RIFF & MAGENTA",
+   "text": "\"bite\"\nI could show you my favourite obsession\nI've been making a man\nWith blonde hair and a tan\nAnd he's good for relieving my tension."
+  },
+  {
+   "type": "stage direction",
+   "text": "We view from OVERHEAD as the GUESTS surround him adoringly."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I'm just a sweet transvestite\nFrom Transexual Transylvania."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK storms down the Ballroom to the lift."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I'm just a sweet transvestite."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "\"Sweet Transvestite\""
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "From Transexual Transylvania."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "\"Transylvania\""
+  },
+  {
+   "type": "stage direction",
+   "text": "55\tINT.\tLIFT AREA"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "So come up to the Lab."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n56\tCHORD:  SUBLIMINAL FLASH - LABORATORY\nCUT TO\n57\tINT.\tLIFT AREA"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (Cont)",
+   "text": "And see what's on the slab."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n58\tCHORD:  SUBLIMINAL FLASH - ROCKY'S BIRTH IN THE LABORATORY\nCUT TO\n59\tINT.\tLIFT AREA"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (Cont)",
+   "text": "I see you shiver with anticipation"
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n60\tCHORD:  SUBLIMINAL FLASH OF LOVE MAKING\nCUT TO\n61\tINT.\tLIFT AREA"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (Cont)",
+   "text": "But maybe the rain"
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n62\tCHORD:  FLASH - THE CAR AND THE WINDSCREEN WIPERS\nCUT TO\n63\tINT.\tLIFT AREA"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (Cont)",
+   "text": "Is really to blame"
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n64\tCHORD:  SUBLIMINAL FLASH - THE WEDDING\nCUT TO\n65\tINT.\tLIFT AREA"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (Cont)",
+   "text": "So I'll remove the cause\nBut not the symptom"
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n66\tCHORD:  SUBLIMINAL FLASH - THE EXPLOSION\nCUT TO\n67\tINT.\tBALLROOM\tNIGHT\nOn the last chord the lift has disappeared.\nThe GUESTS applaud ecstatically.\nRIFF RAFF and MAGENTA close in on BRAD and JANET.  They remove BRAD and\nJANET's wet clothes.\nCOLUMBIA moves down from the bandstand and crosses to BRAD and JANET.\nShe witnesses the undressing."
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "Slowly, slowly.  It's too nice a job\nto rush."
+  },
+  {
+   "type": "stage direction",
+   "text": "The GUESTS moan softly as each piece of clothing is removed.\nBRAD and JANET stand shivering in their underwear.\nThere is complete silence.\nThe GUESTS and SERVANTS are motionless.\nBRAD and JANET are the total object of their attention.\nCUT TO\n68\tINT.\tHALL/LIFT\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh Brad."
+  },
+  {
+   "type": "stage direction",
+   "text": "(confidentially)"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "It's alright Janet, we'll play along\nfor now and pull out the aces when the\ntime is right."
+  },
+  {
+   "type": "stage direction",
+   "text": "He turns to COLUMBIA who has been staring at his underpants."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Ah, hi.  My name is Brad Majors and\nthis is my fiancee, Janet Weiss.  You\nare ..."
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "You are very lucky to be invited up\nto Frank's laboratory.  Some people\nwould give their right arm for the\nprivilege."
+  },
+  {
+   "type": "stage direction",
+   "text": "RIFF RAFF has opened the cage doors to the lift.\nThe GUESTS rush for positions."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "People like you maybe"
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "I've seen it."
+  },
+  {
+   "type": "stage direction",
+   "text": "COLUMBIA escorts them to the lift.\nRIFF RAFF throws two GUESTS to the floor to make room for them.\nHe slams the cage door.\nThe two discarded GUESTS cry and claw at the cage door as the lift moves\noff under RIFF RAFF's control.\nBRAD and JANET are squashed, arms by their side.\nThey stare straight ahead."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Magenta)"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "It he - Frank - is he your husband?"
+  },
+  {
+   "type": "stage direction",
+   "text": "General amusement."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "The Master is not yet married.  Nor\ndo I think he ever will be.  We are\nsimply his servants."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh."
+  },
+  {
+   "type": "stage direction",
+   "text": "The lift grinds to a halt.\nThey have arrived at the laboratory.\nCUT TO\n69\tINT.\tLABORATORY\tNIGHT\nThe laboratory is somewhere between a student observation operating\ntheatre and a Greek gymnasium.  It is pink-tiled throughout, facing the\nlift entrance is a circular area containing a TANK on pedestals which\nthough screened at this stage will be revealed to contain the body of\nROCKY submerged in chemicals, the wall to one side contains a raised\ndias area for the GUESTS, and facing one end of the tank, the\noperational controls, monitor and a giant refrigerator.  A chandelier\nhangs above the tank.\nOn the podium in front of Frank's chambers there is a stand microphone.\nNear the podium are some weights.  Behind the tank is a vaulting horse.\nThese are wrapped in sellophane - Rocky's presents.\nThe GUESTS are waiting as the lift arrives.\nFRANK, now in surgeon's outfit stands in the middle of the room.  RIFF\nRAFF gets out of the lift first, with a glass of champagne which he\nhands to FRANK."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Magenta, Columbia, go and assist Riff Raff."
+  },
+  {
+   "type": "stage direction",
+   "text": "As he speaks her name each one steps forward out of the lift.  They\ncross to RIFF RAFF behind the tank."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I will entertain...ah..."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD & JANET step out of the lift."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I'm Brad Majors and this\nis my fiancee, Janet Vice."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Weiss."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Weiss."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (Taking Janet's hand to kiss)",
+   "text": "Encante....How nice.  (he circles them)\nAnd what charming underclothes you both have.\n(He takes two dust coats from Riff Raff\nand hands them to Brad).\nBut here, put these on.  They'll\nmake you feel less vulnerable."
+  },
+  {
+   "type": "stage direction",
+   "text": "MAGENTA & COLUMBIA cross to the podium."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (continues)",
+   "text": "It's not often we receive visitors here.\nLet alone offer them hospitality."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD (Moving towards Frank)",
+   "text": "Hospitality!  All we wanted to do was\nuse your telephone.  A reasonable request\nwhich you have chosen to ignore."
+  },
+  {
+   "type": "speech",
+   "character": "JANET (Hurring after Brad)",
+   "text": "Don't be ungrateful Brad."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD (Stepping closer to Frank)",
+   "text": "Ungrateful!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The room falls silent.  All eyes are on FRANK, waiting for his reaction.\nA smile breaks on his face."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "How forceful you are Brad.  Such a\nperfect specimen of manhood.  So dominant."
+  },
+  {
+   "type": "stage direction",
+   "text": "MAGENTA & COLUMBIA laugh."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You must be awfully proud of him Janet."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Well, yes I am."
+  },
+  {
+   "type": "stage direction",
+   "text": "THE GUESTS oh and ah appreciatively, BRAD laughs, a little embarassed."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Do you have any tattoos Brad."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Certainly not!"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Oh well.  How about you.  (He laughs)"
+  },
+  {
+   "type": "stage direction",
+   "text": "RIFF RAFF has approached behind FRANK, looming over his shoulder."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Everything is in readiness, Master.\nWe merely await your word."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK drinks his champagne then hands RIFF RAFF the empty glass.  RIFF\nRAFF goes to the control panel and FRANK to the podium"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Tonight...One, one, one.  Can you hear\nme at the back?\nTonight, my unconventional conventionists."
+  },
+  {
+   "type": "stage direction",
+   "text": "MAGENTA, COLUMBIA and GUESTS laugh politely."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Tonight you are to witness a breakthrough\nin biochemical research."
+  },
+  {
+   "type": "stage direction",
+   "text": "There is a gasp from COLUMBIA, MAGENTA and GUESTS."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "And paradise is to be mine."
+  },
+  {
+   "type": "stage direction",
+   "text": "GUESTS and everybody applaud.  JANET claps too, but BRAD indicates that\nshe shouldn't."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "It was strange the way it happened.\nOne of those quirks of fate really.\nOne of those moments when you seem\nirredeemably lost:  you panic; you're\ntrapped; your back's against the wall.\nThere's no way out, and then suddenly,\nyou get a break.  (He cracks the bones\nin his hand)  All the pieces seem to\nfit into place.  What a sucker you'r\nbeen. What a fool.  The answer was there\nall the time.  It took a small accident\nto make it happen.  An accident!"
+  },
+  {
+   "type": "stage direction",
+   "text": "MAGENTA & COLUMBIA step forward one each side of him."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA & COLUMBIA (softly)",
+   "text": "An accident."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "That's how I discovered the secret.\nThat elusive ingredient, that spark\nthat is the breath of life."
+  },
+  {
+   "type": "stage direction",
+   "text": "GUESTS applaud."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (Moving to tank)",
+   "text": "You see, Brad and Janet, you are fortunate.\nFor tonight is the night that my beautiful\ncreature is destined to be born."
+  },
+  {
+   "type": "stage direction",
+   "text": "Everybody applauds.  FRANK then pulls the cover from the tank.  RIFF\nRAFF is at the control panel.\n70\tINT.\tLABORATORY\tNIGHT\nThe tank is revealed.  There is something inside it is immersed in clear\nfluid.  The GUESTS are astonished."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Throw open the switches on the sonic\noscillator."
+  },
+  {
+   "type": "stage direction",
+   "text": "RIFF RAFF flicks the switch to activate the oscilloscopes in the panel."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "And step up the reactor power input\nthree more points."
+  },
+  {
+   "type": "stage direction",
+   "text": "RIFF RAFF presses a button three times then begins to unwind a wheel.\nFRANK watches excitedly from behind the tank as the chandelier is\nlowered.  It spurts different coloured liquids into the tank.\nThe liquids bubble and change colour.  The thing inside begins to look\nlike a human form."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Brad..."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "It's alright Janet."
+  },
+  {
+   "type": "stage direction",
+   "text": "The liquids drain away.  The form begins to move.\nFRANK climbs the ladder at one end of the tank, RIFF RAFF the other.\nROCKY HORROR sits up, raises his arms, finally stands upright with both\narms outstretched.\nRIFF RAFF removes the bandage from ROCKY's head.  ROCKY looks at RIFF\nRAFF then at FRANK.  With a gasp he leaps for the chandelier above.\nAt the same time RIFF RAFF is down the ladder making for the handle.  He\nwinds up the chandelier and ROCKY.\n71\tINT.\tTHE LABORATORY\tNIGHT\nSONG:\t\tTHE SWORD OF DAMOCLES.\nROCKY HORROR with only his head unbandaged, is hanging on to the\nchandelier which RIFF RAFF is winding upwards."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "The Sword of Damocles is\nHanging over my head."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK runs down the ladder and kicks RIFF RAFF who starts to lower the\nchandelier.  FRANK climbs up the other steps to meet his creation coming\ndown.  MAGENTA & COLUMBIA cross to the tank."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "And I've got the feeling\nSomeone's going to be\nCutting the thread.\nOh, woe is me.\nMy life is a misery.\nOh, can't you see\nThat I'm at the start\nOf a pretty big downer...."
+  },
+  {
+   "type": "stage direction",
+   "text": "As ROCKY gets level with him, FRANK lunges for him but lands inside the\ntank....because...\nROCKY simultaneously abandons the chandelier, lands between MAGENTA and\nCOLUMBIA who now each have a pair of scissors with which they will snip\nhis arm and leg bandages."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "I woke up this morning\nWith a start\nWhen I fell out of bed."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS (inc. Riff, Magenta & Columbia)",
+   "text": "That ain't no crime."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "And left from my dreaming\nWas a feeling\nOf un-nameable dread."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "That ain't no crime"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "My high is low.\nI'm dressed up\nWith no place to go.\nAnd all I know\nIs I'm at the start\nOf a pretty big downer."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK, in the tank behind ROCKY, puts his arms round ROCKY's neck.\nROCKY spins away.  MAGENTA and COLUMBIA hang on to one end of his chest\nbandage so that it undoes as he goes."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS (inc. RIFF RAFF, MAGENTA & COLUMBIA)",
+   "text": "Sha la la la\nThat ain't no crime."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Oh, no no, no no."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Sha la la la\nThat ain't no crime."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "No no no, no no."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Sha la la la\nThat ain't no crime -\nThat ain't no crime."
+  },
+  {
+   "type": "stage direction",
+   "text": "ROCKY is now unbandaged.  He strikes a pose.\nDuring the last sequence, FRANK climbs out of the tank onto RIFF RAFF'S\nshoulders and purses ROCKY, but they fall.\n72\tINT.\tSTUDY\tNIGHT\nNARRATOR reading from book."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "Rocky needed peace of mind.\nHe didn't know\nHe was doing just fine.\nHe was the product\nOf another time.\nAnd as for feeling down -\nWell that's not a crime."
+  },
+  {
+   "type": "stage direction",
+   "text": "73\tINT.\tLABORATORY\tNIGHT\nFRANK and RIFF RAFF are recovering from their fall.\nROCKY makes a circuit of the GUESTS."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS (Riff, Magenta & Columbia)",
+   "text": "That ain't no crime."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY (To first group of guests)",
+   "text": "The sword of Damocles is\nHanging over my head."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "That ain't no crime."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY (To second group)",
+   "text": "And I've got the feeling\nSomeone's going to be\nCutting the thread."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "That ain't no crime."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY (To third group)",
+   "text": "Oh, woe is me -\nMy life is a mystery.\n(To fourth group)\nOh can't you see\nThat I'm at the start\nOf a pretty big downer."
+  },
+  {
+   "type": "stage direction",
+   "text": "ROCKY set off at a run as FRANK looms up again.\n(FRANK is chasing ROCKY round the lab.)"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Sha la la la\nThat ain't no crime."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Oh no no no no."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Sha la la la\nThat ain't no crime."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "No no no no."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Sha la la la\nThat ain't no crime.\nThat ain't no crime."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Sha la la la\nThat ain't no crime."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "No no no no."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Sha la la la\nThat ain't no crime."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "No no no no."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Sha la la la\nThat ain't no crime -\nThat ain't no crime."
+  },
+  {
+   "type": "stage direction",
+   "text": "At the end of number, ROCKY has climbed up the ladder attached to the\nend of the tank nearest the bridal chambers and FRANK is in a heap\nbelow.  RIFF RAFF is behind the tank and MAGENTA and COLUMBIA in their\npositions in front of it.\n74\tINT.\tLABORATORY\tNIGHT\nFRANK picks himself up.  ROCKY is sitting at the top of the ladder above\nhim, with his perfect limbs near Frank's face."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Well.  That's no way to\nbehave on your first day out."
+  },
+  {
+   "type": "stage direction",
+   "text": "ROCKY looks hurt."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "But as you're such an\nexceptional beauty I'm\nprepared to forgive."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK crosses behind ROCKY to stand next to RIFF RAFF behind the tank."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I just love success."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF (edging up to Frank)",
+   "text": "He is a credit to your\ngenius, Master."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA (Moving to tank from controls)",
+   "text": "A triumph of your vill."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA (Who is on opposite side of tank)",
+   "text": "He's o.k."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "O.K?  (Moving out behind tank towards\nJanet and Brad)  I think we can do a\nlittle better than that.\nYou.  (To Janet)  What do you think?"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Well.  (She looks at Brad)  I don't\nlike men with...er, with too many, muscles."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I didn't make him for you"
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET nods hastily.  FRANK moves towards microphone."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "He carries the Charles Atlas seal of\napproval....And he didn't even take\nthe lessons."
+  },
+  {
+   "type": "stage direction",
+   "text": "74A\tINT.\tLABORATORY\tNIGHT\nSONG:\t\tCHARLES ATLAS (Pt. 1)\nAs FRANK starts to sing, MAGENTA & RIFF RAFF collect one of ROCKY's\npresents, the vaulting horse, and place it in front of the podium.\nCOLUMBIA leads ROCKY down from the ladder."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "A weakling weighing\nNinety eight pounds\nWill get sand in his face\nWhen kicked to the ground.\nAnd soon in the gym (ROCKY sits on horse)\nWith a determined chin\nThe sweat from his pores\nAs he works for his ca-ha-hause"
+  },
+  {
+   "type": "stage direction",
+   "text": "MAGENTA & RIFF RAFF now bring the weights."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Will make him glisten - thank you -\nAnd gleam.\nAnd with massage\nAnd just a little bit of\nSte-he-he-he-hem...(laughs)\nHe'll be pink.\nAnd quite clean."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "He'll be a strong man -\nOh honey -"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS, RIFF, MAGENTA & COLUMBIA & FRANK.",
+   "text": "But the wrong man."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "He'll eat nutritious high protein\nAnd swallow raw eggs.\nTry to build up his shoulders,\nHis chest, arms and legs.\nSuch an effort -\nIf he only knew of my plan.\nIn just seven days,"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS, RIFF, MAGENTA & COLUMBIA & FRANK",
+   "text": "I can make you a ma-aa-a-a-an"
+  },
+  {
+   "type": "stage direction",
+   "text": "ROCKY throws down the weights and begins press ups."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "He'll do press-ups and chin-ups,\nDo the snatch, clean and jerk."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK crosses to JANET & BRAD"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "He thinks dynamic tension\nMust be hard work.\nSuch strenuous living\nI just don't understand."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK moves back to ROCKY who is still pressing up."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "When, in just seven days -\nOh baby...(ROCKY jumps up.)\nI can make you\nA ma-a-a-a-an...(laugh)."
+  },
+  {
+   "type": "stage direction",
+   "text": "75\tINT.\tLABORATORY: REFRIGERATOR\tNIGHT\nThe large refrigeration unit door slowly opens, falling like a\ndrawbridge.  Inside is a wall of ice and many CocaCola bottles.\nThrough these bursts an icy EDDIE riding a Harley Davidson motor bike,\nex World War II, holding a Gibson guitar.\nSeveral guests are crushed to death."
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "Eddie!"
+  },
+  {
+   "type": "speech",
+   "character": "EDDIE",
+   "text": "Stay cool baby."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Who's Eddie?"
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "The delivery boy."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "His delivery wasn't good enough though."
+  },
+  {
+   "type": "stage direction",
+   "text": "ROCKY looks terrified.\nJANET has fainted yet again.\nEDDIE comes to life.\n76\tSONG:\t\t\"WHAT EVER HAPPENED TO SATURDAY NIGHT\""
+  },
+  {
+   "type": "speech",
+   "character": "EDDIE",
+   "text": "Whatever happened to Saturday night\nWhen you dressed up sharp\nAnd you felt alright\nIt don't seem the same since cosmic light\nCame into my life and I thought I was divine."
+  },
+  {
+   "type": "stage direction",
+   "text": "COLUMBIA leaps on to the pillion seat."
+  },
+  {
+   "type": "speech",
+   "character": "EDDIE",
+   "text": "I used to go for a ride with a chick who'd go\nAnd listen to the music on the radio."
+  },
+  {
+   "type": "stage direction",
+   "text": "The MOTORCYCLISTS GUESTS remember only too well."
+  },
+  {
+   "type": "speech",
+   "character": "EDDIE",
+   "text": "A saxophone was blowing on a rock and roll show\nAnd we climbed in the back\nAnd we really had a good time"
+  },
+  {
+   "type": "stage direction",
+   "text": "COLUMBIA rushes to the switchboard, flicks a lighting switch and all the\nlights above the stairs start changing colour.\nThe GUESTS go crazy and rock and roll all over the staircase.\nCOLUMBIA dances with EDDIE.\nEven RIFF RAFF and MAGENTA step it out."
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "Hot patootie\nBless my soul\nI really love that rock and roll\n(four times)"
+  },
+  {
+   "type": "stage direction",
+   "text": "EDDIE (more confident, less frozen) leaps onto the motorbike in a legs\napart guitar strumming pose.\nFRANK is getting furious.\nROCKY is perplexed."
+  },
+  {
+   "type": "speech",
+   "character": "EDDIE",
+   "text": "My head used to swim\nFrom the perfume I smelled.\nMy hands kind of fumbled\nWith her white plastic belt.\nI'd taster her baby pink lipstick,\nAnd that's when I'd melt.\nAnd she'd whisper in my ear,\nTonight she really was mine.\nGet back in front and put\nSome hair oil on.\nBuddy Holly was singing\nHis very last song.\nWith your arms around your girl\nYou tried to - ah - sing along\nIt felt pretty good, whoo.\nReally had a good ti-i-ime."
+  },
+  {
+   "type": "stage direction",
+   "text": "EDDIE slips onto the pedal starting the bike.  He takes off and roars\nround the laboratory, even riding up and down the walls."
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "Hot patootie\nBless my soul.\nI really love that rock and roll.\nHot patootie\nBless my soul.\nI really love that rock and roll.\nHot patootie\nBless my soul.\nYou know I love that rock and roll.\nHot patootie\nBless my soul.\nI really love that rock and roll."
+  },
+  {
+   "type": "stage direction",
+   "text": "4 bars instrumental (saxophone)\nFRANK steals towards the fridge where he collects an ice pick,\ninnocently."
+  },
+  {
+   "type": "speech",
+   "character": "ALL\t\t\tEDDIE",
+   "text": "Hot patootie\t\tHOT PATOOTIE -\nBless my soul.\t\tBLESS MY SO-O-OUL.\nI really love that rock and roll.\nHot patootie\t\tHOT PATOOTIE\nBless my soul.\t\tI LOVE THAT ROCK & ROLL.\nI really love that rock and roll.\nHot patootie\t\tHOT PATOOTIE...\nBless my soul.\t\tI LOVE THAT ROCK & ROLL.\nI really love that rock and roll.\nHot patootie\t\tHOT PATOOTIE...\nBless my soul.\t\tBLESS MY SO-O-OUL.\nI really love that rock and roll.\nHot patootie\t\tHOT PATOOTIE..\nBless my soul.\t\tI REALLY LOVE THAT ROCK & ROLL.\nI really love that rock and roll.\nHot patootie\t\tHOT PATOOTIE...\nBless my soul.\t\tBLESS MY SO-O-OOOUUL.\nI really love that rock and roll.\nHot patootie\t\tHOT PATOOTIE\nBless my soul.\t\tI LOVE THAT ROCK & ROLL.\nI really love that rock and roll.\nHot patootie\t\tHOT PATOOTIE\nBless my soul.\t\tI LOVE-A-LOVE-A-LOVE-A\nI really love that rock and roll."
+  },
+  {
+   "type": "stage direction",
+   "text": "THAT ROCK AND ROO-AHOUL!\nOn the last chorus FRANK rushes to EDDIE with the ice pick, in a\ndemented fury.\nTHE GUESTS are unbelieving.\nCOLUMBIA covers her face with her hands.\nEDDIE is dead.  FRANK walks away from his body unconcerned.\nJANET screams and screams.\n77\tINT.\tLAB\tNIGHT\nDIALOGUE SEQUENCE\nMAGENTA is very bored and picking up ice cubes and placing them in the\nice bucket."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "One from the vaults."
+  },
+  {
+   "type": "stage direction",
+   "text": "RIFF RAFF drags EDDIE's dismembered body back into the fridge."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "And so perish all those who reject my love!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ROCKY cowers in terror."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Oh no, my little Adonis -\nYou're much too beautiful to be destroyed.\nHe had a certain naive charm - but no muscle."
+  },
+  {
+   "type": "stage direction",
+   "text": "ROCKY flexes.\nFRANK is thrilled.\n78\tINT.\tLABORATORY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "But a deltoid\nAnd a bicep,\nA hot groin\nAnd a tricep\nMakes me - ooh -\nShake.\nMakes me want\nTo take\nCharles Atlas\nBy the ha-and.\nIn just seven days -\nOh baby -"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS, RIFF RAFF, MAGENTA & COLUMBIA & FRANK",
+   "text": "I can make you a\nMa-ha-ha-ha-haan.\nI don't want no dissension\nJust dynamic tension.\nIn just seven days\nI can make you\nA ma-ha-ha-ha-haan.\nIn just seven days\nI can make you\nA ma-ha-ha-ha-haaan."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n79\tINT.\tBRIDAL SUITE\tNIGHT\nRIFF RAFF presses a button and a wall opens revealing a bridal suite\ndone out in black silk.\nThe GUESTS shout their approval.\nThe end of the SONG turns into Mendelssohn's wedding march and FRANK\nleads ROCKY to his bridal chamber.\nThe GUESTS throw confetti.\nBRAD and JANET look at each other in amazement.\nWIPE TO\n80\tINT.\tSTUDY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "There are some people who say that life\nis an illusion, and that reality is simply\na figment of our imaginations!  If this\nis so, then Brad and Janet are quite safe.\nHowever, the sudden departure of their\nhost and his creation (into the seclusion\nof his sombre bridal suite) had left them\nfeeling both apprehensive and uneasy.\nA feeling which grew as the other guests\n'departed' and 'they' were shown to their\nseparate rooms."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n81\tINT.\tJANET'S ROOM (RED FILTER)\tNIGHT\nJANET looks lost.\nShe sits on the end of the bed.\nCUT TO\n82\tINT.\tBRAD'S ROOM (BLUE FILTER)\tNIGHT\nBRAD looks lost.\nHe examines the TV monitor.\n83\tINT.\tLABORATORY\tNIGHT\nRIFF RAFF and MAGENTA by the monitor.\nThey switch from channel to channel.\nWe see BRAD looking at the TV monitor.\nAnd JANET sitting on the end of the bed.\nJANET lies back on the bed and switches off her bedside lamp.\nRIFF RAFF and MAGENTA smile at each other.\nCUT TO\n84\tINT.\tJANET'S ROOM (RED FILTER)\tNIGHT\nOnly a soft glow of moonlight from a barred window.  ON the netting\nround her bed.\nThere is a knock at the door.\nJANET sits p."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Who is it?  Who's there?"
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD's voice from behind the door."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD'S VOICE",
+   "text": "It's only me, Janet."
+  },
+  {
+   "type": "stage direction",
+   "text": "She relaxes."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh, Brad, come in, darling."
+  },
+  {
+   "type": "stage direction",
+   "text": "A silhouette enters and crosses to the bed.  It moves onto the bed\nbehind the net curtain."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh Brad - Mmmm - Oh yes, my darling -\nwhat if..."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "It's alright Janet.  Everything's going\nto be alright."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh, I hope so my darling.  But let me\nswitch on the light."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "No, don't do that."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh don't be so shy."
+  },
+  {
+   "type": "stage direction",
+   "text": "She switches on the light to reveal FRANK."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "YOU!"
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK sits up."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I'm afraid so, Janet.  But isn't it nice?"
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET beats his chest with her clenched fists."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "You beast, you monster, what have you\ndone with Brad?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Nothing.  Why, do you think I should?"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "You tricked me - I wouldn't have -\nI've never - never"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I know.  But it wasn't all bad was it?\nIn fact, I think you found it quite pleasurable.\nMmmmm so soft, so sensual."
+  },
+  {
+   "type": "stage direction",
+   "text": "He re-commences making love to her."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh - Oh - no - stop - I mean help.\nI - Brad - Oh."
+  },
+  {
+   "type": "stage direction",
+   "text": "(she shouts)"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Brad."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK places a finger on her lips."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Ssssh.  Brad's probably asleep by now.\nDo you want him to see you like this?"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Like this - like how?  It's your fault.\nYou're to blame."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "I was saving myself."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Well, I'm sure you're not spent yet."
+  },
+  {
+   "type": "stage direction",
+   "text": "He switches off the light.\nCUT TO\n85\tINT.\tLABORATORY\tNIGHT\nRIFF RAFF and MAGENTA stare intently at the screen.\nThey smile at each other.\nCUT TO\n86\tINT.\tJANET'S ROOM (RED FILTER)\tNIGHT\nSilhouette of FRANK and JANET making love."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Promise you won't tell Brad."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Cross my heart and hope to die."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET squeals with excitement.\nDISSOLVE TO\n87\tINT.\tBRIDAL SUITE ADJOINING LABORATORY\tNIGHT\nWe see ROCKY chained to the bed sleeping.\nIn the background RIFF RAFF and MAGENTA in laboratory.\nROCKY stirs and makes a sound.\nRIFF RAFF walks across to the door and stares at the sleeping body.\nHis eyes are full of hate.\nHe looks at MAGENTA.\nShe nods to him.\nHe releases the chains.\nROCKY stirs.\nRIFF RAFF picks up a candelabra from the bedside table and taunts ROCKY.\nROCKY jumps out of the bed, terrified.\nRIFF RAFF pushes the candelabra in his face.\nROCKY crashes through the laboratory and escapes.\nRIFF RAFF turns to MAGENTA who is now standing in the doorway.\nRIFF RAFF puts down the candelabra and they exchange a strange sign.\nDISSOLVE TO\n88\tINT.\tBRAD'S ROOM (BLUE FILTER)\tNIGHT\nA knock at the door.\nBRAD opens it cautiously.\nA shadowy figure moves across the room to the bed."
+  },
+  {
+   "type": "stage direction",
+   "text": "(distraught)"
+  },
+  {
+   "type": "speech",
+   "character": "JANET'S VOICE",
+   "text": "Oh Brad, it's no good here.  It will\ndestroy us."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD takes her hand."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Don't worry Janet, we'll be away\nfrom here in the morning.  Hmmmm,\nyou smell so good."
+  },
+  {
+   "type": "stage direction",
+   "text": "He gently lays her down on the bed and attempts to caress her."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh Brad.  Oh no.  Not till after\nthe wedding, Darling."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD sits up."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Alright, Janet.  I understand."
+  },
+  {
+   "type": "stage direction",
+   "text": "The shadow rolls over."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Maybe we could try it this way."
+  },
+  {
+   "type": "stage direction",
+   "text": "(surprised)"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Janet!  Oh!  Yes it's alright.  Janet.\nEverything's going to be alright."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "I hope so my darling."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD reaches out to the light."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "No, don't put on the l..."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD switches on the bedside lamp an realises he is making love to\nFRANK wearing a JANET wig."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "You!"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I'm afraid so, Brad.  But wasn't it nice?"
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD grabs FRANK around the throat."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Why you - what have you done with Janet?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Nothing.  Why do you think I should?"
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD lets him go and turns away humiliated."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "You tricked me.  I wouldn't have -\nI've never - never."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I know, but it wasn't all bad was it?\nI think you found it quite pleasurable."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he caresses Brad)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Oh so soft.  So sensual."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Ahhh - no - stop - I mean Janet."
+  },
+  {
+   "type": "stage direction",
+   "text": "(shouts)"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Janet."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Shush.  Janet's probably asleep by now.\nDo you want her to see you like this?"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Like this."
+  },
+  {
+   "type": "stage direction",
+   "text": "(throwing Frank aside)"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Like how?  It's your fault - you're to\nblame.  I thought it was the real thing."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Oh come on, Brad, admit it.  It was\nenjoyable, wasn't it?  There's no crime\nin giving yourself over to pleasure."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (Switches off light)",
+   "text": "Oh Brad, you have wasted so much time\nalready.  Janet needn't know, I won't tell her."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "You promise you won't tell?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "On my mother's grave."
+  },
+  {
+   "type": "stage direction",
+   "text": "Suddenly the shadows are illuminated by the monitor as an image of\nRIFF RAFF appears on the screen above the bed.\n89\tTV MONITOR"
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Master, Rocky has broken his chains\nand vanished.  The new playmate is loose\nand in the castle ground.  Magenta has\njust released the dogs."
+  },
+  {
+   "type": "stage direction",
+   "text": "90\tFRAN'S SILHOUETTE THROUGH NET CURTAINS.\nFRANK is getting carried away."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I'm coming."
+  },
+  {
+   "type": "stage direction",
+   "text": "91\tEXT.\tCASTLE GROUNDS.\tNIGHT.\nA shot of pack of huge alsations careereing around the castle grounds.\nThey are chasing a bewildered Rocky.\nWIPE TO.\n92\tINT.\tJANET'S ROOM (RED FILTER)\tNIGHT\nJANET is lying on the bed posed in the style of a \"True Romance\" comic\nheroine."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "What's happening here?  Where's Brad?\nWhere's anybody?"
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n92A\tINT.\tBRAD'S ROOM (BLUE FILTER)\tNIGHT\nBRAD is posed in the style of a \"True Romance\" comic hero.  He is\nnervous and smoking.  Behind him FRANK is asleep on the bed."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Once in a while she don't want to call you\nSpeaking on the telephone\nOnce in your life she won't want to know you\nYou look around\nThe one you've found\nShe is gone."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n92B\tINT.\tJANET'S ROOM (RED FILTER)\tNIGHT\nJANET is sitting on the end of the bed."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "I'm engaged to Brad just the same as\nBetty Monroe was to Ralph Hapschatt.\nBut Frank's kisses overwhelmed me with\nan ecstacy I've never dreamt of before.\nHot, burning kisses."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n92C\tINT.\tBRAD'S ROOM (BLUE FILTER)\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "And that's all the time that it takes\nFor a heart to turn to stone\nThe sweeter the wine\nThe harder to make the break\nYou hear something about someone\nYou'd thought you'd known."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n92D\tINT.\tJANET'S ROOM (RED FILTER)\tNIGHT\nJANET is at the door."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "I could see Brad's face before me and my\nmind screamed No!  But my lips were hungry -\ntoo hungry."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n92E\tINT.\tBRAD'S ROOM (BLUE FILTER)\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "So baby don't cry like there's no tomorrow\nAfter the night there's a brand new day.\nAnd there'll be no pain\nAnd no more sorrow.\nSo wash your face\nAnd phone my place\nIt'll be O.K."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n92F\tINT.\tCORRIDOR (RED FILTER - OAKLEY COURT)\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "I wanted to be loved completely.\nMy body throbbed excitedly.  Oh Brad,\nBrad my darling, how could I have\ndone this to you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n92G\tINT.\tBRAD'S ROOM (BLUE FILTER)\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "And that's all the time that it takes\nFor a heart to beat again.\nSo give me a sign\nThat a lover makes\nYou look around\nThe one you've found\nIs back again."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n92H\tINT.\tLABORATORY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "If only we hadn't made this journey.\nIf only the car hadn't broken down.\nIf only we were amongst friends or sane persons."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n93\tINT.\tSTUDY\tNIGHT\nThe NARRATOR is leaning back in his armchair, cool and considerate."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "\"If\" and \"Only\", two small words.  Words\nwhich kept repeating themselves again and\nagain in Janet's thoughts.  But it was too\nlate to go back now.  It was as if she were\nriding a giant tidal wave.  It would be folly\nto fight against it.  Her only chance would\nbe to ride it out - adapt - and perhaps also\nto survive."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n94\tINT.\tLABORATORY\tNIGHT\nJANET is pacing around the tank which is covered by a cloth.  She\nbecomes aware of the sound of someone crying inside.  She pulls the\ncloth back to reveal ROCKY lying in the tank - exhausted and bleeding.\nROCKY HORROR looks miserable."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Yes.  There you see it's instinctive.\nThis room is your womb.  You returned\nhere for one thing - security."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET crosses to the TV monitor."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh Brad!  What have they done with him?"
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n95\tTV MONITOR\nShe switches on the monitor.\nShe changes the channels on the monitor getting various empty rooms\nin the castle.\nOccasional shot of alsatian dogs.\nTill finally she switches into BRAD's bedroom and sees BRAD sitting on\nthe end of the bed and FRANK lying asleep on the bed.\nCUT TO\n96\tINT.\tLABORATORY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Ahhh!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ROCKY smiles helplessly.\nJANET moves away from the monitor and back to ROCKY."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh Brad.  How could you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(she sees Rocky's wounds)"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh, but you're hurt.  Did they do this\nto you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ROCKY nods."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Here, lie down.  I'll dress your wounds."
+  },
+  {
+   "type": "stage direction",
+   "text": "ROCKY smiles at JANET.\nA new expression crosses her face.\nWIPE TO\n97\tINT.\tSTUDY\tNIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "(reads from a dictionary)"
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "\"Emotion\".  Mental agitation - an excited\nstate of."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he looks up)"
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "It is also an irrational and powerful master\nand from what Janet had witnessed on the\nmonitor, there seemed to be little doubt that\nshe was indeed its slave."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n98\tINT.\tCOLUMBIA'S ROOM\tNIGHT\nCOLUMBIA and MAGENTA are watching the monitor."
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA & MAGENTA",
+   "text": "Tell us about it, Janet."
+  },
+  {
+   "type": "stage direction",
+   "text": "They giggle.\nCUT TO\n99\tINT.\tLABORATORY\tNIGHT\nSONG:\t\t\"TOUCH A TOUCH ME\"\nROCKY is lying on the operating table.\nJANET is dabbing his wounds."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "I was feeling done in\nCouldn't win\nI'd only ever kissed before"
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n100\tINT.\tCOLUMBIA'S ROOM\tNIGHT\nCOLUMBIA and MAGENTA."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Magenta)"
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "You mean she only ever kissed?"
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n101\tINT.\tLABORATORY\tNIGHT\nJANET rips off a piece of her petticoat for a bandage."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "I thought there's no use getting\nInto heavy petting."
+  },
+  {
+   "type": "stage direction",
+   "text": "She rips off another piece of her petticoat."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "It only leads to trouble\nAnd seat wetting."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET rips another piece off her fast vanishing petticoat.\nDuring the next verse she bandages ROCKY."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Now all I want to know\nIs how to go\nI've tasted blood\nAnd I want more\nI'll put up no resistance\nI want to stay the distance\nI've got an itch to scratch\nAnd I need assistance."
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET grabs ROCKY's hands and places them on her."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Touch-a touch-a touch-a touch me.\nI wanna be dirty.\nThrill me, chill me, fulfil me.\nCreature of the night.\nThen if anything grows (she laughs)\nWhile you pose,\nI'll oil you up\nAnd rub you down"
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF, MAGENTA, COLUMBIA",
+   "text": "Down, down down."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "And that's just one small fraction\nOf the main attraction\nYou need a friendly hand.\nOh, and I need action.\nTouch-a touch-a touch-a, touch me.\nI wanna be dirty.\nThrill me, chil me, fulfil me.\nCreature of the night."
+  },
+  {
+   "type": "stage direction",
+   "text": "102\tINT.\tCOLUMBIA'S ROOM\nCOLUMBIA & MAGENTA are watching the TV relay of ROCKY & JANET.\nThey are amused by JANET'S inexperience, parodying her as they sing."
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "Touch-a touch-a touch-a, touch me."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "I wanna be dirty."
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "Thrill me, chill me, fulfil me."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "Creature of the night."
+  },
+  {
+   "type": "stage direction",
+   "text": "103\tINT.\tLABORATORY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh, touch-a touch-a touch-a touch me.\nI wanna be dirty.\nThrill me chill me, fulfil me - oh -\nCreature of the night.\nCreature of the ni-i-ight."
+  },
+  {
+   "type": "stage direction",
+   "text": "We see JANET's p.o.v. of all the characters singing the last line:"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Creature of the night."
+  },
+  {
+   "type": "stage direction",
+   "text": "103A\tB.C.S. BRAD"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Creature of the night."
+  },
+  {
+   "type": "stage direction",
+   "text": "103B\tB.C.S. FRANK"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Creature of the night."
+  },
+  {
+   "type": "stage direction",
+   "text": "103C\tB.C.S. COLUMBIA"
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "Creature of the night."
+  },
+  {
+   "type": "stage direction",
+   "text": "103D\tB.C.S. RIFF RAFF"
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Creature of the night."
+  },
+  {
+   "type": "stage direction",
+   "text": "103E\tB.C.S. MAGENTA"
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "Creature of the night."
+  },
+  {
+   "type": "stage direction",
+   "text": "103F\tB.C.S. ROCKY"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Creature of the night."
+  },
+  {
+   "type": "stage direction",
+   "text": "103G\tB.C.S. JANET"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Creature of the night.  Oh."
+  },
+  {
+   "type": "stage direction",
+   "text": "104\tINT.\tCOLUMBIA'S ROOM\tNIGHT\nCOLUMBIA & MAGENTA's reactions.\n105\tINT.\tLABORATORY\tNIGHT\nJANET & ROCKY in each other's arms hear another scream in the distance.\n106\tINT.\tCORRIDOR OUTSIDE LABORATORY\tNIGHT\nFRANK is chasing RIFF RAFF with a whip.  BRAD is following.\nRIFF RAFF rushes into the lift and presses the button desperately but\nFRANK follows him and so does BRAD.  We see the lift descending.\n107\tINT.\tLABORATORY.\tNIGHT\nRIFF RAFF slides across the laboratory floor escaping FRANK's whip."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Aaaargh!  Mercy."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "How did it happen?  I understood you\nwere to be watching."
+  },
+  {
+   "type": "stage direction",
+   "text": "RIFF RAFF gets to his feet keeping a careful eye on the whip hand."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "I was only away for a minute Master."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Well, see if you can find him on the monitor."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n108\tTV MONITOR\nRIFF RAFF switches channels on the monitor.\nAn image of a middle-aged professorial man in a wheelchair appears.\nThe man is outside the castle, peering around the trees stealthily.\nCUT TO\n109\tINT.\tLABORATORY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Master, we have a visitor."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n110\tTV MONITOR\nFRANK and BRAD crowd around the monitor.\nCUT TO\n111\tINT.\tLABORATORY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Great scott - Scotty - Dr Everett Scott."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "You know this earth - this person."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I most certainly do.  He happens to\nbe an old friend of mine."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I see.  So this wasn't simply a chance\nmeeting.  You came here with a purpose."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I told you, my car broke down."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n112\tTV MONITOR\nOn the monitor the stranger looks very shifty.\nCUT TO\n113\tINT.\tLABORATORY\tNIGHT\nFRANK looks BRAD hard in the eye."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I was telling the truth."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I know what you told me, Brad.\nBut this Dr Everett Scott.  His name\nis not unknown to me."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "He was a Science Teacher at Denton High."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "And now he works for your Government,\ndoesn't he, Brad?  He's attached to the\nBureau of Investigation of that which\nyou call U.F.O's.  Isn't he, Brad?"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "He might be.  I don't know."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Hmmmm.  He'll be in the Zen Room."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n114\tTV MONITOR\nDR SCOTT is indeed in the Zen Room.\nCUT TO\n115\tINT.\tLABORATORY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Well, let's ask him."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK throws a switch marked \"TRIPLE CONTACT ELECTRO MAGNET\".\nCUT TO\n116\tEXT/INT.\tVARIOUS LOCALES\tNIGHT\nWe see DR SCOTT's wheelchair screaming through corridors, rooms and\ndoors and ends up clamped to the electro magnet in the laboratory.\nCUT TO\n117\tINT.\tLABORATORY\tNIGHT\nBRAD is amazed."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Dr. Scott!"
+  },
+  {
+   "type": "stage direction",
+   "text": "DR EVERETT SCOTT is even more amazed."
+  },
+  {
+   "type": "speech",
+   "character": "DR SCOTT",
+   "text": "Brad!  What are you doing here?"
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK releases the electro magnet.\nThe wheelchair hits the floor."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Don't play games, Dr Scott.  You know\nvery well what Brad Majors's doing here.\nIt was part of your plan was it not that he,\nand his female, should check the layout\nfor you.  Well, unfortunately for you all\nthere's to be a change of plans.  I'm sure\nyou're adaptable, Dr Scott.  I know Brad is."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD looks embarrassed and humiliated."
+  },
+  {
+   "type": "speech",
+   "character": "DR SCOTT",
+   "text": "I can assure you that Brad's presence\ncomes as a complete surprise to me.\nI came to find Eddie."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Eddie?  I've seen him.  He's..."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK cuts in quickly."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Eddie?  What do you know of Eddie,\nDr Scott?"
+  },
+  {
+   "type": "speech",
+   "character": "DR SCOTT",
+   "text": "I happen to know a great deal about a\nlot of things.  You see Eddie happens\nto be my nephew."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Dr Scott."
+  },
+  {
+   "type": "stage direction",
+   "text": "A stifled gasp is heard from JANET behind the curtain.\nFRANK is surprised.\nFRANK crosses the screen and pulls back the curtain to reveal\nJANET and ROCKY."
+  },
+  {
+   "type": "speech",
+   "character": "DR SCOTT",
+   "text": "Janet!"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Dr Scott!"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Janet!"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Rocky!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ROCKY reviles FRANK with a look.  He puts his arm around JANET.\nFRANK is appalled."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Listen!  I made you, and I can break\nyou just as easily."
+  },
+  {
+   "type": "stage direction",
+   "text": "ROCKY is terrified.  He takes his arm away from JANET."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "That's better."
+  },
+  {
+   "type": "stage direction",
+   "text": "A GONG is heard.  MAGENTA comes through the broken tiles."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "Master, dinner is prepared."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK & RIFF RAFF exchange a look."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Excellent.  (moves to Dr. Scott)\nDoctor Scott you can sample the\nspeciality of the house - roast\nloin of pork."
+  },
+  {
+   "type": "stage direction",
+   "text": "He gives JANET, who is virtually naked, a seering look."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Under the circumstances, formal\ndress is to be optional."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK leads the way to the lift.\n118\tINT.\tTHE STUDY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "Food has always played a vital role\nin life's rituals.  The breaking of\nbread - the last meal of the condemned\nman - and now this meal.  However\ninformal it might appear you can be\nsure there was to be very little\n'bonhomie'."
+  },
+  {
+   "type": "stage direction",
+   "text": "119\tINT.\tDINING ROOM\tNIGHT\nAt the head of a large coffin shaped table sits FRANK.  There is an\nelectric carver on the table in front of him.  The table is laid for\ndinner and present are JANET & BRAD on FRANK's right, DR. SCOTT opposite\nhim, ROCKY HORROR on Dr. Scott's right and between ROCKY and FRANK,\nCOLUMBIA.  They sit in silence as the double doors open.\nRIFF RAFF and MAGENTA enter.  RIFF RAFF carries a large joint of meat,\nMAGENTA the wine, both of which they set down at the head of the table.\nRIFF RAFF & MAGENTA pour out the wine and return to the side of FRONT\nwho then rises."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "A toast to absent friends."
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "Absent friends."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK now proceeds to carve the meat.  Everyone is quiet and only the\nbuzzing of the electric carver is heard.  RIFF RAFF & MAGENTA distribute\nthe slices, then return to their places."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "We came here to discuss Eddie."
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "Eddie!"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (Silencing her with a gesture)",
+   "text": "It's a rather tender subject....\nAnother slice anyone."
+  },
+  {
+   "type": "stage direction",
+   "text": "Everybody looks at their food carefully.\nCOLUMBIA rises."
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "Excuse me."
+  },
+  {
+   "type": "stage direction",
+   "text": "She rushes from from the room with a ghastly cry."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT (turning aside)",
+   "text": "I knew he was in with a bad crowd.  But it\nwas worse than I imagined...(He turns back)\nAliens!"
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD & JANET look at each other, then at DR. SCOTT."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD & JANET",
+   "text": "Dr. Scott!"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Go on, Dr. Scott - or should I say\ndoctor von Scott."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "What exactly are you implying?"
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK threatens him with the knife."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "That's alright Brad."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "But Doctor Scott..."
+  },
+  {
+   "type": "stage direction",
+   "text": "DR. SCOTT silences BRAD with a gesture.\n120\tSONG:\t\t\"EDDIE'S TEDDY\"\nSCOTT picks up some meat on a fork and regards it."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "From the day he was born,\nhe was trouble.\nHe was the thorn\nIn his mutter's side.\nShe tried in vain."
+  },
+  {
+   "type": "stage direction",
+   "text": "121\tINT.\tTHE STUDY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "But he never caused her\nNothing but shame."
+  },
+  {
+   "type": "stage direction",
+   "text": "122/\tINT.\tDINING ROOM\tNIGHT\n133\nDR. SCOTT produces scrapbook, opening it at a picture of Eddie's mother."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "He left home the day she died.\nFrom the day she was gone\nAll he wanted"
+  },
+  {
+   "type": "stage direction",
+   "text": "DR. SCOTT turns page to a picture of a record of Elvis, singing Teddy\nBear."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Was rock and roll,"
+  },
+  {
+   "type": "stage direction",
+   "text": "He turns the page to porno. magazine."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Porn."
+  },
+  {
+   "type": "stage direction",
+   "text": "He turns page to show an advertisement for Harley Davidson."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Und a motorbike."
+  },
+  {
+   "type": "stage direction",
+   "text": "He turns to a still of Eddie as an addict"
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Shooting up junk"
+  },
+  {
+   "type": "stage direction",
+   "text": "He turns to reveal a newspaper clipping \"Thug bashes woman, 66\"."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "He was a low down\nCheap little punk."
+  },
+  {
+   "type": "stage direction",
+   "text": "Turns the page to Eddie's mug shot."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Taking everyone for a ride."
+  },
+  {
+   "type": "stage direction",
+   "text": "The page turns again revealing the lyrics."
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "When Eddie said\nHe didn't like his teddy\nYou knew he was a no good kid.\nBut when he threatened your life\nWith a switch blade knife"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "What a guy"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Makes you cry"
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Und I did."
+  },
+  {
+   "type": "stage direction",
+   "text": "134/\tINT.\tCOLUMBIA'S ROOM\tNIGHT\n135\nShe has a large portrait of EDDIE on the wall.\nShe is lighting the candles on her dressing table."
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "Everybody shoved him,\nI very nearly loved him.\nI said, hey listen to me,\nStay sane inside insanity.\nBut he locked the door\nAnd threw away the key."
+  },
+  {
+   "type": "stage direction",
+   "text": "She collapses in tears.\n136/\tINT.\tDINING ROOM\tNIGHT\n137"
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Making him warn, me,\nIn a note"
+  },
+  {
+   "type": "stage direction",
+   "text": "DR. SCOTT produces the note."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Which reads."
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "What's it say,\nWhat's it say?"
+  },
+  {
+   "type": "stage direction",
+   "text": "138\tINSERT EDDIE'S NOTE"
+  },
+  {
+   "type": "speech",
+   "character": "EDDIE (VO)",
+   "text": "I'm out of my head\nOh hurry, or I may be dead.\nThey mustn't carry out their evil deeds,\nYaaaow."
+  },
+  {
+   "type": "stage direction",
+   "text": "139\tINT.\tDINING ROOM\tNIGHT\nDR. SCOTT's hands tremble with the note.  JANET & BRAD are now standing\none each side of him."
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "When Eddie said he didn't like his teddy\nYou knew he was a no good kid."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Und when he threatened your life\nWith a switch blade knife"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "What guy"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Makes you cry"
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Und I did."
+  },
+  {
+   "type": "stage direction",
+   "text": "140\tB.C.S. TEDDY as DR. SCOTT produces it."
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "Eddie!"
+  },
+  {
+   "type": "stage direction",
+   "text": "141\tINT.\tDINING ROOM\tNIGHT\nEDDIE'S TEDDY:  REPRISE"
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "When Eddie said he didn't like his teddy\nYou knew he was a no good kid.\nBut when he threatened your life\nWith a switch blade knife"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "What a guy"
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "Woe woe woe"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Makes you cry"
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "Hey hey hey"
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Und I did"
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "EDDIE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK suddenly pulls away the tablecloth to reveal a glass coffin\ncontaining the decomposed remains of EDDIE.\n142\tINT.\tDINING ROOM/HALL/STAIRS\nRIFF RAFF & MAGENTA laugh.  JANET screams and runs to ROCKY who hugs\nher.  BRAD looks shocked.  DR. SCOTT wheels back his wheelchair in\ndisgust, FRANK moves d.s. towards ROCKY."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Oh Rocky, how could you!"
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET runs out, FRANK in pursuit.\nROCKY smiles wanly.\nEncouraged by this, FRANK smashes JANET across the face with the back of\nhis hand."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I'll tell you once,\nWon't tell you twice\nYou'd better wise up\nJanet Weiss.\nY'apple pie\nDon't taste too nice\nYou'd better wise up Janet Weiss."
+  },
+  {
+   "type": "stage direction",
+   "text": "She runs out of room.\nCUT TO\n143\tINT.\tCORRIDOR\tNIGHT\nJANET runs down corridor - FRANK following her."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I've laid the seed\nIt should be all you need."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD appears, pushing DR SCOTT, in hot pursuit."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You're as sensual\nAs a pencil\nWound up like an 'E' or first string"
+  },
+  {
+   "type": "stage direction",
+   "text": "JANET arrives at door of laboratory - she can't open it.\nFRANK arrives face to face."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "When we made it\nDid ya hear a bell ring?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The door opens - they fall through.\nThe door slams in DR SCOTT's face.\n144\tINT.\tLABORATORY\tNIGHT\nJANET rushes in, down the ramp, with FRANK in pursuit."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Y'got a block,\nTake my advice.\nYou'd better wise up,\nJanet Weiss."
+  },
+  {
+   "type": "stage direction",
+   "text": "DR. SCOTT & BRAD arrive in the lift.  FRANK has circled the tank and\narrived at the control panel."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "The transducer (He slams the handle)\nWill seduce yah."
+  },
+  {
+   "type": "stage direction",
+   "text": "DR. SCOTT, BRAD & JANET find they are stuck to the floor."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "My feet - I can' move my feet."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "My wheels - My God, I can't\nmove my wheels."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "It's as if we were glued to the spot."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You are - so quake with fear,\nyou tiny fools."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "We're trapped."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (Moving to her)",
+   "text": "It's something you'll\nGet used to.\nA mental mind fuck\nCan be nice."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Oh!"
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK climbs up the ladder beside the tank.\n(music under this dialogue)"
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "You won't find earth people quite\nthe easy mark you imagine.  This\nsonic transducer - it is, I suppose,\nsome kind of audio-vibratory,\nphysiomolecular transport device...."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "You mean..."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Yes Brad.  It's something we ourselves\nhave been working on.  But it\nseems our friend here has found a\nway of perfecting it.  A device\nwhich is capable of breaking down\nsolid matter and then projecting it\nthrough space, and - who knows -\nperhaps even time itself!"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "You mean he's gonna send us to\nanother planet?"
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK leaps off the tank to the floor."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Planet.\nSchmanet.\nJanet."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK circles JANET, testing her thighs.  BRAD struggles in vain."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You'd better wise up,\nJanet Weiss.\nYou'd better wise up,\nBuild your thighs up.\nYou'd better wise up."
+  },
+  {
+   "type": "stage direction",
+   "text": "145\tINT.\tSTUDY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "Then she cries out -"
+  },
+  {
+   "type": "stage direction",
+   "text": "146\tINT.\tLABORATORY\tNIGHT\nSONG:\t\t\"HOT DOG\"\nJANET screams out."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "Sto-o-o-o-o-op."
+  },
+  {
+   "type": "stage direction",
+   "text": "She cried so loudly that FRANK staggers backwards towards the control\npanel.\nRIFF RAFF & MAGENTA enter through the hole in the tiles - they march\nto behind the tank and then the control panel."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (singing)",
+   "text": "Don't get hot and flustered -\nUse a bit of mustard."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "You're a hot dog\nBut you'd better not\nTry to hurt her,\nFrank Furter."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK signals to MAGENTA.\nBCS MAGENTA's hand on the transducer switch.\nBRAD is turned into a statute."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "You're a hot dog\nBut you'd better not\nTry to hurt her,\nFrank Furter."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK signals, cut to the switch as it is turned on.\nDR. SCOTT is a statue."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "You're a hot dog..."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK signals.  C.S. SWITCH.\nJANET is stone.\n147\tINT.\tLABORATORY\tNIGHT\nDIALOGUE SEQUENCE."
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "My God!  I can't take any more of this -\nfirst you spurn me for Eddie, then you\ncast him off like an old overcoat for\nRocky.  You chew people up and then spit\nthem out - I loved you, do you hear me -\nI LOVED YOU - And what did it get me -\nI'll tell you - a big nothing.\nYou're like a sponge.  You take, take,\ntake, take!  You drain others of their\nlove and emotions.  Well, I've had enough.\nYou've got to choose between me and Rocky -\nso named because of the rocks in his head."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK throws a switch, she turns to stone."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "It's not easy having a good time."
+  },
+  {
+   "type": "stage direction",
+   "text": "He crosses over to RIFF RAFF and MAGENTA"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Even smiling makes my face ache."
+  },
+  {
+   "type": "stage direction",
+   "text": "RIFF RAFF and MAGENTA nod sympathetically.\nHe lies on the operating table.\nThey massage."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "My children turn on me.  Rocky's behaving\njust as Eddie did.  Maybe I made a mistake\nin splitting his brain between the two of\nthem."
+  },
+  {
+   "type": "stage direction",
+   "text": "(massaging his temples)"
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "When will we return to Transylvania?\nI grow weary of this world."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Magenta, I am indeed grateful to both\nyou and your brother RIff Raff - you have\nboth served me well - loyalty such as\nyours must be rewarded and you will\ndiscover when the mood takes me I can\nbe quite generous."
+  },
+  {
+   "type": "stage direction",
+   "text": "MAGENTA betrays her resentment by digging her fingernails into his neck."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "I ask for nothing, Master."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK leaps up from the table."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "And you shall receive it - in abundance."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he goes to the lift)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Come.  We are ready for the floor show."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he slams the lift gate)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Our guests will be growing restless."
+  },
+  {
+   "type": "stage direction",
+   "text": "The lift moves downwards.\nLeft alone in the laboratory MAGENTA and RIFF RAFF smile at each other.\nThey make a special sign and leave by a secret passageway.\nWIPE TO\n148\tINT.\tSTUDY\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "And so, by some extraordinary coincidence -\nfate it seems had decided that Brad and\nJanet should keep that appointment with\ntheir friend Dr Everett Scott.  But it was\nto be in a situation which none of them\ncould have possibly foreseen.  And just a\nfew hours after announcing their engagement,\nBrad and Janet had both tasted forbidden\nfruit.  This in itself was proof that their\nhost was a man of little morals - and some\npersuasion.  What further indignities were\nthey to be subjected to?  And what of the\nsonic transducer and floor show that had\nbeen spoken of?  What indeed?  From what\nhad gone before, it was clear that this\nwas to be no picnic."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIPE TO\n149\tINT.\tBALLROOM (including STAGE)\tNIGHT\nMUSIC:\t\"THE FLOOR SHOW\"\nWe see the stage at the end of the ballroom with red velvet curtains.\n150\tBACKSTAGE\tNIGHT\nFRANK is enjoying dressing the statues which are now on stage.  Each one\nis lovingly fitted with extravagant variations on the stocking and\nsuspender belt variety of his own fantasies.\n151\tINT.\tBALLROOM (INCLUDING STAGE)\tNIGHT\nFootlights glowing on the curtains.\nCUT TO\n152\tINT.\tBACKSTAGE\tNIGHT\nFRANK pulls a switch and the curtains open.\nCUT TO\n153\tINT.\tBALLROOM STAGE\tNIGHT\nRed velvet curtains open to reveal statues in front of silver drapes.\nThe floor is covered with a light mist.\nCUT TO\n154\tINT.\tBACKSTAGE\tNIGHT\nFRANK beams and pulls lever.\nCUT TO\n155\tINT.\tSTAGE\tNIGHT\nCOLUMBIA's statue comes to life."
+  },
+  {
+   "type": "speech",
+   "character": "COLUMBIA",
+   "text": "It was great when it all began\nI was a regular Frank fan.\nBut it was over when he had the plan\nTo start working on a muscle-man.\nNow the only thing that gives me hope\nIs my love of a certain dope\nRose tints my world keeps me\nSafe from my trouble and pain."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n156\tINT.\tBACKSTAGE\tNIGHT\nFRANK switches.\tROCKY leaps to life.\nCUT TO\n157\tINT.\tSTAGE\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "I'm just seven hours old\nTruly beautiful to behold\nAnd somebody should be told\nMy libido hasn't been controlled\nNow the only thing I've come to trust\nIs an orgasmic\u00carush of lust\nRose tints my world keeps me\nSafe from my trouble and pain."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD animated by FRANK\nCUT TO\n158\tINT.\tSTAGE\tNIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "It's beyond me\nHelp me Mommy\nI'll be good you'll see\nTake this dream away\nWhat's this, let's see\nI feel sexy\nWhat's come over me\nHere it comes again."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n159\tINT.\tSTAGE\tNIGHT\nJANET animates.  She behaves like a sex goddess, completely out of\ncontrol, as if performing in a burlesque show."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "I feel released\nBad times deceased\nMy confidence increased\nReality is here\nThe game has been disbanded\nMy mind has been expanded\nIt's a gas that Frankie's landed\nHis lust is so sincere."
+  },
+  {
+   "type": "stage direction",
+   "text": "160\tINT.\tSTAGE\tNIGHT\nWe PULL BACK on the whole stage.  The velvets open to reveal the 20th\nCentury Fox logo as a stage set.\nAt the top of the staircase FRANK appears bathed in light.\nHe wears a dazzling version of the national costume and a chiffon cloak\nwhich billows in the breeze from a wind machine.  He is reminiscent of\na 30's film star."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "What ever happened to Fay Wray\nThat delicate satin-draped frame\nAs it clung to her thigh\nHow I started to cry\nFor I wanted to be dressed just the same."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO\n161\tINT.\tSTAGE\tNIGHT\nThe floor opens to reveal a swimming pool glistening with chlorine\nand glitter.  He beckons the GUESTS.\nIn their drugged state they comply with his every wish."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Give yourself over to absolutely pleasure\nSwim the warm waters of sins of the flesh\nErotic nightmares\nBeyond any measure\nAnd sensual daydreams\nTo treasure forever."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK enters the pool."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Can't you just see it.\nCan't you just see it."
+  },
+  {
+   "type": "stage direction",
+   "text": "They begin to immerse themselves in the pool.\n161A\t\t\tDon't dream it.  Be it."
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "Don't dream it.  Be it."
+  },
+  {
+   "type": "stage direction",
+   "text": "DR SCOTT animates belatedly.\nHe observes the orgy occurring in the pool."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Ach, we've got to get out of this trap\nbefore this decadence saps our wills.\nI've got to be strong and try to hang\non.  Or else my mind, may well snap."
+  },
+  {
+   "type": "stage direction",
+   "text": "The wind machine blows the blanked from his lap and we see legs,\nstockings and a suspender belt.  As in a miracle he can walk again."
+  },
+  {
+   "type": "speech",
+   "character": "DR. SCOTT",
+   "text": "Und my life will be lived,\nFor the thri-i-i-i-ill..."
+  },
+  {
+   "type": "stage direction",
+   "text": "BRAD surfaces, his face betraying consternation."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "It's beyond me\nHelp me Mo-ommy."
+  },
+  {
+   "type": "stage direction",
+   "text": "He is pulled back into the pool.\nA thrilled JANET now emerges."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "God bless Lilly Saint Cyr."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK breaks through the water on a lift from ROCKY.\nSONG:\t\tFLOOR SHOW PT. 3 - WILD AND UNTAMED THING."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "My my my my\nI'm a wild and an untamed thing.\nI'm a bee with a deadly sting.\nGet a hit and your mind goes ping.\nYour heart'll thump and your blood will sing.\nSo let the party and the sounds rock on.\nGonna shake it till the life has gone.\nRose tint my world\nKeep me safe from my trouble and pain."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK dives into the pool.\nDuring the chorus the whole group are diving in and out of the pool in\na frenetic water ballet."
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "I'm a wild and an untamed thing\nI'm a bee with a deadly sting.\nGet a hit and your mind goes ping\nYour heart'll thump and your blood will sing."
+  },
+  {
+   "type": "stage direction",
+   "text": "They emerge from the pool and form a kick line."
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "So let the part and the sounds rock on\nGonna shake it till the life has gone.\nRose tint my world\nKeep me safe from my trouble and pain."
+  },
+  {
+   "type": "stage direction",
+   "text": "162\tINT.\tBALLROOM\tNIGHT\nThe doors at the opposite end of the ballroom open.\nSONG:\t\t\"RIFF RAFF'S RECIT\"\nRIFF RAFF and MAGENTA now dressed in military style space suits, face\nFRANK from the opposite end of the ballroom.\nThey applaud slowly.\nRIFF RAFF has a ray gun.\nThe characters on stage freeze - terrified.\nIt's a showdown across the ballroom."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Frank N. Furter\nIt's all over\nYour mission is a failure."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK looks stunned."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Your life style's too extreme."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK is guilt-stricken."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "I'm your new Commander.\nYou are now my prisoner."
+  },
+  {
+   "type": "stage direction",
+   "text": "The GUESTS scramble for the safety of the wings."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "We return to Transylvania"
+  },
+  {
+   "type": "stage direction",
+   "text": "(he turns to Magenta)"
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Prepare the transit beam."
+  },
+  {
+   "type": "stage direction",
+   "text": "MAGENTA turns to leave."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Wait!  I can explain."
+  },
+  {
+   "type": "stage direction",
+   "text": "163\tINT.\tSTAGE\tNIGHT\nSONG:\t\t\"I'M COMING HOME\"\nFRANK moves slowly to centre stage.  During the song he adjusts\nfootlight controls to give him what effects he requires.\nThe others help FRANK out by singing from the wings.  COLUMBIA operates\na spotlight.\nBRAD closes silver curtains."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "On the day I went away."
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Goodbye"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Was all I had to say"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Now I"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Want to come again and stay"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Oh my, my,"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Smile and that will mean I may"
+  },
+  {
+   "type": "stage direction",
+   "text": "He kicks on cloud projection.  Blue skies appear."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I've seen blue skies\nThrough the tears in my eyes\nAnd I realise\nI'm going home\nI'm going home"
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK falls on his knees."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Everywhere it's been the same"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Feeling"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Like I'm outside in the rain"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Wheeling"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Free to try and find a game"
+  },
+  {
+   "type": "speech",
+   "character": "GUESTS",
+   "text": "Dealing"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Cards for sorrow,\nCards for pain."
+  },
+  {
+   "type": "stage direction",
+   "text": "DR SCOTT switches on wind machine."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I've seen blue skies\nThrough the tears in my eyes\nAnd I realise\nI'm going home\nI'm going home.\nI'm going home."
+  },
+  {
+   "type": "stage direction",
+   "text": "164\tINT.\tBALLROOM\tNIGHT\nMAGENTA who during all this has been filing her nails, looks up at FRANK\nwho is in an attitude of supplication."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "How sentimental."
+  },
+  {
+   "type": "stage direction",
+   "text": "RIFF RAFF moves slowly to the stage."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "And also presumptuous of you.  You\nsee when I said \"we\" were to return\nto Transylvania, I referred only to\nMagenta and myself."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK looks appalled.\nThe GUESTS are deeply troubled, realising that they also are not part of\nthe \"We\"."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "You see, you are to remain here,\nin spirit anyway."
+  },
+  {
+   "type": "stage direction",
+   "text": "He produces a ray gun."
+  },
+  {
+   "type": "speech",
+   "character": "DR SCOTT",
+   "text": "Great Heavens, that's a laser."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Yes, Dr Scott.  A laser capable of\nemitting a beam of pure anti-matter."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "You mean you're going to kill him?\nWhat's his crime?"
+  },
+  {
+   "type": "speech",
+   "character": "DR SCOTT",
+   "text": "You saw what became of Eddie.\nSociety must be protected."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Exactly, Dr Scott.  Now Frank N.\nFurter, your time has come.  Say\ngoodbye to all this and hello to oblivion."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK raises himself to his full height."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Do your worse - inferior one."
+  },
+  {
+   "type": "stage direction",
+   "text": "As RIFF RAFF pulls the trigger, COLUMBIA dashes between them.\nShe is killed instantly.\nRIFF RAFF fires again at FRANK.\nFRANK takes a leap fro the rope on the curtain.  The entire proscenium\ncrashes under the weight.  And FRANK is crushed to death among the\nvelvet and glittered facia.\nROCKY breaks down completely.  Although he despised FRANK, he was all he\nhad in the world.\nHe rushes to the body and cradles it in his arms.\nRIFF RAFF can stand no more.\nHe fires a blast of laser beam at ROCKY who starts climbing the stairway\ntowards the fox skyline.\nRIFF RAFF fires again and again.\nWith the body of FRANK in his arms, ROCKY beats on his chest and lets\nout a wild sound like a giant beast of the jungle.\nRIFF RAFF fires a sustained beam.\nROCKY climbs to the top of the Fox sculpture.\nRIFF RAFF fires again and again.\nThey crash to their deaths."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "Good God."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "You've killed them."
+  },
+  {
+   "type": "stage direction",
+   "text": "MAGENTA has found the entire sequence of events quite distasteful."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "I thought you liked them.  They liked you."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "They didn't like me.  They never liked me."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he tries a calming hand)"
+  },
+  {
+   "type": "speech",
+   "character": "DR SCOTT",
+   "text": "You did right."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "A decision had to be made."
+  },
+  {
+   "type": "stage direction",
+   "text": "(the big sell-out)"
+  },
+  {
+   "type": "speech",
+   "character": "DR SCOTT",
+   "text": "You're OK by me."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Dr Scott I'm sorry about your nephew."
+  },
+  {
+   "type": "speech",
+   "character": "DR SCOTT",
+   "text": "Yes, well perhaps it was for the best."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "You must leave now Dr Scott while it's\nstill possible.  We are about to beam\nthe entire house back to the planet of\ntransexual in the galaxy of Transylvania.\nGo now."
+  },
+  {
+   "type": "stage direction",
+   "text": "The GUESTS flee down the ballroom and out the door.\nWe see the laughing figures of RIFF RAFF and MAGENTA making a special\nsign to each other.\nCUT TO\n165\tINT.\tCASTLE CORRIDORS\tNIGHT\nWe see BRAD and JANET fleeing with DR SCOTT following behind.\n165A\tINT.\tBALLROOM\tNIGHT\nRIFF RAFF and MAGENTA's laughter has subsided."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "Our noble mission is almost completed my\nmost beautiful sister, soon we will return\nto the moon-drenched shores of our\n\"androgenous\" planet."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "Ah - sweet Transexual - land of night -\nto sing and dance once more to your dark\nrefrains.  To take that step to the right..."
+  },
+  {
+   "type": "speech",
+   "character": "RIFF RAFF",
+   "text": "But it's the pelvic thrust\nthat really drives you insane."
+  },
+  {
+   "type": "speech",
+   "character": "MAGENTA",
+   "text": "And our World will do\nthe Time Warp again."
+  },
+  {
+   "type": "stage direction",
+   "text": "165B\tEXT.\tCASTLE\tDAWN\nThere is a huge explosion.\n166\tEXT.\tCASTLE\tDAWN\nWe see the entire castle surrounded by a giant beam of light and then\nvanish into space.\nDuring the explosion sequence the film reverts optically to black and\nwhite.\nDISSOLVE TO\n167\tEXT.\tTHE CRATER\tDAY\nSONG:\t\t\"SUPER-HEROES\"\nBRAD, JANET, and DR SCOTT's bodies are scattered on three sides\nsurrounding a crater where the castle once was.\nThe scene is arid and deserted.  There are remnants of DR SCOTT's\nwheelchair, EDDIE's coffin and broken objects from the laboratory.\nBRAD, tattered and bleeding, lifts himself up."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD",
+   "text": "I've done a lot\nGod knows I've tried\nTo find the truth I've even lied\nBut all I know is down inside."
+  },
+  {
+   "type": "stage direction",
+   "text": "DR SCOTT drags himself to his knees."
+  },
+  {
+   "type": "speech",
+   "character": "BRAD & DR SCOTT",
+   "text": "I'm bleeding."
+  },
+  {
+   "type": "stage direction",
+   "text": "(revives)"
+  },
+  {
+   "type": "speech",
+   "character": "JANET",
+   "text": "And super heroes\nCome to feast\nTo taste the flesh\nNot yet deceased\nAnd al I know\nIs still the beast"
+  },
+  {
+   "type": "speech",
+   "character": "TRIO",
+   "text": "Is feeding."
+  },
+  {
+   "type": "stage direction",
+   "text": "The three of them stand shakily on the perimeter of the crater.\nAll that is left is dust and sand and wind and the sun.\nThe CAMERA PANS from face to face in a circular movement getting faster\nand faster as the trio sing a chorale of hopelessness.\nDISSOLVE TO\n168\tINT.\tSTUDY\tNIGHT\nThe CAMERA has spun into a blur but focusses on a spinning globe\nof the earth on the NARRATOR's desk.\nThe NARRATOR puts his hand on the globe, stopping it.\nHe is standing over his lectern reading from his book like a preacher\nin a pulpit."
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "And crawling on the planet's face\nSome insects called the human race\nLost in time, and lost in space\nAnd meaning."
+  },
+  {
+   "type": "stage direction",
+   "text": "He turns and goes to the door of the study.\nHe switches off the light."
+  },
+  {
+   "type": "speech",
+   "character": "VOICES OFF",
+   "text": "Meaning."
+  },
+  {
+   "type": "stage direction",
+   "text": "He leaves the study, shutting the door.\nIt's almost dark in the study.  Only a sinister glow inside the globe\nof the earth remains.\n169\tCREDIT SEQUENCE\nSONG:\t\t\"SCIENCE FICTION, DOUBLE-FEATURE\"\nThe cast credits roll up."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE OVER",
+   "text": "Science Fiction - double-feature\nFrank has built and lost his creature\nDarkness has conquered Brad and Janet\nThe servants gone to a distant planet\nOh - at the late night double-feature\nPicture Show - I want to go - Ohh -\nTo the late night double-feature picture show."
+  },
+  {
+   "type": "stage direction",
+   "text": "THE END\nMICHAEL WHITE PRODUCTIONS LTD\nTHE ROCKY HORROR PICTURE SHOW"
+  },
+  {
+   "type": "stage direction",
+   "text": "The following alterations involve discrepancies between the original\nscreenplay and current script revisions and design decisions.\n1/2\tThe film will now commence in Black and White on \"ACADEMY\"\nformat.  It will extend to wide screen (1.1 - 85) at\nSequence 41, while still remaining in black and white.  At\nSequence 54 the film changes to colour.\n15\tNow read \"Denton Episcopalian Church\".\n23\tBrad and Janet will arrive at the gate entrance to Oakley Court.\nThis deletes a later reference to gates in 33.  From hereon ignore\nall references to rock formations etc., as the grounds of\nOakley Court are the only location involved in the approach to the\nhouse.\n25\tThree motorbikes drive past Brad and disappear around the house.\n26\tThis window will be in turret in Oakley Court.  Ignore all\nreferences to adjoining 'massive lighted window'.\n30\tThis shot will be of a Gryphem on the Oakley Court facade.\n32\tThis will be of some similar detail to the above.\n38\t\"Stairway\" references now allude to the front entrance hall of\nOakley Court.\n40\tDelete references to \"mirrors reflecting to infinity\".\n47\tColumbia now is astride a Juke Box.  The band are cut.\n54a\tRed streamers and Black and White balloons fall.  Not just\nstreamers.\n69\tAll future references to the operating table in the Lab now\nshould be applied either to the TANK or the vaulting horse\n(part of the gymnasium equipment) - whichever is applicable.\n75\tDelete references to the Ice-block.  Eddie now crashes\nthrough a wall of Coca Cola bottles and ice.  He is also equipped\nwith a saxaphone rather than a guitar.\n87a\tRocky now escapes through the lift shaft.  This may involve\na shot from the vestibule showing Rocky climbing out of lift\ncage and running out of the house.  It may also involve the\ndouble bed in the bridal suite collapsing during the escape\nsequence.\n91\tIt is still raining.\n92\tJanet is now stumbling around the staircase in Oakley Court.\n103\tThis sequence may now also involve Riff-Raff, Magenta,\nColumbia, Frank, Brad and selected Transylvanians.\n106\tWill now have Frank, Riff-Raff, and Brad entering the Lab\nin the lift cage.\n108\tIt is still raining.\n116\tDr Scott will now break through the tiled wall of the laboratory\non the area of ramp above the control panel.\n117\tMagenta will now appear through the broken tile area created\nby Dr Scott.\n122/140 This sequence will be altered to Dr Scott holding a\nphotograph album containing a still photograph equivalent\nof the \"flashbacks\" referred to in this sequence.\n143/4\tAll entrances to the Lab will be via the broken tiled entrance.\nDelete all references to the floor lowering.\n147\tThe \"secret passage\" is now the broken tile entrance.\n164\tFrank tries to scale up the silver drapes which descend on\nhim with Tab tracks, rope supports, etc.\nMEMO:  SCRIPT ALTERATIONS\nFROM:  JIM SHARMAN\t\t\t\t9.12.74\nTO:    ALL CONCERNED.\nSc. 148  INT. NARRATOR'S STUDY.N>\nAs scripted up to;  What further indignities were they\nto be subjected to?\nThen please add:\tAnd what of the floor show that had been\nspoken of?  In an empty house?  In the middle of the night.\nWhat diabolical plan had seized Frank's crazed imagination?\nWhat indeed?  From what had gone before it was clear that\nthis was to be no picnic.\nSc. 97.  INT. NARRATOR'S STUDY.  N.\nIs replaced by the following:\nEmotion is a powerful and irrational master, and, from what\nMagenta and Columbia eagerly viewed on their television\nmonitor there seemed little doubt that Janet was indeed it's\nslave.\nSC. 77 pt.\nC.S. FRANK\t\t\t\tFRANK"
+  },
+  {
+   "type": "speech",
+   "text": "Oh no my baby - don't be upset -\nit was a mercy killing.  He had\na certain naive charm - but no muscle."
+  }
+ ]
+}

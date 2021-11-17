@@ -1,0 +1,1627 @@
+,character,line #,line
+0,LUKE,0,"Echo Three to Echo Seven.  Han,
+old buddy, do you read me?"
+1,HAN,1,"Loud and clear, kid.  What's up?"
+2,LUKE,2,"Well, I finished my circle.  I
+don't pick up any life readings."
+3,HAN,3,"There isn't enough life on this
+ice cube to fill a space cruiser.
+The sensors are placed, I'm going
+back."
+4,LUKE,4,"Right.  I'll see you shortly.
+There's a meteorite that hit the
+ground near here.  I want to check
+it out.  It won't take long."
+5,LUKE,5,"Hey, steady girl.  What's the
+matter?  You smell something?"
+6,LUKE,6,Aaargh!
+7,HAN,7,Chewie!
+8,HAN,8,"All right, don't lose your temper.
+I'll come right back and give you
+a hand."
+9,RIEEKAN,9,Solo?
+10,RIEEKAN,10,Commander Skywalker reported in yet?
+11,HAN,11,"No.  He's checking out a meteorite
+that hit near him."
+12,screen),12,"With all the meteor activity in this
+system, it's going to be difficult
+to spot approaching ships."
+13,HAN,13,"General, I've got to leave.  I
+can't stay anymore."
+14,RIEEKAN,14,I'm sorry to hear that.
+15,HAN,15,"Well, there's a price on my head.
+If I don't pay off Jabba the Hut,
+I'm a dead man."
+16,RIEEKAN,16,"A death mark's not an easy thing
+to live with.  You're a good
+fighter, Solo.  I hate to lose you."
+17,HAN,17,"Thank you, General."
+18,HAN,18,"Well, Your Highness, I guess this
+is it."
+19,LEIA,19,That's right.
+20,HAN,20,"Well, don't get all mushy on me.
+So long, Princess."
+21,LEIA,21,Han!
+22,HAN,22,"Yes, Your Highnessness?"
+23,LEIA,23,I thought you decided to stay.
+24,HAN,24,"Well, the bounty hunter we ran
+into on Ord Mantell changed my
+mind."
+25,LEIA,25,"Han, we need you!"
+26,HAN,26,We?
+27,LEIA,27,Yes.
+28,HAN,28,"Oh, what about you need?"
+29,LEIA,29,"I need?  I don't know what you're
+talking about."
+30,fed up),30,You probably don't.
+31,LEIA,31,"And what precisely am I supposed
+to know?"
+32,HAN,32,"Come on!  You want me to stay
+because of the way you feel about
+me."
+33,LEIA,33,"Yes.  You're a great help to us.
+You're a natural leader..."
+34,HAN,34,"No!  That's not it.  Come on.
+Aahhh - uh huh!  Come on."
+35,HAN,35,"Am I?  Then why are you following
+me?  Afraid I was going to leave
+without giving you a goodbye kiss?"
+36,LEIA,36,I'd just as soon kiss a Wookiee.
+37,HAN,37,"I can arrange that.  You could use
+a good kiss!"
+38,THREEPIO,38,"Don't try to blame me.  I didn't
+ask you to turn on the thermal
+heater.  I merely commented that it
+was freezing in the princess'
+chamber.  But it's supposed to be
+freezing.  How are we going to dry
+out all her clothes?  I really don't
+know."
+39,THREEPIO,39,"Oh, switch off."
+40,HAN,40,"Why do you take this apart now?
+I'm trying to get us out of here
+and you pull both of these."
+41,THREEPIO,41,"Excuse me, sir."
+42,HAN,42,Put them back together right now.
+43,THREEPIO,43,"Might I have a word with you,
+please?"
+44,HAN,44,What do you want?
+45,THREEPIO,45,"Well, it's Princess Leia, sir.
+She's been trying to get you on
+the communicator."
+46,HAN,46,"I turned it off.  I don't want to
+talk to her."
+47,THREEPIO,47,"Oh.  Well, Princess Leia is wondering
+about Master Luke.  He hasn't come
+back yet.  She doesn't know where he
+is."
+48,HAN,48,I don't know where he is.
+49,THREEPIO,49,Nobody knows where he is.
+50,HAN,50,"What do you mean, ""nobody knows""?"
+51,THREEPIO,51,"Well, uh, you see..."
+52,HAN,52,Deck Officer.  Deck Officer!
+53,THREEPIO,53,"Excuse me, sir.  Might I inqu..."
+54,DECK OFFICER,54,"Yes, sir?"
+55,HAN,55,"Do you know where Commander
+Skywalker is?"
+56,DECK OFFICER,56,"I haven't seen him.  It's possible
+he came in through the south entrance."
+57,HAN,57,"It's possible?  Why don't you go
+find out?  It's getting dark out there."
+58,DECK OFFICER,58,"Yes, sir."
+59,THREEPIO,59,"Excuse me, sir.  Might I inquire
+what's going on?"
+60,HAN,60,Why not?
+61,THREEPIO,61,"Impossible man.  Come along, Artoo,
+let's find Princess Leia.  Between
+ourselves, I think Master Luke is
+in considerable danger."
+62,DECK OFFICER,62,"Sir, Commander Skywalker hasn't
+come in through the south entrance.
+He might have forgotten to check in."
+63,HAN,63,Not likely.  Are the speeders ready?
+64,DECK OFFICER,64,"Not yet.  We're having some trouble
+adapting them to the cold."
+65,HAN,65,"Then we'll have to go out on
+Tauntauns."
+66,DECK OFFICER,66,"Sir, the temperature's dropping too
+rapidly."
+67,HAN,67,"That's right.  And my friends out
+in it."
+68,ASSISTANT OFFICER,68,"I'll cover sector twelve.  Have
+com-control set screen alpha."
+69,DECK OFFICER,69,"Your Tauntaun'll freeze before you
+reach the first marker."
+70,HAN,70,Then I'll see you in hell!
+71,THREEPIO,71,"You must come along now, Artoo.
+There's really nothing more we can
+do.  And my joints are freezing up."
+72,THREEPIO,72,"Don't say thing like that!  Of
+course we'll see Master Luke again.
+He'll be quite all right, you'll see."
+73,THREEPIO,73,"Stupid little short-circuit.  He'll
+be quite all right."
+74,LIEUTENANT,74,"Sir, all the patrols are in.
+There's still no contact from
+Skywalker or Solo."
+75,THREEPIO,75,"Mistress Leia, Artoo says he's been
+quite unable to pick up any signals,
+although he does admit that his own
+range is far too weak to abandon
+all hope."
+76,DERLIN,76,"Your Highness, there's nothing
+more we can do tonight.  The shield
+doors must be closed."
+77,DERLIN,77,Close the doors.
+78,LIEUTENANT,78,"Yes, sir."
+79,THREEPIO,79,"Artoo says the chances of survival
+are seven hundred seventy-five...
+to one."
+80,THREEPIO,80,"Actually, Artoo has been known to
+make mistakes... from time to time.
+Oh, dear, oh, dear.  Don't worry
+about Master Luke.  I'm sure he'll
+be all right.  He's quite clever,
+you know... for a human being."
+81,BEN,81,Luke... Luke.
+82,LUKE,82,Ben?
+83,BEN,83,You will go to the Dagobah system.
+84,LUKE,84,Dagobah system?
+85,BEN,85,"There you will learn from Yoda,
+the Jedi Master who instructed me."
+86,LUKE,86,Ben... Ben.
+87,HAN,87,"Luke!  Luke!  Don't do this, Luke.
+Come on, give me a sign here."
+88,HAN,88,Not much time.
+89,LUKE,89,Ben... Ben...
+90,HAN,90,"Hang on, kid."
+91,LUKE,91,Dagobah system...
+92,odor),92,Whew...
+93,LUKE,93,Dagobah...
+94,HAN,94,"This may smell bad, kid..."
+95,LUKE,95,Yoda...
+96,HAN,96,"...but it will keep you warm...
+til I get the shelter built."
+97,"Luke inside the
+carcass)",97,"Ooh... I thought they smelled bad
+on the outside!"
+98,ZEV,98,"Echo Base... I've got something!  Not
+much, but it could be a life form."
+99,ZEV,99,"This is Rogue Two.  this is Rogue
+Two.  Captain Solo, so you copy?
+Commander Skywalker, do you copy?
+This is Rogue Two."
+100,Zev's receiver),100,"Good morning.  Nice of you guys
+to drop by."
+101,ZEV,101,"Echo Base... this is Rogue Two.  I
+found them.  Repeat, I found them."
+102,THREEPIO,102,"Master Luke, sir, it's so good
+to see you fully functional again."
+103,THREEPIO,103,"Artoo expresses his relief, also."
+104,HAN,104,"How are you feeling, kid?  You
+don't look so bad to me.  In
+fact, you look strong enough to
+pull the ears off a Gundark."
+105,LUKE,105,Thanks to you.
+106,HAN,106,"That's two you owe me, junior."
+107,HAN,107,"Well your Worship, looks like
+you managed to keep me around for
+a little while longer."
+108,LEIA,108,"I had nothing to do with it.  General
+Rieekan thinks it's dangerous for
+any ships to leave the system until
+we've activated the energy shield."
+109,HAN,109,"That's a good story.  I think you
+just can't bear to let a gorgeous
+guy like me out of your sight."
+110,LEIA,110,"I don't know where you get your
+delusions, laser brain."
+111,HAN,111,"Laugh it up, fuzzball.  But you
+didn't see us alone in the south
+passage."
+112,HAN,112,"She expressed her true feelings
+for me."
+113,LEIA,113,"My...!  Why, you stuck up,... half-
+witted... scruffy-looking ...nerf-
+herder!"
+114,HAN,114,Who's scruffy-looking?
+115,HAN,115,"I must have hit pretty close to
+the mark to get her all riled up
+like that, huh, kid?"
+116,LEIA,116,"Why, I guess you don't know
+everything about women yet?"
+117,ANNOUNCER,117,"Headquarters personnel, report to
+command center."
+118,HAN,118,Take it easy.
+119,THREEPIO,119,"Excuse us, please."
+120,RIEEKAN,120,Princess... we have a visitor.
+121,RIEEKAN,121,"We've picked up something outside
+the base in zone twelve, moving
+east."
+122,SENIOR CONTROLLER,122,It's metal.
+123,LEIA,123,"Then it couldn't be one of those
+creatures that attacked Luke."
+124,HAN,124,"It could be a speeder, one of ours."
+125,SENIOR CONTROLLER,125,"No.  Wait - there's something very
+weak coming through."
+126,THREEPIO,126,"Sir, I am fluent in six million
+forms of communication.  This signal
+is not used by the Alliance.  It
+could be an Imperial code."
+127,HAN,127,"It isn't friendly, whatever it is.
+Come on, Chewie, let's check it out."
+128,RIEEKAN,128,"Send Rogues Ten and Eleven to
+station three-eight."
+129,HAN,129,Afraid there's not much left.
+130,LEIA,130,What was it?
+131,HAN,131,"Droid of some kind.  I didn't hit
+it that hard.  It must have had a
+self-destruct."
+132,LEIA,132,An Imperial probe droid.
+133,HAN,133,"It's a good bet the Empire knows
+we're here."
+134,RIEEKAN,134,We'd better start the evacuation.
+135,PIETT,135,Admiral.
+136,OZZEL,136,"Yes, Captain"
+137,PIETT,137,"I think we've got something, sir.
+The report is only a fragment from
+a probe droid in the Hoth system,
+but it's the best lead we've had."
+138,OZZEL,138,"We have thousands of probe droids
+searching the galaxy.  I want proof,
+not leads!"
+139,PIETT,139,The visuals indicate life readings.
+140,OZZEL,140,"It could mean anything.  If we
+followed every lead..."
+141,PIETT,141,"But, sir, the Hoth system is supposed
+to be devoid of human forms."
+142,VADER,142,You found something?
+143,PIETT,143,"Yes, my lord."
+144,on the console screen),144,That's it.  The Rebels are there.
+145,OZZEL,145,"My lord, there are so many uncharted
+settlements.  It could be smugglers,
+it could be..."
+146,VADER,146,"That is the system.  And I'm sure
+Skywalker is with them.  Set your
+course for the Hoth system.  General
+Veers, prepare you men."
+147,REBEL CAPTAIN,147,"Groups seven and ten will stay
+behind to fly the speeders.  As
+soon as each transport is loaded,
+evacuation control will give
+clearance for immediate launch."
+148,REBEL FIGHTER,148,"Right, sir."
+149,Chewie),149,"Okay, that's it.  Try it... Off!
+Turn it off!  Turn it off!  Off!"
+150,MEDICAL DROID,150,"Sir, it will take quite a while
+to evacuate the T-forty- sevens."
+151,LUKE,151,"Well, forget the heavy equipment.
+There's plenty of time to get the
+smaller modules on the transports."
+152,MEDICAL DROID,152,"Take care, sir."
+153,LUKE,153,Thanks.
+154,LUKE,154,"Chewie, take care of yourself,
+okay?"
+155,HAN,155,"Hi, kid."
+156,HAN,156,"There's got to be a reason for
+it.  Check it at the other end.
+Wait a second."
+157,HAN,157,You all right?
+158,LUKE,158,Yeah.
+159,HAN,159,Be careful.
+160,LUKE,160,"You, too."
+161,CONTROLLER,161,"General, there's a fleet of Star
+Destroyers coming out of hyperspace
+in sector four."
+162,RIEEKAN,162,"Reroute all power to the energy
+shield.  We've got to hold them till
+all transports are away.  Prepare
+for ground assault."
+163,VADER,163,"What is it, General?"
+164,VEERS,164,"My lord, the fleet has moves out
+of light-speed.  Com-Scan has
+detected an energy field protecting
+an area around the sixth planet of
+the Hoth system.  The field is
+strong enough to deflect any
+bombardment."
+165,VADER,165,"The Rebels are alerted to our
+presence.  Admiral Ozzel came out
+of light-speed too close to the
+system."
+166,VEERS,166,He felt surprise was wiser...
+167,VADER,167,"He is as clumsy as he is stupid.
+General, prepare your troops for a
+surface attack."
+168,VEERS,168,"Yes, my lord."
+169,OZZEL,169,"Lord Vader, the fleet has moved
+out of light-speed, and we're
+preparing to... Aaagh!"
+170,VADER,170,"You have failed me for the last
+time, Admiral.  Captain Piett."
+171,PIETT,171,"Yes, my lord."
+172,PIETT,172,"Thank you, Lord Vader."
+173,LEIA,173,"All troop carriers will assemble
+at the north entrance.  The heavy
+transport ships will leave as
+soon as they're loaded.  Only two
+fighter escorts per ship.  The
+energy shield can only be opened
+for a short time, so you'll have
+to stay very close to your transports."
+174,HOBBIE,174,Two fighters against a Star Destroyer?
+175,LEIA,175,"The ion cannon will fire several
+shots to make sure that any enemy
+ships will be out of your flight
+path.  When you've gotten past the
+energy shield, proceed directly to
+the rendezvous point.  Understood?"
+176,PILOTS,176,Right.  Okay.
+177,LEIA,177,Good luck.
+178,DERLIN,178,"Okay.  Everyone to your stations.
+Let's go!"
+179,RIEEKAN,179,"Their primary target will be the
+power generators.  Prepare to
+open the shield."
+180,CONTROLLER,180,"Sir, Rebel ships are coming into
+our sector."
+181,CAPTAIN,181,Good.  Our first catch of the day.
+182,WOMAN CONTROLLER,182,"Stand by, ion control... Fire!"
+183,ANNOUNCER,183,The first transport is away.
+184,DACK,184,"Feeling all right, sir?"
+185,LUKE,185,"Just like new, Dack.  How about
+you?"
+186,DACK,186,"Right now I feel like I could take
+on the whole Empire myself."
+187,in),187,I know what you mean.
+188,TRENCH OFFICER,188,Echo Station Three-T-Eight.
+189,TRENCH OFFICER,189,We have spotted Imperial walkers!
+190,LUKE,190,"Echo station Five-Seven.  We're
+on our way."
+191,LUKE,191,"All right, boys, keep tight now."
+192,DACK,192,"Luke, I have no approach vector.
+I'm not set."
+193,LUKE,193,"Steady, Dack.  Attack pattern
+delta.  Go now!"
+194,LUKE,194,"All right, I'm coming in."
+195,LUKE,195,"Hobbie, you still with me?"
+196,LUKE,196,"That armor's too strong for
+blasters."
+197,LUKE,197,"Rogue Group, use your harpoons
+and tow cables.  Go for the legs.
+It might be our only chance of
+stopping them."
+198,LUKE,198,"All right, stand by, Dack."
+199,DACK,199,"Luke, we've got a malfunction in
+fire control.  I'll have to cut in
+the auxiliary."
+200,LUKE,200,"Just hang on.  Hang on, Dack.  Get
+ready to fire that tow cable."
+201,LUKE,201,Dack?  Dack!
+202,VEERS,202,"Yes, Lord Vader.  I've reached the
+main power generator.  The shield
+will be down in moments.  You may
+start your landing."
+203,LUKE,203,Rogue Three.
+204,WEDGE,204,"Copy, Rogue Leader"
+205,LUKE,205,"Wedge, I've lost my gunner.  You'll
+have to make this shot.  I'll cover
+for you.  Set your harpoon.  Follow
+me on the next pass."
+206,WEDGE,206,"Coming around, Rogue Leader."
+207,LUKE,207,"Steady, Rogue Two"
+208,WEDGE,208,Activate harpoon.
+209,WEDGE,209,"Good shot, Janson."
+210,WEDGE,210,One more pass.
+211,JANSON,211,Coming around.  Once more.
+212,JANSON,212,Once more.
+213,JANSON,213,Cable out!  Let her go!
+214,WEDGE,214,Detach cable.
+215,JANSON,215,Cable detached.
+216,TRENCH OFFICER,216,Come on!
+217,WEDGE,217,Whooha!  That got him!
+218,LUKE,218,"I see it, Wedge.  Good work."
+219,RIEEKAN,219,"I don't think we can protect two
+transports at a time."
+220,LEIA,220,"It's risky, but we can't hold out
+much longer.  We have no choice."
+221,RIEEKAN,221,Launch patrols.
+222,LEIA,222,Evacuate remaining ground staff.
+223,HAN,223,"No, no!  No!  This one goes there,
+that one goes there.  Right?"
+224,THREEPIO,224,"Artoo, you take good care of
+Master Luke now, understand?  And
+... do take good care of yourself.
+Oh, dear, oh, dear."
+225,VEERS,225,"All troops will debark for ground
+assault.  Prepare to target the
+main generator."
+226,LUKE,226,"Rogue Two, are you all right?"
+227,ZEV,227,"Yeah.  I'm with you, Rogue Leader."
+228,LUKE,228,We'll set harpoon.  I'll cover for you.
+229,ZEV,229,Coming around.
+230,LUKE,230,"Watch that cross fire, boys."
+231,ZEV,231,Set for position three.
+232,ZEV,232,Steady.
+233,LUKE,233,Stay tight and low.
+234,LUKE,234,"Hobbie, I've been hit!"
+235,HAN,235,You all right?
+236,LEIA,236,Why are you still here?
+237,HAN,237,"I heard the command center had
+been hit."
+238,LEIA,238,You got your clearance to leave.
+239,HAN,239,"Don't worry.  I'll leave.  First
+I'm going to get you to your ship."
+240,THREEPIO,240,"Your Highness, we must take this
+last transport.  It's our only hope."
+241,LEIA,241,"Send all troops in sector twelve
+to the south slope to protect the
+fighters."
+242,ANNOUNCER,242,"Imperial troops have entered the
+base."
+243,HAN,243,Come on... that's it.
+244,LEIA,244,"Give the evacuation code signal.
+And get to your transports!"
+245,HEAD CONTROLLER,245,K-one-zero... all troops disengage.
+246,THREEPIO,246,Oh!  Wait for me!
+247,OFFICER,247,Begin retreat!
+248,SECOND OFFICER,248,Fall back!
+249,VEERS,249,Distance to power generators?
+250,PILOT,250,"One-seven, decimal two-eight."
+251,VEERS,251,Target.  Maximum fire power.
+252,HAN,252,"Transport, this is Solo.  Better
+take off - I can't get to you.
+I'll get the princess out on the
+Falcon."
+253,THREEPIO,253,"But... but... but... where are
+you going?  Uh... come back!!"
+254,THREEPIO,254,Wait!  Wait for me!  Wait!  Stop!
+255,THREEPIO,255,How typical.
+256,HAN,256,Come on.
+257,HAN,257,"Hurry up, goldenrod, or you're
+going to be a permanent resident!"
+258,THREEPIO,258,Wait!  Wait!
+259,HAN,259,How's this?
+260,LEIA,260,"Would it helped if I got out and
+pushed?"
+261,HAN,261,It might.
+262,THREEPIO,262,"Captain Solo, Captain Solo... sir,
+might I suggest that you..."
+263,THREEPIO,263,It can wait.
+264,LEIA,264,"This bucket of bolts is never going
+to get us past that blockade."
+265,HAN,265,"This baby's got a few surprises
+left in her, sweetheart."
+266,HAN,266,"Come on!  Come on!  Switch over.
+Let's hope we don't have a burnout."
+267,HAN,267,See?
+268,LEIA,268,"Someday you're going to be wrong,
+and I hope I'm there to see it."
+269,HAN,269,Punch it!
+270,LUKE,270,Artoo!  Get her ready for takeoff.
+271,WEDGE,271,"Good luck, Luke.  See you at
+the rendezvous."
+272,LUKE,272,"Don't worry, Artoo.  We're going,
+we're going."
+273,LUKE,273,"There's nothing wrong, Artoo.
+I'm just setting a new course."
+274,LUKE,274,"We're not going to regroup with
+the others."
+275,LUKE,275,We're going to the Dagobah system.
+276,LUKE,276,"Yes, Artoo?"
+277,LUKE,277,"That's all right.  I'd like to
+keep it on manual control for a
+while."
+278,HAN,278,I saw them!  I saw them!
+279,LEIA,279,Saw what?
+280,HAN,280,"Star Destroyers, two of them,
+coming right at us."
+281,THREEPIO,281,"Sir, sir!  Might I suggest..."
+282,HAN,282,Shut him up or shut him down!
+283,HAN,283,Check the deflector shield!
+284,HAN,284,"Oh, great.  Well, we can still
+outmaneuver them."
+285,IMPERIAL OFFICER,285,Take evasive action!
+286,HAN,286,"Prepare to make the jump to light-
+speed."
+287,THREEPIO,287,"But, sir!"
+288,LEIA,288,They're getting closer!
+289,eye),289,Oh yeah?  Watch this.
+290,LEIA,290,Watch what?
+291,HAN,291,I think we're in trouble.
+292,THREEPIO,292,"If I may say so, sir, I noticed
+earlier that the hyperdrive
+motivator has been damaged.  It's
+impossible to go to light-speed!"
+293,HAN,293,We're in trouble!
+294,HAN,294,Horizontal boosters...!
+295,HAN,295,"Alluvial dampers...!  Well that's
+not it."
+296,HAN,296,Bring me the hydrospanners!
+297,HAN,297,"I don't know how we're going to
+get out of this one."
+298,HAN,298,Oww!  Chewie!
+299,HAN,299,"That was no laser blast!  Something
+hit us."
+300,LEIA,300,"Han, get up here!"
+301,HAN,301,"Come on, Chewie!"
+302,LEIA,302,Asteroids!
+303,HAN,303,"Oh, no!  Chewie, set two-seven-
+one."
+304,LEIA,304,"What are you doing?  You're not
+actually going into an asteroid
+field?"
+305,HAN,305,"They'd be crazy to follow us,
+wouldn't they?"
+306,LEIA,306,"You don't have to do this to
+impress me."
+307,THREEPIO,307,"Sir, the possibility of successfully
+navigating an asteroid field is
+approximately three thousand, seven
+hundred and twenty to one."
+308,HAN,308,Never tell me the odds!
+309,HAN,309,"You said you wanted to be around
+when I made a mistake; well, this
+could be it, sweetheart."
+310,LEIA,310,"I take it back.  We're going to
+get pulverized if we stay out here
+much longer."
+311,HAN,311,I'm not going to argue with that.
+312,THREEPIO,312,Pulverized?
+313,HAN,313,"I'm going in closer to one of
+those big ones."
+314,LEIA,314,Closer?
+315,THREEPIO,315,Closer?!
+316,THREEPIO,316,"Oh, this is suicide!"
+317,HAN,317,There.  That looks pretty good.
+318,LEIA,318,What looks pretty good?
+319,HAN,319,Yeah.  That'll do nicely.
+320,THREEPIO,320,"Excuse me, ma'am, but where are
+we going?"
+321,LEIA,321,I hope you know what you're doing.
+322,HAN,322,"Yeah, me too."
+323,LUKE,323,"Yes, that's it.  Dagobah."
+324,LUKE,324,"No, I'm not going to change my
+mind about this."
+325,LUKE,325,"I'm not picking up any cities or
+technology.  Massive life-form
+readings, though.  There's something
+alive down there..."
+326,LUKE,326,"Yes, I'm sure it's perfectly safe
+for droids."
+327,LUKE,327,"I know, I know!  All the scopes are
+dead.  I can't see a thing!  Just
+hang on, I'm going to start the
+landing cycle..."
+328,LUKE,328,"No, Artoo, you stay put.  I'll
+have a look around."
+329,LUKE,329,Artoo?
+330,LUKE,330,Artoo!  Where are you?
+331,LUKE,331,Artoo!  You be more careful.
+332,LUKE,332,Artoo - that way!
+333,LUKE,333,Artoo!
+334,LUKE,334,"Oh, no!  Are you all right?  Come
+on.  You're lucky you don't taste
+very good.  Anything broken?"
+335,LUKE,335,"If you're saying coming here was
+a bad idea, I'm beginning to agree
+with you.  Oh, Artoo, what are we
+doing here?  It's like... something
+out of a dream, or, I don't know.
+Maybe I'm just going crazy."
+336,VADER,336,"Yes, Admiral?"
+337,VADER,337,"Asteroids do not concern me,
+Admiral.  I want that ship and
+not excuses."
+338,PIETT,338,"Yes, lord."
+339,HAN,339,"I'm going to shut down everything
+but the emergency power systems."
+340,THREEPIO,340,"Sir, I'm almost afraid to ask,
+but... does that include shutting
+me down, too?"
+341,HAN,341,"No, I need you to talk to the
+Falcon, find out what's wrong with
+the hyperdrive."
+342,THREEPIO,342,"Sir, it's quite possible this
+asteroid is not entirely stable."
+343,HAN,343,"Not entirely stable?  I'm glad you're
+here to tell us these things.  Chewie,
+take the professor in the back and
+plug him into the hyperdrive."
+344,THREEPIO,344,"Oh!  Sometimes I just don't
+understand human behavior.  After
+all, I'm only trying to do my job
+in the most..."
+345,LEIA,345,Let go.
+346,HAN,346,Sshh!
+347,LEIA,347,"Let go, please."
+348,HAN,348,Don't get excited.
+349,LEIA,349,"Captain, being held by you isn't
+quite enough to get me excited."
+350,HAN,350,"Sorry, sweetheart.  We haven't
+got time for anything else."
+351,LUKE,351,"Ready for some power?  Okay.
+Let's see now.  Put that in
+there.  There you go."
+352,LUKE,352,"Now all I have to do is find this
+Yoda... if he even exists."
+353,LUKE,353,"Still... there's something familiar
+about this place.  I feel like...
+I don't know..."
+354,STRANGE VOICE,354,Feel like what?
+355,creature),355,Like we're being watched!
+356,CREATURE,356,"Away with your weapon!  I mean
+you no harm."
+357,CREATURE,357,"I am wondering, why are you here?"
+358,LUKE,358,I'm looking for someone.
+359,CREATURE,359,"Looking?  Found someone, you have,
+I would say, hmmm?"
+360,smiling),360,Right.
+361,CREATURE,361,"Help you I can.  Yes, mmmm."
+362,LUKE,362,"I don't think so.  I'm looking
+for a great warrior."
+363,CREATURE,363,Ahhh!  A great warrior.
+364,his head),364,Wars not make one great.
+365,LUKE,365,"Put that down.  Hey!  That's my
+dinner!"
+366,CREATURE,366,"How you get so big, eating food
+of this kind?"
+367,LUKE,367,"Listen, friend, we didn't mean to
+land in that puddle, and if we
+could get our ship out, we would,
+but we can't, so why don't you just..."
+368,CREATURE,368,"Aww, cannot get your ship out?"
+369,LUKE,369,"Hey, you could have broken this.
+Don't do that.  Ohhh... you're
+making a mess.  Hey, give me that!"
+370,the lamp),370,Mine!  Or I will help you not.
+371,LUKE,371,"I don't want your help.  I want
+my lamp back.  I'll need it to
+get out of this slimy mudhole."
+372,CREATURE,372,Mudhole?  Slimy?  My home this is.
+373,CREATURE,373,"Ah, ah, ah!"
+374,LUKE,374,"Oh, Artoo, let him have it!"
+375,CREATURE,375,Mine!  Mine!
+376,LUKE,376,Artoo!
+377,CREATURE,377,Mine!
+378,CREATURE,378,Mine!
+379,LUKE,379,"Now will you move along, little
+fella?  We're got a lot of work
+to do."
+380,CREATURE,380,"No!  No, no!  Stay and help you,
+I will."
+381,CREATURE,381,"Find your friend, hmm?"
+382,LUKE,382,"I'm not looking for a friend.
+I'm looking for a Jedi Master."
+383,CREATURE,383,"Oohhh.  Jedi Master.  Yoda.  You
+seek Yoda."
+384,LUKE,384,You know him?
+385,CREATURE,385,"Mmm.  Take you to him, I will."
+386,CREATURE,386,"Yes, yes.  But now, we must eat.
+Come.  Good food.  Come."
+387,CREATURE,387,"Come, come."
+388,LUKE,388,"Stay here and watch after the
+camp, Artoo."
+389,THREEPIO,389,"Oh, where is Artoo when I need
+him?"
+390,THREEPIO,390,"Sir, I don't know where your ship
+learned to communicate, but it
+has the most peculiar dialect.  I
+believe, sir, it says that the
+power coupling on the negative
+axis has been polarized.  I'm
+afraid you'll have to replace it."
+391,HAN,391,"Well, of course I'll have to replace
+it."
+392,HAN,392,Here!  And Chewie...
+393,HAN,393,"... I think we'd better replace
+the negative power coupling."
+394,HAN,394,"Hey, Your Worship, I'm only
+trying to help."
+395,LEIA,395,"Would you please stop calling me
+that?"
+396,HAN,396,"Sure, Leia."
+397,LEIA,397,"Oh, you make it so difficult
+sometimes."
+398,HAN,398,"I do, I really do.  You could be
+a little nicer, though."
+399,reaction),399,"Come on, admit it.  Sometimes you
+think I'm all right."
+400,LEIA,400,Occasionally...
+401,haltingly),401,"... when you aren't acting like
+a scoundrel."
+402,HAN,402,"Scoundrel?  Scoundrel?  I like
+the sound of that."
+403,LEIA,403,Stop that.
+404,HAN,404,Stop what?
+405,LEIA,405,Stop that!  My hands are dirty.
+406,HAN,406,"My hands are dirty, too.  What
+are you afraid of?"
+407,into his eyes),407,Afraid?
+408,HAN,408,You're trembling.
+409,LEIA,409,I'm not trembling.
+410,HAN,410,"You like me because I'm a scoundrel.
+There aren't enough scoundrels in
+your life."
+411,LEIA,411,I happen to like nice men.
+412,HAN,412,I'm a nice man.
+413,LEIA,413,"No, you're not.  You're..."
+414,THREEPIO,414,"Sir, sir!  I've isolated the
+reverse power flux coupling."
+415,HAN,415,Thank you.  Thank you very much.
+416,THREEPIO,416,"Oh, you're perfectly welcome, sir."
+417,NEEDA,417,"... and that, Lord Vader, was the
+last time they appeared in any of
+our scopes.  Considering the amount
+of damage we've sustained, they
+must have been destroyed."
+418,VADER,418,"No, Captain, they're alive.  I
+want every ship available to
+sweep the asteroid field until
+they are found."
+419,VADER,419,"Yes, Admiral, what is it?"
+420,PIETT,420,"The Emperor commands you make
+contact with him."
+421,VADER,421,"Move the ship out of the asteroid
+field so that we can send a clear
+transmission."
+422,PIETT,422,"Yes, my lord."
+423,VADER,423,"What is thy bidding, my master?"
+424,EMPEROR,424,"There is a great disturbance in
+the Force."
+425,VADER,425,I have felt it.
+426,EMPEROR,426,"We have a new enemy - Luke
+Skywalker."
+427,VADER,427,"Yes, my master."
+428,EMPEROR,428,He could destroy us.
+429,VADER,429,"He's just a boy.  Obi-Wan can no
+longer help him."
+430,EMPEROR,430,"The Force is strong with him.  The
+son of Skywalker must not become a
+Jedi."
+431,VADER,431,"If he could be turned, he would
+become a powerful ally."
+432,EMPEROR,432,"Yes.  Yes.  He would be a great
+asset.  Can it be done?"
+433,VADER,433,"He will join us or die, my
+master."
+434,LUKE,434,"Look, I'm sure it's delicious.
+I just don't understand why we
+can't see Yoda now."
+435,CREATURE,435,"Patience!  For the Jedi it is
+time to eat as well.  Eat, eat.
+Hot.  Good food, hm? Good, hmm?"
+436,LUKE,436,"How far away is Yoda?  Will it
+take us long to get there?"
+437,CREATURE,437,"Not far.  Yoda not far.  Patience.
+Soon you will be with him."
+438,the pot),438,"Rootleaf, I cook.  Why wish you
+become Jedi?  Hm?"
+439,LUKE,439,"Mostly because of my father, I
+guess."
+440,CREATURE,440,"Ah, your father.  Powerful Jedi
+was he, powerful Jedi, mmm."
+441,LUKE,441,"Oh, come on.  How could you know
+my father?  You don't even know
+who I am."
+442,LUKE,442,"Oh, I don't know what I'm doing
+here.  We're wasting our time."
+443,CREATURE,443,"I cannot teach him.  The boy has
+no patience."
+444,BEN'S VOICE,444,He will learn patience.
+445,YODA,445,"Hmmm.  Much anger in him, like his father."
+446,BEN'S VOICE,446,"Was I any different when you
+taught me?"
+447,YODA,447,Hah.  He is not ready.
+448,LUKE,448,"Yoda!  I am ready.  I... Ben!  I
+can be a Jedi.  Ben, tell him I'm
+ready."
+449,YODA,449,"Ready, are you?  What know you
+of ready?  For eight hundred years
+have I trained Jedi.  My own counsel
+will I keep on who is to be trained!
+A Jedi must have the deepest
+commitment, the most serious mind."
+450,"Ben, indicating Luke)",450,"This one a long time have I watched.
+All his life has he looked away...
+to the future, to the horizon.
+Never his mind on where he was.
+Hmm?  What he was doing.  Hmph.
+Adventure.  Heh!  Excitement.  Heh!
+A Jedi craves not these things."
+451,"Ben, indicating Luke)",451,You are reckless!
+452,BEN'S VOICE,452,"So was I, if you'll remember."
+453,YODA,453,"He is too old.  Yes, too old to
+begin the training."
+454,LUKE,454,But I've learned so much.
+455,YODA,455,Will he finished what he begins?
+456,LUKE,456,I won't fail you - I'm not afraid.
+457,him),457,"Oh, you will be.  You will be."
+458,THREEPIO,458,"Sir, if I may venture an opinion..."
+459,HAN,459,"I'm not really interested in your
+opinion, Threepio."
+460,LEIA,460,There's something out there.
+461,HAN,461,Where?
+462,LEIA,462,"Outside, in the cave."
+463,THREEPIO,463,There it is.  Listen!  Listen!
+464,HAN,464,I'm going out there.
+465,LEIA,465,Are you crazy?!
+466,HAN,466,"I just got this bucket back
+together.  I'm not going to let
+something tear it apart."
+467,LEIA,467,Then I'm going with you.
+468,THREEPIO,468,"I think it might be better if I
+stay here and guard the ship."
+469,mysterious noise),469,"Oh, no."
+470,LEIA,470,"This ground sure feels strange.
+It doesn't feel like rock at all."
+471,HAN,471,"There's an awful lot of moisture
+in here."
+472,LEIA,472,"I don't know.  I have a bad feeling
+about this."
+473,HAN,473,Yeah.
+474,HAN,474,Watch out!
+475,HAN,475,"Yeah, that's what I thought.
+Mynock.  Chewie, check the rest
+of the ship, make sure there
+aren't any more attached.  They're
+chewing on the power cables."
+476,LEIA,476,Mynocks?
+477,HAN,477,"Go on inside.  We'll clean them
+off if there are any more."
+478,THREEPIO,478,"Ohhh!  Go away!  Go away!  Beastly
+little thing.  Shoo!  Shoo!"
+479,HAN,479,Wait a minute...
+480,HAN,480,"All right, Chewie, let's get
+out of here!"
+481,LEIA,481,"The Empire is still out there.
+I don't think it's wise to..."
+482,HAN,482,"No time to discuss this in
+committee."
+483,LEIA,483,I am not a committee!
+484,LEIA,484,"You can't make the jump to light-
+speed in this asteroid field..."
+485,HAN,485,"Sit down, sweetheart.  We're
+taking off!"
+486,THREEPIO,486,Look!
+487,HAN,487,"I see it, I see it."
+488,THREEPIO,488,We're doomed!
+489,LEIA,489,The cave is collapsing.
+490,HAN,490,This is no cave.
+491,LEIA,491,What?
+492,YODA,492,"Run!  Yes.  A Jedi's strength
+flows from the Force.  But beware
+of the dark side.  Anger... fear...
+aggression.  The dark side of
+the Force are they.
+Easily they flow, quick to join
+you in a fight.  If once you
+start down the dark path, forever
+will it dominate your destiny,
+consume you it will, as it did
+Obi-Wan's apprentice."
+493,LUKE,493,Vader.  Is the dark side stronger?
+494,YODA,494,"No... no... no.  Quicker, easier,
+more seductive."
+495,LUKE,495,"But how am I to know the good side
+from the bad?"
+496,YODA,496,"You will know.  When you are calm,
+at peace.  Passive.  A Jedi uses
+the Force for knowledge and
+defense, never for attack."
+497,LUKE,497,But tell me why I can't...
+498,YODA,498,"No, no, there is no why.  Nothing
+more will I teach you today.
+Clear your mind of questions.
+Mmm.  Mmmmmmmm."
+499,LUKE,499,There's something not right here.
+500,LUKE,500,"I feel cold, death."
+501,YODA,501,"That place... is strong with the
+dark side of the Force.  A domain
+of evil it is.  In you must go."
+502,LUKE,502,What's in there?
+503,YODA,503,Only what you take with you.
+504,YODA,504,"Your weapons... you will not
+need them."
+505,PIETT,505,"Bounty hunters.  We don't need
+that scum."
+506,FIRST CONTROLLER,506,"Yes, sir."
+507,PIETT,507,Those Rebels won't escape us.
+508,SECOND CONTROLLER,508,"Sir, we have a priority signal
+from the Star Destroyer Avenger."
+509,PIETT,509,Right.
+510,VADER,510,"... there will be a substantial
+reward for the one who finds the
+Millennium Falcon.  You are free
+to use any methods necessary, but
+I want them alive.  No disintegrations."
+511,BOBA FETT,511,As you wish.
+512,PIETT,512,"Lord Vader!  My lord, we have
+them."
+513,THREEPIO,513,"Oh, thank goodness we're coming
+out of the asteroid field."
+514,HAN,514,"Let's get out of here.  Ready for
+light-speed?  One... two... three!"
+515,HAN,515,It's not fair!
+516,HAN,516,"The transfer circuits are working.
+It's not my fault!"
+517,it),517,No light-speed?
+518,HAN,518,It's not my fault.
+519,THREEPIO,519,"Sir, we just lost the main rear
+deflector shield.  One more direct
+hit on the back quarter and we're
+done for."
+520,HAN,520,Turn her around.
+521,HAN,521,"I said turn her around!  I'm
+going to put all power in the
+front shield."
+522,LEIA,522,You're going to attack them?!
+523,THREEPIO,523,"Sir, the odds of surviving a
+direct assault on an Imperial
+Star Destroyer..."
+524,LEIA,524,Shut up!
+525,NEEDA,525,"They're moving to attack
+position!  Shields up!"
+526,NEEDA,526,"Track them.  They may come
+around for another pass."
+527,TRACKING OFFICER,527,"Captain Needa, the ship no longer
+appears on our scopes."
+528,NEEDA,528,"They can't have disappeared.  No
+ship that small has a cloaking
+device."
+529,TRACKING OFFICER,529,"Well, there's no trace of them,
+sir."
+530,COMMUNICATIONS OFFICER,530,"Captain, Lord Vader demands an
+update on the pursuit."
+531,NEEDA,531,"Get a shuttle ready.  I shall
+assume full responsibility for
+losing them, and apologize to Lord
+Vader. Meanwhile, continue to
+scan the area."
+532,COMMUNICATIONS OFFICER,532,"Yes, Captain Needa."
+533,YODA,533,Use the Force.  Yes...
+534,YODA,534,Now... the stone.  Feel it.
+535,YODA,535,Concentrate!
+536,LUKE,536,"Oh, no.  We'll never get it out
+now."
+537,YODA,537,"So certain are you.  Always with
+you it cannot be done.  Hear you
+nothing that I say?"
+538,LUKE,538,"Master, moving stones around is
+one thing.  This is totally
+different."
+539,YODA,539,"No!  No different!  Only different
+in your mind.  You must unlearn
+what you have learned."
+540,LUKE,540,"All right, I'll give it a try."
+541,YODA,541,"No!  Try not.  Do.  Or do not.
+There is no try."
+542,LUKE,542,I can't.  It's too big.
+543,YODA,543,"Size matters not.  Look at me.
+Judge me by my size, do you?
+Hm?  Mmmm."
+544,YODA,544,"And well you should not.  For my
+ally in the Force.  And a powerful
+ally it is.  Life creates it, makes
+it grow.  Its energy surrounds us
+and binds us.  Luminous beings
+are we..."
+545,Luke's shoulder),545,... not this crude matter.
+546,Luke's shoulder),546,You must feel the Force around you.
+547,Luke's shoulder),547,"Here, between you... me... the
+tree... the rock... everywhere!
+Yes, even between this land and
+that ship!"
+548,LUKE,548,You want the impossible.
+549,LUKE,549,I don't... I don't believe it.
+550,YODA,550,That is why you fail.
+551,VADER,551,"Apology accepted, Captain Needa."
+552,PIETT,552,"Lord Vader, our ships have
+completed their scan of the area
+and found nothing.  If the
+Millennium Falcon went into light-
+speed, it'll be on the other side
+of the galaxy by now."
+553,VADER,553,"Alert all commands.  Calculate
+every possible destination along
+their last know trajectory."
+554,PIETT,554,"Yes, my lord.  We'll find them."
+555,VADER,555,"Don't fail me again, Admiral."
+556,PIETT,556,Alert all commands.  Deploy the fleet.
+557,THREEPIO,557,"Captain Solo, this time you have
+gone too far."
+558,THREEPIO,558,"No, I will not be quiet, Chewbacca.
+Why doesn't anyone listen to me?"
+559,HAN,559,"The fleet is beginning to break
+up.  Go back and stand by the
+manual release for the landing claw."
+560,THREEPIO,560,"I really don't see how that is
+going to help.  Surrender is a
+perfectly acceptable alternative
+in extreme circumstances.  The
+Empire may be gracious enough..."
+561,HAN,561,Thank you.
+562,LEIA,562,"What did you have in mind for
+your next move?"
+563,HAN,563,"Well, if they follow standard
+Imperial procedure, they'll dump
+their garbage before they go to
+light-speed, then we just float
+away."
+564,LEIA,564,"With the rest of the garbage.
+Then what?"
+565,HAN,565,"Then we've got to find a safe
+port somewhere around here.  Got
+any ideas?"
+566,LEIA,566,No.  Where are we?
+567,HAN,567,The Anoat system.
+568,LEIA,568,"Anoat system.  There's not much
+there."
+569,HAN,569,"No.  Well, wait.  This is
+interesting.  Lando."
+570,LEIA,570,Lando system?
+571,HAN,571,"Lando's not a system, he's a man.
+Lando Calrissian.  He's a card
+player, gambler, scoundrel.  You'd
+like him."
+572,LEIA,572,Thanks.
+573,HAN,573,"Bespin.  It's pretty far, but I
+think we can make it."
+574,computer),574,A mining colony?
+575,HAN,575,"Yeah, a Tibanna gas mine.  Lando
+conned somebody out of it.  We
+go back a long way, Lando and me."
+576,LEIA,576,Can you trust him?
+577,HAN,577,"No.  But he has no love for the
+Empire, I can tell you that."
+578,HAN,578,"Here we go, Chewie.  Stand by.
+Detach!"
+579,LEIA,579,"You do have your moments.  Not
+many, but you have them."
+580,YODA,580,"Concentrate... feel the Force
+flow.  Yes.  Good.  Calm, yes.
+Through the Force, things you
+will see.  Other places.  The
+future... the past.  Old friends
+long gone."
+581,LUKE,581,Han!  Leia!
+582,YODA,582,"Hmm.  Control, control.  You must
+learn control."
+583,LUKE,583,"I saw... I saw a city in the
+clouds."
+584,YODA,584,Mmm.  Friends you have there.
+585,LUKE,585,They were in pain.
+586,LUKE,586,Future?  Will they die?
+587,YODA,587,"Difficult to see.  Always in
+motion is the future."
+588,LUKE,588,I've got to go to them.
+589,YODA,589,"Decide you must how to serve
+them best.  If you leave now,
+help them you could.  But you
+would destroy all for which they
+have fought and suffered."
+590,HAN,590,"No, I don't have a landing
+permit.  I'm trying to reach
+Lando Calrissian."
+591,HAN,591,"Whoa!  Wait a minute!  Let me
+explain."
+592,INTERCOM VOICE,592,"You will not deviate from your
+present course."
+593,THREEPIO,593,"Rather touchy, aren't they?"
+594,LEIA,594,I thought you knew this person.
+595,HAN,595,"Well, that was a long time ago.
+I'm sure he's forgotten about
+that."
+596,INTERCOM VOICE,596,"Permission granted to land on
+Platform Three-two-seven."
+597,HAN,597,Thank you.
+598,HAN,598,"There's nothing to worry about.
+We go way back, Lando and me."
+599,LEIA,599,Who's worried?
+600,THREEPIO,600,Oh.  No one to meet us.
+601,LEIA,601,I don't like this.
+602,HAN,602,"Well, what would you like?"
+603,THREEPIO,603,"Well, they did let us land."
+604,HAN,604,"Look, don't worry.  Everything's
+going to be fine.  Trust me."
+605,HAN,605,See?  My friend.
+606,HAN,606,"Keep your eyes open, okay?"
+607,LANDO,607,"Why, you slimy, double-crossing,
+no-good swindler!  You've got a
+lot of guts coming here, after
+what you pulled."
+608,LANDO,608,"How you doing, you old pirate?
+So good to see you!  I never thought
+I'd catch up with you again.  Where
+you been?"
+609,LEIA,609,Yes... very friendly.
+610,LANDO,610,What are you doing here?
+611,the Falcon),611,"Ahh... repairs.  I thought you
+could help me out."
+612,LANDO,612,What have you done to my ship?
+613,HAN,613,"Your ship?  Hey, remember, you
+lost her to me fair and square."
+614,LANDO,614,"Hello.  What have we here?
+Welcome.  I'm Lando Calrissian.
+I'm the administrator of this
+facility.  And who might you be?"
+615,LEIA,615,Leia.
+616,LANDO,616,"Welcome, Leia."
+617,HAN,617,"All right, all right, you old
+smoothie."
+618,THREEPIO,618,"Hello, sir.  I am See-Threepio,
+human-cyborg relations.  My
+facilities are at your..."
+619,THREEPIO,619,"Well, really!"
+620,LANDO,620,What's wrong with the Falcon?
+621,HAN,621,Hyperdrive.
+622,LANDO,622,I'll get my people to work on it.
+623,HAN,623,Good.
+624,LANDO,624,"You know, that ship saved my life
+quite a few times.  She's the
+fastest hunk of junk in the galaxy."
+625,HAN,625,"How's the gas mine?  Is it
+paying off for you?"
+626,LANDO,626,"Oh, not as well as I'd like.
+We're a small outpost and not
+very self-sufficient.  And I've
+had supply problems of every kind.
+I've had labor difficulties..."
+627,grinning at him),627,What's so funny?
+628,HAN,628,"You.  Listen to you - you sound
+like a businessman, a responsible
+leader.  Who'd have thought that,
+huh?"
+629,LANDO,629,"You know, seeing you sure
+brings back a few things."
+630,HAN,630,Yeah.
+631,LANDO,631,"Yeah.  I'm responsible these days.
+It's the price you pay for being
+successful."
+632,THREEPIO,632,Oh!  Nice to see a familiar face.
+633,SECOND THREEPIO,633,E chu ta!
+634,THREEPIO,634,How rude!
+635,THREEPIO,635,"That sounds like an R2 unit in
+there.  I wonder if..."
+636,THREEPIO,636,"Hello?  How interesting.  Oh, my."
+637,MAN'S VOICE,637,Who are you?
+638,THREEPIO,638,"Oh, I'm terribly sorry.  I... I
+didn't mean to intrude.  No, no,
+please don't get up.  No!"
+639,YODA,639,"Luke!  You must complete the
+training."
+640,LUKE,640,"I can't keep the vision out of my
+head.  They're my friends.  I've
+got to help them."
+641,YODA,641,You must not go!
+642,LUKE,642,"But Han and Leia will die if I
+don't."
+643,BEN'S VOICE,643,You don't know that.
+644,BEN,644,Even Yoda cannot see their fate.
+645,LUKE,645,"But I can help them!  I feel
+the Force!"
+646,BEN,646,"But you cannot control it.  This
+is a dangerous time for you,
+when you will be tempted by the
+dark side of the Force."
+647,YODA,647,"Yes, yes.  To Obi-Wan you listen.
+The cave.  Remember your failure
+at the cave!"
+648,LUKE,648,"But I've learned so much since
+then.  Master Yoda, I promise to
+return and finish what I've begun.
+You have my word."
+649,BEN,649,"It is you and your abilities the
+Emperor wants.  that is why your
+friends are made to suffer."
+650,LUKE,650,And that is why I have to go.
+651,BEN,651,"Luke, I don't want to lose you to
+the Emperor the way I lost Vader."
+652,LUKE,652,You won't.
+653,YODA,653,"Stopped they must be.  On this
+all depends.  Only a fully trained
+Jedi Knight with the Force as his
+ally will conquer Vader and his
+Emperor.  If you end your training
+now, if you choose the quick and
+easy path, as Vader did, you will
+become an agent of evil."
+654,BEN,654,Patience.
+655,LUKE,655,And sacrifice Han and Leia?
+656,YODA,656,"If you honor what they fight for
+... yes!"
+657,BEN,657,"If you choose to face Vader, you
+will do it alone.  I cannot
+interfere."
+658,LUKE,658,I understand.
+659,X-wing),659,"Artoo, fire up the converters."
+660,BEN,660,"Luke, don't give in to hate -
+that leads to the dark side."
+661,YODA,661,"Strong is Vader.  Mind what you
+have learned.  Save you it can."
+662,LUKE,662,I will.  And I'll return.  I promise.
+663,YODA,663,"Told you, I did.  Reckless is
+he.  Now matters are worse."
+664,BEN,664,That boy is our last hope.
+665,YODA,665,No.  There is another.
+666,HAN,666,"The ship is almost finished.
+Two or Three more things and
+we're in great shape."
+667,LEIA,667,"The sooner the better.  Something's
+wrong here.  No one has seen or
+knows anything about Threepio.
+He's been gone too long to have
+gotten lost."
+668,HAN,668,"Relax.  I'll talk to Lando and
+see what I can find out."
+669,LEIA,669,I don't trust Lando.
+670,HAN,670,"Well, I don't trust him, either.
+But he is my friend.  Besides,
+we'll soon be gone."
+671,LEIA,671,"And then you're as good as gone,
+aren't you?"
+672,LEIA,672,What happened?
+673,HAN,673,Where?  Found him in a junk pile?
+674,LEIA,674,"Oh, what a mess.  Chewie, do you
+think you can repair him?"
+675,HAN,675,"Lando's got people who can fix
+him."
+676,LEIA,676,"No, thanks."
+677,LANDO,677,"I'm sorry.  Am I interrupting
+anything?"
+678,LEIA,678,Not really.
+679,LANDO,679,"You look absolutely beautiful.
+You truly belong here with us
+among the clouds."
+680,LEIA,680,Thank you.
+681,LANDO,681,"Will you join me for a little
+refreshment?"
+682,LANDO,682,"Everyone's invited, of course."
+683,LANDO,683,Having trouble with you droid?
+684,HAN,684,No.  No problem.  Why?
+685,LANDO,685,"So you see, since we're a small
+operation, we don't fall into
+the... uh... jurisdiction of the
+Empire."
+686,LEIA,686,"So you're part of the mining
+guild then?"
+687,LANDO,687,"No, not actually.  Our operation
+is small enough not to be noticed...
+which is advantageous for everybody
+since our customers are anxious
+to avoid attracting attention to
+themselves."
+688,HAN,688,"Aren't you afraid the Empire's
+going to find out about this
+little operation and shut you down?"
+689,LANDO,689,"That's always been a danger looming
+like a shadow over everything we've
+built here.  But things have
+developed that will insure security.
+I've just made a deal that will
+keep the Empire out of here forever."
+690,VADER,690,"We would be honored if you would
+join us."
+691,LANDO,691,I had no choice.  They arrived
+692,HAN,692,"I'm sorry, too."
+693,LUKE,693,"No, Threepio's with them."
+694,LUKE,694,Just hang on.  We're almost there.
+695,THREEPIO,695,"Mmmm.  Oh, my.  Uh, I, uh - Take
+this off!  I, uh, don't mean to
+intrude here.  I, don't, no, no,
+no... Please don't get up.  No!"
+696,THREEPIO,696,"Stormtroopers?  Here?  We're in
+danger.  I must tell the others.
+Oh, no!  I've been shot!"
+697,LANDO,697,Lord Vader.
+698,VADER,698,"You may take Captain Solo to
+Jabba the Hut after I have
+Skywalker."
+699,BOBA FETT,699,He's no good to me dead.
+700,VADER,700,He will not be permanently damaged.
+701,LANDO,701,"Lord Vader, what about Leia and
+the Wookiee?"
+702,VADER,702,"They must never again leave this
+city."
+703,LANDO,703,"That was never a condition of our
+agreement, nor was giving Han to
+this bounty hunter!"
+704,VADER,704,"Perhaps you think you're being
+treated unfairly."
+705,LANDO,705,No.
+706,VADER,706,"Good.  It would be unfortunate if
+I had to leave a garrison here."
+707,LANDO,707,"This deal's getting worse all
+the time."
+708,THREEPIO,708,"Oh, yes, that's very good.  I like
+that.  Oh!  Something's not right
+because now I can't see.  Wait.
+Wait!  Oh, my!  what have you done?
+I'm backwards, you stupid furball.
+Only an overgrown mophead like you
+would be stupid enough..."
+709,HAN,709,I feel terrible.
+710,LEIA,710,Why are they doing this?
+711,HAN,711,"They never even asked me any
+questions."
+712,LEIA,712,Lando.
+713,HAN,713,"Get out of here, Lando!"
+714,LANDO,714,"Shut up and listen!  Vader has
+agreed to turn Leia and Chewie
+over to me."
+715,HAN,715,Over to you?
+716,LANDO,716,"They'll have to stay here, but at
+least they'll be safe."
+717,LEIA,717,What about Han?
+718,LANDO,718,"Vader's giving him to the bounty
+hunter."
+719,LEIA,719,Vader wants us all dead.
+720,LANDO,720,"He doesn't want you at all.  He's
+after somebody called Skywalker."
+721,HAN,721,Luke?
+722,LANDO,722,Lord Vader has set a trap for him.
+723,LEIA,723,And we're the bait.
+724,LANDO,724,"Well, he's on his way."
+725,HAN,725,"Perfect.  You fixed us all pretty
+good, didn't you?"
+726,HAN,726,My friend!
+727,LANDO,727,"Stop!  I've done all I can.  I'm
+sorry I couldn't do better, but
+I have my own problems."
+728,HAN,728,"Yeah, you're a real hero."
+729,LEIA,729,"You certainly have a way with
+people."
+730,VADER,730,"This facility is crude, but it
+should be adequate to freeze
+Skywalker for his journey to the
+Emperor."
+731,IMPERIAL SOLDIER,731,"Lord Vader, ship approaching.
+X-wing class."
+732,VADER,732,"Good.  Monitor Skywalker and allow
+him to land."
+733,LANDO,733,"Lord Vader, we only use this
+facility for carbon freezing.  If
+you put him in there, it might
+kill him."
+734,VADER,734,"I do not want the Emperor's prize
+damaged.  We will test it... on
+Captain Solo."
+735,THREEPIO,735,"If only you had attached my legs,
+I wouldn't be in this ridiculous
+position.  Now, remember, Chewbacca,
+you have a responsibility to me,
+so don't do anything foolish."
+736,HAN,736,What's going on... buddy?
+737,LANDO,737,You're being put into carbon freeze.
+738,BOBA FETT,738,"What if he doesn't survive?  He's
+worth a lot to me."
+739,VADER,739,"The Empire will compensate you
+if he dies.  Put him in!"
+740,THREEPIO,740,"Oh, no!  No, no, no!  Stop,
+Chewbacca, stop...!"
+741,HAN,741,"Stop, Chewie, stop!  Do you hear
+me?  Stop!"
+742,THREEPIO,742,"Yes, stop, please!  I'm not ready
+to die."
+743,HAN,743,"Chewie!  Chewie, this won't help
+me.  Hey!"
+744,HAN,744,"Save your strength.  There'll be
+another time.  The princess - you
+have to take care of her.  You
+hear me?"
+745,LEIA,745,I love you!
+746,HAN,746,I know.
+747,THREEPIO,747,"What... what's going on?  Turn
+round, Chewbacca, I can't see.
+Oh... they've encased him in
+carbonite.  He should be quite
+well-protected - if he survives
+the freezing process, that is."
+748,VADER,748,"Well, Calrissian, did he survive?"
+749,LANDO,749,"Yes, he's alive.  And in perfect
+hibernation."
+750,VADER,750,"He's all yours bounty hunter.
+Reset the chamber for Skywalker."
+751,IMPERIAL OFFICER,751,"Skywalker has just landed, my
+lord."
+752,VADER,752,"Good.  See to it that he finds
+his way here.  Calrissian, take
+the princess and the Wookiee to
+my ship."
+753,LANDO,753,"You said they'd be left in the
+city under my supervision."
+754,VADER,754,"I am altering the deal.  Pray I
+don't alter it any further."
+755,LEIA,755,"Luke!  Luke, don't - it's a
+trap!  It's a trap!"
+756,VADER,756,"The Force is with you, young
+Skywalker.  But you are not a
+Jedi yet."
+757,LANDO,757,"Well done.  Hold them in the
+security tower - and keep it
+quiet.  Move."
+758,LEIA,758,What do you think you're doing?
+759,LANDO,759,We're getting out of here.
+760,THREEPIO,760,"I knew all along it had to be a
+mistake."
+761,LEIA,761,"Do you think that after what you
+did to Han we're going to trust
+you?"
+762,LANDO,762,I had no choice...
+763,THREEPIO,763,"What are you doing?  Trust him,
+trust him!"
+764,LEIA,764,"Oh, so we understand, don't we,
+Chewie?  He had no choice."
+765,LANDO,765,I'm just trying to help...
+766,LEIA,766,We don't need any of your help.
+767,LANDO,767,H-a-a-a...
+768,LEIA,768,What?
+769,THREEPIO,769,It sounds like Han.
+770,LANDO,770,"There's still a chance to save
+Han... I mean, at the East
+Platform..."
+771,LEIA,771,Chewie.
+772,THREEPIO,772,"I'm terribly sorry about all this.
+After all, he's only a Wookiee."
+773,BOBA FETT,773,"Put Captain Solo in the cargo
+hold."
+774,THREEPIO,774,"Artoo!  Artoo!  Where have you
+been?"
+775,THREEPIO,775,"Turn around, you wooly...!"
+776,THREEPIO,776,"Hurry, hurry!  We're trying to
+save Han from the bounty hunter!"
+777,THREEPIO,777,"Well, at least your still in
+one piece!  Look what happened to
+me!"
+778,THREEPIO,778,"Oh, no!  Chewie, they're behind
+you!"
+779,VADER,779,"You have learned much, young one."
+780,LUKE,780,You'll find I'm full of surprises.
+781,VADER,781,"Your destiny lies with me,
+Skywalker.  Obi-Wan knew this to
+be true."
+782,LUKE,782,No!
+783,VADER,783,"All to easy.  Perhaps you are not
+as strong as the Emperor thought."
+784,VADER,784,Impressive... most impressive.
+785,VADER,785,"Obi-Wan has taught you well.  You
+have controlled your fear... now
+release your anger."
+786,VADER,786,Only your hatred can destroy me.
+787,LANDO,787,The security codes has been changed!
+788,THREEPIO,788,"Artoo, you can tell the computer
+to override the security system."
+789,LANDO,789,"Attention!  This is Lando
+Calrissian.  The Empire has takes
+control of the city.  I advise
+everyone to leave before more
+Imperial troops arrive."
+790,LANDO,790,This way.
+791,THREEPIO,791,"Don't blame me.  I'm an interpreter.
+I'm not supposed to know a power
+socket from a computer terminal."
+792,THREEPIO,792,"What are you talking about?  We're
+not interested in the hyperdrive
+on the Millennium Falcon.  It's
+fixed!  Just open the door, you
+stupid lump."
+793,THREEPIO,793,"I never doubted you for a second.
+Wonderful!"
+794,THREEPIO,794,"Ouch!  Oh!  Ah!  That hurt.  Bend
+down, you thoughtless... Ow!"
+795,LANDO,795,Leia!  Go!
+796,THREEPIO,796,"I thought that hairy beast would
+be the end of me.  Of course, I've
+looked better."
+797,VADER,797,"You are beaten.  It is useless
+to resist.  Don't let yourself
+be destroyed as Obi-Wan did."
+798,VADER,798,"There is no escape.  Don't make
+me destroy you.  You do not yet
+realize your importance.  You
+have only begun to discover your
+power.  Join me and I will complete
+your training.  With our combined
+strength, we can end this destructive
+conflict and bring order to the
+galaxy."
+799,LUKE,799,I'll never join you!
+800,VADER,800,"If you only knew the power of the
+dark side.  Obi-Wan never told
+you what happened to your father."
+801,LUKE,801,"He told me enough!  It was you
+who killed him."
+802,VADER,802,No.  I am your father.
+803,LUKE,803,"No.  No.  That's not true!
+That's impossible!"
+804,VADER,804,"Search your feelings.  You know
+it to be true."
+805,LUKE,805,No!  No!  No!
+806,VADER,806,"Luke.  You can destroy the Emperor.
+He has foreseen this.  It is your
+destiny.  Join me, and together
+we can rule the galaxy as father
+and son.  Come with me.  It is the
+only way."
+807,LUKE,807,"Ben... Ben, please!"
+808,LUKE,808,Ben.  Leia!
+809,LUKE,809,Hear me!  Leia!
+810,LEIA,810,Luke... We've got to go back.
+811,LANDO,811,What?
+812,LEIA,812,I know where Luke is.
+813,LANDO,813,But what about those fighter?
+814,LEIA,814,"Chewie, just do it."
+815,LANDO,815,But what about Vader?
+816,LANDO,816,"All right, all right, all right."
+817,VADER,817,Bring my shuttle.
+818,cockpit window),818,"Look, someone's up there."
+819,LEIA,819,"It's Luke.  Chewie, slow down.
+Slow down and we'll get under him.
+Lando, open the top hatch."
+820,LEIA,820,"Okay.  Easy, Chewie."
+821,LEIA,821,Lando?
+822,LANDO,822,"Okay, let's go."
+823,LUKE,823,"Oh, Leia."
+824,LANDO,824,"All right, Chewie.  Let's go."
+825,LEIA,825,I'll be back.
+826,LEIA,826,Star Destroyer.
+827,LANDO,827,"All right, Chewie.  Ready for
+light-speed."
+828,LEIA,828,"If your people fixed the
+hyperdrive."
+829,LEIA,829,"All the coordinates are set.
+It's now or never."
+830,LANDO,830,Punch it!
+831,LANDO,831,"They told me they fixed it.  I
+trusted them to fix it.  It's not
+my fault!"
+832,PIETT,832,"They'll be in range of our
+tractor beam in moments, my lord."
+833,VADER,833,"Did your men deactivate the
+hyperdrive on the Millennium
+Falcon?"
+834,PIETT,834,"Yes, my lord."
+835,VADER,835,"Good.  Prepare the boarding party
+and set your weapons for stun."
+836,PIETT,836,"Yes, my lord."
+837,THREEPIO,837,"Noisy brute.  Why don't we just
+go into light-speed?"
+838,THREEPIO,838,"We can't?  How would you know the
+hyperdrive is deactivated?"
+839,THREEPIO,839,"The city's central computer told
+you?  Artoo-Detoo, you know better
+than to trust a strange computer.
+Ouch!  Pay attention to what
+you're doing!"
+840,VADER,840,Luke.
+841,LUKE,841,Father.
+842,VADER,842,"Son, come with me."
+843,LUKE,843,"Ben, why didn't you tell me?"
+844,LANDO,844,Chewie!
+845,LUKE,845,It's Vader.
+846,VADER,846,Luke... it is your destiny.
+847,LUKE,847,"Ben, why didn't you tell me?"
+848,PIETT,848,"Alert all commands.  Ready for
+the tractor beam."
+849,THREEPIO,849,"Artoo, come back at once!  You
+haven't finished with me yet!
+You don't know how to fix the
+hyperdrive.  Chewbacca can do
+it.  I'm standing here in pieces,
+and you're having delusions of
+grandeur!"
+850,THREEPIO,850,"Oh, you did it!"
+851,LANDO,851,"Luke, we're ready for takeoff."
+852,LUKE,852,"Good luck, Lando"
+853,LANDO,853,"When we find Jabba the Hut and
+that bounty hunter, we'll contact
+you."
+854,LUKE,854,"I'll meet you at the rendezvous
+point on Tatooine."
+855,LANDO,855,"Princess, we'll find Han.  I
+promise."
+856,LUKE,856,"Chewie, I'll be waiting for your
+signal."
+857,LUKE,857,"Take care, you two.  May the
+Force be with you."
+858,LUKE,858,Ow!

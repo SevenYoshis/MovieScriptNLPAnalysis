@@ -1,0 +1,6309 @@
+{
+ "movie_url": "https://imsdb.com/scripts/Sling-Blade.html",
+ "movie_title": "Slingblade",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "FADE IN:\nINT. A MENTAL HOSPITAL - DAY\nA few patients sit around fumbling with themselves. One man\nsits at a table scratching back and forth on a piece of paper\nwith a crayon. Another stands in a corner smoking a cigarette\nand staring at the crayon guy. This is CHARLES. Another man,\nKARL, sits in a chair staring at the floor and rubbing his\nhands together. We cut back and forth between Charles staring\nand Crayon Man scratching. After a moment, an attendant\napproaches Charles."
+  },
+  {
+   "type": "speech",
+   "character": "ATTENDANT",
+   "text": "You can't smoke in here."
+  },
+  {
+   "type": "stage direction",
+   "text": "Charles stares at him blankly for a moment and continues\nsmoking. He looks back to Crayon Man again for a moment then\nlooks over at Karl and then goes and sits down beside him."
+  },
+  {
+   "type": "speech",
+   "character": "CHARLES",
+   "text": "A Mercury is a good car and that's\nwhat I was driving that day. I've\nowned a lot of cars. Different\nkinds. Lots of different kinds of\ncars. She was standing, this girl,\non the side of the street where\nthere was a chicken stand; not the\nColonel, mind you, but nevertheless\na chicken stand, and I pulled the\nMercury over and rolled down the\nwindow by electric power. She was\nwearing a leather skirt and she had\na lot of hair on her arms. I like\nthat. I like it a lot. It means a\nbig bush. I like a big bush. She\nsaid, \"Are you dating?\" I said,\n\"yes,\" and she got in the car. We\npulled to a remote location, one\nthat she and I both felt\ncomfortable with and she said, \"How\nmuch can you spend?\" I said, \"What\nit takes to see your bush. I know\nit's a big one.\" She said \"twenty\nfive dollars,\" which to a working\nman is not chicken feed. I produced\nthe money and she put it in her\nshoe and pulled up her skirt. There\nbefore me lay a thin, crooked,\nuncircumcised penis. You can\nimagine how badly I wanted my\ntwenty-five dollars back."
+  },
+  {
+   "type": "location",
+   "text": "INT. A HALLWAY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Two young women, MARSHA DWIGGINS, carrying a briefcase, and\nTHERESA EVANS, carrying two camera bags are being led down\nthe hallway by a GUARD."
+  },
+  {
+   "type": "speech",
+   "character": "THERESA",
+   "text": "I don't know why you're so weirded\nout, this is not San Quentin, it's\njust a nuthouse. Most of these\npeople don't even know where they\nare, they're not gonna hurt you."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "In a few minutes we're gonna be in\na room with a killer. That doesn't\nbother you?"
+  },
+  {
+   "type": "speech",
+   "character": "THERESA",
+   "text": "Hey, you're the one that wanted to\nmajor in journalism. Anyhow, wasn't\nthe guy something like twelve or\nthirteen when he did it, it was\ntwenty-five years ago, he probably\ndoesn't even remember it."
+  },
+  {
+   "type": "stage direction",
+   "text": "(wrinkling her nose)"
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Do you smell shit?"
+  },
+  {
+   "type": "speech",
+   "character": "THERESA",
+   "text": "Yeah."
+  },
+  {
+   "type": "stage direction",
+   "text": "They reach a door and the guard ushers them through."
+  },
+  {
+   "type": "location",
+   "text": "INT. AN OFFICE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "JERRY WOOLRIDGE stands up from behind the desk as they enter.\nHe's in his fifiles and looks like a school teacher, shop\nclass or perhaps eighth-grade science."
+  },
+  {
+   "type": "speech",
+   "character": "GUARD",
+   "text": "These are the people from that\nnewspaper deal."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Oh yeah, from the college?"
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Yes sir."
+  },
+  {
+   "type": "stage direction",
+   "text": "Woolridge shakes hands with them."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "My name's Jerry Woolridge."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Nice to meet you. I'm Marsha\nDwiggins and this is Theresa Evans.\nShe's here to take the pictures."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Y'all have a seat. Is this all of\nyou?"
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Yes sir."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I think there must have been a\nlittle mix up. I told your sponsor\nor teacher or whatever he is, there\ncouldn't be any pictures. It's\ns'posed to be just a little story\nor article or something, isn't that\nright?"
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Well, yeah, it's for the school\nnewspaper. But it has pictures. I\nmean it's a regular paper, you\nknow."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Karl's real sensitive about having\nhis picture made. He wouldn't even\nbe on the bulletin board for the\nEaster Collage."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to guard)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Melvin, would you get me a good hot\ncup with two sugar substitutes? You\ngirls want some coffee?"
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "No thank you."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "The other thing is I told your boss\non the phone to send a man. Karl\nwon't talk to women."
+  },
+  {
+   "type": "location",
+   "text": "INT. REC ROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "CLOSE UP on Karl's face. Charles has started another\nmonologue."
+  },
+  {
+   "type": "speech",
+   "character": "CHARLES",
+   "text": "There was a young man named John\nLiggit Hunter who was in the\nfilling station business and a good\nfilling station business. He was\none of those young men that we run\nacross so often in life. I'm sure\nyou've run across them, that didn't\ndeserve the things he had. One of\nthose things was his beautiful\nbride, Sarah. She was a Georgia\nPeach. As a matter of fact she\nlooked more like the picture I've\nhad in my head than any woman I've\never seen. I took it upon myself to\ntake her away from John Liggit\nHunter, who didn't deserve her. I'm\nnot sure if I mentioned that he was\na Frenchman who claimed to be an\nEnglishman. It took some very\nstrong nylon cord to take her away\nfrom him. She was a fighter as well\nas a Georgia Peach."
+  },
+  {
+   "type": "location",
+   "text": "INT. WOOLRIDGE'S OFFICE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The girls look confused."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I don't know what to tell you. I'm\nsorry. I made myself pretty clear I\nthought. He probably got busy and\nwasn't thinking. I know how that\nis. I used to teach shop and eighth\ngrade science."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Well, what do we do? We drove all\nthe way out here."
+  },
+  {
+   "type": "speech",
+   "character": "THERESA",
+   "text": "Let's just go, Marsha."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "No, we have to get this story."
+  },
+  {
+   "type": "speech",
+   "character": "THERESA",
+   "text": "I thought you'd be happy to leave."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Why won't he talk to women?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "He has problems. You know. With all\nthat. He won't hardly talk to\nanybody really. Just certain\npeople. He's very troubled."
+  },
+  {
+   "type": "location",
+   "text": "INT. REC ROOM"
+  },
+  {
+   "type": "stage direction",
+   "text": "(leaning in to Karl)"
+  },
+  {
+   "type": "speech",
+   "character": "CHARLES",
+   "text": "A shovel just makes too goddamn\nmuch racket."
+  },
+  {
+   "type": "location",
+   "text": "INT. WOOLRIDGE'S OFFICE"
+  },
+  {
+   "type": "stage direction",
+   "text": "(takes a drink of coffee)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I don't think he's talked to a\nwoman in twenty-five or so years.\nThat I know of anyway. That's why I\nsaid to send a man. At least maybe\nhe'd answer a question or two for a\nman. I'm all for helping the\ncollege out, believe me. It might\nbe a real good article or story."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Can't you talk to him? Maybe talk\nhim into it. I'm a real good\ninterviewer. Just get me in the\nroom with him."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to guard)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Melvin, go get Karl and take him\ndown to the old classroom."
+  },
+  {
+   "type": "location",
+   "text": "INT. HALLWAY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Woolridge and the two women walk down the hallway."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I'll talk to him and see what we\ncan do."
+  },
+  {
+   "type": "location",
+   "text": "INT. CLASSROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Woolridge is opening a door. He enters and the women follow\nhim in. He flips on a light switch and very bright florescent\nlights illuminate the room."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "You see, Karl, growing up, only\nknew that sex was wrong and that\npeople who did it should be killed\nfor it. He couldn't really read\nbut, well, neither could his\nmother. But, his father made sure\nthat his mother knew what the Bible\nsaid. And she made sure Karl knew.\nYou know he slept in a hole in the\nground under a toolshed, right?"
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "I knew he slept in a toolshed."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "His mother told him that he was\ntheir punishment. Hers and his\nfather's; from God, for having sex--"
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Before they were married?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I don't think so. Just period, I\nthink. She told him... God gave\nthem the ugliest creation he could\nthink of. Karl has an entire book --\na notebook. On every page it says\n\"Franklin Chapter 1 Verse number\n1.\" He wrote that a few years ago\nafter he'd learned to write. His\nfather's name was Franklin."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "That's really strange. What does it\nmean?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "One of his Daddy's Bible lessons I\nimagine. Y'all pull up a chair.\nI'll go out and talk to him."
+  },
+  {
+   "type": "location",
+   "text": "INT. REC ROOM"
+  },
+  {
+   "type": "stage direction",
+   "text": "CLOSE UP on Charles's face."
+  },
+  {
+   "type": "speech",
+   "character": "CHARLES",
+   "text": "You have to make something explode\nto truly understand it. You have to\nexamine the tiny particles while\nthey're on fire."
+  },
+  {
+   "type": "stage direction",
+   "text": "Off screen we hear FOOTSTEPS approaching. We pull back and\nsee MELVIN the guard."
+  },
+  {
+   "type": "speech",
+   "character": "MELVIN",
+   "text": "Karl, I gotta take you down to the\nold classroom. Mr. Woolridge has\nsome people for you to see down\nthere. Come on. Let's go."
+  },
+  {
+   "type": "location",
+   "text": "INT. HALLWAY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Melvin and Karl walk down the hallway. Woolridge stands\noutside the door of the classroom. They reach him and\nWoolridge talks quietly to Karl."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Karl, you know, do you remember\nwhen I told you about those people\nfrom that newspaper?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "They want to ask you some questions\nabout your release. They think it\nwould make an interesting story.\nWill you talk to 'em? Get\ninterviewed."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Now, they're women. I think it\nmight be good for you to. You're\ngonna be seein' all kinds of people\nwhen you go on the outside. This'll\nhelp you I believe."
+  },
+  {
+   "type": "location",
+   "text": "INT. CLASSROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "It's just Woolridge and the two women in the room."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Well, it surprised the dickens out\nof me. He said he'll talk to you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Marsha smiles and looks at Theresa."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE (CONT'D)",
+   "text": "But, here's the thing. He'll only\ntalk to you. He doesn't want you to\nask him anything. And you shouldn't\nstare at him."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "How am I going to conduct an\ninterview if I can't ask him any\nquestions?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "It's the best you're gonna get. I'm\nsorry."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Can I ask you a question? If he's\nso troubled, why are you letting\nhim out? What if he does it again?\nIt happens all the time."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "He's free. His time's up. That's\nthe rules. He's been treated and\nreevaluated. He doesn't show any\nsigns any more."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Signs?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Homicidal signs. Oh, we're gonna\nchange the light in here for Karl.\nI hope you can see to write."
+  },
+  {
+   "type": "stage direction",
+   "text": "Woolridge turns on a lamp on a desk and turns off the\noverhead lights. He opens the door and Melvin brings Karl in.\nIn the semidarkness Woolridge pushes a chair up and motions\nfor Marsha to sit. Karl stands beside Melvin motionless.\nWoolridge whispers to Theresa."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE (CONT'D)",
+   "text": "You'll have to step outside."
+  },
+  {
+   "type": "stage direction",
+   "text": "Theresa starts to protest."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE (CONT'D)",
+   "text": "Please."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl sits down in a folding chair near a lamp as Melvin\nushers Theresa outside into the hallway. Karl sits staring at\nthe floor. Rubbing his palms together and breathing\nstrangely, as usual. He sits silent for what seems like\nforever."
+  },
+  {
+   "type": "location",
+   "text": "INT. HALLWAY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Theresa stands on one side of the door, Melvin on the other."
+  },
+  {
+   "type": "speech",
+   "character": "THERESA",
+   "text": "Can I just sneak in there? I won't\ntake any pictures, I promise. I\njust want to listen."
+  },
+  {
+   "type": "speech",
+   "character": "MELVIN",
+   "text": "No ma'am. I'm sorry you can't."
+  },
+  {
+   "type": "stage direction",
+   "text": "Theresa takes a cigarette from her purse and starts to light\nit."
+  },
+  {
+   "type": "speech",
+   "character": "MELVIN (CONT'D)",
+   "text": "You can't smoke in here. I'm sorry."
+  },
+  {
+   "type": "location",
+   "text": "INT. CLASSROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Marsha is staring at Karl. Karl, still breathing and rubbing\nhis palms, starts to speak. His voice is low and raspy, but\nnot just low and raspy; strange."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Well, I reckon what you're a\nwanting to know is what I'm doing\nin here. I reckon the reason I'm in\nhere is 'cause I killed somebody.\nBut I reckon what you was a wanting\nto know is how come me to kill\nsomebody. Well, I reckon I'll start\nat the front and tell you."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause, heavy breathing)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I lived most of my life out behind\nmy mother and father's house in a\nlittle old shed and my daddy'd\nbuilt for me. They didn't too much\nwant me up there in the house with\nthe rest of 'em. I mostly just set\naround out there in the shed all\nthe time a lookin' at the ground.\nIt didn't have no floor but I had\nme a hole dug out to lay down in\nand a quilt or tow that I put down\nthere."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause, more breathing)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "My daddy was a hard workin' man\nmost of his life, not that I can\nsay the same fer myself. I most\njust set around the shed and\ntinkered around with a lawn mower\nor two and went to school off and\non from time to time but the\nchildren there made quite a bit of\nsport of me, made fun of me quite a\nbit. Some of 'em roughed me up\nsometimes so mostly I stayed out\nback there in the shed. My daddy\nworked down at the sawmill there,\ndown there at the planer mill for\nan old man named Dixon.\nOld man Dixon was a very cruel\nfeller, he didn't treat his\nemployees very well, didn't pay 'em\nmuch of a wage, didn't pay my daddy\nmuch of a wage, just barely enough\nto get by on. But I reckon he got\nby all right, they come out one or\nthe other of 'em, usually my\nmother, and fed me pretty regular.\nAt least I know he made enough for\nme to have mustard and biscuits\nthree or four times a week. Old man\nDixon had a boy named Jesse Dixon.\nJesse was really more cruel than\nhis daddy. He made quite a bit of\nsport of me and takened advantage\nof the little girls around the\nneighborhood quite a bit."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "He used to say my mother was a very\npretty woman. He said it quite a\nbit from time to time, when I was\nat the school house. Well, I reckon\nyou want me to get on and tell you\nwhat happened so I reckon I'll tell\nyou. I was settin' out in the shed\none evenin' not doin' too much,\njust kindly starin' at the wall and\na waitin' fer my mother to come out\nand give me my Bible lesson and I\nheared a commotion up in the house\nthere so I got up and run up on the\nscreened-in porch there to see what\nwas a goin' on, and I looked in the\nkitchen window and I seen my mother\na layin' there on the floor without\nany clothes on."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause, breathing)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "And seen Jesse Dixon a layin' on\ntop of her having his way with her."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Well, I just seen red. I picked up\na kaiser blade that was a layin'\nthere by the screen door, some\nfolks calls it a sling blade, I\ncall it a kaiser blade. It's just a\nlong handle like a axe handle with\na long blade on it that's shaped\nkind of like a banana. Sharp on one\nedge and dull on the other. It's\nwhat the highway boys use to cut\ndown weeds and whatnot.\nI went in the kitchen there and I\nhit Jesse Dixon up side the head\nwith it and knocked him off my\nmother. I reckon that didn't quite\nsatisfy me so I hit him again in\nthe neck with the sharp edge and\njust plumb near cut his head off.\nKilled him. Well, my mother, she\njumped up from there and started\nyellin', \"What did you kill Jesse\nfer? What did you kill Jesse fer?\""
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause, intense breathing)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Well, come to find out my mother\ndidn't really mind what Jesse was a\ndoin' to her. I reckon that made me\nmadder than what Jesse had made me.\nI takened the kaiser blade, some\nfolks calls it a sling blade, I\ncall it a kaiser blade and hit my\nmother up side the head with it an'\nkilled her."
+  },
+  {
+   "type": "stage direction",
+   "text": "(long pause, breathing)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Some folks has asked me if I had it\nto do over again would I do the\nsame thing. I don't know, I reckon\nI would. Anyhow, they seen fit to\nput me in here and here I've been\nfor a great long while. I've\nlearned to read some; took me four\nyears to read the Bible. I reckon I\nunderstand a good deal of it. It\nwasn't what I expected in a lot of\nplaces. I've slept in a good bed\nfor a great long while. They've\nseen fit to put me out now. They\ntell me they're a settin' me free\ntoday. Anyhow, I reckon that's all\nyou need to know. If you want any\nmore details I reckon I can tell\n'em to you. I don't know if that's\nenough for your newspaper or not."
+  },
+  {
+   "type": "stage direction",
+   "text": "Suddenly Marsha speaks from the darkness."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Will you ever kill anybody again,\nKarl?"
+  },
+  {
+   "type": "stage direction",
+   "text": "This seems to startle the very room itself. Woolridge motions\nfor Marsha to shut up and Karl stops still. Very still. He\nbreathes hard for a moment then starts to calm down. He seems\nalmost at ease. He slowly looks up. From Karl's point of view\nwe barely see Marsha's face in the dim light. Karl is looking\nstraight at Marsha."
+  },
+  {
+   "type": "stage direction",
+   "text": "(slowly)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I don't reckon I got no reason to\nkill nobody."
+  },
+  {
+   "type": "location",
+   "text": "INT. HALLWAY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Woolridge stands just outside the classroom door with Marsha\nand Theresa. Karl stands down the way a few feet with Melvin."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Is he leaving right this minute?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "We've got some paperwork to take\ncare of. Pretty soon. Don't worry,\nyou won't run into him in the\nparking lot."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "I didn't mean that."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I hope the best for you, Miss\nDwiggins, with your school and your\npaper and all."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Where will he go?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Wherever he wants to. I think he's\ngoing back to Millsburg where he's\nfrom. It's just about twenty miles\nfrom here."
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Will he be supervised?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "As much as anybody else is, I\nguess. Y'all have a good rest of\nthe day now."
+  },
+  {
+   "type": "stage direction",
+   "text": "Marsha and Theresa walk toward the exit. As they pass Karl he\nspeaks to Marsha."
+  },
+  {
+   "type": "stage direction",
+   "text": "(looking down)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Thank you."
+  },
+  {
+   "type": "stage direction",
+   "text": "(immediately extends her\nhand)"
+  },
+  {
+   "type": "speech",
+   "character": "MARSHA",
+   "text": "Thank you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl doesn't take her hand.\nKarl continues to stare at the floor until the women exit."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon I'm gonna have to get used\nto looking at pretty people."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Yes, I guess you are."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon I'm gonna have to get used\nto them lookin' at me, too."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "You better go get your things."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I ain't got nothing but them books."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "You better go get 'em."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "All right then."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl walks slowly down the hallway."
+  },
+  {
+   "type": "location",
+   "text": "EXT. BUS STATION - MILLSBURG - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl steps off the bus carrying a few books by a strap. He\nstands there for moment staring at the bus station as the few\npeople around stare at him, then he starts walking.\nA SERIES OF SHOTS\nKarl standing in front of a barbershop looking through the\nwindow at a man having his hair cut.\nIn front of the police station.\nStaring at an empty school yard..."
+  },
+  {
+   "type": "location",
+   "text": "EXT. DAIRY QUEEN - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl stands and stares at the building for a moment. He sees\na woman take a tray of food from the window.\nWhen she's gone, he walks up to the window. A pimply-faced\nTEENAGE BOY comes to wait on him."
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "Can I help you?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I was kindly wantin' somethin' or\n'nother d'eat."
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "Well, what did you want?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You have any biscuits for sale?"
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "Naw, we don't have biscuits."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl stands in silence for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "BOY (CONT'D)",
+   "text": "Did you decide, sir?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "What you got that's good to eat?"
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "Well, I guess it's all good."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "What do you like to eat here?"
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "French fries. I like to eat them\npretty good."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "French-fried potaters."
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "How much you want fer 'em? I'll get\nsome of them I reckon."
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "Sixty for small and seventy-five\nfor large."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Give me the big'uns."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl digs in his pocket for money."
+  },
+  {
+   "type": "location",
+   "text": "EXT. LAUNDROMAT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl sits on a bench eating french fries. After a moment, a\ntwelve- or thirteen-year-old BOY comes out of the laundromat\nwrestling three or four big bags of laundry. He can't seem to\nget a plan together for carrying them all. Karl gets up and\ngoes over to him. The boy looks up at Karl, a little startled\nby Karl's strange figure looming over him."
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "These dang things are heavy. Hard\nto carry, too."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "What you got in there, warshing?"
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Ain't you got no mama and daddy to\ntend to it?"
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "I got a mama, but she's at work\nover at Ben's Dollar Store. My\ndaddy's dead."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "He got hit by a train."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "How fer you going with them sacks\nfull of warsh?"
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "About a half a mile I think it is."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I'll help you tote 'em if I don't\ngive out first."
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "Okay. You don't have to though."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl picks up two sacks and they walk away."
+  },
+  {
+   "type": "location",
+   "text": "EXT. STREET - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "They walk in silence for a while before the boy finally\nspeaks."
+  },
+  {
+   "type": "speech",
+   "character": "BOY",
+   "text": "My name is Frank Wheatley. What's\nyour name?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Karl's my name."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (BOY)",
+   "text": "What's you last name?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Childers."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "What are all them books?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Different ones. One's the Bible.\nOne of 'ems a book on Christmas.\nOne of 'ems how to be a carpenter."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "How come you're carryin' them\naround with you."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Ain't got nowhere to set 'em down."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Don't you live somewhere?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I did live there in the state\nhospital."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Why'd you live there?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I killed some folks quite awhile\nback. They said I wadn't right in\nthe head and they put me in there\nin the nervous hospital instead of\nputtin' me in jail."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "They let you out?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "How come?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "They told me I was well. They had\nto turn me loose."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Are you well?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon I feel all right."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You don't seem like you'd kill\nnobody."
+  },
+  {
+   "type": "stage direction",
+   "text": "They reach a little white frame house and the boy turns up\nthe sidewalk."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (CONT'D)",
+   "text": "This is my house. You can just set\nthose bags on the porch."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl sets the bags down and he and the boy stare at each\nother in silence for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (CONT'D)",
+   "text": "Do you like to play football?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I never was much count at it. I\nnever did get picked out fer it."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Me and the Burnett twins and some\nboys plays down at the junior high\npractice field all the time. If you\never want to come by and play. We\nain't no good either. Well, I'll\nsee you later."
+  },
+  {
+   "type": "stage direction",
+   "text": "He goes inside leaving Karl staring at the front door."
+  },
+  {
+   "type": "location",
+   "text": "INT. BUS STATION - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl stands at the counter. A middle-aged man is selling\ntickets."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "How does a feller go about gettin'\nup to the state hospital?"
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "You buy a ticket for fourteen\ndollars and then set and wait for\nthe four-fifteen bus to Kelton."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "All right then."
+  },
+  {
+   "type": "location",
+   "text": "INT. MENTAL HOSPITAL - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl walks down the hallway carrying his books. A couple\nstaffers give him 'Why are you still here' looks. He reaches\na door and goes in."
+  },
+  {
+   "type": "location",
+   "text": "INT. WAITING ROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "There is no one at the desk in the outer office, so Karl goes\ninto Woolridge's office."
+  },
+  {
+   "type": "location",
+   "text": "INT. WOOLRIDGE'S OFFICE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl finds Woolridge doing paper work. Woolridge looks up\nstartled."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Karl, what in the world are you\ndoing here?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I want to come back and stay here."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Well, you can't do that. You're a\nfree man. You've been let out to do\nas you please."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon I don't care nothin' about\nbein' a free man. I don't know how\nto go about it."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Well, you have to learn. It'll take\nsome time. Don't you know anybody\ndown there to help you out?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Naw."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Your daddy's still livin' down\nthere from what you told me."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I guess he wouldn't help you any,\nwould he? I wasn't thinking. You\ndon't know anybody?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Naw. Never did know too much of\nnobody. Not to he'p me out anyway."
+  },
+  {
+   "type": "stage direction",
+   "text": "(sighs)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Listen, Karl, the truth is I don't\nknow where they expect you to go or\nwhat they expect you to do. If it\nwas up to me, I'd let you stay here\nif that's what you wanted. I'm just\ndoin' my job."
+  },
+  {
+   "type": "stage direction",
+   "text": "(they sit in silence for a\nmoment)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "You follow me?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(no answer)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Listen, I know an old boy that runs\na fix-it shop deal down in\nMillsburg. He used to go to church\nwith me. You're good workin' on\nsmall engines and things. If I put\nmy neck out for you with him, will\nyou work at it if he'll hire you?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I'm pretty handy I reckon on lawn\nmowers and whatnot."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I know, I've seen it myself. Would\nyou give that a try?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I can't promise he'll hire you.\nI'll have to tell him about your\nhistory."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I never was no good with history."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "No, I mean your past. About why you\nwere in here."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I'll take you first thing in the\nmornin'. You have anyplace you can\nstay tonight at all?\nI just can't let you stay here.\nIt's the rules. If something\nhappened well, I'd be liable."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon I can just walk around\ntill the mornin'. Or set and read\nme a book somewhere."
+  },
+  {
+   "type": "stage direction",
+   "text": "They sit and stare at each other for a moment."
+  },
+  {
+   "type": "location",
+   "text": "INT. WOOLRIDGE DEN - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Woolridge, his WIFE, his teenage SON, BUBBA, and teenage\nDAUGHTER sit in various comfortable chairs looking extremely\nuncomfortable and staring at Karl, who is sitting on the edge\nof a chair looking at the floor. After a long creepy moment,\nMom speaks."
+  },
+  {
+   "type": "speech",
+   "character": "MRS. WOOLRIDGE",
+   "text": "Karl, would you like a muffin?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "No thank ye."
+  },
+  {
+   "type": "speech",
+   "character": "MRS. WOOLRIDGE",
+   "text": "I understand Jerry is going to take\nyou somewhere else tomorrow."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I don't reckon I know nobody name\nJerry."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "She's talkin' about me, Karl.\nThat's my first name."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "He's a-carryin' me to look fer work\nin Millsburg where I was borned."
+  },
+  {
+   "type": "speech",
+   "character": "MRS. WOOLRIDGE",
+   "text": "Would you like some coffee?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Coffee makes me a might nervous\nwhen I drink it."
+  },
+  {
+   "type": "speech",
+   "character": "DAUGHTER",
+   "text": "Daddy, can I be excused to go to\nbed?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Sure, honey. You sleep with Mama\ntonight. I'll sleep with your\nbrother and Karl can take your\nroom."
+  },
+  {
+   "type": "speech",
+   "character": "DAUGHTER",
+   "text": "Why?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "We have company. Now you go on."
+  },
+  {
+   "type": "location",
+   "text": "INT. BEDROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "It's an all-American girls room. Everything is pink. There\nare stuffed animals everywhere and posters of pop idols."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Well, Karl, there's plenty of\nblankets and things there.\nBathroom's right there in the hall.\nWe'll leave first thing tomorrow."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl stands in the middle of the room holding his books.\nWoolridge closes the door."
+  },
+  {
+   "type": "location",
+   "text": "INT. WOOLRIDGE KITCHEN - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Woolridge walks into the kitchen where Mom and Son sit at the\ntable."
+  },
+  {
+   "type": "speech",
+   "character": "MRS. WOOLRIDGE",
+   "text": "Jerry, why didn't you give him\nBubba's room? Sister's is kind of\ngirly, isn't it?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Yeah, I thought about that. No\nsense in moving him now I guess."
+  },
+  {
+   "type": "speech",
+   "character": "BUBBA",
+   "text": "Daddy, don't you think one of us\nought to stay up all night and kind\nof - guard or somethin'?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Why, hell no, son. What's wrong\nwith you?"
+  },
+  {
+   "type": "speech",
+   "character": "BUBBA",
+   "text": "Well, he's crazy. He's a nut ain't\nhe?"
+  },
+  {
+   "type": "speech",
+   "character": "MRS. WOOLRIDGE",
+   "text": "'Isn't' he, Bubba. Don't say ain't."
+  },
+  {
+   "type": "location",
+   "text": "INT. WOOLRIDGE DEN AND HALLWAY - MORNING"
+  },
+  {
+   "type": "stage direction",
+   "text": "Woolridge, already dressed, walks through the den and down\nthe hallway. He knocks on the bedroom door."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Karl, you up?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL (O.S.)",
+   "text": "Yes sir."
+  },
+  {
+   "type": "stage direction",
+   "text": "Woolridge opens the bedroom door and sees Karl sitting on the\nedge of the bed beside his books. The light is on, the bed\nstill as it was the night before."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Didn't you go to sleep at all,\nKarl? You been sittin' there like\nthat all night?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes sir."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Well, I guess we better hit the\nroad."
+  },
+  {
+   "type": "location",
+   "text": "INT. FIXIT SHOP - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Woolridge's car pulls into the parking lot. He and Karl get\nout and walk toward the shop."
+  },
+  {
+   "type": "location",
+   "text": "INT. FIXIT SHOP - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Two men, BILL COX, a large man in his forties, and SCOOTER\nHODGES, a really country-looking guy in his thirties, look up\nfrom behind the counter as Woolridge and Karl enter.\nWoolridge goes to the counter, Karl stands by the door\nlooking at the floor."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Hey Jerry, how it's goin'. Good to\nsee you. Been a long time."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Good to see you, Bill. How's\neverybody doin'?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Aw, pretty good. Kids are drivin'\nme crazy and Phyliss is gonna put\nme in the poorhouse. Can't complain\nother than that. Wouldn't do any\ngood if I did."
+  },
+  {
+   "type": "stage direction",
+   "text": "(laughs)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Do you know Scooter, Jerry?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "No, don't guess I do."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he shakes hands with\nScooter who sort of\nsmiles)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Scooter, good to meet you."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Woolridge leans in and\ngets confidential)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "This is him, the one I talked to\nyou about on the phone. Now like I\nsaid, I'll understand if you get\nnervous about it. I'm not gonna lie\nto you now, he did get in that\ntrouble but then he was real young."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "I remember it real well. Cut them\nfolks to pieces. His mama one of\n'em."
+  },
+  {
+   "type": "speech",
+   "character": "SCOOTER",
+   "text": "And that ol' Dixon boy. Hell, I\nalways wanted to kill him myself.\nAsshole's what he was. I remember\nthat ol' boy"
+  },
+  {
+   "type": "stage direction",
+   "text": "(points to Karl)"
+  },
+  {
+   "type": "speech",
+   "character": "SCOOTER",
+   "text": "too. Kind of retarded or somethin'\nback in school."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Well, he seems pretty well-adjusted\nthese days. I don't think he'd ever\nhurt anybody."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Don't look much like he could. You\nsay he can fix a small engine like\nnobody's bidness."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "He's a regular whiz at it. That's\nall he did when he was a kid."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Well, I ain't scared of him workin'\nhere. You know me. I'm a church\ngoin' man. Forgivin' man. When your\ntime's up the Lord's gonna come git\nyou. You seared of him, Scooter?"
+  },
+  {
+   "type": "speech",
+   "character": "SCOOTER",
+   "text": "I don't guess. Can he talk?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Oh yeah. Listen I really appreciate\nit. He needs the job. I don't know\nwhat to do with him. He don't have\nanybody really."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "That old man of his still livin'\nover there on Clark Street I\nbelieve."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "He won't have anything to do with\nhim. Now you say it's all right for\nhim to stay out here in the back?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Fine with me. If he steals\nanything, I'll take it out of your\npocket anyway."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bill slaps Woolridge on the shoulders and wheezes with\nlaughter."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "He won't steal. I'm tellin' you\nhe's a pretty good ol' boy. Keeps\nto himself."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Well, I've got a roomful of work\nfor him to do. Can't get Scooter to\ndo any of it."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Karl, come over here. I want you to\nmeet your new boss."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Karl obediently shuffles\nover)"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "This is Bill Cox, runs this place.\nSays you can work here and stay in\nthe back."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Good to know you, Karl."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Thank ye."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Now it's minimal wage and there\nain't nothin' but a army cot and a\ntoilet back there."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl doesn't say anything."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "That'll be fine. Karl, I'll go to\nthe car and get your books."
+  },
+  {
+   "type": "stage direction",
+   "text": "Woolridge exits. Bill and Scooter just stare at Karl and Karl\nstares at the floor."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "They say you're a whiz on fixin'\nlawn mowers and things."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I've tinkered around on 'em a\nlittle bit."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "We order from Dairy Queen at\nnoontime usually. We can buy your\nlunch till you get on your feet a\nlittle."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I like them french-fried potaters."
+  },
+  {
+   "type": "stage direction",
+   "text": "(long pause)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Yeah, me too."
+  },
+  {
+   "type": "speech",
+   "character": "SCOOTER",
+   "text": "They make a good double meat\nburger."
+  },
+  {
+   "type": "location",
+   "text": "INT. SHOP WORKROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "The place is cluttered with mowers, edgers, weed-eaters, and\nother equipment, most of it in pieces. A small cot is in a\nlittle clearing in the corner by the bathroom. Karl is\nsweeping up oil with sawdust and a push broom while Scooter\nputs some tools away. Bill comes to the door."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "All right then, I'll see y'all\nlater. Karl you done a good day's\nwork. They right about you.\nScooter, he's gonna knock you out\nof a job if you're not careful.\nI'll see you tomorrow."
+  },
+  {
+   "type": "speech",
+   "character": "SCOOTER",
+   "text": "Wait up, I'll leave with you and\nlock up."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Karl, they's a blanket up in under\nthat cot and soap in the bathroom\nto clean up with."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Now there's one more thing. The way\nwe lock these doors at night, you\ncan't get out. You didn't want to\ngo anywhere, did you?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I don't reckon."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "If it works out and all, maybe\nwe'll get you a key so you can get\nout at night if you need to. See\nyou later."
+  },
+  {
+   "type": "stage direction",
+   "text": "They leave Karl standing in the midst of the lawn mowers. He\nsets the broom down and goes and sits on the cot. After a\nmoment, he gets back up and starts sweeping again."
+  },
+  {
+   "type": "location",
+   "text": "INT. SHOP - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "It's lunch time and Bill, Scooter, and Karl are sitting in\nfolding chairs behind the counter eating from their Dairy\nQueen to-go bags. Karl has french fries."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Scooter, did I tell about the two\nold boys pissin' off the bridge?"
+  },
+  {
+   "type": "speech",
+   "character": "SCOOTER",
+   "text": "I can't remember."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "There was these two old boys hung\ntheir peckers off of a bridge to\npiss, one old boy from California\nand one old boy from Arkansas.\nOld boy from California says, \"Boy\nthis water's cold.\" Old boy from\nArkansas says \"Yeah, and it's deep\ntoo.\""
+  },
+  {
+   "type": "stage direction",
+   "text": "(starts wheezing)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Get it? That's a goodun."
+  },
+  {
+   "type": "stage direction",
+   "text": "(laughing)"
+  },
+  {
+   "type": "speech",
+   "character": "SCOOTER",
+   "text": "Yeah, that's a goodun. I believe\nyou did tell me that one before.\nI've heard that a bunch. Long time\nago."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Well, yeah it's a classic. You\nknow, Karl, I got to thinkin' about\nit last night and it's just not\nChristian of me to not let you have\na key. I mean you been in lockup so\nlong, you don't need me keepin' you\nlocked up. You need to come and go\nas you please. Here, take this key,\nit'll get you in and out that back\ndoor."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Karl takes the key and\nkeeps eating french\nfries)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Them french fries good?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yeah, they's good all right."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "You got any money?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "They give me fifty dollars when\nthey turned me loose. I spent up\nsome of it on ridin' the bus and\neatin' french-fried potaters."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Well, I'm gonna pay you today for\nthis comin' week, so you'll have\nsome walkin' around money. When you\nget off this evenin' you better go\nbuy some toothpaste and cleanin' up\nsupplies to have back there. Some\nhard candy and some magazines.\nSomethin' to keep you busy at\nnight."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "All right then."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "I'll let you off while it's still\ndaylight."
+  },
+  {
+   "type": "location",
+   "text": "EXT. STREET - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl is walking down a residential street. He stops in front\nof the house where the boy, Frank, lives and stares at the\nhouse for a moment, then he walks up to the door and stares\nat it. A curtain moves and the boy's face appears at the\nwindow. He comes and opens the door."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Hey there. I thought I heard\nsomebody on the porch. Wasn't your\nname Karl?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yeah it is. Your name's Frank."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Yeah. What you doin' by here?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You told me to come by."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Did you want to play ball with us?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I ain't no good at it. I just come\nby."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Well, anyhow, I was just fixin' to\ngo see my mama down at Ben's Dollar\nStore. She's workin' two till\neight."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "All right then."
+  },
+  {
+   "type": "stage direction",
+   "text": "He starts to walk away."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Wait a minute. You want to go with\nme? You can meet my mama."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I don't want to worry your mama\nwith company."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Aw, come on. You'll like her. She's\nreal nice. She'll give us somethin'\nif we ask her to. Candy or\nsomethin'."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I was kindly needin' to do some\ntradin'. Reckon they sell\ntoothpaste?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "They sell some of everything. Come\non let's go. I won't tell her about\nyou bein' in the state hospital for\nkillin'."
+  },
+  {
+   "type": "location",
+   "text": "INT. BEN'S DOLLAR STORE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Frank and Karl make their way through the fairly crowded\nstore. It's sort of a mini-version of a Walmart. They find\nFrank's mother in her red smock talking to a guy in a red\nBen's knit shirt. They are laughing together and pricing some\nmouthwash. LINDA WHEATLEY is a short, plain woman in her\nthirties. The man, VAUGHAN CUNNINGHAM, is in his forties,\nwith a neat flattop hair cut, glasses, and a paunch hanging\nover his belt. They eye Karl suspiciously, as the boys\napproach."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Hey, Mama. Hey, Vaughan."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Hey, sweetheart. What you up to?"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Let me guess. You want a bunch of\ncandy and a pop."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "You're gonna rot your teeth that\nway. But I bet I know what you\nwould like even better.\nI put potted meat on special, four\ncans for a dollar and they're not\nmoving very well. I'd sure let a\nfew cans go for free to the right\nboy."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I don't like potted meat. Daddy\nused to say it was made out of lips\nand peckers and intestints."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Frank, don't talk that way. Who's\nthat strange lookin' man behind\nyou? Did he follow you in here?"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Can I help you, sir?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Oh, that's Karl. I met him at the\nlaundrymat. Karl, this is my mama.\nAnd Vaughan, Vaughan's the manager.\nHe lets mama off any time she feels\nlike it 'cause they're best\nfriends."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Nice to meet you, Karl."
+  },
+  {
+   "type": "stage direction",
+   "text": "(keeping his distance)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Pleased to know y'all."
+  },
+  {
+   "type": "stage direction",
+   "text": "There's an uncomfortable silence."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Frank come back here with me for a\nminute."
+  },
+  {
+   "type": "stage direction",
+   "text": "She shuffles him away and leaves Vaughan staring at Karl."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "I don't think I've ever seen you\nbefore."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Naw, I don't believe you have. I\ndon't reckon I never been in here.\nThis store didn't used to be here."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "It's been here seventeen years. Did\nyou live here before or something?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I's horned and raised here up till\nI's twelve year old."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "What brings you back?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "What's that you say?"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Why are you here now?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "They turned me loose from the state\nhospital."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Is that right?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Are you going to be staying here\nlong?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon Mr. Woolridge got me hired\non to work for Bill Cox's outfit."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Do you have family here?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Not really to speak of."
+  },
+  {
+   "type": "stage direction",
+   "text": "Linda and Frank return from the back."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Hey Karl, guess what. Mama said you\ncan stay with us. Out in the\ngarage. Our car won't fit in there\nanyway. It's real neat."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Frank told me about your situation.\nAnd Frank loves company. You know,\nespecially after his daddy passed\nand all. There ain't no sense in\nyou stayin' in that old greasy\nshop."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Vaughan, hushed)"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "He's mentally retarded, poor thing."
+  },
+  {
+   "type": "stage direction",
+   "text": "(hushed)"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "He just got out of the state\nhospital."
+  },
+  {
+   "type": "stage direction",
+   "text": "(put out)"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I know."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Can we get some candy and pops?"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Sure, go ahead."
+  },
+  {
+   "type": "stage direction",
+   "text": "They walk off down the aisle leaving Vaughan a little\npuzzled."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN (CONT'D)",
+   "text": "Are you sure it's safe to let him\naround that guy?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Frank's just crazy about him. He\nlikes the way he talks. He helped\nhim carry home the clean laundry."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "He's been in the state hospital a\nlong time, something must be wrong\nwith him."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "He's retarded's all. You know he's\nalways after a father figure and\nLord knows Doyle ain't a good one\nwith his mean ass."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "What about me?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I don't think he sees you as a guy\nguy."
+  },
+  {
+   "type": "stage direction",
+   "text": "(wrinkles his brow)"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Karl is a guy guy?"
+  },
+  {
+   "type": "location",
+   "text": "EXT. WOODED AREA - LATE AFTERNOON"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl and Frank sit on stumps in a little clearing enjoying\nthe spoils of their Ben's Dollar Store visit."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "This is what I call my secret place\n'cause I come out here when I feel\nlike bein' by myself. I used to\ncome here with Karen Cross. She's\nkind of like my girlfriend, or used\nto be. She says she likes Jerry\nMaroney now. But I'm gonna get her\nback 'cause I love her. We used to\ncome here and hold hands and talk\nand read books to each other with a\nflashlight. She didn't want to have\nanything to do with me in front of\nother people 'cause I don't have\nany money. Well, mama and me, I\nmean. She seemed to like me a whole\nlot when we were out here though.\nShe said she loved me, too. Out\nhere. Settin' right on that stump\nyou're on. See, her daddy's a\ndentist so they're rich. So's Jerry\nMaroney's daddy. He owns the ice\nplant. Was your folks well off?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Naw. Didn't have too much. Enough\nto scrape by on, I reckon."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "They still around, your folks?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "My mother's dead. My daddy's\ns'posed to be around still. He\ndon't want to have nothin' to do\nwith me though."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "How do you know?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "He never did want to. I figure he\nain't changed his mind much."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "How did your mama die?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(long pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You don't need to know all of that.\nYou're just a boy.\nYou need to think about good\nthoughts while you're still a boy.\nThey'll be plenty of time for the\nother."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I've had a lot of bad thoughts\nsince my daddy died. Sometimes I\nwish I was still real little and he\nwas still here. My mama's real\ngood, but I wish I had both of 'em."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "When we went to Memphis one time in\nthe car, it was rainin' so hard we\ncouldn't see the road. But I wadn't\nscared because I thought as long as\ndaddy was drivin' nothin' could\nhappen to us. I feel that way about\nmama now."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he looks at the ground\nfor a moment)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Mama has a boyfriend now. His name\nis Doyle Hargraves. He works\nconstruction so he makes a pretty\ngood livin'. He still don't help\nmama out with any money though. He\nain't no good. He's mean to her. He\ndon't like me at all. Mama says\nit's because he's jealous I belong\nto my daddy instead of him. He\nstays with us all night sometimes,\nbut he's got his own house.\nSomebody told me it's so he can\nstill have other girlfriends. I\nlike it on the nights when he ain't\nat our house. I'm not so nervous\nthen."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "How come her to keep bein'\ngirlfriends and all with him if\nhe's mean to her?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "She says it's for the times when\nhe's good to her. She's lonely\nsince daddy died. She said\nsometimes she don't know why."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "He threatened to kill her if she\never left him. My daddy would kill\nhim if he was here and somebody was\nmean to mama. Vaughan, he's real\ngood to mama. Vaughan that you met.\nBut he's not able to do anything to\nDoyle, he's funny you know. Not\nfunny ha, ha, funny queer. He likes\nto go with men instead of women.\nThat makes him not to be able to\nfight too good. He sure is nice\nthough. He's from St. Louis. People\nwho are queer can get along better\nin a big town. He got transferred\nhere to work. But mama said the\nreal reason he left is 'cause his\ndaddy hated him. For bein' the way\nhe is. I wish he liked to go with\nwomen. I'd rather him be mama's\nboyfriend than Doyle."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause as Frank looks at the ground again. He seems troubled."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (CONT'D)",
+   "text": "Karl."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (CONT'D)",
+   "text": "You know when I said daddy got hit\nby a train."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yeah, I remember you a-tellin' me\nthat."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "It ain't the truth. He shot hisself\nwith a shotgun on purpose."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Why did he do that, reckon."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "'Cause he didn't have enough money\nto take care of us the way he\nwanted to. That's what the letter\nsaid. He got laid off from work and\nhad to just work odd jobs. I\nthought he took care of us fine."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Karl, did you really kill somebody?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yeah, I did."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Who did you kill?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Two people."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Were they bad people?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I thought they was."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Maybe they needed it."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I growed up and got taught it ain't\nright to kill nobody."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "It's okay if you're lookin' out for\nyourself. If it's self-defense. Was\nit self-defense?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl shifts around and makes a noise in his throat and\ndoesn't answer."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (CONT'D)",
+   "text": "My daddy was good. I think too many\ngood people die. It ain't right.\nThat's what I think."
+  },
+  {
+   "type": "location",
+   "text": "INT. SHOP - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl is tying the strap around his books. His sack of\ntoiletries is on the bed. Bill Cox comes in."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Now, Karl, you sure you want to go\nstay with these folks? You're\nwelcome to keep on stayin here.\nIt's workin' out real good."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "That boy wants me to."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "All right then. I'll see you bright\nand early. How you comin' along on\nthat garden tiller?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I fixed it. Hit's a workin' pretty\ngood."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "You done fixed it? I'll be damned.\nScooter told me it couldn't be\nfixed.\n'Course Scooter's about as shitless\nas one poor son-of-a-bitch can be.\nYou done fixed it. I'll just be\ndamned. See you tomorrow."
+  },
+  {
+   "type": "location",
+   "text": "INT. WHEATLEY LIVING ROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "DOYLE is in the comfortable easy chair with adjuster handle\ndrinking beer. He's in his late thirties and dressed in his\nconstruction clothes. Linda sits on the arm of the chair and\nFrank stands before them."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Well, honey, I don't guess I give a\nshit. I ain't here half the time\nanyway. If you want a retard livin'\nin the garage, I don't guess I\ncare. I've got a good tool box and\nsocket set out there I don't want\nstol'd. I guess I could take it\nhome with me."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "He's real honest. He wouldn't steal\nnothin'."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Now son, I wadn't talkin' to you,\nwas I?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Was I?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "No sir."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "No sir's right. I'm talkin' to your\nmama. This is your mama's decision,\nnot yours. I'm lettin' it go on\nbecause she asked me, not you."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Linda)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Now is this the kind of retard that\ndrools and rubs shit in his hair\nand all that, 'cause I have trouble\neatin' around that kind of thing.\nJust like I am about antique\nfurniture and midgets. I can't so\nmuch as drink a glass of water\naround a midget or a piece of\nantique furniture. Same thing with\na droolin' retard."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Doyle, you're awful. You shouldn't\nbe that way."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "I ain't sayin' it's right. I'm just\ntellin' the truth. What was he in\nthe nuthouse for?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "He's just mentally retarded, I\nguess."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "He had of went nuts and did\nsomethin'. They don't put you in\nthere for just bein' a retard.\nThey's retards all over the place\nthat ain't in the nuthouse. Do you\nknow, Frank?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I ain't sure."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You might want to find out. He\nmight of hacked his family to\npieces with a hatchet or somethin'."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Yeah, that's right, Frank, you\nbetter ask him. I mean, don't hurt\nhis feelin's or anything, but it\nwould be good to know. I'm sure\nit's nothin'. He seems real sweet."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You sure are hung up on people\nbein' sweet."
+  },
+  {
+   "type": "stage direction",
+   "text": "(takes a long pull on his\nbeer)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Speakin' of which, where's your\ngirlfriend? I thought he was comin'\nby here for something."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "He'll be here in a little while,\nhe's takin' me to get an ice cream."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Ain't that the sweetest thing. What\nam I supposed to do about supper\nwith you traipsin' around with that\nfag?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "You're not crippled. Get in there\nand make somethin'."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Boy, ain't you somethin' else.\nTalkin' back and everything. It\nkinda makes me horny when you talk\nback."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Frank, why don't you go off and\nplay in your room if Doyle's gonna\ntalk nasty."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I want to watch T.V."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Yeah, honey, let the kid watch T.V.\nHell, let's all watch T.V. like a\nfamily till your retarded friend\nand your homosexual friend gets\nhere."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PORCH - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl is standing on the porch with his bag and his books\nstaring at the door. After a moment, we hear a car door slam\nand footsteps on the porch. Then we hear Vaughan's voice."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Karl?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl turns to face Vaughan."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes sir."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "So, you're really going to stay\nhere?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "That boy wants me to."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Did you knock on the door yet?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Naw, I ain't."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "How long have you been standing\nhere?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Quite a spell, I reckon."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Listen, before you get very used to\nstaying here, I think you and I\nneed to talk about a few things.\nCan I take you to lunch?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I done et just a little bit ago."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "I mean tomorrow or the next day."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon I can stand to eat a\nlittle somethin' or 'nother at\nnoontime tomorrow. Bill Cox\ngenerally gets me a box of french\nfried potaters. But I reckon he can\nlay off doin' it tomorrow."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Okay, I'll come by Mr. Cox's and\nget you at noon."
+  },
+  {
+   "type": "stage direction",
+   "text": "They stand therefor a moment. Vaughan doesn't really know\nexactly what else to do, so he knocks on the door. After a\nmoment, Frank answers the door."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Hey. Y'all come on in."
+  },
+  {
+   "type": "location",
+   "text": "INT. LIVING ROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Vaughan ushers Karl in and they stand behind the sofa. Doyle\nlooks up and grins."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Hey, Vaughan. How are you, Karl?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Tolerable, I reckon."
+  },
+  {
+   "type": "stage direction",
+   "text": "(in a hurry to get out)"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Karl, this is my boyfriend, Doyle.\nFrank, why don't you and Karl go\nout in the garage and fix him up a\nplace or play a game or somethin'.\nVaughan, you ready to go?"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Sure, I guess."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Don't rush ever'body, honey."
+  },
+  {
+   "type": "stage direction",
+   "text": "She starts to get her things together."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Frank)"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Maybe you and Karl want to go with\nus?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Naw, I don't want to. Me and Karl\ngot things we need to do."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Hey, Vaughan, you know what I\nheard? I heard you been puttin' it\nto Albert Sellers that works over\nat the funeral home."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "I know Albert. We're friends."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "I heard you was more than friends.\nI heard Dick Rivers caught y'all\nall bowed up and goin' at it in the\nsame room with poor, little, old\nMizz Ogletree and her dead as a\ndoornail layed out on a gurney."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "That's ridiculous. That's just a\ntotal lie."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Let's go, Vaughan."
+  },
+  {
+   "type": "stage direction",
+   "text": "(they start for the door)"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Frank, we'll be back in a little\nwhile. I'll bring you back\nsomethin'. You're food's in the\noven warmin' over."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "See, you made him somethin'. Hey\nVaughan, I was just goin' on with\nyou, jokin' around, buddy."
+  },
+  {
+   "type": "stage direction",
+   "text": "(smiles a little)"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Yeah, I knew that. You're a card\nall right."
+  },
+  {
+   "type": "stage direction",
+   "text": "Linda kisses Frank on the forehead and they leave."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "So, Karl, come have a seat, talk to\nme."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl sits on the couch."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Come on, Karl, let's go out to the\ngarage."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Goddamnit, I'm talkin' to the man.\nYou set right there, Karl."
+  },
+  {
+   "type": "stage direction",
+   "text": "Frank leans on the sofa arm beside Karl."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "What's in your bag?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "This and that. Toothpaste and\nwhatnot."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "What's all them books?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Different ones. The Bible's one of\n'em."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You believe in the Bible?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "A good deal of it, I reckon. Can't\nunderstand all of it."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Well, I can't understand none of\nit. This one begat this one and\nthat one begat this one and begat\nand begat and begat and lo somebody\nsayeth some shit or another. Just\nhow retarded are you?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Stop it, Doyle!"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You be quiet, Frank, we're talkin'.\nThe adults are talkin'. Were you in\nthe lockup for cuttin' somebody up\nwith a hatchet?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I ain't never used no hatchet that\nI remember."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You're just crazy in a retarded\nkind of way then."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "It wouldn't matter to me if you did\ndo violence on somebody 'cause I\nain't afraid of shit. You think I'm\nafraid for you to stay here. You're\njust a humped over retard it looks\nlike to me. Not really, I'm just\njokin' with you. Welcome to our\nhumble home, buddy. Frank needs all\nthe friends he can get. Frank's a\nreal weak little kid. His daddy\ntaught him how to be a pussy."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Stop it, Doyle! Don't talk about\ndaddy, you hear me!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(mocking)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Don't talk about daddy. Y'all go on\nto the garage and let me be."
+  },
+  {
+   "type": "stage direction",
+   "text": "Frank is crying now."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Come on, Karl."
+  },
+  {
+   "type": "stage direction",
+   "text": "They get up and walk away."
+  },
+  {
+   "type": "stage direction",
+   "text": "(yelling to Frank)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Don't tell your mama we had a\nlittle spat. She don't need to be\nworried with your ass."
+  },
+  {
+   "type": "location",
+   "text": "INT. GARAGE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl sits on an old sofa and Frank sits on an upside down\npaint bucket, still upset."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I'd like to kill that son of a\nbitch. I hate him."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You ort not to talk that way.\nYou're just a boy."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Well, I hate him."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "He ort not to talk that away to you\nneither. He ain't no count. He's\nmean to you and your mama."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yore mama and that feller that's\ncarryin' me to get somethin'\nd'eat's gonna be back here\ndirectly."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Will you stay here with us for a\nlong time?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon if you want me to."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I got some of that potted meat and\nsodie crackers left over if you\nwant some."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I don't see how you can eat that\nstuff with all those insides it's\nmade out of."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon it tastes pretty good to\nme."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I like the way you talk."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I like the way you talk."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl starts to put together a cracker and potted meat delight\nas we:\nDISSOLVE TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. HAMBURGER ESTABLISHMENT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Vaughan is carrying a tray of food as Karl follows him to a\ntable and they sit and immediately start to eat. After a few\nbites, Vaughan starts to speak in an official manner."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Okay, Karl, the reason I brought\nyou here was to talk to you about\nsomething that is on my mind."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pauses for a response,\ninstead Karl eats french\nfries and stares at the\ntable)"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "I guess I'll put it right out on\nthe table. Where do I start. Linda\nand Frank are very important to me.\nThey're like family. My own family\nwas never like family. They're\nhorrible people. As a matter of\nfact I prayed every night for years\nthat my father would die. I finally\nrealized through a lot of therapy\nthat I was wasting my energy on\nhating him. Now I just don't care."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "You see, you and I are a lot alike,\nstrange as that may seem. I mean\nnot physically or even mentally\nreally, just well, maybe\nemotionally or actually the hand\nwe've been dealt in life. We're\ndifferent. People see us as being\ndifferent anyway. You're -- well\nyou have your affliction or\nwhatever and I, well mine's not as\neasy to see. I'm just going to say\nit. I'm gay."
+  },
+  {
+   "type": "stage direction",
+   "text": "(watts)"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Does that surprise you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(watts)"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "That I'm gay. You know what being\ngay is, don't you?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon not."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Homosexual. I like men. Sexually."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Not funny, ha, ha, funny queer."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Well that's a very offensive way to\nput it. You shouldn't say that. You\nwere taught that, weren't you?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I've heard it said that way."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Anyway, it's hard to live gay,\nthat's the right way to say it, in\na small town like this. I've wanted\nto leave many times, but my love\nfor Linda and Frank and another\ncertain person that we won't go\ninto have kept me from it. Anyway,\nI'm rambling. If you're going to\nlive in the Wheatly garage you need\nto know that it won't be easy.\nDoyle is a monster. Not just a\nclosed minded redneck, but a\nmonster. A dangerous person. I've\ntold Linda that one day that man is\ngoing to really hurt her or that\nboy. Maybe even kill one of them. I\nsee it in his eyes. I'm very in\ntune, maybe even psychic. Doyle\nwill make your life hell. You're a\nperfect target. When I first saw\nyou I was afraid of you. Not really\nafraid, I guess, just taken aback.\nBut also, I felt a real sensitive\nfeeling from you. And for some\nreason, Frank has adopted you. Much\nlike a stray animal. I'm sorry, I\ndidn't mean it like that. In a good\nway. Anyway, I just want you to\nknow what you're in for. I have a\ngood feeling about you. You're good\nfor Frank. Maybe it's that he can\nhave an adult friend on a child's\nlevel.\nI'm sorry, I didn't mean it in a\nbad way."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "There's one more thing. It's none\nof my business why you were in the\nstate hospital. Everyone has\nsomething in their past, maybe you\ntried suicide, maybe you did\nsomething -- terrible. But what I\nsee before me is a gentle, simple\nman. All I want you to promise me\nis that you're capable of being\naround Linda and Frank. You know.\nYou would never hurt them under any\ncircumstances, would you?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I wouldn't never hurt them."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "That's what I thought. I hope I\nhaven't offended you in any way.\nYou seem like a thinker. You seem\nto always be in deep thought. Tell\nme something. What are you thinking\nright now?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl looks up and stares for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I was thinkin' I could use me\nanother helpin' of these potaters."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Oh. How about before that?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Before that I was thinkin' it'd be\ngood if I could get another three\nor four cans of that potted meat if\nyou got any extry."
+  },
+  {
+   "type": "location",
+   "text": "INT. WHEATLEY KITCHEN - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Linda, Frank, and Doyle are eating."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "How come Karl won't eat here with\nus?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I don't know. He just said he'd eat\nout there."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Well, I wouldn't let it get to you."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I just feel sorry for the poor\nthing."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Who could eat with him settin'\nthere makin' that goddamn racket\nwith his throat."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "He does make some funny noises."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I sure like the way he talks. It\nsounds like a race car motor\nidlin'. It makes me not be nervous."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I'm glad of it, honey."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "What have you got to be nervous\nabout? You're a damn kid. You ain't\ngot any bills to pay or bidness to\nrun or old lady to stay on your ass\nall the time."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I get nervous, that's all I know."
+  },
+  {
+   "type": "stage direction",
+   "text": "They eat in silence for a while. Linda and Frank know where\nthis conversation could lead and know when to leave well\nenough alone."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You know what, by God?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "What?"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You know what we ought to do\ntonight?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Please Doyle, don't."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Have a damn party! Call Morris and\nthem and get the band together and\njust party our asses off. I'd like\nto show that fuckin' Karl to the\nguys. They'd get a kick out of\nthat. Don't you know they would."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Please don't. Not tonight. I'm not\nup for it. They always stay till\nmornin'. I'm just give out, Doyle."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You don't have to do anything but\npour some potato chips in a bowl\nand bring beers out when we get\nlow."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Last time you got mad and run\nMorris and them off and said to\nstay away from here."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "That ain't none of your damn\nbidness. Besides that's the way\nfriends do one another. Fuck it,\nI'm gonna go call 'em. Honey, find\nmy guitar, I think it's out there\nin the garage with that loony tune."
+  },
+  {
+   "type": "location",
+   "text": "INT. GARAGE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl sits on his cot eating from the plate Frank brought him.\nFrank and Linda come through the door. Frank comes and sits\nbeside Karl. Linda gets a guitar case down from a shelf and\ncomes over and stands in front of Karl."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Karl, now listen, there's gonna be\na party tonight here at the house.\nDoyle's invited his music-playin'\nbuddies over to make a bunch of\nracket out on the patio."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "They ain't even no good. The only\none can play is Randy\nHorsefeathers. He claims he's an\nIndian. His real name's Randy\nCollins and he works at the feed\nmill. He can at least play guitar."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "He's no more an Indian than I am\nthough. Anyhow, Doyle's gonna try\nand tease you and be mean to you to\nshow off to his friends. Just like\nhe does to Frank and me sometimes.\nYou just ignore it. Or stay out\nhere away from 'em if he'll let\nyou. He's an okay guy till he gets\ndrunk but tonight he'll get drunk.\nI guarantee it."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "He ain't ever okay to me."
+  },
+  {
+   "type": "stage direction",
+   "text": "The garage door opens and Doyle appears. He seems really\nhappy."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Well, it's on! We're gonna rock.\nLinda, call Vaughan. Tell him to\nget over here. I'd like him to be\nhere. I owe him a good time."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "No Doyle. Vaughan don't want to\ncome to a party with you."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Too late, Honey. Fooled you. Done\ncalled him. He'll be here."
+  },
+  {
+   "type": "stage direction",
+   "text": "(grins)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Or I'll go get him. Come on Karl, I\nneed you to help me ice down a tub\nof beer, you and Frank."
+  },
+  {
+   "type": "location",
+   "text": "INT. BACKYARD - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "White Christmas tree lights are strung above the patio. Karl\nsits to the side in a kitchen chair staring at the ground\nalongside Vaughan, Frank, and Linda. The \"band\" is set up on\nthe patio. The band consists of MORRIS, a heavyset guy in a\nmilitary uniform on tambourine, TERENCE, a skinny guy in a\nwheelchair on bass, RANDY, a long haired younger guy who's\nnot an Indian on guitar, Doyle on a guitar which he can't\nplay and MONTY \"The Johnson \" Johnson, a large guy with a ZZ\nTop beard on drums. A tub of beer is in front of them.\nThey're all hooting and hollering and drinking. They've\nobviously been at it for a while. Doyle steps forward to\naddress the 'crowd.'"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Okay ladies and gentlemen"
+  },
+  {
+   "type": "stage direction",
+   "text": "(points to Vaughan)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "or both. It's come to the time in\nour show when we like to introduce\nthe band. Over here on lead guitar\nMr. Randy Horsefeathers. Come on\nhit a hot lick, Randy."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Randy plays a lick)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Well, come on, y'all are supposed\nto clap now. Come on!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(they clap a little except\nfor Karl)\nANGLE ON LINDA"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Karl, you better clap your hands or\nhe'll just keep on."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl claps his hands a little."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "On the bass, give it up for Terence\n\"One Ball\" Atkins."
+  },
+  {
+   "type": "stage direction",
+   "text": "(more half-assed clapping)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "On the tambourine and lyrics Morris\nHobbs the fuckin' genius of the\ngroup."
+  },
+  {
+   "type": "stage direction",
+   "text": "(claps)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "On drums \"The Johnson.\""
+  },
+  {
+   "type": "stage direction",
+   "text": "(claps)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "And last and most importantly,\nDoyle Hargraves on rhythm guitar\nand business affairs and the only\nmotherfucker with a truck big\nenough to haul this outfit on the\nnext world fuckin' tour. Come on, a\nbig hand for these guys. They're\nworkin' their asses off here."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pauses for a slug of\nbeer)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Okay I'd like to dedicate this next\none to some very special people in\nour audience tonight. To my lovely\nfemale companion Linda, her lovely\nson Frank, our new boarder Karl -\nwhat's your last name Karl?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Childers."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Karl Childers just in from the\nstate facility. Make one of them\ngruntin' sounds Karl or whatever it\nis you do."
+  },
+  {
+   "type": "stage direction",
+   "text": "(nothing)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Oh well, Karl's a little retarded,\nhe don't know what the hell I'm\ntalkin' about. And to Vaughan who\nfucks a mortician in the rear\nentrance right in front of his\nclients. Now that takes balls. Our\nnumber one tune for the folks,\nboys. Kick it off Johnson!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They play \"Walk Don't Run\" while the audience of four sits in\nmotionless silence. They finish the song and hoot and holler\nand drink some more and say nasty things to each other."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "You like that Vaughan?"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Sure. It sounded like a number one\ntune all right."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You enjoying yourself, Karl?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon."
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear the voice of an OLD MAN NEIGHBOR in the near\ndistance."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE (O.S.)",
+   "text": "I wished you all would lay off for\ntonight. I can't hear myself think\nfor that racket. It's nighttime,\nnow let folks be! I'll call the\nlaw!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(hollers back)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "I told you already three times, the\nlaws on my side. I play cards with\nJ.D. Shelnutt, chief' of police.\nGet fucked you old bastard!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to the party)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Okay now, Linda, you and the kid\nclean up and get a tarpaulin over\nthis instruments. Me and the boys\nare goin' to the county line.\nWe're out of liquor and beer. Come\non Karl, you and Vaughan are goin'\nwith us."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "I'd better go on home now, it's\nlate. I have to work tomorrow."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Come on, don't be a pussy.\nEverybody has to work."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "He don't want to Doyle. Don't go\nVaughan if you don't want to.\nYou'll wreck Doyle, you're drunk."
+  },
+  {
+   "type": "stage direction",
+   "text": "(very sincere)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "But honey, I'll be good. I promise.\nI love you sweetie. I'm just tryin'\nto help these two be part of\nthings."
+  },
+  {
+   "type": "location",
+   "text": "INT. DOYLE'S TRUCK - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Doyle is driving, Vaughan in the middle, and Karl by the\nwindow. Doyle cranks up the truck and pops in a cassette\ntape. The first few notes of \"Ghost Riders in the Sky\" play."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Are you sure you can drive? You've\nreally had a lot of alcohol."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Shhhh! This is the national anthem."
+  },
+  {
+   "type": "stage direction",
+   "text": "They take off, tires screaming on the pavement as the song\ngoes louder."
+  },
+  {
+   "type": "location",
+   "text": "EXT. STREET - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "The truck fishtails into the night and we see the rest of the\n\"band\" in the back of the truck trying to control Terence's\nwheelchair as it rolls back and forth."
+  },
+  {
+   "type": "location",
+   "text": "INT. TRUCK - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "(points to tape player)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Not that you afflicted sons of\nbitches would know anything about\nit, but this is art."
+  },
+  {
+   "type": "stage direction",
+   "text": "They are stopped by a red traffic light. A police car pulls\nup beside them and Doyle looks over at the RED-FACED COP on\nthe passenger side and turns down the music."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "Hey Freddy, what's goin' on boy. I\nseen your pitcher in the paper for\ncatchin' that big-ass bass."
+  },
+  {
+   "type": "speech",
+   "character": "FREDDY",
+   "text": "Yeah She was a big 'un. You ain't\ndrunk drivin' are you Doyle?"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "FREDDY",
+   "text": "I figured that. Well you better be\ncareful with that cripple in the\nback. You'll throw him out. Looks\nlike you got a wagonful."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "We run outta somethin' to drink.\nGoin' to the county line. You want\nto race?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(laughing)"
+  },
+  {
+   "type": "speech",
+   "character": "FREDDY",
+   "text": "You know better than that. We're on\nduty. Catch me in that Camaro next\nweek one night."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Catch you later Freddy!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Doyle peels out and the music blares again."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "I bet you like sittin' between two\nmen in a dual wheel truck don't\nyou?"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Oh, yeah, I'm thrilled."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Sarcastic right?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You know the boys in the band are\nprobably gonna stay over tonight.\nWe'd be glad to have you."
+  },
+  {
+   "type": "location",
+   "text": "INT. LIVING ROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Doyle slouches in his chair drinking whiskey from the bottle.\nTerence and Morris are sitting facing Karl and Vaughan who\nare on the sofa. Randy and The Johnson are sitting across the\nroom in straight-backed chairs drinking beer. They really\nstocked up at the county line and beer and liquor bottles are\nstrewn everywhere. Morris is in the middle of a monologue,\nwhich has obviously been going on for awhile."
+  },
+  {
+   "type": "speech",
+   "character": "MORRIS",
+   "text": "Anyhow I'm not sure if you follow\nme on those particular points, but\nit's not really important in the\nsmaller picture, which is where\nmost people dwell anyway. Not that\nbeing manager of Ben's Dollar Store\nis insignificant. Or that making it\nthrough years of incarceration in a\nstate supported facility is any\nsmall feat."
+  },
+  {
+   "type": "speech",
+   "character": "THE JOHNSON",
+   "text": "Morris, he's the only one in the\nband that went to college."
+  },
+  {
+   "type": "speech",
+   "character": "RANDY",
+   "text": "I'm in junior college right now\nover in Westfield."
+  },
+  {
+   "type": "speech",
+   "character": "THE JOHNSON",
+   "text": "That ain't no college, that's trade\nschool. Auto repair ain't ever made\na genius out of nobody."
+  },
+  {
+   "type": "speech",
+   "character": "MORRIS",
+   "text": "Holidays are for campers."
+  },
+  {
+   "type": "speech",
+   "character": "RANDY",
+   "text": "What do you know about bein' a\ngenius, Johnson. You can't even\nhardly keep a steady beat on that\nhigh-price drum set."
+  },
+  {
+   "type": "speech",
+   "character": "TERENCE",
+   "text": "I think y'all play really tight\ntogether, Randy. Y'all shouldn't\nthrow off on one another."
+  },
+  {
+   "type": "speech",
+   "character": "MORRIS",
+   "text": "Anything that has to be discussed\ncan't mean anything."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You got that shit right."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "What exactly do you mean by that? I\ndon't understand."
+  },
+  {
+   "type": "speech",
+   "character": "MORRIS",
+   "text": "Exactly the point, my young\nlevelheaded friend."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "I don't get it."
+  },
+  {
+   "type": "speech",
+   "character": "MORRIS",
+   "text": "I rest my case."
+  },
+  {
+   "type": "speech",
+   "character": "TERENCE",
+   "text": "Morris is real smart with\nphilosophies and things. That's why\nhim and me are the songwriting team\nof our group. I make up good tunes\nor melodies as we call them and\nMorris is the lyrics."
+  },
+  {
+   "type": "speech",
+   "character": "MORRIS",
+   "text": "Not unlike Gary Brooker of the\nProtocol Harum."
+  },
+  {
+   "type": "speech",
+   "character": "RANDY",
+   "text": "We don't ever play any songs that\ny'all wrote. I never even heard one\nof 'em. Y'all just talk."
+  },
+  {
+   "type": "speech",
+   "character": "THE JOHNSON",
+   "text": "We don't even play any songs with\nwords at all that I remember. We\nain't got no fuckin' microphone. Or\nspeaker set up."
+  },
+  {
+   "type": "speech",
+   "character": "TERENCE",
+   "text": "We wrote one last night standin'\noutside Mini-Mart. Morris called it\n\"Stuart Drives a Comfortable Car.\"\nThen, you know, like on country\nsongs in parenthesis it says \"There\nis usually someone in the trunk.\" I\ncame up with a tune just humming."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "See Vaughan, you shouldn't question\na genius. Morris is a modern day\npoet like in the old days."
+  },
+  {
+   "type": "speech",
+   "character": "MORRIS",
+   "text": "Our latest composition is as\nfollows: entitled:\n\"The Thrill\" --\n\"I stand on the hill\nNot for a thrill\nbut for a breath\nof a fresh kill\nNever mind the man\nwho contemplates\ndoing away with license plates\nHe stands alone anyway\nBaking the cookies of discontent\nBy the heat of a laundrymat vent\nLeaving his soul\"\n(Then like in poetry I have dot dot\ndot then drop down to the next line\nkind of off center.)\n\"Leaving his soul parting waters\nUnder the medulla oblongata\nof (then dot dot dot again)\nmankind.\""
+  },
+  {
+   "type": "stage direction",
+   "text": "Silence for a moment as everyone in the room just stares at\nsomething other than Morris."
+  },
+  {
+   "type": "speech",
+   "character": "TERENCE",
+   "text": "I don't think that's right. I\nbelieve dot dot dot come between\nmedulla and oblongata or something\nlike that."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Morris stares at him)"
+  },
+  {
+   "type": "speech",
+   "character": "TERENCE",
+   "text": "Well it did. It wadn't before\nmankind, I know that much."
+  },
+  {
+   "type": "speech",
+   "character": "MORRIS",
+   "text": "The dots are where I say they are.\nMelody and tune. That's your trade.\nYou're a tunesmith Terence."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "I don't really understand the\nmeaning of the words."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "If y'all don't shut up I'm gonna go\nout of my mind. And plus you're\nliable to bust a spring in Karl's\nhead. He's already off balance."
+  },
+  {
+   "type": "speech",
+   "character": "TERENCE",
+   "text": "That wadn't the way you made it up\nbefore, Morris. That's all I know."
+  },
+  {
+   "type": "speech",
+   "character": "RANDY",
+   "text": "We don't need fancy words, we need\nto practice. We don't ever\nrehearse."
+  },
+  {
+   "type": "speech",
+   "character": "THE JOHNSON",
+   "text": "We need some payin' gigs instead of\njust messin' around on first one\npatio and then another'n."
+  },
+  {
+   "type": "speech",
+   "character": "RANDY",
+   "text": "Morris, you should just be the\nmanager, you can't play nothin'\nanyway."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doyle jumps up and throws his whiskey bottle through the\nwindow. He has changed from groggy drunk to a wild-eyed\nmadman in a flash."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "We don't have a goddamn band! Y'all\njust shut the fuck up! We don't\nneed no practicin' or managers\ncause we ain't no fuckin' band!\nMorris ain't no genius and the rest\nof you are just losers. Am I the\nonly one sane human bein' around\nhere? Just get the hell out of my\nhouse and don't come back!"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "It's not your house, Doyle, it's\nLinda's."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "I'll kill you, you fuckin' faggot!\nYou mind your own business. Now get\nout! Now, before I get too mad to\nturn back."
+  },
+  {
+   "type": "speech",
+   "character": "TERENCE",
+   "text": "What about our instruments?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Doyle grabs the handles of Terence's wheelchair and pushes\nhim right out the screen door. We hear the chair clatter down\nthe steps and a cry of pain from Terence."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Now!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They all file out the door except Vaughan and Karl who sit\nfrozen on the sofa."
+  },
+  {
+   "type": "stage direction",
+   "text": "(turning back)"
+  },
+  {
+   "type": "speech",
+   "character": "THE JOHNSON",
+   "text": "You ain't right Doyle. Somethin's\nwrong with you. Nobody needs your\nshit."
+  },
+  {
+   "type": "stage direction",
+   "text": "(stops at the door)"
+  },
+  {
+   "type": "speech",
+   "character": "MORRIS",
+   "text": "The dots just look good on paper.\nYou don't sing 'em anyway. You're\nshowing your true Aries colors now."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Get out of my goddamn face, you\nfuckin' buzzard!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He slams the door and turns to see Vaughan and Karl on the\nsofa and Linda and Frank, in their nightclothes, standing in\nthe doorway."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "I thought I told everybody to get\nout of my house. That includes\ncocksuckers and retards. Get off\nyour asses and go."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "This is not your house, Doyle. This\nis my house and I'll say who stays\nand goes. You've got a house, why\ndon't you go get one of your\ngirlfriends and go home to it."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You know better than to talk like\nthat when I'm hurtin'. Don't make\nme knock the piss out of you."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Doyle, don't you lay one hand on\nher."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "That's funny."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Linda)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You go to bed and take snot nose\nwith you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Linda walks up to him with Frank close behind. Vaughan gets\nup also. Karl stares at the floor rubbing his hands together."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "You're not stayin' here tonight. Go\nget sober before you come back. I'm\ntired of my child seein' this. Now\nyou get yourself straight or I'll\nlock your ass out of my life for\ngood."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You know what I told you, you even\nthink of leavin' me, I'll kill you\ndead as a doornail."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "That might be better than this."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "I'm a witness. I heard you threaten\nher life."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "I thought I told you to keep out!"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Leave."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Don't tell me what to do."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Leave."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Don't tell me what to do."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Leave."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Don't tell me what to do."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Leave."
+  },
+  {
+   "type": "stage direction",
+   "text": "(an inch from her face)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Don't tell me what to do."
+  },
+  {
+   "type": "stage direction",
+   "text": "She shoves him in the chest and he slaps her hard in the\nface. Vaughan starts looking for a weapon and Frank goes\nwild. He starts throwing anything he can find at Doyle. Empty\ncans, bottles, a lampstand.\nHe connects with an encyclopedia to the head. Doyle goes to\nthe door. His face has changed from angry to sad, almost\npitiful."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "Okay, I'll leave and sober up.\nEverything's botherin' me, that's\nall. I'm hurtin' Linda. I love you."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I hate you!"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Well, I hate you, too. No I don't.\nI love your mama. Nobody\nunderstands what I go through. I'll\nleave. You bunch of freaks have\nfun. I'll call you tomorrow honey.\nI'm sorry. You can kiss my ass,\nreally."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Frank)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You ever hit me again you little\nbastard and I'll make you sorry\nyour daddy ever squirted your\nlittle ass out."
+  },
+  {
+   "type": "stage direction",
+   "text": "He leaves and slams the door. Frank goes to Linda's side, as\ndoes Vaughan."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You all right, Mama?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I'm fine, honey. Let's just try and\nforget about tonight."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "We don't need to think bad\nthoughts, do we Mama?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "No, honey, we don't."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I'll make some coffee and start\ncleanin' up this mess. Karl, you\nwant some coffee, huh?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "No, ma'am. Coffee kindly makes me\nnervous when I drink it."
+  },
+  {
+   "type": "stage direction",
+   "text": "DISSOLVE TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. LIVING ROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Linda cleaning up the last of the mess. Frank comes in sleepy\neyed in his pajamas."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "What are you doin' up again, Frank?\nYou need to get a little sleep."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Did Vaughan go home?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Yeah, he has to go to work in a\nlittle while. I do too."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Did Karl go to bed?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I guess. He went to the garage.\nPoor thing, he's probably never\nseen such a crazy mess. He probably\nwants to go back and live in Mr.\nCox's shop."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I bet he don't. Karl likes me."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I know he does."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Mama?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Huh?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Is everything gonna be all right\nsomeday? I just stay nervous all\nthe time just about."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Yeah, honey, someday everything's\ngonna be all right."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Doyle wouldn't really kill you,\nwould he?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I promise we're gonna get away from\nhim. The time has to be right,\nthat's all. I'd rather him get\ntired of me and leave me. Then he\nwouldn't want to hurt me. He\nwouldn't care then. We'll be fine.\nI promise. You go to bed now."
+  },
+  {
+   "type": "stage direction",
+   "text": "(she hugs him)"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I love you."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I love you, too, Mama."
+  },
+  {
+   "type": "stage direction",
+   "text": "He goes to his room."
+  },
+  {
+   "type": "location",
+   "text": "INT. KITCHEN - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Linda goes into the kitchen and pours a cup of coffee and\nsits at the table. After a moment, she looks up and is\nstartled to see Karl in the doorway."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "You scared me."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I didn't aim to."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Want to sit down? Did you need\nsomethin'?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "No ma'am."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl just keeps standing there and Linda keeps staring."
+  },
+  {
+   "type": "speech",
+   "character": "KARL (CONT'D)",
+   "text": "Two fellers was on a bridge a\ntakin' a leak and one feller says\nthe water was cold and the other\nsaid it was deep water. One of 'em\ncame from Arkansas, I believe."
+  },
+  {
+   "type": "stage direction",
+   "text": "(puzzled)"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I'll be dog."
+  },
+  {
+   "type": "stage direction",
+   "text": "More silence."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Do you reckon you can make me some\nbiscuits?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Right now?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Just whenever you take a notion to.\nI don't aim to put you out."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Well, it is nearly breakfast time\nanyway. I can't go to sleep. I have\nto be at work in three hours. You\nknow how it is when you just sleep\nan hour or two, you feel worse than\nif you hadn't slept at all?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes ma'am."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Well, set down and I'll make some\nbiscuits and gravy."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Mustard's good on 'em to me."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Okay."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl sets at the table and Linda starts to make the biscuits."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Thank ye."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "It's all right."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "You know I was thinkin' there's\nthis girl that works with me. She's\nreal heavy, but she's cute in the\nface. Well, you know, she's slow.\nShe's a little bit, I think. She's\nnot retarded, just -- it don't\nmatter, listen to me. I thought you\nmight like to meet her. Vaughan\nwants to have a little supper over\nat his house and we could invite\nher. Would you like that?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I wouldn't mind a havin' supper."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Vaughan's \"friend\" will be there,\ntoo. He works at the funeral home.\nAnd Frank. You know Frank likes you\na lot. He says you make him feel\ncalm."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I like Frank. He's a good boy. Me\nand him's made friends."
+  },
+  {
+   "type": "stage direction",
+   "text": "She keeps working."
+  },
+  {
+   "type": "speech",
+   "character": "KARL (CONT'D)",
+   "text": "Hit ain't right for me to keep from\ntellin' you how come me to be put\nin the state hospital."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "That's okay. It's not really my\nbusiness. I have wondered though.\nWhy was it? Was it like a nervous\nbreakdown?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I killed my mother and a old boy\nname Jesse Dixon. I thought they\nwas a-doin' wrong. I was about your\nboy's age. They say I'm well now\nfrom it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Linda stops working and turns to Karl, a little shocked, but\nnot as much as you would think."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Was that you? I remember that. I\nwas only three or four, but I\nalways heard about it growin' up."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "They say you're well?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes ma'am."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I like your garage."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I wouldn't never hurt you or your\nboy. I'd lay my hand on the Bible\nand say the same thing."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I believe you. I really do."
+  },
+  {
+   "type": "location",
+   "text": "EXT. COVS PARKING LOT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bill Cox is standing beside a garden tiller with an old man.\nBill is trying to crank it up, but it won't start. A car\npulls into the parking lot and Gerry Woolridge gets out of it\nand comes over to Bill."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "How 'bout you, Jerry."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "How are you, Bill?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Doin' pretty good. Got a sick\ntiller here. What's got you down\nthis way?"
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Just thought I'd check on Karl and\nsee if everything's working out."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Well, he's pretty quiet. Except for\nthem rackets and breathin' things\nhe does. Ain't threatened me with a\nkillin' or anything."
+  },
+  {
+   "type": "stage direction",
+   "text": "(laughs)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "But boy you couldn't of been more\nright about him fixin' things. That\nson of a bitch is a regular Eli\nWhitney on a lawnmower. Loves\nfrench fries. Eats four larges and\ndon't even so much as belch. I'm\nproud to have him."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Is him stayin' here workin' out?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "He's gone to stayin' over with that\nWheatley boy and his mama in their\ngarage. I think that little boy\nadopted him damn near like a\nmascot. But he's got a key here to\ncome and go as he pleases.\nEverything's worked out good."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Can I see him?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Sure."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bill looks over at Scooter, who is putting up a sale sign on\nnew mowers in the front window."
+  },
+  {
+   "type": "speech",
+   "character": "BILL (CONT'D)",
+   "text": "Scooter! Run get Karl for me."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PARKING LOT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Woolridge and Karl lean on the hood of Woolridge's car. In\nthe background, Bill and the old man tinker with the tiller."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Are you sure you're okay staying\nwith that woman and boy?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes sir."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Do they know about you?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "My history."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I told 'em about it. They know I'm\nwell. That Mizz Wheatley made me\nsome biscuits."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I'll be."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "That boy, he's my friend. He likes\nthe way I talk and I like the way\nhe talks."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I knew you'd do all right. Well, I\njust wanted to check on you. I'll\nsay bye to Bill and get on back."
+  },
+  {
+   "type": "stage direction",
+   "text": "They walk over to Bill."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Karl, see if you can figure out\nwhat's wrong with this thing. It\nwon't crank up and ever'thing seems\nto be put together right."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl squats beside the tiller."
+  },
+  {
+   "type": "speech",
+   "character": "WOOLRIDGE",
+   "text": "I'll see you, Bill."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Okay, stop back by. Don't worry\nabout your boy here, he's doin'\ngood."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl looks up from the tiller holding the gas cap."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Hit ain't got no gas in it."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "See there. Thinks of the simplest\nthing first."
+  },
+  {
+   "type": "location",
+   "text": "INT. VAUGHAN'S DINING ROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Vaughan, ALBERT the \"friend,\" Linda, Frank, Karl, and\nMELINDA, the Dollar-Store girl, are seated at the table. Karl\nand Frank are going at the delicacies while Melinda shyly\npicks at hers and the others are engaged in idle chit chat.\nThis goes on for a few moments, then Albert's attention turns\nto Karl."
+  },
+  {
+   "type": "speech",
+   "character": "ALBERT",
+   "text": "So Karl, do you intend to stay in\nthe lawnmower business for a while\nor do you have other plans?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "I think Karl is going to be a\nwriter or a librarian eventually.\nYou should see all the books he\nhas. He must read constantly."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I ain't read 'em yet except two or\nthree of 'em. I can't understand a\nlot of what I try to read. My mind,\nhit wonders off to somethin' else\nwhen I try to read."
+  },
+  {
+   "type": "speech",
+   "character": "ALBERT",
+   "text": "I'm the same way. Of course, in my\nline of work, I stay too busy to\nread.\nBut at least I have job security.\nPeople may stop doing a lot of\nthings, but one thing is for sure,\nthey won't stop dying."
+  },
+  {
+   "type": "stage direction",
+   "text": "(looks at Frank)"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Why don't we talk about something a\nlittle more festive."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Does everyone like the food?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Nods and yeses."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN (CONT'D)",
+   "text": "Good. I haven't decided yet if I'm\na good cook."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Hey Karl, you know what? Melinda\nwas voted employee of the month at\nthe Dollar Store last February.\nIsn't that somethin'?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes ma'am, I reckon."
+  },
+  {
+   "type": "speech",
+   "character": "MELINDA",
+   "text": "Well, when you like pricing items\nas much as I do, I guess it's just\nbound to happen sooner or later."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Karl, maybe you and Melinda might\nwant to take a walk or something\nafter dinner. It's a nice night."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Vaughan, don't get pushy."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "I'm sorry."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I like walkin' quite a bit from\ntime to time."
+  },
+  {
+   "type": "speech",
+   "character": "MELINDA",
+   "text": "I stay on my feet all the time at\nwork. I just can't find shoes\nthat's comfortable."
+  },
+  {
+   "type": "speech",
+   "character": "ALBERT",
+   "text": "Hospital shoes might be the answer.\nNurses' shoes."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Or the kind old ladies who work in\nthe school cafeteria wear."
+  },
+  {
+   "type": "speech",
+   "character": "ALBERT",
+   "text": "Same difference."
+  },
+  {
+   "type": "speech",
+   "character": "MELINDA",
+   "text": "I get real mean when my feet hurt.\nIt's the only time I don't like\ncheckin' out the customers, when my\nfeet hurt."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Frank, you and Karl aren't talkin'\nmuch, you boys must really like\nthat food."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I just don't have anything to say\nabout shoes."
+  },
+  {
+   "type": "stage direction",
+   "text": "Silence for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Listen everybody, I know this may\nsound corny, I've had a few glasses\nof wine and that kind of makes me a\nlittle emotional, but I'm going to\nsay it anyway. It just came over me\nin a rush. I want you all to know\nthat I care about each and every\none of you at this table."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "That's very sweet of you Vaughan.\nWe care about you, too. Don't we\ny'all?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Nods, grunts, \"Sure do's.\""
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Also, Melinda, please don't tell\nanybody at the store that Albert\nwas here tonight, okay."
+  },
+  {
+   "type": "speech",
+   "character": "MELINDA",
+   "text": "Why?"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Well, a lot of people in town talk\nand spread cruel rumors.\nUnfortunately, I have to keep\ncertain parts of my life private."
+  },
+  {
+   "type": "speech",
+   "character": "MELINDA",
+   "text": "You mean about y'all bein' together\nin \"that\" way?"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "MELINDA",
+   "text": "I think everybody at the store\nknows that already. They always\ntalk about it. Maureen Ledbetter\ntold a awful story about why you\nain't allowed over at the First\nBaptist Church no more."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Karl, why don't you and Melinda go\ntake a walk. It's nice out."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "All right then."
+  },
+  {
+   "type": "stage direction",
+   "text": "He gets up and walks toward the front door. Melinda gets up\nand tries to catch up."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SIDEWALK - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl and Melinda are walking in the moonlight. It seems a\nlittle hard for Melinda to keep up."
+  },
+  {
+   "type": "speech",
+   "character": "MELINDA",
+   "text": "You walk fast, don't you?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon."
+  },
+  {
+   "type": "stage direction",
+   "text": "They walk a little farther in silence."
+  },
+  {
+   "type": "speech",
+   "character": "MELINDA",
+   "text": "These is the worst shoes I own for\nwalkin'. How far did you want to\ngo?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I ain't really thought about it too\nmuch I don't reckon."
+  },
+  {
+   "type": "stage direction",
+   "text": "They walk until they disappear into the darkness."
+  },
+  {
+   "type": "location",
+   "text": "INT. COX'S SHOP - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl is on the floor working on a mower with Scooter, they\nare ad libbing semi-technical lawnmower things. Bill Cox\nappears in the door."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Hey Karl, they's somebody out here\nto see you. Some gal holding a nice\nbouquet."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Karl doesn't move)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Come on now, she wants to talk to\nyou. Don't just set there."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl gets up and goes to the counter followed by Scooter.\nMelinda stands on the other side of the counter holding a\ncellophane wrapped store-bought flower assortment. Nobody\nsays anything for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "MELINDA",
+   "text": "Hi, Karl, I'm on lunch break. These\nwas on sale 'cause they're not\nfresh. Two ninety-nine a bunch plus\nmy ten percent employee discount.\nSince I didn't bring you anything\nto our date last night, I thought\nyou'd like to have 'em."
+  },
+  {
+   "type": "stage direction",
+   "text": "She hands them to him."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Thank ye."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Scooter, let's me and you go over\nto Dairy Queen and pick up a few\nthings for lunchtime."
+  },
+  {
+   "type": "speech",
+   "character": "SCOOTER",
+   "text": "I can go. You don't have to. You\ndon't never go."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Goddamnit, Scooter, come on. Pardon\nmy language, ma'am."
+  },
+  {
+   "type": "stage direction",
+   "text": "They start to leave. At the door, Bill Cox turns and winks at\nKarl. They exit leaving Karl and Melinda staring at the\ncounter. They are silent for a while."
+  },
+  {
+   "type": "speech",
+   "character": "MELINDA",
+   "text": "Well, I just thought I'd give you\nthem. I liked walkin' with you. I\ngot a blister the size of a quarter\non one heel. Well, I'll see you\nsometime, I guess."
+  },
+  {
+   "type": "stage direction",
+   "text": "She walks to the door and stops as if she expects Karl to say\nsomething."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "A blister shore can hurt."
+  },
+  {
+   "type": "speech",
+   "character": "MELINDA",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Flowers is pretty. I've always\nthought that."
+  },
+  {
+   "type": "speech",
+   "character": "MELINDA",
+   "text": "Me, too."
+  },
+  {
+   "type": "stage direction",
+   "text": "She leaves and Karl goes to the window holding the flowers\nand watches her walk away."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SIDEWALK - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Holding the flowers, Karl is walking down the sidewalk toward\nthe Wheatley house when he sees Frank coming out the front\ndoor with a book and a flashlight. He sees Karl."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Hey Karl, you off work?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Where'd you get them flowers?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "That gal that made employee of the\nmonth give 'em to me for awalkin'\nwith her."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I was goin' to the secret place. I\nborried one of your books to take\ndown there. You ain't mad, are you?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Naw. You can look at all my books\nyou want to."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "It's name's A Christmas Carol."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "That's than un on Christmas I was\ntellin' you about."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You want to go with me?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yeah."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SECRET PLACE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl and Frank sit in the clearing, Karl on the stump, Frank\non the ground. Frank is shining the flashlight on the book.\nHe finishes reading a few lines and turns off the flashlight."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I'm gettin' tired of readin' for a\nwhile."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "All right then."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Boy, folks sure had it rough back a\nlong time ago, didn't they?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yeah, I reckon they did. Hit like\nto tore me up when I read about\nthat pore little cripple boy."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Yeah, me too."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "That was nice of that woman to give\nyou them flowers."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Hit was right thoughty of her."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I was wantin' to ask you somethin'."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "All right then."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You know that girl I told you\nabout. The one I love."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yeah, I recollect it."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Would you go see her with me? I\nkind of thought I might take her\nsome flowers like that woman done\nyou."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "If you want me to."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I ain't got no money to get 'em\nwith but I bet Vaughan will let me\nhave some of them flowers at the\nstore."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I bet he will. I got a little money\nif he don't. I'll get 'em for ye."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I usually get run off by her mama\nor daddy if they're home. Reckon\nwhy they don't like me?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "They ort to. You're a good boy."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Just 'cause I'm not rich don't mean\nI don't love her."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Naw."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "And I don't try to touch her. You\nknow, in a bad way. Foolin' around,\nsex and all."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "That's real good. You ort not to if\nye ain't married to somebody. Bible\ntells you that much. Hit tells some\nthings that don't seem right too, I\nreckon. I guess a feller ort to\nfoller it close as he can, though."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You don't touch yourself, do you?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "What do you mean?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Pull on your works. Your privates."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Oh, jackin' off?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes sir. You ort not know that\nlanguage."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I didn't know till here while back\na year or two ago when I spent the\nnight with Ronnie Smart one time.\nHe said just tug on your peter and\nthink about your mama. I tried it,\nbut I felt funny thinkin' about my\nmama. So, I switched over to\nthinkin' about his mama and then\nwhat he told me would happen,\nhappened. It sure tingles, don't\nit?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You ort not to pull on yourself\nthat away."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I kind of like you tellin' me what\nto do and not to do. Just like my\ndaddy. I didn't mind him tellin'\nme. I hate Doyle to tell me what to\ndo. Mama said the only way to ever\nget away from him is for him to get\naway from us. That we can't leave\nhim or he'll try and hurt her."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "He ain't no count."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You don't seem like a daddy. You\nseem like a brother."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Wonder what makes you like somebody\nright off when you don't even know\n'em like what happened with me and\nyou."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I don't reckon I know."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "And then some people you don't like\nright off. It's funny."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You know why I want you to play\nball with me?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Naw."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "'Cause it's fun. It don't matter if\nyou ain't no good. It takes your\nmind off of everything else while\nyou're doin' it. When you run real\nfast tryin' to make a touchdown you\ndon't think about anything else. I\nain't no good, but my daddy always\nsaid he was proud of me when I\nthrew a ball or ran with it. Did\nyou have any brothers and sisters\ngrowin' up to play with?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I had one there for little bit. Hit\ndidn't get old enough to play with."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Why not? It died?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Why?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Hit was borned a little too early\non. My mother and father made hit\ncome too early some way or other. I\nreckon they changed their mind\nabout havin' another'n. I was about\nsix or eight year old then and they\ndidn't care too much for me so I\nreckon they didn't need somethin'\nelse to worry 'em with."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "So it died when it come out?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "My daddy come to the shed out back\nand got me and said throw this here\naway and handed me a towel with\nsomethin' in it. I went for the\ntrash barrel there and opened up\nthe towel to see 'cause they was a\nnoise and somethin' movin' in it.\nHit was bloody-like around that\ntowel. Hit was a little ol' bitty\nbaby, no bigger than a squirrel."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "It was alive?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes sir. Right then it was."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "A boy or girl?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "A little ol' boy."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You threw it in a trash barrel?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I didn't feel right about doin'\nthat. I takened a shoe box from\nthere in the shed and emptied out\nsome screwdrivers and nuts and\nwarshers from it and put the little\nfeller in that and buried him in\nthe corner of the yard there. That\nseemed more proper to me, I reckon."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "It was still alive when you buried\nit?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I heared it cryin' a little through\nthat box."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "That don't seem right. It seems\nlike you should have kept him alive\nand took care of him if he was your\nbrother."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I wadn't but six or eight. I reckon\nI didn't know what to do. I didn't\nknow how to care for no baby. Mama\nand Daddy didn't want him. They\nlearned me to do what they told me\nto. These days I figure it might of\nbeen best to give him right back to\nthe Good Lord right off the bat\nanyhow."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "That makes me feel real sad.\nCouldn't you have done somethin',\nKarl? I would have. I wish I would\nof had him. He'd be here right now.\nLivin'."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Hits been hard thinkin' about it.\nThey ain't a day goes by I don't\nthink about it. I kindly have a\npicture of it up in my head that I\nsee. Hit makes me sad, too. I have\nbad thoughts on it. I wished they\nwas somethin' I could of did, too.\nShouldn't no bad things happen to\nchildern. All the ol' bad things\nort to be saved up for folks that's\ngrowed up, the way I see it. I\nshouldn't of told you about that. A\nboy ort not hear about such things.\nIt just kindly come out."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I didn't mean to say anything bad\nabout you. I know you're good. You\ndidn't mean no harm."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Did you ever think about killin'\nyourself on purpose like my daddy\ndid?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I've studied about it. The Bible\nsays not to or you end up goin' to\nHades. Some folks calls it Hell, I\ncall it Hades."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Bible says the same thing about\nkillin' others, too."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes sir, I reckon it does."
+  },
+  {
+   "type": "location",
+   "text": "EXT. RESIDENTIAL NEIGHBORHOOD - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Frank, flowers in hand, and Karl approach a very nice two\nstory house. They get to the door and Frank rings the\ndoorbell."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I always get nervous when I hear\nthat doorbell. I'm okay just\nwalkin' over, but somethin' about\nthat dang doorbell. They have one\nroom where you can't walk on the\ncarpet or sit on the furniture. I\ndon't see much sense in havin' it."
+  },
+  {
+   "type": "stage direction",
+   "text": "The door opens and we see an older black lady, the\nHOUSEKEEPER."
+  },
+  {
+   "type": "stage direction",
+   "text": "(eyes Karl)"
+  },
+  {
+   "type": "speech",
+   "character": "HOUSEKEEPER",
+   "text": "Son, I don't know why you keep\ncomin' over here. You know these\nfolks don't want you here. They run\nyou off ever' time. Don't keep\ndoin' this to yourself. You a sweet\nboy. Now go give them flowers to\nsomebody that'll enjoy 'em."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Ma'am, I really want to give them\nto Karen."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Karl)"
+  },
+  {
+   "type": "speech",
+   "character": "HOUSEKEEPER",
+   "text": "You his daddy?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "No ma'am."
+  },
+  {
+   "type": "speech",
+   "character": "HOUSEKEEPER",
+   "text": "Well, whoever you are, you ought to\ntalk some sense into him. That\nlittle old girl is way too fast for\nhim and don't wanna see him no way."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Will you get her for me. Please. I\nreally want to see her.\nShe'll want to see me, too, 'cause\nwe're not in public. Just don't\ntell her folks I'm here."
+  },
+  {
+   "type": "stage direction",
+   "text": "(sighs)"
+  },
+  {
+   "type": "speech",
+   "character": "HOUSEKEEPER",
+   "text": "Okay."
+  },
+  {
+   "type": "stage direction",
+   "text": "She disappears and a moment later KAREN appears. She's\nthirteen, pretty and very neatly dressed."
+  },
+  {
+   "type": "stage direction",
+   "text": "(put out)"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Hey Frank. You shouldn't be coming\nover here. My parents really don't\nwant you to."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I wanted to bring you some flowers.\nThey're pretty good ones."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "They're from the Dollar Store. I'm\nnot an idiot. Besides we have a\ngarden full of flowers."
+  },
+  {
+   "type": "stage direction",
+   "text": "She eyes Karl."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I wanted for you to meet Karl, too.\nHe's my new friend. But I feel like\nI've always known him. I thought\nyou should meet him."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Why? Hi, Karl."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "He's gonna be around a lot and I\nhope you are too, so..."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Here give me the flowers, I'll do\nsomething with them. Thank you. Now\nyou better go. Maybe I'll see you\ndown at the secret place one day in\na week or two or something. I have\na boyfriend now you know. And we're\npretty serious. He gave me a ring."
+  },
+  {
+   "type": "stage direction",
+   "text": "She proudly displays the ring."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Can you go there with us now? Me\nand Karl. We could just hang out.\nKarl has some cool books."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Frank, I just like you as a friend.\nOnly at the secret place. Okay? I\ncan't go there now. I'll see you\nlater."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "But maybe just for awhile --"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I'm closing the door now. I told\nyou, I'll see you later."
+  },
+  {
+   "type": "stage direction",
+   "text": "She closes the door. They stand therefor a moment, then walk\naway down the sidewalk."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "She said she'd see me later. That's\nkinda good, right?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon."
+  },
+  {
+   "type": "location",
+   "text": "EXT. WHEATLEY HOUSE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Frank and Karl walk up the steps to the house. Frank opens\nthe door and they enter."
+  },
+  {
+   "type": "location",
+   "text": "INT. HOUSE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "As Frank and Karl enter, they see Doyle sitting on a\nfootstool facing Linda who's in a chair. Doyle is holding\nboth her hands and talking very softly to her. He sees the\nguys and looks up."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Well, I'll be damned, there's the\nboys. I'm glad y'all came in. I\nwanted to talk to y'all, too. I was\njust tellin' Linda here -- Oh hell,\nI'll just start over, set down you\nboys."
+  },
+  {
+   "type": "stage direction",
+   "text": "They do, on the couch."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "Well, what it is is, I just, well I\ntook off work early today and your\nmama was good enough to do the same\nso we could talk. I guess you'd say\nI'm really here to apologize, which\nain't easy for me to do, about the\nway I acted the other night. I was\njust drunk and kinda got a little\ntoo worked up and one thing led to\nanother. I care about y'all a lot,\nI do. I don't mean to be so damned,\nassholish I guess the word would\nbe. Now Karl, I don't believe I hit\nyou, did I? So no apology needed\nthere I guess, but Frank, I'm\nsorry. I'm sorry I hit your mama.\nI'm just jealous of her. I don't\nlike her life or the way she runs\nit. I don't like homosexuals and\nshe buddies with one. I don't like\nlittle wimpy ass kids or fuckin'\nmental retards and she's got one of\neach livin' with her."
+  },
+  {
+   "type": "stage direction",
+   "text": "(laughs)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "I was just kiddin'. But really I\nguess people need to get along even\nif they have differences."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "You see, I work construction. I\nbuild things. Do you realize how\nimportant that is to the world. I\nhave a lot of pressure on me. The\nupshot is, I'm gonna spend a lot\nmore time over here and we're gonna\nget along. Like a family should."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Linda)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "I may even surprise you one day and\npop the question."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he gets up)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "Well, I'm goin' back to work. I\njust wanted to give y'all some\nlittle piece of happiness today."
+  },
+  {
+   "type": "stage direction",
+   "text": "(kisses Linda)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "See you tonight honey. Karl. Be a\ngood boy, Frank."
+  },
+  {
+   "type": "stage direction",
+   "text": "He leaves."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Well, at least he's tryin'. But who\nknows for how long."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "He's lyin' Mama. He ain't gonna do\nbetter."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I know honey. Just remember what I\nsaid, we'll bide our time. You just\nsteer clear of him as much as you\ncan. Doyle's had a real hard life.\nIt's just about run him crazy I\nthink."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "We've had a real hard life, too,\nMama."
+  },
+  {
+   "type": "stage direction",
+   "text": "Linda moves to the couch and puts her arms around Frank."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "You're a hell of a boy, Frank.\nSomeday you're gonna get all the\ngood things you deserve. And Karl\nhere's gonna get some more biscuits\ntonight. What do you think about\nthat?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I could shore use some. Thank ye."
+  },
+  {
+   "type": "location",
+   "text": "INT. SHOP - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl is cleaning some parts in a bucket of gasoline. Bill\ncomes to the door."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Hey there Karl, can you come unload\na generator for me?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl wipes his hands on a shop towel and starts outside."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PARKING LOT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "A MAN and a TEENAGE BOY stand by a pickup truck. A small\ngenerator is on the tailgate."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Karl, lift this thing down and\ncarry it to the back. It's on the\nblink."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to man as Karl unloads\nit)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "We'll have it for you in a day or\ntwo, Walter."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Y'ont us to he'p you there liftin'\nthat?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Oh no, that dang Karl can lift a\nbulldozier. Fix anything, too."
+  },
+  {
+   "type": "stage direction",
+   "text": "(confidentially)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "He's mentally retarded, but he's a\nwhiz on small engines. Lord works\nin mysterious ways."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl carries the generator toward the shop. He turns and\nwatches the man and boy talking and laughing with Bill. The\nman playfully puts an arm around his son's neck and tousles\nhis hair."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Hell, he didn't just make the team,\nCoach says he's probably gonna\nstart at end on defense. He's a\nchip off the old block. Ain't you,\nSteve?"
+  },
+  {
+   "type": "speech",
+   "character": "STEVE",
+   "text": "I guess so."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl turns and goes in the shop."
+  },
+  {
+   "type": "location",
+   "text": "INT. WHEATLEY GARAGE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl is on his cot reading a book. Frank comes in. He looks\nvery depressed. He sits beside Karl."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "What you readin'?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Readin' on this book on how to work\ncarpentry. I aim to learn how to\nbuild things out of wood one of\nthese times. I've always been\npartial to wood buildin's and\ncabinets and whatnot. These\ndrawin's they got here don't make\nno sense to me so far."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he looks directly at\nFrank, which he seldom\ndoes)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You seem like yore tails a'draggin'\na might. You got somethin' wrong\nwith ye?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Seems like Doyle's wormed his way\nback in. Mama said he's stayin'\nover tonight and he's talkin' about\nmovin' in for good. We ain't ever\ngonna be happy. We'll always be\nnervous, won't we Karl?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I don't reckon I know. I ain't\nfound no way yet and I'm three or\nfour times as old as you. Might be\nthat's just the way folks is."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I feel sad about Karen Cross, too.\nI just make like to myself she\nloves me. I know better, though. It\njust feels good to me when I\nimagine it."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Make believin' always made me feel\ngood too from time to time."
+  },
+  {
+   "type": "stage direction",
+   "text": "They sit in silence for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "KARL (CONT'D)",
+   "text": "Bill Cox is goin' to a funeral for\na Mister Turner tomorrow and a\nclosin' up shop early."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Is that right?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I'll play ball with ye. I reckon if\nneither one of us is no count it\nwon't make no difference."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You will? For sure?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "We'll be on teams, me and you?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yessir."
+  },
+  {
+   "type": "location",
+   "text": "EXT. JUNIOR HIGH FOOTBALL FIELD - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "It's the practice field, so it's not very well kept. Karl,\nFrank, and two other boys around Frank's age are huddled up.\nFour boys are lined on defense. They break the huddle and\ncome to the line. They are on about the fifty-yard line.\nFrank hikes the ball to one of the boys. He later als it to\nKarl who stands there for a minute as the defenders run\ntoward him. Then he takes off like the wind. He runs funny,\nkind of humped over and pigeon-toed, but fast. All the others\nare chasing him. Two of the other team's boys catch him on\nabout the fifteen-yard line, but he drags them along. Karl\nsees Frank out of the corner of his eye and tosses him the\nball just as Karl bites the dirt. Frank goes into the end\nzone untouched. There are cheers from Frank and the other\nboys. Frank runs over to Karl who's still on the ground."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Way to go, Karl. We got a\ntouchdown. That was a good lateral,\nman. That was just like the\nWishbone."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I dern near had me a touchdown till\nthem boys got a-hold of me there so\nI figured I better give it off to\nyou. I seen you over there\nfollerin' me."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "We're liable to win if we keep this\nup. For somebody like you, you sure\nrun fast."
+  },
+  {
+   "type": "stage direction",
+   "text": "He grabs Karl by the hands and helps pull him up."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (CONT'D)",
+   "text": "Come on, let's kick off to 'em."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SIDEWALK - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl and Frank, dirt, grass stains and all, walk toward home."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I know you could of scored them\nthree touchdowns by yourself\ninstead of throwing 'em over to me."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Them boys was tryin' to pull me\ndown pretty hard."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You're strong though. You let me\nmake them touchdowns so I'd feel\ngood. My daddy used to do that kind\nof thing."
+  },
+  {
+   "type": "stage direction",
+   "text": "They walk in silence for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (CONT'D)",
+   "text": "It don't matter to me about us\nlosin' does it to you?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "No sir."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "It was fun, anyhow."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I wadn't thinkin' about nothin'\nelse just like you told me I'd do."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Can we play ever' Saturday?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "If I ain't too stove up. I ain't\nlike you. I'm old and give out."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I'm proud of ye."
+  },
+  {
+   "type": "location",
+   "text": "INT. GARAGE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl sits on his bed rubbing his hands together, deep in\nthought."
+  },
+  {
+   "type": "location",
+   "text": "EXT. STREET - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl is walking down the street past rundown houses. He comes\nto an old gray woodframe house. It is in bad repair, the\npaint is peeling, the yard is grown up. There is an old\nwooden shed in the back yard. He stands looking at it for a\nmoment then walks through the yard and opens the door to the\nshed. He's motionless for a moment, then goes inside."
+  },
+  {
+   "type": "location",
+   "text": "INT. SHED - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sunlight comes through the cracks in the wood. The shed has\nnothing but dirt for a floor. A few tall patches of grass\nshoot up between boxes and rusty lawnmowers. A few old garden\ntools hang on the wall. In the center is a low circular spot\nin the ground and a few tattered shreds of an old quilt.\nKarl stands looking at the hole for a moment, then turns and\nwalks out of the shed."
+  },
+  {
+   "type": "location",
+   "text": "EXT. YARD - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl walks across the yard to the house."
+  },
+  {
+   "type": "location",
+   "text": "INT. SCREENED-IN PORCH - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl goes onto the screened-in porch, looks through the\nkitchen window and goes inside."
+  },
+  {
+   "type": "location",
+   "text": "INT. KITCHEN - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The place is a mess. Dirty dishes are piled in the sink and\non the table. It's not just clutter, but filth everywhere."
+  },
+  {
+   "type": "location",
+   "text": "INT. LIVING ROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl walks into an equally filthy living room where an OLD\nMAN in overalls sits slumped in a chair looking at his lap.\nKarl stands facing him for several moments."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I'm ye boy."
+  },
+  {
+   "type": "speech",
+   "character": "OLD MAN",
+   "text": "I ain't got no boy."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I'm ye oldest boy name Karl."
+  },
+  {
+   "type": "speech",
+   "character": "OLD MAN",
+   "text": "I ain't got no boy."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "They turned me aloose from the\nnervous hospital. Said I was well."
+  },
+  {
+   "type": "stage direction",
+   "text": "No response."
+  },
+  {
+   "type": "speech",
+   "character": "KARL (CONT'D)",
+   "text": "I got hired to work for a Mr. Cox\nfixin' lawnmowers and whatnot."
+  },
+  {
+   "type": "stage direction",
+   "text": "No response."
+  },
+  {
+   "type": "speech",
+   "character": "KARL (CONT'D)",
+   "text": "That grass out in the yard's all\ngrowed up. I figured I might cut it\nfer ye."
+  },
+  {
+   "type": "speech",
+   "character": "OLD MAN",
+   "text": "I told you, I ain't got no boy, now\nget on out from here and let me be."
+  },
+  {
+   "type": "stage direction",
+   "text": "Long silence."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I learned to read some. I've read\non the Bible quite a bit. I don't\nunderstand all of it, but I believe\nI understand a good deal of it.\nThem stories Mama and you told me\nain't in there. You ort not to of\ndone that to ye boy."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I've studied on killin' you. But I\ndon't reckon they's no reason fer\nit if all you're gonna do is set\nthere in that chair. You'll be dead\nsoon enough I reckon and the\nworld'll be shut of ye."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Karl walks toward the\nkitchen and turns back to\nthe old man)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You ort not to of killed my\nbrother. He ort to have had a\nchance to grow up. Sometimes he\nwould of had fun."
+  },
+  {
+   "type": "location",
+   "text": "EXT. YARD"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl walks out of the house and across the yard to a hedge in\nthe corner and kneels down. He pushes some grass aside to\nreveal a rock about afoot tall and afoot across. In front of\nit, the ground is raised a little. He stares at the rock for\na moment and touches it."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Little feller."
+  },
+  {
+   "type": "location",
+   "text": "EXT. A LARGE OLD WOODEN SLAT BRIDGE - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl stands on the side of the bridge looking into the river\nbelow."
+  },
+  {
+   "type": "location",
+   "text": "INT. WHEATLEY HOUSE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "All the lights are out. We see a shot of Frank in his bed\nasleep, but tossing and turning. Then a shot of Linda in bed\nstaring at the ceiling and Doyle beside her snoring.\nSuddenly, the lights come on and Linda lets out a little yelp\nand sits up, which wakes up Doyle and he sits up with a\nstart. From their P.O.V. we see Karl standing in the door\nholding a hammer."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "What in the goddamn hell are you\ndoin'? It's the middle of the\nnight."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "What do you want, hun?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I want to be baptized."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Baptized? Well, get baptized then.\nI don't give a shit. Call a fuckin'\npreacher, goddamnit! I can't\nbaptize you."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "We'll go to church and get you\nbaptized, tomorrow's Sunday. You go\non back to bed."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "What are you doin' with that damn\nhammer?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I don't rightly know. I just kindly\nwoke up a-holdin' it."
+  },
+  {
+   "type": "location",
+   "text": "INT. CHURCH - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "We see a shot of Frank and Linda and Vaughan in a church pew.\nThe church is pretty full. From their P.O.V. we seek Karl in\na robe standing in the baptismal tank. The preacher takes\nKarl and dunks him under the water and brings him back up."
+  },
+  {
+   "type": "location",
+   "text": "INT. WHEATLEY LIVING ROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Doyle is in his favorite chair as Linda, Frank, and Karl come\nthrough the front door."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "How'd your baptizin' go?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "It went real good."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Well, that's good. It's about time\nto eat and you know what I'm\ncravin'? Some of that take out\nchicken. Why don't you run get some\nof it, honey, for lunch?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Frank and Karl)"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Would y'all like that?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Yeah, I guess."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes ma'am. I like a fried chicken\nleg."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "All right, y'all gonna go with me?"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Naw, hell, let them stay here with\nme and do men things. There might\nbe some kind of ball game on we can\nwatch. You go on."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "I'll be back in a little bit then."
+  },
+  {
+   "type": "stage direction",
+   "text": "She leaves and Doyle walks up to Karl and Frank."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "I really just wanted to git your\nmama out of the house for a minute\nso we can have a talk. Y'all set\ndown."
+  },
+  {
+   "type": "stage direction",
+   "text": "They sit on the couch and Doyle kneels in front of them."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Now here's the deal. Now that I'm\ngonna throw my entire life away\ndoin' what I want to come live here\nwith y'all, we have to get a few\nthings straight. See, Frank, me and\nyou mama wouldn't have any problems\nif it wadn't for you. We'd never\nhave a bad word between us. But\nsince you do exist, if I'm gonna be\nhere as the head of the household,\nwe'll have to live by my rules.\nAnd my rules are you don't speak\nunless you're spoken to. Stay out\nof my way and do what a regular kid\ndoes. You're a weird little shit. I\ndon't get you. So wake up. Face\nwhat they call reality. We're gonna\nbe a family now. And it's my\nfamily. I'll be payin' the bills so\nyou got me. But I ain't your daddy.\nYou just treat me like I am. I'm\nthe boss, okay. And the other thing\nis your friend Karl has to go. We\ncan't have a normal family with him\nlivin' in the garage and comin' in\nthe bedroom at four in the mornin'\nwith hammers and shit. See?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Karl can stay if he wants to. Mama\nsaid --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Doyle slaps him across the face and Karl grabs Doyle's arm.\nDoyle shakes him off."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Don't hit that boy no more."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "You shut up you, fuckin' retard.\nGet your shit and get out of here."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Frank)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "That was a wake-up slap, Frank.\nRemember. Reality, like I said.\nDon't forget any bit of what I said\nto you and we'll be fine."
+  },
+  {
+   "type": "stage direction",
+   "text": "Frank jumps up and runs from the house and Doyle sits back in\nhis chair and pops a beer. Karl gets up and goes to the\ngarage."
+  },
+  {
+   "type": "location",
+   "text": "INT. GARAGE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl ties his books up with his strap and gets a bag from his\nbed and leaves."
+  },
+  {
+   "type": "location",
+   "text": "EXT. DRIVEWAY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl is walking away as Linda pulls up in her car and gets\nout with fast-food bags."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Where are you goin', Karl? Didn't\nyou want some chicken and things?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "No ma'am. I'm a'goin' off sommers."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Well, okay. I got you some."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Frank, he went off, too. He ain't\ngonna be in there when you get\nindoors."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Where'd he go? What's goin' on?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "He wanted to go off and play, I\nreckon."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You go in there and you and that\nDoyle eat ye dinner. You don't have\nto worry yourself none."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "All right then. Well, I'll see you\nlater. If you see Frank, tell him\nto come on back home. I don't get\nto see him all day except Sundays.\nHe can play tomorrow."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Ma'am?"
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You're a good mama to that boy. You\ncare for him. You work hard fer him\nto take care of him. You light him\nup in his eyes, I've seen it. He\nwouldn't know what to do without\nye."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "Well thank you, hun. That's real\ngood of you to say. I wouldn't know\nwhat to do without him either."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You've been real good to me, too.\nIt ain't ever'body that'd make\nbiscuits in the middle of the\nnight. You and that boy has give me\na good feelin'."
+  },
+  {
+   "type": "speech",
+   "character": "LINDA",
+   "text": "We sure like havin' you."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Thank ye."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Karl walks away, then\nturns)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I'm just getting around to tellin'\nyou, but I fixed your warshin'\nmachine."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SECRET PLACE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Frank is on the ground digging a trench in the dirt with a\nstick. He hears footsteps in the leaves and looks up and sees\nKarl coming toward him."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Hey, Karl. How'd you know to come\nout here?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I knowed you'd be here."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Karl sits on the stump)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "What are you a-doin' digging with\nthat stob?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Just diggin'."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I ain't ever gonna be happy now.\nNot with that son of a bitch movin'\nin for good. I wish me and you and\nMama could just run away. But she\nsaid he would find us wherever we\nwent. He's crazy. Sometimes I think\nit would of been better if I wadn't\never born."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I'm glad of it you was borned."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I reckon I ain't gonna be there in\nthe garage no more."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You have to Karl. You have to look\nout for me. You don't let that son\nof a bitch run you off."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You're just a boy. You ort not to\nuse that sort of language."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Karl, I ain't tryin' to say nothin'\nbad about you, but why don't you\nstop Doyle when he gets that away?\nYou're older than him. You're\nstrong, too. My daddy wouldn't let\nhim do that to me and Mama."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "That feller's a whole sight meaner\nthan me. He'd just whup the tar out\nof me."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Yeah, I guess so. I'm real tired,\nyou know that. A kid my age\nshouldn't be tired of things."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I'm tired, too, Frank."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "If I ain't around no more, it don't\nmean I don't care fer ye. I care\nfor ye a good deal. I care for you\nmore than anybody they is. We made\nfriends right off the bat."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I care for you, too. But you'll be\naround, don't say that."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Hit don't make no difference where\nI was to be. We'll always be\nfriends. There ain't no way to stop\nthat."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I aim for you to have these books."
+  },
+  {
+   "type": "stage direction",
+   "text": "He hands him the books."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Maybe you can make more sense out\nof them than I can.\nI made you a little old book marker\nand stuck it in that book on\nChristmas."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You don't want to give away all\nyour books."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I aim fer you to have 'em."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Man. Thanks."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You know when you get a feelin' and\nyou don't know why?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes sir."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I've got a feelin' today."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Reckon what kind of a feelin'?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Like something different. I don't\nknow."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You're leavin' ain't you, Karl?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Will ye do somethin' for me if I\nast you to?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You know I would. Whatever you\nwant."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Don't go home tonight and stay with\nthat Doyle. He's got it in for ye\ntonight. I got me a feelin', too.\nFeels like to me you ort not be\nthere in that house with him\nliquored up and mean. Ye mama\nneither. When you get up from here,\nI want you to go to that feller's\nhouse. Your mama's friend. I want\nyou to give me your word on it."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Okay. I give you my word. Is\never'thing gonna be okay? Are you\nall right?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Ever'thing's okay, boy. I kindly\nwant to put my arm around ye for a\nminute and then I'm gonna go on and\nleave here."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Okay."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl lays his arm on Frank's shoulder and Frank puts his hand\non Karl's arm. They sit like that for a few moments, then\nKarl gets up with his paper sack and walks away. Frank takes\nthe book marker out of the Christmas book. It is just a\nfolded piece of notebook paper. On it is written 'You will be\nhappy.' He looks up at Karl who is now thirty yards away in\nthe trees."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK (CONT'D)",
+   "text": "Karl!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl turns around and he and Frank stare at each other\nthrough the trees."
+  },
+  {
+   "type": "location",
+   "text": "EXT. VAUGHAN'S HOUSE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl knocks on the door. After a moment, Vaughan answers in a\npair of big shorts and a sweatshirt."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Karl, what are you doing here? Come\nin."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I ain't a-stayin'. I need to ast\nyou fer a favor."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Okay."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "This evenin' I want you to go get\nMizz Wheatley and that Frank and\nhave them stay with you tonight."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "What's wrong? Is everything okay?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "That dern Doyle is in a bad way\nagain with that drinkin' and bein'\nmean to folks. Will you give me\nyour word you'll do it?"
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "Well, sure, okay. He hasn't hurt\nthem, has he?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Naw, not yet."
+  },
+  {
+   "type": "stage direction",
+   "text": "(hands the bag to Vaughan)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I want ye to give this to Mizz\nWheatley. Hit ain't much, but maybe\nthere's a little somethin' to hep\nout. Hits what I've earned fixin'\nlawnmowers and whatnot fer Bill\nCox."
+  },
+  {
+   "type": "stage direction",
+   "text": "Vaughan takes the bag."
+  },
+  {
+   "type": "speech",
+   "character": "VAUGHAN",
+   "text": "What about you, Karl? Do you want\nto stay here?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I don't reckon you have to go with\nwomen to be a daddy to a boy."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "You've been real square dealin'\nwith me. The Bible says two men ort\nnot lay together. But I'll bet you\nthe Good Lord wouldn't send nobody\nlike you to Hades. Some folks calls\nit Hell, I call it Hades."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Karl starts away)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "That boy lives inside of his own\nheart. Hits an awful big place. You\ntake care of that boy."
+  },
+  {
+   "type": "stage direction",
+   "text": "Vaughan watches Karl walk away."
+  },
+  {
+   "type": "location",
+   "text": "EXT. BUS STATION - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl stares at the bus station door."
+  },
+  {
+   "type": "location",
+   "text": "EXT. WHEATLEY HOUSE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl stares at the house from the sidewalk."
+  },
+  {
+   "type": "location",
+   "text": "EXT. OLD WOODS BRIDGE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl stares into the river."
+  },
+  {
+   "type": "location",
+   "text": "INT. COX'S SHOP - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl has a lawnmower blade sharpening it on a grinding wheel."
+  },
+  {
+   "type": "location",
+   "text": "EXT. WHEATLEY HOUSE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl carrying the blade walks onto the porch and enters the\nliving room."
+  },
+  {
+   "type": "location",
+   "text": "INT. LIVING ROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Doyle is in his chair drinking beer and watching TV. He looks\nup as Karl comes around and sits on the sofa."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Where's ever'body else? You seen\n'em?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(no response)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "I thought I told you to get the\nhell moved out of here anyway."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "How does a feller go about gettin'\nahold of the police?"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (CONT'D)",
+   "text": "Pick up the fuckin' phone and call\n'em, I guess."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "What numbers do you punch?"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "I told you to get away from here,\ndidn't I? I'm tryin' to relax and\nlook at TV."
+  },
+  {
+   "type": "stage direction",
+   "text": "(notices blade)"
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "What are you doin' with that piece\nof iron? I swear to God you're the\nweirdest son of a bitch I ever\nheard of."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I aim to kill you with it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doyle keeps drinking and watching TV."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE",
+   "text": "Yeah, okay. Well, to get the police\nyou push 911. You'll need to tell\n'em to send an ambulance, too. Or a\nhearse. You fuckin' idiot. You're\ngonna kill me."
+  },
+  {
+   "type": "stage direction",
+   "text": "(laughs)\nKarl gets up and walks slowly toward Doyle out of frame. We\nsee the flickering light of the TV on the wall. O.S. we hear\none short dull thud."
+  },
+  {
+   "type": "speech",
+   "character": "DOYLE (O.S.)",
+   "text": "Oh God! Oh God!"
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear one more thud, then the sound of Doyle's body hitting\nthe floor. Karl appears in frame again and we follow him to\nthe kitchen where he picks up the wall phone. He stares at it\nfor a moment, then pushes 911. He has a few specks of blood\non his face, hand and shirt."
+  },
+  {
+   "type": "stage direction",
+   "text": "(into phone)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes ma'am. I need the police over\nhere at the Wheatley house."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "I've killed somebody with a mower\nblade."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Yes ma'am, I'm right sure of it. I\nhit him two good whacks. That\nsecond time just plumb near cut his\nhead in two."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Hits a little old yeller house\nright on the corner of Marigold\nStreet and some other street.\nThey's a red pickup truck out front\nsays DOYLE HARGRAVES CONSTRUCTION\non it. I'll be a settin' here\nwaitin' on ye. Beside sendin' the\npolice, Doyle said you might want\nto send a ambulance or a hearse.\nThank ye."
+  },
+  {
+   "type": "stage direction",
+   "text": "He hangs up and goes to the refrigerator and takes out a jar\nof mustard. He gets a knife out of the drawer and sits at the\nkitchen table and pulls back a table cloth that is covering\nup some leftovers. He picks up a biscuit and opens the\nmustard jar and runs the knife around it.\nThere's hardly any mustard in it. He dabs a little on the\nbiscuit and takes a bite and relaxes to wait for the law.\nCUT TO:\nCLOSE UP OF CHARLES THE NUT CASE\nHe's in the middle of one of his sick monologues. We pull\nback and see we're in the recreation room of the hospital\nagain with Karl in his usual chair listening to Charles. Karl\nis now wearing the hospital issue clothing."
+  },
+  {
+   "type": "speech",
+   "character": "CHARLES",
+   "text": "... on the third day I washed her.\nShe wasn't very clean. I got all\nthe right spots. She was the first\none I ever kept for any length of\ntime, you see I get bored easily, I\nhave a short attention span. I\ncan't say she enjoyed her stay,\nalthough the washcloth in her mouth\nheld in place by good duct tape\nkept any complaints to a minimum. I\ndon't really like people who talk a\nlot. I like to do the talking. I\nguess that's why I'm so fond of\nyou. You're so easygoing, although\nI do sense a little tension in you\nsometimes. By the way, how was it\nout there? Did you have any fun?\nMake any new acquaintances? Tell me\nwhat it was like."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "They was a boy. We made friends."
+  },
+  {
+   "type": "speech",
+   "character": "CHARLES",
+   "text": "I bet you did. I was never bent\nthat way. I'm bent the other way.\nSo, you liked it out there in the\nworld."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "It's too big."
+  },
+  {
+   "type": "speech",
+   "character": "CHARLES",
+   "text": "Well, it's not too big in here, is\nit?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "CHARLES",
+   "text": "I feel very generous today. I feel\nlike listening. I'm sure you have\nplenty to tell me. And please bore\nme with the details."
+  },
+  {
+   "type": "stage direction",
+   "text": "(long pause) )"
+  },
+  {
+   "type": "speech",
+   "character": "CHARLES",
+   "text": "Come on Karl, who did you kill? Was\nit the boy?"
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Don't say nothin' about that boy."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl looks him right in the eye for the first time ever."
+  },
+  {
+   "type": "speech",
+   "character": "KARL",
+   "text": "Fact the bidness, don't you say\nanother word to me. I ain't\nlistenin' to you no more."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karl gets up and goes to the window and looks out at the\ngrass that separates him from the next building. He stares\nout the window, as we:\nFADE OUT.\nTHE END"
+  }
+ ]
+}

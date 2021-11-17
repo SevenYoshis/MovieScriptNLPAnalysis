@@ -1,0 +1,2132 @@
+,character,line #,line
+0,CLERK,0,What you working on?
+1,CHRIS,1,"Drillin' some post holes into
+concrete ..."
+2,CLERK,2,"With that you can ream solid
+steel. Check, charge, or cash?"
+3,CHRIS,3,"Cash. Put ""Jack's Fencing"" on
+the receipt."
+4,CLERK,4,$788.   30
+5,CLERK,5,"...that a good racket? I ought
+to get out from behind this
+counter..."
+6,CHRIS,6,Yeah.
+7,CHRIS,7,Take it easy.
+8,CERRITO,8,Wrap this here up.
+9,CLERK,9,"Yessir. You're going to have a
+happy little girl."
+10,CERRITO,10,Two.   I got two girls.
+11,CLERK,11,That's nice.
+12,CERRITO,12,"Yeah. And gimme those three
+masks there."
+13,CERRITO,13,"Gimme Donald Duck, too"
+14,CLERK,14,A little early for Halloween?
+15,CERRITO,15,"Yeah. Halloween's coming early
+this year. What do I owe you?"
+16,JUSTINE,16,... taking me out to breakfast?
+17,HANNA,17,Can't. Bosko's waiting..
+18,LAUREN,18,"Hi Vincent. Mom, where's my
+barrettes?"
+19,HANNA,19,"Hi, sweetie."
+20,JUSTINE,20,I saw them on the kitchen
+21,JUSTINE,21,Want me to make coffee?
+22,HANNA,22,No school today?
+23,LAUREN (O.S.),23,"Daddy's picking me up! We're
+going to see the new site and
+then shopping and lunch."
+24,LAUREN (O.S.),24,They're not on the table.
+25,JUSTINE,25,Then I don't know...
+26,JUSTINE,26,He's already half an hour late.
+27,HANNA,27,"He gonna show? Or the son of a
+bitch gonna stand her up like
+last time?"
+28,JUSTINE,28,Want the coffee?
+29,HANNA,29,I'm out of time...
+30,JUSTINE,30,"Falls back on the pillow,
+disappointed. It's as if she'd
+been stood-up. The bed sheet
+falls half off of her. She's
+exposed, vulnerable. She looks
+out the window, occluded by light
+muslin, away from us and exhales."
+31,CERRITO,31,You Waingro?
+32,WAINGRO,32,Yeah.
+33,WAINGRO,33,You're Cerrito huh?
+34,WAINGRO,34,What kinda guy is this Neil?
+35,CERRITO,35,Okay.
+36,WAINGRO,36,You guys always work together?
+37,CERRITO,37,All the time.
+38,WAINGRO,38,"Real tight crew, huh?"
+39,CERRITO,39,That's right.
+40,WAINGRO,40,"This works good, maybe I could
+go again?"
+41,CERRITO,41,"Yeah.   Stop talking, slick..."
+42,NEIL (V.O.),42,You ready if I need you?
+43,TOWNER,43,Yeah.
+44,NEIL (V.O.),44,Got their air?
+45,TOWNER,45,Yeah.
+46,RADIO ANNOUNCER,46,"...Daddio's jazz patio on KDCA.
+Brought to you this fine day,
+which is A-okay, by Twister.
+Hey, mister, go out and buy a
+bottle of that
+Twister...Wiiiiiine..."
+47,NEIL,47,Turn it off.
+48,CERRITO,48,Time.
+49,CHRIS,49,Their response time?
+50,NEIL,50,"Two minutes, fifty seconds."
+51,NEIL (V.O.),51,"We ought to be down the chute
+into the escape route in 2:20."
+52,NEIL (V.O.),52,Here we go...
+53,GUARD #1,53,211! We're being taken down!
+54,DISPATCHER (V.O.),54,"Car 74, what's your ETA to the
+211 in progress Hoover and 14th?
+Over."
+55,CAR 74 (V.O.),55,Car 74. Three minutes. Over.
+56,DISPATCHER (V.O.),56,"Car 74. Take it. Car 37, you're
+back-up. Car..."
+57,TOWNER,57,There's the call. Three minutes.
+58,WATCH:,58,"28, 29, 30, 31, 32..."
+59,NEIL,59,"Next one blows you up!    Out!
+Now..."
+60,NEIL,60,Now!
+61,NEIL,61,Up against the wall!
+62,NEIL,62,8o seconds left.    Move it.
+63,WAINGRO,63,Flatten - up against it!    Higher!
+64,GUARD TWO,64,...you didn't have that gun..
+65,WAINGRO,65,What?!
+66,CERRITO,66,"That's true, slick, cause you're
+a real tough guy. But he has
+the gun. And me, too. So shut
+the fuck up."
+67,NEIL,67,Move out!
+68,NEIL,68,38 seconds left!
+69,WAINGRO (O.S.),69,"...hadda mouth off? In front of
+them?"
+70,NEIL,70,Ten. Nine.
+71,NEIL,71,Blew the margin. Here we come.
+72,TOWNER,72,One on your tail.
+73,NEIL,73,Here we come.
+74,NATE,74,"A million, six at 40 cents onna
+dollar's 640. Here's a hundred
+forty thou front money. Get you
+the rest, 2-3 days."
+75,NATE,75,What happened out there?
+76,NEIL,76,I don't want to talk about it.
+77,NATE,77,Wait a minute.
+78,NEIL,78,What's the matter?
+79,NATE,79,You know who these belong to?
+80,NEIL,80,"""Malibu Securities ..."
+81,NATE,81,You know John Van Zant?
+82,NEIL,82,No.
+83,NATE,83,"Malibu Securities is a brokerage
+he controls. Planned
+bankruptcies, made out during
+the S&L's, money laundering..."
+84,NATE,84,"You ripped off his Treasury
+Certificates."
+85,NEIL,85,So what?
+86,NATE,86,"That's the point. On top of
+collecting his insurance, maybe
+he wants to buy back his bonds.
+From him I can get you 60 cents
+on the dollar instead of 40.
+Means an extra 320 to you."
+87,NEIL,87,Try it on.
+88,NATE,88,You know Cezar Kelso?
+89,NEIL,89,By reputation.
+90,NATE,90,"He's got this score he's putting
+out and wants you to look at."
+91,NEIL,91,"What do I need look at his score
+for? I got my own."
+92,NATE,92,"He said you'll get near eight
+figures. Very clean."
+93,NEIL,93,9:00a.M. tomorrow.
+94,NATE,94,Take it easy.
+95,HANNA (O.S.),95,Where's the ambulance?
+96,HEINZ (O.S.),96,"They dumped it four blocks from
+here..."
+97,HEINZ,97,"Masks, guns, radios - all left
+behind. No prints."
+98,HANNA,98,"What about the crash, the white
+towtruck."
+99,HEINZ,99,"Hasn't turned up. Got a witness:
+janitor next door."
+100,HANNA,100,"I.D. anybody? Plate?
+Description?"
+101,HEINZ,101,Shhaaapes ...
+102,HEINZ,102,"One big. One thin.    He heard
+it..."
+103,HANNA,103,What about them?
+104,DRUCKER,104,"According to the janitor, he..."
+105,DRUCKER,105,"Started mouthing off to one of
+the gunmen."
+106,HANNA,106,"Oh, that was smart."
+107,DRUCKER,107,I figure the other went for...
+108,DRUCKER,108,"... that gun when the shooting
+started. One guy called a guard
+""slick."""
+109,HANNA,109,"""Slick?"""
+110,DRUCKER,110,"Yeah.   And they ignored the loose
+cash."
+111,HANNA,111,"'Cause they had no time, cause
+they knew our response time,
+cause they were on our air."
+112,HEINZ,112,You recognize their m.o.?
+113,HANNA,113,"Yeah. Their m.o. is that they
+are good. Once it escalated
+into a Murder One beef for all
+of them after they killed the
+first two, they popped guard
+number three 'cause it didn't
+rake any difference anymore, so
+why leave a living witness?
+Drop of a hat? They'll rock and
+roll. Also: the way they went
+into the side indicates they are
+equipped to go in on the prowl.
+So also start looking for recent
+highline burgularies that have
+'mystified' us."
+114,HANNA,114,"Run the ""slick"" bit to the FBI
+and see what it kicks out."
+115,DRUCKER,115,I called it in already.
+116,HANNA,116,"Split the fences. I'll take
+Cuzomano and Torena. You take
+the East side. Go through the
+tapes of who we been listening
+to."
+117,HANNA,117,"Hang in with Forensics on all
+physical evidence."
+118,HANNA,118,"How'd they know the route of the
+van and what it was carrying?
+Does Gage print the day's routes?
+What do they do with the
+printouts? Who collects their
+trash? Run makes on all their
+middlemanagement. Did someone
+give this score up?"
+119,HANNA,119,"Check the three guards. See if
+one of them was a tipster."
+120,BOSKO,120,"What's the vibe: home-grown or
+out-of-town?"
+121,HANNA,121,"Out-of-town. Frankly, I hope
+they are scoring once and passing
+through. And I doubt it."
+122,HEINZ,122,This going to stay in Area?
+123,HANNA,123,"This look like boosters working
+the local Seven Eleven to you?
+It goes to Major Crime."
+124,HANNA,124,Go to work.
+125,WAINGRO,125,Anybody want some pie?
+126,NEIL,126,"This is a partial   split, but I
+took out of ours   - every - to
+make up..."
+127,NEIL,127,"...his full end.    Because I want
+to settle him up   and get rid of
+this jagoff right   now."
+128,CERRITO,128,Okay.
+129,NEIL,129,Fuck off.
+130,WAINGRO,130,I had to dust him!
+131,NEIL,131,"Electricity and chemicals a little
+fucked up?"
+132,NEIL,132,You a shooter? Speed? What?
+133,NEIL,133,"You didn't have to. Now we got
+extra heat off a clean score."
+134,CERRITO,134,Hold it.
+135,CHARLENE,135,Where's the rest?
+136,CHRIS,136,That's it.
+137,CHARLENE,137,"Eight thousand dollars?   You
+gotta be kidding me!"
+138,CHRIS,138,"I squared the bookies and we had
+to pay off some guy and were
+short to start 'cause the rest
+is comin', in a coupla days. So
+don't sweat it."
+139,CHRIS,139,We're late.
+140,CHARLENE,140,"Listen to me. ""As The World
+Turns"" can get interrupted with
+a news flash of you splattered
+all over the street ..."
+141,CHARLENE,141,"I can get sent up on an accessory
+beef. Your son, Dominick, winds
+up in a home. For $8,000?"
+142,CHARLENE,142,"Honey, for $8,000, it ain't worth
+the risk. Risk versus reward?
+Baby?"
+143,CHRIS,143,"Don't worry about money. Neil's
+got..."
+144,CHRIS,144,"Hey, if we're goin', let's go."
+145,CHARLENE,145,"Where's the club you were going
+to open?"
+146,CHRIS,146,"Here comes the ""showgirl with a
+future"" bit."
+147,CHARLEJ,147,Shut up! I left for a good thing.
+148,CHARLEJ,148,"Why am I even talking to you? I
+can't talk to you. All you are
+is a child growin' older..."
+149,CHRIS,149,The hell's that mean?
+150,CHARLENE,150,"It means we're not making forward
+progress like real adults and
+you won't listen."
+151,CHRIS,151,"I told you: me and Neil got
+planned ..."
+152,CHARLENE,152,"""Me and Neil."" I'm married to
+you, now. This isn't the fucking
+joint."
+153,CHRIS,153,Don't mouth off to me!
+154,CHARLENE,154,I want out of here!
+155,CHRIS,155,Well there's the fucking door!
+156,CHRIS,156,"Only leave Dominick, the bank
+book and the car keys on the
+kitchen table!"
+157,CHARLENE,157,"You can keep that other crap!
+But Dominick goes with me."
+158,CHRIS,158,"I'll find ya and kill you, you
+bitch, wherever you are - you
+ever try to take Dominick away
+from me."
+159,ANITA (O.S.),159,"Daddy, daddy!"
+160,ELAINE,160,Hungry?
+161,CERRITO,161,Starving.
+162,ELAINE,162,You okay?
+163,CERRITO,163,Put this away.
+164,ANITA,164,"Daddy, what's in the box?"
+165,CERRITO,165,What do you care?
+166,CERRITO,166,Open it up.
+167,EADY (0. C.),167,Help you with something?
+168,NEIL,168,No thanks.
+169,NEIL,169,You closing in a few minutes?
+170,EADY,170,Yeah.
+171,EADY,171,Excuse me.
+172,EADY,172,You interested in metals?
+173,NEIL,173,No.
+174,NEIL,174,"It's the color reproduction of
+these plates..."
+175,EADY,175,"We have a first edition of
+Kandinsky's Theory of Color with
+hand pulled lithographic prints
+bound in. Would you like see
+it?"
+176,NEIL,176,Sure.
+177,EADY,177,I see you in here before.
+178,NEIL,178,"You're open late.       Not many open
+this late."
+179,NEIL,179,What's your name?
+180,EADY,180,Eady.   Eady Tse.      What's yours?
+181,NEIL,181,Bukowski. Neil Bukowski.
+182,CASALS (V.O.),182,M. C. U.
+183,HANNA,183,"Bobby, it's me."
+184,CASALS (V.O.),184,"Boss, whoever's fencing the Bearer
+Bonds is either highline or out-
+of-town. Everyone's talking
+about it. No one knows about
+it."
+185,CASALS (V.O.),185,"Schwartz went through the indexes
+on recent surveillance tapes?
+No armored cars. No witnesses
+on who stole the ambulance."
+186,HANNA,186,Albert Torena call me back?
+187,CASALS (V.O.),187,No.
+188,HANNA,188,Hi.
+189,JUSTINE,189,Where have you been?
+190,HANNA,190,"Work. Harvey show or'd Lauren
+get stood up again?"
+191,JUSTINE,191,He didn't even call her.
+192,HANNA,192,What an asshole. She okay?
+193,JUSTINE,193,"She's been in her room all day
+and won't talk. So ""no,"" she's
+not okay. And neither am I."
+194,JUSTINE,194,"If I try to create something
+like a mood between us you back
+away. I made a great dinner for
+us. That was four hours ago."
+195,JUSTINE,195,At least get yourself a plate...
+196,HANNA,196,"There's three dead bodies in an
+alley off Adams."
+197,HANNA,197,"I'm really sorry the lamb got
+overcooked."
+198,HANNA,198,"Looking after her is tired.
+Very tired. He doesn't know why
+he said what he did. He regrets
+it. So he turns on his TV to
+watch the news and his eyes glaze
+over."
+199,EADY,199,What do you do?
+200,NEIL,200,"Swimming pools. Institutional.
+Schools, State, counties. I'm
+on the sales end."
+201,NEIL (CONT'D),201,Let me have another coffee.
+202,NEIL (CONT'D),202,You like selling books?
+203,EADY,203,"Yeah. Especially fine art books.
+I study them."
+204,NEIL,204,Yeah?   Like what?
+205,NEIL,205,Tell me.
+206,EADY,206,"There's a Skira edition of
+Delacroix charcoal sketches, I
+like..."
+207,NEIL,207,What else?
+208,EADY,208,Asian art work.
+209,EADY (V.O.),209,"The plates are mezzotints. They
+evoke a feeling Japanese painters
+called ""sabi"". They believed
+there were eight scenes of
+transcendental loneliness. They
+painted them over and over again.
+One is a flock of geese hovering
+over a field. There's always
+mist. It's painted just as the
+leader touches down."
+210,NEIL,210,City of lights.
+211,EADY,211,Yeah.
+212,NEIL,212,"I flew over the arctic once at
+40,000 feet. The moonlight was
+blue on all the snow. It felt
+like that."
+213,EADY,213,Do you travel a lot?
+214,NEIL,214,Yeah.
+215,EADY,215,Are you lonely?
+216,NEIL,216,I'm alone.    Not lonely.
+217,NEIL,217,You?
+218,EADY,218,I get lonely.
+219,HANNA,219,"You were supposed to get back to
+me last night. So where the
+fuck were you, Albert?"
+220,ALBERT,220,"I couldn't break free, man!"
+221,HANNA,221,"I oughta violate your ass right
+now."
+222,ALBERT,222,"I was all night hitting up Los
+vatos like one of those flamenco
+matador guys. Cuttin' in real
+smooth. Generating leads and
+shit. I'm a dancer, man!"
+223,HANNA,223,"You're a bust-out speed freak
+jackin' metamphetamine again."
+224,HANNA,224,I'm in a hurry.
+225,ALBERT,225,"You talk to my brother, Raoul.
+He meet you tonight at..."
+226,HANNA,226,No.   Right now.
+227,ALBERT,227,"I implore him, man. But he say
+""no."""
+228,ALBERT,228,"He in Phoenix. Tonight's the
+best I can do for you. The Zebra
+on Crenshaw. Eleven o'clock."
+229,HANNA,229,"You be there, too."
+230,ALBERT,230,"Mon, I go"
+231,HANNA,231,Be there!
+232,CEZAR,232,"I picked you out to pitch it to
+first, but don't think you're
+the only action in town and I'm
+giving it away. 'Cause I'm not."
+233,NEIL,233,What is it?
+234,CEZAR,234,"A bank. On Thursdays it gets
+cash deposits for distribution
+to other branches. The branches
+have to buttress their cash
+accounts to handle Friday payroll
+checks from a Toyota and Nissan
+plant, a steel mill and two
+refineries. One day a week,
+Thursday, the main branch carries
+the full whack."
+235,NEIL,235,"You want a $100,000 advance,
+against a full 101. Why?"
+236,CEZAR,236,"'Cause I can get it. 'Cause
+this is the best thing I seen in
+three years. 'Cause a screw-up
+makes 10 percent of nothin' equal
+nothin'. And 'cause those are
+the terms and they ain't
+negotiable."
+237,NEIL,237,On the prowl or strong?
+238,CEZAR,238,"Strong. Through the front door.
+During the day."
+239,NEIL,239,How many guys?
+240,CEZAR,240,Four.   Three plus a driver.
+241,NEIL,241,"That's not a $100,000 worth
+anything. You're giving me an
+address to what's strictly a
+cowboy score: ""Get the guns and
+let's go!"" We smash, grab and
+boogie while they hit the alarm."
+242,CEZAR,242,"Three alarms. And that's why
+the price. 'Cause you chop-in
+through the roof the night before
+on the prowl and bypass 'em. I
+got circuit diagrams, blue prints,
+the works. So yeah, they hit
+the alarms, but nothing gonna
+happen."
+243,NEIL,243,Do I have to kill people?
+244,CEZAR,244,"I doubt it. Two men have the
+two keys to open the box."
+245,NEIL,245,"Full architectural, plumbing and
+electric, camera placements?"
+246,CEZAR,246,All of it.
+247,NEIL,247,What do you estimate?
+248,CEZAR,248,"Eight point, one. Eight point,
+two million dollars."
+249,CEZAR,249,Where's Nate?
+250,NEIL,250,He hadda make a call.
+251,NEIL,251,You're on.
+252,NEIL,252,"Here's five grand earnest money.
+You get the rest after lunch."
+253,NATE,253,"Look, Van Zant. Nobody knew the
+merch was yours or they would
+have respected it. Be that as
+it may: now you get 100% from
+the insurance company and you're
+even, plus you can get the bonds
+back for 60 cents onna dollar.
+You make an additional 40%.
+Your operation doesn't skip a
+beat, and everybody's making
+out."
+254,VAN ZANT,254,Sure. You got a deal.
+255,NATE (0.   S.),255,"Good. Cause there's    no percentage
+in everybody getting   their
+underwear in a twist   over this."
+256,VAN ZANT,256,"Absolutely. You have your man
+call me to set the meet."
+257,NATE (O.S.),257,Usually I'm the mailman.
+258,VAN ZANT,258,"I don't want to involve extra
+people. What the fuck do I want
+all kinds of people meeting each
+other for?"
+259,NATE (O.S.),259,Okay.
+260,VAN ZANT,260,Nice talking to you...
+261,VAN ZANT,261,"Van Zant hangs up. He's a tall
+avuncular man with a flabby belly
+and Arrow shirts: an accountant.
+HUGH BENNY, a very large juice
+collector, is in the office."
+262,HUGH,262,You gonna deal with these people?
+263,VAN ZANT,263,"So word hits the streets it's
+okay to steal my stuff? I'm
+gonna kill the sonsa-bitches."
+264,NEIL,264,I bought it.
+265,NATE,265,What I tell you?
+266,NEIL,266,The bonds?
+267,NATE,267,"We're on. You call him
+tomorrow..."
+268,NATE,268,... and set a meet.
+269,NEIL,269,How is he?
+270,NATE,270,Very cool.   He's a businessman.
+271,LILLIAN,271,Here it is.
+272,LILLIAN,272,You okay?
+273,BREEDAN,273,"Don 't worry, baby.   Gonna do
+good."
+274,BREEDAN,274,I'm Breedan. You Solenko?
+275,SOLENKO,275,"Yeah. Fucking hillbilly grill
+ran didn't show. Been here since
+4:30. You know this kinda
+operation?"
+276,BREEDAN,276,The grill. Yeah.
+277,SOLENKO,277,"Grill? Empty the garbage, mopout
+the toilets. You gimme a hard
+time, I'll find something to
+violate you back and blow your
+parole."
+278,SOLENKO,278,"You kick back 25% of your salary
+to me under the table. Grierson
+your parole officer? Right?"
+279,BREEDAN,279,Yeah.
+280,SOLENKO,280,"Check it out. Change in the
+back. Hurry up."
+281,HANNA (0 .S.),281,Cuzomano. Open up.
+282,HANNA,282,"Whaddaya hear, whaddaya say?."
+283,CUZOMANO,283,"Hiya, Vincent. About what?"
+284,HANNA,284,"About this crew that knocked
+down three guards yesterday and
+took a Gates Armored truck.
+Bearer Bonds. Start making calls."
+285,CUZOMANO,285,It's Cuzomano. Get me Francis.
+286,CUZOMANO,286,How'd I hear about this?
+287,HANNA,287,"Ridin' the airwaves. On every
+news channel. Turn on a fucking
+radio!"
+288,HANNA,288,"Try to broker the Bonds. Make
+some money. Then you'll shift
+into Flip-o-matic and tell me
+who they are. And what they are
+doing next."
+289,CUZOMANO,289,"Hey, Francis!"
+290,CUZOMANO,290,That score went down yesterday?
+291,CUZOMANO,291,"Yeah, I'm lookin' to handle all
+or a piece of the merch. All I
+got are yo-yo's. One brings me
+a container of Armani suits? He
+didn't know they were knockoffs.
+Schmuck stole knockoffs. They
+should make stupidity a felony."
+292,CUZOMANO,292,"You hear who they been downed
+to?"
+293,CHARLENE (V.O.),293,Hello?
+294,NEIL,294,"Chris is here. I called so you
+shouldn't worry. What's wrong?"
+295,CHARLENE,295,"Husband and wife stuff.    That's
+all."
+296,NEIL (V.O.),296,He can sleep it off here.
+297,CHARLENE,297,"Thanks, Neil."
+298,NEIL,298,What happened to you?
+299,CHRIS,299,"When you going to get some
+furniture?"
+300,NEIL,300,When I get around to it.
+301,CHRIS,301,My mouth tastes like a sewer.
+302,CHRIS,302,Charlene's going to leave me.
+303,NEIL,303,Why?
+304,CHRIS,304,"There ain't no steaks in the
+freezer."
+305,NEIL,305,With everything we been taking?
+306,CHRIS,306,"Last trip to Vegas and the
+Superbowl took care of that.
+When you gonna get an old lady?"
+307,NEIL,307,"When I get around to it. You
+got something else on the side?"
+308,CHRIS,308,Nothing regular.
+309,NEIL,309,She got another man?
+310,CHRIS,310,No.
+311,NEIL,311,You sure?
+312,CHRIS,312,"Yeah, I'm sure."
+313,NEIL,313,"Jimmy - whatsisname - Bohunk, in
+the joint used to say: ""On the
+street you wanna be makin' roves,
+you don't put anything in your
+life you can't walk out on in 30
+seconds flat if you spot heat
+around the corner."""
+314,CHRIS,314,"Jimmy Banghart. And to hell
+with Jimmy Banghart."
+315,CHRIS,315,"I'd rather go ten rounds with
+Jesus Christ than fuck with her.
+But she and Dominick save my
+life, man; everyday. Everyday..."
+316,NEIL,316,So?
+317,CHRIS,317,So.
+318,NEIL,318,"Taking delivery from Van Zant on
+the rest of the armored car cash.
+I gotta drop a deposit on Kelso.
+He's got a bank score."
+319,CHRIS,319,"What about the platinum?   It's
+ready to fall ..."
+320,NEIL,320,"That goes, too. Meet me at the
+coffee shop at noon. I got stuff
+to do..."
+321,MARCIANO,321,Hello?
+322,CHARLENE,322,Alan.
+323,MARCIANO (V.O.),323,Hey!
+324,CHARLENE,324,"I've had it with him. I've had
+it. Can you get us out of here?"
+325,MARCIANO,325,"Absolutely. I got a coupla orders
+to write. Meet you at 12."
+326,EADY (V. 0.),326,Hello?
+327,NEIL,327,How you doing?
+328,EADY,328,"Neil. I wondered when you'd
+call."
+329,NEIL (V.O.),329,I been real busy.
+330,EADY,330,Good.
+331,NEIL (V..O.),331,Can I see you?
+332,EADY,332,I was worried... was just...
+333,EADY,333,...the one night. You know?
+334,NEIL (V.O.),334,Not for me it wasn't.
+335,EADY,335,Me either.
+336,NEIL (V.O.),336,"Tonight. I'll pick you up at
+work."
+337,NEIL,337,Change for a dollar?
+338,COOK,338,"There you go, honey."
+339,TELEPHONIST (V.O.),339,Malibu Securities.
+340,NEIL,340,Yeah. Van Zant.
+341,VAN ZAPT (V.O.),341,Yes?
+342,NEIL,342,"About the merchandise.    What's
+the story?"
+343,VAN ZANT (V.O.),343,"Give me your number and somebody
+will call you right back from a
+different line to set the meet."
+344,NEIL,344,333-6089.
+345,CHARLENE (O.S.),345,Yes?
+346,NEIL,346,Open up.
+347,NEIL,347,Who was that guy?
+348,CHARLENE,348,I won't tell you.
+349,NEIL,349,Listen...
+350,NEIL,350,We got to know who he is!
+351,CHARLENE,351,"Nobody, Neil! A liquor wholesaler
+from Las Vegas. Alan Marciano."
+352,NEIL,352,"What he tell you? How connected
+he is? Get you a spot in a show?"
+353,CHARLENE,353,I figured it out for myself!
+354,NEIL,354,"Chris is gonna straighten it up
+with you. And you ..."
+355,CHARLENE,355,"It's too late! I'm sick of it!
+I'm sick of you."
+356,NEIL,356,I'm not part of your situation!
+357,NEIL,357,"Not anymore. And Chris has got
+two big jobs back-to-bick. You
+will give Chris this shot."
+358,NEIL,358,"After that, he fucks up, then
+okay."
+359,NEIL,359,"I will finance setting you up,
+separate, myself. Dominick will
+go with you. And my word counts.
+But right now he is puttin' it
+all on the line. So for the
+three of you, you are goin', to
+give Chris one more shot."
+360,NEIL,360,Now that is what it is gonna be
+361,CHARLENE,361,All right.
+362,HANNA (O.S.),362,Gimme all your money!
+363,ALPHONSE,363,"Cuz, one day you get coldblasted
+with that shit."
+364,HANNA,364,"Ain't gonna be you, mo-fo."
+365,ALPHONSE,365,"Homeboys talkin' about it.
+Nothin' solid. Just B-boy jive
+'bout outta-towners. Crew's
+from outta town. I hear
+something; I drop a dime."
+366,HANNA,366,You holdin'?
+367,ALPHONSE,367,Onna house.
+368,HANNA,368,What do you got?
+369,RAOUL,369,"This crew's ripping Porsches out
+of Orange County. Horrell, Piper
+and Voight. They're working in
+the back of a trim shop on Irvine.
+Somebody was to pay him a visit
+this weekend, they'd find a
+metallic blue Turbo..."
+370,HANNA,370,"...lookin' for me to rid you of
+your competition?"
+371,RAOUL,371,I'm a good citizen.
+372,HANNA,372,"You got something to say, or
+what?"
+373,RAOUL,373,"Mi carnal: if I tell  you what I
+got to tell you, how  do I know
+you gonna do what the  fuck I
+just told you I need  to get done?"
+374,ALBERT,374,"Raoul, Hanna do what he say!
+That's why I reached for you.."
+375,HANNA,375,"I'm not your 'carnal, you little
+motherfucker."
+376,HANNA,376,"And you 'know' 'cause I say so...
+after I hear what you got to
+tell me!"
+377,RAOUL,377,Okay!   Okay...
+378,RAOUL,378,"This is valuable shit! I could
+get killed telling you this shit!"
+379,HANNA,379,"You can get killed ... walking
+down the street..."
+380,RAOUL,380,"A dude I knew in McNeil's been
+out a couple, three years."
+381,HANNA,381,Yeah?
+382,RAOUL,382,"He's an action junkie. If he'd
+said nothin', I'd a thought
+nothin'. But he goes on and on
+into extra overtime on how he
+ain't been do-in' nothin' and
+then I know this cat's got
+something goin' down..."
+383,HANNA,383,"What's wrong with you? You drag
+me here to waste my time like
+this?"
+384,HANNA,384,"You saw a guy on the street...
+who's an ex-con?"
+385,RAOUL,385,Yeah.
+386,HANNA,386,"...what do you expect for that?
+A Junior G-Man badge?"
+387,RAOUL,387,"You gonna make the call on the
+Porsches?"
+388,HANNA,388,Are you kidding?
+389,RAOUL,389,"I'm telling you this slick is
+double-duty! A real doubleblank
+mo-fo."
+390,HANNA,390,What?
+391,RAOUL,391,Huh ... ?
+392,HANNA,392,"You said ""slick."""
+393,RAOUL,393,"Yeah, that's what he calls people.
+""Slick."""
+394,HANNA,394,Tell me about him...
+395,RAOUL,395,"Six feet, built. Lotta jailhouse
+tattoos. Peacock right here.
+Probably was a shooter once Heavy
+time: Attica, Marion, could do a
+nickel or dine standing on his"
+396,RAOUL (CONT'D),396,"ear. He's in C-block two days,
+and in the shower some Muslim
+comes up into his face and he
+cuts the guy a new opening for a
+colostomy bag and goes back to
+shampooing his hair..."
+397,HANNA,397,What's his ... name..
+398,RAOUL,398,Cerrito. Michael Cerrito.
+399,BOSKO (V.O.),399,"Jacket's two inches thick.    38
+busts since 1976."
+400,BOSKO,400,"Two for murder one. Eleven for
+armed robbery. Three convictions.
+Two out of a three year beef in
+Attica. Three years in
+Statesville. Five years in
+Riker's Island off a knock-back
+to involuntary manslaughter
+Narcotics record. Methadone
+treatment. Two kids. Wife's
+named Elaine. Strictly a cowboy."
+401,HANNA (V.O.),401,Who else have I got?
+402,SCHWARTZ,402,"Drucker, Casals and me, boss"
+403,HANNA (V.O.),403,"Bob, get on the house."
+404,HANNA (V.O.) (CONT'D),404,"24 hour surveillance, title
+search, the works. Drucker and
+Casals bug the car and whatever
+else we need, remembering it
+won't be evidentiary."
+405,HANNA (V.O.) (CONT'D),405,"When he moves or sits - like in
+a restaurant."
+406,HANNA (V.O.),406,"I want pictures of who he moves
+and sits with. Then run makes
+on them and their cars. They
+got jackets? I want to see who
+they move and they sit with and
+give them the same treatment."
+407,HANNA (V.O.),407,"Bosko. Work the neighborhood.
+Tail the wife. Look for a drop
+that could garage a work car and
+tools. That's it."
+408,BOSKO,408,"Richie the Medical Examiner's
+holding."
+409,HANNA,409,Conference him in.
+410,HANNA,410,Yeah? Richie?
+411,RICHIE (V.O.),411,"Vincent, can you fall by a crime
+scene on the strip? I think I
+got another one."
+412,RICHIE,412,Here's how we found her.
+413,HANNA,413,How old?
+414,RICHIE,414,"Sixteen, seventeen."
+415,HANNA,415,"How'd she die, Richie?"
+416,RICHIE,416,"Blunt instrument. Cerebral
+hematoma."
+417,HANNA,417,Who are they?
+418,RICHIE (O.S.),418,The family.
+419,HANNA (O.S.),419,"What the hell are they doin'
+here?"
+420,RICHIE,420,"It's fucked up. Somebody inside
+knew the girl and called the
+family."
+421,HANNA,421,"Oh, this is nice."
+422,RICHIE,422,"I wanted you to see this 'cause
+I got a feeling it's serial and
+gonna end up in your court."
+423,HANNA,423,Homicide getting anywhere?
+424,RICHIE,424,Nowhere.
+425,MOTHER,425,Baby! Where's my baby.!
+426,NEIL,426,"You keep your hands in sight! I
+tell you what to do, how to do
+it."
+427,DRIVER,427,"Yessir.   I'm just the delivery
+boy."
+428,REAR SHOTS,428,"Of the two vehicles. Out of the
+covered bed of the pick-up a
+small man slowly slips out."
+429,NEIL,429,"Now, with your right hand only:
+throw the envelope in my back
+seat."
+430,GUNMAN,430,Can I Make it?
+431,NEIL,431,"You're all done, pal."
+432,GUNMAN,432,Do it.
+433,NEIL (O.S.),433,John Van Zant?
+434,VAN ZANT,434,Yeah.    Who's this?
+435,NEIL (O.S.),435,Neil McCauley.
+436,VAN ZANT,436,"This kid I sent to straighten
+you up on the money... didn't
+call. Is ... uh... everything
+alright?"
+437,NEIL,437,Tell you what: keep the money.
+438,VAN ZANT,438,What?
+439,NEIL,439,"""... keep ... the ... money."""
+440,VAN ZANT,440,"It's a lot of money!    What are
+you doing?"
+441,NEIL,441,"What am I doin' I'm talking into
+an empty telephone."
+442,VAN ZANT,442,I don't understand.
+443,NEIL,443,"'Cause there is a dead man on
+the other end of this line..."
+444,VAN ZANT,444,Who are these people?    Huh?!
+445,KELSO (V.O.),445,Yeah?
+446,NEIL,446,You got a clean line?
+447,KELSO,447,Yeah.
+448,NEIL (V.O.),448,"(Phone filter) I got a delay
+dropping the $50,000."
+449,KELSO,449,"You don't have a delay. What
+you don't have is a deal."
+450,KELSO,450,"Swing by and collect your envelope
+sometime. Goodbye."
+451,NEIL (V.O.),451,"Wait a minute, pal-o!!"
+452,NEIL,452,"You're going to wait for me for
+a week. I'll buy a week with
+the five. It's above and beyond
+the fifty and if I wash, you
+keep it."
+453,NEIL,453,"You're going to wait for me 'cause
+you want me to take it down.
+You know it's got better odds
+with me in."
+454,NEIL,454,Now do we have an understanding?
+455,KELSO (V.O.),455,Seven days.
+456,VOICES,456,"...Happy anniversary to you.
+Happy anniversary dear Michael
+and Elaine. Happy anniversary
+to you."
+457,NEIL,457,"We'll down platinum through Nate.
+The deal is 72% of today's quote
+on the Bourse in the New York
+Times."
+458,CERRITO,458,"You got the black boxes for the
+alarms?"
+459,CHRIS,459,"Yeah. Towner delivered.   They're
+in the drop."
+460,NEIL,460,"We pass by couple times tomorrow
+afternoon. Check nothing strange
+in the neighborhood. Tomorrow
+night: we take it down. You set
+on the rear door."
+461,CHRIS,461,I'm going to punch it...
+462,CHRIS,462,What do we do about Van Zant?
+463,NEIL,463,Kill him...after the score.
+464,CHRIS,464,Kelso?
+465,NEIL,465,"We'll use Nate's advance off the
+platinum when I down the merch
+to pay Kelso for the bank package."
+466,CHRIS,466,You okay?
+467,CHARLENE,467,I'm fine.
+468,CHRIS,468,Makin' it happen this time...
+469,CHARLENE,469,I hope so.    I really hope so.
+470,MICHAEL,470,Hey!
+471,CHRIS,471,Let me have it!
+472,NEIL,472,I got it.
+473,HANNA (O.S.),473,A goddamn convention.
+474,CASALS (O.S.),474,"Who's ""slick?"""
+475,DRUCKER,475,"Cerrito, the wide one. He's
+hugged twice. One if he finds
+it behind the wheel wall. The
+back-up's in the firewall. We
+got their plates."
+476,CASALS,476,Yeah.
+477,DRUCKER,477,"One with the hair is Shiherlis.
+Got a revolving tail and a tap
+on the house phone."
+478,HANNA,478,Who's the big guy?
+479,DRUCKER,479,First time we're seeing him.
+480,HANNA,480,"Next time this crew scores?
+When they walk in that door?
+They will get the surprise of a
+lifetime."
+481,NEIL,481,Come away with me.
+482,EADY,482,What?
+483,EADY,483,Where?
+484,NEIL,484,New Zealand.
+485,EADY,485,When?
+486,NEIL,486,Soon.
+487,EADY,487,You're kidding.
+488,NEIL,488,"What's stopping you?     What's
+here?"
+489,EADY,489,I don't know you.
+490,NEIL,490,What's to know?
+491,EADY,491,Are you married?
+492,NEIL,492,Why?
+493,EADY,493,Way you come and go.
+494,NEIL,494,"I deal with state officials.
+County. Weird hours. A lot of
+traveling, entertaining."
+495,(beat),495,The last thing I am is married.
+496,EADY,496,"You don't know me at all, Neil..."
+497,NEIL,497,I know enough.
+498,EADY,498,"My father wanted me to marry
+someone in Taipei. It was like
+I was a piece of furniture: ""Go
+be his wife."" After I left he
+won't talk to me. Because I
+went on my own. I can't let
+people tell roe what to do again.
+And that trust comes from knowing
+someone over time."
+499,EADY,499,"This is hard between us for me.
+Because I like you very much."
+500,NEIL,500,"I have to leave. Come away with
+me."
+501,(beat),501,"No one will ever tell you what
+to do... You'll never lose
+yourself with me."
+502,PROSTITUTE,502,"Hey, baby."
+503,WAINGRO,503,Showed you a good time?     Huh?
+504,PROSTITUTE,504,"Oh, yeah.   You fly. You cool."
+505,WAINGRO,505,"Don't lie to me. I can always
+tell when people lie to me."
+506,PROSTITUTE,506,"I ain't lyin'! You a hot dog.
+You a cowboy. You hung like a
+horse and this was the monster
+fuck of my young life."
+507,PROSTITUTE,507,Now I gotta get my ass streetside.
+508,WAINGRO,508,"You don't have a truth-telling
+style."
+509,PROSTITUTE,509,The fuck's wrong with you?
+510,WAINGRO,510,"You think I'm some john? I'm a
+stone killer! I'm a sky-blue
+bad ass, bitch!"
+511,BARTENDER,511,Once again?
+512,WAINGRO,512,"Sure, good buddy. Set it up."
+513,WAINGRO,513,I'm looking to get into something.
+514,BARTENDER,514,Yeah? Where you been?
+515,WAINGRO,515,"Chino, Tracy. I'm a cowboy,
+heavy-hitter. Billy Ricketts
+said to come see you."
+516,BARTENDER,516,"Go see this guy. This guy always
+putting guys on."
+517,WAINGRO,517,Thanks.
+518,LILLIAN,518,"Get your fucking hand off my
+arm!"
+519,RADIO ANNOUNCER (V.O.),519,"Hey, hey!"
+520,(beat),520,"...there, old aware ones, and
+you, too, my fair ones. When
+tears are falling like rain the
+groove is strictly Col-trane..."
+521,BREEDAN,521,Hey!
+522,LILLIAN (O.S.),522,"Let's go, baby."
+523,BREEDAN,523,I got any left?
+524,LILLIAN,524,"There's other paychecks. You
+blow it off. It's worth it,
+baby, cause you mess with that
+man and you be violated right
+back to San Quentin. So you got
+to handle it 'til we get you a
+different job."
+525,BREEDAN,525,"Yeah. That motherfucker ain't
+invented the hard time this
+gangster can't handle!."
+526,BREEDAN,526,"Why you stickin' with me, Lillian?
+Why?"
+527,LILLIAN,527,"'Cause I'm proud of you.   Proud
+you my man."
+528,BREEDAN,528,Proud of me?
+529,"BREEDAN (CONT'D)
+(beat)",529,What you proud of me for?
+530,"LILLIAN
+(beat)",530,Come on home.
+531,BRUCE,531,Okay.
+532,BRUCE,532,"Captain Jackson wants to know
+what's goin' on."
+533,HANNA,533,Nothing. Clear the air.
+534,JACKSON,534,Where'd...they...go?
+535,HANNA,535,"Fell back to see if the alarm
+bypasses held. If they did,
+they'll be back. Stay the fuck
+off the radio!"
+536,HANNA,536,Quiet! !
+537,NEIL,537,...We walk.
+538,CHRIS,538,"I'm 60 seconds away. It's a rat
+or something."
+539,NEIL,539,"It is not an animal sound.   We
+are out of here."
+540,CHRIS,540,We need the cash!!
+541,NEIL,541,We walk!! Now.
+542,JACKSON,542,"They're leaving. Why are they
+leaving?!"
+543,JACKSON (O.S.),543,"I can take 'em, now!"
+544,HANNA (V.O.),544,Let 'em go.
+545,JACKSON (V.O.),545,At least we got 'em on a...
+546,HANNA,546,"Let em go. We got nothing! Not
+even a burglary. They didn't
+fucking steal anything yet.
+Don't you get it? All we've
+got's breaking and entry."
+547,JACKSON (V.O.),547,I'm not letting them walk!
+548,HANNA,548,"The fuck you aren't! That's
+exactly what you are gonna do.
+It's my investigation. And my
+authority supersedes your rank!
+And I am not settling for some
+chicken shit misdemeanor!"
+549,HANNA,549,Back to work.
+550,MARCIANO,550,"What can I do for you guys?
+Ignores his hand and shoves him
+back into his office chair with
+an open hand."
+551,MARCIANO,551,"L.A.P.D. Who the hell you think
+you're pushing around? You got
+no jurisdiction and I know people
+here!"
+552,SCHWARTZ,552,"Who? The fucking Tooth Fairy!
+So what?"
+553,HANNA,553,"You go back to Newark on a New
+Jersey warrant for smuggling
+cigarettes up from North Carolina
+three years ago or you go to
+work for us. Cut and dried.
+That...is...it."
+554,MARCIANO,554,"Oh, my God..."
+555,HANNA,555,Charlene Shiherlis.
+556,MARCIANO,556,Who?
+557,SCHWARTZ,557,"""Who?"" The stranger you been
+talkin' dirty to on the telephone
+every day for the last month."
+558,MARCIANO,558,You can't tie me to her!
+559,HANNA,559,"Who has to. You're onna plane
+to New Jersey, jagoff."
+560,MARCIANO,560,"Oh, man..."
+561,MARCIANO,561,"Why did I get mixed up with that
+bitch?"
+562,HANNA,562,"'Cause she's got a great ass and
+you goT your head all the way up
+it."
+563,MARCIANO,563,So?
+564,HANNA,564,"So it's no big thing. I don't
+even want her. You can have
+her, after. I want her husband
+and all his buddies; that's all.
+And you're gonna help."
+565,NEIL,565,"LAPD? The G? What? Where the
+hell did this heat come from?"
+566,CHRIS,566,"Maybe it's only the EMA score,
+not us."
+567,NEIL,567,Wake up!
+568,(beat),568,"Assume they got our phones, our
+houses bugged, I beepers on all
+the cars. We got major problems..
+Where's Cerrito?"
+569,NEIL (O.S.),569,Recognize the cook?
+570,CHRIS,570,No.
+571,NEIL,571,"D Block. San Q. Did a nickel on
+armed robbery."
+572,NEIL (O.S.),572,"Hey, David.     How you doing?"
+573,BREEDAN,573,"Hey, Homeboy! All right!"
+574,BREEDAN,574,How bout you?
+575,NEIL,575,Gettin' by. You okay?
+576,BREEDAN,576,"Yeah. Temporary. Know what I
+mean?"
+577,NEIL,577,Sure.   See you around.
+578,NEIL,578,What took you so long?
+579,CERRITO,579,"My car. Bugs. Two of 'em.
+Count 'em. One in the wheel
+well. Second behind the fire
+wall. Night of the party? I
+dropped Elaine and swung by EMA
+to check out the junction box..."
+580,CHRIS,580,"Without the platinum how do we
+buy the bank score?"
+581,NEIL,581,"I cash in T-bills to pay-off
+Kelso. That's not our problem."
+582,CERRITO,582,"What the hell happened to Van
+Zant and our 750?"
+583,NEIL,583,"With the heat we got, you wanna
+play World War Two in the streets
+with Van Zant?"
+584,CERRITO,584,Van Zant gets a pass?!
+585,NEIL,585,"Fuck Van Zant. I got more
+motivation to whack him than you
+do. He is a luxury. Our problem
+is: jam and take the bank or
+split."
+586,(beat),586,"And I mean right fucking now.
+Do not go home, pack, nothing.
+Thirty seconds from now we are
+on the road. Gone."
+587,CHRIS,587,"For me, the bank's worth the
+stretch. I say accept the risk,
+stay."
+588,NEIL,588,Michael?
+589,CERRITO,589,I roll with you. Whatever...
+590,NEIL,590,"Not on this one, Michael. On
+this one you make up your own
+mind."
+591,CERRITO,591,"...you figure this the best thing
+to do?"
+592,NEIL,592,"I got some plans. To go away
+after. So for me, it's worth
+the stretch."
+593,NEIL,593,"But, Elaine takes good care of
+you. You got plenty put away.
+T. Bonds; real estate. If I
+were you, I'd be smart and cut
+loose of this."
+594,CERRITO,594,"Hey. To me the action's half
+the juice anyway. I'm in."
+595,NEIL,595,All right.   All right.
+596,CERRITO,596,That the place?
+597,NEIL,597,"Yeah. You see how the road leads
+back around?"
+598,CERRITO,598,Yeah.
+599,NEIL,599,That's the escape route...
+600,SCHWARTZ (O.S.),600,This is it.
+601,CASALS,601,I know.   Let's go!
+602,HANNA (O.S.),602,"What are they taking down out
+here?"
+603,CASALS,603,"They were looking at something
+southwest..."
+604,HANNA,604,What's's that down there?
+605,CASALS,605,"An auto parts company. They're
+going to knock over a payroll?"
+606,SCHWARTZ,606,The company only pays by check.
+607,HANNA,607,"Maybe they're gonna steal the
+hub caps ..."
+608,HANNA,608,"A billboard. Oil pumps.     What
+the hell's goin' on?"
+609,SCHWARTZ,609,"That's what we were trying to
+figure."
+610,HANNA,610,"I got an idea what they're looking
+at. You know what they're looking
+at?"
+611,HANNA,611,"Is that guy something; or is
+that guy something? I mean, you
+gotta give this crew credit.
+They are so fucking good..."
+612,(beat),612,Know what he's looking at?
+613,HANNA,613,"Us. The L.A.P.D. The Police
+Department. We just got made..."
+614,NATE,614,Worth it?
+615,NEIL,615,"There's enough circuit diagrams
+and blueprints here to build the
+bank."
+616,(beat),616,It's terrific.
+617,NATE,617,"His name is Hanna; first name,
+Vincent. I smeared this sergeant
+in vice five yards. Hanna's all
+over you. He's a hot dog.
+Lieutenant in major Crimes Unit.
+He's taken down some heavy crews.
+Blew away Frankie Yonder in
+Chicago and he was a fucking
+maniac. Was working Narcotics
+before that. He's good, Neil.
+Dedicated. Divorced three times.
+Current wife's Justine. He's
+why the extra heat."
+618,NATE,618,"Vice sergeant says Hanna likes
+you. Thinks you're some kind of
+'star.' 'You do this sharp, you
+do that sharp. Look how sharp
+this guy is to figure that.'"
+619,NATE,619,Funny as a heart attack.
+620,NATE,620,"With this guy and this much heat,
+you should pass on the bank."
+621,NEIL,621,I've had heat before.
+622,NATE,622,That's not the point.
+623,NEIL,623,This one's worth the stretch
+624,NATE,624,You sure?
+625,NEIL,625,I'm sure.   Drop me at the garage.
+626,HUGH,626,Hear from him yet?
+627,VAN ZANT,627,Not a thing.
+628,HUGH,628,Maybe he went away.
+629,VAN ZANT,629,Yeah. Sure.
+630,(beat),630,Not hearing bothers me more...
+631,(beat),631,Where's this guy?
+632,HUGH,632,"This guy here...we put him on.
+Turns out he knows McCauley."
+633,WAINGRO,633,Waingro. My name's Waingro.
+634,VAN ZANT,634,"I been living in this office day
+and night. What's with your
+friend?"
+635,WAINGRO,635,"I know all about how he thinks.
+We took some major scores
+together. He's probably busy
+right now. But he's real
+thorough. He won't forget you..."
+636,VAN ZANT,636,That's reassuring.
+637,WAINGRO,637,"Yeah, I got some moves I could
+make here, that could be a big
+help to you..."
+638,HANNA,638,Justine?
+639,HANNA,639,Where we going?
+640,HANNA,640,Where are you going?
+641,JUSTINE,641,Out.
+642,HANNA,642,You know I'm on you.    Let's talk.
+643,NEIL,643,Sure. Buy me a cup of coffee.
+644,HANNA,644,"Seven years in San Quentin. In
+the hole for three. McNeil before
+that."
+645,NEIL,645,Yeah.
+646,HANNA,646,Was McNeil as tough as they say?
+647,NEIL,647,"You looking to become a
+penologist?"
+648,HANNA,648,"You looking to go back? I chased
+some crews, the guys were lookin'
+to fuck up and get busted back."
+649,NEIL,649,"You must have worked some dipshit
+crews."
+650,HANNA,650,I worked all kinds.
+651,NEIL,651,"You see me doing thrill-seeker
+liquor store holdups with a ""Born
+to Lose"" tattoo on my chest?"
+652,HANNA,652,"No, I do not."
+653,NEIL,653,Right.   And I...
+654,NEIL (CONT'D),654,I am never going back.
+655,HANNA,655,Then don't take down scores.
+656,NEIL,656,"I do what I do best. I take
+scores. You do what you do best
+trying to stop guys like me."
+657,HANNA,657,"You never wanted a normal-type
+life?"
+658,NEIL,658,"What the fuck is that?    Barbecues
+and ballgames?"
+659,HANNA,659,That's part of it.
+660,NEIL,660,That's nice.     That your life?
+661,HANNA,661,"No. My wife spends half her
+time on the couch. My
+stepdaughter's got problems 'cause
+her real father's a world class
+asshole. And every moment I
+got, I'm chasing guys like you."
+662,NEIL,662,"A man told me once: you want to
+make moves? Don't keep anything
+in your life you're not willing
+to walk out on in 30 seconds
+flat if you feel the heat around
+the corner."
+663,NEIL,663,"So if you're chasing me and you
+gotta move when I move, how do
+you expect to keep a family?"
+664,HANNA,664,"What are you, a monk?"
+665,NEIL,665,No.
+666,NEIL,666,I got a woman.
+667,HANNA,667,What do you tell her?
+668,NEIL,668,She thinks I sell swimming pools.
+669,HANNA,669,"And if you spot me around the
+corner. You gonna walk out on
+her? Leave her flat? Like that?
+Not even say goodbye?"
+670,NEIL,670,That's the discipline.
+671,HANNA,671,"What you're left with is pretty
+empty."
+672,NEIL,672,Yeah?
+673,(beat),673,"Then maybe you and me, we should
+both go do somethin' else, pal."
+674,HANNA,674,"I don't know how to do anything
+else."
+675,NEIL,675,...neither do I.
+676,HANNA,676,And I don't much want to.
+677,NEIL,677,Neither do I.
+678,HANNA,678,"We're sitting here like a coupla
+regular fellas. You do what you
+do. I do what I gotta do. What
+happens if I am there and I got
+to put you away?"
+679,HANNA,679,"I won't like it. But, if it's
+between you and some poor bastard
+whose wife you're going to make
+into a widow, brother, you are
+gonna go down. 'Cause you don't"
+680,HANNA (CONT'D),680,"have to be there. You coulda
+gone and been a... a mailman."
+681,NEIL,681,"There's a flip side to that coin.
+What if you got me boxed in and
+I gotta put you down?"
+682,(beat),682,"'Cause no matter what, you will
+not get in my way."
+683,(beat),683,"But now that we been face to
+face, I would not feel good about
+that. But I won't hesitate.
+Not for one second."
+684,HANNA,684,"Maybe it'll happen that way.    Or
+who knows ..."
+685,NEIL,685,"...maybe we'll never see each
+other again."
+686,HANNA,686,Can we have the bill.
+687,DRUCKER,687,They dumped us!
+688,HANNA,688,What?
+689,DRUCKER,689,They dumped us.
+690,HANNA,690,I was just with him!
+691,DRUCKER,691,With who?
+692,HANNA,692,"Whattaya mean, ""they dumped us""?!"
+693,DRUCKER,693,"Chris slipped his tail.      And
+Chris doesn't talk about     jobs
+with Charlene so there's     nothing
+for Marciano to get from     her."
+694,HANNA,694,Cerrito?
+695,CASALS,695,"Disappeared. No calls to the
+house. Not home."
+696,HANNA,696,Locators on their cars?!
+697,CASALS,697,"Cerrito dumped his on a UPS van.
+Surveillance tailed a UPS van to
+Oxnard."
+698,HANNA,698,They dumped all our tails?!!
+699,CASALS,699,Yeah.
+700,HANNA,700,"I had coffee with McCauley half
+an hour ago. What happened?"
+701,CASALS,701,"Our tail saw you. McCauley pulled
+into a car wash. Car came out.
+He didn't."
+702,HANNA,702,"Does anybody have Any     idea where
+the fuck these people     are at?
+'Cause whatever they     are gonna
+do, they are doing it     right now!"
+703,NEIL,703,"Got it. it's eighteen inches
+in."
+704,NEIL,704,"Where the hell's Towner? I wanted
+to pass by early. I want to
+check the slot for the work car."
+705,SOLENKO,705,"How long those guys been sitting
+back there?"
+706,CASHIER,706,Hour or so...
+707,SOLENKO,707,They think this a hotel?
+708,SOLENKO (O.S.),708,"Twenty minutes, then I toss their
+asses out of here."
+709,BREEDAN,709,"You spell me? I didn't take my
+break yet ..."
+710,SOLENKO,710,"That spic, Cisco Kid, whatever,
+didn't show. After the lunch
+rush, haul out the garbage and
+mop the back. Take your break
+later."
+711,CERRITO,711,Here he is.
+712,TOWNER,712,Hey!   I'm out! I can't go.
+713,NEIL,713,What are you talking about?
+714,TOWNER,714,"Anna's got a perforated appendix.
+We took her to the hospital."
+715,TOWNER (CONT'D),715,"They're operating right now.
+It's a mess. I got to get back
+there..."
+716,NEIL,716,What the hell I do for a driver?!
+717,TOWNER,717,"Look, I got her sister there,
+waiting at the hospital. I came
+over 'cause I didn't want to
+talk on the phone."
+718,TOWNER,718,"I got to get back. Last thing
+I'd do is let you down, Neil..."
+719,NEIL,719,"What do you call this?    Backing
+me up?"
+720,TOWNER,720,"I waited too long trying to get
+past today! So now maybe she
+got peritonitis."
+721,(beat),721,I got to be there...
+722,CHRIS,722,What the fuck do we do now?
+723,NEIL,723,"Here comes your second chance
+for a change of luck..."
+724,BREEDAN,724,Yeah?
+725,NEIL,725,"Need a driver. Remember the
+drill?"
+726,BREEDAN,726,Yeah.   When?
+727,NEIL,727,To-day.
+728,BREEDAN,728,You're on.
+729,NEIL,729,Out back in five.
+730,SOLENKO,730,Where the fuck you going?
+731,WAINGRO (O.S.),731,They buy it?
+732,TOWNER,732,Yeah.
+733,WAINGRO,733,"I got to hand it to you, sport.
+You're slick, pal smart how you
+handled all this. On the ball.
+Yeah."
+734,TOWNER,734,Thanks. Where's Anna?
+735,WAINGRO,735,"She's resting. It's going down
+anyway? On schedule?"
+736,TOWNER,736,That's right.
+737,WAINGRO,737,Make the call.
+738,TOWNER,738,Where's she?
+739,WAINGRO,739,I dunno.
+740,TOWNER,740,"Know what happens when Neil finds
+out? To both of us?"
+741,WAINGRO,741,"I know what's gonna happen.
+Nothing's gonna happen. 'Cause I
+got it master minded. I got it
+jammed. This is solid. Take it
+from the kid."
+742,TOWNER,742,You hope.
+743,TOWNER,743,"What do you mean, you don't know
+where she is?"
+744,TOWNER,744,Anna?
+745,WAINGRO,745,...showing her a good time.
+746,NEIL (O.S.),746,There's the slot.
+747,BREEDAN,747,"Looks right. Come out the door,
+your angle takes you into the
+car. Don't have to run around
+the doors. You want them open?"
+748,NEIL,748,"No. 'Cause time is not a problem.
+And I want nothing to look weird."
+749,BREEDAN,749,Po-lice response time?
+750,NEIL,750,There is none.
+751,BREEDAN,751,Why?
+752,CHRIS,752,"Cause we bypassed all the alarms
+last night."
+753,CHRIS,753,"For you this whole gig is a slow
+cruise down Hawthorne..."
+754,NEIL,754,"Drop us in the slot.   Let's take
+it down."
+755,DIETER,755,"Hey, Casals. I got this tip
+phoned in about this bank. It
+mean anything to you?"
+756,CASALS,756,Vincent! Vincent!
+757,WIDE,757,"Hanna comes up, coffee in his
+hand."
+758,CASALS,758,"Commercial Bank! Wilmington!
+2:50!"
+759,RADIO ANNOUNCER (V.O.),759,"This is L.A.'s all news, 24-hour,
+around the clock coverage of the
+day's local, national and
+international news, sports,
+finance and weather, brought to
+you by ..."
+760,JOHN,760,Hi!
+761,NEIL,761,Hi!
+762,JOHN,762,Sure thing!
+763,CERRITO,763,"Say, Frank...?"
+764,NEIL,764,"Ladies and gentlemen!  We are
+holding up this bank."
+765,NEIL,765,"We want to hurt nobody.  You do
+exactly like we say and you come
+away okay. We're here  for the
+bank's money, not your money..."
+766,NEIL,766,"...you people behind the windows:
+the salaries this bank pays aren't
+big enough to take risks for, so
+think of your take-home pay before
+you risk your life."
+767,NEIL,767,"...don't forget your money is
+insured by the Federal Government.
+You're not going to lose a penny.
+Relax and you'll get through
+this okay."
+768,NEIL (CONT'D),768,"Any of the ladies feel ill or
+anybody with heart trouble wants
+to sit down, go right ahead."
+769,NEIL,769,The key.
+770,TIMMONS,770,What key?
+771,NEIL,771,"Don't touch your face.   Let it
+bleed."
+772,SCHWARTZ,772,"Too many people. This isn't how
+to handle it"
+773,SCHWARTZ,773,"Vincent! Fuck this crew! Let
+'em go!"
+774,HANNA,774,Left flanking fire.   street.
+775,COP # 1,775,Drop!   Drop down!
+776,BOSKO (O.S.),776,Get the bus out of here..
+777,CERRITO,777,C'mon! C'mon! C'mon!
+778,NEIL,778,Go!! Go!!
+779,HANNA,779,Get down! Get down
+780,HANNA,780,This is Hanna!
+781,HANNA,781,Come in...
+782,CERRITO,782,"C'mere, honey."
+783,BOB (O.S.),783,Bottom tray.
+784,DOC,784,"Blood loss and shock and he'll
+have a lot of pain in the shoulder
+and back, but I'll give you
+quarter-grain phials of morphine.
+Subcutaneous injections."
+785,NEIL,785,What's the bottom line?
+786,DR. BOB,786,"Missed the carotid artery by
+millimeters. There is mostly
+tissue damage. And the collar a
+bone's smashed. Can he rest
+awhile?"
+787,NEIL,787,"Six, seven hours.   What do I owe
+you?"
+788,DR. BOB,788,It's got to be twenty thou.
+789,NEIL,789,What is this?
+790,DR. BOB,790,"You're number one with a bullet
+on the six o'clock news. It's
+at least double the risk. So
+I'm doubling my price."
+791,NEIL,791,"You're wrong. It's four times
+the risk. 'Cause something happens
+to him, I'm coming back for you.
+And I'm double the worst trouble
+you ever had."
+792,NEIL,792,I'll be back for you.
+793,CHRIS,793,Charlene? Get her out!
+794,NEIL,794,"First, I got to know if our escape
+route got ratted-out along with
+everything else."
+795,CHRIS,795,Who...
+796,NEIL,796,Who wasn't around Towner.
+797,ELAINE (O.S.),797,Get out of my way!
+798,ELAINE (O.S.),798,"Michael. Michael. Michael.
+Michael!!!"
+799,LILLIAN,799,"Say, bartender... ?"
+800,BARTENDER,800,"In a minute, lady."
+801,LILLIAN,801,"You seen that fella I pulled out
+of here the other night? Big
+fella with a beard?"
+802,TV ANNOUNCER (V.O.),802,"...dead were Michael T. Cerrito,
+Caucasian male and the driver,
+an unidentified black male in
+his early 30's, who died enroute
+to St. Vincent's Hospital..."
+803,BARTENDER,803,"What can I get you, ma'am?"
+804,BARTENDER,804,"Lady, you okay."
+805,MARCIANO (V.O.),805,Yeah.
+806,CHARLENE,806,"Harry? If you want me, Come
+right down and get me and Dominick
+out."
+807,MARCIANO (V.O.),807,"Sugar. I'll catch the 8 o'clock
+and rent a car. I'll be there
+at your place in two hours."
+808,MARCIANO (V.O.) (CONT'D),808,"Get packed.    Okay? I'll be right
+there."
+809,PLAINCLOTHESMAN,809,Let's get you on that plane.
+810,NEIL,810,Who?
+811,TOWNER,811,Made me...Anna...?
+812,NEIL,812,She's dead...
+813,(beat),813,"So's Cerrito and Breedan...the
+guy who stood in...for you."
+814,(beat),814,Who did this...?
+815,TOWNER,815,They had Anna.
+816,NEIL,816,Who?
+817,TOWNER,817,Waingro.
+818,NEIL,818,Waingro?    On his own?
+819,TOWNER,819,"Uh-uh. For someone.     The other
+worked for...said..."
+820,NEIL,820,Van Zant?
+821,NEIL,821,You sure?
+822,TOWNER,822,Uh-huh.
+823,NEIL,823,"You say anything about our exit?
+Our out?"
+824,TOWNER,824,...don't remember.    I...
+825,NEIL,825,C ' mon!
+826,TOWNER,826,Neil...Neil...I don't think so.
+827,NEIL,827,The house clean?
+828,NEIL,828,I'll call the medics.
+829,NEIL,829,...Nate.
+830,NATE (V.O.),830,You on a cellular?
+831,NEIL,831,No.
+832,NATE (V. 0. ),832,"A brick house on Swallow Drive
+in Bel Air."
+833,NEIL,833,Next: Waingro. Okay?
+834,NATE (V.O.),834,You got the time...?
+835,NEIL,835,I'll make time.
+836,(beat),836,"I need a new ""out"" laid on."
+837,NATE (V.O.),837,Do you know it's blown?
+838,NEIL,838,How can I trust it?
+839,EADY (V. 0.),839,Hello?
+840,NEIL,840,"Things are screwed up. You're
+not flying out after me. We go
+together."
+841,NEIL (CONT'D),841,"You and me got to straighten
+something up first. I'll be by
+later."
+842,EADY (V. 0.),842,What's wrong? Neil?
+843,VKN ZANT (O.S.),843,Who is it?
+844,NEIL,844,Waingro.   Where is he?
+845,VAN ZANT,845,How the hell should I know?
+846,NEIL (O.S.),846,How much?
+847,NATE,847,"$165,000."
+848,NEIL (O.S.),848,That's a rip-off.
+849,NATE,849,"You want   a good getaway and you're
+hot with   a big score in your
+pocket.    You're a media event.
+What the   fuck do you expect?"
+850,NEIL,850,What do I get for those dollars?
+851,NATE,851,"You end up in Ireland with good
+papers and plastic."
+852,NEIL,852,Via what?
+853,NATE,853,"Lear jet to Vancouver. Then
+commercial to Reykjavik; then
+Dublin."
+854,NEIL,854,Reliable?
+855,NATE,855,"For those   bucks? 100 per cent.
+I got the   plastic on me. The
+passports   will be on the plane.
+Who's the   third?"
+856,NEIL,856,A girl. With her own papers.
+857,NEIL,857,What are these good for?
+858,NATE,858,Forty-five to sixty days.
+859,NEIL,859,How soon?
+860,NATE,860,Twenty-four hours.
+861,NEIL,861,Make it twelve.
+862,NATE,862,"You're going for an important
+ride. If they say twenty-four
+for it to be right, then it's
+twenty-four!"
+863,NEIL,863,You checked all around?
+864,NATE,864,All around.
+865,(beat),865,"You and I go way back, kiddo, I
+bought you the best."
+866,NEIL,866,Where's the pick-up?
+867,NATE,867,"Santa Monica Airport. They're a
+legit operation. I won't have
+details until tomorrow morning."
+868,NATE,868,What is it?
+869,NEIL,869,"Kelso's share. Ten per cent.
+$400,000. That's less the 50
+advance. The other bag was with
+Cerrito."
+870,HANNA,870,"You stick with the Charlene
+Shiherlis piece."
+871,FARINA,871,"Marciano's on a plane in here
+from, Las Vegas to pick her up.
+We got a house I set.."
+872,HANNA,872,"Maybe Chris or Neil will come
+for her. Frankly, I doubt it."
+873,HANNA,873,"You work Neil's transport from
+here on the phones."
+874,DRUCKER,874,"McCauley's gotta be gone. He
+hadda have a getaway planned."
+875,HANNA,875,"And now he's gotta get a new
+one! Would you trust it after
+this afternoon?"
+876,(beat),876,"Someone, somewhere's agenting it
+for him. That's a main track.
+We got Shiherlis setting up.
+That's a main track. I want
+more."
+877,FARINA,877,How much time we got?
+878,HANNA,878,"Eight, ten, twelve hours. For
+him to set up a new out. After
+that? He's gone. Bam! Bye-
+bye."
+879,HANNA,879,"He's the burglary cop with the
+""terrific tip?"""
+880,BOSKO,880,Yeah.
+881,DIETER,881,Who are you?
+882,HANNA,882,Hanna.   Where'd it come from?
+883,DIETER,883,"I got my informants.      Just like
+you got..."
+884,HANNA,884,"I got Schwartz. Dead. Casals
+got no liver. He's dying. Don't
+come on to me with ""confidential
+source"" crap!"
+885,DIETER,885,"Hugh. Hugh Benny.       He gives me
+tips...!"
+886,HANNA,886,"Who ratted-out McCauley?     C'mon!
+Who? You?"
+887,CHARLENE,887,Whose side are you on?
+888,MARCIANO,888,I'm on yours.
+889,CHARLENE,889,"You slimy piece of shit.     What a
+joke."
+890,MARCIANO,890,"You told me you want out from
+under? You're scared to death
+of Neil. You wanted out? This
+is out!"
+891,CHARLENE,891,What's your end?
+892,MARCIANO,892,"You dump broad! How'd I get
+into this?"
+893,FARINA,893,"Hey, hey!     Go easy on the lady!"
+894,MARCIANO,894,Huh?
+895,FARINA,895,"You heard me. She had a rough
+ride."
+896,(beat),896,"Go mix her a drink. Cabinet
+above the sink."
+897,MARCIANO,897,Fuck her.
+898,FARINA,898,Get the fuck in there!
+899,FARINA,899,"He's right. And you know it.
+You think you'd be betraying
+Chris?"
+900,CHARLENE,900,Yes.
+901,FARINA,901,"Well, you're right. You would
+be. But if you don't betray
+Chris, you betray Dominick.
+Because he becomes an orphan
+when you go to prison as an
+accessory 'cause you got no living
+parents to take him. Then he
+ends up state-raised and fucked
+for life. Your son Dominick's
+innocent. He didn't choose a
+life like that. Chris did."
+902,FARINA,902,"Give up Chris. You get off clean.
+Do it for your kid."
+903,FARINA,903,"Vincent. It's me. We're set
+here. She'll make the call."
+904,CHARLENE,904,"I'm going to give you an address
+of where I'm staying. Could you
+get it to Chris?"
+905,HANNA,905,Okay.
+906,DRUCKER (O.S.),906,M. C. U.
+907,HANNA,907,"It's me. Tracks back to this
+union guy, Van Zant. He had
+some beef with Neil. Neil already
+settled it. Van Zant got dead
+earlier tonight."
+908,HANNA,908,"Now Hugh Benny has reformed his
+wayward life and become a born-
+again good citizen. So, he's
+revealed the key player is this
+cowboy Waingro. Used to be part
+of Neil's crew. Waingro committed
+a double murder today on Towner,
+a driver, and his old lady."
+909,HANNA,909,"Meanwhile Waingro's checked into
+the Airport Hyatt House under
+""Jamieson."" Maybe Neil will make
+a move on him, but not likely."
+910,HANNA,910,"Get the word to bailbondsmen,
+bookies, snitches in County,
+etc. where Waingro is. And get
+a team down there to set it up."
+911,DRUCKER (V.O.),911,Want me to do it?
+912,HANNA,912,"No. You stay on who's agenting
+Neil's getaway. What have you
+got?"
+913,DRUCKER (V.O.),913,Nothing yet.
+914,HANNA,914,"He's here. He's still here.    I
+can feel it."
+915,BERRYMAN,915,For how long?
+916,HANNA,916,"Eight, ten hours max."
+917,EADY,917,What did you do?
+918,EADY,918,Was that you?
+919,NEIL,919,It's what I don't do.
+920,(beat),920,"I don't sell swimming pools. It
+would have been okay. You would
+have flown out after. You didn't
+need to do a thing. Now I'm
+jammed. We got to go together.
+Because we get dropped in a place
+and then I decide: New Zealand
+or Brazil or Tunisia, whatever.
+I can't leave a string back here
+to where I am."
+921,EADY,921,What.
+922,NEIL,922,"I rob and steal for a living.
+Do you understand?"
+923,EADY,923,You killed people?
+924,NEIL,924,"If they got in the way.    Yes.
+It's their problem."
+925,EADY,925,"The woman on the grass...where
+her husband got shot.."
+926,NEIL,926,Elaine Cerrito.
+927,NEIL,927,"Michael Cerrito's wife. Michael
+was my friend. He knew the risks.
+He didn't have to be there. He
+coulda been a...been a mailman."
+928,EADY,928,I don't believe it.
+929,NEIL,929,Believe it.
+930,NEIL,930,"Eady. Get packed.     Get dressed.
+Let's go."
+931,NEIL,931,Eady! !
+932,EADY,932,"Why you do this to me!    What I
+do to you?!"
+933,NEIL,933,Shut up!
+934,NEIL,934,"Use these credit cards. They
+say ""Mr. and Mrs."" I reserved
+the car. Buy me some clothes.
+Here's a list. I can't go home
+for my stuff. Can you do it?"
+935,EADY,935,When's it over?
+936,NEIL,936,"Twenty-two hours. Then we fly
+out of here...clean."
+937,EADY,937,"I want you to let me go.     When
+will you let me go?"
+938,NEIL,938,"You can go now. There's the
+door, you want out..."
+939,EADY,939,"No, I have to do what you say.
+But will you let me leave after?"
+940,NEIL,940,It will be different...
+941,JUSTINE (O.S.),941,It's ready...
+942,JUSTINE,942,Oh. Meet Vincent.
+943,RALPH,943,"Excuse me. You didn't tell me
+you were..."
+944,RALPH,944,"Oh, my God..."
+945,HANNA,945,What's your name?
+946,RALPH,946,I should....Ralph...I'm...
+947,HANNA,947,I'm Vincent Hanna.
+948,JUSTINE,948,Don't you even get angry?
+949,HANNA,949,I'm angry.
+950,HANNA,950,"Ralph, you can ball my wife.
+You can lounge around her $1.7
+million condominium on her sofa.
+You can do all those things.
+But you do not get to watch my
+fucking TV...!"
+951,HANNA,951,"I've never screwed around. I've
+been true blue to you since the
+day we met."
+952,JUSTINE,952,"It would have been preferable if
+you had! You made me do this!"
+953,HANNA,953,"Right I had Ralph fuck you 'cause
+it makes me feel so good."
+954,JUSTINE,954,"Put down the television. You
+look ridiculous."
+955,JUSTINE,955,"Dr. Prince says I'm trying to
+get your attention. Christ! I
+have to pay someone to figure
+out my life with you."
+956,RALPH,956,Maybe I should...
+957,HANNA,957,Shut up!
+958,JUSTINE,958,"Why's it my job to figure it all
+out and explain it to you?"
+959,HANNA,959,"'Cause you're the one who spends
+all the time on the couch."
+960,JUSTINE,960,And what do you do?
+961,HANNA,961,"What do I do? I speak the English
+language. Words. Sentences
+even."
+962,JUSTINE,962,How admirable: proletarian candor.
+963,HANNA,963,Thank you.
+964,JUSTINE,964,"Except you don't say a damned
+thing. You neglect me. You
+don't call. I can worry about
+you or not. So I withdraw. You
+don't notice. You're walking
+through our life chloroformed,
+Vincent. Wake up. It's almost
+over."
+965,NATE,965,"I got Cerrito's share deposited
+in the Delaware Trust for Elaine.
+She's pretty bad..."
+966,NATE,966,"Passports. Traveler's checks.
+Plastic."
+967,NATE,967,"Hangar 17. Plane call letters
+are 1011 Sierra. Touches down,
+holds for five minutes and splits.
+The plane will stand an FAA check.
+Filed flight plan. The works."
+968,NATE (CONT'D),968,"Here's the address Charlene said
+she was at. But I don't have
+documents for her."
+969,CHRIS,969,I'm not flying. I'm drivin'.
+970,NATE,970,Fly. Send for her later.
+971,NATE,971,Can't you talk to him?
+972,NEIL,972,I been trying.
+973,NATE,973,"Talk to you in three hours in
+case there's changes."
+974,NEIL,974,"Use the Camaro. Its clean and
+will stand a DMV check."
+975,CHRIS,975,How you getting around?
+976,NEIL,976,Someone's picking me up.
+977,CHRIS,977,A girl on the side?
+978,NEIL,978,"See you, cowboy."
+979,CHRIS,979,"So long, brother."
+980,EADY,980,Clothes are in the trunk.
+981,NEIL,981,Any trouble?
+982,EADY,982,No.   When's it over?
+983,NEIL,983,Six hours. 8 p.m.
+984,NEIL,984,"I'll buy you lunch. Everything's
+smooth. We're going to fly
+away..."
+985,FARINA,985,Not a thing. What about you?
+986,HANNA,986,Someone's agenting Neil's stuff?
+987,HANNA (CONT'D),987,"Who? The Tooth Fairy? Talk to
+you later."
+988,HANNA,988,"...how did Charlene get the Marina
+address passed to Chris?"
+989,HANNA,989,"I don't believe I didn't think
+of this."
+990,HANNA,990,Farina?
+991,NATE (V.O.),991,Yeah?
+992,NEIL,992,Hi ya.
+993,NATE (V. 0.),993,You okay?
+994,NEIL,994,"Yeah, Breedan's end?"
+995,NATE,995,"Still can't find nobody. It's
+in the Delaware Trust. You tell
+me later what to do. And about
+your ride. No changes. Right
+on schedule."
+996,NEIL,996,Okay...
+997,NATE (V. 0.),997,"By the by: I heard your pal is
+checked into the Airport Hyatt
+under ""Jamieson""...if you still
+care..."
+998,NATE (V.O.),998,"I figured you wouldn't waste the
+time."
+999,NEIL,999,You figured right.
+1000,NEIL,1000,"Take it easy, old man."
+1001,NATE,1001,"You take it easy. Be careful,
+huh?"
+1002,NEIL,1002,That was the last bridge.
+1003,HANNA,1003,"He blows out of here, you'll do
+his time. I want..."
+1004,NATE,1004,"Screw what you want.    Who the
+fuck are you?"
+1005,HANNA,1005,"Your worst nightmare.    Hard time,
+Nate!"
+1006,NATE,1006,"I ain't looking at shit, and you
+know it! So don't con me."
+1007,BOSKO,1007,I'll work him...
+1008,NATE,1008,Go ahead!
+1009,HANNA,1009,Don't touch him!
+1010,HANNA,1010,"Accessory. Armed robbery and
+murder one. Dealing stolen
+merchandise and securities. You
+agent for Neil. At least the
+armored car and bank. Everything
+I tie him into, I tie you into.
+Two cops dead. Other bodies on
+the sidewalk. You understand
+that kind of heat? You fucking
+get it!"
+1011,NATE,1011,Neil who...?
+1012,HANNA,1012,"Book him on Accessory to Armed
+Robbery, Murder One, A.D.W., and
+Trafficking Stolen Merchandise."
+1013,HANNA,1013,"The Nazi's in Quentin will turn
+your ass into a satchel. You're
+an old man. Gimme Neil!"
+1014,NATE,1014,"What I'll give you is so many
+false arrest lawsuits, you won't
+have time to write traffic
+tickets!"
+1015,HANNA,1015,Get me Farina.
+1016,DRUCKER,1016,Can we put Nate away?
+1017,HANNA,1017,"With a staff of five or six
+marshaling physical evidence for
+six months after two years' worth
+of continuances...maybe he'll do
+18 months. Won't fucking happen."
+1018,HANNA,1018,Check the bait.
+1019,BOSKO,1019,Waingro?
+1020,HANNA,1020,Yeah.   At the hotel.
+1021,NEIL,1021,Look over there.
+1022,NEIL,1022,"I don't even know how to think
+like this...cause this has
+happened to me late in my life.
+But I got some expectations.
+For us. You can walk right now
+if you want. Walk away. Or
+you...on your own...you choose
+to come with me. I got enough
+in there to take care of us for
+forever."
+1023,NEIL,1023,Eady.
+1024,NEIL,1024,Eady?
+1025,COP #6 (V.O.),1025,"Richie. A possible moved into
+the zone."
+1026,COP #5 (V.O.),1026,We got him.
+1027,FARINA (V.O.),1027,I copy.
+1028,FARINA (V.O.),1028,Got a live one.
+1029,HANNA,1029,I'll hold.
+1030,FARINA,1030,"C'mon, sugar: show yourself"
+1031,MARCIANO,1031,Do it!
+1032,FARINA,1032,Shut up!!
+1033,FARINA,1033,"One second at the window.   Then
+it's all over..."
+1034,CHARLENE,1034,"looks at Farina. She slowly
+crosses to the window. Marciano
+has faded to the back of the
+room."
+1035,CHARLENE,1035,"For Christ's sake...that's not
+even him. That's not Chris."
+1036,CHRIS,1036,"Any of you guys know anything
+for rent around here?"
+1037,BASKETBALL PLAYER #1,1037,"Alberiz's grocery on Dell Avenue
+got cards on the wall."
+1038,FARINA,1038,"Unit two. This is command.
+Take him at the street. Check
+him out."
+1039,UNIT TWO (V.O.),1039,10-4.
+1040,MARCIANO,1040,Where the hell is he?
+1041,CHARLENE,1041,Maybe he's not coming.
+1042,MARCIANO,1042,"You better hope he shows! Or
+you're going to the can, you two
+dollar..."
+1043,FARINA,1043,Get him the hell out of here!
+1044,UNIT TWO (V.O.),1044,Command.
+1045,FARINA,1045,Yeah?
+1046,UNIT TWO (V.O.),1046,"This guy's  John Pearson. Valid
+I.D. car's  registered to one
+Bukowski.   Ran a make to DMV.
+It's clean.   So's the car."
+1047,FARINA,1047,Let him go.
+1048,FARINA,1048,"Want a cup of coffee while we
+wait, Mrs. Shiherlis?"
+1049,CHARLENE,1049,That would be nice.
+1050,FARINA (V.O.),1050,"False alarm, Lieutenant."
+1051,HANNA (V.O.),1051,What's the score?
+1052,DESK CLERK/COP,1052,On this Waingro?
+1053,DESK CLERK/COP (CONT'D),1053,"I just told Bosko. Zero.
+Nothing's happening."
+1054,HANNA,1054,You know what?
+1055,(beat),1055,"Neil's gone. Bam!   Flyin' like'
+a bird."
+1056,BOSKO,1056,"C'mon! How do you know?   We
+still got..."
+1057,HANNA,1057,What do we got?
+1058,HANNA,1058,"Bon voyage, motherfucker, you
+were good."
+1059,HANNA,1059,"I'm going to the hotel. I'm
+gonna take a shower. I'm gonna
+sleep for a month."
+1060,LAUREN,1060,...Daddy?
+1061,HANNA,1061,"You're gonna be okay, baby.
+Your mommy and me are here.
+Everybody's here. We're going
+to take care of you. We love
+you..."
+1062,ORDERLY,1062,Let me take her.
+1063,HANNA,1063,I got her.
+1064,DOCTOR,1064,Watch her tongue!
+1065,HANNA,1065,"She's not epileptic!   This isn't
+a seizure."
+1066,DOCTOR,1066,5 mg of Thorazine.
+1067,HANNA,1067,"You okay, baby?"
+1068,RADIO ANNOUNCER (V.O.),1068,"Hey there, old aware ones, and
+you, too, my fair ones ..."
+1069,EADY,1069,What is it?
+1070,NEIL,1070,Nothing.
+1071,RADIO ANNOUNCER (V.O.),1071,"Brought to you this fine day
+which is A-okay!"
+1072,NEIL,1072,"I got this errand to run that I
+forgot."
+1073,EADY,1073,"The airport is right there.    Is
+there time?"
+1074,NEIL,1074,"Sure. It's a thing I got to
+take care of... is all."
+1075,NEIL,1075,Leave it running.
+1076,NEIL,1076,"...be right back, Eady."
+1077,EADY,1077,Neil...?
+1078,PAINTER TWO,1078,What's going on?
+1079,PAINTER ONE,1079,Nothing.    He's watching TV.
+1080,PAINTER TWO,1080,"We going to finish this game or
+what?"
+1081,OPERATOR (V.O.),1081,Hyatt House.
+1082,NEIL,1082,"Hi. It's the kitchen again.
+A... ""Jamieson"" ordered a BLT
+and they got his room number
+screwed up."
+1083,OPERATOR (V.O.),1083,They're always doing that.
+1084,"(beat)
+NEIL",1084,"Thanks, love."
+1085,PA (V.O.),1085,"A fire has been reported. Please
+leave your rooms now. Proceed
+down marked fire exits. Use the
+staircases. Do not use the
+elevators. This is NOT a drill.
+A fire...etc."
+1086,PAINTER ONE,1086,"Yeah. Whyn't you call out for
+pizza? Sausage, peppers,
+onions..."
+1087,PAINTER ONE,1087,Hey.
+1088,PAINTER TWO,1088,What?
+1089,PAINTER ONE,1089,"That chick on the ninth floor
+got naked and she's pressing
+herself against the glass again."
+1090,PAINTER TWO,1090,Let me see.
+1091,PAINTER TWO (O.S.),1091,"Oh, boy...!"
+1092,OPERATOR (V.O.),1092,Lt. Hanna. Telephone. Lt. Hanna.
+1093,HANNA,1093,"Fuck McCauley. You handle it.
+Call Bosko and Drucker in. Get
+me at the hospital after."
+1094,JUSTINE,1094,"...Will things change between
+us?"
+1095,"HANNA
+(beat)",1095,I don't know...
+1096,(beat),1096,Probably not...
+1097,(beat),1097,"...but I am reminded of how much
+I love you. But that may not be
+enough."
+1098,JUSTINE,1098,"You have to go to work, don't
+you?"
+1099,HANNA,1099,Yeah.
+1100,JUSTINE,1100,"Be careful, Vincent. Be very
+careful..."
+1101,(beat),1101,Let's keep on trying?
+1102,WAINGRO (O.S.),1102,Yeah?
+1103,NEIL,1103,"I'm hotel security. We're
+evacuating the floor."
+1104,WAINGRO (O.S.),1104,I can't leave.
+1105,NEIL,1105,"Sir, I'm afraid you'll have to."
+1106,NEIL,1106,"I should have dumped you in that
+parking lot. Look at me, you
+sick fuck."
+1107,NEIL,1107,"Gimme your eyes. 'Cause you're
+gonna die."
+1108,HANNA,1108,Casals come in.
+1109,CASALS (V.O.),1109,"Vincent. I'm in the southeast
+stairwell."
+1110,HANNA,1110,What's the situation?
+1111,CASALS (V.O.),1111,"Three teams are moving up the
+other three stairwells to the
+14th floor. Elevators are out
+of commission because of the
+fire alarm. Surveillance said
+McCauley looked right at 'em.
+Didn't seem surprised."
+1112,HANNA,1112,"It means he knew we were here
+and came anyway."
+1113,CASALS (V.O.),1113,"I got two Special Weapons Teams
+deployed at the front and back
+exits. Choppers."
+1114,HANNA,1114,"Yeah, yeah, that's fine.   Stay
+on it. 10-4."
+1115,NEIL,1115,...not half bad.
+1116,HANNA,1116,...pretty good your own self.

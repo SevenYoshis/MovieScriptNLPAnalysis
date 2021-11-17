@@ -1,8 +1,9 @@
 import pandas as pd
 import json
-def convert(script, startid):
+import os
+
+def convert(script):
     character_to_lines = {
-        "id": [],
         "character": [],
         "line #": [],
         "line": []
@@ -13,22 +14,23 @@ def convert(script, startid):
             character_to_lines["line"].append(part["text"])
             character_to_lines["character"].append(part["character"])
             character_to_lines["line #"].append(line_number)
-            character_to_lines["id"].append(startid)
             line_number += 1
-            startid += 1
 
     return character_to_lines
 
+path_json = 'Movies'
+path_csv = 'Movie_spreadsheets'
 
+for filename in sorted(os.listdir(path_json)):
+    if filename.endswith('.json'):
+        f = open(os.path.join(path_json, filename), "r")
+        data = json.loads(f.read())
+        line_dict = convert(data)
+     
+        line_dict = pd.DataFrame.from_dict(line_dict)
+        
+        out_filename = filename.replace('.json', '.csv')
 
-f = open('Movies/TheSocialNetwork.json', "r")
- 
-# Reading from file
-data = json.loads(f.read())
-line_dict = convert(data, 6140)
-
-line_dict = pd.DataFrame.from_dict(line_dict)
-
-print(line_dict.head())
-line_dict.to_csv('Movie_spreadsheets/thesocialnetwork.csv')
+        # print(line_dict.head())
+        line_dict.to_csv(os.path.join(path_csv, out_filename))
 

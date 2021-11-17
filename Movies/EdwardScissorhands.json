@@ -1,0 +1,3055 @@
+{
+ "movie_url": "https://imsdb.com/scripts/Edward-Scissorhands.html",
+ "movie_title": "y",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "Edward Sissorhands"
+  },
+  {
+   "type": "speech",
+   "character": "OLD KIM",
+   "text": "Snuggle in, sweetie. It's cold out there."
+  },
+  {
+   "type": "speech",
+   "character": "GRANDDAUGHTER",
+   "text": "Why is it snowing, grandma? Where does it come\nfrom?"
+  },
+  {
+   "type": "speech",
+   "character": "OLD KIM",
+   "text": "Oh, that's a long story, sweetheart."
+  },
+  {
+   "type": "speech",
+   "character": "GRANDDAUGHTER",
+   "text": "I want to hear."
+  },
+  {
+   "type": "speech",
+   "character": "OLD KIM",
+   "text": "Oh, not tonight. Go to sleep."
+  },
+  {
+   "type": "speech",
+   "character": "GRANDDAUGHTER",
+   "text": "I'm not sleepy. Tell me, please."
+  },
+  {
+   "type": "speech",
+   "character": "OLD KIM",
+   "text": "Well, all right. Let's see. I guess it would\nhave to start with scissors."
+  },
+  {
+   "type": "speech",
+   "character": "GRANDDAUGHTER",
+   "text": "Scissors?"
+  },
+  {
+   "type": "speech",
+   "character": "OLD KIM",
+   "text": "Well, there are all kinds of scissors. And once\nthere was even a man who had scissors for\nhands."
+  },
+  {
+   "type": "speech",
+   "character": "GRANDDAUGHTER",
+   "text": "A man?"
+  },
+  {
+   "type": "speech",
+   "character": "OLD KIM",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "GRANDDAUGHTER",
+   "text": "Hands, scissors?"
+  },
+  {
+   "type": "speech",
+   "character": "OLD KIM",
+   "text": "No, scissorhands. You know the mansion on top\nof the mountain?"
+  },
+  {
+   "type": "speech",
+   "character": "GRANDDAUGHTER",
+   "text": "It's haunted."
+  },
+  {
+   "type": "speech",
+   "character": "OLD KIM",
+   "text": "Well, a long time ago, an inventor lived in\nthat mansion. He made many things, I suppose.\nHe also created a man. He gave him inside, a\nheart, a brain, everything. Well, almost\neverything. You see, the inventor was very old.\nHe died before he got to finish the man he\ninvented. So the man was left by himself,\nincomplete and all alone."
+  },
+  {
+   "type": "speech",
+   "character": "GRANDDAUGHTER",
+   "text": "He didn't have a name?"
+  },
+  {
+   "type": "speech",
+   "character": "OLD KIM",
+   "text": "Of course, he had a name. His name was Edward."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Avon calling."
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "Weren't you just here?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "No, not since last season. Today I've come to\nshow you our exquisite new line of soft colors\nin shadows, blushes and lipstick. Everything\nyou need to accent and highlight your changing\nlooks."
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "My changing looks? That's good."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Helen chuckles)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Well, it goes that saying and I also have a\ncomplete selection of your old favorites, those\ntried-and-true products we've all come to\ndepend on year-in and year-out."
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "Come on, Peg. I never buy anything from you.\nYou know that?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "I know. Bye, Helen."
+  },
+  {
+   "type": "speech",
+   "character": "REPAIRMAN",
+   "text": "You know, you didn't have to call me, ma'am.\nYou could have taken care of this by yourself."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "I could? I don't think so."
+  },
+  {
+   "type": "speech",
+   "character": "REPAIRMAN",
+   "text": "Yeah, you see, it's easy. The food trap's\nclogged. That's all. You see this bolt here?\nYou just unscrew this. OK? And out she pops."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "You know, on TV they say you repairmen are\nlonely bunch of people. Housewives get lonely\ntoo. Although you may not realize it since they\nhaven't made a commercial on the subject."
+  },
+  {
+   "type": "speech",
+   "character": "REPAIRMAN",
+   "text": "And then you just take this and put it back in\nhere nice and easy. Be careful not to force it,\nbecause it fits in there by itself. And then\nyou just screw this back on."
+  },
+  {
+   "type": "stage direction",
+   "text": "(The bell rings.)"
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "On no! Who could that be? Will you excuse me\nfor a moment? Now. Don't go anywhere. I'll be\nright back. This is fascinating. I wouldn't\nwant to miss a moment of it."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Good morning, Joyce. Avon calling."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Why! Peg. Have you gone blind? Can't you see\nthere's a vehicle in my driveway?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, yes."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Well, I'm surprised you don't realize that\nmeans I'm busy."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Joyce shuts the door with a\nbang.)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Okay. Now, we should decide on lipsticks. Okay,\ndear, what one did you like best? There was the\nWinsome Wahini which looked charming on you. Or\nthe Bahenie Bliss."
+  },
+  {
+   "type": "speech",
+   "character": "A GIRL",
+   "text": "I like them both."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Well, great."
+  },
+  {
+   "type": "speech",
+   "character": "A GIRL",
+   "text": "You don't actually think I have any money, do\nyou?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Peg gets in her car.)"
+  },
+  {
+   "type": "speech",
+   "character": "CHILDREN",
+   "text": "Ding, dong, the Avon lady."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "It's just not my day."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Disappointed Peg sees a mansion\nthrough her rearview mirror and\ndrives to the place. She is\nattracted by the beautiful garden\nthere and enters the mansion.)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, my goodness."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, it's so beautiful. Hello?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Birds flying)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Hello? Avon calling, oh my. Hello, I'm Peg\nBoggs. I'm your local Avon representative.\nHello. I'm sorry to barge in like this. But you\ndon't have any reason to be afraid. This is\nsome huge house, isn't it? Thank goodness for\nthose aerobics classes."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Snipping)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Hello. Hello. Why are you hiding back there?\nYou don't have to hide from me. I'm Peg Boggs.\nI'm your local Avon representative and I'm as\nharmless as cherry pie."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Peg sees Edward's scissorhands.)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh my! I can see that I've disturbed you. How\nstupid of me! I'll just be going now."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Don't go."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh my! What happened to you?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "I'm not finished."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Uh, put those down. Don't come any closer. Just\nplease... Those are your hands? Those are your\nhands. What happened to you? Where are your\nparents? Hum... Your mother? Your father?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "He didn't wake up."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Are you alone? Do you live up here all by\nyourself? What happened to your face? Hum, you\nknow, I won't hurt you. But at the very least\nlet me give you a good astringent and this will\nhelp to prevent infection. What's your name?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Edward."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Edward? I think you should just come home with\nme."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Peg takes Edward to her home)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh!"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "I'm-I'm sorry."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "No, Don't be. You go ahead and look you have\nevery reason to be excited."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh! Are you ok?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Are you ok?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Ring)"
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "Hello."
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "Hi, it's Margie. Listen, I was standing outside\ntalking to Carol and Peg drove by, she had\nsomebody in the car."
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "Did you get a good look?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "No, did she say anything to you, about having\nguest?"
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "She didn't say anything. She rang my doorbell\nearly this morning."
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "No, ok, I'll meet you on the corner. Right,\nBye."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Birds signal)"
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "Oh, damn!"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Here we go, dear. This is our house. And you\ncan just go right in and make yourself right at\nhome. OK? And just, well have something to eat\nor drink, whatever you... Here, dear. Here\nyou... This is the front door here, Here we go,\nright in here."
+  },
+  {
+   "type": "stage direction",
+   "text": "(A woman talks on the phone)"
+  },
+  {
+   "type": "speech",
+   "character": "A WOMAN",
+   "text": "Joyce, I just saw this strange guy drop in with\nPeg. I didn't get a very good look at him. He\nlooked kind of pale. Okay, I'll be right there.\nDon't do anything without me. Okay? Bye."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Yes, I'll be right there."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Here we are. So, oh, this is the living room\nand back here, the bedrooms. You want to see\nthe pictures? All right. Well, this is my\nhusband, Bill. He's a bowling champion. Do you\nknow what bowling is? Bowling? Well, here they\nare down at the lake, fishing. I think Kevin\nlooks a little glum Because they didn't catch\nanything that day. And here's my daughter, Kim.\nAll dressed up the junior prom. She's a senior\nnow. I can't believe it. She's camping in the\nmountains with some friends, but she'll be back\nin a few days and you can meet her then. Isn't\nshe beautiful? That's my family. Now, go on,\ndear. I'll show you the rest of the house. Then\nyou can just freshen up and make yourself at\nhome. Okay? That's the kitchen over there. You\nhelp yourself to anything you want to eat or\ndrink. Those are grapes. Back here are the\nbedrooms. Let me get you some towels, then I\nwill see what we can find to wear. You know\nwhat? I think I have some of Bill's old clothes\nin here. This is perfect. Here. These should\njust fit you."
+  },
+  {
+   "type": "stage direction",
+   "text": "(The phone rings.)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, no, no. Don't be alarmed. That's just a\nphone. Now you can go in Kim's room and put\nthese on. I'll be right with you."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "No, no, scissors. That's right. Well, he was\nborn up there or something. Have you seen him\nbefore? No, I don't think he's been off the\ngrounds before today. You're kidding. How did\nyou get together with him? I have to go. I'll\ntalk to you later Margie, Bye-bye."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "I'm sorry Edward, I didn't... oh, dear. May I\nhelp you with this?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Thank you."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "There you go. Oh, dear, you've cut your face.\nLet me get this right off. Does that hurt?\nOkay. No, good. Now let's get you dressed.\nOkay. There we go. Very fine. You look fine,\njust fine. Come on, we can't wait for you.\nYou've got rollers in your damn hair."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Okay. Now what did I do with my sci... Edward,\num, would you. Thank you. I have a doctor\nfriend who I think could help you."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Really?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Yes, I can help with the scars. I just want to\nconsult the Avon handbook before doing\nanything."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Kevin, it's not polite to stare. Think how it\nwould make you feel if somebody were staring at\nyou."
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "I wouldn't care."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Well, I would, so don't do it!"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "This must be quite a change for you, Ed."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "I think he prefers Edward."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Sure. So what have you been doing up there in\nthat big old place? I bet the view must be\nspectacular, Ed."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "I was just..."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "See all the way to the ocean?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Sometimes."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Bill, could I have the salt and pepper? Thank\nyou."
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "Man, those things are cool. You know I bet\nthey're razor sharp. One karate chop to a guy's\nneck..."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Would you like some butter for your bread?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Great."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Thank you."
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "Can I bring him to show and tell on Monday?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "I've had enough."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "You think you can sleep? Things feel strange\nnow, but soon you'll feel right at home. Good\nnight."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Peg tries to cover Edward's\nscars.)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "The light concealing cream goes on first, then\nyou blend and blend and blend. Blending is the\nsecret. More concealing for you? But you\ncomplexion is so fair. Now this has a touch of\nlavender in it. Give it a try here. Close\nenough. OK. This should do the trick here. I\nhave another idea. We'll cover up the scars and\nstart with a completely smooth surface. Don't\neat this stuff!  Sports announcements on"
+  },
+  {
+   "type": "speech",
+   "character": "RADIO",
+   "text": "Hartely into the windup and the strike one\npitch. Swung on and missed strike two. If it's\na hit, the club has 12 hits. But they still\nhave 11 on the scoreboard and it's 3-1. 0 and 2\nthe count to Warren. Now they change it to 12\nhits."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Turn it up, Kevin. I can't hear it. Kevin! No,\nmake it louder. Sports announcements on"
+  },
+  {
+   "type": "speech",
+   "character": "RADIO",
+   "text": "Hartely's strike two pitch is hammered."
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "You hear that, Mr. Boggs?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "No, make it louder.  Sports announcements on"
+  },
+  {
+   "type": "speech",
+   "character": "RADIO",
+   "text": "It's going way back. It's gone. It's out of\nhere. It is history."
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "Dad, look!  Sports announcements on"
+  },
+  {
+   "type": "speech",
+   "character": "RADIO",
+   "text": "A grand slam for Martinez to make it a five-run\ninning and blow this game to pieces."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "I'll be darned."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "They filled the whole tape."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Peg listens to the recorded\nphones.)"
+  },
+  {
+   "type": "speech",
+   "character": "RECORDED VOICES",
+   "text": "What's going on over there, Peg. Call me....Hi,\nit's Margie. Who is he? Call me. Oh, by the\nway, here it's pouring rain in the mountains.\nYou think the kids are okay?...Hi, there,\ndarling. The gals are all in a tizzy about your\nsecret visitor. You can't keep him a secret\nforever."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Boy, it's just wonderful, Ed. My god, you, you\nhave the whole family in there, don't you?"
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "Edward, come here."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Kevin cleans Edward's\nscissorhands with water.)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "No, no, no. That's a terrible idea, son. Go to\nthe garage and get the oil can. We don't want\nhim rusting up on this now, do we?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Edward, you did us? Oh, Bill. It's us."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Yes, it is."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, Edward."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Esmeralda comes near.)"
+  },
+  {
+   "type": "speech",
+   "character": "ESMERALDA",
+   "text": "It's not heaven he's from. It's straight from\nthe stinking flames of hell. The power of satan\nis in him. I can feel it. God, you have the\npoor sheep strayed so far from the path."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "We are not sheep."
+  },
+  {
+   "type": "speech",
+   "character": "ESMERALDA",
+   "text": "Don't come near me."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "That's right. Go on. Get out of here. Run!"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Edward, don't you listen to her."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Don't worry about her, Edward. She's just an\nold lonely loony. That's all."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Women knock on the door.)"
+  },
+  {
+   "type": "speech",
+   "character": "WOMEN",
+   "text": "Hi!"
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "You are all hiding in there like a bunch of old\nhermit crabs."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Hi, Joyce. Hi!"
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Shame on you, keeping your unusual guest all to\nyourself. We think that's mighty selfish of\nyou."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "No, it, it's... things have just been a little\nhectic around here. That's all."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Oh, that was so sweet of you to want to correct\nthe situation. What time does the barbecue\nbegin?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Barbecue?"
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Well, you intend to show your guest hospitality\nby introducing him to your friends, don't you?"
+  },
+  {
+   "type": "speech",
+   "character": "ANOTHER WOMAN",
+   "text": "I'll bring coleslaw."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "And I will bring the ambrosia salad. What time\nwas it that you said?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "What time? Ah... bill."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "About five?"
+  },
+  {
+   "type": "speech",
+   "character": "ESMERALDA",
+   "text": "He has been sent first to tempt you. But it's\nnot too late. You must push him from you. Expel\nhim. Trample down the perversion of nature."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Did you hear that? He's the perversion of\nnature. Wow, isn't that exciting? See you\nlater. Bye bye."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "I've always said that you really can't have a\npicnic or a barbecue without deviled eggs.\nThey're just the best. They make the thing. Oh,\ndear. Edward. That's wonderful. I didn't know\nyou chopped all those things. What a really\nbig..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Peg notices a cut on his face.)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, all right now. It's just a nick. There's no\nneed to be nervous, dear. You know, Esmeralda\nwon't be here and the rest of neighbors there\nare really very nice. There's no need to be\nnervous. They are so eager to meet you. You\njust have to be yourself."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Myself?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "That's right. Just your own sweet self."
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "Hey, play scissors, paper, stone with us."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Play scissors what?"
+  },
+  {
+   "type": "speech",
+   "character": "NEIGHBOR",
+   "text": "I got a doctor friend might be able to help\nyou. Aren't they most incredible?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "He did them just like that."
+  },
+  {
+   "type": "speech",
+   "character": "TINKA",
+   "text": "This afternoon?"
+  },
+  {
+   "type": "speech",
+   "character": "AT THE PARTY",
+   "text": "Hi, Mike. How are you doing? Hello, Jack. Hey,\nkid. Hey, Hi. George Morroe! Whoa! That's a\nheck of handshake. Uh, Harry! Harry! I saw you\non the golf course. You got a dozen of the\nmelons..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Are you ok?  Do you want something to eat?  Are\nyou hungry? Do you want a cracker?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "He's so... different completely different, No\nkidding mysterious."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Do you imagine those hands are hot or cold?\nJust think what a single snip could do."
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "Or undo."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "GEORGE",
+   "text": "Eddie.  The guys and I were talking, we'd like\nwant to invite you to our card game on Friday\nnight. Would you like that? Only thing is, you\ncan't cut."
+  },
+  {
+   "type": "speech",
+   "character": "AN OLD MAN",
+   "text": "I have my own infirmity. Never did me a bit of\nharm. Took some shrapnel during the war and\never since then I can't feel a thing. Not a\ndamn thing. Listen Don't you ever let anybody\ntell you you have a handicap."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Who's handicapped? My goodness! Don't be\nridiculous. You're not handicapped. You're...\nWhat do they call that? Exceptional. My name's\nJoyce. And I noticed that you have not tasted\nany of the ambrosia salad that I made\nespecially for you. Allow me."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Joyce helps Edward to eat.)"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN 1",
+   "text": "You must try this."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Many women flock to him)"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "You must try this.  It's my mother's recipe.\nLet him chew, for heaven sakes with your green\nthumb. I could use your help."
+  },
+  {
+   "type": "speech",
+   "character": "HOUSEWIFE",
+   "text": "Me, too. There you go."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN 2",
+   "text": "I want a row of angels."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Sorry, ladies. But he's promised to come to my\nhouse first."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN 3",
+   "text": "One more."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Haven't you, Eddie?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "I did?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Okay, everybody. Grab your plates. Soup's on."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "I thought it was shish kebab."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "What?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "I thought it was shish kebab."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Yeah, it, it is shish kebab. It was a figure of\nspeech, Ed. You got to learn not to take things\nso literally."
+  },
+  {
+   "type": "stage direction",
+   "text": "(On hearing that, Edward looks\nback the time the inventor taught\nhim the etiquette.)"
+  },
+  {
+   "type": "speech",
+   "character": "INVENTOR",
+   "text": "Let us pretend we're in the drawing room, and\nthe hostess is serving tea \"Now, many numerous\nlittle questions confront us\" \"Should the man\nrise\" \"When he accepts his cup of tea?\" \"May\nlump sugar be taken with the things?\""
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Hmm, no."
+  },
+  {
+   "type": "speech",
+   "character": "INVENTOR",
+   "text": "Is it good form to accept a second cup? \"Now,\nshould the napkin be entirely unfolded.\" Oh\nshould the center crease. Be allowed to remain?\nIt is so easy to commit embarrassing\nblunders. \"But etiquette humiliation and\ndiscomfort. Mmm yes, boring. Let us switch to,\nUm... To some poetry, Hmm?\" \"There was an old\nman from the cape.\" \"Who made himself there,\nbut they keep such a beautiful shape.\" That's\nright. Go ahead, smile. It's funny. That's\nright."
+  },
+  {
+   "type": "speech",
+   "character": "DENNY",
+   "text": "Okay, guys, we're home. shh."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "I can't believe. Everything's still sopping."
+  },
+  {
+   "type": "speech",
+   "character": "TEENAGE GIRL",
+   "text": "I can't wait to take a shower."
+  },
+  {
+   "type": "speech",
+   "character": "SUZANNE",
+   "text": "And wash off the mildew."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "If my parents set the alarm, I'm screwed I'll\nsleep in the yard... again."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "I told you to call to say we're coming back\nearly."
+  },
+  {
+   "type": "speech",
+   "character": "DENNY",
+   "text": "Did you?"
+  },
+  {
+   "type": "speech",
+   "character": "SUZANNE",
+   "text": "He'd rather complain."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "How else can I be the center of the attention?\nYou didn't call your parents."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "They don't run their house like a police\nstation. Bye. Thanks for driving, Denny. See\nyou later."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "See you later. Bye."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Don't forget your arm."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Oh, yeah."
+  },
+  {
+   "type": "speech",
+   "character": "DENNY",
+   "text": "Come on, Jim let's go."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Bill! There's somebody in my room. Go. Look. A\nmurderer with an axe. He did try to even kill\nme."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "It's all right. It's all right."
+  },
+  {
+   "type": "stage direction",
+   "text": "( to Kevin)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Go back to bed. It's only Edward."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "This way."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Honey, that was Edward."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Who is he? What are you talking about?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Edward's come to live with us. There's nothing\nto be upset about. No, no. It's okay."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "We'll have you a setup here in a minute. Up\nwith your feet. A queen-size bed here. How do\nyou like that? It's all made up and everything.\nThere you go. What's the matter? What's wrong?\nShe gets you nervous? You've been closed up in\na way in that castle too long.  You don't know\nanything about the wonderful world of teen-age\ngirls. They're all crazy. Here some. Straighten\nthat out."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "What is it?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Lemonade. I don't know what it is. They reach a\ncertain age. They develop these gland things.\nTheir bodies swell up. They go crazy."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Glands?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "yeah, glands. I try not to think about it"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Edward drinks lemonade.)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Good. Isn't it?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Peg calms down Kim.)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Now you stay in Kevin's room tonight. Tomorrow\nwe'll fix your room right."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Mom, why did you have to bring him in here?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, honey, I couldn't have left him there all\nalone. You would have done the same thing."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Why does he have to stay here?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, my goodness, Kim. I'm surprised at you. He\ncan't help the way he is. Have a little\nsympathy."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "I do have a little sympathy."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Then let's just say hello and later you can\ncome downstairs and shake his hand."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Shake his hand?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Well, not literally. Goodness, you scared him\nhalf to death."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "I scared him to death?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Hi, Bill. I just wanted you two to have a\nproper introduction. Edward, this is our\ndaughter Kim.  Kim, this is Edward who's going\nto live with us."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Hi!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Edward falls on the floor.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Eddie. Thirsty?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Kisses)"
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Kisses, Hush up. Quiet now. I can hardly hear\nmyself think. Momma's precious little baby\ngirl."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Wouldn't you like a nice cool glass of\nlemonade?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Lemonade?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Vomits)\n(Bell rings)"
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "One chop to guy's neck. And it's all over.\nThey're the sharpest things in the world. They\ncan hack through anything. And..."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "I think they look weird. They give me the\ncreeps."
+  },
+  {
+   "type": "speech",
+   "character": "A GIRL",
+   "text": "You should see the clown in front of Ms.\nPeter's yard."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Kim!"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Oh, no!"
+  },
+  {
+   "type": "speech",
+   "character": "A GIRL",
+   "text": "That's him?"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "He's calling you, Kim."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Stop it."
+  },
+  {
+   "type": "speech",
+   "character": "A WOMAN",
+   "text": "Edward, you forgot your cookies."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Don't worry, Eddie. She's waiting for you."
+  },
+  {
+   "type": "speech",
+   "character": "A GIRL",
+   "text": "Let's go."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Bill, you know what Edward told me? He had\nlunch at Jackie's today."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Really?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "She's just had her kitchen completely redone."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "I'll be darned."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "New paint, new cabinets, new floors, new\nmicrowave, new Sonnet dishwasher."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Yeah, isn't that wonderful?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Isn't that something? Jim, didn't you tell me\nyour mom had her kitchen done too?"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Yeah, my dad bought himself a bunch of new\ntoys. Big screen TV, CD players, VCR with four\nheads."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "My goodness sake! I wonder what it's like to be\nthat rich."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "No, they keep things pretty much locked up. My\nfather has his own room for his stuff to make\nsure I can't get and use it. He's so cheap he\nwon't help me buy my own car."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Well, he probably wants you to pay for it\nyourself. I agree with him. It builds\ncharacter. You'll appreciate it more. Speaking\nof money, I understand you are not charging for\ngardening, Edward?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Now, Bill. Margie made him cookies today."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Sweetheart, you can't buy the necessities of\nlife with cookies. You can't buy car with\ncookies. Am I right, Jim?"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Ah, that's true, sir. You can't."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Edward gives a piece of meat to\nKim's friend.)"
+  },
+  {
+   "type": "speech",
+   "character": "A GIRL",
+   "text": "I can't eat that. He used his hands. I don't\nthink it's sanitary."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Edward passes the piece to Kim\nbut drops it in her lap by\nmistake.)"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "I'm sorry."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Honey, you want me to help you clean that up?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "No, that's okay. I'll be right back."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Edward begins styling women's\nhair and becomes famous.)"
+  },
+  {
+   "type": "speech",
+   "character": "HOUSEWIFE",
+   "text": "This can't possibly be my Alexis."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "HOUSEWIFE",
+   "text": "She looks so beautiful. Look at you. She's\ngorgeous. Thank you."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "It won't be long. She has just to decide on the\nstyle, and then it will be fine. She just has\nto decide what style she wants."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "I was hoping for something big and bouffant.\nKind of like mine. Don't you worry , Kisses.\nYou'll be so pretty. Eddie, is there anything\nyou can't do? You take my breath away. I swear.\nLook at this. Have you ever cut a woman's hair?\nWould you cut mine? That was the single most\nthrilling experience of my whole life."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "We're getting the head of the company."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "I'm home."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Hi, honey. We're in here."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Hi! What did you do to your hair?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Edward cut it. Isn't it wild?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(on telephone)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Hello. Oh, I can't believe I'm talking to you\nin person. This is such an honor. Yes. He's\nright here. Great. So then you know all about\nit. Aha. That's exactly what I've been using.\nWell, I've had a little trouble getting it to\nthe right consistency. Yeah, right. just a\nlittle. I'll try that. Well, what imaginative\nsuggestions! I sure will. Thank you so much.\nBye bye."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "No wonder she's the head of the company. You\nknow, she started out as a sales representative\njust like me. I've always wanted to talk to her\nbut until now I never had a reason. Thanks,\nEdward."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "She had some ideas?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "You bet she did."
+  },
+  {
+   "type": "stage direction",
+   "text": "(At the Airport)"
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "I'll get that."
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "Edward! We're here. Come on. Let's get you\nsharpened up."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "You got it?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "No, I can't believe this."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Kim sees Edward coming.)"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Do you have a key?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "I could have sworn I put it in here somewhere."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Well, we're stranded."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Edward opens the locked door with\nhis scissorhands.)"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Wow! Thanks."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Ed, what a guy! Good job. Hey, you didn't break\nit or scratch it or anything. Hey, be a pal and\nyell when Peg pulls in, huh?"
+  },
+  {
+   "type": "speech",
+   "character": "TV HOST",
+   "text": "Quite a story, yes? Any questions for Edward?\nYeah, get way over. Stand right up."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN 1",
+   "text": "What's been the best part of your new life here\nin town?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "The friends I've made."
+  },
+  {
+   "type": "speech",
+   "character": "TV HOST",
+   "text": "Any other questions?"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN 2",
+   "text": "Have you ever thought of having corrective\nsurgery or prosthetics? I know a doctor that\nmight be able to help you."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "I'd like to meet him."
+  },
+  {
+   "type": "speech",
+   "character": "TV HOST",
+   "text": "We'll give that name after the show. Thank you\nvery much. That's very nice. Anyone else? Yes,\nstand right up."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN 3",
+   "text": "But if you had regular hands you'd be like\neveryone else."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Yes, I know."
+  },
+  {
+   "type": "speech",
+   "character": "TV HOST",
+   "text": "I think he'd like that."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN 4",
+   "text": "Then no one would think you're special. You\nwouldn't be on TV or anything."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "No matter what, Edward will always special."
+  },
+  {
+   "type": "speech",
+   "character": "TV HOST",
+   "text": "More questions? Stand right up."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN 5",
+   "text": "Your work is so interesting distinctive and\nunique. Do you have plans to open your own\nbeauty salon?"
+  },
+  {
+   "type": "speech",
+   "character": "TV HOST",
+   "text": "There's an idea. Anyone else? Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN 6",
+   "text": "Do you have a girl friend? Ahh."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Living room in Peg's)"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Sure, he does. Right, Kim?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Now you got him started."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Knock it off, bubble- butt."
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "You did it."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "So?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(On the TV Show)"
+  },
+  {
+   "type": "speech",
+   "character": "TV HOST",
+   "text": "How about it? Is there some special lady in\nyour life?"
+  },
+  {
+   "type": "speech",
+   "character": "TV HOST",
+   "text": "Uh, everything's all right. He'll take a break\nand we'll be right back after these messages."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Why are you laughing? He got hurt."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "It was a little shock. Ha! Ha! Ha!"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "A little shock?"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "I wish we'd been taping that. I'd give my left\nnut to see that again."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Edward in beauty salon)"
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Aren't you excited? Oh, this is just so\nthrilling. Wait till I show it to you. It's\njust perfect. It's just what we've been looking\nfor. I want to call it \"Shear Heaven.\" Here we\nare. No, all along here I'm going to put a row\nof new mirrors. Back up here a whole row of new\ncosmetics."
+  },
+  {
+   "type": "stage direction",
+   "text": "(TV 1/4\u008c)"
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "All along this row here."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Peg could sell cosmetics."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "Sure. This is where I stand when I greet the\ncustomers. Back in here is what I really want\nto show you. This is the storeroom for\nsupplies. What I need from you today is to help\nme make a decision. Don't, that's dangerous.\nYou just sit down right there. I have some\nsmocks. Would you like me to model them? This\nis my favorite because it's yellow. And what\nit's for is to catch itchy little trimming that\nfall down your neck. Then there's this old\npurple one, you know, you kind of drape around\nyou like this."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "I like that one."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "You're trembling. So am I. I've been waiting\nfor this moment for so long. Edward! Edward,\nyou come back here! You can't do that!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(In the Restaurant)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Veloro. Veloro. Sweetheart. That hangs on the\ndash board."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "I've never seen that."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Sorry I'm late."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Hi, Edward. Sorry. We had to go ahead without\nyou. Here you go."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "So, Edward, did you have a productive day?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Mrs. Monroe showed me where the salon is going\nto be. You could have a cosmetic counter."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Wouldn't that be great?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Great."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "And then she showed me the back room where she\ntook all of her clothes off."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Edward. I can't tell you how thrilled I am.\nI'm just as pleased as Punch. This whole beauty\nparlor, that's what's going to teach you\nvolumes. There's nothing like running your own\nbusiness. I've never done it myself, but from\nwhat I gather it's the greatest satisfaction a\nworking man can have. So I guess the bank is\ngoing to be your next step, huh?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "The bank?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Yeah, take out a loan. Get yourself started.\nNothing to worry about. With your talent and\nreputation, it's going to be a snap. Now."
+  },
+  {
+   "type": "speech",
+   "character": "BANK CLERK",
+   "text": "No credit, no record of jobs you've held, no\nsavings, no personal investment, no social\nsecurity number. You may as well not even\nexist. There is no collateral."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "You know. We already have a second on the\nhouse, but don't the testimonials make a\ndifference?  Did you see here, the mayor's wife\ncan't wait to become a client?"
+  },
+  {
+   "type": "speech",
+   "character": "BANK CLERK",
+   "text": "We simply can't do it. Now get yourself a\nsocial security card. Establish credit and buy\nyourself a car. You have the side to advantage.\nYou can get one of those handicapped placards.\nNo problem. Park anywhere you like."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "I can't believe it. Really, it's just an\noutrage. Don't you worry. This isn't the end of\nit. We'll get your money somewhere."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "But that's breaking and entering."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Look. My parents have insurance up the rear.\nOkay? And all it will cost them is a little\nhassle. That's about it. In a week my dad will\nhave new and better everything."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "We can't."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Look. There's a guy who will give us cash for\nthe stuff."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Jim, I don't want to."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Well, do you want to ride around in a van like\nDenny's, and we could be by ourselves whenever\nwe like? With a mattress in the back?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Why can't you just do it?"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Because my father keeps the damn room locked,\nand we need Edward to get us in."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Why can't you take the key like when he's\nsleeping or something?"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Look, you don't understand, everything he\nhandcuffs or ties will do anything for you."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "What do you mean?  That's not true."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Oh, no? Why don't you ask him?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "That's not fair."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "What's fair got to do with it? There isn't any\nother way."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "There got to be."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Look. I've racked my brain. Don't you want us\nto have our own van?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Yeah.  Jim, the lights are on."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Those go on automatically. They've gone for the\nweekend. I told you. That's right."
+  },
+  {
+   "type": "speech",
+   "character": "DENNY",
+   "text": "This burglar scared."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "You turned off the alarm. Am I right?"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Yes, everything, come on. Let's go. Come on."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "I can't believe this is happening."
+  },
+  {
+   "type": "speech",
+   "character": "A GIRL",
+   "text": "Are you sure he doesn't know this is Jim's\nhouse?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "He's never been here."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "This person stole from you?"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Keep your voice down. I told you he stole it.\nRight? Come on. Let's go."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "His parents will make him give it back."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Listen, I've already tried that. The guy's\nparents are like he is. Okay? Now, you told Kim\nyou'd do this. Well, come on. Let's go. Come\non. Come on. Come on."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Edward picks the lock and the\ndoor opens, but when he steps into\nthe room the alarm works and the\ndoor shuts.)"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "The bastard had it wired separately. Come on."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "No, Jim. We can't just leave him here."
+  },
+  {
+   "type": "speech",
+   "character": "POLICEMAN",
+   "text": "We know you're in there."
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER ALLEN",
+   "text": "We're in the process of deactivating the system\nso that you can come out."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Denny, turn around!"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "No way!"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Jim, it's your house. They can't arrest you for\nsetting off your own alarm. We'll just tell\nthem we were breaking in."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "I'm not going back there. Okay?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "We have to go back."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "No, because my father will prosecute."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "His own son?"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Especially his own son. If Edward tells, I'll\nkill him."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Denny, turn around."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Turn around. We have to."
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER ALLEN",
+   "text": "Put your hands high in the air so we can see\nthem. Put your hands up!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Allen)"
+  },
+  {
+   "type": "speech",
+   "character": "POLICEMAN",
+   "text": "He's got something in his hands. Looks like\nknives."
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER ALLEN",
+   "text": "Drop your weapon I repeat. Drop your weapon.\nI'll ask you one more time and this is your\nlast warning. Drop your weapon. If you fail to\ndo so, we'll have to open fire. Don't make us\ndo that, please. Drop your weapons. Drop them.\nNow. Looks like we got a psycho. Prepare to\nfire."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Neighbors gather and ask not to\nfire.)"
+  },
+  {
+   "type": "speech",
+   "character": "A WOMAN",
+   "text": "Please. We know him."
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER ALLEN",
+   "text": "Alright, cuff him."
+  },
+  {
+   "type": "stage direction",
+   "text": "(At police station)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "But can we see him now?"
+  },
+  {
+   "type": "speech",
+   "character": "POLICEMAN",
+   "text": "We'll have to hold him overnight for\nobservation."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "He has to stay in prison all night?"
+  },
+  {
+   "type": "speech",
+   "character": "POLICEMAN",
+   "text": "Pick him up in the morning."
+  },
+  {
+   "type": "stage direction",
+   "text": "(criminal investigation section in\npolice station)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, Edward. Hello Edward, dear. I blame myself."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "What in god's name was going through your mind,\nson?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Why don't I set a better example? You saw how I\nenvied Jim's parents, their money."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "What were you going to do with that stuff?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, I blithely say, \"We'll get money for the\nsalon somehow.\" But I never meant stealing.\nStealing's not the way to get it. Stealing's\nnot the way to get anything."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Except trouble. And you're in a heap of that."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Why ever did you do this?"
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER ALLEN",
+   "text": "Will he be okay, Doc?"
+  },
+  {
+   "type": "speech",
+   "character": "PSYCHOLOGIST",
+   "text": "The years in spent isolation have not equipped\nhim with the tools necessary to judge right\nfrom wrong. He's had no context. He's been\ncompletely without guidance. Furthermore his\nwork, the garden sculptures, hair styles, and\nso forth. Indicate that he's a highly\nimaginative."
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER ALLEN",
+   "text": "Character."
+  },
+  {
+   "type": "speech",
+   "character": "PSYCHOLOGIST",
+   "text": "It seems clear that his awareness of what we\ncall reality is radically underdeveloped."
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER ALLEN",
+   "text": "But will he be all right out there?"
+  },
+  {
+   "type": "speech",
+   "character": "PSYCHOLOGIST",
+   "text": "Oh, yeah. He'll be fine."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER ALLEN",
+   "text": "Listen. It could keep me up all night worrying\nabout you. Watch yourself."
+  },
+  {
+   "type": "stage direction",
+   "text": "(roadside)"
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "I heard this noise and ran out in my bathrobe."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "All along I felt in my gut. There was something\nwrong with him."
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "It could have been my house."
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "It could have been any of our houses."
+  },
+  {
+   "type": "speech",
+   "character": "ESMERALDA",
+   "text": "I warned you, didn't I? I saw the sign of satan\non him.  You didn't heed my warning. but now\nyou will because now you see it too."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Reporters approach Edward and\nPeg.)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Edward. You stay here."
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "What do you say in your defense?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Nothing."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "He didn't want to talk."
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "You have to say something."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "He can't talk right now."
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "No comments? No remarks?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Edward)"
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "So were you set up? What was going through your\nmind? One comment."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "We have to get in the house. We don't want to\ntalk to you. We'll talk to you later."
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "One comment."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Well, for goodness sakes, Lois, I'll see you at\nour Christmas party. Before I get you here for\nyour haircut. Of course, we'll have it this\nyear. Why wouldn't we have it this year? Well,\nyou may think that, but you're wrong."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "You're here. They didn't hurt you, did they?\nWere you scared? I tried to make Jim go back,\nbut you can't make Jim do anything. Thank you\nfor not telling them about me."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "You are welcome."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "It must have been awful when they told you\nwhose house it was."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "I know it was Jim's house."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "You did?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Well, then why did you do it?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Because you asked me to."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Jim called out for Kim.)"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Don't."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "What's the matter with you? When you are going\nto stop? I did what I could. My old man think\nhe's retarded, otherwise he'd still be in jail.\nWhat more do you want from me?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "You could tell the truth."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "So could do. You were there, too."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "It wasn't my idea. You know I didn't want to do\nit."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "But you did do it. I don't get why you give\nsuch a shit anyway."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Well, we are going to try to help you find a\nway to replace the drapes and the towels, but\nour confidence in you, Edward, is not going to\nbe so easy to replace."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Dad!"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Okay, a little ethics. You are walking down the\nstreet. You find a suitcase full of money.\nThere's nobody around. No human person is in\nevidence. What do you do? A\nYou keep the money. B\nYou use it to buy gifts for your friends and\nyour loved ones. C\nYou give it to the poor. D\nYou turn it into the police."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "That is really stupid."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Kim!"
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "I keep the money."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Simmer down."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Edward?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Hey, how about after dinner we go down to the\nbowling alley? That will be fun."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "You are not seeing Jim tonight?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "You know we had a cool show-and-tell today.\nThis kid brought in a box of baby possums, 10.\nmaybe 12. Totally naked. No hair at all."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Honey, this is fascinating. but I don't think\nyour father's finished yet."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Thank you, dear. Edward, we are waiting."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Give it to my loved ones?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, Edward, it does seem that that's what you\nshould do, bit it's not."
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "You dope, everybody knows he's supposed to give\nit to the police."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Good thinking, Kevin."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Well, think about it, you guys, I mean, that's\nthe nicer thing to do. That's what I would do."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "We're trying to make things easier for him, so\nlet's cut the comedy for a little while."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "I am being serious. It's a nicer thing to do."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "We're not talking nice. We're talking right and\nwrong."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Shut up."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, goodness sake, no wonder poor Edward can't\nlearn right from wrong living in his family."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Margie and women on the phone.)"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN 1",
+   "text": "Did you hear what he did to Peg's curtains?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "It is unbelievable that they're having their\nChristmas party anyway. Are you going?"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN 1",
+   "text": "Oh, I don't think so."
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "He practically raped Joyce, you know\nthreatening her with those knives? It's a\nmiracle she escaped."
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "I don't have anything against Bill and Peg,\nbut..."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "I know, I know. They've got that teenage\ndaughter in the house. Oh, those poor things\nafter what happened to me can you imagine?"
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "What do you say to Peg about the Christmas\nparty?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "I said I hoped. We'd make it."
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "I lied, too."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Peg's living room)"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Edward, do you want to give me that new\nhaircut?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Again?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "yes, sure."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "It makes me proud to have you as my own\npersonal hairdresser."
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "Hi, honey. honey."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Kevin, you want to play scissors-paper-stone?"
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "No, why?"
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "It's boring. I'm tired of always winning."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Other people's feelings?"
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "I'll be outside."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "A few manners? Just never you mind. Just you\ncut away. Cut away. It needs something else.\nWhat do you think, honey?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "More bells?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "More bells. Okay."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Mom, do you really think that we should be\nhaving this party?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Of course I think we should be having this\nparty. Of course I do. I mean as just what we\nneed is just to calm things down and then\neverything will just go back to normal. Do you\nhave any more bells, honey?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Kim goes out into the garden and\nsees Edward sculpture an ice mass.\nWhen he sculptures it, snowflakes\nbegin to fall, and Kim dances in\nthe snow. After he finishes it, he\ncuts her hand by accident. Then Jim\nshows up.)"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Get the hell out of here. Get the hell out! Go.\nFreak!"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Edward, where are you going?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Where is he?"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "He tried to hurt you."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "No, he did not and you know it."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Are you nuts? I just saw him."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Jim. I don't love you any more. I just want you\nto go. Okay? Just go!"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Are you serious? I'm going to lose you to that?\nHe isn't even human."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Just get out of here. Okay? Just go! Dad, did\nyou see where Edward went?"
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Well. I don't know. He just walked down the\nstreet."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Well, we have to go find him, mom?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "You...your father will find him this minute."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "All in the house. I'll take care of it. I'll go\nfind him."
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "Edward! I'm calling the police!"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "All that blood, sweetie, and it's just a little\ncut."
+  },
+  {
+   "type": "stage direction",
+   "text": "(doorbell chimes.)"
+  },
+  {
+   "type": "speech",
+   "character": "POLICE",
+   "text": "Hello, I'm here to see the man with the hands."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh... Uh..."
+  },
+  {
+   "type": "speech",
+   "character": "POLICE",
+   "text": "He's not here. Thank you."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, dear."
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "Helen, did you actually see him?"
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "Yes, look."
+  },
+  {
+   "type": "speech",
+   "character": "ESMERALDA",
+   "text": "You see, I told you he was a demon."
+  },
+  {
+   "type": "speech",
+   "character": "MARGIE",
+   "text": "Oh, don't start that stuff again."
+  },
+  {
+   "type": "speech",
+   "character": "POLICE",
+   "text": "I'm looking for the man with scissors."
+  },
+  {
+   "type": "speech",
+   "character": "WOMEN",
+   "text": "He went that way. You have to do something\nabout that."
+  },
+  {
+   "type": "speech",
+   "character": "POLICE",
+   "text": "All right, calm down, go on home. We'll handle.\nJust go home."
+  },
+  {
+   "type": "speech",
+   "character": "HELEN",
+   "text": "He's a de... a demon."
+  },
+  {
+   "type": "speech",
+   "character": "WOMEN",
+   "text": "You've got to do something! All right, Let's\nsee. If he's at our house come on, oh..."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "I'm sure your father will find him soon."
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "What time is it?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "It's almost eight thirty. Great party, huh?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Where are they? God. I hope he's okay!"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "So do I, honey. You know, when I brought Edward\ndown here to live with us, I really didn't\nthink things through. And I didn't think about\nwhat could happen to him, or to us, or to the\nneighborhood. You know, I think that maybe it\nmight be best if he goes back up there. Because\nat least there he's safe, and we'd just go back\nto normal."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Now I got up by the Wiggmans, but I didn't see\nhim anywhere."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Oh, dear. Oh, just... Well, let's get in the\ncar and go look for him."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Where's Kevin now?"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "He's Max'es."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "Where do you think you're going, young lady?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "With you guys."
+  },
+  {
+   "type": "speech",
+   "character": "BILL",
+   "text": "No, you're staying here in case somebody shows\nup!"
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "We'll be right back, dear."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Police!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(On seeing a police car Edward\ngoes back to Peg's)"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Edward?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Are you okay?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Yes, are you okay?"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Where's everybody?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Out looking for you. Hold me."
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "I can't."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Kim holds Edward and Edward\nreflects about the inventor.)"
+  },
+  {
+   "type": "speech",
+   "character": "INVENTOR",
+   "text": "I know it's a little early for Christmas,\nEdward, but I have a present for you."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Kevin comes out of his friend's\nhouse.)\n(Jim talks with his friend.)"
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Forget holding her hand. Picture the damage he\ncould do other places."
+  },
+  {
+   "type": "speech",
+   "character": "JIM'S FRIEND",
+   "text": "Yeah, that's sick. I feel like I'm coming to\npass out, or puke or something."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Later, first take me to her house."
+  },
+  {
+   "type": "speech",
+   "character": "JIM'S FRIEND",
+   "text": "Come on, don't make me drive."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Just do it!"
+  },
+  {
+   "type": "speech",
+   "character": "JIM'S FRIEND",
+   "text": "Jesus, maybe she was right about you."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Just drive."
+  },
+  {
+   "type": "speech",
+   "character": "JIM'S FRIEND",
+   "text": "Relax."
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "See you tomorrow. Call me, Right?"
+  },
+  {
+   "type": "speech",
+   "character": "A MAN",
+   "text": "Have they caught him yet?"
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "Who?"
+  },
+  {
+   "type": "speech",
+   "character": "A MAN",
+   "text": "Him, that cripple. Let me know when they do.\nLet us all you know, okay? Like a good boy."
+  },
+  {
+   "type": "stage direction",
+   "text": "(The car driven by Denny comes\nclose to run over Kevin. Edward who\nsees it saves Kevin but many people\nmistakenly think that Edward tries\nto kill Kevin. Kim tells Edward to\nrun, and he runs away. People\nfollow him to the castle.)"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Oh! Are you ok? oh! owh!"
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "Help! Edward help!"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "I'm your friend."
+  },
+  {
+   "type": "speech",
+   "character": "KEVIN",
+   "text": "Stop! Don't! Stop! Get away, now! Somebody help\nus! Help!"
+  },
+  {
+   "type": "speech",
+   "character": "PEOPLE 1",
+   "text": "What are you doing? Get away!"
+  },
+  {
+   "type": "speech",
+   "character": "PEOPLE 2",
+   "text": "Get the police!"
+  },
+  {
+   "type": "speech",
+   "character": "PEOPLE 3",
+   "text": "Somebody call the police! Hey"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Let go of me! Why? Kevin!"
+  },
+  {
+   "type": "speech",
+   "character": "PEG AND BILL",
+   "text": "Kevin! Kevin! Edward! Get away. What happened?\nEdward! Go home! Go home!"
+  },
+  {
+   "type": "speech",
+   "character": "PEOPLE",
+   "text": "Somebody call the police! Aah!"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Jim, stop it. Get off him!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Siren)"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Run."
+  },
+  {
+   "type": "speech",
+   "character": "PEG",
+   "text": "Kevin's all right! It was just the tiniest\nscratch! He's gone! Let's not bother him, all\nright? Let just leave him alone!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Gunshots)"
+  },
+  {
+   "type": "speech",
+   "character": "POLICE",
+   "text": "Go on, run."
+  },
+  {
+   "type": "speech",
+   "character": "PEOPLE",
+   "text": "What happened? Did you get him? Ok, Is he dead?"
+  },
+  {
+   "type": "speech",
+   "character": "POLICE",
+   "text": "It's all over, go on home. There's nothing more\nto see. What happened out there? It's all over!"
+  },
+  {
+   "type": "speech",
+   "character": "PEOPLE",
+   "text": "I want some answers. Where is he?"
+  },
+  {
+   "type": "speech",
+   "character": "PEOPLE",
+   "text": "Get back here! I want to ask you something. Do\nyou see him? Wait! I want to ask you... He's in\nthat car. Look at that."
+  },
+  {
+   "type": "speech",
+   "character": "JOYCE",
+   "text": "I don't believe it. They don't have him. I'm\ngoing! No! That's not a good idea!"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "They are coming? Did I hurt Kevin?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "No, he's okay. He said he was just scared.\nEdward, I was so afraid. I thought you were\ndead."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "I didn't."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Jim fires at Edward and Kim tries\nto stop him. In their fight, Edward\nkills Jim, and then says good-by to\nKim.)"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "Jim. Stop! Stop it, or I'll kill you myself."
+  },
+  {
+   "type": "speech",
+   "character": "JIM",
+   "text": "Hey! I said stay away from her!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Neighbor's voice)"
+  },
+  {
+   "type": "speech",
+   "character": "EDWARD",
+   "text": "Goodbye!"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "I love you."
+  },
+  {
+   "type": "speech",
+   "character": "A MAN",
+   "text": "Is he in there?"
+  },
+  {
+   "type": "speech",
+   "character": "KIM",
+   "text": "He's dead. The roof caved in on him. They\nkilled each other. You can see for yourselves."
+  },
+  {
+   "type": "stage direction",
+   "text": "(She raises a pair of scissors.)"
+  },
+  {
+   "type": "speech",
+   "character": "OLD KIM",
+   "text": "She never saw him again. Not after that night."
+  },
+  {
+   "type": "speech",
+   "character": "GRANDDAUGHTER",
+   "text": "How do you know?"
+  },
+  {
+   "type": "speech",
+   "character": "OLD KIM",
+   "text": "Because I was there."
+  },
+  {
+   "type": "speech",
+   "character": "GRANDDAUGHTER",
+   "text": "You could have gone up there. You still could\ngo."
+  },
+  {
+   "type": "speech",
+   "character": "OLD KIM",
+   "text": "No, sweetheart. I'm an old woman now. I would\nrather want him remember me the way as I was."
+  },
+  {
+   "type": "speech",
+   "character": "GRANDDAUGHTER",
+   "text": "How do you know he's still alive."
+  },
+  {
+   "type": "speech",
+   "text": "I don't know. Not for sure. But I believe he\nis. You see, before he came down here, it never\nsnowed. And afterwards it did. If he weren't up\nthere now, I don't think it would be snowing.\nSometimes you can still catch me dancing in it."
+  }
+ ]
+}
