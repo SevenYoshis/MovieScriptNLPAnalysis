@@ -44,7 +44,7 @@ while not is_webpage_fetched:
     try:
         request = urllib.request.Request(script_url)
         webpage_bytes = urllib.request.urlopen(request)
-        soup = BeautifulSoup(webpage_bytes, 'lxml')
+        soup = BeautifulSoup(webpage_bytes, "lxml")
         print('Detected encoding is ', soup.original_encoding)
         is_webpage_fetched = True
     except urllib.error.URLError as err:
