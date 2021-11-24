@@ -1,0 +1,1417 @@
+,character,line #,line
+0,FEMALE,0,"JOHNNY, PLEASE"
+1,FEMALE,1,"""Johnny, please.  Johnny please."""
+2,FEMALE,2,You're scaring me.
+3,MALE LEFT,3,"DADDY, DON'T. DADDY"
+4,MALE LEFT,4,"I don't like you any more, Carol."
+5,FEMALE,5,Put the scissors down.  You're
+6,MALE RIGHT,6,"Oh, Carol."
+7,FEMALE,7,Johnny!  Stop!
+8,MALE RIGHT,8,Don't grab at me!  Let
+9,MALE LEFT,9,Daddy!  No!
+10,ALL THREE,10,Murderer!
+11,JOHNNY,11,Why'd you let me sleep so long?
+12,CAROL,12,"It's Saturday, Johnny, you always --"
+13,CAROL,13,Why are you staring at me like that?
+14,JOHNNY,14,"I'm unhappy that you let me sleep so
+long."
+15,JOHNNY,15,I didn't do anything!
+16,OFFICER 1,16,"Come out of the closet on your hands
+and knees."
+17,OFFICER 1,17,Hands and knees!
+18,JOHNNY,18,I didn't...
+19,OFFICER 1,19,"John Palmer, if you were being
+arrested for any other crime, I would
+now read you your rights."
+20,OFFICER 1,20,"But you are under arrest for the
+future murderer of your wife, Carol
+Palmer.  You have no rights."
+21,WITWER,21,Thought we might a had a runner.
+22,ANDERSON,22,"Yeah, a runner."
+23,WITWER,23,A little chase -- that'd been good.
+24,ANDERSON,24,"Fifty cops on the scene takes the
+chase out of them."
+25,WITWER,25,But only eight of us were real.
+26,ANDERSON,26,"We ever get a runner, I'd be too old
+to give chase."
+27,WITWER,27,"You'd chase.  You'd love it,.  Man."
+28,ANDERSON,28,"I love it more Johnny boy doesn't
+get to murder his wife."
+29,WITWER,29,It's a beautiful world.
+30,LISA,30,"Jesus, Paul.  Your heart's hammering."
+31,LISA,31,I excite you that much?
+32,ANDERSON,32,I used to love being a cop.
+33,LISA,33,"You're still a cop.  I'm a factory
+worker.  We don't catch murderers.
+We process them."
+34,LISA,34,"You're the best homicide cop in the
+country."
+35,ANDERSON,35,"Great -- except there's no such thing
+as homicide.  What I do best doesn't
+exist anymore."
+36,LISA,36,PAUL.
+37,LISA,37,"You're the Director of a perfect
+system.  A Cop with a perfect record"
+38,ANDERSON,38,The
+39,ANDERSON,39,"have a perfect record.
+They identify the accused -- I just
+put on my monkey suit and go round
+them up."
+40,LISA,40,And then
+41,LISA,41,"prosecute them.  And they
+go to jail.  And lives are saved.
+Thousands of lives."
+42,LISA,42,And that's a cop's dream.
+43,ANDERSON,43,No.  You're a cop's dream.
+44,ANDERSON,44,Who called?
+45,LISA,45,"No one.  I called about my hair.
+Getting it done this afternoon."
+46,ANDERSON,46,"Come on in, neighbor.  Want some
+coffee?"
+47,FRANK D'IGNAZIO,47,Brought these for your supper.
+48,LISA,48,"Oh, Frank.  That's so sweet.  Thank
+you."
+49,FRANK D'IGNAZIO,49,"Sweet, nothing.  I gotta get rid of
+these things.  One plant, and I'm
+invaded by tomatoes.  When I was a
+kid ..."
+50,ANDERSON,50,"Before all this genetically engineered
+crap ..."
+51,FRANK D'IGNAZIO,51,"Yeah well, it's true.  It used to be
+a challenge to grow things.  An art.
+Now you put one plant in the ground
+-- then jump the hell out of the
+way."
+52,ANDERSON,52,Coffee?
+53,FRANK D'IGNAZIO,53,"Nah, thanks.  Can't stay.  You guys
+are rushing off to work anyway."
+54,LISA,54,You and Ellie come for supper then.
+55,ANDERSON,55,We'll barbecue.
+56,FRANK D'IGNAZIO,56,"You betcha.  We'll bring some more
+tomatoes -- a new batch will have
+grown by then."
+57,INTERCOM VOICE,57,"Yes, Director Anderson?"
+58,ANDERSON,58,"Where's Ennis Page?  Why hasn't he
+delivered this morning's Precog discs?"
+59,INTERCOM VOICE,59,"I'll find him, sir."
+60,WITWER,60,"Bullying the staff again, Director
+Anderson?"
+61,ANDERSON,61,Screw you.
+62,ANDERSON (CONT'D),62,"Was that fun for you, yesterday?"
+63,WITWER,63,The Johnny Palmer bust?
+64,ANDERSON,64,Yeah.
+65,WITWER,65,It was okay.  We got our man.
+66,ANDERSON,66,When do we
+67,ANDERSON,67,get our man?
+68,PAGE,68,"Sorry I'm late, sir.  Precogs put
+out a heavy national volume this
+morning -- four for our zone."
+69,ANDERSON,69,"Put the case on my desk, Ennis."
+70,ANDERSON (CONT'D),70,What was I thinking.
+71,ANDERSON,71,"Thanks, Ennis."
+72,WITWER,72,Now that's a guy who
+73,TOUR GUIDE,73,"Welcome to the main headquarters of
+Precrime.  Smaller Precrime branches
+are scattered throughout the United
+States."
+74,TOUR GUIDE (CONT'D),74,"Precrime was established in 2030,
+with the harnessing of the remarkable
+talents of the Precognitive mutants."
+75,TOUR GUIDE (CONT'D),75,"Mr. Harris, can you tell me how many
+Precogs there are?"
+76,MR. HARRIS,76,"Three.  Uh, right?"
+77,TOUR GUIDE,77,"That's exactly right!  A lot of people
+assume there are Precogs in every
+branch office."
+78,TOUR GUIDE (CONT'D),78,"But there are only three Precogs,
+right here in this building.  And
+the information they give us, we
+send out to all the other branches."
+79,TOUR GUIDE (CONT'D),79,"And what is that information -what
+do the Precogs do?"
+80,TIMMY,80,They protect us.
+81,TOUR GUIDE,81,"That's right, Timmy.  Because of the
+Precogs, you're going to grow up
+murderfree.  Isn't that something?"
+82,MR. HARRIS,82,"They ever wrong?  The Precogs ever
+screw up when they predict a murder?"
+83,TOUR GUIDE,83,"sir.  It's an infallible
+system.  The Precogs predict a
+homicide, and our Precrime police
+then apprehend that future murderer
+before the event occurs.  And right
+next door is the Judicial Center,
+where we prosecute the
+future murderers."
+84,TIMMY,84,Can we see the Precogs?
+85,TOUR GUIDE,85,"No, I'm sorry.  That part of the
+building is not open to the public."
+86,TOUR GUIDE,86,"Now, if you'll just step this way"
+87,TOUR GUIDE,87,"to be eternally young, or"
+88,ANDERSON,88,"What would they think about if we
+unhooked them?"
+89,PAGE,89,"They don't think, sir.  They just
+see."
+90,PAGE (CONT'D),90,"They're not even alive, really."
+91,LISA,91,"Director Anderson, do you swear that
+the disc you now present to the court
+is the only and authentic disc of
+the future murder of Carol Palmer by
+her husband, John Palmer?"
+92,ANDERSON,92,"Yes.  This is the only and authentic
+disc of the event seen by the
+Precognitive mutants and recorded by
+the Precrime Division.  This is the
+immutable evidence of the infallible
+system."
+93,LISA,93,The murder of Carol Palmer will occur
+94,ANDERSON,94,"In one week -- June 16th, 2040 at
+10:33 in the morning."
+95,CAROL,95,"Johnny, please --"
+96,JOHNNY,96,"""Johnny, please.  Johnny please."""
+97,CAROL,97,You're scaring me.
+98,JOHNNY'S SON,98,"DADDY, DON'T.  DADDY"
+99,JOHNNY,99,"I don't like you any more, Carol."
+100,CAROL,100,"Put the scissors down.  You're scaring
+me. Please."
+101,JOHNNY (O.S.),101,"Oh, Carol."
+102,CAROL (O.S.),102,Johnny!  Stop!
+103,JOHNNY (O.S.),103,Don't grab at me!  Let go...
+104,JOHNNY'S SON (O.S.),104,Daddy!  No!
+105,JOHNNY,105,"I didn't do it.  I'm innocent!  It
+didn't happen!"
+106,JUDGE,106,How does the defense plead?
+107,DEFENSE ATTORNEY,107,"The defense acknowledges the
+infallibility of the system.  We are
+Guilty.  We throw ourselves at the
+mercy of the court."
+108,JOHNNY,108,No! No! The Precogs are wrong!  No!
+109,WITWER,109,Looks like the old days.
+110,ANDERSON,110,"That would be bad news for an
+infallible system."
+111,WITWER,111,"We know it can't be a murder -- the
+Precogs would've seen it.  Why do
+you insist on coming to these things?"
+112,ANDERSON,112,"Keeps the system honest.  And besides,
+I like to pretend I'm a cop."
+113,ANDERSON (CONT'D),113,Who's got the Coroner?
+114,OFFICER,114,"Right here, sir."
+115,ANDERSON,115,Hi DOC.
+116,HOLOGRAPHIC DOCTOR,116,"Hello, Director Anderson."
+117,WITWER,117,"This a homicide, Doc?"
+118,HOLOGRAPHIC DOCTOR,118,"I'm presently analyzing neurohormones,
+Assistant Director Witwer.  I have
+not concluded my examination."
+119,HOLOGRAPHIC DOCTOR (CONT'D),119,"I'm detecting carbonization of skull
+fragments around the entry wound."
+120,WITWER,120,"Bingo.  The guy put the gun to his
+own head."
+121,HOLOGRAPHIC DOCTOR,121,"I have not determined that yet,
+Assistant Director."
+122,WITWER,122,"You have good ears for a ghost, Doc."
+123,HOLOGRAPHIC DOCTOR,123,"Please rotate the corpse to the
+lateral supine position."
+124,WITWER,124,Can you imagine if this
+125,WITWER,125,"a
+homicide?  Who even knows how to
+hunt down a killer any more?"
+126,ANDERSON,126,"know how, dammit."
+127,ANDERSON,127,know how.
+128,WITWER,128,"Easy, partner."
+129,WITWER,129,"But you know what I'm saying.  The
+state legislatures are pushing to
+stop funding for training homicide
+detectives ..."
+130,ANDERSON,130,God bless the Precogs.
+131,HOLOGRAPHIC DOCTOR,131,"This event is a negative homicide.
+A mortal wound was generated by a
+.22 calibre bullet self-delivered to
+the parietal 'portion of the skull
+on June 10th, 2040, at 11:57 pm,"
+132,HOLOGRAPHIC DOCTOR (CONT'D),132,"Eastern Standard Time.  This event
+is a positive suicide."
+133,WITWER,133,"It's time to stop coming to these,
+partner."
+134,ANDERSON,134,Yeah.  You're right.
+135,ANDERSON,135,"A little bit of me dies every time I
+come to one of these things."
+136,LISA,136,"It's only a party, Paul."
+137,ANDERSON,137,"I'd never have let them appoint me
+to Precrime if I'd have known this
+was going to be part of it."
+138,LISA,138,"You're exactly what Precrime needed.
+An amazing homicide cop and a real
+person in an unreal job."
+139,ANDERSON,139,Exactly.
+140,LISA,140,"Precogs.  But they give people the
+creeps, too.  You're something they
+understandp a regular cop running
+things."
+141,ANDERSON,141,"Let's invite all these irregular
+assholes over for a barbecue.  Burgers
+and beer - think they'd come?"
+142,SENATOR MALCOLM,142,"come, Mr. Director.  And I'd
+make all the other assholes come
+with me."
+143,SENATOR MALCOLM (CONT'D),143,"Nice job this morning.  Another
+negative homicide.  The Precogs never
+let us down."
+144,SENATOR MALCOLM,144,"I have a dream, Paul."
+145,ANDERSON,145,"I know you do, Senator."
+146,SENATOR MALCOLM,146,"Hundreds of Precogs.  Not just
+predicting murders, but predicting"
+147,SENATOR MALCOLM,147,"crimes.  Burglary, arson, assaults"
+148,ANDERSON,148,"How about jaywalking?  Littering?
+Now"
+149,ANDERSON,149,a crime.
+150,SENATOR MALCOLM,150,"I don't want a police state, you
+know that.  But we have an opportunity
+here, and"
+151,ANDERSON,151,"No sir, we"
+152,ANDERSON,152,"have that
+opportunity.  There are only three
+Precogs.  They're a lucky accident
+of nature.  There are no more."
+153,SENATOR MALCOLM,153,We can
+154,SENATOR MALCOLM,154,"more.  Just give me your
+support.  Help me increase funding
+for the Precog Engineering Project."
+155,ANDERSON,155,"Precogs aren't sheep or pigs.  Seeing
+into the future is a gift, a
+nonreproducible event."
+156,ANDERSON (CONT'D),156,"There was only one Mozart, and there
+are only three Precogs."
+157,SENATOR MALCOLM,157,"Fuck Mozart.  The people want to be
+safe.  They want that more than they
+want food or love."
+158,SENATOR MALCOLM (CONT'D),158,"Look at us -it's 2040 and we've
+wrapped ourselves up in the 1950's
+like a big security blanket.  Why?
+Because we want to feel like they
+felt.  Safe."
+159,ANDERSON,159,"Senator, a world filled with hundreds
+of Precogs is not my idea of a safe
+place."
+160,SENATOR MALCOLM,160,"Sure could use your help, Paul."
+161,ANDERSON,161,"I decline, Senator.  I'm sorry."
+162,SENATOR MALCOLM,162,"Don't think I'll come to your barbecue
+after all."
+163,DR. RESFIELD,163,You don't get out here much.
+164,ANDERSON,164,Not my sort of place.
+165,DR. RESFIELD,165,The head of Precrime squeamish?
+166,ANDERSON,166,"When it comes to needles and scalpels,
+yeah."
+167,DR. RESFIELD,167,I promise we won't use any on you.
+168,ANDERSON,168,What
+169,ANDERSON,169,you use them on?
+170,DR. RESFIELD,170,On bits of this and that.
+171,ANDERSON,171,What's happening here?
+172,DR. RESFIELD,172,We're in an interesting phase.
+173,ANDERSON,173,What's in the cylinders?
+174,DR. RESFIELD,174,Neurotissue.
+175,ANDERSON,175,From ...?
+176,DR. RESFIELD,176,"A fusion of sources.  From the
+Precogs' deceased mother.  From the
+Precogs themselves."
+177,ANDERSON,177,A fusion of ... ?
+178,DR. RESFIELD,178,"In lay terms, we mated sperm from
+the brothers with ova from the mother
+and sister to create new growth."
+179,DR. RESFIELD (CONT'D),179,And then we add mutating variables.
+180,FRANK D'IGNAZIO,180,"What are you doing, playing hooky?"
+181,ANDERSON,181,"It's great out here, Frank.. You got
+the touch."
+182,FRANK D'IGNAZIO,182,"I got the arthritis, is what I got."
+183,FRANK D'IGNAZIO (CONT'D),183,"Ah shit, neighbor."
+184,FRANK D'IGNAZIO (CONT'D),184,"Goddamn Precogs don't miss a beat,
+do they?"
+185,FRANK D'IGNAZIO (CONT'D),185,"Can we do this inside?  Ellie's not
+home."
+186,ANDERSON,186,"Sure, Frank.  Yeah."
+187,FRANK D'IGNAZIO,187,"I thought I'd buried it all.
+Thirty-five years -- all those minutes
+and days to bury it."
+188,FRANK D'IGNAZIO,188,"But suddenly you see the man who
+murdered your daughter walking the
+streets -- my God it throws you."
+189,ANDERSON,189,"He'd served his time, Frank.  I know
+it's not fair.  It's way beyond not
+fair ..."
+190,FRANK D'IGNAZIO,190,"God damn the Precogs.  You know?
+Why couldn't they have been around
+to save my girl?"
+191,FRANK D'IGNAZIO,191,Now they're catching me.
+192,FRANK D'IGNAZIO (CONT'D),192,"I really shoot the bastard, huh?
+When?"
+193,ANDERSON,193,"Next Wednesday, at noon."
+194,FRANK D'IGNAZIO,194,Good.
+195,ANDERSON,195,"It's not in you, Frank, to kill
+anybody."
+196,FRANK D'IGRAZIO,196,"Tell it to the Precogs.  It's set in
+stone now, right?"
+197,FRANK D'IGNAZIO,197,"I don't want to be a part of this
+world anymore."
+198,ANDERSON,198,"I know, Frank."
+199,FRANK D'IGNAZIO,199,"So.  Tell me, Paul.  Do the Precogs
+see everything?"
+200,ANDERSON,200,No.
+201,FRANK D'IGRAZIO,201,Then they won't have seen this.
+202,WITWER,202,We
+203,WITWER,203,to bring him in.
+204,WITWER (CONT'D),204,He was a future murderer.
+205,ANDERSON,205,"You blame him?  The guy killed his
+daughter!"
+206,ANDERSON (CONT'D),206,Yeah.  I know.  I know.
+207,ANDERSON (CONT'D),207,"I hate the Precogs, Ed. I believe in
+them absolutely and I hate them
+absolutely.  Jesus."
+208,ANDERSON (CONT'D),208,"And that goddamn lab trying to grow
+more of them.  Put a Precog in every
+home, you know?  So we can have more
+Franks - people shooting themselves --
+over who knows what?"
+209,WITWER,209,"Precrime did the job it was supposed
+to do."
+210,WITWER (CONT'D),210,You know it.  And you believe in it.
+211,ANDERSON (BEAT),211,Yeah.
+212,WITWER,212,"It's not easy.  It beats us down.
+Ellie in there -- no doubt she hates
+you right now."
+213,ANDERSON,213,"That's why I got into this business
+-- to be hated."
+214,WITWER,214,"They hated us when we were regular
+cops.  Now we're Precrime, and they
+still hate US.  It's one of the little
+perks of law enforcement nobody knows
+about."
+215,ANDERSON (O.S.),215,"Let's not do this, Ed."
+216,ANDERSON,216,"Oh, Ed ..."
+217,ANDERSON (CONT'D),217,I kill you.
+218,ANDERSON (CONT'D),218,"Oh god, I"
+219,ANDERSON (CONT'D),219,you.
+220,ALL THREE,220,Murderer!
+221,ANGELA,221,Sir?
+222,ANDERSON,222,Come in.  Angela.
+223,ANGELA,223,"Need you to sign these.  And your
+eleven o'clock starts in five minutes."
+224,ANDERSON,224,My ... eleven.
+225,ANGELA,225,Budget coordination with the FBI.
+226,ANGELA,226,"You okay, sir?"
+227,ANDERSON,227,Have Page take this.
+228,ANGELA,228,"But sir, the procedure"
+229,ANDERSON (SNAPS),229,make procedure.  Call him.
+230,ANDERSON (SNAPS),230,"I'm not okay, Angela ... you're right."
+231,ANGELA,231,Yes sir.
+232,ANDERSON,232,"I'll speak to Witwer, put him in
+charge for the rest of the day."
+233,WITWER,233,"Breaking and entering.  That'll get
+you five to ten, hard."
+234,WITWER (CONT'D),234,What's wrong?
+235,WITWER,235,Paul?
+236,ANDERSON,236,Take over for me today?
+237,WITWER,237,You sick?
+238,ANDERSON,238,Yeah.
+239,WITWER,239,"Don't give it to me.  You probably
+have that Trans-10 virus going around.
+A stomach thing.  I hate stomach
+things."
+240,ANDERSON,240,Ed.
+241,WITWER,241,Yeah?
+242,ANDERSON,242,"Run the place, okay?"
+243,WITWER,243,Sure.  Right into the ground.
+244,WITWER,244,"Go on home before I call Infectious
+Control and have them spray you down
+with something."
+245,WITWER (CONT'D),245,"You want me to do the discs, or hold
+them for you to review when you get
+back?"
+246,ANDERSON,246,Can't let them back up.  Do 'em.
+247,WITWER,247,"Call you later.  Take it easy, all
+right?"
+248,LISA,248,Paul?
+249,ANDERSON,249,Listen to me.
+250,LISA,250,I can hardly hear you.
+251,ANDERSON,251,"I'm underground.  Weakens the signal
+so it can't be picked up."
+252,LISA,252,But we're on Secure
+253,ANDERSON,253,"Listen, dammit!  I'm going to murder
+Ed."
+254,LISA,254,"Paul.  Paul His crackling voice
+faintly comes through the phone."
+255,ANDERSON'S VOICE,255,... home.
+256,POLICE OFFICER,256,"Hello, sir."
+257,ANDERSON,257,"What's your name, officer?"
+258,POLICE OFFICER,258,"Bob, uh, Robert Smythe."
+259,ANDERSON,259,These the new Python transports?
+260,ANDERSON (CONT'D),260,"Sorry, Officer Smythe."
+261,ANDERSON,261,Don't move.
+262,ANDERSON (CONT'D),262,"Stop!  Moving heats you up, makes it
+easier for them to pick you up on
+their thermals."
+263,LISA,263,It's a hundred degrees in here.
+264,ANDERSON,264,"I turned the furnace all the way up.
+Your hair dryer.  The oven.  If they
+come, it'll buy me twenty seconds.
+Maybe thirty."
+265,LISA,265,Nobody's coming for you.
+266,LISA (CONT'D),266,"On the phone -- what you said.  It's
+impossible."
+267,ANDERSON,267,I'm going to kill Ed Witwer.
+268,LISA,268,It's
+269,LISA (CONT'D),269,"You're upset.  You've been unhappy.
+There's a lot of pressure on you.
+And then Frank ..."
+270,ANDERSON,270,"One week from today.  Tuesday, June
+25, at five-twenty in the morning.
+I"
+271,ANDERSON,271,"him, Lisa."
+272,LISA,272,You need to take time off.
+273,ANDERSON,273,You don't have to worry about that.
+274,LISA,274,I want to hold you.
+275,ANDERSON,275,"If you love me, stand there.  And"
+276,ANDERSON,276,move.
+277,ANDERSON (CONT'D),277,"I saw the disc, Lisa.  I shoot him.
+In the chest.  And he dies.  I've
+watched a thousand murders.  This
+time I star in one."
+278,LISA,278,Something's
+279,LISA,279,it.
+280,ANDERSON,280,The Precogs are
+281,ANDERSON,281,"emit a single disc.  ""The immutable
+evidence of the infallible system."""
+282,LISA,282,"We'll figure this out.  We'll review
+the system."
+283,ANDERSON,283,"There is no review.  There's only
+the disc.  It Shows My guilt.  There's
+no defense."
+284,LISA,284,"You can't run.  Please, let's --"
+285,ANDERSON,285,"Last week.  It was strange.  I watched
+from the bathroom window.  You went
+out in the"
+286,ANDERSON,286,to make a call.
+287,ANDERSON (CONT'D),287,"An appointment, you said.  For a
+haircut that afternoon."
+288,ANDERSON (CONT'D),288,"You didn't get your hair cut.  You
+went to the trouble of calling first
+thing in the morning.  It was"
+289,ANDERSON (CONT'D),289,important ...
+290,LISA,290,"Stop it!  Paul, please.  You're"
+291,LISA,291,"look wrong.  You're going to distrust
+everybody and everything now."
+292,LISA (CONT'D),292,You
+293,LISA (CONT'D),293,distrust me.
+294,LISA (CONT'D),294,It was Ed I called.
+295,ANDERSON,295,Ed.  why outside?  Why lie about it?
+296,LISA,296,Stop being a cop and listen to me!
+297,VOICE (O.S.),297,"Director Anderson!  There is no
+escape!"
+298,LISA,298,"Your birthday's tomorrow!  We wanted
+to..."
+299,VOICE (O.S.),299,"Drop to your hands and knees and
+stay there.  Precrime is entering
+your house!"
+300,LISA,300,Paul!
+301,OFFICER 1,301,"He's got a hair dryer going.  Screwed
+up my reading."
+302,OFFICER 2,302,We're not picking up shit.
+303,OFFICER 2,303,him.  A holograph decoy.
+304,VOICE,304,Paul Anderson 0256 clear.
+305,VOICE,305,"Enter now please, Assistant Director
+Witwer."
+306,CIA CRONIN,306,"The central question is: Why does
+Anderson want to kill Witwer?"
+307,CIA CRONIN (CONT'D),307,We checked your finances.
+308,CIA CRONIN (CONT'D),308,"finances.  Nothing irregular, you
+don't steal from him, he doesn't
+steal from you.  You haven't done
+anything that he might have
+discovered, and vice versa."
+309,FBI SWANSON,309,"Personnel checks reveal no ambitious
+coups planned by you to topple him."
+310,FBI SWANSON,310,"He's done nothing to you, or you to
+him."
+311,VICE-PRESIDENT ALMER,311,You fucking his wife?
+312,WITWER,312,No.
+313,FBI SWANSON,313,HIS MOTHER?  HIS BROTHER?
+314,FBI SWANSON (CONT'D),314,Okay.  There we are.
+315,JUSTICE POLLARD,315,"So, you are friends, partners, and
+soul mates.  Anderson has no motive."
+316,WITWER,316,I can't think of one.
+317,WITWER,317,"Maybe JUSTICE POLLARD The Precogs
+are mistaken?"
+318,JUSTICE POLLARD,318,"You don't believe that, do you?"
+319,WITWER,319,No.  The Precogs are infallible.
+320,SENATOR MALCOLM,320,"You're goddam right.  So, gentlemen
+-screw the motive.  We got a
+pre-murderer on the run, and a nasty
+little PR problem."
+321,VICE-PRESIDENT ALMER,321,"And here is our solution.  You are
+now"
+322,VICE-PRESIDENT ALMER,322,Witwer.
+323,VICE-PRESIDENT ALMER (CONT'D),323,"Precrime must demonstrate its
+willingness to go after one of its
+own.  Total impartiality."
+324,WITWER,324,Now
+325,CIA CRONIN,325,"The public must believe that every
+future murderer is pursued with equal
+vigor."
+326,FBI SWANSON,326,"Therefore, Precrime will put in charge
+the man best suited to the job.  And
+who would pursue a murderer harder
+... than his intended victim?"
+327,JUSTICE POLLARD,327,"You went after Anderson yesterday
+-because it was right, and because
+you"
+328,VICE-PRESIDENT ALMER,328,"And your belief will certainly grow
+stronger with each tick of the clock."
+329,JUSTICE POLLARD,329,"Haw long will it take, Director?"
+330,WITWER,330,"He knows Precrime, of course.  And
+the streets -- he's rusty, but he'll
+remember how to work them.  It'll
+come back to him fast.  He's ... the
+best."
+331,JUSTICE POLLARD,331,"We're not here to praise Caesar --
+we're here to bury him."
+332,WITWER,332,"He can't avoid iris identification.
+Every door he opens, every ATM he
+uses, or taxi or transport he boards
+-- he'll get scanned."
+333,WITWER,333,It won't take long to find him.
+334,TECHNICIAN,334,It's Anderson.
+335,WITWER,335,Paul!
+336,TECHNICIAN 2,336,"He's been Scanned.  He's on the 33rd
+Street Subway!"
+337,TECHNICIAN,337,"His cell phone tracks for The Sprawl.
+We got him on the Subway, too!"
+338,ANDERSON,338,"Why am I going to kill you,Ed?"
+339,WITWER,339,There's no motive
+340,ANDERSON,340,My wife calling you before breakfast?
+341,WITWER,341,"We were planning a surprise party.
+It was going to be today."
+342,WITWER,342,"Happy birthday, partner."
+343,ANDERSON,343,"This party's no fun, Ed. It's a hell
+of a surprise, though."
+344,ANDERSON,344,"I'm having trouble trusting people,
+Ed, I gotta tell you."
+345,OFFICER,345,"The train makes two stops, here and
+here: 20th, then 33rd Street."
+346,WITWER,346,"Split the units, go to both"
+347,OFFICER,347,We'll never make 20th
+348,ANDERSON,348,"You there, Ed?"
+349,WITWER,349,"I'm here.  You gotta come in, Paul ."
+350,ANDERSON,350,"I'm a Cop, Ed. I need a motive."
+351,WITWER,351,"Come in.  We'll figure this thing
+out together."
+352,WITWER,352,"It'll get ugly if you keep running.
+And your eyes, Paul -- every move
+you make a Scanner will pinpoint you
+for us."
+353,ANDERSON,353,"I saw a news flash.  You're the new
+Director.  Is"
+354,ANDERSON,354,the point of this?
+355,WITWER,355,Fuck you.
+356,ANDERSON,356,Didn't think so.  But it has to be
+357,ANDERSON,357,Ed.
+358,WITWER,358,Paul.  Come in.
+359,ANDERSON,359,"If I come in, it puts me close to
+you.  If I get close ... I may kill
+you.  I can't risk that."
+360,ANDERSON,360,"Anyway, they'd force you to lock me
+up.  And that'd be it -- I'd never
+get my chance to solve this thing."
+361,WITWER,361,"You're kinds liking this, in a way,
+aren't you?  The action ..."
+362,ANDERSON,362,"And you get to be a real cop again.
+We get to flex our muscles."
+363,ANDERSON,363,talking.  He isn't getting off
+364,TECHNICIAN 2,364,"We have visual verification -- he's
+still on the train."
+365,ANDERSON'S VOICE,365,"I want to tell you something, partner.
+You listening?"
+366,WITWER,366,Yeah.
+367,ANDERSON'S VOICE,367,"I gotta do this.  I have to figure
+this thing out."
+368,ANDERSON'S VOICE,368,But listen to me now.  If it was
+369,ANDERSON'S VOICE,369,"running, I'd come after you, Ed."
+370,ANDERSON'S VOICE (CONT'D),370,"You're a cop.  And I'm a future
+murderer."
+371,ANDERSON'S VOICE (CONT'D),371,"Do your job, Ed. Come after me"
+372,ANDERSON'S VOICE (CONT'D),372,"Because, Jesus Christ, I wouldn't
+sleep or eat until I had tracked you
+down and put a gun to your head."
+373,WITWER,373,"You wouldn't shoot a cop would you,
+Paul?"
+374,WITWER,374,Paul?  Paul?
+375,TECHNICIAN 1,375,He's still on the line.
+376,VOICES ON ANDERSON'S PHONE,376,"Police.  Everyone down on your hands
+and knees!"
+377,VOICES ON ANDERSON'S PHONE,377,"Oh, shit."
+378,DOC,378,Got a cold.
+379,DOC (CONT'D),379,"Don't worry.  I could cut open your
+chest, sew a dead cat in there, and
+you'd never get an infection.  Not
+with the spectrum antibios I'll be
+shooting into you."
+380,ANDERSON,380,"I'm not here for cat surgery, Doc."
+381,ANDERSON (CONT'D),381,It's all I could safely move
+382,DOC,382,Yeah.  All right.
+383,DOC (CONT'D),383,"You understand what I told you then.
+I can't just give you new irises.
+The Scanners will read the scar
+tissue.  Alarms will go off."
+384,ANDERSOIN,384,"I'm a cop, I know"
+385,DOC,385,I gotta take your eyes out.
+386,DOC (CONT'D),386,And put in new ones.
+387,ANDERSON,387,Yeah.  I
+388,ANDERSON,388,"it, DOC."
+389,ANDERSON (CONT'D),389,Do me quick before I run out of here.
+390,DOC'S VOICE,390,"Don't take the bandages off for twenty
+four hours.  You'll go blind if you
+do."
+391,DOC,391,"You're in a room.  I had you moved
+here, a couple miles from my place.
+If they find you, they don't find
+me."
+392,DOC (CONT'D),392,"A guy will come in, feed you once."
+393,DOC (CONT'D),393,"I juiced up the nano-reconstruction
+around your new eyes, 'cause I know
+you're in a hurry."
+394,ANDERSON,394,Nano-re ...construction.
+395,DOC,395,"Organic microrobots that reconstruct
+nerves and blood vessels.  It'll
+feel like fleas chewing on your
+eyeballs.  Don't scratch."
+396,DOC (CONT'D),396,"I'm giving you a bonus, might come
+in handy.  Feel this."
+397,DOC (CONT'D),397,"It's a temporary paralytic enzyme.
+Someone spots you, you duck into an
+alley, shoot this under your chin."
+398,DOC (CONT'D),398,"The enzyme turns your facial muscles
+to mush.  You won't look like the
+same man."
+399,ANDERSON,399,Jesus.
+400,DOC,400,"You tighten up again in about thirty
+minutes.  Hurts like nothing you
+ever felt.  It's vicious, but
+effective.  I'll put it in your bag."
+401,DOC (CONT'D),401,"I'm setting up a timer.  When it
+buzzes tomorrow, take off your
+bandages, and get the hell out of
+here."
+402,ANDERSON,402,"I'm hungry, but sick to my stomach."
+403,ANDERSON (CONT'D),403,Guess I should eat.
+404,ANDERSON (CONT'D),404,"So how do we do this, pal?"
+405,ANDERSON,405,Fuck.
+406,ANDERSON,406,to ripping the dressings off
+407,OFFICER 1,407,"Got 27 warm bodies in this place.
+What should it take, three or four
+Spiders?"
+408,OFFICER 2,408,"Do four.  Speed things up, so we can
+go eat."
+409,OLD WOMAN,409,It's nice to have a little company
+410,OFFICER 1,410,Stinking drunk.
+411,OFFICER 2,411,"Or a guy who doesn't want to get
+read."
+412,OFFICER 1,412,Let's eat.
+413,WITWER,413,"They told me to move into Paul's
+office.  I said fuck you very much."
+414,WITWER (CONT'D),414,"I don't want to do any of this, Lisa."
+415,LISA,415,I know.  I know that.
+416,LISA (CONT'D),416,"Everybody's got their reasons for
+wanting you in charge.  So do I --
+you won't bring him in dead."
+417,WITWER,417,Yeah.  But if he shoots a cop ...
+418,WITWER,418,"Which is what he does four days from
+now, isn't it?"
+419,LISA,419,He'd never hurt you.
+420,WITWER,420,"I know that.  But the other thing I
+know is -- the Precogs are never
+wrong."
+421,DRIVER,421,"Welcome aboard, Mr. Symington.  Plenty
+of seats in the back."
+422,ANDERSON,422,"Time to upgrade your alarm system,
+Senator."
+423,ANDERSON (CONT'D),423,"Your work-up of Witwer.  The Security
+Panel would've done one."
+424,ANDERSON (CONT'D),424,Why do I kill Witwer?
+425,SENATOR MALCOLM,425,There's no motive.
+426,ANDERSON,426,"There's, always a motive."
+427,ANDERSON (CONT'D),427,"I could've come to anyone on the
+panel.  But I picked you."
+428,ANDERSON (CONT'D),428,"Of all the shits on that panel, I
+like you least of all.  So if this
+gun goes off, I'll feel bad, but
+not, you know, devastated."
+429,SENATOR MALCOLM,429,"What the fuck was I worried about?
+You can't kill me.  The Precogs
+would've"
+430,SENATOR MALCOLM,430,it.
+431,SENATOR MALCOLM (CONT'D),431,"Witwer's clean.  You're clean.
+There's nothing.  No motive.  Kind
+of like something Kafka would've
+cooked up."
+432,SENATOR MALCOLM (CONT'D),432,"You like that, cockroach?  You're
+fucked and you'll never know why."
+433,ANDERSON,433,"Tell you something about the Precogs,
+Senator.  They're great on murder.
+But it's the little things they fail
+to see."
+434,ANDERSON (CONT'D),434,"Little things like that, for instance."
+435,WITWER,435,"He hasn't shown up on one goddamn
+IdentiScan in three days."
+436,LIEUTENANT GLASER,436,"He's found a room -- he's going to
+sit it out."
+437,WITWER,437,"Yeah, except for holding a gun to
+senator Malcolm's goddman head in
+his own goddman house last night,
+Anderson's sitting it out!"
+438,WITWER,438,hasn't he been scanned?
+439,WITWER (CONT'D),439,"Why is he invisible?  He's moving
+around but he isn't being seen."
+440,LIEUTENANT GLASER,440,Hes beating the scanners
+441,WITWER,441,No one beats the scanners.
+442,WITWER (CONT'D),442,He's done his eyes
+443,LIEUTENANT GLASER,443,But the scarring always
+444,WITWER,444,He went the
+445,WITWER,445,"bastard had his eyes removed.  New
+ones sewn in."
+446,LIEUTENANT GLASER,446,That takes weeks to heal.
+447,WITWER,447,"If you're prepared to go blind, a
+street surgeon'll juice up the repair
+cycle.  They don't give a fuck about
+risk."
+448,WITWER (CONT'D),448,"He's going to do what it takes to
+stay free -- if it blinds him, maims
+him, or kills him."
+449,SPOKESWOMAN,449,"The United States Supreme Court has
+issued a special injunction allowing
+the unprecedented public viewing of
+former Precrime Director Paul
+Anderson's future murder of Edward
+Witwer, the current Director."
+450,ANDERSON,450,"His mouth slowly opens.  He steps
+back against a wall and slides his
+hand into his pants pocket.  He looks
+at the Precog DISC in his cupped
+hand, then quickly puts it away."
+451,SPOKESWOMAN,451,She continues her declamation
+452,SPOKESWOMAN (CONT'D),452,"The video you are about to see,
+generated by the Precognitive mutants,
+is the immutable evidence of the
+infallible system."
+453,SPOKESWOMAN (CONT'D),453,"Citizens are urged to call
+1-800-PRECRIME with any information
+that may lead us to the whereabouts
+of Paul Anderson, future murderer."
+454,ANDERSON,454,"Shakes his head in confusion and
+disbelief.  But"
+455,ANDERSON,455,"has the Precog
+disc ..."
+456,OLD GUY,456,"This oughtta be good, huh?"
+457,VIDEO,457,KIOSK
+458,ANDERSON,458,"Oh, Ed ..."
+459,ANDERSON (CONT'D),459,Moves quickly through the crowds.
+460,ANDERSON,460,"""Ennis Page engages the services of
+prostitutes because his relationships
+with them compound his feelings of
+selfloathing."""
+461,ANDERSON,461,"Direct quote from your psychological
+profile -- the kind of shit I had to
+know as your former boss."
+462,ANDERSON (CONT'D),462,"""Page is an obsessive-compulsive
+Type Nine."" Another quote.  Niners
+are great for the kind of work you
+do -- keeping all those Precog discs
+in order."
+463,PAGE,463,"I fuck whores and I'm orderly, so
+what?"
+464,ANDERSON,464,"Something's out of order, Ennis.
+Deeply out of order."
+465,ANDERSON (CONT'D),465,Not A disc.
+466,ANDERSON (CONT'D),466,"disc.  When I went
+home sick, I stole it."
+467,ANDERSON (CONT'D),467,"I took it with me, Ennis.  I wasn't
+sick, I was running with the evidence."
+468,ANDERSON (CONT'D),468,"So how is it that Precrime has one,
+too?"
+469,PAGE,469,You can't make copies
+470,PAGE (CONT'D),470,"It's the basis of the system.  The
+immutable evidence.  Copies are
+impossible."
+471,PAGE (CONT'D),471,"You went home.  A little later, I
+came in with a disc for Mr. Witwer
+to review.  I wasn't halfway out the
+door when he cried out."
+472,PAGE (CONT'D),472,"He was in shock.  He showed me.  It
+was you shooting him.  Then all hell
+broke loose.  He had to send the
+Precrime units to your house."
+473,ANDERSON,473,"Ennis -- you gave out the same disc
+twice.  Less than an hour apart.
+The one I stole.  And then another
+one.  Of the"
+474,ANDERSON,474,event.
+475,PAGE,475,"It's impossible.  The Precogs can
+only move forward to new events.
+Into the future.  They"
+476,PAGE,476,repeat.
+477,DIGITAL VOICE,477,"Have a nice night, Mr. Symington"
+478,YOUNG GUY,478,"Hey!  Hey, you can't..."
+479,YOUNG GUY (CONT'D),479,I'm gettin' a cop.
+480,ANDERSON,480,It's me.
+481,LISA,481,Paul.
+482,ANDERSON,482,"Your phone will be bugged.  So we
+can't meet, we can't do anything.
+Just listen.  Nowing you're listening
+is enough."
+483,ANDERSON,483,"right there, for"
+484,ANDERSON (CONT'D),484,"When Precrime stormed the house, I
+thought you'd called them.  Betrayed
+me."
+485,LISA,485,No.
+486,ANDERSON,486,"I know.  Witwer sent them.  He saw
+the disc and had to do his job."
+487,ANDERSON,487,Tell me you forgive me.  Please.
+488,LISA,488,"Of course, I forgive you."
+489,ANDERSON,489,"All these people I need to forgive
+me."
+490,ANDERSON,490,"Do you think Frank forgave me?  All
+I could do for him was send him
+gardenias."
+491,ANDERSON,491,I love you.
+492,LISA,492,Frank hated gardenias.
+493,LISA,493,"he's there, and she wants to reach out for"
+494,VOICE,494,"Paul Anderson.  Drop to your hands
+and knees!"
+495,DRIVER,495,What the hell --
+496,VOICE,496,"Paul Anderson.  Drop to your hands
+and knees!"
+497,VOICE,497,and taxis or
+498,VOICE (CONT'D),498,"Lower your weapon, or we will
+neutralize your threat potential."
+499,VOICE (CONT'D),499,Do
+500,VOICE (CONT'D),500,move!
+501,ANDERSON,501,Pick one for me!
+502,KID,502,What?
+503,ANDERSON,503,"Point to the train I should take.
+Please."
+504,KID,504,I don't know.
+505,OFFICER,505,Don't kill me!  Jesus.  Please.
+506,ANDERSON,506,"But the Precogs would've predicted
+me killing you.  You'd"
+507,ANDERSON,507,"whether
+I do or not."
+508,ANDERSON (CONT'D),508,"They shut down the system.  Haven't
+they?  They've"
+509,ANDERSON (CONT'D),509,the Precogs.
+510,OFFICER,510,"They're off homicides.  They're
+redirecting them to help us locate
+you."
+511,OFFICER,511,"out in agony, slams back against the wall"
+512,ATTENDANT,512,You all right in there?
+513,TOUR GUIDE,513,"Welcome to the main headquarters of
+Precrime.  Smaller Precrime branches
+are scattered throughout the United
+States."
+514,TOUR GUIDE (CONT'D),514,"Are you ... all right, Mr. Symington?"
+515,TOUR GUIDE (CONT'D),515,"We'll wait right here for you, sir!"
+516,WITWER,516,What is it?
+517,TECHNICIAN,517,Must be a glitch ...
+518,TECHNICIAN,518,Anderson just got IdentiScanned.
+519,TECHNICIAN (CONT'D),519,It's him -- he's been scanned.
+520,WITWER,520,Where is he?
+521,TECHNICIAN,521,"But he's had his eyes done.  Right?
+Sir?  Tries to think it through."
+522,WITWER,522,He had to have.
+523,TECHNICIAN,523,"Jesus Christ, sir.  He's in the
+basement of this building."
+524,WITWER,524,This is
+525,LIEUTENANT GLASER,525,"Standing orders from the Security
+Panel, sir."
+526,WITWER,526,"If he wants to get to me, he'll get
+to me."
+527,LIEUTENANT GLASER,527,"No, he won't, sir."
+528,TECHNICIAN,528,"Don't worry, air -emergency generators
+will kick on in five seconds."
+529,WITWER,529,"Explanation, please!"
+530,TECHNICIAN,530,"Uh, sir.  It seems ... he got the
+generators, too."
+531,VOICE,531,Shit.
+532,FEMALE,532,"Save us, Anderson."
+533,ANDERSON,533,I have to get out of here.
+534,FEMALE,534,Save us.
+535,ANDERSON,535,You
+536,ANDERSON,536,"me get here, didn't you?
+You stopped giving them information,
+so they couldn't track me."
+537,FEMALE,537,"Save --
+And what can Anderson do but catch her before she falls?"
+538,LISA,538,"Help me, Paul."
+539,LISA (CONT'D),539,They're blue.
+540,LISA (CONT'D),540,And now they're
+541,WITWER,541,"Why didn't the Precogs know he was
+coming to do this?"
+542,WITWER (CONT'D),542,"The next time he shows up it'll be
+to kill me."
+543,LIEUTENANT GLASER,543,"We won't let that happen, sir."
+544,WITWER,544,"You won't, huh?"
+545,WITWER (CONT'D),545,"When can we get these things
+operational?"
+546,TECHNICIAN,546,"They're a hive mind, sir.  It takes
+three for their predictive abilities
+to be fully operational."
+547,WITWER,547,"These two are all I have to find the
+man who is about to murder me.  Hook
+them up, and flood them with whatever
+kind of fucking chemicals you have
+to.  They are a machine, and I need
+that machine at my disposal."
+548,LISA,548,"Your IdentiScan is off, Ennis.  I
+could just walk in here."
+549,PAGE,549,I forgot.  To turn it on.
+550,LISA,550,You don't look surprised to see me.
+551,LISA (CONT'D),551,I need your help.
+552,PAGE,552,He took one of my babies.
+553,LISA,553,"He's desperate, Ennis.  He had to."
+554,LISA,554,We have to help him.
+555,LISA (CONT'D),555,It's a
+556,LISA (CONT'D),556,Ennis.
+557,LISA (CONT'D),557,"This is the first disc.  You delivered
+it to Director Anderson.  He reviewed
+it.  And then he stole it, and went
+on the run."
+558,PAGE,558,I delivered ... a fake .. to him?
+559,LISA,559,"But he thought it was real, and ran
+with it."
+560,LISA (CONT'D),560,"An hour later, you delivered a second
+disc of the same event.  Witwer
+reviewed it.  It was real.  (Beat)
+How do I know this?"
+561,LISA (CONT'D),561,"Director Anderson had his eyes
+changed.  They were blue."
+562,LISA (CONT'D),562,"he
+has"
+563,LISA (CONT'D),563,ones.
+564,LISA (CONT'D),564,"This disc, the fake one, shows a
+blueeyed Anderson murdering Witwer
+two days from now.  He doesn't have
+blue eyes anymore.  The person who
+faked this disc had no idea he would
+change his eyes."
+565,LISA (CONT'D),565,Listen!  But the
+566,LISA (CONT'D),566,"disc has to
+be real, because he has brown eyes
+when he murders Witwer."
+567,LISA (CONT'D),567,"Somebody tried to frame him with a
+fake.  And somehow it all became"
+568,LISA (CONT'D),568,"Why, Ennis?  How could this happen?"
+569,LISA (CONT'D),569,"You handle the discs.  How did a
+fake one get delivered?"
+570,LISA (CONT'D),570,You want-- ?
+571,PAGE,571,"He spilled coffee everywhere ...
+Everywhere ..."
+572,LISA,572,What coffee?  What are you -- ?
+573,FEMALE,573,My brothers aren't here.
+574,ANDERSON,574,"You didn't even look around.  You
+knew."
+575,FEMALE,575,"We can sense each other.  You must
+save"
+576,ANDERSON,576,Stop.  I saved
+577,ANDERSON,577,I could do.
+578,FEMALE,578,"Thank you, Anderson."
+579,ANDERSON,579,What am I going to do with you?
+580,FEMALE,580,"Name me, Anderson."
+581,ANDERSON,581,What?
+582,FEMALE,582,Give me a name.  I've never had one.
+583,ANDERSON,583,Listen.
+584,ANDERSON (CONT'D),584,Listen to me.
+585,ANDERSON (CONT'D),585,Listen to me ... Rose.
+586,FEMALE,586,Rose.
+587,ANDERSON,587,"Rose.  They shifted your precognition
+so you would locate me."
+588,ROSE,588,"Yes.  And it hurt us, physically.
+Did you know that?  The helmets, the
+controls.  It"
+589,ANDERSON,589,I didn't know.
+590,ANDERSON (CONT'D),590,"When they shifted you to find me,
+you didn't reveal everything.  That
+I was going to break into Precrime."
+591,ROSE,591,"We saw our chance.  You would need
+to shut us down, you would have to
+come.  We wanted you to come."
+592,ANDERSON,592,You used me -- to save you.
+593,ROSE,593,"have been used all my life,
+Anderson."
+594,ROSE (CONT'D),594,"No one cared that we were human.
+From a human mother.  Taken at birth.
+Hooked to machines."
+595,ROSE (CONT'D),595,"We have been alive, Anderson.
+Enslaved, for the greater good."
+596,ROSE (CONT'D),596,"But now I have a name.  And I know
+the man who has named - me will not
+allow me to be enslaved again."
+597,ANDERSON,597,"Rose.  What's going to happen to us?
+Can you see that?"
+598,ROSE,598,"I'm weak.  And away from my brothers.
+I see glimpses and hints of things
+nearby.  But it's all ... scattered."
+599,ROSE,599,"I'm tired of the future, Anderson."
+600,ANDERSON,600,"You didn't know I was going to do
+that, did you?"
+601,ROSE,601,"No.  Oh, Anderson.  It was lovely."
+602,LIEUTENANT GLASER,602,Who else could it've been?
+603,LIEUTENANT GLASER (CONT'D),603,"He grabbed a Precog so he could commit
+an undetected murder."
+604,WITWER,604,"Page worshipped the system.  He fell
+apart.  Shot himself."
+605,LIEUTENANT GLASER,605,Anderson.
+606,HOLOGRAPHIC DOCTOR,606,"Director Witwer.  This event is a
+positive homicide."
+607,HOLOGRAPHIC DOCTOR (CONT'D),607,"A mortal wound was generated by a
+.38 calibre bullet delivered to the
+left occipital portion of the anterior
+skull, on June 16th, 2040, at 1:24
+am, Eastern Standard Time.  A Phase
+Two Investigation is in order."
+608,LISA,608,There.
+609,LISA,609,"The one on the left, the first disc
+-it's a"
+610,LISA,610,eyes anymore.
+611,WITWER,611,A fake.
+612,(BEAT),612,"But the Precogs predict the infallible
+truth.  They don't emit fake discs."
+613,LISA,613,"Precogs, induce them to make fakes"
+614,LISA (CONT'D),614,"But that doesn't mean someone couldn't
+have made a fake disc on their own
+and inserted it into the delivery
+system."
+615,WITWER,615,"Bypass the Precogs and slip a fake
+disc in with that day's real ones..."
+616,LISA,616,"We're all programmed to believe
+anything we see on a Precog disc.
+The system has never been wrong ..."
+617,LISA (CONT'D),617,"You have to call off the hunt.  He
+was set up."
+618,WITWER,618,"It's gone too far, Lisa She shakes
+her head, shocked at his response"
+619,LISA,619,He was set up!  You
+620,LISA,620,"were.  If
+Paul kills you, you're both out of
+the picture."
+621,WITWER,621,wants us out?  Of
+622,WITWER,622,picture?
+623,LISA,623,"Jesus, Ed. Stop this thing!  And
+then we can investigate Witwer's
+mouth opens and closes.  He tries
+again."
+624,WITWER,624,Ennis Page was murdered last night.
+625,WITWER (CONT'D),625,Everything points to Paul.
+626,LISA,626,He's
+627,LISA,627,a murderer.
+628,WITWER,628,"I think he is.  A murderer ... and a
+future murderer."
+629,WITWER,629,"Lisa.  What does it matter that the
+first disc is a fake ... if the second
+one's real?"
+630,ANDERSON,630,"Rose.  Listen to me.  I'm going to
+leave you here.  I have to keep
+moving."
+631,ROSE,631,No.  You must save my brothers.
+632,ANDERSON,632,"It's impossible.  There's no time.
+I've done what I can do!"
+633,ROSE,633,"Come here, Anderson."
+634,ROSE (CONT'D),634,"Do you see that boy in the blue hat
+walking with his mother?"
+635,ROSE (CONT'D),635,"In sixty seconds he will walk beneath
+those workers installing a window on
+the tenth floor of that building."
+636,ROSE (CONT'D),636,"They'll drop the window, killing
+him.  It is impossible to save him."
+637,ROSE (CONT'D),637,to get to that boy ...
+638,ROSE,638,"It was impossible to save that boy
+-- but you"
+639,ROSE,639,"Anderson.  It's in
+you.  It's what you"
+640,ANDERSON,640,You
+641,ANDERSON,641,"it wasn't impossible.  That
+I'd get there."
+642,ROSE,642,You are a man who saves others.
+643,ROSE,643,Save my brothers.
+644,ANDERSON,644,I'm in a lot of trouble right now.
+645,ROSE,645,"My brothers are in more trouble.
+They've moved them to ... an awful
+place."
+646,ANDERSON,646,"Rose.  Ed Witwer -he's in the most
+trouble of all.  Who saves"
+647,DR. RESFIELD,647,"We're not really set up for this
+type of"
+648,ANDERSON,648,Rose.  Try to drink.
+649,ROSE,649,"Your wife.  We have to get her here,
+Anderson."
+650,ANDERSON,650,Why?
+651,ROSE,651,I don't know ...
+652,ANDERSON,652,What are you seeing?
+653,ROSE,653,"Anderson.  Please.  We
+have to get her here."
+654,ANDERSON,654,"You're scaring me, Rose"
+655,ROSE,655,Stop talking.  It uses me up.
+656,ROSE (CONT'D),656,"In three minutes your wife will take
+a walk .."
+657,SECRETARY,657,"Sir?  I'm sorry, she stepped out for
+a few minutes."
+658,SECRETARY,658,Sir?
+659,LISA,659,Hello?  Hello?
+660,ANDERSON'S VOICE,660,I need you.
+661,ANDERSON'S VOICE (CONT'D),661,"It's 1:03.  Set your watch, exactly."
+662,ANDERSON'S VOICE (CONT'D),662,This is what you have to do ...
+663,ANDERSON (V.O.),663,"At 1:07 hang up the phone and enter
+the Lawrence Museum."
+664,ANDERSON (V.O.),664,"At 1:13 the two Precrime officers
+following you take a wrong turn into
+a different room, losing sight of
+you for ten seconds."
+665,ANDERSON (V.O.),665,"An undercover transport officer will
+have received emergency orders to
+follow you."
+666,(MORE),666,"He's wearing a red tie.  He has short
+blond hair."
+667,ANDERSON (V.O.),667,"As you come around the bend, cry out
+and turn around and slap the
+officer..."
+668,ANDERSON (V.O.),668,"Stay on Ninth street.  Underneath
+Ninth street is the main power feed
+for The Sprawl.  It'll mess up the
+navigational beacon on the hovercraft."
+669,ANDERSON (V.O.),669,"Keep switching taxis.  But stay on
+Ninth."
+670,LISA,670,"Two hundred dollars if you don't
+scan me."
+671,ANDERSON (V.O.),671,"The hovercraft will try to drop
+altitude, but the air traffic will
+slow it down."
+672,ANDERSON (V.O.),672,"Precrime loses you.  You'll have to
+walk two miles.  Don't get scanned."
+673,MAN,673,"You bite me, bitch, I'll pull your
+teeth out."
+674,LISA,674,"Cut it a little close there,
+honeybunch."
+675,ANDERSON,675,"Rose got the street wrong.  She's
+getting weak."
+676,LISA,676,Rose?
+677,ANDERSON,677,Two discs.  One fake.  One real.
+678,LISA,678,"I don't think there were supposed to
+be two.  Whoever planned it, wasn't
+counting on two."
+679,ANDERSON,679,"An infallible system.  Every disc
+ever generated has been true ..."
+680,LISA,680,"Somebody wants you out of the way --
+so they make a fake disc.  Who ever
+doubts the discs?"
+681,ANDERSON,681,"never doubted it.  I saw it.  And
+believed it, absolutely.  I was
+certain I was going to murder Witwer."
+682,ANDERSON (CONT'D),682,"I saw the fake, and believed so much
+in the system, that I saw myself as
+a murderer."
+683,ANDERSON (CONT'D),683,"And the Precogs picked up those
+thoughts ..."
+684,LISA,684,"And generated the second disc.  The
+real one."
+685,ANDERSON,685,"A self-fulfilling prophesy.  I
+believed it was true.  And"
+686,ANDERSON,686,"made
+it true."
+687,ANDERSON (CONT'D),687,"Rose.  If all this is based on a lie
+-the fake disc -- then do I really
+kill Witwer?"
+688,ROSE,688,"We see what we see.  I'm sorry,
+Anderson.  It's been predicted."
+689,LIEUTENANT GLASER,689,"We can't take chances, sir"
+690,LIEUTENANT GLASER (CONT'D),690,It happens in less than three hours.
+691,LIEUTENANT GLASER (CONT'D),691,"We put you in a hovercraft and keep
+you airborne -- until after the event."
+692,WITWER,692,The event.
+693,LIEUTENANT GLASER,693,"I've been ordered to get you onto
+the craft.  By force if necessary."
+694,WITWER,694,"The event is inevitable, Lieutenant."
+695,WITWER (CONT'D),695,"The Precogs are never wrong.  The
+event will take place.  I'm a
+believer.  Aren't you?"
+696,LIEUTENANT GLASER,696,"I don't leave this room without you,
+sir.  The Security Panel insists."
+697,ANDERSON,697,"Nobody could slip a fake disc past
+Ennis Page Lisa shakes her head."
+698,LISA,698,"He was the weak link in the perfect
+system."
+699,ANDERSON,699,"Obsessive compulsive niners can't
+allow changes in the routine"
+700,LISA,700,Something threw him off.
+701,LISA,701,"He tried to tell me.  It didn't make
+any sense.  Something about ""spilled
+coffee."""
+702,LISA,702,"Someone was in his office with him.
+And coffee spilled ..."
+703,ROSE (V.O.),703,"We were always treated as if we
+weren't alive.  As if we weren't"
+704,ROSE (CONT'D),704,"Even now.  You forget that I'm here.
+You talk between yourselves.  And
+when you need me to see into the
+future,"
+705,ROSE (CONT'D),705,you turn to me.
+706,ANDERSON,706,Rose.  What is it?
+707,ROSE,707,"We weren't just lost in the future.
+We were in the Chamber, too.  Our
+eyes were open.  In the present."
+708,ANDERSON,708,"Your eyes were open.  What did you
+see, Rose?"
+709,ROSE,709,"Who would I have told?  Who ever
+talked to us?  Who cared that we
+could talk?"
+710,ANDERSON,710,"Rose.  Who spilled the coffee?
+Straight ahead ..."
+711,ROSE (V.O.),711,Ed Witwer entered Page's office.
+712,ROSE (V.O.) (CONT'D),712,"Page was so upset at the sight of
+the coffee."
+713,ROSE (V.O.) (CONT'D),713,"Ed Witwer took a disc from his pocket,
+reached over Page and put it in one
+of the open cases."
+714,ROSE (CONT'D),714,"I didn't understand what I'd seen.
+And I had no one to tell ..."
+715,ANDERSON,715,Ed ...
+716,LISA,716,"The perfect system -brought down by
+a cup of coffee.  My god."
+717,ANDERSON,717,"He set into motion his own death.
+He didn't know it would go this far."
+718,ANDERSON,718,"What makes me leave this room?  If I
+stay here I won't kill him.  Right?"
+719,WITWER,719,"You see, if you think you can put me
+on a hovercraft and save me, then
+you don't believe in the infallibility
+of the Precog system."
+720,WITWER (CONT'D),720,"And what I do not want around me,
+are nonbelievers."
+721,WITWER,721,Things quiet?
+722,OFFICER,722,Sir.  Should you ... be here?
+723,WITWER,723,"There's been a development.  A body's
+been found in the Sprawl."
+724,OFFICER,724,Anderson's?
+725,WITWER,725,"They're checking it out.  I need to
+see what the Precogs have seen."
+726,WITWER,726,"Borrowed this from the technicians'
+lounge.  You don't think they'll
+mind, do you?"
+727,DR.RESFIELD,727,"You shouldn't be here, Director."
+728,WITWER,728,"No, no.  This is"
+729,WITWER,729,"where I
+should be."
+730,DR. RESFIELD,730,"You're under a lot of strain,
+Director."
+731,WITWER,731,"And tv's so good for that -- soothes
+the mind."
+732,WITWER (CONT'D),732,"Bring me up to speed, Doc."
+733,DR. RESFIELD,733,We're getting nothing from them.
+734,WITWER,734,And that's because ... ?
+735,DR. RESFIELD,735,I don't know.
+736,WITWER,736,"Do you think they know where Anderson
+is?"
+737,DR. RESFIELD,737,It's impossible to tell.
+738,DR. RESFIELD,738,We've done
+739,DR. RESFIELD,739,too much.
+740,WITWER,740,"They know how to find Anderson for
+me."
+741,WITWER (CONT'D),741,"They're the perfect machine, Doctor.
+You just have to know which button
+to push."
+742,ANDERSON,742,Jesus Christ.
+743,LISA,743,"Come on, Rose."
+744,ANDERSON,744,"One hour.  We hold it together for
+an hour, Witwer lives -- and I'm not
+a murderer."
+745,LISA,745,She won't last an hour.
+746,ANDERSON,746,Rose!
+747,ROSE,747,"He's killed him, Anderson!"
+748,ROSE (CONT'D),748,You didn't save my brother.
+749,ANDERSON,749,"Did he kill both of them, Rose?
+Rose!"
+750,ROSE,750,"Does it matter, Anderson?"
+751,LISA,751,If you leave this room...
+752,ANDERSON,752,"Then I'm a cop, just trying to do
+hisjob."
+753,WITWER,753,Is he coming?  No?  Yes?  Maybe?
+754,WITWER,754,I think yes.
+755,WITWER (CONT'D),755,And
+756,WITWER (CONT'D),756,think yes.
+757,WITWER (CONT'D),757,"Infallibly, immutably"
+758,WITWER,758,"I figured, since I can see the future,
+too, maybe I could get a little disc
+action going."
+759,WITWER,759,Just kidding.
+760,WITWER (CONT'D),760,"You find you been doing that a lot
+this week?  Looking at clocks?"
+761,WITWER (CONT'D),761,Three minutes to go.
+762,ANDERSON,762,"There's never anything good on, you
+know?"
+763,WITWER,763,There.
+764,WITWER,764,the old Paul.
+765,ANDERSON,765,"You're not the old Ed. You've lost
+it."
+766,WITWER,766,"lost it.  You went weak in the
+knees, partner."
+767,ANDERSON,767,I'm not your partner.
+768,WITWER,768,"The air went out of you when Frank
+D'Ignazio killed himself."
+769,ANDERSON,769,He was guilty.  I accepted that.
+770,WITWER,770,"you didn't.  The doubts were
+creeping in on you.  The lab trying
+to engineer more Precogs ... Malcolm
+pressuring you to expand ..."
+771,WITWER (CONT'D),771,"Belief is the basis of the system.
+It was"
+772,WITWER (CONT'D),772,"to be the ultimate
+believer."
+773,WITWER (CONT'D),773,"And when Frank died, you"
+774,WITWER (CONT'D),774,"I'm a cop, I see into the hearts of
+men."
+775,WITWER (CONT'D),775,"And the thing about you is, you
+wouldn't have just walked away."
+776,ANDERSON,776,Never been my style.
+777,WITWER,777,"Precrime needs to grow.  You would
+have stood in its way.  The Security
+Panel wouldn't have understood that.
+What you're capable of.  What a"
+778,WITWER,778,you are.
+779,WITWER,779,"Look what you've been doing to us
+all week.  Amazing.  You're the best."
+780,ANDERSON,780,So you took matters into your own hands.
+781,WITWER,781,"I understood the threat.  I understood
+YOU"
+782,ANDERSON,782,"You killed a Precog.  You ended the
+system you wanted to protect."
+783,WITWER,783,Wrong.  This lab will make more.
+784,WITWER,784,Paul.
+785,ANDERSON,785,"Knowing the exact moment of your
+death -it's made you crazy, Ed."
+786,WITWER,786,You sonofabitch!
+787,WITWER (CONT'D),787,You didn't bring your gun!
+788,ANDERSON,788,That's right.  No gun.
+789,WITWER,789,"You see?!  That's exactly what I'm
+talking about.  You don't Believe!"
+790,WITWER (CONT'D),790,The system is
+791,WITWER (CONT'D),791,"I guess that's why I've always carried
+two."
+792,ANDERSON,792,"You can't have it both ways.  You
+don't want to die.  That's why you
+lured me here -- to kill me first."
+793,ANDERSON (CONT'D),793,"But it you don't diet the system is
+flawed, and you couldn't live with
+that."
+794,WITWER,794,Pick it up
+795,WITWER (CONT'D),795,"You're killing him, partner."
+796,ANDERSON,796,"Let's not do this, Ed Witwer trains
+his gun on Anderson.  Anderson trains
+his gun on Witwer."
+797,ANDERSON (CONT'D),797,"Oh, Ed ..."
+798,WITWER,798,Now do you believe?
+799,ROSE,799,"James.  Can you guess what I'm
+thinking?"
+800,JAMES,800,NO.

@@ -1,0 +1,1790 @@
+,character,line #,line
+0,VOICE,0,"Wow. That's hard. I'd have to say
+it's the day we launched Outpost
+'98."
+1,DIFFERENT VOICE (DARYL),1,It's the beverages.
+2,DARYL,2,"Gary always makes sure we've got the
+coolest stuff to drink."
+3,DIFFERENT VOICE (DIANA),3,Knowing your work means something.
+4,DIANA (V.O.),4,"Knowing everywhere in the world,
+this is the software people use."
+5,DIANA (V.O.),5,"20 years ago, Gary had an idea, that's
+all he had. And now the company's
+bigger than IBM."
+6,VOICE (V.O.),6,It's the people. Which is weird.
+7,MITCH,7,"Big companies are s'posed to be
+impersonal."
+8,MITCH (V.O.),8,"There's this myth that doing a start-
+up is cooler. But there's no community
+with a start-up. No permanence."
+9,DONNY,9,"It bums me out when the media say
+we're cultish, or whatever. Why?
+'Cause we care about each other?"
+10,MITCH,10,"'Love you too, bro."
+11,VOICE (TERRY),11,I'll tell you what's not cool.
+12,TERRY,12,How Gary gets this superbad rap.
+13,TERRY (V.O.),13,"There's this prejudice against super-
+smart people. People like Gary."
+14,GARY,14,"A kid working in his garage can create
+the next Outpost, the new IBM. All
+it takes is a great idea."
+15,GARY,15,"That's why nobody can have a monopoly
+in a business built on ideas."
+16,DIFFERENT VOICE (V.O.),16,"The coolest? Gary. He's like you or
+me. If we happened t'be insanely
+rich."
+17,LARRY,17,Can we go?
+18,VOICE (FROM THE FILM),18,For me? It's Seattle!
+19,LARRY,19,'Starting to get nauseated.
+20,BRIAN,20,Do you mind?
+21,VOICE FROM THE MOVIE,21,Did anybody mention the beverages?
+22,ALICE,22,Is it over?
+23,LARRY,23,"They still have to give 'em
+refreshments laced with mind-altering
+drugs."
+24,ALICE,24,You are a fanatic.
+25,LARRY,25,'Gonna wait outside.
+26,LARRY (AT FIRST O.S.),26,"Alice? You gotta make him do the
+start-up with Teddy and me."
+27,ALICE,27,"""Make"" him?"
+28,LARRY,28,You know what I mean.
+29,LARRY (V.O.),29,"I'm not exactly worldly, but I'm the
+Secretary of State next to him."
+30,LARRY (V.O.),30,"And they're all throwing this --
+stuff at him. Stock options. Pay
+packages."
+31,LARRY,31,I'm just screwed.
+32,ALICE,32,"You know what he's like. He just
+wants to work on stuff that's cool."
+33,LARRY,33,"You don't wanna move, do you?"
+34,ALICE,34,I can paint anywhere.
+35,ALICE,35,"I'd like to stay here, yeah. And I
+kind of think he should be with Teddy."
+36,ALICE (V.O.),36,"I mean, nobody else can follow what
+they're talking about half the time."
+37,MILO/TEDDY,37,"'Could be a condition-variable in
+the locking code -- If it didn't seg
+fault, first!"
+38,ALICE,38,"Maybe you shouldn't push it so hard.
+About Outpost. No offense, you sound
+insane."
+39,LARRY,39,"I can't help it. I feel like they'd
+do anything to keep their --"
+40,ALICE,40,"Anything? That's not even credible.
+If he wants to go up there? To check
+it out? I think you should encourage
+him."
+41,ALICE,41,"It's his life. But everybody's
+treating him like this -- valuable
+object. You're hurting your own case."
+42,BRIAN,42,"He's my god. I hear he actually calls
+recruits sometimes. Or is that an
+Urban Legend?"
+43,REDMOND,43,"Gary's running the biggest software
+company in the world, Brian. He's
+being harassed by the Justice
+Department, and he's got a new baby."
+44,DANNY,44,Milo? I'm Danny.
+45,MILO,45,Oh hi.
+46,DANNY,46,Gary would like to speak to you?
+47,MILO,47,...Hello?
+48,GARY (ON THE PHONE),48,"Milo? Gary Boyd. I'm hoping you and
+your friend can come up here. We've
+made some amazing strides in digital
+convergence. I'd love to show them
+to you."
+49,MILO,49,You would? Wow. When would we come?
+50,MILO,50,'Think he hung up.
+51,ALICE,51,"But how does he know that's what you
+guys're working on?"
+52,MILO,52,"All the companies know. The faculties
+tell 'em. At the target schools."
+53,LARRY,53,"In exchange for endowments. They
+should just drop the pretense and
+name the schools after 'em."
+54,BRIAN,54,I can't believe you refused a ticket!
+55,TEDDY,55,"My parents're already freaked-out
+I'm staying here. 50 miles from
+Chinatown."
+56,BRIAN,56,"Well maybe if you told 'em how much
+money you'd be making --"
+57,BRIAN,57,You're going up there. Right?
+58,LARRY,58,I think you should go.
+59,MILO,59,You do?
+60,LARRY,60,"I mean, it's your life."
+61,MILO,61,"I think I kind of lost it. I was
+just so thrilled to be talking to
+the richest, most powerful... 'Didn't
+know I even cared about that stuff."
+62,ALICE,62,"C'mon, how often do you talk to
+somebody who's been on the cover of
+Time. Three of four times."
+63,MILO,63,"A lot of what Larry says is true.
+They just clone stuff, or reverse
+engineer it, and everybody gets stuck
+with their inferior version cause
+they --"
+64,ALICE,64,Then you've gotta ask him about that.
+65,ALICE,65,It's important.
+66,MILO,66,"If he's really a bully, he won't cop
+to it, anyway."
+67,ALICE,67,"Bully? Are we talking about Gary
+Boyd? Or your dad."
+68,MILO,68,"When I was a kid? And he was moving
+us all over the place? I spent all
+my time writing stuff on Outpost
+1.0. I thought Gary Boyd was the
+greatest."
+69,ALICE,69,"But he's not quite the same guy
+anymore. Don't get your hopes too
+high?"
+70,DANNY,70,'Couldn't convince Teddy to come?
+71,MILO,71,He's pretty tight with his family.
+72,DANNY,72,We could move 'em up here.
+73,MILO,73,"He just likes to write code. He's
+bummed there's so much secrecy and
+competition, everybody trying to own
+everything."
+74,REDMOND,74,"Who do you mean by ""everybody."""
+75,MILO,75,So -- how far are we from the campus?
+76,REDMOND,76,Oh we're not going to the campus.
+77,MILO,77,Who's that?
+78,DANNY,78,"I think they call him the ""Houseman.""
+'Cause ""guard"" sounds too weird."
+79,DANNY,79,"Don't be nervous. The house is the
+weirdest thing about him."
+80,REDMOND,80,"It's like he knows everybody expects
+him to be this worldly, colorful
+zillionaire. But he's just a guy who
+likes software."
+81,HOUSEMAN,81,Have a seat. He won't be long.
+82,PHIL,82,"We tried the big vaporware number,
+Gary, it's no-sale."
+83,RANDY,83,"Can we buy into their IPO? Or is
+that a Justice Dept. problem?"
+84,PHIL,84,"There is no public offering. The guy
+who wrote it joined some freakazoid
+cult in San Luis Obispo. 'Wrote this
+just to run their web site."
+85,GARY,85,Milo? Excuse the tie. I was on TV.
+86,MILO,86,...That's okay.
+87,GARY,87,"The house knows the paintings I like,
+it knows my favorite music. Same for
+anybody else who's in the system."
+88,MILO,88,Cool!
+89,GARY,89,Would you like a Coke or something?
+90,MILO,90,Oh. No thanks.
+91,GARY,91,"When we started, I just hired my
+smart friends. That was great. We
+got a little bigger, I had to hire
+smart strangers. Much harder."
+92,GARY,92,"Now I don't get to hire anybody. But
+I know you're the guy to write
+Skywire."
+93,MILO,93,"You know a lot about art, I guess."
+94,GARY,94,"There's a rumor going around, maybe
+you've heard it."
+95,GARY,95,"There's more to life than computers?
+I'm looking into it."
+96,GARY,96,'Once I start looking into something.
+97,GARY,97,"I've only shown this to three other
+people. I bought 200, we've launched
+12 so far. I keep the coordinates in
+this room."
+98,GARY,98,"It's left over from SDI. Reagan's
+Star Wars technology? They orbit 426
+miles up."
+99,MILO,99,Low enough to relay internet traffic.
+100,GARY,100,"Among other things... We know
+convergence is the real super-highway:
+all the PC's, TV's, phones, etc.
+linked together. Why cram it into a
+cable if you can use the whole sky?"
+101,MILO,101,Skywire.
+102,GARY,102,"The content filer has t'be written
+into the media files so bits coming
+off the satellite can be read by
+multiplatforms. Really, omniplatforms.
+Including whatever new hardware
+emerges."
+103,MILO,103,"It needs a more object-oriented
+language. This doesn't scale, does
+it?"
+104,GARY,104,"You'd have to start practically from
+scratch. But this is all you'd be
+working on. No marketing meetings,
+no product seminars. We can't waste
+the time. Half the Valley's working
+on convergence. So're media
+conglomerates, cable companies, phone
+companies. 'Can't finish second,
+Milo. There is no second... Now what
+would you like to ask me?"
+105,MILO,105,...Ask you?
+106,GARY,106,"I know what people say, and not just
+the Justice Department. We clone
+ideas, inflict our second-rate
+versions on the world, we haven't
+done anything original since 1.0."
+107,GARY,107,"Do I think that's fair? No. I'd put
+some of our apps up against anybody's.
+But is there some truth to it?"
+108,GARY,108,"When you get to a certain age, you
+start wondering. About your legacy.
+I doubt you even remember Outpost
+1.0 --"
+109,MILO,109,I do!
+110,GARY,110,"Yeah? I wanna feel like I did when I
+wrote that. But I'm 42, that's 100
+in cyber-years. I look at you and
+see the things that got me here."
+111,GARY,111,But somehow got away.
+112,MILO,112,"If my dad'd leveled with me like
+that even once... The weird thing
+is, my fantasy he could somehow be
+like the old Gary? It's his fantasy,
+too."
+113,ALICE,113,"I think that's great, Milo. I do."
+114,MILO,114,...But?
+115,ALICE,115,Didn't you visit the campus?
+116,MILO,116,"I forgot. That's why you have to
+help me decide."
+117,ALICE,117,No way. You have this -- destiny.
+118,MILO,118,"C'mon, I wouldn't have a destiny
+without you. My destiny would be
+dying at 20. From eating --"
+119,ALICE,119,"Don't bring that up. Like a different
+girlfriend would'd've let you die?"
+120,MILO,120,You saved my life in alot of ways.
+121,ALICE,121,"It's not just Gary that makes you
+wanna go there? 'Cause it's a big
+place. You might not even see him
+again."
+122,MILO,122,I know.
+123,MILO,123,When's Brian coming for the TV?
+124,ALICE,124,"Prob'ly waiting by the phone for
+Outpost to call. We'll leave it for
+him?"
+125,ALICE,125,'Give you guys some time alone.
+126,MILO,126,...You got my E-mail?
+127,TEDDY,127,"And your phone messages. You wanna
+do what you do, it's not a crime."
+128,MILO,128,Is that how Larry feels?
+129,TEDDY,129,Uh. Not exactly.
+130,MILO,130,Wanted to say goodbye to him...
+131,TEDDY,131,"Hey, we got seed money for the
+startup! A million-five!"
+132,TEDDY,132,We rented a loft in Sunnyvale.
+133,TEDDY,133,"You know what's the bad part? We
+can't talk about work anymore. We're
+competitors! The venture capitalists
+made us sign like 100 confidentiality
+forms."
+134,MILO,134,"Outpost made me sign 1,000. 'Guess
+we'll find out what else we have to
+talk about. Life stuff."
+135,MILO,135,Guess what? They got their --
+136,ALICE,136,"Milo, this is Mr. Barton from the
+Justice Department."
+137,ALICE,137,Sorry about the glass.
+138,BARTON,138,"Don't worry, Milo. I'm here as a
+friend. Or maybe a supplicant."
+139,MILO,139,Right... What's that mean again?
+140,BARTON,140,"Beggar. We're at a disadvantage with
+Outpost. Our experts aren't as smart
+as theirs. Sometimes we can't tell
+which technologies pose the threat
+of a monopoly. We need a really smart
+guy to help us pick our fights. I'm
+taking a shot in the dark, here. I
+can offer you 32,000 a year, a Buick.
+I'm hoping you've got a feeling it's
+the right thing to do."
+141,MILO,141,"It's just -- I kind of feel the need
+to do something with my ability.
+Create something..."
+142,BARTON,142,Like I said: shot in the dark.
+143,BARTON,143,"If you see something there that rubs
+you the wrong way? Do the right thing."
+144,MILO,144,That took some fun out of --
+145,ALICE,145,We're not gonna let it.
+146,CNN VOICE,146,"-- ingested the fatal mixture of
+sedatives crushed in apple sauce.
+According to the cult's eerily
+professional website, it was ""time
+to move on..."""
+147,REDMOND,147,"There're 20 buildings, I mean not
+counting the Gyms, the Day Care,
+etc."
+148,REDMOND,148,"Gary's put millions in there. And
+the people with kids? They're not
+hotshot geeks, they're just payroll
+clerks or whatever."
+149,REDMOND,149,"You'll see alot of that: Department
+of Justice goons snooping around."
+150,REDMOND,150,So how'd you like the house?
+151,MILO,151,"His Snapples were in alphabetical
+order."
+152,REDMOND,152,"Well, he micro-managed the company
+till it got too big..."
+153,REDMOND,153,"'Guess he needs to micro-manage
+something."
+154,RECEPTIONIST,154,"Milo, I'm Judith. Welcome!"
+155,REDMOND,155,"Everybody has the same office, there's
+no dumbass corporate hierarchy."
+156,DESI,156,"Get out while you can, dude!"
+157,REDMOND,157,"Desi, Milo."
+158,DESI,158,The guy who was at Gary's house?
+159,REDMOND,159,"Best bomb shelters in America,
+accessible from every building. You
+gotta figure we're a major target,
+right?"
+160,REDMOND,160,Whoa. Lisa actually looked at you.
+161,REDMOND,161,"Every geek here's got a thing for
+Lisa. But that's about the biggest
+reaction she's had to anybody."
+162,MILO,162,She's a programmer?
+163,REDMOND,163,"Heavy graphical background, doing
+design-interface for Skywire apps."
+164,REDMOND,164,You'll be working with her.
+165,MILO,165,"I've got a girlfriend, remember?"
+166,REDMOND,166,"Right. That's rare around here. You
+know how nuns' re-married to Jesus?
+'Posties are married to Outpost."
+167,REDMOND,167,Here's your world.
+168,REDMOND,168,"Copy of Gary's book, also the audio
+version, narrated by Gary."
+169,VOICE (SHROT),169,"The card's encoded. Tells us who
+came through the door and when."
+170,SHROT,170,Unauthorized entries sound like this.
+171,SHROT,171,"If you see a tailgater, report him."
+172,MILO,172,Tailgater?
+173,SHROT,173,Somebody coming in on your swipe.
+174,SHROT,174,"You see somebody wandering around
+without ID, it's your duty to
+challenge him. I don't give a shit
+if you're a stock-option billionaire.
+If you don't challenge, I'll have
+your butt."
+175,MILO,175,He seems a little -- tense.
+176,REDMOND,176,"Geeks pull his chain cause he's non-
+tech. Ex-cop or something. They moon
+cameras, or use ATM's as swipe cards.
+The cameras're our real security so
+he's a little demoralized."
+177,MILO,177,What're they building?
+178,REDMOND,178,"#21. Way behind schedule. It's top-
+secret, but everybody knows it's a
+digital broadcast space. They see
+the dishes on top, the fiber optics
+going in."
+179,MILO,179,"Gary's not into fiber optics. He's
+betting everything on the satellites."
+180,REDMOND,180,"You wanna survive in the software
+business, you cover your bets... I
+gotta say, this is the weirdest car
+anybody ever requested."
+181,REDMOND,181,"Oh, right. Your girlfriend's an
+artist."
+182,REDMOND,182,"I phoned her at your hotel, told her
+about our corporate housing options.
+She sounds neat."
+183,MILO,183,...She is.
+184,MILO,184,She is!
+185,REDMOND,185,"'Might be some friction on the
+domestic front. You're expected you
+to put in ridiculous hours. People've
+accused us of breaking up
+relationships to get their undivided
+attention."
+186,REDMOND,186,"Your counselor'll fill you in on
+everything else. That's who you'll
+be working with almost daily."
+187,VOICE,187,Busy?
+188,MILO,188,"No! Just waiting for my counselor to
+come by and introduce himself."
+189,GARY,189,Okay. I'm Gary.
+190,GARY,190,'Think I should buy some originals?
+191,MILO,191,...Do I?
+192,GARY,192,"Somebody said I'm just another
+Philistine. With reproductions."
+193,MILO,193,"That's insane. You're ahead of your
+time."
+194,GARY,194,That's what I told her. My wife.
+195,GARY,195,"'Thinks I'll be less of a control
+freak if I have a hobby. 'Just gives
+me something else to obsess about..."
+196,GARY,196,"Anything we can salvage from the old
+code before you start fresh?"
+197,MILO,197,"Uh, might be one or two things."
+198,GEEK 1,198,He's been in there like an hour.
+199,GEEK 2,199,Shit.
+200,MILO,200,"Could work with a new switch. There
+may be a few more things hidden."
+201,GARY,201,"Don't spend too much time searching.
+You ever vetted somebody's old code
+before?"
+202,GARY,202,"It's a different skill. Stay close
+to the surface. The best-hidden
+secrets are in plain sight. You know
+the best place to hide a leaf, right?"
+203,GARY,203,In a tree.
+204,ALICE,204,"...The corporate condos were as
+romantic as they sound."
+205,MILO,205,"You know he's never been anybody's
+counselor before?"
+206,ALICE,206,Milo! What about --?
+207,MILO,207,"Oh, It's great. It's great!"
+208,MILO,208,"'Think I should tell him I learned
+everything using 1.0? Maybe I could
+show him one of my early programs."
+209,DOJ AGENT,209,"""Infotek's urgent need to license
+Outpost Office is such that we can
+use it as a tool in the current
+negotiation."""
+210,DOJ AGENT,210,"When you wrote the word ""tool,"" what'd
+you mean by it?"
+211,GARY,211,I don't remember.
+212,DOJ AGENT,212,What d'you think you meant by it?
+213,GARY,213,"I'm confused. Am I supposed to
+speculate under oath?"
+214,OTHER AGENT,214,"Since you didn't have an answer to
+that question, Mr. Boyd --"
+215,GARY,215,"Didn't I? Have an answer? ""I don't
+remember."""
+216,DOJ AGENT,216,"Did you wanna take a break, Mr. Boyd?"
+217,PHIL,217,"Your protege's moving so fast we can
+barely keep up with him."
+218,GARY,218,This is good. Who did it?
+219,PHIL,219,"'Start-up not 50 miles from here.
+Kid's on Prozac."
+220,GARY,220,Maybe we should all get on it.
+221,GARY,221,How's it going?
+222,MILO,222,Maybe I'm going too fast.
+223,GARY,223,"Too fast? At least four companies're
+on the verge of workable convergence
+systems, Milo, they --"
+224,GARY,224,"Even when I had a hand in every aspect
+of the company I knew the one thing
+you can never control is somebody's
+creative process."
+225,MILO,225,It's okay. Really.
+226,GARY,226,"Take a look at this. Slightly
+different approach."
+227,MILO,227,You did this -- overnight?
+228,GARY,228,You're making me young again.
+229,NEWS VOICE,229,"...A graduate of MIT, he was on the
+antidepressant Prozac, and had been
+warned not to drink and drive. (Etc.)"
+230,LISA,230,Milo?
+231,MILO,231,Lisa.
+232,LISA,232,You know my name.
+233,MILO,233,You know mine.
+234,LISA,234,You're famous around here.
+235,MILO,235,I'm getting a teacher's pet rep.
+236,LISA,236,"I wouldn't worry about it. You've
+gotta figure most people around here
+were their teachers' pets."
+237,MILO,237,...Were you?
+238,LISA,238,"We moved around so much I barely
+knew my teachers."
+239,MILO,239,"Me too! Were you an Army brat or
+something?"
+240,LISA,240,...Something like that. Yeah.
+241,MILO,241,"Didn't mean to pry. I just have this
+theory. Some of us who got to good
+at this? We were -- escaping
+something."
+242,MILO,242,Did I say something?
+243,LISA,243,"No, I know what you mean. I used to
+spend my life wishing people could
+be like computers. Least they make
+sense. Sometimes you think they've
+betrayed you. Like a person would.
+But then you see, no, you just missed
+a step. You can go back and make it
+all work."
+244,MILO,244,I used to wish that. All the time.
+245,MILO,245,What've you got there?
+246,LISA,246,"Graphical interfaces. For Skywire?
+I'm s'posed to coordinate with you."
+247,MILO,247,Show me.
+248,MILO,248,Cool!
+249,LISA,249,"Yeah? I ran it for lots of platforms,
+ranging from the narrowest bandwidth
+to --"
+250,MILO,250,...Sh-Show me the next one.
+251,SECRETARY,251,"Have a seat. He's with someone, but
+I know he wants to see you."
+252,LAWYER,252,"Because we bundled it, the judge is
+threatening to enjoin the whole --"
+253,GARY,253,"I'm confused, Ted."
+254,GARY,254,"Didn't you tell me they'd be Chapter
+12 by the time they could hope to
+enjoin? I'm very confused, because
+you said they'd be ready to settle."
+255,SECRETARY,255,Go on in.
+256,SECRETARY,256,He's always happy to see you.
+257,GARY,257,Milo. What's up?
+258,MILO,258,Well -- you sent for me.
+259,GARY,259,Right... Right.
+260,MILO,260,You really wrote this just today?
+261,GARY,261,What're you implying.
+262,MILO,262,Nothing!
+263,GARY,263,"Everything I do is under scrutiny.
+The questions they ask, trying to
+make anything strategic look sordid."
+264,GARY,264,"I'm confused. Doesn't everybody in
+business try to get ahead?"
+265,MILO,265,I'm sure.
+266,GARY,266,"The purpose of this company isn't to
+destroy our competitors any more
+than the purpose of living is to
+breath. But the software business is
+binary: you're a zero or a one. Being
+obsessive isn't a crime. It's a
+character trait."
+267,GARY,267,"It scales, don't you think?"
+268,MILO,268,Definitely.
+269,ALICE,269,"This feels fairly grown up, I'd say."
+270,MILO,270,To our new life.
+271,MILO,271,...What's wrong?
+272,ALICE,272,That's what I need to ask you.
+273,ALICE,273,"You know you can't keep anything
+from me."
+274,MILO,274,"He gave me some new code-fixes this
+morning. I said, ""Did you really do
+this just today?"" Cause I was
+impressed. He said ""What're you
+implying?"""
+275,MILO,275,"It's the way he said it. Just the
+way my dad did, when he was caught
+in a lie. That's how you knew you
+were onto something ugly."
+276,ALICE,276,"What would it mean, anyway? If he
+didn't write it?"
+277,MILO,277,"That's what I'm asking myself. Does
+he have some genius stowed away? Why
+not let him write Skywire."
+278,MILO,278,'Not saying it makes sense.
+279,ALICE,279,Milo!
+280,MILO,280,I'm so stupid.
+281,ALICE,281,He's your boss. He's not your --
+282,MILO,282,"I know, I know."
+283,ALICE,283,"If you can't deal with him on that
+basis, you better get a new counselor."
+284,MILO,284,Isn't that -- extreme?
+285,ALICE,285,"What's extreme is what that ER doctor
+said when he pumped your stomach.
+Eat another sesame seed and that's
+it."
+286,ALICE,286,"I mean, if one little comment from
+Gary is gonna upset you this much --"
+287,MILO,287,"You're right. It's -- a working
+relationship. Don't know what I was
+expecting."
+288,ALICE,288,C'mon. Let's do the toast?
+289,LISA,289,Did you wanna be alone?
+290,MILO,290,No. Please.
+291,LISA,291,"They just pushed up the schedule on
+Skywire apps. How fast are you going?"
+292,MILO,292,"""There is no second place."" Plus
+every time I get jammed-up, Gary has
+an inspiration."
+293,MILO,293,Is it like that with your counselor?
+294,LISA,294,"Mine's not the CEO. He barely
+remembers to take a shower."
+295,MILO,295,"Right, right. But does he ever just,
+like, hand you code?"
+296,LISA,296,"Maybe once. I re-wrote it, anyway."
+297,MILO,297,You're compulsive.
+298,LISA,298,"Mmm-more like -- I have a little
+trouble. Trusting people."
+299,MILO,299,Why's that?
+300,LISA,300,Long story. Not that interesting.
+301,MILO,301,"So, when you were talking about
+wishing people were more like
+computers. Was that then? Or now?"
+302,LISA,302,Then and now.
+303,LISA,303,But not right now.
+304,VOICE,304,Milo!
+305,BRIAN,305,"Just dropped off a resume. Almost
+got in the front door."
+306,MILO,306,You're living here?
+307,BRIAN,307,"'Thought if I relocated it could
+help my case. I'm writing programs
+for the local public access station.
+Where any whack-job with 100 bucks
+gets his own show? God, does it suck."
+308,BRIAN,308,Can you help me?
+309,MILO,309,"Sure, I'll see what I can do."
+310,BRIAN,310,Well I parked illegally. See y'later?
+311,MILO,311,'Forgot to introduce you.
+312,MILO,312,I have a girlfriend.
+313,LISA,313,That's great. I -- didn't know.
+314,MILO,314,She saved my life.
+315,MILO (O.S.),315,How's it going down there?
+316,TEDDY (ON THE PHONE),316,"I've been hacking for five night's
+straight, I'm really making headway."
+317,TEDDY,317,"But these, like, White Supremacists
+trashed my office, last week."
+318,MILO,318,What?!
+319,TEDDY,319,"They're in the neighborhood. They
+usually hassle Vietnamese grocers."
+320,MILO,320,"Jesus, Teddy."
+321,TEDDY,321,"I'm cool. They didn't touch the
+machine. Or my disks. Probably didn't
+know what they were. So, you a Moonie
+yet?"
+322,TEDDY,322,Milo?
+323,MILO,323,I met this girl.
+324,TEDDY,324,What? Come on. Is it serious?
+325,MILO,325,I don't know.
+326,TEDDY,326,Did you tell Alice?
+327,MILO,327,"No! I keep thinking it'll go away.
+But there's this -- connection. She's
+been hacking since she was little,
+she had to move around a lot. Plus I
+see her every day, we're working on
+the same program. She's -- beautiful."
+328,TEDDY,328,"A beautiful geek? I don't wanna sound
+paranoid, or like a pig, but what're
+the chances?"
+329,MILO,329,What d'you mean?
+330,TEDDY,330,"I dunno. I guess Larry's got me
+totally suspicious of that place."
+331,MILO,331,What does that mean?
+332,TEDDY,332,"Milo, geeks don't have two
+girlfriends. Most don't have one."
+333,MILO,333,I didn't plan this.
+334,GARY (O.S.),334,What'd the girl say?
+335,PHIL,335,"There may be a little less trust
+after your outburst."
+336,PHIL,336,"Hasn't affected his work, though."
+337,GARY,337,"Nothing does. Still. I want him to
+like me."
+338,MILO,338,...What's wrong?
+339,MILO,339,What!
+340,ALICE,340,Teddy was killed last night.
+341,MILO,341,What're you -- what?
+342,ALICE,342,It was a hate crime.
+343,ALICE,343,I'm sorry. I'm so sorry.
+344,NELSON,344,"They trashed his hard disk, all his
+back-ups. Nothing's left."
+345,MILO,345,They caught the guys?
+346,NELSON,346,"It's an airtight case. They found
+the weapon with Teddy's blood on it
+and their fingerprints. They'd been
+arrested twice for beating-up Asians.
+How come they weren't in jail?"
+347,MILO,347,"He told me about the break-in. He
+didn't seem to take it that seriously."
+348,NELSON,348,"You guys don't take anything seriously
+do you? That's not on a hard drive?"
+349,ALICE,349,"Nelson? Your mom wants you. It's
+time to go to scatter the ashes."
+350,MILO,350,"I didn't know he was working with
+fiber optics."
+351,ALICE,351,"We gotta go too, honey."
+352,MILO,352,"I know you lost all his work. Maybe
+I could come down here and --"
+353,LARRY,353,"You are naive. Look at your employment
+contract: you can't work anywhere
+else in this field for at least few
+years."
+354,LARRY,354,Not that I don't miss you.
+355,MILO,355,Just thought his work should go on.
+356,LARRY,356,"He was on the verge of something,
+too. He was gonna show us the next
+day. He said ""The answer's not in
+the box, it's in the band."" Know
+what it means?"
+357,MILO,357,"It's only meaningful when you've got
+40,000 lines of code to back it up."
+358,LARRY,358,"Man, could he write code. Totally
+elegant. He had his own style."
+359,MILO,359,"Those really weird, short lines."
+360,LARRY,360,Take good care of this guy.
+361,LISA,361,You okay?
+362,GARY,362,I heard what happened.
+363,MILO,363,Were the flags for Teddy?
+364,GARY,364,Had you talked to him much lately?
+365,MILO,365,"Just once. 'Guess I was worried we
+didn't have anything to talk about,
+since work was off-limits. Non-
+disclosure."
+366,GARY,366,Did you?
+367,MILO,367,Talk about work? Never!
+368,GARY,368,I meant did you find other stuff to --
+369,MILO,369,Oh. Yeah.
+370,GARY,370,You've been coming in early.
+371,MILO,371,"It helps. Alice said it would help.
+To focus on something."
+372,MILO,372,'Don't know what I'd do without her.
+373,ALICE,373,You okay?
+374,ALICE,374,"I miss him, too."
+375,GARY,375,Milo?
+376,MILO,376,"Wow. You must have 20,000 lines of
+code there..."
+377,GARY,377,"34,000. But they're real short lines.
+'Just came out that way."
+378,GARY,378,"Been thinking about the push mechanism
+in the handler. And it came over me:
+it's in the wrong place."
+379,MILO,379,The wrong place?
+380,GARY,380,"The answer's not in the box. It's in
+the band."
+381,LISA (O.S.),381,Milo? You okay?
+382,MILO,382,Gotta go home. 'Think I ate something.
+383,MILO,383,Alice? Alice!
+384,ALICE,384,"Are you saying you think they had
+something to do with his death? Nelson
+said it was an airtight case."
+385,MILO,385,"I don't know what I'm saying. Maybe --
+maybe they hired those guys."
+386,ALICE,386,"I can't see Outpost putting its
+reputation in the hands of people
+like that."
+387,MILO,387,"I don't know! I just know it was
+Teddy's code. All these ideas flying
+in from everywhere. You know how he
+says ""Any kid working in his garage
+can put us out of business?"" It's
+like they know what every kid's doing."
+388,ALICE,388,They hack into people's programs?
+389,MILO,389,"Nobody does work like this on-line.
+It's in your PC, or in a mainframe.
+Self-contained. They'd have to be,
+like, watching people. Physically."
+390,MILO,390,Oh Jesus.
+391,MILO,391,It's a camera.
+392,MILO,392,"It isn't a broadcast studio. It's --
+a surveillance post or something.
+That's why they have the dishes on
+top."
+393,ALICE,393,"You're scaring me. I think we should
+just go."
+394,MILO,394,"Go where? You can't get away from
+people like this."
+395,ALICE,395,"""Like this?"" It's Gary you're talking
+about."
+396,MILO,396,You think I don't know that?
+397,ALICE,397,Milo. Why would he --
+398,MILO,398,"How should I know? ""Solving a
+problem,"" I guess. Or needing to
+control everything. I don't know."
+399,MILO,399,I've gotta get in there.
+400,ALICE,400,"Even if all this were true. There're
+20 other buildings. All of them filled
+with computers and --"
+401,MILO,401,"It's the only one with dishes on the
+roof. The studio's a front. That's
+why they keep postponing its opening."
+402,MILO,402,...gotta get in there.
+403,ALICE,403,"Milo, you told me those DOJ Agents
+are all over the place. How could
+they hope to hide a surveillance
+post?"
+404,ALICE,404,"And how can you get in there, anyway?
+With the cameras and the swipe cards --"
+405,MILO,405,I can't just walk away!
+406,ALICE,406,"You can't just walk in, either."
+407,MILO,407,"They stop the construction work at
+six or seven. The parking lot's mostly
+clear by two or three in the morning.
+Even the early Geeks don't get there
+before five."
+408,ALICE,408,"Is it two? Or is it three? Have you
+ever really noticed?"
+409,MILO,409,"No! I can't just keep my head in the
+sand. That's how I got into this
+mess."
+410,MILO,410,"I know how to get in there. But you've
+gotta help me."
+411,ALICE,411,...Whaddo I do?
+412,MILO,412,So you believe me?
+413,ALICE,413,Just tell me what to do.
+414,MILO,414,Come on.
+415,GUARD,415,"Sir, you gotta use your own --"
+416,GUARD,416,Where's your ID?
+417,MILO,417,Do you know who I am?
+418,GUARD,418,"It's my job, I gotta --"
+419,MILO,419,"The kind of stock options I'm sitting
+on?"
+420,SHROT,420,"Every geek has to try this once to
+show me how smart he is --"
+421,ANOTHER GUARD,421,"There was an explosion in a Y-sector
+closet, we're evacuating the whole
+sector."
+422,SHROT,422,"Un-nh, can't wander around without
+ID now. Just park your ass in that
+chair."
+423,GUARD (O.S.),423,Whole place reeks of fuckin' ammonia.
+424,RANDY,424,What is it?
+425,SHROT,425,"Not much. Glorified cherry bomb.
+Right by the civil defense sign?
+Some geek's idea of irony. I been
+saying we need a camera in this hall."
+426,RANDY,426,"There's nothing in this hall.
+Someone's pulling your chain, as
+usual."
+427,SHROT,427,"Unless it's a diversion. Milo's in
+my office. He was tailgating, so I --"
+428,GARY,428,"Milo? Try to have a clue. Try to
+think."
+429,RANDY,429,That kid's the great white hope.
+430,SHROT,430,I could get it out of him.
+431,RANDY,431,You're not listening.
+432,MILO,432,Everything okay?
+433,DELBERT,433,How's it goin'?
+434,GUARD,434,"Big night. Switched from tea to
+coffee. Brought new meaning to my
+work."
+435,DELBERT,435,"Yeah? Maybe I'll start my rounds
+with #21 tonight."
+436,GUARD,436,You are a wild man.
+437,VOICE (RANDY),437,Well. Now he knows: nothin' in there.
+438,RANDY,438,Maybe he'll get back to work.
+439,PHIL,439,Speaking of which...
+440,RANDY,440,"Yeah, yeah."
+441,MILO,441,...in a tree...
+442,PHIL,442,Did you download Corey? In San Jose?
+443,RANDY,443,Damn. 'Have to go back over there.
+444,RANDY,444,"Be so much easier if we could walk
+in the front door."
+445,PHIL,445,"You don't look anything like a three-
+year-old."
+446,MULTIMEDIA NARRATOR,446,"-- run this methamphetamine lab known
+to Federal Authorities, per ND 47,
+from which we removed the implement,
+fingerprints intact."
+447,MULTIMEDIA NARRATOR,447,"FBI footage, procured by ND 47, shows
+the aftermath of an Aryan Nations'
+killing in Denver. Note the evidence
+of torture, which is typical."
+448,MULTIMEDIA NARRATOR,448,"-- complete immersion in code-writing
+renders him both unobservant and
+suggestible [click]. On two occasions
+he went truant from classes to attend
+Comix Conventions."
+449,MULTIMEDIA NARRATOR,449,"-- Rebecca P, a Connecticut art stu-
+dent facing Federal drug charges,
+whose records were supplied to us by
+N.D. 47."
+450,MULTIMEDIA NARRATOR (O.S.),450,"Armed with his personal files, she
+was easily able to ingratiate herself
+with the socially maladroit Milo --"
+451,MULTIMEDIA NARRATOR,451,"...she planted the sesame seed both
+to test the extent of his proclivity
+and to provide a bonding experience,
+since she would quote ""save his life."""
+452,MULTIMEDIA NARRATOR,452,"-- should it be needed Milo's allergy
+is the ideal --"
+453,MULTIMEDIA NARRATOR,453,"Note that the cult members are found
+reclining after swallowing the [click]
+Syringe marks best hidden at base of
+scrotum [click] mimics high blood
+alcohol [click] indistinguishable
+from kidney failure."
+454,MILO,454,Please don't be one of them.
+455,MULTIMEDIA NARRATOR,455,"...needs to be watched, due to her
+heightened level of suspicion --"
+456,MULTIMEDIA NARRATOR,456,"-- and to her possible contagion of
+key employees."
+457,MULTIMEDIA NARRATOR,457,"In August '86 Lisa informed her mother
+of the sexual molestation by her
+stepfather, and of his threat to
+kill her should she tell anyone."
+458,MILO (O.S.),458,"He gave me this. 'Said I should come
+see him if --"
+459,DOJ RECEPTIONIST,459,He's not in yet.
+460,MILO,460,Can I wait in his office?
+461,DOJ RECEPTIONIST,461,"It's locked, dear."
+462,MILO,462,Please.
+463,DOJ RECEPTIONIST,463,Wait in his outer office.
+464,CO-WORKER,464,"Do I make the call, or do you?"
+465,MILO,465,"Mr. Barton, do you remember me?"
+466,BARTON,466,"...It's -- Milo, isn't it?"
+467,MILO,467,Yes sir. I need to talk to you.
+468,BARTON,468,Give me two seconds with Lacy here?
+469,BARTON,469,"Go on in, I won't be a moment."
+470,BARTON (O.S.),470,"I'll make the call, but I think you
+need to send a Fax first (etc.)."
+471,BARTON,471,Milo?
+472,MILO,472,Yeah. Hi. Thank you for seeing me.
+473,BARTON,473,Have a seat.
+474,BARTON,474,"What seems to be the problem? You
+look a little upset."
+475,MILO,475,"I am. I am, sir."
+476,BARTON,476,Milo?
+477,MILO,477,"My friend, my best friend, Teddy,
+was killed in Silicon Valley."
+478,BARTON,478,My goodness.
+479,MILO,479,"It was racially motivated. He's
+Chinese. He was. And... I know
+sometimes the FBI gets involved with
+that. Don't they?"
+480,BARTON,480,"If there's a Civil Rights violation.
+But generally we let the local police
+and DA do their work first."
+481,MILO,481,"I -- just wanna help bring these
+guys to justice. They're neo-Nazis."
+482,BARTON,482,"Let me look into it, see what's being
+done. Frankly, it's not my area."
+483,MILO,483,"'Just didn't know who else to talk
+to."
+484,BARTON,484,And Outpost? You're happy there?
+485,MILO,485,Yes sir.
+486,PHIL (ON THE PHONE),486,"'Didn't mention he was going to the
+Justice Department?"
+487,ALICE,487,No.
+488,PHIL,488,"Not like him, is it? To do a thing
+like that without telling you. You're
+not losing your hold on him, are
+you?"
+489,ALICE,489,He'll tell me when he gets home.
+490,PHIL,490,"That'll be a test, won't it?"
+491,ALICE,491,"Instead of busting my chops you should
+do something about that girl. Fire
+her. Or something."
+492,PHIL,492,"Lisa's an extremely valuable member
+of the Skywire team. We've got our
+eyes on her. You keep yours on Milo."
+493,ALICE,493,Prick.
+494,ALICE,494,"It's almost nine, I've been so
+worried!"
+495,ALICE,495,What did you see in there?
+496,MILO,496,Nothing.
+497,ALICE,497,Nothing?
+498,MILO,498,"It's what they said it is. An
+unfinished broadcast studio. You
+were right... I just drove to Seattle
+and back."
+499,ALICE,499,...Why?
+500,MILO,500,Remember Lyle Barton?
+501,MILO,501,"The Justice Department guy who came
+to the apartment when --"
+502,ALICE,502,I remember.
+503,MILO,503,"After I broke into 21 -- which was
+insane, thank God they didn't catch
+me! -- I just drove around. Trying
+to figure out what possessed me. You
+know what? I've been putting my own
+guilt on Gary."
+504,ALICE,504,Guilt?
+505,MILO,505,"If I'd stayed down there, maybe this
+wouldn't've happened."
+506,ALICE,506,Poor baby. You know that's not true.
+507,MILO,507,"I thought, instead of indulging all
+these paranoid delusions, risking my
+job, alienating Gary, scaring you, I
+should do something useful with my
+grief. Help them find Teddy's killers."
+508,ALICE,508,I was so worried about you.
+509,MILO,509,...been such a long night.
+510,ALICE,510,That was -- different.
+511,MILO,511,...Different?
+512,ALICE,512,You didn't feel it? So intense.
+513,LISA,513,So you're not avoiding me.
+514,LISA,514,What's wrong?
+515,MILO,515,I snuck into #21.
+516,LISA,516,Why would you do a thing like --
+517,MILO,517,"You thought about it too. You've
+been suspicious for a while. But
+it's not happening in there. It's
+happening in the Day Care."
+518,LISA,518,The Day Care?
+519,MILO,519,Can we go someplace else?
+520,MILO,520,"It's easy to know who the smart geeks
+are, the schools tell 'em. They upload
+medical files, school records,
+pharmacy files. They'd be happy just
+to steal code forever. But when a
+program gets close to fruition. Like
+Teddy. He was almost there."
+521,LISA,521,But why would they --?
+522,MILO,522,"You know. There is no second place.
+And what's the risk? The killings're
+undetectable, they're hand-tailored,
+they make ""sense."" I mean, they're
+in the information business. They
+have scenarios for all of us, too.
+In case we find out too much."
+523,MILO,523,"I'm not one of them. Not trying to
+""suss you out."""
+524,MILO,524,"They killed my best friend! I'm living
+with somebody they pay to go to bed
+with me. Can't you trust somebody
+just once? I don't wanna be alone
+here."
+525,LISA,525,"I'm sorry, Milo... I'm sorry."
+526,MILO,526,"I know why you're so secretive. Why
+you won't let anybody near you."
+527,MILO,527,I know what he did to you.
+528,LISA,528,Oh yeah?
+529,LISA,529,So that's in my -- file?
+530,LISA,530,Is that my -- scenario?
+531,LISA,531,Tell me.
+532,MILO,532,They'd frame him.
+533,LISA,533,He's out of prison?
+534,MILO,534,"They're already watching you. If
+they had to, they'd give him this
+drug that mimics an alcoholic
+blackout. He'd wake up not even
+remembering his ""act of revenge."""
+535,LISA,535,No.
+536,MILO,536,Nobody's gonna hurt you.
+537,LISA,537,...Milo?
+538,MILO,538,Hmm?
+539,LISA,539,"I always felt if a -- boy I liked
+ever found out -- he'd run. He'd
+think I was unclean."
+540,MILO,540,"No, no. Never."
+541,VOICE (PHIL),541,All his suspicions were allayed?
+542,VOICE,542,You're sure.
+543,ALICE,543,"He said it made sense that Gary's
+code was like Teddy's, that that
+cliché about great minds was true.
+Said it was all about his own guilt."
+544,ALICE,544,"Plus, he has a tendency to get Gary
+mixed-up with his dad once in a while.
+It always passes."
+545,PHIL,545,He wasn't acting?
+546,ALICE,546,I don't think he knows how.
+547,LISA,547,What about the FBI?
+548,MILO,548,"They've got this guy in the DOJ,
+maybe others. We tell the wrong
+person, it's over."
+549,LISA,549,Who can we trust?
+550,MILO,550,"There's always a logical answer --
+you just have to define the question."
+551,LISA,551,"How do you let go of a secret without
+telling the wrong person."
+552,MILO,552,We don't tell anybody.
+553,MILO,553,"We tell everybody. At once. So there's
+no secret left to protect. When
+everybody knows, they don't dare
+touch us."
+554,SHROT,554,"No, Tony can't fill in for you, he's
+not at your authorization level."
+555,LEN,555,Bob? You better look at this.
+556,MILO,556,Do we post it on the Net?
+557,LISA,557,"There're so many disinformation sites
+about Gary already. Where he has
+devil's horns or they crop him in
+with Saddam Hussein."
+558,SHROT,558,"Could it be a glitch? Something the
+construction workers caused?"
+559,LEN,559,"Unlikely. All 14 cameras are frozen.
+Do we call Randy and Phil? Tell 'em
+there may have been a break-in?"
+560,SHROT,560,"Not yet. 'Love to bust my ass cause
+I'm not in frigging Mensa."
+561,SHROT,561,"I swear to God, it's that kid Milo,
+I told 'em so in the first place,
+but they didn't even wanna hear about
+it."
+562,SHROT,562,Let's run a printout on card entries.
+563,LISA,563,"The mainstream media. TV, or a
+newsmagazine."
+564,MILO,564,"Right. But Gary's tied-in to a lot
+of media conglomerates. Have to be
+careful who we pick."
+565,LISA,565,"We could cross-reference a data base
+on media ownership. But not on our
+own computers. Not even at home."
+566,MILO,566,Certainly not at my happy home.
+567,MILO,567,"Gary, hi."
+568,GARY,568,You look a little tired.
+569,MILO,569,I'm okay. It's going well!
+570,GARY,570,'Have a look?
+571,MILO,571,Sure.
+572,GARY,572,"Why did you move around so much?
+When you were a kid."
+573,MILO,573,"...My dad was a compulsive gambler.
+Only he didn't think he was. That
+applied to guys who didn't have a
+""system."" ""Losers,"" who played games
+of chance. He could ""read"" people,
+so chance had nothing to do with it.
+No matter how deep a hole he dug
+himself, he'd give you the whole
+speech. And you'd better not point
+out the obvious."
+574,MILO,574,"His creditors would catch up to him.
+Loan sharks or whatever. He'd wake
+us in the middle of the night. Off
+we'd go, again."
+575,GARY,575,"What would you tell the kids? At
+your new school? You had to come up
+with a good story, right?"
+576,MILO,576,"No. I just went deeper into the
+machine. Preferred being the geek to
+having to explain. Lying would've
+been worse."
+577,GARY,577,...Worse?
+578,MILO,578,"Cause he was a liar. And I hated
+him."
+579,MILO,579,"""Get your head out of that machine,
+wise up to the real world."" The more
+he mocked me the deeper I went. Cause
+if being savvy meant being like him --"
+580,MILO,580,"Guess that's why I'm kind of clueless,
+even now. Didn't cultivate my
+conniving side. 'Not sure I even
+have one."
+581,GARY,581,"Don't be so hard on yourself. With a
+brain like yours, you could connive
+with the best of 'em I bet."
+582,MILO,582,"He's buying up pretty much everything:
+cable companies, baby bells, picture
+libraries, museum rights, film
+archives... Getting ready for Skywire."
+583,LISA,583,"What about ""60 Minutes."""
+584,MILO,584,"Yeah, they dig stuff like this."
+585,MILO,585,"""CBS News has partnered with Outpost
+Information Systems in a cable news
+network due to launch Fall of 2001."""
+586,LISA,586,"But still, you can't say CBS wouldn't
+love to break something like --"
+587,MILO,587,"Say there's just one ""mole"" working
+there, like Barton at the DOJ. How
+do we know he's not the guy we've
+contacted? Or she? Or the guy she
+works for?"
+588,LISA,588,Time?
+589,MILO,589,"Time-Warner has a 40 per cent stake
+in Gary's set-top device. That also
+takes out CNN."
+590,MILO,590,"""GE joins Outpost in new venture,""
+which means NBC is out. ""Disney joins
+Outpost,"" ABC is out. ""Outpost and
+Newscorp in new deal,"" Fox is out.
+Any of these places could have a
+mole. Or all of 'em."
+591,MILO,591,"It's like a a continuous loop. We
+can go to some alternative press
+place that 1,000 people read, get
+them and us killed. But anything big
+enough for this is a parent of or a
+subsidiary to something Gary's got a
+finger in!"
+592,HOMEWORK KID,592,Shhh.
+593,MILO,593,Sorry.
+594,LISA,594,Milo?
+595,LISA,595,How close are you?
+596,MILO,596,What?
+597,LISA,597,"He's got 12 satellites up. He's got
+dishes on top of 21. He's building
+this --"
+598,LISA,598,"mega-network for Skywire. Let's use
+it."
+599,MILO,599,"We can't just assume they're standing
+by to receive Skywire 12 months from
+launch. I'd have to write in an aglet."
+600,LISA,600,A what?
+601,MILO,601,"It's how on-line services push logos
+they wanna sell you. You don't ask
+for 'em, they just appear. 'Have to
+work on it somewhere besides my office
+or my house. And then the quality of
+the broadcast wouldn't exactly be
+digital, that's 12 months away."
+602,LISA,602,"But they'd still get the idea, right?"
+603,MILO,603,"You'd have to design a graphic
+interface to make the data pop. Maybe
+some audio, too. To tie it all in to
+Gary. How long would that take you?"
+604,LISA,604,"It's a standard GUI. Once I've got a
+concept, it's maybe three day's work."
+605,MILO,605,"Gary knows I'm close on Skywire. We
+have to do this fast."
+606,LISA,606,"Before they kill somebody else, too."
+607,MILO,607,"Oh, man. I'd have to get into Gary's
+house. To get the satellite positions."
+608,LISA,608,You mean -- break in?
+609,MILO,609,I don't know --
+610,LISA,610,"And what if the broadcast dishes on
+top of 21 aren't hot yet? You said
+the place isn't finished."
+611,LISA,611,I'll go look.
+612,LISA,612,"They'll just have a few more pictures
+of me snooping around."
+613,MILO,613,Why were you so careless?
+614,LISA,614,"I thought the worst they would do is
+fire me. Who knew they took
+termination so literally?"
+615,MILO,615,Why were you snooping in my office?
+616,LISA,616,Oh.
+617,LISA,617,I liked you. I was checking you out.
+618,MILO (O.S.),618,"'Think everybody in this place is
+here the same reason we are?"
+619,LISA (O.S.),619,"'Cause their apartments might be
+bugged?"
+620,MILO,620,I told Teddy about you.
+621,LISA,621,What'd he say?
+622,MILO,622,"""A beautiful geek? What're the
+chances?"""
+623,MILO,623,"I felt guilty. 'Cause I ""owed so
+much"" to Alice. But even then I was
+starting to wonder. Is it so great
+to be so consumed by this one thing
+that you let another person do your
+thinking for you? If you have a
+lucrative skill, it's all anybody
+wants from you. You grow older but
+you don't grow up. You turn into --
+into --"
+624,LISA,624,Gary.
+625,MILO,625,"Larry used to say how the guys who
+wrote the first cool operating
+systems, like the UNIX guys at
+Berkeley? They just gave it away.
+They figured it was human knowledge,
+it belonged to the world, like
+Shakespeare or aspirin. 'Know what
+I'm gonna do after we broadcast the
+incriminating stuff? Air the Skywire
+code. Then nobody can have a monopoly."
+626,ALICE,626,Where were you?
+627,ALICE,627,"You know you can't keep anything
+from me."
+628,MILO,628,"Okay, yeah. I did something naughty...
+There's this amazing Comix store in
+Seattle."
+629,MILO,629,"To tell you the truth, I did it once
+or twice at Stanford. 'Guess I can't
+keep anything from you..."
+630,ALICE,630,I won't turn you in.
+631,LEN,631,Every entry was authorized.
+632,SHROT,632,Keep looking.
+633,LEN,633,What're we looking for?
+634,SHROT,634,Any irregularity in the pattern.
+635,TV VOICE,635,"Last years' party-goers pledged over
+$2 million to the Museum; this year's
+event promises to raise even more.
+Lured in part by the chance to see
+the stunning Boyd house..."
+636,MILO,636,Look at this.
+637,ALICE,637,What?
+638,MILO,638,"Why doesn't he ask us to his party.
+He's never even met you."
+639,ALICE,639,"He has thousands of employees, Milo --"
+640,MILO,640,"It's for the Museum. He knows you're
+a painter. If anybody should be
+invited --"
+641,ALICE,641,Milo --
+642,MILO,642,"I know you think I'm too attached to
+him, but still. I am close to Gary.
+And you're the most meaningful person
+in my life."
+643,MILO,643,"I'm going back to the Comix place,
+why should I be killing myself."
+644,ALICE,644,"Milo, you --"
+645,GUARD,645,Hey! Get down here!
+646,MILO,646,"This is a lifesaver. My PC crashed
+just before finals."
+647,SISTER BEATRICE,647,"None of us knows how to use it. I'm
+thinking of taking a course."
+648,SISTER BEATRICE,648,May I?
+649,MILO,649,Sure.
+650,SISTER BEATRICE,650,Forget it.
+651,LISA,651,"I needed t'see it up close for a
+graphic. The outpost with a dish on
+top? I climbed up there to get it
+right."
+652,SHROT,652,Next time you ask.
+653,LEN,653,'Might of found something.
+654,LEN,654,"Delbert seems to enter #21 twice.
+Without leaving the first time."
+655,SHROT,655,Let's get him in here.
+656,MILO,656,"Great. I knocked off the aglet, as
+soon as I get a passable version of
+Skywire we're there."
+657,LISA,657,"The dishes are juiced up, too."
+658,MILO,658,Thank God.
+659,LISA,659,"Milo? Shrot suspects somebody broke
+into #21. I was in his office when
+he was reviewing the card readouts."
+660,MILO,660,"They know I broke in. Alice helped
+me."
+661,MILO,661,"Shrot's not one of them. He's
+blundering into this on his own."
+662,LISA,662,He doesn't know about the Day Care.
+663,MILO,663,"Hardly anybody does, that's the beauty
+part. No cameras, the DOJ doesn't
+bother with it, it's accessed by a
+tunnel they boast about. You know
+the best place to hide a leaf?"
+664,LISA,664,"Yeah, that's old, in a tree."
+665,MILO,665,Oh.
+666,LISA,666,"Milo? What if Shrot notices somebody
+entered the Day Care at four A.M.?
+And tells them about it?"
+667,GARY,667,Milo?
+668,GARY,668,"I'm giving a benefit for the art
+museum Thursday night. Thought you'd
+like to bring Alice."
+669,MILO,669,That's great! Thanks.
+670,GARY,670,'Sorry about the late notice...
+671,DESI,671,"""Sorry about the late notice?"""
+672,SHROT,672,Why did you enter #21 twice?
+673,DELBERT,673,Huh?
+674,DELBERT,674,This thing's screwed-up. Look here.
+675,DELBERT,675,"'Shows me going into the Day Care
+that night. I never been in the Day
+Care."
+676,LISA,676,"One window'll be obits I downloaded,
+based on the scenarios you described.
+The other windows'll accommodate the
+surveillance stuff you told me about.
+The idea is, this works with anything,
+since we can't edit."
+677,LISA,677,"Same with the excerpts I'm choosing:
+they'll play against any of the images
+you described."
+678,MILO,678,Perfect.
+679,MILO,679,"How am I gonna get away from the
+party long enough to --"
+680,LISA,680,"You could always say you have to go
+the bathroom."
+681,MILO,681,"That's lame, isn't it?"
+682,LISA,682,You'll come up with something.
+683,ALICE,683,"They called the house to ask who's
+your favorite painter."
+684,HOUSEMAN,684,"Sorry, Sir, this part of the residence
+is restricted."
+685,GARY,685,"Alice, I'm Gary. This is my wife,
+Clarissa."
+686,GARY,686,"Milo, this is Barry Linder, who's
+visiting from Hollywood."
+687,LINDER,687,"I hate being the Hollywood guy. It's
+so limiting. Meet my friend, Ricky."
+688,RICKY,688,"Hi, guys."
+689,GARY,689,"Barry's studio's gonna help fill the
+Skywire pipeline, thought you guys
+should meet."
+690,MILO,690,Cool.
+691,SOCIETY WOMAN,691,"He's a sweetheart. He gave 10,000
+PC's to the Library Association."
+692,SOCIETY MAN,692,"All 10,000 of which will be signed
+onto his browser, no doubt."
+693,SOCIETY WOMAN,693,And so what?!
+694,ANOTHER MAN,694,Wait'll all the books are on-line.
+695,SOCIETY WOMAN,695,And so what?
+696,LINDER,696,"The merchandising implications are
+epic. A kid's watching the movie, he
+points and clicks at the laser blaster --
+before the reel's even over he's
+ordered the toy."
+697,ALICE,697,"But, I mean -- Devil's Advocate --
+won't that influence the content?
+Won't the artists complain? The
+directors or writers or whoever?"
+698,LINDER,698,"Artists? Darling, the only art left
+in America is business. You're in
+Picasso's house!"
+699,MILO,699,Where's the bathroom?
+700,LINDER,700,The irreverence!
+701,HOUSEMAN,701,You'll have to use one over there.
+702,MILO,702,"There's like eight women waiting in
+line. They take forever."
+703,MILO,703,Please?
+704,HOUSEMAN,704,Right here.
+705,GARY,705,"""Dear Lisa. I've enjoyed working
+with you. I'd be lying if I didn't
+say I find you attractive. But in my
+heart I know that Alice..."""
+706,GARY,706,You left my party to send E-mail?
+707,MILO,707,"I couldn't do it at work cause of
+security or at home for -- obvious
+reasons."
+708,GARY,708,You could've handwritten it.
+709,MILO,709,"I'm not much good at handwriting. Or
+parties."
+710,GARY,710,"Oh, that's right. You're ""clueless."""
+711,MILO,711,"Gary, I'm sorry if I was rude --"
+712,HOUSEMAN,712,"Everything OK, Mr. Boyd?"
+713,GARY,713,No problem.
+714,GARY,714,Is there?
+715,MILO,715,"Gary, I --"
+716,GARY,716,You see what's hanging on the wall?
+717,GARY,717,"I hope you know what you mean to me.
+Not just because of what you're doing.
+Because of who you are."
+718,MILO,718,"I do know, Gary. I feel the same
+way. I thought I was coming here for
+a job. But it's meant a lot more."
+719,GARY,719,When will you have a Beta version?
+720,MILO,720,"I'm pretty close. But when I wrote
+the last contact switches, it wiped
+out a piece of the content filer.
+You know what it's like, writing
+software."
+721,GARY,721,"I do know. You focus on the big
+problem. But somewhere down the chain,
+something breaks down. Something
+gets destroyed. At first it's
+upsetting. You feel you've lost
+control."
+722,GARY,722,"So you have to remind yourself: it's
+just the process. Something's always
+lost along the way to anything
+worthwhile. Some little bug, some
+glitch. 'Can't get bogged down in
+that, you're doing something other
+people could never do. They lack the
+imagination, the brain, the nerve.
+Let them fret about every unforeseen
+consequence. You have to solve the
+problem. That's who you are."
+723,ALICE,723,Are you gonna tell me where you went?
+724,MILO,724,"I went to see the Skywire model in
+Gary's office. You know. Just to
+hold it again."
+725,ALICE,725,"Are you having an affair, Milo?"
+726,MILO,726,"No. No. I sent an E-mail to somebody,
+just now. To tell her how I feel
+about you."
+727,MILO,727,"You know I'm clueless, without you.
+You know I --"
+728,ALICE,728,Just shut up?
+729,LEN,729,"Get the backslash, the colon, keys
+kids don't use but geeks do."
+730,LEN,730,"What would Milo want in here, anyway?"
+731,SHROT,731,"They know. 'Just they don't trust me
+with it. So we'll get the evidence,
+first, ask questions later."
+732,LISA,732,Does he know you know?
+733,MILO,733,"He suspects I know something. I think
+he was sort of -- explaining himself
+to me, in case I do."
+734,MILO,734,"We have to go in tonight. I'm two
+hours from a Beta version."
+735,MILO,735,But I've gotta go home for an hour.
+736,LISA,736,Why?!
+737,MILO,737,"She called to apologize. I said I
+was pulling an all-nighter. She said
+then come home just to say Hi. Which
+I always do when we fight, it's
+suspicious if I don't."
+738,LISA,738,Please don't go.
+739,MILO,739,"At this point the worst thing I could
+do is anything out of the ordinary."
+740,LISA,740,Here's the interface.
+741,ALICE,741,"I'm a mess! I got this Hunan cookbook,
+since we're always afraid for you to
+eat in Chinese restaurants. I've
+been mincing things into teeny-tiny
+pieces all afternoon."
+742,MILO,742,Great!
+743,ALICE,743,Look at me! I'm gonna change.
+744,MILO,744,You look beautiful.
+745,ALICE,745,Yeah? Give me a goodbye kiss.
+746,MILO,746,...What?
+747,ALICE,747,"I know you. You're gonna run back to
+work right after dinner. I want my
+kiss now."
+748,ALICE,748,Be right back.
+749,ALICE,749,Milo?
+750,ALICE,750,Milo?
+751,MILO,751,Don't we have any chopsticks?
+752,ALICE,752,"Oh, right. Hold on."
+753,MILO,753,One more minute...
+754,ALICE,754,Here we go.
+755,MILO,755,Great.
+756,MILO,756,...wanna savor this.
+757,ALICE,757,It's gonna get cold.
+758,MILO,758,Right. Wait. A toast.
+759,ALICE,759,You're just afraid to eat it.
+760,MILO,760,To the artist.
+761,MILO,761,It's great. It's great.
+762,SECRETARY,762,"Milo, hi! How was the party?"
+763,MILO,763,Great! Great! Thanks for asking!
+764,LEN,764,You calling Phil and Randy?
+765,SHROT,765,I'm calling Gary.
+766,SHROT,766,"He's left his office, we think he's
+gone back to the Day Care for some
+reason. Can you tell me why, Gary?"
+767,SHROT,767,Whatever you say.
+768,SHROT,768,"Wants to consult with Phil. Was it
+Phil's idea to run the fingerprints?"
+769,SHROT,769,Come with me.
+770,LEN,770,Where we going?
+771,PHIL,771,He's in the Day Care.
+772,LEN,772,"Bob, I'm a programmer, not a cop."
+773,SHROT,773,What are you doing?
+774,MILO,774,You're better off not knowing.
+775,SHROT,775,What're you doing?!
+776,MILO,776,"They're surveilling programmers from
+in here. They steal their code.
+Sometimes -- I know this sounds insane --
+sometimes they kill one."
+777,MILO,777,"They let me break into 21. 'Cause
+there's nothing in there. You know
+they've been keeping things from
+you. 'Getting in the way when you
+try t'do your job. That's why you
+never told 'em your suspicions about
+me. Right?"
+778,MILO,778,If you had I'd be dead now.
+779,MILO,779,"You've been following your gut all
+along. Please don't stop now?"
+780,RANDY,780,What's going on here?
+781,SHROT,781,Who're these guys?
+782,RANDY,782,Where is he?
+783,SHROT,783,We're too late. Take a look.
+784,SHROT,784,"What's in here worth taking, anyway?"
+785,RANDY,785,He must be out there still --
+786,SHROT,786,"Forget about it. His car's not in
+the lot, he's gone!"
+787,VOICE,787,Hey!
+788,DESI,788,Wanna get a cheeseburger or something?
+789,MILO,789,Maybe another time.
+790,RANDY,790,"Fellas, I'm gonna have to ask you to
+leave here now."
+791,SHROT,791,"Wait a second. I'm the one who found
+out he was mucking around in here in
+the first place."
+792,RANDY,792,"We're all grateful for that. Really.
+Go out the way you came in?"
+793,MILO,793,Meet me at the other location.
+794,LISA (V.O.),794,"Tell me you're not calling on your
+car phone?!"
+795,MILO (V.O.),795,"They know, I had no choice. Get out
+of the house now! Do you have a
+laptop?"
+796,LISA (ON THE PHONE),796,"It's three years old, it --"
+797,MILO (ON THE PHONE),797,Bring it to the other location.
+798,LISA,798,But you said the other --
+799,PHIL,799,"Yeah, alright."
+800,PHIL,800,"He's off campus, he's taken some
+surveillance data with him."
+801,PHIL,801,"She's bringing her laptop, it's wired.
+Second she boots up, we're on 'em."
+802,RENT-A-GUARD,802,Help you?
+803,MILO,803,Brian here? Brian Bissel?
+804,RENT-A-GUARD,804,Who wants to see him?
+805,RANDY,805,Nothing. They haven't booted-up yet.
+806,MILO,806,"This is the biggest Beta demo in
+like the history of software. You'd
+be my partner."
+807,BRIAN,807,"You can't pre-empt Yoga, that's our
+biggest show."
+808,MILO,808,"Brian! You wanna be a big deal, don't
+you? That's your dream in life."
+809,BRIAN,809,Will I get to work for Outpost?
+810,MILO,810,"No. But you can write your own ticket
+in the Valley after this. We're gonna
+bring down Outpost."
+811,BRIAN,811,What?
+812,MILO,812,What'd they ever do for you?
+813,BRIAN,813,Okay.
+814,MILO,814,"Great. Great! We need to drag a lot
+of heavy stuff in front of the door --"
+815,BRIAN,815,What?!
+816,MILO,816,Wanna be a part of history?
+817,RENT-A-GUARD,817,Not really.
+818,MILO,818,"Well -- would you like to pick up an
+extra -- 232 dollars?"
+819,PHIL,819,"Nothing yet, Gary..."
+820,RANDY,820,We've got a fix on 'em.
+821,RANDY,821,218 North Jericho Road.
+822,RANDY,822,Public access TV station. KNQR.
+823,PHIL,823,"He's taken it to the public access
+station."
+824,GARY,824,That's what he was doing in here.
+825,PHIL,825,Gary?
+826,GARY,826,"Help me change the Skywire settings.
+Add five degrees to each satellite
+coordinate."
+827,PHIL,827,"Gary, don't worry, we --"
+828,GARY,828,Just do what I'm asking!
+829,BRIAN,829,You're interfaced with our dish.
+830,MILO,830,Gimme the coordinates?
+831,LISA,831,"Longitude 77 degrees, 03 minutes, 58
+seconds East."
+832,LISA,832,"Latitude 38 degrees, 55 minutes, 14
+seconds South."
+833,PHIL,833,19 seconds South. Altitude 431 Miles.
+834,BRIAN,834,Is it your software?
+835,MILO,835,Is it your dish?
+836,LISA,836,Maybe it's the satellite.
+837,MILO,837,Let's try #2.
+838,GARY,838,"Okay, #2."
+839,PHIL,839,Longitude 48 degrees 06 minutes --
+840,LISA,840,"They're already here. My laptop must
+be wired!"
+841,BRIAN,841,Milo?
+842,MILO,842,We're there.
+843,MILO,843,Damn!
+844,LISA,844,You checked your connections?
+845,BRIAN,845,Yes! Should you reboot?
+846,MILO,846,...He knows.
+847,LISA,847,What?
+848,MILO,848,"He's been altering the coordinates
+since we logged on. He's a step ahead.
+Let's jump to #12."
+849,PHIL,849,Ready for number three?
+850,GARY,850,Let's go.
+851,PHIL,851,Longitude 109 --
+852,GARY,852,Wait... He knows.
+853,PHIL,853,What?
+854,GARY,854,"'Knows I'm altering the coordinates.
+Let's jump to #12."
+855,PHIL,855,Gary?
+856,GARY,856,Just do it.
+857,GUNTHER,857,Step aside. We won't hurt you.
+858,LISA,858,Latitude 47 degrees.
+859,MILO,859,Wait a second. He knows I know.
+860,BRIAN,860,What?!
+861,MILO,861,"He's working backwards, too."
+862,MILO,862,Let's do number five?
+863,LISA,863,Longitude 66.
+864,LISA,864,Come now. They've got guns!
+865,GUNTHER (O.S.),865,"Open the door, Milo!"
+866,BRIAN,866,You there yet?
+867,MILO,867,One more second.
+868,BRIAN,868,"Hey, hey, relax, relax!"
+869,LISA,869,Oh my God.
+870,BRIAN,870,Should I call Phil? Or do you?
+871,BRIAN,871,"Milo? Wake up. Our regular programming
+will not be preempted tonight."
+872,GUNTHER,872,Wait.
+873,BRIAN,873,...When did you know?
+874,MILO,874,"You should've called a few times to
+bug me about your job prospects."
+875,LISA,875,Milo? Who's got Skywire?
+876,PHIL,876,"If Milo didn't launch Skywire, who
+did?"
+877,SHROT,877,"Now what are we doing? I don't get
+any of this shit!"
+878,LEN,878,"I launched Skywire. Just pray the
+last set of coordinates Milo sent me
+connected us to Gary's satellite."
+879,GARY'S VOICE OVER,879,"Most of us who write software achieve
+our greatest work before age 30. As
+I grow older I know how important it
+is to access fertile young minds!"
+880,RIMAN,880,You know the scenario for this.
+881,MILO,881,"'Last thing you wanna do is hurt us
+now."
+882,MILO,882,Right?
+883,GUNTHER,883,Who's seeing this?
+884,BRIAN,884,Who isn't?
+885,GARY'S VOICE OVER,885,"We work hard to stay ahead because
+we know any kid working in his garage
+can put us out of business."
+886,GARY'S VOICE OVER,886,"The first rule of the software
+business is: those who don't innovate
+are doomed to die."
+887,GARY'S VOICE OVER,887,"That's why we work so hard to invent
+or acquire great new applications.
+Consumers don't care where new ideas
+come from, just so long as they're
+offered at competitive prices. Isn't
+that what the free market's about?
+Sure, we like being #1, but it's
+pressure, too. This business is
+binary: you're a zero or a one."
+888,JUSTICE DEPT. LAWYER,888,"'Guess we should wake the Attorney
+General."
+889,GARY'S VOICE OVER,889,"I've been called ""aggressive"" but to
+me, that's really a compliment."
+890,GARY'S VOICE OVER,890,"Look at all the jobs and technologies
+my ""aggression"" has created."
+891,BARTON'S WIFE (O.S.),891,Lyle? Phone for you.
+892,GARY'S VOICE OVER,892,"We really are a family here at
+Outpost."
+893,GARY'S VOICE OVER,893,"I think that's why outsiders sometimes
+sees us as ""cultish"" or ""secretive.""
+Milo, It wasn't so bad, really."
+894,GARY'S VOICE OVER,894,"Is loyalty and group spirit somehow
+""sinister"" nowadays?"
+895,LAWYER,895,"The ""murder"" stuff is all innuendo:
+bad PR, legally null. 'Could probably
+be spun as Urban Legend. There is a
+case for corporate espionage, but if
+you cop a plea, you'll get a slap --"
+896,GARY,896,"Cop a plea? I'm confused, Ted. You
+think I knew about this?"
+897,GARY,897,"I'm running the company, fighting
+the DOJ, raising a family. Randy and
+Phil obviously overreacted. To this
+endless, antitrust witchhunt."
+898,LAWYER,898,"The government's gonna offer 'em a
+helluva deal to tie you into this.
+Whether you knew about it or not."
+899,LAWYER 2,899,"Randy, Phil and whoever else knew
+about it."
+900,GARY,900,That won't be a problem.
+901,GARY (O.S.),901,"As for PR, Skywire'll take care of
+all that."
+902,GARY,902,"The world's seen it now. They know
+it's gonna dominate the convergence
+market even beyond how Outpost '98
+dominates the desktop."
+903,GARY (O.S.),903,"Go after us, you give foreign
+competitors a shot at the platform
+that'll hold sway for 30 years: you
+threaten not just our chip and PC
+partners like when you came after
+the browser."
+904,GARY,904,"You threaten TV networks, phone
+companies, catalog outlets, publishing
+houses, movie studios, travel agents,
+airlines, stock brokerages -- you
+sabotage the whole economy. Talk
+about undermining innovation!"
+905,LAWYER 2,905,"Easy to spin, old as the hills: What's
+good for Outpost is good for America."
+906,MILO,906,"Come on, Bob. Load in the other disk."
+907,GARY,907,"""I had no knowledge of these
+activities, but I have to ask myself
+if the competitive environment I
+encouraged in some small way
+contributed --"""
+908,LAWYER,908,Gary?
+909,CYBER PUNDIT (OVER BLACK),909,"The Board ousted Gary Boyd as
+Chairman, they're assisting the DOJ
+in the breakup of Outpost into
+divisions."
+910,LARRY KING (ON TV),910,"That's gotta kill him, right?"
+911,CYBER PUNDIT (ON TV),911,"Outpost was his baby, sure. On the
+other hand, we just learned Gary
+Boyd owns the Skywire satellites.
+Personally."
+912,LARRY KING (ON TV),912,Outpost doesn't own em.
+913,CYBER PUNDIT (ON TV),913,"Conglomerates're lined up to finance
+the launch of the remaining
+satellites. They'll pay him a huge
+premium to get on-line."
+914,LARRY KING,914,"That'd change with a criminal
+indictment."
+915,CYBER PUNDIT,915,"There's no hard evidence he knew
+about this. Anybody who could
+implicate him seems to've vanished."
+916,LARRY KING (ON TV),916,"Isn't there a stigma? Bankrolling
+this guy?"
+917,CYBER PUNDIT (ON TV),917,"Stigma? Larry! 60 billion buys you
+some slack in this world."
+918,LARRY KING (ON TV),918,"And the kid who wrote Skywire --
+then gave it away? They're calling
+him the digital Robin Hood."
+919,CYBER PUNDIT (ON TV),919,Milo. Surprised he's not your guest.
+920,LARRY KING (ON TV),920,We tried!
+921,CYBER PUNDIT (ON TV),921,"You better believe everybody's trying
+to sign him up."
+922,MILO,922,"Larry, Lisa."
+923,LARRY,923,"Your app kind of blew mine out of
+the water."
+924,MILO,924,We'll come up with the next big thing.
+925,LARRY,925,...You wanna work -- here?
+926,MILO,926,Got out of my other commitment.
+927,LARRY,927,May I?
+928,MILO,928,"Hey, wait!"
+929,MILO,929,Not giving everything away.
+930,LARRY,930,C'mon. Bring your stuff.
+931,LARRY,931,"You guys'll be using Teddy's old
+space, is that okay?"
+932,MILO,932,Cool.

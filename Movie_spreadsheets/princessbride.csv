@@ -1,0 +1,1770 @@
+,character,line #,line
+0,MOTHER,0,You feeling any better?
+1,THE KID,1,A little bit.
+2,MOTHER,2,Guess what.
+3,THE KID,3,What?
+4,MOTHER,4,Your grandfather's here.
+5,THE KID,5,"Mom, can't you tell him that I'm
+sick?"
+6,MOTHER,6,"You are sick, that's why he's here."
+7,THE KID,7,He'll pinch my cheek. I hate that.
+8,MOTHER,8,Maybe he won't.
+9,GRANDFATHER,9,Hey! How's the sickie? Heh?
+10,MOTHER,10,I think I'll leave you two pals.
+11,GRANDFATHER,11,I brought you a special present.
+12,THE KID,12,What is it?
+13,GRANDFATHER,13,Open it up.
+14,THE KID,14,A book?
+15,GRANDFATHER,15,"That's right. When I was your
+age, television was called books.
+And this is a special book. It
+was the book my father used to
+read to me when I was sick, and I
+used to read it to your father.
+And today, I'm gonna read it to
+you."
+16,THE KID,16,Has it got any sports in it?
+17,GRANDFATHER,17,"Are you kidding? Fencing. Fighting.
+Torture. Revenge. Giants. Monsters.
+Chases. Escapes. True love.
+Miracles."
+18,THE KID,18,"It doesn't sound too bad. I'll
+try and stay awake."
+19,GRANDFATHER,19,"Oh. Well, thank you very much.
+It's very nice of you. Your vote
+of confidence is overwhelming.
+All right."
+20,GRANDFATHER,20,"The Princess Bride, by S.
+Morgenstern. Chapter One.
+Buttercup was raised on a small
+farm in the country of Florin."
+21,GRANDFATHER,21,"Her favorite pastimes were riding
+her horse and tormenting the farm
+boy that worked there. His name
+was Westley, but she never called
+him that."
+22,GRANDFATHER,22,Isn't that a wonderful beginning?
+23,THE KID,23,Yeah. It's really good.
+24,GRANDFATHER,24,"Nothing gave Buttercup as much
+pleasure as ordering Westley
+around."
+25,BUTTERCUP,25,"Farm boy. Polish my horse's
+saddle. I want to see my face
+shining in it by morning."
+26,WESTLEY,26,As you wish.
+27,GRANDFATHER,27,"""As you wish"" was all he ever
+said to her."
+28,BUTTERCUP,28,Farm Boy. Fill these with water --
+29,BUTTERCUP,29,--please.
+30,WESTLEY,30,As you wish.
+31,GRANDFATHER,31,"That day, she was amazed to
+discover that when he was saying,
+""As you wish,"" what he meant was,
+""I love you."""
+32,GRANDFATHER,32,"And even more amazing was the day
+she realized she truly loved him
+back."
+33,BUTTERCUP,33,"Farm Boy, fetch me that pitcher."
+34,WESTLEY,34,As you wish.
+35,THE KID,35,"-hold it, hold it-"
+36,THE KID,36,"What is this? Are you trying to
+trick me? -- Where's the sports? --
+Is this a kissing book?"
+37,GRANDFATHER,37,"-- wait, just wait --"
+38,THE KID,38,"-- well, when does it get good?"
+39,GRANDFATHER,39,Keep your shirt on. Let me read.
+40,GRANDFATHER,40,"Westley had no money for marriage.
+So he packed his few belongings
+and left the farm to seek his
+fortune across the sea."
+41,GRANDFATHER,41,"It was a very emotional time for
+Buttercup --"
+42,THE KID,42,I don't be-leeve this.
+43,BUTTERCUP,43,I fear I'll never see you again.
+44,WESTLEY,44,Of course you will.
+45,BUTTERCUP,45,"But what if something happens to
+you?"
+46,WESTLEY,46,Hear this now: I will come for you.
+47,BUTTERCUP,47,But how can you be sure?
+48,WESTLEY,48,"This is true love. You think this
+happens every day?"
+49,GRANDFATHER,49,"Westley didn't reach his
+destination. His ship was attacked
+by the Dread Pirate Roberts, who
+never left captives alive. When
+Buttercup got the news that
+Westley was murdered --"
+50,THE KID,50,-- murdered by pirates is good --
+51,GRANDFATHER,51,"She went into her room and shut
+the door. And for days, she
+neither slept nor ate."
+52,BUTTERCUP,52,I will never love again.
+53,GRANDFATHER,53,"Five years later, the main square
+of Florin City was filled as
+never before to hear the
+announcement of the great Prince
+Humperdinck's bride-to be."
+54,HUMPERDINCK,54,"My people ... a month from now,
+our country will have its 500th
+anniversary. On that sundown, I
+shall marry a lady who was once a
+commoner like yourselves --"
+55,HUMPERDINCK,55,"-- but perhaps you will not find
+her common now. Would you like to
+meet her?"
+56,HUMPERDINCK,56,"My people ... the Princess
+Buttercup!!"
+57,GRANDFATHER,57,"Buttercup's emptiness consumed
+her. Although the law of the land
+gave Humperdinck the right to
+choose his bride, she did not
+love him."
+58,GRANDFATHER,58,"Despite Humperdinck's reassurance
+that she would grow to love him,
+the only joy she found was in her
+daily ride."
+59,VOICE,59,"A word, my lady?"
+60,VIZZINI,60,"We are but poor, lost circus
+performers. Is there a village
+nearby?"
+61,BUTTERCUP,61,"There is nothing nearby; not for
+miles."
+62,VIZZINI,62,"Then there will be no one to hear
+you scream-"
+63,INIGO,63,What is that you're ripping?
+64,VIZZINI,64,"It's fabric from the uniform of
+an Army officer of Guilder."
+65,FEZZIK,65,Who's Guilder?
+66,VIZZINI,66,"The country across the sea. The
+sworn enemy of Florin."
+67,VIZZINI,67,Go!
+68,VIZZINI,68,"Once the horse reaches the
+castle, the fabric will make the
+Prince suspect the Guilderians
+have abducted his love. When he
+finds her body dead on the
+Guilder frontier, his suspicions
+will be totally confirmed."
+69,FEZZIK,69,"You never said anything about
+killing anyone."
+70,VIZZINI,70,"I've hired you to help me start a
+war. That's a prestigious line of
+work with a long and glorious
+tradition."
+71,FEZZIK,71,"I just don't think it's right,
+killing an innocent girl."
+72,VIZZINI,72,"Am I going mad or did the word
+""think"" escape your lips? You
+were not hired for your brains,
+you hippopotamic land mass."
+73,INIGO,73,I agree with Fezzik.
+74,VIZZINI,74,"Oh. The sot has spoken. What
+happens to her is not truly your
+concern -- I will kill her --"
+75,VIZZINI,75,"And remember this -- never forget
+this --"
+76,VIZZINI,76,"-- when I found you, you were so
+slobbering drunk you couldn't buy
+brandy --"
+77,VIZZINI,77,"-- and you -- friendless,
+brainless, helpless, hopeless --
+Do you want me to send you back
+to where you were, unemployed in
+Greenland?"
+78,INIGO,78,"That Vizzini, he can fuss."
+79,FEZZIK,79,... fuss ... fuss ...
+80,FEZZIK,80,I think he likes to scream at us.
+81,INIGO,81,Probably he means no harm.
+82,FEZZIK,82,He's really very short on charm.
+83,INIGO,83,"Oh, you've a great gift for rhyme."
+84,FEZZIK,84,"Yes, some of the time."
+85,VIZZINI,85,Enough of that.
+86,INIGO,86,"FEZZIK, are there rocks ahead?"
+87,FEZZIK,87,"If there are, we'll all be dead."
+88,VIZZINI,88,"No more rhymes now, I mean it."
+89,FEZZIK,89,Anybody want a peanut?
+90,VIZZINI,90,We'll reach the Cliffs by dawn.
+91,VIZZINI,91,Why are you doing that?
+92,INIGO,92,Making sure nobody's following us.
+93,VIZZINI,93,That would be inconceivable.
+94,BUTTERCUP,94,"Despite what you think, you will
+be caught. And when you are, the
+Prince will see you all hanged."
+95,VIZZINI,95,"Of all the necks on this boat,
+Highness, the one you should be
+worrying about is your own."
+96,VIZZINI,96,"Stop doing that. We can all
+relax, it's almost over-"
+97,INIGO,97,You're sure nobody's following us?
+98,VIZZINI,98,"As I told you, it would be
+absolutely, totally, and in all
+other ways, inconceivable. No one
+in Guilder knows what we've done.
+And no one in Florin could have
+gotten here so fast. Out of
+curiosity, why do you ask?"
+99,INIGO,99,"No reason. It's only, I just
+happened to look behind us, and
+something is there."
+100,VIZZINI,100,What?
+101,VIZZINI,101,"Probably some local fisherman out
+for a pleasure cruise at night
+through eel-infested waters."
+102,VIZZINI,102,"Go in, get after her!"
+103,INIGO,103,I don't swim.
+104,FEZZIK,104,I only dog paddle.
+105,VIZZINI,105,Veer left. Left. Left!
+106,VIZZINI,106,"Do you know what that sound is,
+Highness? Those are the Shrieking
+Eels -- if you doubt me, just
+wait. They always grow louder
+when they're about to feed on
+human flesh."
+107,VIZZINI,107,"If you swim back now, I promise,
+no harm will come to you. I doubt
+you will get such an offer from
+the Eels."
+108,GRANDFATHER,108,"She doesn't get eaten by the Eels
+at this time."
+109,THE KID,109,What?
+110,GRANDFATHER,110,"The Eel doesn't get her. I'm
+explaining to you because you
+looked nervous."
+111,THE KID,111,"Well, I wasn't nervous."
+112,THE KID,112,"Well, maybe I was a little bit
+concerned. But that's not the
+same thing."
+113,GRANDFATHER,113,Because I can stop now if you want.
+114,THE KID,114,"No. You could read a little bit
+more ... if you want."
+115,GRANDFATHER,115,"""Do you know what that sound is,
+Highness?"""
+116,VIZZINI,116,Those are the Shrieking Eels.
+117,THE KID,117,"We're past that, Grandpa."
+118,THE KID,118,You read it already.
+119,GRANDFATHER,119,"Oh. Oh my goodness, I did. I'm
+sorry. Beg your pardon."
+120,GRANDFATHER,120,"All right, all right, let's see.
+Uh, she was in the water, the Eel
+was coming after her. She was
+frightened. The Eel started to
+charge her. And then -"
+121,VIZZINI,121,Put her down. Just put her down.
+122,INIGO,122,I think he's getting closer.
+123,VIZZINI,123,He's no concern of ours. Sail on!
+124,VIZZINI,124,"I suppose you think you're brave,
+don't you?"
+125,BUTTERCUP,125,Only compared to some.
+126,INIGO,126,"Look! He's right on top of us. I
+wonder if he is using the same
+wind we are using."
+127,VIZZINI,127,"Whoever he is, he's too late --"
+128,VIZZINI,128,-- see?
+129,VIZZINI,129,The Cliffs of Insanity.
+130,VIZZINI,130,"Hurry up. Move the thing! Um ...
+that other thing. Move it!"
+131,VIZZINI,131,"We're safe -- only FEZZIK is
+strong enough to go up our way --
+he'll have to sail around for
+hours 'til he finds a harbor."
+132,INIGO,132,"He's climbing the rope. And he's
+gaining on us."
+133,VIZZINI,133,Inconceivable!
+134,VIZZINI,134,Faster!
+135,FEZZIK,135,I thought I was going faster.
+136,VIZZINI,136,"You were supposed to be this
+colossus. You were this great,
+legendary thing. And yet he gains."
+137,FEZZIK,137,"Well, I'm carrying three people.
+And he's got only himself."
+138,VIZZINI,138,-- I do not accept excuses.
+139,VIZZINI,139,"I'm just going to have to find
+myself a new giant, that's all."
+140,FEZZIK,140,"Don't say that, Vizzini. Please."
+141,VIZZINI,141,"Did I make it clear that your job
+is at stake?"
+142,FEZZIK,142,He has very good arms.
+143,VIZZINI,143,He didn't fall? Inconceivable!!
+144,INIGO,144,"You keep using that word -- I do
+not think it means what you think
+it means."
+145,INIGO,145,My God! He's climbing.
+146,VIZZINI,146,"Whoever he is, he's obviously
+seen us with the Princess, and
+must therefore die."
+147,VIZZINI,147,"You, carry her."
+148,VIZZINI,148,"We'll head straight for the
+Guilder frontier. Catch up when
+he's dead. If he falls, fine. If
+not, the sword."
+149,INIGO,149,I want to duel him left-handed.
+150,VIZZINI,150,You know what a hurry we're in.
+151,INIGO,151,"Well, it's the only way I can be
+satisfied. If I use my right --
+tch -- over too quickly."
+152,VIZZINI,152,"Oh, have it your way."
+153,FEZZIK,153,You be careful.
+154,FEZZIK,154,"-- people in masks cannot be
+trusted."
+155,VIZZINI,155,I'm waiting!
+156,INIGO,156,Hello there.
+157,INIGO,157,Slow going?
+158,MAN IN BLACK,158,"Look, I don't mean to be rude,
+but this is not as easy as it
+looks. So I'd appreciate it if
+you wouldn't distract me."
+159,INIGO,159,Sorry.
+160,MAN IN BLACK,160,Thank you.
+161,INIGO,161,"I do not suppose you could speed
+things up?"
+162,MAN IN BLACK,162,"If you're in such a hurry, you
+could lower a rope, or a tree
+branch, or find something useful
+to do."
+163,INIGO,163,"I could do that. In fact, I've
+got some rope up here. But I do
+not think that you will accept my
+help, since I am only waiting
+around to kill you."
+164,MAN IN BLACK,164,"That does put a damper on our
+relationship."
+165,INIGO,165,"But I promise I will not kill you
+until you reach the top."
+166,MAN IN BLACK,166,"That's very comforting. But I'm
+afraid you'll just have to wait."
+167,INIGO,167,"I hate waiting. I could give you
+my word as a Spaniard."
+168,MAN IN BLACK,168,"No good. I've known too many
+Spaniards."
+169,INIGO,169,"You don't know any way you'll
+trust me?"
+170,MAN IN BLACK,170,Nothing comes to mind.
+171,INIGO,171,"I swear on the soul of my father,
+Domingo Montoya, you will reach
+the top alive."
+172,MAN IN BLACK,172,Throw me the rope.
+173,MAN IN BLACK,173,Thank you.
+174,INIGO,174,We'll wait until you're ready.
+175,MAN IN BLACK,175,Again. Thank you.
+176,INIGO,176,"I do not mean to pry, but you
+don't by any chance happen to
+have six fingers on your right
+hand?"
+177,MAN IN BLACK,177,"Do you always begin conversations
+this way?"
+178,INIGO,178,"My father was slaughtered by a
+sixfingered man. He was a great
+swordmaker, my father. And when
+the six-fingered man appeared and
+requested a special sword, my
+father took the job. He slaved a
+year before he was done."
+179,MAN IN BLACK,179,I have never seen its equal.
+180,INIGO,180,"The six-fingered man returned and
+demanded it, but at one-tenth his
+promised price. My father refused.
+Without a word, the six-fingered
+man slashed him through the heart.
+I loved my father, so, naturally,
+challenged his murderer to a duel
+... I failed ..."
+181,INIGO (CONT'D),181,"the six-fingered man did leave me
+alive with the six-fingered
+sword, but he gave me these."
+182,MAN IN BLACK,182,How old were you?
+183,INIGO,183,"I was eleven years old. When I
+was strong enough, I dedicated my
+life to the study of fencing. So
+the next time we meet, I will not
+fail. I will go up to the
+sixfingered man and say, ""Hello,
+my name is Inigo Montoya. You
+killed my father. Prepare to die."""
+184,MAN IN BLACK,184,"You've done nothing but study
+swordplay?"
+185,INIGO,185,"More pursuit than study lately.
+You see, I cannot find him. It's
+been twenty years now. I am
+starting to lose confidence. I
+just work for Vizzini to pay the
+bills. There's not a lot of money
+in revenge."
+186,MAN IN BLACK,186,"Well, I certainly hope you find
+him, someday."
+187,INIGO,187,"You are ready, then?"
+188,MAN IN BLACK,188,"Whether I am or not, you've been
+more than fair."
+189,INIGO,189,"You seem a decent fellow. I hate
+to kill you."
+190,MAN IN BLACK,190,"You seem a decent fellow. I hate
+to die."
+191,INIGO,191,Begin!
+192,INIGO,192,"You're using Bonetti's defense
+against me, ah?"
+193,MAN IN BLACK,193,"I thought it fitting, considering
+the rocky terrain --"
+194,INIGO,194,"Naturally, you must expect me to
+attack with Capo Ferro."
+195,MAN IN BLACK,195,-- naturally --
+196,MAN IN BLACK,196,"--but I find Thibault cancels out
+Capo Ferro, don't you?"
+197,INIGO,197,"Unless the enemy has studied his
+Agrippa-"
+198,INIGO,198,-- which I have.
+199,INIGO,199,You are wonderful!
+200,MAN IN BLACK,200,"Thank you -- I've worked hard to
+become so."
+201,INIGO,201,"I admit it -- you are better than
+I am."
+202,MAN IN BLACK,202,Then why are you smiling?
+203,INIGO,203,"Because I know something you
+don't know."
+204,MAN IN BLACK,204,And what is that?
+205,INIGO,205,I am not left-handed.
+206,MAN IN BLACK,206,You're amazing!
+207,INIGO,207,I ought to be after twenty years.
+208,MAN IN BLACK,208,"There's something I ought to tell
+you."
+209,INIGO,209,Tell me.
+210,MAN IN BLACK,210,I am not left-handed either.
+211,INIGO,211,Who are you?!
+212,MAN IN BLACK,212,No one of consequence.
+213,INIGO,213,I must know.
+214,MAN IN BLACK,214,Get used to disappointment.
+215,INIGO,215,Okay.
+216,INIGO,216,Kill me quickly.
+217,MAN IN BLACK,217,"I would as soon destroy a stained
+glass window as an artist like
+yourself. However, since I can't
+have you following me either --"
+218,MAN IN BLACK,218,"Please understand, I hold you in
+the highest respect."
+219,VIZZINI,219,Inconceivable!
+220,VIZZINI,220,Give her to me.
+221,VIZZINI,221,Catch up with us quickly.
+222,FEZZIK,222,What do I do?
+223,VIZZINI,223,"Finish him, finish him. Your way."
+224,FEZZIK,224,"Oh, good, my way. Thank you,
+Vizzini."
+225,FEZZIK,225,Which way is my way?
+226,VIZZINI,226,"Pick up one of those rocks, get
+behind the boulder, and in a few
+minutes, the Man in Black will
+come running around the bend. The
+minute his head is in view, hit
+it with the rock!"
+227,FEZZIK,227,My way's not very sportsmanlike.
+228,FEZZIK,228,"I did that on purpose. I don't
+have to miss."
+229,MAN IN BLACK,229,"I believe you -- So what happens
+now?"
+230,FEZZIK,230,"We face each other as God intended.
+Sportsmanlike. No tricks, no
+weapons, skill against skill alone."
+231,MAN IN BLACK,231,"You mean, you'll put down your
+rock and I'll put down my sword,
+and we'll try to kill each other
+like civilized people?"
+232,FEZZIK,232,I could kill you now.
+233,MAN IN BLACK,233,"Frankly, I think the odds are
+slightly in your favor at hand
+fighting."
+234,FEZZIK,234,"It's not my fault being the
+biggest and the strongest. I
+don't even exercise."
+235,MAN IN BLACK,235,"Look are you just fiddling around
+with me or what?"
+236,FEZZIK,236,"I just want you to feel you're
+doing well. I hate for people to
+die embarrassed."
+237,FEZZIK,237,You're quick.
+238,MAN IN BLACK,238,And a good thing too.
+239,FEZZIK,239,"Why do you wear a mask? Were you
+burned by acid, or something like
+that?"
+240,MAN IN BLACK,240,"Oh no. It's just that they're
+terribly comfortable. I think
+everyone will be wearing them in
+the future."
+241,FEZZIK,241,"I just figured out why you give
+me so much trouble."
+242,MAN IN BLACK,242,"Why is that, do you think?"
+243,FEZZIK,243,"Well, I haven't fought just one
+person for so long. I've been
+specializing in groups. Battling
+gangs for local charities, that
+kind of thing."
+244,MAN IN BLACK,244,"Why should that make such a
+difference?"
+245,FEZZIK,245,Well ...
+246,FEZZIK,246,"... you see, you use different
+moves when you're fighting half a
+dozen people than when you only
+have to be worried about one."
+247,MAN IN BLACK,247,"I don't envy you the headache you
+will have when you awake. But, in
+the meantime, rest well ... and
+dream of large women."
+248,HUMPERDINCK,248,"There was a mighty duel -- it
+ranged all over. They were both
+masters."
+249,RUGEN,249,Who won? How did it end?
+250,HUMPERDINCK,250,The loser ran off alone.
+251,HUMPERDINCK,251,"The winner followed those
+footprints toward Guilder!"
+252,RUGEN,252,Shall we track them both?
+253,HUMPERDINCK,253,"The loser is nothing. -- Only the
+Princess matters --"
+254,HUMPERDINCK,254,"-- clearly this was all planned
+by warriors of Guilder. We must
+be ready for whatever lies ahead."
+255,RUGEN,255,Could this be a trap?
+256,HUMPERDINCK,256,"I always think everything could
+be a trap -- Which is why I'm
+still alive."
+257,VIZZINI,257,"So, it is down to you. And it is
+down to me."
+258,VIZZINI,258,"If you wish her dead, by all
+means keep moving forward."
+259,MAN IN BLACK,259,Let me explain-
+260,VIZZINI,260,"-- there's nothing to explain.
+You're trying to kidnap what I've
+rightfully stolen."
+261,MAN IN BLACK,261,"Perhaps an arrangement can be
+reached."
+262,VIZZINI,262,There will be no arrangement --
+263,VIZZINI,263,-- and you're killing her!
+264,MAN IN BLACK,264,"But if there can be no
+arrangement, then we are at an
+impasse."
+265,VIZZINI,265,"I'm afraid so -- I can't compete
+with you physically. And you're
+no match for my brains."
+266,MAN IN BLACK,266,You're that smart?
+267,VIZZINI,267,"Let me put it this way: have you
+ever heard of Plato, Aristotle,
+Socrates?"
+268,MAN IN BLACK,268,Yes.
+269,VIZZINI,269,Morons.
+270,MAN IN BLACK,270,"Really? In that case, I challenge
+you to a battle of wits."
+271,VIZZINI,271,For the Princess?
+272,VIZZINI,272,To the death?
+273,VIZZINI,273,I accept.
+274,MAN IN BLACK,274,Good. Then pour the wine.
+275,MAN IN BLACK,275,"Inhale this, but do not touch."
+276,VIZZINI,276,I smell nothing.
+277,MAN IN BLACK,277,"What you do not smell is called
+iocane powder. It is odorless,
+tasteless, dissolves instantly in
+liquid, and is among the more
+deadlier poisons known to man."
+278,VIZZINI,278,Hmm.
+279,MAN IN BLACK,279,"All right: where is the poison?
+The battle of wits has begun. It
+ends when you decide and we both
+drink, and find out who is right
+and who is dead."
+280,VIZZINI,280,"But it's so simple. All I have to
+do is divine from what I know of
+you. Are you the sort of man who
+would put the poison into his own
+goblet, or his enemy's?"
+281,VIZZINI,281,"Now, a clever man would put the
+poison into his own goblet,
+because he would know that only a
+great fool would reach for what
+he was given. I'm not a great
+fool, so I can clearly not choose
+the wine in front of you. But you
+must have known I was not a great
+fool; you would have counted on
+it, so I can clearly not choose
+the wine in front of me."
+282,MAN IN BLACK,282,You've made your decision then7
+283,VIZZINI,283,"Not remotely. Because iocane
+comes from Australia, as everyone
+knows. And Australia is entirely
+peopled with criminals. And
+criminals are used to having
+people not trust them, as you are
+not trusted by me. So I can
+clearly not choose the wine in
+front of you."
+284,MAN IN BLACK,284,"Truly, you have a dizzying
+intellect."
+285,VIZZINI,285,Wait till I get going! Where was I?
+286,MAN IN BLACK,286,Australia.
+287,VIZZINI,287,"Yes -- Australia, and you must
+have suspected I would have known
+the powder's origin, so I can
+clearly not choose the wine in
+front of me."
+288,MAN IN BLACK,288,You're just stalling now.
+289,VIZZINI,289,"You'd like to think that, wouldn't
+you?"
+290,VIZZINI,290,"You've beaten my giant, which
+means you're exceptionally strong.
+So, you could have put the poison
+in your own goblet, trusting on
+your strength to save you. So I
+can clearly not choose the wine
+in front of you. But, you've also
+bested my Spaniard which means
+you must have studied. And in
+studying, you must have learned
+that man is mortal so you would
+have put the poison as far from
+yourself as possible, so I can
+clearly not choose the wine in
+front of me."
+291,MAN IN BLACK,291,"You're trying to trick me into
+giving away something -- it won't
+work --"
+292,VIZZINI,292,"It has worked -- you've given
+everything away -- I know where
+the poison is."
+293,MAN IN BLACK,293,Then make your choice.
+294,VIZZINI,294,I will. And I choose --
+295,VIZZINI,295,-- what in the world can that be?
+296,MAN IN BLACK,296,What? Where? I don't see anything.
+297,VIZZINI,297,"Oh, well, I-I could have sworn I
+saw something. No matter."
+298,MAN IN BLACK,298,What's so funny?
+299,VIZZINI,299,"I'll tell you in a minute. First,
+let's drink -- me from my glass,
+and you from yours."
+300,MAN IN BLACK,300,You guessed wrong.
+301,VIZZINI,301,You only think I guessed wrong --
+302,VIZZINI,302,"-- that's what's so funny! I
+switched glasses when your back
+was turned. You fool."
+303,VIZZINI,303,"You fell victim to one of the
+classic blunders. The most famous
+is ""Never get involved in a land
+war in Asia."" But only slightly
+less well known is this: ""Never
+go in against a Sicilian when
+death is on the line."""
+304,BUTTERCUP,304,Who are you?
+305,MAN IN BLACK,305,"I am no one to be trifled with,
+that is all you ever need know."
+306,BUTTERCUP,306,"To think -- all that time it was
+your cup that was poisoned."
+307,MAN IN BLACK,307,"They were both poisoned. I spent
+the last few years building up an
+immunity to iocane powder."
+308,HUMPERDINCK,308,Someone has beaten a giant!
+309,HUMPERDINCK,309,"There will be great suffering in
+Guilder if she dies."
+310,MAN IN BLACK,310,Catch your breath.
+311,BUTTERCUP,311,"If you'll release me ... whatever
+you ask for ransom ... you'll get
+it, I promise you..."
+312,MAN IN BLACK,312,"And what is that worth, the
+promise of a woman? You're very
+funny, Highness."
+313,BUTTERCUP,313,"I was giving you a chance. No
+matter where you take me ...
+there's no greater hunter than
+Prince Humperdinck. He could
+track a falcon on a cloudy day.
+He can find you"
+314,MAN IN BLACK,314,"You think your dearest love will
+save you?"
+315,BUTTERCUP,315,"I never said he was my dearest
+love. And yes, he will save me.
+That I know."
+316,MAN IN BLACK,316,"You admit to me you do not love
+your fiance?"
+317,BUTTERCUP,317,He knows I do not love him.
+318,MAN IN BLACK,318,"""Are not capable of love"" is what
+you mean."
+319,BUTTERCUP,319,"I have loved more deeply than a
+killer like yourself could ever
+dream."
+320,MAN IN BLACK,320,"That was a warning, Highness. The
+next time, my hand flies on its
+own. For where I come from, there
+are penalties when a woman lies."
+321,HUMPERDINCK,321,Iocane. I'd bet my life on it.
+322,HUMPERDINCK,322,"And there are the Princess's
+footprints. She is alive ... or
+was, an hour ago. If she is
+otherwise when I find her, I
+shall be very put out."
+323,MAN IN BLACK,323,"Rest, Highness."
+324,BUTTERCUP,324,"I know who you are -- your
+cruelty reveals everything."
+325,BUTTERCUP,325,"You're the Dread Pirate Roberts;
+admit it."
+326,MAN IN BLACK,326,With pride. What can I do for you?
+327,BUTTERCUP,327,"You can die slowly cut into a
+thousand pieces."
+328,MAN IN BLACK,328,"Hardly complimentary, Your
+Highness. Why loose your venom on
+me?"
+329,BUTTERCUP,329,You killed my love.
+330,MAN IN BLACK,330,"It's possible; I kill a lot of
+people. Who was this love of
+yours? Another Prince, like this
+one, ugly, rich, and scabby?"
+331,BUTTERCUP,331,"No. A farm boy. Poor. Poor and
+perfect, with eyes like the sea
+after a storm."
+332,BUTTERCUP,332,"On the high seas, your ship
+attacked, and the Dread Pirate
+Roberts never takes prisoners."
+333,MAN IN BLACK,333,"I can't afford to make exceptions.
+Once word leaks out that a pirate
+has gone soft, people begin to
+disobey you, and then it's
+nothing but work, work, work, all
+the time."
+334,BUTTERCUP,334,You mock my pain!
+335,MAN IN BLACK,335,"Life is pain, Highness. Anyone
+who says differently is selling
+something. I remember this farm
+boy of yours, I think. This would
+be, what, five years ago?"
+336,MAN IN BLACK,336,Does it bother you to hear?
+337,BUTTERCUP,337,Nothing you can say will upset me.
+338,MAN IN BLACK,338,"He died well, that should please
+you. No bribe attempts or
+blubbering. He simply said,
+""Please. Please, I need to live.""
+It was the ""please"" that caught
+my memory."
+339,MAN IN BLACK (CONT'D),339,"I asked him what was so important
+for him. ""True love,"" he replied.
+And then he spoke of a girl of
+surpassing beauty and faithfulness.
+I can only assume he meant you.
+You should bless me for destroying
+him before he found out what you
+really are."
+340,BUTTERCUP,340,And what am I?
+341,MAN IN BLACK,341,"Faithfulness he talked of, madam.
+Your enduring faithfulness. Now,
+tell me truly. When you found out
+he was gone, did you get engaged
+to your prince that same hour, or
+did you wait a whole week out of
+respect for the dead?"
+342,BUTTERCUP,342,"You mocked me once, never do it
+again -- I died that day!"
+343,BUTTERCUP,343,"You can die too, for all I care!!"
+344,MAN IN BLACK,344,... as ... you ... wish...
+345,BUTTERCUP,345,"Oh, my sweet Westley; what have I
+done?"
+346,HUMPERDINCK,346,"Disappeared. He must have seen us
+closing in, which might account
+for his panicking in error.
+Unless I'm wrong, and I am never
+wrong, they are headed dead into
+the fire swamp."
+347,WESTLEY,347,Can you move at all?
+348,BUTTERCUP,348,"Move? You're alive. If you want,
+I can fly."
+349,WESTLEY,349,"I told you, ""I would always come
+for you."" Why didn't you wait for
+me?"
+350,BUTTERCUP,350,Well ... you were dead.
+351,WESTLEY,351,"Death cannot stop true love. All
+it can do is delay it for a while."
+352,BUTTERCUP,352,I will never doubt again.
+353,WESTLEY,353,There will never be a need.
+354,THE KID,354,"Oh no. No, please."
+355,GRANDFATHER,355,What is it? What's the matter?
+356,THE KID,356,"They're kissing again, do we have
+to hear the kissing part?"
+357,GRANDFATHER,357,"Someday, you may not mind so much."
+358,THE KID,358,"Skip on to the Fire Swamp -- that
+sounded good."
+359,GRANDFATHER,359,"Oh. You're sick, I'll humor you."
+360,GRANDFATHER,360,"So now, where were we here? Yeah,
+yeah, yeah. Ah. Oh. Okay. Westley
+and Buttercup raced along the
+ravine floor."
+361,"WESTLEY
+WESTLEY",361,"Ha. Your pig fiance is too late.
+A few more steps and we'll be
+safe in the Fire Swamp."
+362,BUTTERCUP,362,We'll never survive.
+363,WESTLEY,363,"Nonsense -- you're only saying
+that because no one ever has."
+364,WESTLEY,364,"It's not that bad. I'm not saying
+I'd like to build a summer home
+here, but the trees are actually
+quite lovely."
+365,WESTLEY,365,"Well now, that was an adventure."
+366,WESTLEY,366,"Singed a bit, were you?"
+367,BUTTERCUP,367,You?
+368,WESTLEY,368,"Well, one thing I will say. The
+Fire Swamp certainly does keep
+you on your toes."
+369,WESTLEY,369,"This will all soon be but a happy
+memory because Roberts' ship
+""Revenge"" is anchored at the far
+end. And I, as you know, am
+Roberts."
+370,BUTTERCUP,370,"But how is that possible, since
+he's been marauding twenty years
+and you only left me five years
+ago?"
+371,WESTLEY,371,"I myself am often surprised at
+life's little quirks."
+372,WESTLEY,372,"You see, what I told you before
+about saying ""please"" was true.
+It intrigued Roberts, as did my
+descriptions of your beauty."
+373,WESTLEY,373,"Finally, Roberts decided something.
+He said, ""All right, Westley,
+I've never had a valet. You can
+try it for tonight. I'll most
+likely kill you in the morning.""
+Three years he said that. ""Good
+night, Westley. Good work. Sleep
+well. I'll most likely kill you
+in the morning."" It was a fine
+time for me. I was learning to
+fence, to fight, anything anyone
+would teach me. And Roberts and I
+eventually became friends. And
+then it happened."
+374,BUTTERCUP,374,What? -- go on --
+375,WESTLEY,375,"Well, Roberts had grown so rich,
+he wanted to retire. So he took
+me to his cabin and told me his
+secret. ""I am not the Dread
+Pirate Roberts,"" he said. ""My
+name is Ryan. I inherited this
+ship from the previous Dread
+Pirate Roberts, just as you will
+inherit it from me. The man I
+inherited it from was not the
+real Dread Pirate Roberts, either."
+376,WESTLEY (CONT'D),376,"His name was Cummerbund. The real
+Roberts has been retired fifteen
+years and living like a king in
+Patagonia."" Then he explained the
+name was the important thing for
+inspiring the necessary fear. You
+see, no one would surrender to
+the Dread Pirate Westley."
+377,WESTLEY,377,"So we sailed ashore, took on an
+entirely new crew and he stayed
+aboard for awhile as first mate,
+all the time calling me Roberts.
+Once the crew believed, he left
+the ship and I have been Roberts
+ever since. Except, now that
+we're together, I shall retire
+and hand the name over to someone
+else. Is everything clear to you?"
+378,BUTTERCUP,378,"We'll never succeed -- we may as
+well die here."
+379,WESTLEY,379,No. No. We have already succeeded.
+380,WESTLEY,380,"I mean, what are the three
+terrors of the Fire Swamp? One,
+the flame spurts. No problem.
+There's a popping sound preceding
+each, we can avoid that. Two, the
+Lightning Sand. But you were
+clever enough to discover what
+that looks like, so in the future
+we can avoid that too."
+381,BUTTERCUP,381,"Westley, what about the R.O.U.S.'s?"
+382,WESTLEY,382,"Rodents of Unusual Size? I don't
+think they exist..."
+383,BUTTERCUP,383,Westley!
+384,BUTTERCUP,384,We did it.
+385,WESTLEY,385,"Now, was that so terrible?"
+386,HUMPERDINCK,386,Surrender!
+387,WESTLEY,387,"You mean you wish to surrender to
+me? Very well, I accept."
+388,HUMPERDINCK,388,"I give you full marks for
+bravery --don't make yourself a
+fool."
+389,WESTLEY,389,"Ah, but how will you capture us?
+We know the secrets of the Fire
+Swamp. We can live there quite
+happily for some time. So,
+whenever you feel like dying,
+feel free to visit."
+390,HUMPERDINCK,390,I tell you once again -- surrender!
+391,WESTLEY,391,It will not happen!
+392,HUMPERDINCK,392,For the last time -- SURRENDER!
+393,WESTLEY,393,DEATH FIRST!!
+394,BUTTERCUP,394,Will you promise not to hurt him?
+395,HUMPERDINCK,395,What was that?
+396,WESTLEY,396,What was that?
+397,BUTTERCUP,397,"If we surrender, and I return
+with you, will you promise not to
+hurt this man?"
+398,HUMPERDINCK,398,"May I live a thousand years and
+never hunt again."
+399,BUTTERCUP,399,"He is a sailor on the pirate ship
+""Revenge."" Promise to return him
+to his ship."
+400,HUMPERDINCK,400,I swear it will be done.
+401,HUMPERDINCK,401,"Once we're out of sight, take him
+back to Florin and throw him in
+the Pit of Despair."
+402,RUGEN,402,I swear it will be done.
+403,BUTTERCUP,403,"I thought you were dead once, and
+it almost destroyed me. I could
+not bear it if you died again,
+not when I could save you."
+404,RUGEN,404,"Come, sir. We must get you to
+your ship."
+405,WESTLEY,405,"We are men of action. Lies do not
+become us."
+406,RUGEN,406,"Well spoken, sir --"
+407,RUGEN,407,-- what is it?
+408,WESTLEY,408,"You have six fingers on your
+right hand -- someone was looking
+for you --"
+409,WESTLEY,409,Where am I?
+410,ALBINO,410,The Pit of Despair.
+411,ALBINO,411,Don't even think --
+412,ALBINO,412,"-- don't even think about trying
+to escape. The chains are far too
+thick. And don't dream of being
+rescued either. The only way in
+is secret. And only the Prince,
+the Count, and I know how to get
+in and out."
+413,WESTLEY,413,Then I'm here till I die?
+414,ALBINO,414,Till they kill you. Yeah.
+415,WESTLEY,415,Then why bother curing me?
+416,ALBINO,416,"The Prince and the Count always
+insist on everyone being healthy
+before they're broken."
+417,WESTLEY,417,So it's to be torture.
+418,WESTLEY,418,I can cope with torture.
+419,WESTLEY,419,You don't believe me?
+420,ALBINO,420,"You survived the Fire Swamp. You
+must be very brave..."
+421,ALBINO,421,"... but nobody withstands The
+Machine."
+422,HUMPERDINCK,422,"She's been like that ever since
+the Fire Swamp."
+423,HUMPERDINCK,423,"It's my father's failing health
+that's upsetting her."
+424,RUGEN,424,Of course.
+425,GRANDFATHER,425,"The King died that very night,
+and before the following dawn,
+Buttercup and Humperdinck were
+married."
+426,GRANDFATHER,426,"And at noon, she met her subjects
+again. This time as their Queen."
+427,HUMPERDINCK,427,My father's final words were...
+428,THE KID,428,"-- hold it. Hold it, Grandpa."
+429,THE KID,429,"You read that wrong. She doesn't
+marry Humperdinck, she marries
+Westley. I'm just sure of it.
+After all that Westley did for
+her, if she does not marry him,
+it wouldn't be fair."
+430,GRANDFATHER,430,"Well, who says life is fair?
+Where is that written? Life isn't
+always fair."
+431,THE KID,431,"I'm telling you you're messing up
+the story, now get it right!"
+432,GRANDFATHER,432,Do you want me to go on with this?
+433,THE KID,433,Yes.
+434,GRANDFATHER,434,"All right, then. No more
+interruptions."
+435,GRANDFATHER,435,"... at noon, she met her subjects
+again. This time as their Queen."
+436,HUMPERDINCK,436,"My father's final words were
+""love her as I loved her, and
+there will be joy."" I present to
+you your Queen. Queen Buttercup."
+437,BUTTERCUP,437,Why do you do this?
+438,ANCIENT BOOER,438,"Because you had love in your
+hands, and you gave it up."
+439,BUTTERCUP,439,"But they would have killed
+Westley if I hadn't done it."
+440,ANCIENT BOOER,440,"Your true love lives and you
+marry another --"
+441,ANCIENT BOOER,441,"-- True love saved her in the
+Fire Swamp, and she treated it
+like garbage. And that's what she
+is, the Queen of Refuse! So, bow
+down to her if you want. Bow to
+her. Bow to the Queen of Slime,
+the Queen of Filth, the Queen of
+Putrescence. Boo! Boo! Rubbish!
+Filth! Slime! Muck! Boo! Boo!"
+442,GRANDFATHER,442,"It was ten days till the wedding.
+The King still lived, but
+Buttercup's nightmares were
+growing steadily worse."
+443,THE KID,443,"See? Didn't I tell you she'd
+never marry that rotten
+Humperdinck?"
+444,GRANDFATHER,444,"-- yes, you're very smart. Shut-Up."
+445,BUTTERCUP,445,"It comes to this: I love Westley.
+I always have. I know now I
+always will. If you tell me I
+must marry you in ten days,
+please believe I will be dead by
+morning."
+446,HUMPERDINCK,446,"I could never cause you grief;
+consider our wedding off."
+447,HUMPERDINCK,447,"You returned this Westley to his
+ship?"
+448,RUGEN,448,Yes.
+449,HUMPERDINCK,449,Then we will simply alert him.
+450,HUMPERDINCK,450,"Beloved, are you certain he still
+wants you? After all, it was you
+who did the leaving in the Fire
+Swamp. Not to mention that
+pirates are not known to be men
+of their words."
+451,BUTTERCUP,451,My Westley will always come for me.
+452,HUMPERDINCK,452,"I suggest a deal. You write four
+copies of a letter. I'll send my
+four fastest ships. One in each
+direction. The Dread Pirate
+Roberts is always close to Florin
+this time of year. We'll run up
+the white flag and deliver your
+message. If Westley wants you,
+bless you both. If not ... please
+consider me as an alternative to
+suicide. Are we agreed?"
+453,RUGEN,453,"Your Princess is really a winning
+creature. A trifle simple,
+perhaps, but her appeal is
+undeniable."
+454,HUMPERDINCK,454,"Oh, I know. The people are quite
+taken with her. It's odd, but
+when I hired Vizzini to have her
+murdered on our engagement day, I
+thought that was clever. But it's
+going to be so much more moving
+when I strangle her on our
+wedding night. Once Guilder is
+blamed, the nation will be truly
+outraged. They'll demand we go to
+war."
+455,RUGEN,455,"Now, where is that secret knot?
+It's impossible to find."
+456,RUGEN,456,"Are you coming down into the Pit?
+Westley's got his strength back.
+I am starting him on The Machine
+tonight."
+457,HUMPERDINCK,457,"Tyrone, you know how much I love
+watching you work. But, I've got
+my country's five hundredth
+anniversary to plan, my wedding
+to arrange, My wife to murder,
+and Guilder to frame for it. I'm
+swamped."
+458,RUGEN,458,"Get some rest -- if you haven't
+got your health, you haven't got
+anything."
+459,RUGEN,459,"Beautiful, isn't it?"
+460,RUGEN,460,"It took me half a lifetime to
+invent it. I'm sure you've
+discovered my deep and abiding
+interest in pain. At present I'm
+writing the definitive work on
+the subject. So I want you to be
+totally honest with me on how The
+Machine makes you feel."
+461,RUGEN,461,"This being our first try, I'll
+use the lowest setting."
+462,RUGEN,462,"As you know, the concept of the
+suction pump is centuries old.
+Well, really, that's all this is.
+Except that instead of sucking
+water, I'm sucking life. I've
+just sucked one year of your life
+away. I might one day go as high
+as five, but I really don't know
+what that would do to you. So,
+let's just start with what we
+have. What did this do to you?
+Tell me. And remember, this is
+for posterity, so be honest --
+how do you feel?"
+463,RUGEN,463,Interesting.
+464,HUMPERDINCK,464,Yellin.
+465,YELLIN,465,Sire.
+466,HUMPERDINCK,466,"As Chief Enforcer of all Florin,
+I trust you with this secret:
+killers from Guilder are
+infiltrating the Thieves' Forest
+and plan to murder my bride on
+our wedding night."
+467,YELLIN,467,"My spy network has heard no such
+news."
+468,BUTTERCUP,468,Any word from Westley?
+469,HUMPERDINCK,469,"Too soon, my angel. Patience."
+470,BUTTERCUP,470,He will come for me.
+471,HUMPERDINCK,471,Of course.
+472,HUMPERDINCK,472,"She will not be murdered. On the
+day of the wedding, I want the
+Thieves' Forest emptied and every
+inhabitant arrested."
+473,YELLIN,473,"Many of the thieves will resist.
+My regular enforcers will be
+inadequate."
+474,HUMPERDINCK,474,"Form a Brute Squad then. I want
+the Thieves' Forest emptied
+before I wed."
+475,YELLIN,475,"It won't be easy, Sire."
+476,HUMPERDINCK,476,Try ruling the world sometime.
+477,GRANDFATHER,477,"The day of the wedding arrived.
+The Brute Squad had their hands
+full carrying out Humperdinck's
+orders."
+478,YELLIN,478,Is everybody out?
+479,ASSISTANT BRUTE,479,"Almost. There's a Spaniard giving
+us some trouble."
+480,YELLIN,480,"Well, you give him some trouble.
+Move!"
+481,INIGO,481,"I am waiting for you, Vizzini.
+You told me to go back to the
+beginning. So I have. This is
+where I am, and this is where
+I'll stay. I will not be moved."
+482,ASSISTANT BRUTE,482,Ho there.
+483,INIGO,483,"I do not budge. Keep your ""Ho
+there."""
+484,ASSISTANT BRUTE,484,But the Prince gave orders --
+485,INIGO,485,"-- So did Vizzini -- when a job
+went wrong, you went back to the
+beginning. And this is where we
+got the job. So it's the
+beginning, and I'm staying till
+Vizzini comes."
+486,ASSISTANT BRUTE,486,You! Brute! Come here.
+487,INIGO,487,"-- I -- am -- waiting -- for --
+Vizzini --"
+488,VOICE,488,You surely are a meanie.
+489,FEZZIK,489,Hello.
+490,INIGO,490,It's you.
+491,FEZZIK,491,True!
+492,FEZZIK,492,You don't look so good.
+493,FEZZIK,493,You don't smell so good either.
+494,INIGO,494,Perhaps not. I feel fine.
+495,FEZZIK,495,Yeah?
+496,GRANDFATHER,496,"FEZZIK and Inigo were reunited.
+And as FEZZIK nursed his
+inebriated friend back to health,
+he told Inigo of Vizzini's death
+and the existence of Count Rugen,
+the sixfingered man. Considering
+Inigo's lifelong search, he
+handled the news surprisingly well."
+497,GRANDFATHER,497,"Fezzik took great care in reviving
+Inigo."
+498,INIGO,498,"That's enough. That's enough!
+Where is this Rugen so I may kill
+him?"
+499,FEZZIK,499,"He's with the Prince in the
+Castle. But the castle gate is
+guarded by thirty men."
+500,INIGO,500,How many could you handle?
+501,FEZZIK,501,I don't think more than ten.
+502,INIGO,502,"That leaves twenty for me. At my
+best, I could never defeat that
+many."
+503,INIGO,503,"I need Vizzini to plan. I have no
+gift for strategy."
+504,FEZZIK,504,But Vizzini's dead.
+505,INIGO,505,"No -- not Vizzini -- I need the
+Man in Black --"
+506,FEZZIK,506,-- what? --
+507,INIGO,507,"-- look, he bested you with
+strength, your greatness. He
+bested me with steel. He must
+have outthought Vizzini, and a
+man who can do that can plan my
+castle's onslaught any day. Let's
+go --"
+508,FEZZIK,508,-- where?
+509,INIGO,509,"To find the Man in Black,
+obviously."
+510,FEZZIK,510,But you don't know where he is.
+511,INIGO,511,"Don't bother me with trifles;
+after twenty years, at last, my
+father's soul will be at peace."
+512,INIGO,512,There will be blood tonight!!
+513,HUMPERDINCK,513,Rise and report.
+514,YELLIN,514,"The Thieves' Forest is emptied.
+Thirty men guard the castle gate."
+515,HUMPERDINCK,515,"Double it. My Princess must be
+safe."
+516,YELLIN,516,"The gate has but one key, and I
+carry that."
+517,HUMPERDINCK,517,"Ah! My dulcet darling. Tonight we
+marry. Tomorrow morning, your men
+will escort us to Florin Channel
+where every ship in my armada
+waits to accompany us on our
+honeymoon."
+518,BUTTERCUP,518,"Every ship but your four fastest,
+you mean."
+519,BUTTERCUP,519,Every ship but the four you sent.
+520,HUMPERDINCK,520,"Yes. Yes, of course. Naturally,
+not those four."
+521,YELLIN,521,Your Majesties.
+522,BUTTERCUP,522,"You never sent the ships. Don't
+bother lying. It doesn't matter.
+Westley will come for me anyway."
+523,HUMPERDINCK,523,You're a silly girl.
+524,BUTTERCUP,524,"Yes, I am a silly girl, for not
+having seen sooner that you were
+nothing but a coward with a heart
+full of fear."
+525,HUMPERDINCK,525,"I-would-not-say-such things-if-
+Iwere-you-"
+526,BUTTERCUP,526,"Why not? You can't hurt me.
+Westley and I are joined by the
+bonds of love. And you cannot
+track that. Not with a thousand
+bloodhounds. And you cannot break
+it. Not with a thousand swords.
+And when I say you are a coward,
+that is only because you are the
+slimiest weakling ever to crawl
+the earth."
+527,HUMPERDINCK,527,IWOULDNOTSAYSUCHTHINGSIFIWEREYOU!
+528,HUMPERDINCK,528,"You truly love each other, and so
+you might have been truly happy.
+Not one couple in a century has
+that chance, no matter what the
+storybooks say. And so I think no
+man in a century will suffer as
+greatly as you will."
+529,RUGEN,529,Not to fifty!!!
+530,FEZZIK,530,The Man in Black?
+531,INIGO,531,"His true love is marrying another
+tonight, so who else has cause
+for Ultimate Suffering?"
+532,INIGO,532,Excuse me --
+533,INIGO,533,"-- pardon me, it's important --"
+534,INIGO,534,"-- Fezzik, please --"
+535,FEZZIK,535,Everybody ... MOVE!!
+536,INIGO,536,Thank you.
+537,INIGO,537,Where is the Man in Black?
+538,INIGO,538,"You get there from this grove, yes?"
+539,INIGO,539,"Fezzik, jog his memory."
+540,FEZZIK,540,"I'm sorry, Inigo. I didn't mean
+to jog him so hard. Inigo?"
+541,INIGO,541,"Father, I have failed you for
+twenty years. Now our misery can
+end. Somewhere ... somewhere
+close by is a man who can help us.
+I cannot find him alone. I need
+you. I need you to guide my sword.
+Please."
+542,INIGO,542,Guide my sword.
+543,FEZZIK,543,He's dead.
+544,INIGO,544,It just is not fair.
+545,THE KID,545,"-- Grandpa, Grandpa -- wait --"
+546,THE KID,546,"-- wait -- what did FEZZIK mean,
+""He's dead?"" I mean he didn't
+mean dead."
+547,THE KID,547,"Westley's only faking, right?"
+548,GRANDFATHER,548,You want me to read this or not?
+549,THE KID,549,Who gets Humperdinck?
+550,GRANDFATHER,550,I don't understand.
+551,THE KID,551,"Who kills Prince Humperdinck? At
+the end, somebody's got to do it.
+Is it Inigo? Who?"
+552,GRANDFATHER,552,Nobody. Nobody kills him. He lives.
+553,THE KID,553,"You mean he wins? Jesus, Grandpa!
+What did you read me this thing
+for?"
+554,GRANDFATHER,554,"You know, you've been very sick
+and you're taking this story very
+seriously. I think we better stop
+now."
+555,THE KID,555,No! I'm okay. I'm okay.
+556,THE KID,556,-- sit down. All right?
+557,GRANDFATHER,557,Okay.
+558,GRANDFATHER,558,"All right, now, let's see. Where
+were we? Oh yes. In the Pit of
+Despair."
+559,INIGO,559,"Well, we Montoyas have never
+taken defeat easily. Come along,
+Fezzik. Bring the body."
+560,FEZZIK,560,The body?
+561,INIGO,561,Have you any money?
+562,FEZZIK,562,I have a little.
+563,INIGO,563,"I just hope it's enough to buy a
+miracle, that's all."
+564,LITTLE OLD GUY,564,Go away!
+565,MIRACLE MAX,565,What? What?
+566,INIGO,566,"Are you the Miracle Max who
+worked for the King all those
+years?"
+567,MIRACLE MAX,567,"The King's stinking son fired me.
+And thank you so much for bringing
+up such a painful subject. While
+you're at it, why don't you give
+me a nice paper cut and pour
+lemon juice on it? We're closed!"
+568,MIRACLE MAX,568,"Beat it or I'll call the Brute
+Squad."
+569,FEZZIK,569,I'm on the Brute Squad.
+570,MIRACLE MAX,570,You are the Brute Squad.
+571,INIGO,571,"We need a miracle. It's very
+important."
+572,MIRACLE MAX,572,"Look, I'm retired. And besides,
+why would you want someone the
+King's stinking son fired? I
+might kill whoever you wanted me
+to miracle."
+573,INIGO,573,He's already dead.
+574,MIRACLE MAX,574,"He is, eh? I'll take a look.
+Bring him in."
+575,MIRACLE MAX,575,I've seen worse.
+576,INIGO,576,Sir. Sir.
+577,MIRACLE MAX,577,Hah?
+578,INIGO,578,We're really in a terrible rush.
+579,MIRACLE MAX,579,"Don't rush me, sonny. You rush a
+miracle man, you get rotten
+miracles. You got money?"
+580,INIGO,580,Sixty-five.
+581,MIRACLE MAX,581,"Sheesh! I never worked for so
+little, except once, and that was
+a very noble cause."
+582,INIGO,582,"This is noble, sir."
+583,INIGO,583,"His wife is crippled. His children
+are on the brink of starvation."
+584,MIRACLE MAX,584,Are you a rotten liar.
+585,INIGO,585,"I need him to help avenge my
+father, murdered these twenty
+years."
+586,MIRACLE MAX,586,Your first story was better.
+587,MIRACLE MAX,587,Where's that bellows?
+588,MIRACLE MAX,588,"He probably owes you money, huh?
+Well, I'll ask him."
+589,INIGO,589,He's dead. He can't talk.
+590,MIRACLE MAX,590,"Look who knows so much. Well, it
+just so happens that your friend
+here is only mostly dead. There's
+a big difference between mostly
+dead and all dead. Please open
+his mouth."
+591,MIRACLE MAX,591,"Now, mostly dead is slightly
+alive. Now, all dead...well, with
+all dead, there's usually only
+one thing that you can do."
+592,INIGO,592,What's that?
+593,MIRACLE MAX,593,"Go through his clothes and look
+for loose change."
+594,MIRACLE MAX,594,"Hey! Hello in there. Hey! What's
+so important? What you got here
+that's worth living for?"
+595,WESTLEY,595,... tr ... oooo .... luv...
+596,INIGO,596,"True love. You heard him. You
+could not ask for a more noble
+cause than that."
+597,MIRACLE MAX,597,"Sonny, true love is the greatest
+thing in the world. Except for a
+nice MLT, a mutton, lettuce and
+tomato sandwich, where the mutton
+is nice and lean and the tomato
+is ripe. They're so perky, I love
+that. But that's not what he said.
+He distinctly said ""to blave.""
+And, as we all know, ""to blave""
+means ""to bluff."" So you're
+probably playing cards, and he
+cheated"
+598,A WOMAN'S VOICE,598,-- Liar -- LIAR-LI-A-A-AR --
+599,MIRACLE MAX,599,"-- get back, witch --"
+600,VALERIE,600,"I'm not a witch, I'm your wife.
+But after what you just said, I'm
+not even sure I want to be that
+anymore."
+601,MIRACLE MAX,601,You never had it so good.
+602,VALERIE,602,"""True love."" He said, ""true
+love,"" Max. My God --"
+603,MIRACLE MAX,603,"Don't say another word, Valerie."
+604,VALERIE,604,"He's afraid. Ever since Prince
+Humperdinck fired him, his
+confidence is shattered."
+605,MIRACLE MAX,605,"Why'd you say that name -- you
+promised me that you would never
+say that name --"
+606,VALERIE,606,"What, Humperdinck? Humperdinck.
+Humperdinck. Ooo-ooo, Humperdinck"
+607,MIRACLE MAX,607,I'm not listening.
+608,VALERIE,608,"A life expiring and you don't
+have the decency to say why you
+won't help --"
+609,MIRACLE MAX,609,Nobody's hearing nothing!
+610,VALERIE,610,"Humperdinck. Humperdinck!
+Humperdinck!"
+611,INIGO,611,"-- But this is Buttercup's true
+love -- If you heal him, he will
+stop Humperdinck's wedding."
+612,VALERIE,612,Humperdinck. Humperdinck --
+613,MIRACLE MAX,613,Shut up --
+614,MIRACLE MAX,614,"Wait. Wait. I make him better,
+Humperdinck suffers?"
+615,INIGO,615,Humiliations galore!
+616,MIRACLE MAX,616,"That is a noble cause. Give me
+the sixty-five, I'm on the job."
+617,INIGO,617,That's a miracle pill?
+618,VALERIE,618,"The chocolate coating makes it go
+down easier. But you have to wait
+fifteen minutes for full potency.
+And you shouldn't go swimming
+after, for at least, what?"
+619,MIRACLE MAX,619,An hour.
+620,VALERIE,620,"Yeah, an hour."
+621,MIRACLE MAX,621,A good hour. Yeah.
+622,INIGO,622,Thank you for everything.
+623,MIRACLE MAX,623,Okay.
+624,VALERIE,624,"Bye-bye, boys."
+625,MIRACLE MAX,625,Have fun storming the castle.
+626,VALERIE,626,Think it'll work?
+627,MIRACLE MAX,627,It would take a miracle. Bye!
+628,VALERIE,628,Bye.
+629,FEZZIK,629,"Inigo -- there's more than
+thirty --"
+630,INIGO,630,What's the difference?
+631,INIGO,631,"We've got him. Help me here.
+We'll have to force feed him."
+632,FEZZIK,632,Has it been fifteen minutes?
+633,INIGO,633,"We can't wait -- the wedding's in
+half an hour and we must strike
+in the hustle and the bustle
+beforehand."
+634,INIGO,634,Tilt his head back. Open his mouth.
+635,FEZZIK,635,"How long do we have to wait
+before we know if the miracle
+works?"
+636,INIGO,636,Your guess is as good as mine --
+637,WESTLEY,637,"I'll beat you both apart. I'll
+take you both together."
+638,FEZZIK,638,Guess not very long.
+639,WESTLEY,639,Why won't my arms move?
+640,FEZZIK,640,You've been mostly dead all day.
+641,INIGO,641,"We had Miracle Max make a pill to
+bring you back."
+642,WESTLEY,642,"Who are you? -- Are we enemies?
+Why am I on this wall? -- Where's
+Buttercup? --"
+643,INIGO,643,Let me explain --
+644,INIGO,644,"-- No, there is too much. Let me
+sum up."
+645,INIGO (CONT'D),645,"Buttercup is marrying Humperdinck
+in a little less than half an
+hour, so all we have to do is get
+in, break up the wedding, steal
+the Princess, make our escape
+after I kill Count Rugen."
+646,WESTLEY,646,"That doesn't leave much time for
+dilly dallying."
+647,FEZZIK,647,"You've just wiggled your finger.
+That's wonderful."
+648,WESTLEY,648,I've always been a quick healer.
+649,WESTLEY,649,What are our liabilities?
+650,INIGO,650,"There is but one working castle
+gate."
+651,INIGO,651,And it is guarded by sixty men.
+652,WESTLEY,652,And our assets?
+653,INIGO,653,"Your brains, Fezzik's strength,
+my steel."
+654,WESTLEY,654,"That's it? Impossible. If I had a
+month to plan, maybe I could come
+up with something. But this..."
+655,FEZZIK,655,"You just shook your head -- that
+doesn't make you happy?"
+656,WESTLEY,656,"My brains, his steel, and your
+strength against sixty men, and
+you think a little head jiggle is
+supposed to make me happy? I
+mean, if we only had a
+wheelbarrow, that would be
+something."
+657,INIGO,657,"Where did we put that wheelbarrow
+the Albino had?"
+658,FEZZIK,658,"Over the Albino, I think."
+659,WESTLEY,659,"Well, why didn't you list that
+among our assets in the first
+place? What I wouldn't give for a
+holocaust cloak."
+660,INIGO,660,There we cannot help you.
+661,FEZZIK,661,Will this do?
+662,INIGO,662,Where did you get that?
+663,FEZZIK,663,"At Miracle Max's. It fit so nice,
+he said I could keep it."
+664,WESTLEY,664,"All right, all right. Come on,
+help me up."
+665,WESTLEY,665,"Now, I'll need a sword eventually."
+666,INIGO,666,Why? You can't even lift one.
+667,WESTLEY,667,"True, but that's hardly common
+knowledge, is it?"
+668,WESTLEY,668,"Thank you. Now, there may be
+problems once we're inside."
+669,INIGO,669,"I'll say -- how do I find the
+Count? -- Once I do, how do I
+find you again? -- Once I find
+you again, how do we escape? --"
+670,FEZZIK,670,"Don't pester him, he's had a hard
+day."
+671,INIGO,671,"Right, right, sorry."
+672,FEZZIK,672,Inigo.
+673,INIGO,673,What?
+674,FEZZIK,674,I hope we win...
+675,HUMPERDINCK,675,"You don't seem excited, my little
+muffin."
+676,BUTTERCUP,676,Should I be?
+677,HUMPERDINCK,677,"Brides often are, I'm told."
+678,BUTTERCUP,678,I do not marry tonight.
+679,BUTTERCUP,679,My Westley will save me.
+680,IMPRESSIVE CLERGYMAN,680,"Mawidge...mawidge is what bwings
+us togewer today..."
+681,IMPRESSIVE CLERGYMAN,681,"Mawidge, the bwessed awwangement,
+that dweam wiffim a dweam..."
+682,YELLIN,682,"Stand your ground, men. Stand
+your ground."
+683,YELLIN,683,Stand your ground.
+684,FEZZIK,684,"I AM THE DREAD PIRATE ROBERTS.
+THERE WILL BE NO SURVIVORS."
+685,INIGO,685,Now?
+686,WESTLEY,686,Not yet.
+687,FEZZIK,687,"MY MEN ARE HERE, AND I AM HERE,
+BUT SOON YOU WILL NOT BE HERE"
+688,INIGO,688,Now?
+689,WESTLEY,689,Light him.
+690,FEZZIK,690,"THE DREAD PIRATE ROBERTS TAKES NO
+SURVIVORS. ALL YOUR WORST
+NIGHTMARES ARE ABOUT TO COME TRUE."
+691,IMPRESSIVE CLERGYMAN,691,"... Ven wuv, twoo wuv, wiw fowwow
+you fowever.."
+692,FEZZIK,692,"THE DREAD PIRATE ROBERTS IS HERE
+FOR YOUR SOULS!"
+693,YELLIN,693,"Stay where you are. I said stay
+where you are!"
+694,IMPRESSIVE CLERGYMAN,694,... so tweasuwe your vruv..
+695,HUMPERDINCK,695,Skip to the end.
+696,IMPRESSIVE CLERGYMAN,696,Have you the wing?
+697,BUTTERCUP,697,Here comes my Westley now.
+698,WESTLEY,698,"FEZZIK, the portcullis."
+699,HUMPERDINCK,699,Your Westley is dead.
+700,HUMPERDINCK,700,I killed him myself.
+701,BUTTERCUP,701,"Then why is there fear behind
+your eyes?"
+702,WESTLEY,702,Give us the gate key.
+703,YELLIN,703,I have no gate key.
+704,INIGO,704,"Fezzik, tear his arms off."
+705,YELLIN,705,"Oh, you mean this gate key."
+706,IMPRESSIVE CLERGYMAN,706,"And do you, Pwincess Buwwercwup..."
+707,HUMPERDINCK,707,Man and wife -- say man and wife...
+708,IMPRESSIVE CLERGYMAN,708,Man and wife.
+709,HUMPERDINCK,709,"Escort the bride to the Honeymoon
+Suite -- I'll be there shortly."
+710,BUTTERCUP,710,He didn't come.
+711,RUGEN,711,"Kill the dark one and the giant,
+but leave the third for
+questioning."
+712,INIGO,712,"Hello. My name is Inigo Montoya.
+You killed my father. Prepare to
+die."
+713,INIGO,713,"Fezzik, I need you --"
+714,FEZZIK,714,I can't leave him alone.
+715,INIGO,715,"He's getting away from me, Fezzik.
+Please. FEZZIK!"
+716,FEZZIK,716,I'll be right back.
+717,INIGO,717,Thank you --
+718,KING,718,Strange wedding.
+719,QUEEN,719,"Yes. A very strange wedding. Come
+along."
+720,KING,720,What was that for?
+721,BUTTERCUP,721,"Because you've always been so
+kind to me. And I won't be seeing
+you again since I'm killing
+myself once we reach the Honeymoon
+Suite."
+722,KING,722,Won't that be nice?
+723,KING,723,She kissed me...
+724,INIGO,724,"... Sorry, Father ... I tried ...
+I tried..."
+725,RUGEN,725,"You must be that little Spanish
+brat I taught a lesson to all
+those years ago. It's simply
+incredible. Have you been chasing
+me your whole life only to fail
+now? I think that's the worst
+thing I ever heard. How marvelous."
+726,WESTLEY,726,"There's a shortage of perfect
+breasts in this world. It would
+be a pity to damage yours."
+727,BUTTERCUP,727,"Oh, Westley, darling."
+728,BUTTERCUP,728,"Westley, why won't you hold me?"
+729,WESTLEY,729,Gently.
+730,BUTTERCUP,730,"At a time like this that's all
+you can think to say? ""Gently?"""
+731,WESTLEY,731,Gently!!
+732,RUGEN,732,"Good heavens. Are you still
+trying to win?"
+733,RUGEN,733,"You've got an overdeveloped sense
+of vengeance. It's going to get
+you into trouble some day."
+734,INIGO,734,"Hello. My name is Inigo Montoya,
+you killed my father; prepare to
+die."
+735,INIGO,735,"Hello. My name is Inigo Montoya,
+you killed my father, prepare to
+die."
+736,INIGO,736,"Hello. My name is Inigo Montoya.
+You killed my father. Prepare to
+die."
+737,RUGEN,737,Stop saying that!
+738,INIGO,738,"HELLO! MY NAME IS INIGO MONTOYA.
+YOU KILLED MY FATHER. PREPARE TO
+DIE."
+739,RUGEN,739,No --
+740,INIGO,740,-- offer me money --
+741,RUGEN,741,-- yes --
+742,INIGO,742,-- power too -- promise me that --
+743,RUGEN,743,"-- all that I have and more
+please --"
+744,INIGO,744,"-- offer me everything I ask
+for --"
+745,RUGEN,745,-- anything you want --
+746,INIGO,746,"I WANT MY FATHER BACK, YOU SON-
+OFA-BITCH!"
+747,BUTTERCUP,747,"Oh, Westley, will you ever
+forgive me?"
+748,WESTLEY,748,"What hideous sin have you
+committed lately?"
+749,BUTTERCUP,749,"I got married. I didn't want to.
+It all happened so fast."
+750,WESTLEY,750,It never happened.
+751,BUTTERCUP,751,What?
+752,WESTLEY,752,It never happened.
+753,BUTTERCUP,753,"But it did. I was there. This old
+man said, ""Man and wife."""
+754,WESTLEY,754,"Did you say, ""I do""?"
+755,BUTTERCUP,755,"Well, no, we sort of skipped that
+part."
+756,WESTLEY,756,"Then you're not married -- if you
+didn't say it, you didn't do it"
+757,WESTLEY,757,"-- wouldn't you agree, Your
+Highness?"
+758,HUMPERDINCK,758,"A technicality that will shortly
+be remedied. But first things
+first. To the death."
+759,WESTLEY,759,No.
+760,WESTLEY,760,To the pain.
+761,HUMPERDINCK,761,"I don't think I'm quite familiar
+with that phrase."
+762,WESTLEY,762,"I'll explain. And I'll use small
+words so that you'll be sure to
+understand, you wart-hog-faced
+buffoon."
+763,HUMPERDINCK,763,"That may be the first time in my
+life a man has dared insult me."
+764,WESTLEY,764,"It won't be the last. To the pain
+means the first thing you lose
+will be your feet, below the
+ankles, then your hands at the
+wrists, next your nose."
+765,HUMPERDINCK,765,"-- and then my tongue, I suppose.
+I killed you too quickly the last
+time, a mistake I don't mean to
+duplicate tonight."
+766,WESTLEY,766,"I wasn't finished -- the next
+thing you lose will be your left
+eye, followed by your right --"
+767,HUMPERDINCK,767,"-- and then my ears, I understand.
+Let's get on with it"
+768,WESTLEY,768,"Wrong! Your ears you keep, and
+I'll tell you why --"
+769,WESTLEY,769,"-- so that every shriek of every
+child at seeing your hideousness
+will be yours to cherish -- every
+babe that weeps at your approach,
+every woman who cries out, ""Dear
+God, what is that thing?"" will
+echo in your perfect ears."
+770,WESTLEY (CONT'D),770,"That is what ""to the pain"" means.
+It means I leave you in anguish,
+wallowing in freakish misery
+forever."
+771,HUMPERDINCK,771,I think you're bluffing --
+772,WESTLEY,772,"It's possible, pig -- I might be
+bluffing -- it's conceivable, you
+miserable vomitous mass, that I'm
+only lying here because I lack
+the strength to stand -- then
+again, perhaps I have the strength
+after all."
+773,WESTLEY,773,DROP-YOUR-SWORD.
+774,WESTLEY,774,Have a seat.
+775,WESTLEY,775,"Tie him up. Make it as tight as
+you like."
+776,INIGO,776,Where's Fezzik?
+777,WESTLEY,777,I thought he was with you.
+778,INIGO,778,No.
+779,WESTLEY,779,In that case --
+780,INIGO,780,Help him.
+781,BUTTERCUP,781,Why does Westley need helping?
+782,INIGO,782,Because he has no strength --
+783,HUMPERDINCK,783,"I knew it! I knew you were
+bluffing! I knew he was bluffing."
+784,INIGO,784,Shall I dispatch him for you?
+785,WESTLEY,785,"Thank you, but no -- whatever
+happens to us, I want him to live
+a long life alone with his
+cowardice."
+786,FEZZIK,786,"Inigo! Inigo, where are you?"
+787,FEZZIK,787,"Ah, there you are. Inigo, I saw
+the Prince's stables, and there
+they were, four white horses. And
+I thought, there are four of us,
+if we ever find the lad -- hello,
+lad -- so I took them with me, in
+case we ever bumped into each
+other."
+788,FEZZIK,788,I guess we just did.
+789,INIGO,789,"FEZZIK, you did something right."
+790,FEZZIK,790,"Don't worry -- I won't let it go
+to my head."
+791,INIGO,791,"You know, it's very strange -- I
+have been in the revenge business
+so long, now that it's over, I
+don't know what to do with the
+rest of my life."
+792,WESTLEY,792,"Have you ever considered piracy?
+You'd make a wonderful Dread
+Pirate Roberts."
+793,GRANDFATHER,793,"They rode to freedom. And as dawn
+arose, Westley and Buttercup knew
+they were safe. A wave of love
+swept over them. And as they
+reached for each other..."
+794,THE KID,794,What? What?
+795,GRANDFATHER,795,"No, it's kissing again. You don't
+want to hear it."
+796,THE KID,796,I don't mind so much.
+797,GRANDFATHER,797,Okay.
+798,GRANDFATHER,798,"Since the invention of the kiss,
+there have been five kisses that
+were rated the most passionate,
+the most pure. This one left them
+all behind. The end."
+799,GRANDFATHER,799,"Now I think you ought to go to
+sleep."
+800,THE KID,800,Okay.
+801,GRANDFATHER,801,"Okay. Okay. Okay. All right. So
+long."
+802,THE KID,802,Grandpa?
+803,THE KID,803,"Maybe you could come over and
+read it again to me tomorrow."
+804,GRANDFATHER,804,As you wish...

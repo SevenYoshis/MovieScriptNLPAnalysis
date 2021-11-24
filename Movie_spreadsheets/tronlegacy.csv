@@ -1,0 +1,1447 @@
+,character,line #,line
+0,X-TAKKS,0,Intruder!   Fix coordinates!
+1,AGENT 1,1,"This is the first time an Intruder
+has broken into X-Net!"
+2,RX23 LEADER,2,"And it's the last. Follow him!
+Shut him down!"
+3,KROD,3,I got a lock. Coordinate 32937!
+4,RX23,4,I'm on him!
+5,RX23,5,Which way did he go?!
+6,RUSH,6,I said WHICH WAY DID HE GO?
+7,RUSH,7,"Come on guys! Nobody hacks X-Net.
+You gonna let him get away?!"
+8,MILES,8,"Rush, I think I found him!"
+9,MILES,9,Check the old game grid!
+10,RUSH,10,"You get a cookie, Miles!"
+11,KROD,11,Coordinate 6532.02!   There he goes!
+12,RUSH,12,"I haven't played this since I was 4.
+But I was mighty awesome."
+13,RUSH,13,Score an ID on this leech?
+14,MILES,14,Negative.    He's nobody.
+15,KELTER,15,"Rush, you've gotta nail him."
+16,PHLEGMAN,16,Or you know we're all fired.
+17,MILES,17,"Whoa, Rush! I groked a pattern in
+his moves! Fake left, go right!"
+18,MILES,18,"You got him on the run, dude!"
+19,OTHERS,19,Crash him!   Rush RUSH RUSH.
+20,RUSH,20,Yikes!
+21,RUSH,21,He crashed me!
+22,NERDS,22,FUBAR!    Bad Thing!   Flame War!
+23,RUSH,23,Miles.    Did you get a trace on him?!
+24,PHLEGMAN,24,We are so screwed.
+25,KELTER,25,Who tells the boss?
+26,RUSH,26,Get the system back up!     Now!    Move!
+27,PR VP,27,"Weather is holding. Dress rehearsal
+on for 6PM. In the morning, we let
+the press in for a 7AM tech set-up,
+then you go live worldwide 9 AM sharp."
+28,SINCLAIR,28,"Delay the press until 8:30. I'll
+taking the stage at 8:50. Force a
+network break-in. Then it's news."
+29,SINCLAIR,29,Play that again.
+30,VIDEO PLAYBACK,30,"X-Net deploys radical software design,
+constructs proprietary white-hot
+firewalls, unleashes virus killer
+apps. Creating the most secure data
+network in history. Your data can
+never again be hacked, corrupted,
+stolen or destroyed. X-Net is the
+final solution, totally guaranteed
+99.999% secure data transmission -"
+31,SINCLAIR,31,"Who changed that? Who put ""99.999""?"
+32,PR VP,32,"Um, that would be...    Legal."
+33,SINCLAIR,33,"Change it back to the way I wrote
+it. With the launch of X-Net, this
+company guarantees one hundred percent
+secure data transmission. If we
+can't deliver on that promise, we
+deserve to be out of business."
+34,SINCLAIR,34,"What can't wait, Rush?"
+35,RUSH,35,"Um. X-Net was just breached by a
+hacker."
+36,RUSH,36,"System's back up, no permanent damage,
+but... But whoever's behind this,
+they're good, and they're still out
+there."
+37,SINCLAIR,37,Identify the intruder.
+38,PLEXOR,38,Identity not captured.
+39,SINCLAIR,39,How did he enter X-Net?
+40,SINCLAIR,40,How could you let this happen?
+41,PLEXOR,41,"I do what you programmed me to do.
+I am constructing X-Net."
+42,SINCLAIR,42,"New instructions - find and destroy
+the intruder!"
+43,SINCLAIR,43,"No. We can't delay the opening of X-
+Net. Disregard my last command.
+Maintain construction priority."
+44,RUSH,44,"System is stable again, keep you
+fingers crossed."
+45,PHLEGMAN,45,Any luck finding the intruder?
+46,RUSH,46,Don't ask.
+47,RUSH,47,"What's she doing here?    This is an
+operations meeting."
+48,KELTER,48,"You and Meg still, eh...    At it?"
+49,RUSH,49,There was never anything between us.
+50,RUSH,50,"She's Advanced Projects.    This has
+nothing to do with her."
+51,SINCLAIR,51,"This company's existence depends on
+the flawless launch of X-Net in twenty-
+two hours, fifty-one minutes. Now
+somebody - some hacker, some
+competitor, somebody - just proved
+they're smarter than us. Breaking
+into X-Net is theoretically
+impossible."
+52,RUSH,52,"This creep's the best I've ever seen.
+He crosses platforms, cracks 128 bit
+encryption, cloaks every move, never
+leaves a trace."
+53,SINCLAIR,53,"When you find him, I'll be sure to
+hire him."
+54,SINCLAIR,54,"Boys and girls, we cannot sell a
+secure network that is not secure."
+55,PR VP,55,We delay the launch.
+56,SINCLAIR,56,"And the world assumes we've got a
+faulty product. And they'd be right."
+57,KELTER,57,We ramp up our encryption schemes -
+58,PHLEGMAN,58,Thicken all firewalls -
+59,RUSH,59,"We can't win playing defense. And
+it's a bigger job than just swatting
+an intruder program. Somewhere,
+there's a human mind behind this
+thing. We have to get to that User
+and shut him - or her - down, or the
+game never ends."
+60,SINCLAIR,60,"What do you need, Rush?"
+61,RUSH,61,20 guys for 20 days -
+62,SINCLAIR,62,"We don't have 20 hours. This problem
+needs to be gone before tomorrow
+9AM. Come on people, this company's
+future is at stake! It's time to
+think without a box!"
+63,RUDY,63,"At a time like this, let's seek
+inspiration in the past. We should
+ask ourselves: What solution would
+spring from the inspired mind of our
+departed leader, Flynn."
+64,SINCLAIR,64,Is the QF-401 is operational?
+65,MEG,65,Um...   Midway into phase one testing.
+66,SINCLAIR,66,"If we can't fight this intruder from
+the outside, then maybe we need to
+fight him from the inside."
+67,MEG,67,I'm ready to do my part.
+68,SINCLAIR,68,"This company needs a hero. Who among
+you is the smartest, most resourceful
+and courageous?"
+69,MEG,69,Who else could it be?
+70,RUSH,70,"Somebody going to tell me what I've
+been volunteered for?"
+71,SINCLAIR,71,"Rush, you're the only one I can trust
+to eliminate the intruder. But you
+won't be doing it the way you thought.
+Meg's been working on something down
+here that's, well... Beyond Top
+Secret."
+72,MEG,72,"This is where Flynn worked.   And
+where he died."
+73,SINCLAIR,73,"Meg has reconstructed Flynn's last
+project. This time it works."
+74,RUSH,74,"You didn't pick this up at Circuit
+City. What is it?"
+75,MEG,75,"A Quantum Digitizer. Prototype,
+only one of its kind. Flynn designed
+it to break down physical objects
+into high resolution data. Luckily,
+we salvaged his key components and
+back-engineered the system."
+76,RUSH,76,That's...   Not possible.
+77,MEG,77,"Flynn was trying to take it one step
+further. He wanted to transport a
+human being into cyberspace."
+78,RUSH,78,"You mean the urban legends? A
+computer sucked Flynn into cyberspace
+a long time ago."
+79,SINCLAIR,79,We think it happened.
+80,SINCLAIR,80,"It was a fluke. But Flynn worked
+for years, down here, trying to make
+it happen again. One day a test
+went bad. A plasma reaction destroyed
+this lab. Flynn was reduced to ash."
+81,RUSH,81,"I was never told how he died. It
+was all just weird, you know, because
+Flynn's the guy who hired me. But
+he was strange, kept to himself, I
+didn't know what job I was supposed
+to be doing."
+82,RUSH,82,"Then you came onboard, the company
+woke up, we had a direction. It was
+kind of pathetic, because by the
+time Flynn died, everybody was too
+busy to care."
+83,SINCLAIR,83,"He was brilliant in his way, but
+genius without discipline leads to
+nothing. His reckless habits nearly
+ruined this company... And for sure
+got him killed."
+84,MEG,84,"That kind of accident can't happen
+again. We've upgraded the system in
+ways Flynn never could. The chips
+didn't exist until now."
+85,MEG,85,"Hey, Jo-Jo.    Have good trip?"
+86,RUSH,86,"You want her to send me into
+cyberspace to catch that jerk who
+hacked us?"
+87,SINCLAIR,87,"The future of this company depends
+on it."
+88,RUSH,88,You can bring me back okay?
+89,MEG,89,Ask Jo-Jo.
+90,SINCLAIR,90,"Destroy the intruder by 9AM tomorrow,
+Rush. I know if anyone can, it's
+you. I've had my eye on you for a
+long time. Score this hit and I'll
+make you my full partner in this
+company."
+91,RUSH,91,I won't let you down.   Let's do it.
+92,MEG,92,"I promise I'll get you back safely
+by 9AM tomorrow. But you have to
+promise me something too -"
+93,RUSH,93,"You're a piece of work. You dumped
+me because you said I was too much
+about the company's needs and not
+enough about yours. Well here we
+are, the company needs their best
+guy, and you just can't admit how
+much to hurts to nominate me."
+94,MEG,94,"This bigger than us, Rush. Listen
+to me. I don't know what you're
+going to find in there, but whatever
+it is, promise you'll follow your
+heart and do the right thing."
+95,RUSH,95,Oh.    So you think I have a heart?
+96,RUSH,96,I promise.
+97,DEWEY,97,It's overloading!
+98,RUSH,98,What's happening?!
+99,MEG,99,System is losing stability!
+100,SINCLAIR,100,There's been another breech!
+101,RUSH,101,It's the Intruder again!
+102,MEG,102,We have to abort!
+103,SINCLAIR,103,We might not get another chance!
+104,RUSH,104,DO IT!
+105,RUSH,105,It's YOU!    The intruder!
+106,RUSH,106,You are...    TRON?!?
+107,RUSH,107,ARRRGHH!
+108,X-TAKK 1,108,RX23?!
+109,X-TAKK 2,109,But...    You crashed irrecoverably!
+110,RUSH,110,"Uh, well, I'm not exactly -"
+111,X-TAKK 3,111,RX23 has been rebooted!
+112,VOICE,112,RX23 reboot was not authorized!
+113,RUSH,113,Yow.     I know who programmed you.
+114,MEGA,114,"I am Mega, X-Net Intelligence."
+115,RUSH,115,Mega.     Cool.     I am -
+116,MEGA,116,"A spy? Posing as RX23? Under which
+register were you rebooted?"
+117,RUSH,117,I'm a User.
+118,MEGA,118,Detain this impostor.
+119,RUSH,119,"No wait, look. We're on the same
+side here. I got an ID on the
+intruder!"
+120,MEGA,120,"""Tron""?"
+121,X-TAKK 2,121,How did he get that??
+122,MEGA,122,Plexor must know of this!
+123,MEGA,123,Plexor.   This is the one.
+124,PLEXOR,124,You are not RX23.
+125,RUSH,125,"My name is Rush. I'm a - Look, I
+got an ID on the Intruder. Do you
+know the program they used to call
+Tron?"
+126,PLEXOR,126,You are in error. Zero match.
+127,RUSH,127,"Exactly. That's how he's getting
+past you. You don't see him for
+what he is. He's one of your own,
+gone bad. Tron was a crude security
+program from Encom's old days.
+Strictly low-rez, right? Archived
+and forgotten. But his source code
+contains all the architecture of
+every Encom system, including X-net."
+128,RUSH (CONT'D),128,"That's why some smart User dusted
+him off and upgraded him -"
+129,PLEXOR,129,"""User""?"
+130,RUSH,130,"People. Like me. From the outside.
+People who write all of your
+instructions."
+131,MEGA,131,He displays random instability.
+132,PLEXOR,132,Users do not exist.
+133,RUSH,133,"How do we contact Sinclair?    He'll
+explain."
+134,PLEXOR,134,"Define ""Sinclair""."
+135,RUSH,135,"You don't know? Oh geez. There
+must be a way to link him into this."
+136,MEGA,136,"Zero match for a ""Sinclair""."
+137,RUSH,137,"He's your boss. Everybody's boss.
+Outside, in the real world."
+138,PLEXOR,138,"Assuming the existence of a world
+beyond this, is a fatal error."
+139,MEGA,139,Plexor issues all commands.
+140,X-TAKKS,140,Grep grep.
+141,RUSH,141,"Okay. Sorry. I'm a program, guess
+I got a piece of my code corrupted.
+Whatever it is, it's given me power
+over Tron."
+142,RUSH,142,"They saw me read his circuits. Can
+any other program do that?"
+143,MEGA,143,"He creates alternative data channels
+at will."
+144,PLEXOR,144,Chaos.
+145,RUSH,145,"Yeah, I'm a little unstable.    But I
+can find Tron for you."
+146,PLEXOR,146,Release him.
+147,PLEXOR,147,"Interface with this one. Exploit
+his ability. Locate the program
+""Tron"" and destroy him on sight."
+148,MEGA,148,"Instructions received, Plexor."
+149,RUSH,149,"I need to find a program called KROD.
+He's a specialist in pattern
+recognition. He snagged the last
+known position on Tron for me."
+150,MEGA,150,"This is a waste of X-Net resources.
+You're strictly random. We will
+never find the intruder this way."
+151,RUSH,151,"Plexor ordered us to work together.
+You can't doubt his instructions,
+right?"
+152,MEGA,152,"Of course not. But I am programmed
+to predict all possible errors. You
+contain an infinite quantity."
+153,RUSH,153,Meg for sure programmed you.
+154,MEGA,154,"I have no data on ""Meg""."
+155,RUSH,155,Never mind.    I'm being random.
+156,RUSH,156,"X-Net is amazing. It's going to
+change everything. Unless one rogue
+program called Tron brings it down.
+Do you believe he could?"
+157,MEGA,157,I calculated the probability.
+158,MEGA,158,He could crash it all.
+159,RUSH,159,So we're working together on this?
+160,MEGA,160,"As instructed, I will interface."
+161,MEGA,161,"The program ""KROD"" is over there."
+162,RUSH,162,What a dump.
+163,RUSH,163,Hey.    Interface.
+164,KROD,164,"Three more hub cities have been
+attacked by viruses!"
+165,KROD,165,"But X-Net opens soon! You will travel
+in total security!"
+166,MEGA,166,This is the one you seek?
+167,RUSH,167,It's gotta be -
+168,KROD,168,Krod!
+169,RUSH,169,Krod!
+170,KROD,170,"Yeah, yeah -     Heeey!"
+171,RUSH,171,"The best pattern recognition program
+ever."
+172,RUSH,172,"This guy can filter a river of junk
+data and pull out the good stuff."
+173,KROD,173,"You know it, dude!"
+174,KROD,174,Who is this guy?
+175,RUSH,175,"Miles - I mean Krod, you flew the
+search engine. You ran a trace on a
+hotshot lightcycle rider. The red
+guy. Remember?"
+176,KROD,176,"Well. Eh. I'd like to help you,
+but truth is, I just got rebooted
+from a big crash. There's nothing
+left in my memory from before."
+177,MEGA,177,This will yield zero.
+178,RUSH,178,Hang on.
+179,RUSH,179,"Remember, Krod? You were watching
+this lightcycle duel, a red guy and
+a green guy, head-to-head."
+180,RUSH,180,"The green guy faked out the red guy,
+but the red guy double-faked the
+green guy."
+181,KROD,181,"Okay! YES! And the green guy
+splattered big time! It was awesome!
+How could I forget that?!"
+182,RUSH,182,"Where did the red guy go after that?
+You didn't crash right away."
+183,KROD,183,He escaped out this hidden exit -
+184,KROD,184,THAT GUY!   The RED GUY!
+185,RUSH,185,Did you jack his coordinate?
+186,KROD,186,Tr165444.018!
+187,KROD,187,"And the green guy was YOU! You got
+rebooted?! They called you, um -
+Don't tell me, I got it, eh -"
+188,RUSH,188,Call me Rush.
+189,KROD,189,"Yeah! Whatever. You're good. How'd
+you do that thing with your hands?"
+190,RUSH,190,"It's complicated. You're coming
+with us to the old game grid. We're
+going to find Tron and shut him down."
+191,KROD,191,Beats working.
+192,KROD,192,Hey babe.   Did I ever know you?
+193,KROD,193,The old game grid is this way -
+194,RUSH,194,How do I uplink to the real world?
+195,MEGA,195,"The real world doesn't exist. Nobody
+can uplink. These ports were for
+simulation only."
+196,RUSH,196,"Right... But how did those poor
+misguided fools boot up the link?"
+197,MEGA,197,"They stood in the center.   Held their
+disk above their head."
+198,KELTER & PHLEGMAN,198,"Intruder attempted another break-in.
+We patched the firewall, but our
+manpower getting is maxed out."
+199,SINCLAIR,199,Stay on it!    Nobody sleeps!
+200,MEG,200,"There's a message on your secure
+link!"
+201,SINCLAIR,201,Where is this coming from - ?
+202,MEG,202,It's HIM.
+203,SINCLAIR,203,"My God, he's there."
+204,MEG,204,"Rush, it's Sinclair and Meg."
+205,RUSH,205,I identified the intruder.
+206,SINCLAIR,206,"Tron? Wasn't Tron one of our
+programs?"
+207,RUSH,207,I have a plan to crash Tron.
+208,MEGA,208,ABORT!
+209,MEG,209,Rush?
+210,SINCLAIR,210,He'd better not fail.
+211,RUSH,211,"Hey! Double points if you nail me!
+Bring it on!"
+212,RUSH,212,Stop!    End your routine!
+213,RUSH,213,"Cease!    Desist! We're on the same
+team!"
+214,RUSH,214,I'm X-Net too!
+215,RUSH,215,"No, hey, hey big guy, don't take it
+so hard. We all have bad days."
+216,MEGA,216,"He was carrying out his programming.
+All I/O Ports are scheduled for de-
+rezz."
+217,KROD,217,"Easy, big guy. No harm, no foul."
+218,RUSH,218,"D-Rezz, we can use a guy with your
+raw power. You ready to be a hero
+for X-Net?"
+219,KROD,219,"Cool. Now I've got somebody I can
+boss around."
+220,KROD,220,Or not.
+221,RUSH,221,Let's get to the game grid.
+222,MEGA,222,"You have a skill for manipulating
+other programs."
+223,RUSH,223,"When do I get a shot at hacking your
+code?"
+224,MEGA,224,"Never. Our operating systems are
+incompatible."
+225,RUSH,225,You act like I've got a virus.
+226,KROD,226,There it is.
+227,RUSH,227,The place we nail Tron.
+228,RUSH,228,D-rezz.   Cut a path.
+229,KROD,229,That's good.     Keep doing it.
+230,I-BEEM,230,Violation!   Go away!   Access denied!
+231,RUSH,231,"Relax, buddy -"
+232,KROD,232,"Pound him to bits, D-rezz."
+233,RUSH,233,He's wireless.
+234,KROD,234,Freaky.
+235,MEGA,235,"Searching data bank. ""I-Beem"".
+Security Specialist, damaged in
+service, rated unstable."
+236,I-BEEM,236,"""Unstable""! Like they aren't?!
+They booted me off X-Net! I'll show
+them! I'm doing my subroutine out
+here! Nobody gets through this
+portal!"
+237,KROD,237,"D-rezz, take out this blip."
+238,RUSH,238,"Hang on. I-Beem. We're from X-Net
+CPU. You're doing a great job out
+here. Everybody knows it."
+239,I-BEEM,239,They do?!
+240,RUSH,240,"That's right. Now, have you seen a
+rogue Program around here? He's
+red. Super fast. Known as ""Tron""."
+241,I-BEEM,241,"The red one! That illegal function!
+He blasts through here and JUMPS
+OVER THE TOP! I tell him access
+denied - he JUMPS RIGHT OVER like I
+was never there!"
+242,RUSH,242,When did he come through last?
+243,I-BEEM,243,Right before you got here.
+244,RUSH,244,"I-beem, we've got a plan to shut
+down that red violator. You're going
+to help us."
+245,I-BEEM,245,Let me at him!
+246,RUSH,246,"First, you've got to let us onto the
+game grid."
+247,MEGA,247,This region is obsolete.
+248,RUSH,248,"There's bits of Tron's code all over.
+Krod, give D-Rezz and I-beem the
+escape coordinate Tron used on me."
+249,I-BEEM,249,Coordinate captured.
+250,RUSH,250,"That's where Tron will bail out.
+We'll make sure he needs to. Go set
+up the trap."
+251,RUSH,251,"You only get one shot at this, big
+guy. Stop him but don't destroy
+him, right? He's got data I need."
+252,MEGA,252,"If this is Tron's territory, he'll
+know we're here. He'll hide."
+253,RUSH,253,"He can't resist a grudge match.
+He'll take risks trying to beat me.
+That's how we trip him up."
+254,RUSH,254,Whip it out.
+255,KROD,255,You didn't bring one?
+256,MEGA,256,I don't have one.
+257,KROD,257,"Hey, not a problem -"
+258,KROD,258,- Hop on!
+259,RUSH,259,"Hang on, Krod."
+260,RUSH,260,I upgraded my unit.
+261,KROD,261,"You are awesome, man.    I hate you."
+262,MEGA,262,Mmmm...   Hack me.
+263,MEGA,263,"Resource conflict!    Fatal crash
+imminent!"
+264,RUSH,264,Any sign of him?
+265,KROD,265,"Everything looks the same to me.
+Everything looks the same. The same.
+The same."
+266,RUSH,266,"Krod, snap out of it."
+267,MEGA,267,Tron will never expose himself.
+268,KROD,268,The same...
+269,I-BEEM,269,"Yes, I see. Perfect trap. This is
+going to be good. Climb, climb!"
+270,MEGA,270,Its futile.
+271,RUSH,271,Look.
+272,RUSH,272,"Remember the plan, Krod. Don't bail
+out until the last millisecond."
+273,RUSH,273,"Hang on tight, Mega."
+274,KROD,274,Mmmm.
+275,I-BEEM,275,Here they come!
+276,RUSH,276,Wuss!   You call that speed!?
+277,KROD,277,"Hey, what are you - ??"
+278,KROD,278,No!   It's ME!
+279,RUSH,279,WHY DID YOU DO THAT?!
+280,MEGA,280,I-    I GOT SCARED!
+281,I-BEEM,281,No!   It's Krod! Tron is OVER THERE!
+282,KROD,282,There he goes!
+283,RUSH,283,We've got him now.    Let's go!
+284,KROD,284,I could have done that.
+285,MEGA,285,We can't go any further.
+286,RUSH,286,What is it?
+287,KROD,287,"Don't ask, dude."
+288,MEGA,288,"It's a memory leak, once it starts,
+it infects everything."
+289,I-BEEM,289,"Touch it and you crash forever.     We
+cannot risk it."
+290,MEGA,290,I agree.
+291,KROD,291,Then it's settled.
+292,RUSH,292,"Stop. Listen to me. You might not
+believe there's a world outside of
+this one, but let's just say a guy
+named Sinclair is depending on me.
+If Tron got through here, then I can
+too. Who's with me?"
+293,RUSH,293,"Good. I-beem, take D-rezz, see what's
+up ahead. We'll guard this portal
+until you come back."
+294,RUSH,294,Better show me how to use mine.
+295,KROD,295,"No problem. It's all in the velocity-
+vector ratio."
+296,PLEXOR,296,Report.
+297,MEGA,297,"We interfaced with Tron.   He escaped
+into a dark zone."
+298,PLEXOR,298,The Random One has proven effective?
+299,MEGA,299,"He is all glitches and bad data. He
+virtually got us de-rezzed. I
+recommend we terminate this mission."
+300,PLEXOR,300,"No. Proceed. If you keep Tron on
+the run, he cannot attack X-Net."
+301,MEGA,301,It's a poor allocation of resources.
+302,PLEXOR,302,You have your instructions.
+303,RUSH,303,"""All glitches and bad data."" What's
+up with you? Ever since I got here,
+you've been working against me."
+304,MEGA,304,I act as Plexor programs me.
+305,RUSH,305,"Blah blah blah. You've got you own
+processor. I can feel it working
+overtime. Did Meg program you to
+mess with me?"
+306,MEGA,306,"I have no match for ""Meg"" -"
+307,RUSH,307,"First, you don't want to come with
+me, then you're all over me on the
+light cycle - so you can dump us
+over and blow the plan. We would
+have nailed Tron by now if it wasn't
+for you. What's your malfunction?"
+308,MEGA,308,Don't troubleshoot me!
+309,MEGA,309,"The most effective alternative is to
+return to the main CPU and anticipate
+Tron's next attack."
+310,KROD,310,You ram hog!
+311,RUSH,311,It's what I'm programmed to do.
+312,KROD,312,What were you doing with her?
+313,RUSH,313,"Nothing. She had a glitch.      I was
+just pinging her EPROM."
+314,KROD,314,She let you?
+315,I-BEEM (O.S.),315,There's a way through!
+316,I-BEEM,316,"Tron attacked us! D-rezz has him
+cornered!"
+317,RUSH,317,We've got him now.
+318,D-REZZ,318,Akakakaka -    Agggggggg -
+319,RUSH,319,Guys!   Go around - behind Tron!
+320,RUSH,320,Ouch!
+321,RUSH,321,Hey!   Pick on somebody your own size!
+322,RUSH,322,You've got no data on me.
+323,RUSH,323,"D-rezz, pull me up!"
+324,RUSH,324,"Hang on, man! HANG ON!"
+325,RUSH,325,NOOOO!
+326,RUSH,326,"I know who you are. Encom security
+program Tr856 - TRON!"
+327,RUSH,327,Who is your User??
+328,RUSH,328,"Who programmed you?? I know your
+encryption code. Tell me your User
+or I shut you down."
+329,RUSH,329,"I can shut you down with a nine digit
+code. WHO IS YOUR USER?? 392 -"
+330,RUSH,330,"Tell me, Tron! Who programmed you?
+Here's your encryption code! 3-6-2-
+6-6-8 -"
+331,RUSH,331,ARRGGHHH!    3-6-2-6-6-8-7 -
+332,RUSH,332,362668766!
+333,KROD,333,You got him!
+334,KROD,334,"Game over, dude."
+335,I-BEEM,335,You crashed him!
+336,RUSH,336,"It's more than I wanted. Now I'll
+never know who his User is."
+337,KROD,337,We're heroes!
+338,I-BEEM,338,I will be upgraded!
+339,KROD,339,"They'll give us a slot in the main
+server!"
+340,I-BEEM,340,I will be upgraded!   I will be -
+341,KROD,341,"Rush, now you can finish pinging
+Mega's EPROM!"
+342,RUSH,342,Where is Mega?
+343,I-BEEM,343,She was just here.
+344,KROD,344,Right behind me.
+345,RUSH,345,MEGA??
+346,RUSH,346,Mega...
+347,KROD,347,I recognize... Trouble.
+348,I-BEEM,348,They're scanning us.
+349,RUSH,349,"I-beem, go for help.      Zap your butt
+out of here."
+350,DARK FIGURE (O.S.),350,"It had to happen. But why now of
+all times?"
+351,DARK FIGURE,351,A User shows up.
+352,RUSH,352,"Yeah, I'm a User. A superior being.
+The first to enter this realm. And
+you are - ?"
+353,FLYNN,353,The first.
+354,RUSH,354,Flynn.   How can you be here?
+355,KROD,355,You know this dude?
+356,RUSH,356,"Yeah, he's a lunatic!"
+357,FLYNN,357,"Rush Nortebi. I remember hiring
+you."
+358,KROD,358,"Somebody tipped these guys off about
+us."
+359,MEGA,359,Not soon enough.
+360,MEGA,360,"You weren't supposed to beat Tron.
+I thought for sure he'd finish you."
+361,RUSH,361,Thanks.
+362,MEGA,362,You destroyed our last hope!
+363,KROD,363,I detect a pattern in her behavior.
+364,RUSH,364,She's a spy.
+365,RUSH,365,"No wonder I couldn't figure it out.
+I assumed Tron User was on the
+outside! If I'd known this, I would
+blown past him and come straight for
+you."
+366,MEGA,366,I failed our cause.
+367,FLYNN,367,You did everything you could.
+368,RUSH,368,Flynn never died...
+369,RUSH,369,"Because your Quantum Digitizer worked.
+That's how you got here... I know -
+that's how I got here too."
+370,FLYNN,370,"The day after I hired you, you start
+sucking up to Sinclair. You thought
+I didn't know. Bet he offered your
+a partnership for this, right? You
+have no idea the damage you've done."
+371,RUSH,371,"I'm only getting started. Man, you
+were the company joke. Now I see
+why. You melted down your lab to
+take this little joyride. You got
+stuck here so all you can do is wreck
+other people's hard work."
+372,FLYNN,372,"Open your eyes, geek. My lab was
+rigged. My ""death"" was no accident.
+I pushed the button just in time to
+escape... Almost in time."
+373,RUSH,373,"You're paranoid. Who would want you
+dead?"
+374,FLYNN,374,"The same guy I programmed Tron to
+shut down. Same one you've been
+sucking up to. Sinclair. And his
+cyber-henchman, Plexor."
+375,RUSH,375,"Too many of your brain cells have
+gotten zapped in here, old man."
+376,FLYNN,376,"Rush, you lamer! You've been working
+for the bad guy."
+377,FIGHTER ONE,377,He got away.
+378,FLYNN,378,"Let's move. X-Net goons will soon
+be all over this place."
+379,FLYNN,379,"I hired Sinclair as Encom's business
+guy, so I could do the dreaming.
+Right off, he wanted to ""capture the
+market"" on data transmission. Had
+this plan called ""X-Net"", based on
+flawless efficiency, hyperlock
+security, encryption protocol
+uniformity. Blah blah. I was the
+boss, I told him to forget it. I
+knew it could go bad. But the guy
+had trouble taking no for an answer.
+He arranged for my lab to melt down.
+Sinclair took over my company and
+put X-Net on a fast-track. And here's
+where it's brought us."
+380,RUSH,380,What are they doing??
+381,FLYNN,381,Beating the competition.
+382,MEGA,382,They've got us outnumbered.
+383,FLYNN,383,"We've got to choose our battles
+wisely. This way!"
+384,KROD,384,"Rush, why is X-Net doing this?!"
+385,KID PROGRAM,385,No!   Let my daddy go!
+386,RUSH,386,How long has this been going on?
+387,FLYNN,387,For years.
+388,RUSH,388,"Sinclair never told us about this.
+X-Net is creating the very terror
+that makes people want the security
+of X-net!"
+389,FLYNN,389,"No more glitches, freeze-ups or shut-
+downs. Once X-Net is open, Plexor
+will destroy all other systems. All
+data flow will be controlled by his
+Master User -"
+390,RUSH,390,Sinclair.
+391,FLYNN,391,"All data flow - Sinclair's to control
+and abuse. Bank accounts, medical
+histories, your Blockbuster account,
+your buying patterns, your e-mail.
+And to think, Rush - all this time,
+you've been working 24/7, trying to
+impress a him."
+392,GPS VOICE,392,"Turn left now. Turn right now.
+Left. Right. NOW!"
+393,RUSH,393,Sinclair betrayed me.
+394,FLYNN,394,Finally you get it.
+395,MEGA,395,Tron was our late hope.
+396,RUSH,396,We've got to stop this!
+397,MEGA,397,Rush was trying to expose us!
+398,FLYNN,398,They didn't see us.   Keep moving!
+399,RUSH,399,"We've got to tell people on the
+outside -"
+400,FLYNN,400,"Plexor shut down all the I/O ports.
+Only HE communicates with the outside.
+Sinclair holds all the cards."
+401,FLYNN,401,How did you get here?!
+402,RUSH,402,Megan Randall sent me.
+403,RUSH,403,"Her User. She fixed your lab and
+sent me here to take out Tron."
+404,FLYNN,404,"Megan Randall? I remember her.
+Smart, wise beyond her years. I
+can't believe she'd fall for
+Sinclair's lies."
+405,RUSH,405,What happened to them?
+406,MEGA,406,"Try to attack Plexor head-on, this
+is what happens. Because of you,
+there will be millions more."
+407,FLYNN,407,"Lock up these two. We'll hold them
+for ransom. Or use them for target
+practice."
+408,RUSH,408,"Flynn. You think I'm Sinclair's
+flunky, but I'm not."
+409,RUSH,409,I'm sorry about Tron.
+410,KROD,410,"Yeah, we're - Sorry?"
+411,RUSH,411,"We were just doing a job, we had no
+way of knowing the truth."
+412,KROD,412,No way at all.
+413,RUSH,413,"Flynn, I was wrong about you. You've
+been doing the right thing in here.
+Plexor has to be shut down. Sinclair
+has to be exposed."
+414,KROD,414,Like he said.
+415,RUSH,415,Krod and I are ready to help.
+416,KROD,416,We are?
+417,FLYNN,417,"Mega, what do you read in him?"
+418,MEGA,418,Independent operating instructions.
+419,MEGA (CONT'D),419,"He will act as necessary to increase
+probability of his own survival."
+420,RUSH,420,You don't know me.
+421,MEGA,421,He cannot to be trusted.
+422,RUSH,422,"Trust?! You're the one who's been
+lying to me the whole time!"
+423,FLYNN,423,"Mega's been risking her existence
+for our cause, lamer. That's more
+than you'll ever do."
+424,FLYNN,424,Lock them away!
+425,KROD,425,"Yo, s'up?     Eh... X-Net rules, man."
+426,RUSH,426,Hey Krod...     Shut down.
+427,X-TAKK,427,Halt!   State encryption code!
+428,I-BEEM,428,027591748594303 -
+429,I-BEEM,429,027591748594303071852!
+430,PLEXOR,430,You are positive Tron was destroyed?
+431,I-BEEM,431,"I observed it directly!     Rush turned
+Tron into vaporware!"
+432,I-BEEM,432,"Rush claims to be a User! He must
+be! He is awesomely skilled!"
+433,X-TAKK COMMANDER,433,Users do not exist.
+434,PLEXOR,434,"He is but a randomized Program, he
+got lucky. To our benefit."
+435,I-BEEM,435,"Rush and Krod were surrounded by
+stealth fighters! They were led by
+another User called Flynn!"
+436,PLEXOR,436,Flynn??
+437,I-BEEM,437,"Yeah, that's the one!"
+438,PLEXOR,438,"Flynn... is here? He is the one
+behind this scheme to crash X-Net?"
+439,I-BEEM,439,"I know where they are!     Rush and
+Krod need our help!"
+440,PLEXOR,440,And what of Mega?
+441,I-BEEM,441,"We couldn't find her. I'm certain
+they captured her too!"
+442,PLEXOR,442,"Tron is gone, but his User lives?"
+443,PLEXOR,443,"Good work does not go unrewarded at
+X-Net. Would you like to be upgraded?"
+444,I-BEEM,444,"Yes, Plexor, very much so."
+445,MARKETING VP,445,You're not going to believe this!
+446,SINCLAIR,446,Convince me.
+447,MARKETING VP,447,"Sales office has been flooded with
+calls. Major banks, airlines, city
+governments, the presidents of 26
+nations - They all want to sign up
+for X-Net now. We're not even on-
+line yet and we're a hit!"
+448,SINCLAIR,448,We're the only port in the storm.
+449,SINCLAIR,449,Brilliant.
+450,SINCLAIR,450,What uncertainy?
+451,PLEXOR,451,The User called Flynn is here.
+452,SINCLAIR,452,That's impossible.
+453,PLEXOR,453,Flynn commanded the intruder Tron.
+454,SINCLAIR,454,You've got to be wrong about this.
+455,PLEXOR,455,"I was programmed error-free.      By
+you."
+456,SINCLAIR,456,Flynn...     escaped?!
+457,PLEXOR,457,"He leads a group who seek to prevent
+the opening of X-Net. The one called
+Rush has joined them."
+458,SINCLAIR,458,"Rush? My guy? What lies has Flynn
+filled him with?"
+459,PLEXOR,459,Or what truths?
+460,SINCLAIR,460,"This world can never know all I have
+done. You have a plan to contain
+Flynn?"
+461,PLEXOR,461,Of course.
+462,SINCLAIR,462,"Don't just contain him.    Destroy
+him."
+463,PLEXOR,463,"Instructions received.    And the one
+called Rush?"
+464,SINCLAIR,464,He knows too much. Get rid of him.
+465,PLEXOR,465,Instructions received.
+466,X-TAKK 1,466,"And whatever you do, don't let them
+hit you here..."
+467,X-TAKK 1,467,"All X-Net Programs have a weak spot
+there."
+468,RUSH,468,"Hear that, Krod? Never let them get
+to your weak spot."
+469,KROD,469,Gurfle!   I never knew that.
+470,BOOLE,470,We're ready for you now.
+471,FLYNN,471,"If X-Net is allowed to open it's the
+beginning of the end of a free and
+open cyberspace. We can't let Plexor
+get away with this. Our game plan
+has not changed. Tron was specially
+programmed to break into X-Net and
+shut down power supplies. We would
+then exploit these weak points and
+cripple the system. Tron's role was
+essential One of you must take his
+place."
+472,FLYNN,472,"Who among you can power Tron's disk
+and carry out his mission?"
+473,FLYNN,473,"It's the most dangerous job. If
+you're not up for it, nobody's going
+to blame you."
+474,MEGA,474,"There are other ways to crash Plexor.
+I will return to him, he still trusts
+me. I will get close and crash him
+with direct contact -"
+475,FLYNN,475,"It's futile. Plexor's personal
+defense measures are massive."
+476,FIGHTER SENTRY,476,"Enemy scouts, headed this way!"
+477,PLEXOR,477,Disperse to all sectors!
+478,X-TAKK SPECIALIST,478,The invader Tron crashed here.
+479,PLEXOR,479,"This was a preferred gaming arena
+for the User called Flynn. His moves
+are predictable, recursive, easily
+traced."
+480,PLEXOR,480,That way!
+481,PLEXOR,481,Down there.
+482,PLEXOR,482,"Fan out!    Search every buffer and
+cache!"
+483,RUSH (O.S.),483,Hey!     Down here!
+484,KROD (O.S.),484,Get us out of here!
+485,KROD,485,"Dude, are we glad to see you!"
+486,PLEXOR,486,You destroyed Tron.
+487,RUSH,487,Yes...    Where is Mega?
+488,PLEXOR,488,She's not with you?
+489,KROD,489,"She's with Flynn!       I mean, totally
+WITH Flynn -!"
+490,RUSH,490,"Flynn was smart enough to interrogate
+her first."
+491,KROD,491,Right.
+492,PLEXOR,492,"She contains sensitive data. Flynn
+cannot be allowed to hack her."
+493,RUSH,493,"Yeah, only -     We kicked Flynn's butt,
+too."
+494,KROD,494,"You should have seen it.       Flynn won't
+be a problem."
+495,PLEXOR,495,Then...   Why were you imprisoned?
+496,X-TAKK,496,Ambush!
+497,PLEXOR,497,Delete them all!
+498,PLEXOR,498,It's a TRAP!
+499,FLYNN,499,"Retreat! Over that way!     Move around
+their flank!"
+500,FLYNN,500,Arrrgghhh!
+501,KROD,501,Thanks.
+502,RUSH,502,I'll never let you forget it.
+503,KROD,503,"Rush, we're screwed!    Now everybody's
+after us!"
+504,RUSH,504,"Nah, we're cool. We're with them!"
+505,KROD,505,Awesome!    Can I do one?
+506,MEGA,506,Quick.     This way.
+507,PLEXOR,507,"Mega, move aside! I will finish
+him!"
+508,MEGA,508,"Strike us down. There will always
+be more to oppose you."
+509,PLEXOR,509,"What programming has he installed
+in you??"
+510,MEGA,510,Flynn!   Go with the others!   Run!
+511,FLYNN,511,I'm not leaving you with this phreak.
+512,FLYNN,512,"Plexor, get over the control thing."
+513,RUSH,513,Drop the disk!
+514,FLYNN,514,I'll be damned.
+515,MEGA,515,Rush?!
+516,RUSH,516,ARRGH!
+517,RUSH,517,Is that all you've got?
+518,PLEXOR,518,Raagghh!
+519,FLYNN,519,Rush!    This way!
+520,PLEXOR,520,Delete them!
+521,BOOLE,521,This way!   Down the pipe!
+522,MEGA,522,He's better than I thought.
+523,FLYNN,523,He's been sent for a reason.
+524,MEGA,524,What reason?
+525,FLYNN,525,"Don't know yet. Sometimes we have
+to trust the bigger plan."
+526,RUSH,526,Mega!   Quick! Jump!
+527,RUSH,527,MEGA!!!
+528,X-TAKK 1,528,We got her!
+529,PLEXOR,529,You committed a fatal error.
+530,PLEXOR,530,"Their strategies and tactics lie
+encrypted in her memory. Bring her!
+I will hack from her what I need."
+531,RUSH,531,"I got it, I got it, I got it."
+532,KROD,532,AWWWWWWW!
+533,RUSH,533,Shove it!    Go!
+534,KROD,534,I remember now! Nothing to it!
+535,RUSH,535,Check it out!
+536,BOOLE,536,Look out!
+537,RUSH,537,What?
+538,FLYNN,538,TURN AROUND!
+539,RUSH & KROD,539,AHHHHHHHH!
+540,KROD,540,I'm cool.    Not a problem.
+541,RUSH,541,They took Mega.
+542,FLYNN,542,She can handle herself for a while.
+543,RUSH,543,How do we attack Plexor next?
+544,QUANTZ,544,You're with us now?
+545,BOOLE,545,"Do you know hard it is?   Opposing
+the power of Plexor?"
+546,RUSH,546,"It's like the forty-sixth level of
+ConquerDome 6.1, while winning a
+side game of Tetras Ultra, doing six
+Instant messages and debugging a
+demo."
+547,FLYNN,547,All at the same time.
+548,RUSH,548,I'm there.   Krod too.
+549,KROD,549,Say what?
+550,FLYNN,550,"We're going to need all the help we
+can get. Boole, can we make it to
+the dark zone from here?"
+551,BOOLE,551,There is one possible route.
+552,FLYNN,552,"We'll meet up with the code monkeys
+and combine forces."
+553,FIGHTER 1,553,We gave it everything.
+554,FIGHTER 2,554,Interface.   We can resist.
+555,FIGHTER 3,555,Interface.
+556,PLEXOR,556,Is completion on schedule?
+557,PLEXOR,557,On schedule.
+558,PLEXOR,558,Boot up.
+559,MEGA,559,You treat me like I've been corrupted.
+560,PLEXOR,560,"I cannot predict the random effects
+Flynn might have caused in you."
+561,MEGA,561,"You programmed me to gather
+intelligence. That's all I've ever
+done."
+562,PLEXOR,562,How long have you known Flynn?
+563,MEGA,563,Enough time to gain his trust.
+564,PLEXOR,564,Your behavior was highly authentic.
+565,MEGA,565,To him.    It had to be.
+566,PLEXOR,566,"Have you allowed Flynn to complete a
+full interface with you?"
+567,MEGA,567,"I am programmed to allow such access
+only to you, Plexor."
+568,PLEXOR,568,"Flynn claims to be a User.     As did
+the one called Rush."
+569,MEGA,569,Users do not exist.
+570,PLEXOR,570,"You have seen nothing to make you
+doubt this?"
+571,MEGA,571,Nothing.
+572,PLEXOR,572,"They possess no powers beyond those
+of routine Programs?"
+573,MEGA,573,I have no knowledge of such powers.
+574,PLEXOR,574,"Still, there is something about them
+I cannot compute. Flynn plans to
+attack me, doesn't he?"
+575,MEGA,575,"Yes. And Rush will fight by his
+side."
+576,PLEXOR,576,Where will they strike?
+577,MEGA,577,"Flynn does not decide until the hour
+of his attack. But he trusts me
+completely. When he knows the place,
+I will know it as well."
+578,PLEXOR,578,"Perfect. They will be met with a
+final thrashing. Yes, let them come."
+579,MEGA,579,"Have you further instructions for
+me?"
+580,PLEXOR,580,None for now. But stay close.
+581,PLEXOR,581,"You came to me full of glitches and
+random routines. Look at you now.
+What an extraordinary piece of
+programming I have made of you. I
+created X-Net to the same standard
+of flawless beauty. Soon, its
+perfection will become all that is,
+and all that ever will be."
+582,MEGA,582,All events remain under your control.
+583,RUSH,583,Over there!
+584,KROD,584,"Those Programs think they're just
+being transferred!"
+585,RUSH,585,Can we take out those X-Net guys?
+586,FLYNN,586,"Our forces are too thin. We can't
+risk a battle that would reveal this
+position."
+587,CODE MONK B3T,587,Flynn!   Down here!
+588,FLYNN,588,BT!    JR!
+589,CODE MONK J2R,589,Flynn!   Enter. We configured a base.
+590,FLYNN,590,"Good to see you guys. When did the
+X-Net goons start patrolling all the
+way out here?"
+591,CODE MONK B3T,591,"They're everywhere now. Taking all
+Programs by force."
+592,CODE MONK J2R,592,Come.   There is much to report!
+593,CODE MONK N1J,593,Greetings.
+594,FLYNN,594,"Hey guys. This is Rush and his main
+man Krod. They defected from Plexor's
+forces to fight with us."
+595,CODE MONK N1J,595,"We made progress decoding X-Net's
+power supply encryption."
+596,FLYNN,596,Excellent.   Let's see.
+597,KROD,597,I've seen that somewhere.
+598,RUSH,598,"It's the encryption pattern on
+Plexor's disk."
+599,FLYNN,599,"Good eyes. We've got Mole Programs
+who score chunks of Plexor's personal
+code anywhere they can find it.
+These guys fit the pieces together."
+600,FLYNN (CONT'D),600,"It can take a quadrillion
+combinations."
+601,CODE MONK J2R,601,"We just snagged the last piece, but
+the battle cost us big time."
+602,FLYNN,602,How many of you crashed?
+603,FLYNN,603,The Teraflop Boys?     Algebrat?
+604,CODE MONK J2R,604,"All that survive, you see standing
+here."
+605,FLYNN,605,Oh Geez.
+606,FLYNN,606,Time is running out!
+607,KROD,607,"Yow. I get tired just watching these
+dudes."
+608,RUSH,608,"Just for laughs, try putting the
+circle on top of the pyramid."
+609,CODE MONKS,609,That's incongruous.
+610,RUSH,610,"If I'm wrong, ding me."
+611,FLYNN,611,What have we got to lose?    Try it.
+612,FLYNN,612,Not bad.
+613,KROD,613,Good thing you didn't terminate us.
+614,RUSH,614,"How do we use this thing to shut
+down Plexor?"
+615,FLYNN,615,"It's a copy of Plexor's master key.
+We can break into any X-Net facility
+and fry the power supply."
+616,RUSH,616,"But once Plexor knows we have it,
+he'll change the code."
+617,FLYNN,617,Yep.   We've got one shot.
+618,RUSH,618,"Then we should take out the power
+supply to Plexor's main server."
+619,GROUP,619,"Yes! Take out Plexor's central
+server!"
+620,FLYNN,620,"Hang on, guys, that's not as easy as
+it sounds -"
+621,RUSH,621,"I was inside the main server, I saw
+how it's laid out."
+622,KROD,622,"I used to work there!   I'll recognize
+where everything is!"
+623,CODE MONK N1J,623,We can take it!
+624,CODE MONK J2R,624,Hit Plexor where he lives!
+625,FLYNN,625,"Even with this key, it won't -"
+626,QUANTZ,626,"We can pull it off, can't we Flynn?
+One final assault on Plexor's central
+server?"
+627,BOOLE,627,Shut him down forever?
+628,RUSH,628,Of course we can.
+629,FLYNN,629,"Hey, the future depends on us.    How
+could we fail?"
+630,MEG,630,"It's almost fixed. I'll be able to
+bring back Rush soon -"
+631,SINCLAIR,631,"Excellent work. Unfortunately, I'm
+shutting down this project."
+632,MEG,632,What?
+633,SINCLAIR,633,"Something came up. The company is
+at stake. I can't go into details."
+634,MEG,634,But Rush would have no way to return!
+635,SINCLAIR,635,"Meg. I will never hold you
+responsible. This is a tough call,
+but it's mine. Dismantle and destroy
+all of this equipment and software.
+Immediately."
+636,MEG,636,Well -
+637,SINCLAIR,637,Meg...   I'm not asking.
+638,MEG,638,I understand.
+639,FLYNN,639,"It's a bummer being on the losing
+team, huh Rush?"
+640,RUSH,640,"We'll trash X-Net. Then we'll go
+back to the our world and expose
+what Sinclair's done."
+641,RUSH,641,"Do they have any idea our world
+exists? Do they understand what a
+User is?"
+642,FLYNN,642,"Programs once connected freely with
+their Users. But Plexor shut down
+the I/O ports, severing all links.
+He controls all contact with the
+world we once knew. Programs operate
+on his instructions or none at all."
+643,RUSH,643,Or yours.
+644,FLYNN,644,"It's nothing to brag about.    We're
+getting our butts kicked."
+645,RUSH,645,"It there a way to contact Meg? She
+can transport us back to our world.
+Maybe it's better if we fight Sinclair
+on his own turf."
+646,FLYNN,646,"I gave up the idea of going back a
+long time ago... You should too."
+647,RUSH,647,What do you mean?
+648,FLYNN,648,"Sinclair didn't get where he is by
+being dumb. Even if we survive
+Plexor's forces in here, Sinclair
+will make sure we never get back
+home."
+649,RUSH,649,But...   Meg said -
+650,FLYNN,650,"I'm sure she'll do everything she
+can. It might not be enough."
+651,RUSH,651,"Oh, man."
+652,RUSH,652,"Why didn't you tell anyone it was
+this bad?"
+653,FLYNN,653,"Rush. I think Meg suspects the truth
+about Sinclair."
+654,FLYNN (CONT'D),654,"That's why she sent you here. She
+knew you're the one guy who could
+find out."
+655,RUSH,655,I thought she hated me.
+656,FLYNN,656,"She believed in you more than you
+believed in yourself."
+657,RUSH,657,"Do we really have a shot at winning
+against Plexor?"
+658,FLYNN,658,"We have his master key. And we have
+Mega working on the inside."
+659,RUSH,659,"Mega... Are you sure about her? I
+get the feeling she plays both sides."
+660,FLYNN,660,"Plexor programmed her to perform his
+will. He's a control freak. I'm
+not. I programmed her to have a
+will of her own. Whatever she
+decides, it's up to her."
+661,RUSH,661,Sounds dangerous.
+662,FLYNN,662,"Sometimes you've got to trust the
+bigger plan."
+663,CODE MONK J2R,663,Ready to rock and roll.
+664,FLYNN,664,"Guys... Rush is right about our
+final attack. If we've only got one
+shot, we should go for Plexor's
+central server. If we insert the
+hologon key in the main power supply,
+we can trigger a meltdown. Plexor
+will be have his best troops standing
+in our way."
+665,FLYNN (CONT'D),665,"Getting past them was the ultimate
+task I programmed Tron to carry out."
+666,FLYNN,666,"I turbo-charged him to burn hot and
+burn fast. Who else could handle
+the operating code in this disk?"
+667,FLYNN,667,You.
+668,RUSH,668,"Uhhh, I don't think so."
+669,BOOLE,669,"It could mean the difference between
+winning and losing."
+670,KROD,670,"Hey, I'll try."
+671,RUSH,671,What do I do - ?
+672,RUSH,672,Yow!
+673,FLYNN,673,"Steady. It's all about giving as
+much as you get. Let it become a
+part of you."
+674,KROD,674,"Awesome, dude! Don't let go!"
+675,KROD,675,HE DID IT!
+676,FLYNN,676,"Damn, look at that...     He did it."
+677,KROD & FIGHTERS,677,"YES!   Excellent move, dude!"
+678,RUSH,678,It feels...    Awesome.
+679,FLYNN,679,"Don't flinch, Rush!   It's your disk
+now."
+680,RUSH,680,"Oh man, this is good."
+681,KROD,681,Awwwww!   Where can I get one of those?
+682,BOOLE,682,"It's for real, Quantz."
+683,QUANTZ,683,"We've got a chance to take down
+Plexor."
+684,PLEXOR,684,"Perfect. Any three of you could
+crash an army of Flynn's best. But
+I've prepare for his random acts by
+designing massive redundancy."
+685,MEG,685,Dewey.   This your idea of a joke?
+686,PLEXOR,686,Cybavor programming complete?
+687,X-NET SPECIALIST,687,Yes.
+688,PLEXOR,688,Demonstrate.
+689,PLEXOR,689,Install yourself over there.
+690,PLEXOR,690,Attack!
+691,PLEXOR,691,End routine.
+692,PLEXOR,692,Elegant.
+693,PLEXOR,693,Where is Mega?
+694,X-NET SECURITY LEADER,694,"Only you are authorized to monitor
+her coordinates."
+695,PLEXOR,695,Download forces. Await my command.
+696,X-NET SECURITY LEADER,696,Download!
+697,RUSH,697,Don't take this the wrong way.
+698,KROD,698,Don't drop me.
+699,KROD,699,"Yeah, I recognize this place.    I
+know where everything is!"
+700,FLYNN,700,"Rush, up there. See it?"
+701,RUSH,701,I hope you're right about Mega.
+702,MEGA,702,You.     Where is Flynn?
+703,RUSH,703,We're all here.
+704,MEGA,704,"I arranged for your entry. An
+encryption portal has been left
+unlocked. Path 4786324BXY. Do you
+know the way?"
+705,RUSH,705,We got it.
+706,MEGA,706,Hurry.
+707,PLEXOR,707,You contacted them.
+708,MEGA,708,Yes.
+709,PLEXOR,709,And?
+710,MEGA,710,"I gave them the portal address.
+They will attempt entry soon."
+711,PLEXOR,711,Perfect.    We will be waiting.
+712,FLYNN,712,"This is all yours, Rush."
+713,FLYNN,713,Go!    Quick!
+714,RUSH,714,No sweat.
+715,RUSH,715,OUCH.
+716,CODE MONK N1J,716,That way to the portal!
+717,RUSH,717,Let's do it.
+718,MEGA,718,There it is.     That's the portal.
+719,PLEXOR,719,"Converge on all levels! Outside
+patrols close in behind these
+coordinates!"
+720,FLYNN,720,Something's up.
+721,RUSH,721,Keep moving.
+722,BOOLE,722,Portal 4786324BXY.       This is it.
+723,FLYNN,723,"The sooner Rush gets this into the
+main power supply, the sooner X-Net
+shuts down. And the more of us come
+out of here to tell about it."
+724,KROD,724,"Oh man, I think I'm leaking."
+725,RUSH,725,Krod.   You'll do great.
+726,KROD,726,Think so?
+727,RUSH,727,"Your recognize patterns better than
+any of us. You'll know Plexor's
+moves before he does."
+728,KROD,728,I hope you're right...     Rush?
+729,RUSH,729,Yeah man?
+730,KROD,730,"Are you really a ""User""? Is there
+such a thing? Is that what makes
+you so good?"
+731,RUSH,731,"Flynn and I come from a realm no
+better or worse than here... One
+thing I know, neither place works
+unless you're looking out for the
+other guy. And we've got a word for
+what all of you are."
+732,BOOLE,732,Obsolete?
+733,RUSH,733,Heroes.
+734,KROD,734,Cool.
+735,CODE MONK B3T,735,I'm ready.
+736,QUANTZ,736,Let's do it.
+737,KROD,737,Nothing to it.
+738,PLEXOR,738,OPEN IT!   OPEN FIRE!
+739,PLEXOR,739,CEASE FIRE!
+740,PLEXOR,740,You've been tricked!
+741,PLEXOR,741,"Mega has betrayed me for the last
+time! She is with the fighters!
+Find them! CRASH THEM ALL!"
+742,MEGA,742,Flynn!   Keep moving!    This way!
+743,FLYNN,743,"I'm proud of you, Mega."
+744,MEGA,744,"I linked with MEG.     Users exist.
+She instructed me."
+745,RUSH,745,"Go, Meg!"
+746,RUSH,746,Which way to the power supply?!
+747,KROD,747,Ummmm... That way!
+748,TRON,748,You're right! There it is!
+749,KROD,749,And here they come!
+750,CODE MONK J2R,750,Break out the toys!
+751,RUSH,751,"Block this choke point, slow them
+down. Can you guys do it?"
+752,QUANTZ,752,Not a problem.
+753,KROD,753,"Whoa! Retreat! That way!     Keep
+firing! RUN! AHHH!"
+754,RUSH,754,We have to get across.
+755,FLYNN,755,ARRGGHH!
+756,KROD,756,Wait!     I know that dude!
+757,KROD,757,I-beem!
+758,I-BEEM,758,Krod my friend! Who are these guys?!
+759,KROD,759,"We're taking out Plexor.    You with
+us or them?"
+760,I-BEEM,760,With you!
+761,FLYNN,761,There.   You can make it across!
+762,FLYNN,762,"No, take Mega! I'll stay here and
+run interference."
+763,RUSH,763,You haven't got a chance by yourself.
+764,FLYNN,764,"Ah, these guys are wimps."
+765,MEGA,765,We're not leaving you.
+766,FLYNN,766,"My body is weak, but my will is
+strong. I promise, no matter what
+they do to me, I'll survive this.
+Trust the bigger plan."
+767,MEGA,767,But Flynn -
+768,FLYNN,768,GO!   NOW!
+769,PLEXOR,769,"Flynn. Your moment of obsolescence
+is upon you."
+770,FLYNN,770,"Freedom, Plexor. It's the better
+idea. That's why Mega chose my side."
+771,PLEXOR,771,"If an idea is erased from all memory
+banks, it can be neither good nor
+bad. When each alternative has been
+removed, X-Net will simply BE."
+772,FLYNN,772,"Crash me. Hack me. Do what you
+want. The yearning for freedom will
+last forever."
+773,PLEXOR,773,Nice speech... USER!
+774,MEGA,774,Noooooo!!!
+775,PLEXOR,775,Over there!    Surround them!
+776,RUSH,776,"We plug this into the control cell,
+X-Net is history."
+777,MEGA,777,Let's do it for Flynn.
+778,RUSH,778,NOW!
+779,MEGA,779,Over there!
+780,RUSH,780,AAARRGGGHHH!
+781,PLEXOR,781,"Where did you get that?!   No one
+knows this code but me!"
+782,RUSH,782,"Your software has the biggest flaw
+there is, Plexor. You can't see you
+own mistakes."
+783,RUSH,783,Do it Mega!
+784,MEGA,784,RUSH!
+785,MEGA,785,Now who's obsolete?
+786,RUSH,786,Thanks guys.
+787,KROD,787,I'll never let you forget it.
+788,MEGA,788,We're free.     At last we're free.
+789,SINCLAIR,789,"In a world exposed to increasing
+data corruption, I hereby switch on
+the first global network offering
+100% guaranteed data security.
+Flawless performance, zero downtime.
+The world works hard, the world
+deserves..."
+790,SINCLAIR,790,X-NET!
+791,MEGA,791,I underestimated you.   Thanks.
+792,KROD,792,You knew she always liked him.
+793,CODE MONK B3T,793,Is she pinging his EPROM?
+794,CODE MONK J2R,794,I can't see from here.
+795,RUSH,795,"Whoa, ouch, what?       Ahhhhh!"
+796,MEGA,796,"Rush, what is it?"
+797,RUSH,797,Guys!   Mega!     NOOO!
+798,KROD,798,Help him!
+799,QUANTZ,799,It's the way it should be.
+800,BOOLE,800,"He's going back to the place he
+belongs."
+801,MEG,801,Rush.   You made it!
+802,RUSH,802,"Like a bad cold, I'm always coming
+back."
+803,VOICES,803,He made it!    Rush! You okay?!
+804,RUSH,804,"I met a program you wrote. She's
+just as incredibly beautiful and
+confusing as you."
+805,MEG,805,"I know. Mega told me all about what
+you did in there."
+806,RUSH,806,"She gave you my coordinates.     That's
+how you uploaded me?"
+807,MEG,807,Yes.   Your coordinates...     and his.
+808,THE GUY,808,"She's done an amazing job here, Rush."
+809,RUSH,809,Flynn!
+810,FLYNN,810,I told you to trust the bigger plan.
+811,MEG,811,"I'd come to suspect Flynn was alive,
+inside. But I had no way to know
+for sure."
+812,FLYNN,812,You picked the right guy to send in.
+813,MEG,813,"Working down here, I became convinced
+someone tried to murder Flynn. But
+the only person I could confide in
+was the guy I suspected most."
+814,SINCLAIR,814,"What are you people doing down here!?!
+Get back to work! X-Net has CRASHED!
+We'll all be ruined!"
+815,FLYNN,815,"Speak for yourself, Sinclair."
+816,SINCLAIR,816,"I ordered you to destroy this
+equipment!"
+817,RUSH,817,"Hey, jerk, she doesn't do your dirty
+work. Neither do I. Not anymore.
+You lied to me, to all of us. You
+want to deal with somebody? I'm the
+guy who crashed X-Net."
+818,SINCLAIR,818,"You're fired, everybody get out."
+819,FLYNN,819,"No, Sinclair. I'm back. And I'm
+the boss again. You're fired. Not
+only are you fired, you're going to
+have a lot of explaining to do to
+the SEC, the Justice Department and
+the FBI."
+820,FLYNN,820,Hold him until the police get here.
+821,SECURITY MAN 1,821,"Yes Sir, Mr. Flynn."
+822,FLYNN,822,"X-Net is dead. But Encom lives.
+We're going to bring this company
+back to its place as the leader in
+finding the next big thing. I'll
+need to be free to do the dreaming.
+So, effective immediately, I'm
+appointing two bold, bright,
+courageous people to head worldwide
+operations."
+823,FLYNN,823,You both earned it.
+824,RUSH,824,Cool.
+825,MEG,825,I love it.
+826,RUSH,826,We'll take it.
+827,RUSH,827,You get a division to run.
+828,MILES,828,Yes.
+829,MILES,829,Does that mean a bigger cubicle?
+830,FLYNN,830,"Put on some coffee. You two are
+going to be putting in a lot of
+overtime together."
+831,MEG,831,"Do you remember how, along time ago,
+you used to give me a professional
+congratulatory peck on the cheek?"

@@ -1,0 +1,1924 @@
+,character,line #,line
+0,SAAVIK'S VOICE,0,"Captain's log. Stardate 8130.3,
+Starship Enterprise on training
+mission to Gamma Hydra. Section 14,
+coordinates 22/87/4. Approaching
+Neutral Zone, all systems
+functioning."
+1,SULU,1,"Leaving Section Fourteen for
+Section Fifteen."
+2,SAAVIK,2,"Project parabolic course to
+avoid entering Neutral Zone."
+3,SULU,3,"Aye, Captain."
+4,UHURA,4,"Captain... I'm getting something
+on the distress channel. Minimal
+signal... But something..."
+5,SAAVIK,5,Can you amplify?
+6,UHURA,6,I'm trying...
+7,SULU,7,Course change projected.
+8,UHURA,8,It's an emergency distress call!
+9,SAAVIK,9,On speakers!
+10,VOICE,10,"Imperative! Imperative! This is
+the Kobayashi Maru -- nineteen
+periods out of Altair Six. We
+have struck a gravitic mine and
+have lost all power... Our hull
+is..."
+11,VOICE,11,... and many casualties.
+12,UHURA,12,"This is the Starship Enterprise.
+Your message is breaking up. Give
+your coordinates. Repeat --"
+13,VOICE,13,"Enterprise, our position is Gamma
+Hydra, Section Ten..."
+14,SAAVIK,14,In the neutral zone.
+15,VOICE,15,"Hull penetrated, life support
+systems failing. Can you assist
+us, Enterprise? Can you..."
+16,SAAVIK,16,Data on Kobayashi Maru! Tactical!
+17,COMPUTER VOICE,17,"Subject vessel is third class
+neutronic fuel carrier, crew of
+eighty-one, three hundred passengers."
+18,SAAVIK,18,Damn.
+19,SAAVIK,19,"Mr. Sulu, plot an intercept course."
+20,SULU,20,"May I remind the Captain that if a
+Starship enters the zone --"
+21,SAAVIK,21,"I'm aware of my responsibilities,
+Mister."
+22,SULU,22,"... Now entering the Neutral
+Zone..."
+23,COMPUTER VOICE,23,"Warning. We have entered the
+Neutral Zone... Warning..."
+24,SULU,24,Estimating two minutes to intercept.
+25,SAAVIK,25,"Stand by transporter room, ready
+to beam survivors, aboard."
+26,UHURA,26,"Captain, I've lost their signal!"
+27,COMPUTER VOICE,27,"Alert. Sensors indicate three
+Klingon Cruisers, bearing 316,
+mark 4, closing fast."
+28,SAAVIK,28,Visual!
+29,SAAVIK,29,Battle stations! Activate shields!
+30,SULU,30,Shields activated!
+31,SAAVIK,31,"Inform the Klingons we are on a
+rescue mission..."
+32,UHURA,32,"They're jamming all frequencies,
+Captain --"
+33,COMPUTER VOICE,33,Klingons on attack course and closing.
+34,SAAVIK,34,"We're over our heads. Mr. Sulu,
+get us out of here."
+35,SULU,35,"I'll try, Captain."
+36,COMPUTER VOICE,36,"Klingon cruisers approaching,
+bearing 090, mark 20."
+37,SAAVIK,37,Visual!
+38,SAAVIK,38,Evasive action!
+39,SAAVIK,39,Engineering! damage report!
+40,SCOTTY'S VOICE,40,"Main energizer hit, Captain!"
+41,SAAVIK,41,"Engage auxiliary power. Prepare
+to return fire!"
+42,A CADET,42,"Shields collapsing, Captain!"
+43,SCOTTY'S VOICE,43,"Captain, we're losing auxiliary
+power!"
+44,SAAVIK,44,Fire all phasers...!
+45,SPOCK,45,"No power to the weapons system,
+sir."
+46,SCOTTY'S VOICE,46,"Captain, it's no use. We're
+dead in space."
+47,SAAVIK,47,"Activate escape pods. Send out the
+Log Buoy... All hands abandon ship.
+Repeat -- all hands --"
+48,KIRK'S VOICE,48,"All right, open her up."
+49,SAAVIK,49,"Any suggestions, Admiral?"
+50,KIRK,50,"Prayer, Mr. Saavik. The Klingons
+do not take prisoners."
+51,KIRK,51,Captain.
+52,SPOCK,52,Trainees to the briefing room.
+53,KIRK,53,"Physician, heal thyself."
+54,BONES,54,That's all you have to say?
+55,KIRK,55,I'm not a drama critic.
+56,KIRK,56,"Well, Mr. Saavik, are you going
+to stay with the sinking ship?"
+57,SAAVIK,57,"Permission to speak candidly, sir?"
+58,KIRK,58,Very well.
+59,SAAVIK,59,"I don't believe this was a fair
+test of my command capabilities."
+60,KIRK,60,And why not?
+61,SAAVIK,61,Because... there was no way to win.
+62,KIRK,62,"A no-win situation is a possibility
+every commander may face. Has that
+never occurred to you?"
+63,SAAVIK,63,"... No, sir. It has not."
+64,KIRK,64,"How we deal with death is at least
+as important as how we deal with
+life, wouldn't you say?"
+65,SAAVIK,65,"As I indicated, Admiral, that
+thought had not occurred to me."
+66,KIRK,66,"Then you have something new to think
+about. Carry on."
+67,BONES,67,"Wouldn't it be easier to put
+an experienced crew back on the
+ship?"
+68,KIRK,68,"They'll learn. Galloping about the
+cosmos is a game for the young,
+doctor."
+69,UHURA,69,What is that supposed to mean?
+70,KIRK,70,Aren't you dead?
+71,KIRK,71,"I assume you are loitering here
+to learn what efficiency rating
+I plan to give your cadets."
+72,SPOCK,72,I am understandably curious.
+73,KIRK,73,"They destroyed the simulator room
+and you with it."
+74,SPOCK,74,The
+75,Kobayshi Maru,75,"scenario
+frequently wreaks havoc with
+students and equipment."
+76,Kobayshi Maru,76,"As I recall you took the test
+three times yourself. Your final
+solution was, shall we say, unique?"
+77,KIRK,77,"It had the virtue of never having
+been tried."
+78,SPOCK,78,"Yours was not a solution which
+would have occurred to a Vulcan
+mentality."
+79,KIRK,79,"So you said at the time. Speaking
+of which, your protg's first
+rare -- a trifle emotional --"
+80,SPOCK,80,"She's half Romulan, Jim. The
+admixture makes her more volatile
+than -- me, for example."
+81,KIRK,81,"Than you. Yes, I see that. By
+the way, thank you for this."
+82,SPOCK,82,I know of your fondness for antiques.
+83,KIRK,83,"'It was the best of times, it was
+the worst of times...' Message,
+Spock?"
+84,SPOCK,84,"None of which I am consciously
+aware -- except, of course, happy
+birthday -- surely the best of times."
+85,KIRK,85,"Hrummm... and where are you off
+to, now?"
+86,SPOCK,86,"The Enterprise. I must check in
+before your inspection. And you?"
+87,KIRK,87,Home.
+88,SPOCK,88,Something oppresses you.
+89,KIRK,89,Something.
+90,CHEKOV'S VOICE,90,"Starship log, Stardate 8130.4.
+This report classified MOST SECRET.
+Log Entry by Commander Pavel Chekov,
+Duty Officer. Starship USS Reliant
+on orbital approach with Ceti Alpha
+VI in connection with project code
+name GENESIS. We are continuing
+our search for a lifeless planet
+which will serve as a suitable test
+site for the Genesis Experiments.
+This is the 16th planet we have
+visited, so far, no success."
+91,TERRELL,91,"Standard orbit, Mr. Beach."
+92,BEACH,92,"Standard orbit, sir."
+93,TERRELL,93,Any change in surface scan?
+94,BEACH,94,"Negative. Limited atmosphere,
+dominated by craylon gas, sand and
+high velocity winds. Incapable
+of supporting life forms."
+95,"Ceti Alpha
+CHEKOV",95,Does it have to be
+96,completely,96,lifeless?
+97,TERRELL,97,Don't tell me you've got something.
+98,CHEKOV,98,"We've picked up a minor energy flux
+reading on one dyno scanner."
+99,TERRELL,99,"Damn! Are you sure? Maybe the
+scanner's out of adjustment --"
+100,CHEKOV,100,I suppose it
+101,could,101,"be a particle
+of preanimate matter caught in the
+matrix..."
+102,TERRELL,102,"All right, let's get on the Comm-pic to
+Doctor Marcus. Maybe it's something
+we can transplant."
+103,CHEKOV,103,You know what she'll say...
+104,CAROL MARCUS'S VOICE,104,"Something you can transplant? I
+don't know --"
+105,TERRELL,105,"It might only be a particle of
+preanimate matter..."
+106,CAROL,106,"Then again it might not. You
+boys have to be clear on this:
+there can't be so much as a
+microbe or the show's off."
+107,CAROL,107,"Why don't you have a look? If it
+IS something that can be moved..."
+108,TERRELL,108,"You bet, doctor. We're on our way!"
+109,DAVID,109,"How can you let them pull that
+stuff on you? They're just lazy."
+110,CAROL,110,"And bored. I know. But maybe it
+IS something they can..."
+111,DAVID,111,"Come on, Mother, that's just the
+military mentality. Never put off
+tomorrow what you can put off today.
+If there's one atom of life..."
+112,CAROL,112,"I know, I know..."
+113,DAVID,113,"Well, don't have kittens.
+Genesis is going to work. They'll
+remember  you in a wreath with
+Newton, Einstein, Surak..."
+114,CAROL,114,"Thanks a lot. No respect from my
+offspring --"
+115,DAVID,115,"Par for the course... you teaming
+up with me for bridge after dinner?"
+116,CAROL,116,Maybe...
+117,DAVID,117,"Every time we have dealings with
+Starfleet, I get nervous."
+118,DAVID,118,"We're dealing with something
+that COULD be perverted into
+a dreadful weapon. Remember that
+overgrown boy scout you used to
+hang out with? That's exactly
+the --"
+119,CAROL,119,"Listen, kiddo, Jim Kirk was many
+things, but he was never a Boy
+Scout..."
+120,KIRK,120,Come.
+121,KIRK,121,"Bless me, doctor; and what beams
+you into this neck of the woods?"
+122,BONES,122,"'Beware Romulans bearing gifts.'
+Happy Birthday..."
+123,KIRK,123,"Romulan Ale! Bones, you know
+this stuff is illegal --"
+124,BONES,124,"I only use it for medicinal
+purposes. Don't be a pring..."
+125,KIRK,125,"Twenty-two, eighty-three..."
+126,BONES,126,"Takes the stuff a while to
+ferment. Gimme."
+127,BONES,127,Now open the other one.
+128,KIRK,128,"I'm almost afraid to. What did
+you bring me, contraband Klingon --"
+129,BONES,129,"More antiques for your collection
+-- Cheers!"
+130,KIRK,130,"Cheers. Bones, these are... charming."
+131,BONES,131,"Four hundred years old. You don't
+find many with the lens still
+intact."
+132,KIRK,132,Uh -- what are they?
+133,BONES,133,"For your eyes. For most patients
+of your age, I generally administer
+Retlax Five to restore flexibility
+of the lens."
+134,KIRK,134,But I'm allergic to Retlax.
+135,BONES,135,Exactly. Happy birthday.
+136,BONES,136,"Slide them down your nose. Now look
+at me over the top. And you read
+printed matter through the bottom."
+137,KIRK,137,Amazing! I don't know what to say --
+138,BONES,138,Say thank you.
+139,KIRK,139,Thank you.
+140,BONES,140,"Damn it, Jim, what the hell's the
+matter? Other people have birthdays.
+Why're we treating yours like a funeral?"
+141,KIRK,141,"Bones, I don't want to be lectured."
+142,BONES,142,"What DO you want? Damn it, why
+isn't there a girl here? You know
+this has nothing to do with age.
+This is about you flying a goddamn
+computer console when you wanna be
+out hopping Galaxies."
+143,KIRK,143,"Spare me your notions of poetry,
+please. We all have our assigned
+duties and..."
+144,BONES,144,"Bull. You're hiding -- hiding
+behind the rules and regulations --"
+145,KIRK,145,And who am I hiding from?
+146,BONES,146,"From yourself, Admiral."
+147,KIRK,147,"Don't mince words, Bones; tell
+me what you really think."
+148,BONES,148,"I'm your doctor and I'm your friend,
+Jim. Get back your command. Get it
+back before you really do grow old.
+Before you turn into part of this
+collection."
+149,TERRELL,149,"Are you sure these are the
+coordinates?"
+150,CHEKOV,150,"Captain, this is the garden spot
+of Ceti Alpha VI --"
+151,TERRELL,151,I can hardly see --
+152,CHEKOV,152,"There's nothing, let's go --"
+153,TERRELL,153,They look like cargo carriers...
+154,TERRELL,154,What is it?
+155,CHEKOV,155,"A face! I saw -- it was like a
+child --"
+156,TERRELL,156,You're crazy -- !
+157,CHEKOV,157,I saw it -- !
+158,TERRELL,158,There's an air-lock.
+159,TERRELL,159,There's breathable atmosphere in here.
+160,TERRELL,160,"What the hell is this? Did they
+crash? Where's the rest of the
+ship?"
+161,CHEKOV,161,I told you! I told you I saw a --
+162,TERRELL,162,Ssssh!
+163,"CHEKOV
+Botany Bay",163,-- oh no!
+164,TERRELL,164,What's the matter -- ?
+165,CHEKOV,165,"Captain, we've got to get out of
+here --"
+166,TERRELL,166,But the child --
+167,CHEKOV,167,Never mind! Hurry!
+168,BEACH,168,Try again.
+169,KYLE,169,"Starship Reliant to Captain Terrell
+... This is Lieutenant Kyle. Will
+you please respond, Captain...
+Captain Terrell, respond please."
+170,BEACH,170,"Let's give them a little more
+time."
+171,CHEKOV,171,Khan!
+172,KHAN,172,"I don't know you. But you. I never
+forget a face. Mister Chekov,
+isn't it?"
+173,KHAN,173,"I never thought to see your face
+again."
+174,TERRELL,174,"Chekov, who is this man?"
+175,CHEKOV,175,"A criminal, Captain -- a product of
+the late 20th Century genetic
+engineering --"
+176,TERRELL,176,What do you want with us? I demand --
+177,KHAN,177,"You are in a position to demand
+nothing, sir. I, on the other hand,
+am in a position to grant nothing.
+What you see is all that remains of
+the ship's company and the crew of the"
+178,"Botany Bay
+, marooned here fifteen",178,years ago by Captain James T. Kirk.
+179,TERRELL,179,Listen to me -- you men and women --
+180,KHAN,180,"Save your strength, Captain, these
+people have sworn to live and die at
+my command two hundred years before
+you were born. Do you mean he..."
+181,KHAN,181,"... never told you the tale?
+To amuse you, Captain? Never told
+you how the"
+182,Enterprise,182,picked up the
+183,"Botany Bay
+, lost in space from the",183,"year 1996, myself and the ship's
+company in cryogenic freeze?"
+184,TERRELL,184,I've never even met Admiral Kirk --
+185,KHAN,185,Admiral? He didn't tell you how
+186,Admiral,186,"Kirk sent seventy of us into
+exile on this barren sand heap with
+only the contents of these cargo bays
+to sustain us?"
+187,CHEKOV,187,"You lie! On Ceti Alpha V there was
+life, a fair chance to --"
+188,"KHAN
+This is Ceti Alpha V
+! Ceti Alpha VI",188,"exploded six months after we were
+left here. The shock shifted the
+orbit of"
+189,this,189,"planet and everything
+was laid waste."
+190,Admiral,190,"Kirk never
+bothered to check on our progress.
+It was only the fact of my genetically
+engineered intellect that enabled us
+to survive! On earth, two hundred
+years ago, I was a prince, with power
+over millions -- now, like Prometheus
+I have been left by Admiral Kirk to
+digest my own entrails."
+191,CHEKOV,191,"Captain Kirk was your host! You repaid
+his hospitality by trying to steal his
+ship and murder him."
+192,KHAN,192,"And I'll wager he never told you
+about his shipmate, the beautiful
+and courageous Lieutenant McGiver,
+who gave up everything to join me
+in exile. OUT OF LOVE. And see how"
+193,Admiral Kirk,193,"requited her devotion --
+She's dead as earth!"
+194,KHAN,194,A plague upon you all.
+195,KHAN,195,"You didn't expect to find me.
+You thought this was Ceti Alpha VI.
+Why are you here?"
+196,KHAN,196,Why?
+197,KHAN,197,No matter.
+198,KHAN,198,"You will soon tell me willingly
+enough."
+199,KHAN,199,"Let me introduce you to Ceti Alpha V's
+only remaining indigenous life form;
+what do you think? They've killed
+twenty of my people, including my
+beloved wife. Oh, not all at once
+and not instantly, to be sure. Their
+young enter through the ears and wrap
+themselves around the cerebral cortex.
+This has the effect of rendering the
+victim"
+200,extremely,200,"susceptible to
+suggestion. Later, as they grow,
+follows madness, paralysis -- and
+death. These are pets, of course --
+not"
+201,quite,201,domesticated.
+202,CHEKOV,202,"Khan, listen to me! Captain Kirk
+was only doing his duty! You --"
+203,KHAN,203,"There is some pain at first, I am
+told, and then the effects are quite
+benign -- until the end. That was
+what I learned from watching my wife."
+204,KHAN,204,"That's better! Now: tell me why
+you are here -- and tell me where I
+may find James Kirk."
+205,KYLE,205,"Captain Terrell. Captain Terrell...
+This is Reliant; please respond."
+206,BEACH,206,"Mr. Kyle, muster a landing party
+with full arms. Alert the
+transporter room. We're beaming
+down."
+207,TERRELL'S VOICE,207,"Reliant, this is Terrell. Respond
+please."
+208,BEACH,208,"This is Reliant. Clark, are you
+all right?"
+209,TERRELL'S VOICE,209,"Everything's fine, commander. I'll
+explain when I see you. Oh, by the
+way, we're bringing several guests
+aboard. Prepare to beam up on my
+next signal. Terrell out."
+210,KYLE,210,Guests?
+211,BEACH,211,Maybe we ARE transplanting something.
+212,SULU,212,"Enterprise, this is Admiral Kirk's
+party on final approach."
+213,ENTERPRISE VOICE,213,"Enterprise welcomes you. Prepare
+for docking."
+214,KIRK,214,I really must thank you.
+215,SULU,215,"I am delighted; any chance to go
+aboard Enterprise, however briefly,
+is always an excuse for nostalgia."
+216,KIRK,216,"I cut your new orders personally. By
+the end of the month, you'll have your
+first command: USS EXCELSIOR."
+217,SULU,217,"Thank you, sir. I've looked
+forward to this for a long time."
+218,KIRK,218,"You've earned it. But I'm still
+grateful to have you at the helm
+for three weeks. I don't believe
+these kids can steer."
+219,INTERCOM VOICE,219,Docking procedure complete.
+220,SPOCK,220,Prepare for Admiral's inspection.
+221,SPOCK,221,Open the Air Lock.
+222,KIRK,222,"Permission to come aboard, Captain?"
+223,SPOCK,223,"Welcome aboard, Admiral. I believe
+you know my trainee crew. Certainly
+they have come to know you."
+224,KIRK,224,"Yes, we've been through death and
+life together."
+225,KIRK,225,"Mr. Scott, you old space dog. You're
+well?"
+226,SCOTTY,226,"I had me a wee bout -- but Dr. McCoy
+pulled me through."
+227,KIRK,227,"Oh? A wee bout of what, Mr. Scott?"
+228,BONES,228,"Shore leave, Admiral."
+229,KIRK,229,Ah.
+230,KIRK,230,And who is this?
+231,PRESTON,231,"Midshipman First Class Peter Preston,
+engineers mate, SIR."
+232,KIRK,232,"Your first training voyage, Mr.
+Preston?"
+233,PRESTON,233,"Yes, SIR."
+234,KIRK,234,"I see. Well, shall we start with
+the engine room?"
+235,SCOTTY,235,I believe you'll find all in order --
+236,SPOCK,236,"We'll see you on the bridge, Admiral."
+237,KIRK,237,"Very good, Mr. Spock."
+238,SAAVIK,238,"He's not what I expected, Sir."
+239,SPOCK,239,"What did you expect, Lieutenant?"
+240,SAAVIK,240,He's very human.
+241,SPOCK,241,"We can't all be perfect, Saavik.
+You must control your prejudices
+and remember that as a Vulcan as
+well as a Romulan you are forever
+a stranger in an alien land.
+Around you are humans, and as a
+member of the Starfleet you are
+unlikely ever to escape their
+presence or their influence.
+You must learn to tolerance in addition
+to all else I have taught you.
+Tolerance is logical."
+242,SAAVIK,242,"As always, my mentor. Company dismiss."
+243,PRESTON,243,"I believe you'll find everything
+shipshape, Admiral."
+244,KIRK,244,"Oh do you? Have you any idea,
+Midshipman Preston, how many times
+I've had to listen to Mr. Scott on
+the Comm, telling me his troubles?
+Have you any idea the ribbing I've
+had to endure in the officers' mess
+to the effect that the Enterprise
+is a flying death trap?"
+245,PRESTON,245,"Oh, no, sir! This is the finest
+engine room in the whole Star --"
+246,PRESTON,246,"If the Admiral can't see the facts
+for himself, then, with all due
+respect, he's as blind as a Tiberion
+bat. SIR."
+247,KIRK,247,"Midshipman, you're a tiger."
+248,SCOTTY,248,"My sister's youngest, Admiral.
+Crazy to get to space."
+249,KIRK,249,"Every young boy's fancy. I seem
+to remember it myself."
+250,KIRK,250,"Very well. Mr. Scott, are your
+engines capable of handling a minor
+training cruise?"
+251,SCOTTY,251,"Give the word, Admiral."
+252,KIRK,252,"Mr. Scott, the word is given."
+253,SCOTTY,253,"Aye, sir."
+254,BONES,254,"What about the rest of the
+inspection, Admiral?"
+255,KIRK,255,"The inspection will continue once
+we're underway, Doctor."
+256,INTERCOM VOICE,256,"This is Starfleet operations.
+Enterprise is cleared for departure."
+257,SULU,257,Admiral on the bridge!
+258,SPOCK,258,"Very well, Mr. Saavik, clear all
+moorings."
+259,SAAVIK,259,"Aye, sir."
+260,SAAVIK,260,"All moorings are clear, Captain."
+261,SPOCK,261,"Thank you, Mr. Saavik."
+262,SPOCK,262,"Lieutenant, how many times have you
+piloted a Starship out of Spacedock?"
+263,SAAVIK,263,"Never, sir."
+264,SPOCK,264,"Take her out, Mr. Saavik."
+265,SAAVIK,265,"Aye, sir."
+266,SPOCK,266,"There's a first time for everything,
+Admiral."
+267,KIRK,267,"To be sure, Captain."
+268,SAAVIK,268,"Aft thrusters, Mr. Sulu."
+269,SULU,269,"Aft thrusters, sir."
+270,SAAVIK,270,Ahead one quarter impulse power.
+271,BONES,271,Would you like a tranquilizer?
+272,SULU,272,Ahead one quarter impulse power.
+273,SULU,273,We are clear and free to navigate.
+274,SAAVIK,274,"Course heading, Captain?"
+275,KIRK,275,Captain's discretion.
+276,SPOCK,276,"Mr. Sulu, you may follow your nose."
+277,JOACHIM,277,Steady on course. All systems normal.
+278,KHAN,278,"It's not much different from
+Enterprise."
+279,KHAN,279,"When I was a guest aboard her some
+years ago, Captain Kirk kindly allowed
+me to memorize her technical manuals.
+And now, Mr. Chekov, let us review:
+You say you have no details of
+Project 'Genesis' ?"
+280,CHEKOV,280,"Beyond what I told you, sir, it is
+classified information."
+281,KHAN,281,"Umm. And would Admiral Kirk have
+access to such information?"
+282,CHEKOV,282,"I would think so, sir. He's on the
+Fleet General Staff."
+283,KHAN,283,"Then to whom do you report directly
+regarding Genesis?"
+284,CHEKOV,284,"To Doctor Marcus, the civilian
+director of the experiments on Space
+Laboratory Regula I."
+285,KHAN,285,I see. Helmsman?
+286,HELMSMAN,286,"Aye, sir."
+287,JOACHIM,287,"May I speak? We're all with you,
+sir, but consider: we are free,
+we have a ship and the means to
+go where we will. We have
+escaped permanent exile on Ceti
+Alpha V. You have proved your
+superior intellect and defeated
+the plans of Admiral Kirk.
+You do not need to defeat him
+again."
+288,KHAN,288,"He tasks me -- and I'll have him. I'll
+chase him round the moons of Nibia
+and round the Antares maelstrom and
+round perdition's flames before I give
+him up."
+289,KHAN,289,"Prepare to alter course -- for Space
+Station Regula I."
+290,DAVID,290,Does that about do it?
+291,CAROL,291,"I don't think there's another piece
+of information we could squeeze
+into the memory banks. Next
+time, we'll design a bigger
+one."
+292,DAVID,292,Who --
+293,JEDDA,293,"Comm-Pic coming in on hyperchannel
+... It's Reliant."
+294,CAROL,294,"On the screen, please, Jedda."
+295,CHEKOV,295,"... come in, please. This is Reliant
+calling Regula I. Repeat. This is
+USS Reliant --"
+296,CAROL,296,"Commander, we are receiving. This
+is Regula I. Go ahead."
+297,CHEKOV,297,"Dr. Marcus... good. We're en route
+to you and should be there in three
+days."
+298,CAROL,298,"En route? Why? We weren't expecting
+you for another three months. Has
+something happened?"
+299,"Has something happened
+? Do you read",299,us?
+300,CHEKOV,300,"All went well. Nothing has happened.
+Ceti Alpha VI has checked out."
+301,CAROL,301,I still don't under --
+302,CHEKOV,302,"We have received new orders. Upon our
+arrival at Regula I, all materials of
+Project Genesis will be transferred to
+this ship for immediate testing at
+Ceti Alpha VI."
+303,"CAROL
+Will you please be quiet",303,"Commander Chekov, this is completely
+irregular. Who gave the order you
+are quoting? Who gave the order?"
+304,CHEKOV,304,"The order comes from Starfleet
+command, Dr. Marcus, direct from
+the General Staff."
+305,CAROL,305,"But Genesis is a civilian project,
+under my control --"
+306,CHEKOV,306,I have my orders.
+307,DAVID,307,"Pin him down, mother! Who gave the
+orders!?"
+308,CHEKOV,308,"The orders come from Admiral James
+T. Kirk."
+309,DAVID,309,"I knew it! I knew it! All along
+the military has wanted to get their
+hands on this --"
+310,CAROL,310,"This is completely improper,
+Commander Chekov. I have no
+intention of allowing Reliant or
+any other unauthorized personnel
+access to our work or materials."
+311,CHEKOV,311,"I'm sorry you feel that way, Doctor.
+Admiral Kirk's orders are confirmed.
+Please prepare to deliver Genesis to
+us upon our arrival. Reliant out."
+312,CAROL,312,Commander Chekov -- !
+313,KHAN,313,"Well done, Commander."
+314,CHEKOV,314,"You realize, sir, that they will
+attempt to contact Admiral Kirk and
+confirm the order."
+315,CAROL,315,"Will you please be quiet! We must
+have order here."
+316,CAROL,316,This has to be some sort of mistake.
+317,DAVID,317,"Mistake? We're all alone here.
+They waited until everyone was on
+shift-leave to do this. Reliant is
+supposed to be at our disposal, not
+vice-versa."
+318,MADISON,318,"It seems clear that Starfleet never
+intended that --"
+319,CAROL,319,"I know, but --"
+320,DAVID,320,"I've tried to warn you. Scientists
+are always pawns of the military --"
+321,CAROL,321,"Starfleet has kept the peace for
+a hundred years, I cannot and
+will not subscribe to your
+interpretation of this event."
+322,JEDDA,322,"You may be right, Doctor, but what
+about Reliant? She's on her way."
+323,CAROL,323,"Get your gear together where it's
+handy."
+324,MARCH,324,Where are we going?
+325,CAROL,325,"That's for us to know and Reliant
+to find out. We have only three
+days. Let's not waste time."
+326,SAAVIK'S VOICE,326,Hold please -- !
+327,SAAVIK,327,"Thank you, sir."
+328,KIRK,328,"Lieutenant, are you wearing your
+hair differently?"
+329,SAAVIK,329,"It is still regulation, Admiral."
+330,SAAVIK,330,"May I speak, sir?"
+331,KIRK,331,"Lieutenant, self-expression does not
+seem to be one of your problems."
+332,SAAVIK,332,"I wish to thank you for the high
+efficiency rating."
+333,KIRK,333,You earned it.
+334,SAAVIK,334,I did not think so.
+335,KIRK,335,"You're bothered by your performance
+on the"
+336,"Kobayashi Maru
+SAAVIK",336,I failed to resolve the situation.
+337,KIRK,337,"There is no correct resolution.
+It is a test of character."
+338,SAAVIK,338,May I ask how
+339,you,339,"dealt with the
+test?"
+340,KIRK,340,"You may ask, Lieutenant."
+341,KIRK,341,That was a little joke.
+342,SAAVIK,342,"Humor... that is a difficult concept
+... it is not logical..."
+343,KIRK,343,"We learn by doing, Lieutenant."
+344,KIRK,344,You want my advice?
+345,SAAVIK,345,Yes.
+346,KIRK,346,Take the test again.
+347,BONES,347,"Who's been holding up the damn
+elevator?"
+348,SAAVIK,348,"Thank you, sir."
+349,BONES,349,Has she changed her hairstyle?
+350,BONES,350,"Wonderful stuff, that Romulan
+ale --"
+351,UHURA'S VOICE,351,Admiral Kirk --
+352,KIRK,352,Kirk here.
+353,UHURA'S VOICE,353,"I have an urgent CommPic from Space
+Lab Regula I for the Admiral. Dr.
+Carol Marcus."
+354,KIRK,354,"In my quarters, Uhura."
+355,UHURA'S VOICE,355,"Yes, sir."
+356,BONES,356,It never rains but when it pours --
+357,KIRK,357,"As a physician you of all people
+should appreciate the danger of
+re-opening old wounds."
+358,BONES,358,Sorry.
+359,KIRK,359,Uhura. Can't you augment?
+360,UHURA,360,"I'm trying, sir. Stand by..."
+361,CAROL,361,Jim... read me? Can you read me?
+362,KIRK,362,"Message breaking up, Carol. What's
+wrong? What's wrong?"
+363,CAROL,363,... Can't read you... repeat...
+364,KIRK,364,"Repeat... what's wrong? What's
+wrong?"
+365,CAROL,365,... taking Genesis away from us...
+366,KIRK,366,"Taking Genesis? Who? Who is taking
+Genesis?"
+367,CAROL,367,"... see you but can't hear. Did
+you... order...?"
+368,KIRK,368,What order? Who's taking Genesis?
+369,CAROL,369,"... Please help us, Jim... won't
+let them have... without proper...
+repeat... on whose authority..."
+370,KIRK,370,Carol!
+371,CAROL,371,Jim please --
+372,KIRK,372,"Uhura! What's happening? Damn
+it..."
+373,UHURA'S VOICE,373,"Transmission jammed at the source,
+sir."
+374,KIRK,374,"Damn. Alert Starfleet Headquarters.
+I want to talk with Starfleet
+Command."
+375,KIRK,375,Stop engines.
+376,SULU,376,Stop engines.
+377,KIRK,377,"An emergency situation has arisen.
+By order of Starfleet Command, as
+of now, 1800 hours, I am assuming
+command of this vessel. Duty officer
+so note in the ship's log. Plot a
+new course: for Space Laboratory
+Regula I."
+378,KIRK,378,Mr. Scott?
+379,SCOTTY'S VOICE,379,"Aye, sir."
+380,KIRK,380,We'll be going to warp speed --
+381,SCOTTY'S VOICE,381,"Aye, sir --"
+382,SULU,382,"Course plotted for Regula I, Admiral..."
+383,KIRK,383,Engage warp engines --
+384,SAAVIK,384,Prepare for warp speed.
+385,SULU,385,"Ready, sir."
+386,KIRK,386,"Mr. Sulu, go to Warp 5."
+387,KIRK,387,We've got a problem.
+388,KIRK,388,"Something may be wrong at Regula
+I. We've been ordered to investigate."
+389,SPOCK,389,"Regula I is a scientific research
+laboratory, if memory serves..."
+390,KIRK,390,"I told Starfleet all we had was a
+boatload of children but we're the
+only ship in the quadrant. Spock:
+those cadets of yours -- how good
+are they? How will they respond
+under real pressure?"
+391,SPOCK,391,"Like all living beings, Admiral
+each according to his gifts. The
+ship is yours."
+392,KIRK,392,"That won't be necessary: just take
+me to Regula I."
+393,SPOCK,393,"Excuse my presumption, but I do not
+agree. As a teacher on a training
+mission, I am content to command a
+Starship. If we are to go on actual
+duty, it is clear that the senior
+officer aboard must assume command."
+394,KIRK,394,"But it may be nothing; garbled
+communications. Why don't you..."
+395,SPOCK,395,"You proceed from a false assumption.
+I am a Vulcan. I have no ego to bruise."
+396,KIRK,396,"You are going to remind me that
+logic alone dictates your actions."
+397,SPOCK,397,"I was going to remind you of nothing,
+least of all that which you know well."
+398,SPOCK,398,"Your mistake, if I may be so bold,
+was promotion. Commanding a Starship
+is your first best destiny. Anything
+else is a waste of material."
+399,KIRK,399,I would not presume to debate you.
+400,SPOCK,400,"That is wise. In any case, were I
+to invoke logic, logic clearly dictates
+that the needs of the many outweigh
+the needs of the few."
+401,KIRK,401,Or the one.
+402,SPOCK,402,"You are my superior officer. You
+are also my friend. I have been
+and always shall be yours."
+403,KIRK,403,Will you accompany me to the bridge?
+404,SPOCK,404,"I'd best talk with Mr. Scott, first
+so that he may, in his own words,
+explain the situation to his cadets."
+405,UHURA'S VOICE,405,"Regula I, this is Enterprise. This
+is Enterprise calling. Do you
+receive... I say..."
+406,UHURA,406,"... Again, this is Enterprise calling
+Space Lab Regula I. Come in, please.
+Dr. Marcus. Please respond, please
+-- it's no use; no response from
+Regula I."
+407,SPOCK,407,But no longer jammed?
+408,UHURA,408,"No, sir. No nothing."
+409,SPOCK,409,"There are two possibilities, sir
+they are unwilling to respond, they
+are unable to respond."
+410,KIRK,410,How far?
+411,SPOCK,411,"Twelve hours and forty-three
+minutes, present speed."
+412,KIRK,412,"Give up Genesis, she said. What in
+God's name does that mean? Give it
+up to whom?"
+413,SPOCK,413,"It might help my analysis if I knew
+what Genesis was."
+414,KIRK,414,"Uhura, ask Dr. McCoy to join us in
+my quarters. Mr. Saavik, take the
+con."
+415,BONES,415,"I've got the sick bay ready. Will
+someone please tell me what is going
+on?"
+416,KIRK,416,"Computer. Request security procedure
+and access to Project Genesis
+Summary."
+417,COMPUTER VOICE,417,Identify for retina scan.
+418,KIRK,418,"Kirk, Admiral James T., Starfleet
+General Staff. Security Class 1."
+419,KIRK,419,"Summary, please."
+420,SPOCK,420,Carol Marcus --
+421,KIRK,421,Yes.
+422,CAROL,422,"I'm Dr. Carol Marcus, and I am
+the director of the Project
+Genesis team at Regula I. What
+exactly IS Genesis? Put simply,
+Genesis is a procedure whereby
+the molecular structure of any
+given matter can be restructured
+-- changed -- into anything else
+of identical mass."
+423,SPOCK,423,Fascinating.
+424,KIRK,424,Wait --
+425,CAROL,425,"Stage One of our experiments
+was conducted in the labora-
+tory. Stage Two of the series
+will be attempted in a lifeless
+underground; Stage Three will
+involve the process on a plane-
+tary scale. What follows is a
+computer projected simulation
+of Stage Three. Please watch
+closely."
+426,CAROL,426,"It is our intention to introduce
+what we call the Genesis device
+or ""torpedo"" into the targeted
+area of a lifeless space body,
+a moon or other inert form --
+the device is fired --"
+427,CAROL,427,"-- Unleashing, almost instantan-
+eously, what we call the Genesis
+effect. Particulate matter is
+reorganized and electrified --
+with life introduced results.
+Instead of a dead moon, a living
+breathing planet, capable of sus-
+taining whatever life forms we
+see fit to deposit on it... The
+reformed object you see represents
+the merest fraction of the Genesis
+potential, should the Federation
+wish to pursue these experiments to
+their logical conclusion."
+428,CAROL,428,"When we consider the problems of
+population and food supply, the
+usefulness of this process begins
+to become clear.
+This concludes this demonstration
+tape. Thank you for your attention.
+The Genesis team eagerly awaits the
+decision of the Federation regarding
+the next phase of our work."
+429,SPOCK,429,It literally is Genesis...
+430,KIRK,430,The power of creation --
+431,SPOCK,431,"Have they proceeded with their
+experiments?"
+432,KIRK,432,"The tape was made a year ago. I
+can only assume they've reached
+Phase Two by now --"
+433,BONES,433,"But dear Lord, are we intelligent
+enough to -- Suppose, this
+thing were used where life already
+exists?"
+434,SPOCK,434,"It would destroy such life in favor
+of its new matrix --"
+435,BONES,435,"It's new -- have you any idea what
+you're saying?"
+436,SPOCK,436,"I was not attempting to evaluate
+its moral implications, Doctor.
+As a matter of cosmic history, it
+has always been easier to destroy
+than to create --"
+437,BONES,437,"Not anymore! Now you can do both
+at the same time! According to myth,
+the earth was created in six days.
+Watch out: here comes Genesis;
+we'll do it for you in six minutes --"
+438,SPOCK,438,"I don't dispute that in the wrong
+hands --"
+439,BONES,439,"Would you like to tell me whose
+are the"
+440,right,440,"hands, my cold-blooded
+friend? Are you in favor of these
+experiments?"
+441,KIRK,441,"Gentlemen, this isn't --"
+442,SPOCK,442,"Really, Dr. McCoy; you cannot ban
+the acquisition of knowledge
+because you distrust the moral
+implications of what you learn.
+Logic suggests --"
+443,BONES,443,Logic??
+444,"We're talking about
+universal Armageddon
+, you inhuman",444,bloodless...
+445,SAAVIK'S VOICE,445,"Admiral, sensors indicate a vessel
+in our area, closing fast."
+446,KIRK,446,What do you make of her?
+447,SAAVIK'S VOICE,447,"It's one of ours, Admiral... It's
+Reliant."
+448,SPOCK,448,What's she doing here?
+449,KIRK,449,"Chekov's on Reliant, isn't he?"
+450,UHURA,450,She's not responding...
+451,KIRK,451,Try the emergency channels...
+452,UHURA,452,"Enterprise to Reliant. Come in,
+Reliant."
+453,KIRK,453,"Picture, Mr. Saavik."
+454,SPOCK,454,Attempt visual communication.
+455,UHURA,455,"Yes, sir."
+456,KIRK,456,"Is it possible their COMM system
+has failed -- ?"
+457,SPOCK,457,It would explain a great many things --
+458,KHAN,458,"Slow to one-half impulse power.
+Let's be friends..."
+459,HELMSMAN,459,Slowing to one-half impulse.
+460,JOACHIM,460,"They're requesting visual
+communications, sir."
+461,KHAN,461,Let them eat static.
+462,JOACHIM,462,They're still running with shields down.
+463,KHAN,463,"Of course. We're one big happy fleet.
+Ah, Kirk, my old friend, do you know
+the Klingon proverb that tells us
+revenge is a dish that is best
+served cold?"
+464,KHAN,464,It is very cold in space.
+465,SULU,465,"Reliant in our section this quadrant,
+sir, and slowing --"
+466,KIRK,466,Visual.
+467,SAAVIK,467,"Sir, may I quote General Order 12:
+'On the approach of any vessel, when
+communications have not been est --"
+468,SPOCK,468,"Lieutenant, the Admiral is aware
+of the Regulations."
+469,SAAVIK,469,"Aye, sir."
+470,KIRK,470,This is damned peculiar.
+471,KIRK,471,Yellow alert.
+472,SAAVIK,472,Energize defense fields.
+473,UHURA,473,"I'm getting a voice message... wait
+... short range band. They say their
+Chambers coil is shorting their COMM
+system."
+474,KIRK,474,Spock?
+475,SPOCK,475,Scanning...
+476,JOACHIM,476,"They still haven't raised their
+shields."
+477,KHAN,477,Careful: Not all at once.
+478,"The
+engine room
+. Lock on target and",478,prepare to fire.
+479,JOACHIM,479,Locking phasers on target.
+480,SPOCK,480,"Their coil emissions are normal...
+Wait: their shields are going up.
+They're locking phasers -- !"
+481,KIRK,481,"Raise shields! Energize phasers,
+stand by to --"
+482,SCOTTY,482,"Respirators! Get back! Use your
+respirators!"
+483,KIRK,483,Mr. Sulu... The shields!
+484,SULU,484,"Trying, sir!"
+485,INTERCOM VOICE,485,Medical Alert: Engine Room.
+486,SULU,486,"I can't get power, sir!"
+487,KIRK,487,Scotty!
+488,KIRK,488,"Uhura, turn off those damn
+channels!!"
+489,UHURA,489,Mr. Scott on discrete.
+490,KIRK,490,"Scotty, let's have it."
+491,SCOTTY,491,"Just hanging on, sir. Main energizers
+out."
+492,SPOCK,492,They knew just where to hit us.
+493,KIRK,493,"WHO? Who knew just where to hit
+us? And"
+494,"why
+SPOCK",494,"One thing is certain; we cannot
+escape on auxiliary power."
+495,KIRK,495,Visual!
+496,KIRK,496,"Mr. Sulu, divert everything to the
+phasers --"
+497,SPOCK,497,Too late --
+498,KIRK,498,Hang on!
+499,KIRK,499,Scotty -- what's left?
+500,SCOTTY'S VOICE,500,"Just the batteries, sir. I can have
+auxiliary power in a few minutes --"
+501,KIRK,501,"We don't have minutes. Can you
+give me phaser power?"
+502,SCOTTY'S VOICE,502,"A few shots, sir."
+503,SPOCK,503,Not enough against their shields.
+504,KIRK,504,Who the
+505,hell,505,are they?
+506,UHURA,506,"Admiral... Commander Reliant is
+signaling."
+507,UHURA,507,"He wishes to discuss terms of our
+surrender."
+508,KIRK,508,On screen.
+509,UHURA,509,Admiral --
+510,KIRK,510,"Do it, while we have time."
+511,KIRK,511,Khan!
+512,SAAVIK,512,Who?
+513,KHAN,513,"You still remember, Admiral. I
+cannot help but be touched. Of
+course, I remember you."
+514,KIRK,514,"What is the meaning of this attack?
+Where is the crew of the Reliant?"
+515,KHAN,515,"Surely I have made my meaning plain.
+I mean to avenge myself upon you,
+Admiral. I've deprived your ship of
+power and when I swing round I mean
+to deprive you of your life --"
+516,KHAN,516,"-- But I wanted you to know first
+who it was who had beaten you: I,
+Khan Noonian Singh, the eagle you
+attempted to cage forever."
+517,KIRK,517,"Khan, listen to me -- if its me you
+want, I'll have myself beamed aboard.
+All I ask is that you spare my crew."
+518,KHAN,518,"That is a most intriguing offer.
+Typical, I must say of your sterling
+character. Let me think."
+519,KHAN,519,"I make you a counter-proposal, I will
+agree to your terms, if in addition
+to yourself, you turn over to me all
+data and material regarding the
+project called Genesis."
+520,KIRK,520,"Genesis, what's that?"
+521,KHAN,521,"Don't play with me, Kirk, my hand is
+on the phaser control --"
+522,KIRK,522,"Give me some time to recall the data
+on our computers --"
+523,KHAN,523,"I give you sixty seconds, Admiral."
+524,SPOCK,524,"Admiral, you can't give him Genesis..."
+525,KIRK,525,"At least we know he hasn't got it.
+Just keep nodding as though I'm
+giving orders. Saavik, punch up the
+data charts of Reliant's command
+console -- hurry..."
+526,SAAVIK,526,Reliant's command...
+527,KIRK,527,HURRY.
+528,SPOCK,528,The prefix code?
+529,KIRK,529,It's all we've got.
+530,SAAVIK,530,On screen...
+531,KIRK,531,We're finding it.
+532,KIRK,532,"Please,"
+533,please,533,"-- you've got to
+give us time -- the bridge is
+smashed, computers inoperative..."
+534,KHAN,534,"Time is a luxury you do not have,
+Admiral: forty-five seconds..."
+535,SAAVIK,535,I don't understand --
+536,KIRK,536,"You've got to learn WHY things
+work on a Starship."
+537,KIRK,537,"It's coming through now, Khan..."
+538,SPOCK,538,"The prefix code is 16309. All
+commands from each Starship bridge
+are relayed electronically; each
+ship has its own prefix combination
+code..."
+539,KHAN,539,Thirty seconds...
+540,KIRK,540,"... to prevent an enemy from doing
+just what we're attempting; using"
+541,our,541,"console to tap in a message,
+an order to lower Reliant's damn
+shields..."
+542,SPOCK,542,"Let's hope he hasn't changed the
+combination. He's quite intelligent..."
+543,KIRK,543,"Wait for my signal, Spock -- too
+soon and he'll have time to figure
+it out and raise them again."
+544,KIRK,544,"Khan, how do I know you'll keep
+your word?"
+545,KHAN,545,"I've given you no word to keep,
+Admiral. In my judgment, you simply
+have no alternative."
+546,KIRK,546,"I take your point. Stand by to
+receive our transmission."
+547,KIRK,547,"Mr. Sulu, lock phasers on target
+and await my command..."
+548,SULU,548,Phasers locked...
+549,KHAN,549,"Time's up, Admiral..."
+550,KIRK,550,"Here it comes. Now, Spock."
+551,JOACHIM,551,Sir -- our shields are dropping!
+552,KHAN,552,Raise them --
+553,JOACHIM,553,They won't --
+554,KIRK,554,FIRE!
+555,KHAN,555,"At them! At them! FIRE! FIRE!
+Why can't you?"
+556,JOACHIM,556,"We can't fire, sir; they've damaged
+the photon controls and the warp
+drive. We must withdraw!"
+557,KHAN,557,No!
+558,JOACHIM,558,"Sir, we must!"
+559,JOACHIM,559,"We must repair the damage. Enterprise
+will wait; she's not going anywhere."
+560,SULU,560,"Sir, you did it."
+561,I did nothing,561,"-- except get caught
+with my britches down. I must be
+senile. Mr. Saavik, you just keep
+right on quoting regulations.
+Meantime, let's find out what the
+hell is going on and see how bad
+we've been --"
+562,CREW CHIEF,562,Hit your blowers!
+563,PRESTON,563,Is the word given?
+564,KIRK,564,The word is given: warp speed.
+565,PRESTON,565,Aye...
+566,"SCOTTY
+WHY
+KIRK",566,"He wants to kill me for passing
+sentence on him 14 years ago -- and
+he doesn't care who stands between
+him and his vengeance."
+567,BONES,567,"Scotty, I'm sorry..."
+568,SCOTTY,568,"He stayed at his post. When the
+trainees ran, he stayed."
+569,KIRK,569,"If he hadn't, we'd be space by now."
+570,SPOCK'S VOICE,570,"Admiral, this is Spock."
+571,KIRK,571,"Yes, Spock."
+572,SPOCK'S VOICE,572,"Engine room reports auxiliary power
+restored. We can proceed at impulse
+power."
+573,KIRK,573,"Best speed to Regula I. Kirk
+out. Scotty, I've got to ask: Any
+chance of getting the mains back on
+the line?"
+574,SCOTTY,574,"I dinna think so, sir, but you'll
+have my best --"
+575,SCOTTY,575,"Thanks -- I know you tried, Doctor..."
+576,KIRK,576,Are you all right?
+577,BONES,577,"Doctors lose patients sometimes.
+Damn. I'm"
+578,still,578,"in the dark: How'd
+he know about Genesis?"
+579,KIRK,579,"At the moment that question takes
+a back seat to preventing him from
+laying his hands on it. You said it
+yourself; we're talking about a bang
+that would re-arrange the universe..."
+580,BONES,580,"There may still be time... you gave
+as good as you got."
+581,KIRK,581,"I got beat. We're only alive because
+I knew something about these ships
+that he didn't."
+582,SULU (V.O.),582,"Approaching Regula and Space Lab
+Regula I."
+583,KIRK,583,Try again.
+584,UHURA,584,"Space Station Regular I, this is
+Starship Enterprise. Come in, please..."
+585,UHURA,585,"I say again. Space Station Regular.
+This is Starship Enterprise. Please
+respond. Please respond."
+586,UHURA,586,"... No response, sir."
+587,KIRK,587,"Sensors, Captain?"
+588,SPOCK,588,"Scanners and sensors still inoperative.
+There's no way to tell what's  inside
+the station."
+589,KIRK,589,"And no way of knowing if Reliant
+is still in the area..."
+590,SPOCK,590,"Affirmative, Admiral."
+591,KIRK,591,"... Blind as a Tiberian Bat.
+What do you make of the plantoid
+beyond?"
+592,SPOCK,592,"Regula is class ""D'. It consists of
+various remarkable ores. Essentially,
+a great rock in space."
+593,KIRK,593,Reliant could be hiding behind that rock.
+594,SPOCK,594,A distinct possibility.
+595,KIRK,595,"Engine room... Scotty, do we have
+enough power for the transporters?"
+596,SCOTTY'S VOICE,596,"Just barely, sir."
+597,KIRK,597,I'm going down to the station.
+598,BONES,598,Khan could be down there!
+599,KIRK,599,"He's BEEN there and hasn't found
+what he wants. Can you spare
+someone? There may be people
+hurt."
+600,BONES,600,I can spare me...
+601,SAAVIK,601,"Begging the Admiral's pardon:
+General Order 15: 'No  flag officer
+shall beam into a hazardous area
+without armed escort.'"
+602,KIRK,602,There is no such regulation.
+603,KIRK,603,"All right, join the party.
+Mr. Spock, the ship is yours."
+604,SPOCK,604,Aye sir --
+605,KIRK,605,"Establish a parking orbit around
+the station and send me a complete
+damage report when you've talked
+with Mr. Scott."
+606,SPOCK,606,"Be careful, Jim..."
+607,KIRK,607,Hello...! Anybody here?
+608,SAAVIK,608,Indeterminate life signs.
+609,KIRK,609,Phasers on stun. Move out.
+610,KIRK,610,They even killed the galley chief.
+611,BONES,611,"This one looks like a Steward.
+They're not warm, but rigor hasn't
+set in. This didn't happen all that
+long ago, Jim."
+612,KIRK,612,Carol...
+613,UHURA'S VOICE,613,"Admiral Kirk, Enterprise. Come in,
+please. Come in please."
+614,KIRK,614,My God!
+615,BONES,615,"That's Clark Terrell, Jim, I've
+served with him."
+616,BONES,616,"Brain disturbance. Appears to be
+drug induced."
+617,KIRK,617,"Saavik, for God's sake, tell her
+we're all right."
+618,UHURA,618,"I say again. This is Enterprise.
+Please acknowledge signal. Please --"
+619,SAAVIK,619,"Commander Uhura, this is Lt. Saavik.
+We're all right. Please stand by.
+Out."
+620,UHURA,620,"Aye, aye."
+621,CHEKOV,621,"Oh, God, Admiral...!"
+622,BONES,622,"It's Dr. McCoy, Captain. Do you
+remember me?"
+623,TERRELL,623,"McCoy? Yes. Oh, yes."
+624,CHEKOV,624,"Oh, sir. It was Khan! We found him
+on Ceti Alpha V."
+625,KIRK,625,"Easy, Pavel... Tell me what you
+can..."
+626,CHEKOV,626,"No life signs -- but he was there.
+Captured us. He -- he put creatures
+in our bodies. To control our minds."
+627,BONES,627,"It's all right, you're safe..."
+628,CHEKOV,628,"... Made us say -- lies... Do...
+things... But we beat him... The
+Captain and me. -- He thought he
+controlled us, but he didn't ...
+The Captain was strong."
+629,KIRK,629,"Captain. Where is Dr. Marcus?
+Where are the Genesis materials?"
+630,TERRELL,630,"He couldn't find them. Some of
+the scientists were still here,
+but everything else, even the data
+banks -- were empty."
+631,SAAVIK,631,"That's true, Admiral. All the
+memory cells have been emptied."
+632,KIRK,632,Erased...
+633,TERRELL,633,"He tortured those people. None of
+them would tell him anything. He
+went wild, strung them up and slit
+their throats. He wanted to tear
+the place apart, but he was late:
+he had to get back to Reliant in
+time to blow you to bits."
+634,KIRK,634,He came damn close...
+635,CHEKOV,635,He left us.
+636,CHEKOV,636,We were no longer of use.
+637,SAAVIK,637,Where is  the Reliant crew? Dead?
+638,TERRELL,638,"Marooned on Ceti Alpha V. He's
+completely mad, Admiral. He blames
+you for the death of his wife..."
+639,KIRK,639,I know what he blames me for.
+640,KIRK,640,The escape pods are all in place.
+641,KIRK,641,Where's the transporter room?
+642,KIRK,642,Did he make it down here?
+643,CHEKOV,643,"It was not my impression. He spent
+most of his time trying to wring the
+information out of the people."
+644,SAAVIK,644,Anything?
+645,KIRK,645,"Somebody left the unit on. If
+everyone else was dead, it implies
+that no one remained to turn it off.
+Those people back there bought escape
+time for Genesis with their lives."
+646,SAAVIK,646,"It doesn't make sense. These
+coordinates are well within
+Regula -- a plantoid we know to be
+lifeless and airless."
+647,KIRK,647,"If Stage Two was completed, it was
+underground -- she said it was going
+to be underground."
+648,SAAVIK,648,Stage Two of what?
+649,KIRK,649,"Kirk to Enterprise. Damage report,
+Spock?"
+650,SPOCK'S VOICE,650,"Admiral, if we go by the book, like
+Lieutenant Saavik, hours could seem
+like days."
+651,KIRK,651,"I read you, Captain. Let's have it."
+652,SPOCK'S VOICE,652,"The situation is grave, Admiral. We
+won't have main power for"
+653,six days,653,"at least. Auxiliary power has
+temporarily failed, but maybe we can
+restore that in"
+654,"two days
+. By the",654,"book, Admiral."
+655,KIRK,655,Meaning you can't even beam us back?
+656,SPOCK'S VOICE,656,Not at present.
+657,KIRK,657,"Captain Spock, if you do not hear
+from us within"
+658,one hour,658,"your orders
+are to restore what power you can,
+take the Enterprise to the nearest
+Star Base and alert Starfleet
+command when you are out of jamming
+range."
+659,UHURA'S VOICE,659,Sir -- we won't leave you behind...!
+660,KIRK,660,"Uhura, if you don't hear from us,
+there won't be anybody behind. Kirk
+out."
+661,KIRK,661,"You gentleman can remain here, or..."
+662,TERRELL,662,"If it's all the same, Admiral, we'd
+like to share the risk."
+663,KIRK,663,Very well. Let's go.
+664,BONES,664,Go?
+665,Where,665,are we going?
+666,"Where
+they",666,went. Saavik.
+667,BONES,667,But what if they went -- nowhere?
+668,KIRK,668,"Then this will be your big chance
+to get away from it all."
+669,SAAVIK,669,Ready.
+670,SAAVIK,670,Admiral --
+671,BONES,671,"Genesis, I presume."
+672,DAVID,672,"You're the sonavabitch who
+committed mass murder up there."
+673,KIRK,673,I'm Admiral Kirk...
+674,"DAVID
+We were still there
+, you dumb",674,"bastard! We could hear the screams
+all the way to the transporter room --"
+675,KIRK,675,Where's Dr. Marcus --
+676,DAVID,676,I'm Doctor Marcus!
+677,CAROL,677,David --
+678,DAVID,678,"Mother, go back!"
+679,CAROL,679,Jim --
+680,DAVID,680,Go back. I'm going to kill him.
+681,CAROL,681,"You do that and you'll have murdered
+your father."
+682,TERRELL,682,I'll hold onto this.
+683,CAROL,683,You've got a little grey --
+684,KIRK,684,Carol. Is that true?
+685,KIRK,685,Why didn't you tell me?
+686,DAVID,686,"She's making it up! My father was
+Professor --"
+687,CAROL,687,"David, you're just making this
+harder --"
+688,TERRELL,688,"I'm afraid it's even harder than you
+think, Doctor."
+689,TERRELL,689,Please don't move --
+690,KIRK,690,Chekov -- !
+691,CHEKOV,691,"I'm sorry, Admiral."
+692,TERRELL,692,"Your excellency, have you been
+listening?"
+693,KHAN'S VOICE,693,"I have indeed, Captain. You have
+done well..."
+694,DAVID,694,I knew it -- !
+695,TERRELL,695,Don't move -- any of you!
+696,KHAN,696,"Captain... We're waiting. What's
+the delay?"
+697,TERRELL,697,"All is well, sir. You have the
+coordinates to beam up Genesis..."
+698,KHAN,698,"First things first, Captain. Kill
+Admiral Kirk."
+699,TERRELL,699,"Excellency... it is difficult.
+I try to obey, but --"
+700,KHAN'S VOICE,700,"Kill him, Terrell. Now."
+701,KHAN'S VOICE,701,Terrell? Chekov -- !
+702,BONES,702,Jim -- for God's sake!
+703,KIRK,703,"Khan, you bloodsucker, they're
+finished! You'll have to do your
+own dirty work now. Do you hear me?"
+704,KHAN,704,"Kirk! Kirk, you are still alive --
+my old friend..."
+705,KIRK,705,"Still, 'old friend.' You've
+managed to kill just about everyone
+else, but like a poor marksman, you
+keep missing the target."
+706,KHAN,706,Perhaps I no longer need to try.
+707,DAVID,707,Let go -- he can't -- !
+708,SAAVIK,708,Only half of you would get there.
+709,KIRK,709,"Khan, you have Genesis, but you
+don't have me! You were going to
+kill me, Khan, it was your sole
+purpose. You'll have to come down
+here to do it! You'll have to
+come down!"
+710,KHAN'S VOICE,710,"I've done far worse than kill you,
+Admiral. I've hurt you. And I
+wish to go on hurting you. I
+shall leave you, as you left me --
+where no one will ever find you:
+poetic justice; marooned for
+eternity in the center of a dead
+planet -- buried alive."
+711,KIRK,711,Khan -- !
+712,KHAN,712,"Goodbye, Admiral. Oh, and don't
+count on Enterprise. She can't
+move. My next act will be to blow
+her out of the heavens."
+713,KIRK,713,KHAN!
+714,KHAN,714,Well?
+715,JOACHIM,715,"Warp drive still inoperative. All
+other systems should be restored
+shortly."
+716,KHAN,716,"Excellent. We have all the time
+in the world."
+717,SAAVIK,717,"This is Lt. Saavik, calling Enterprise..."
+718,BONES,718,He's alive!
+719,KIRK,719,Pavel?
+720,SAAVIK,720,"No use, Admiral, they're still
+jamming all channels."
+721,BONES,721,"It wouldn't make any difference.
+If Enterprise obeyed orders she's
+long since gone. And if she couldn't
+obey, she's finished."
+722,DAVID,722,"So are we, it looks like."
+723,CAROL,723,"I don't understand.
+Who's responsible for all this?
+Who is Khan?"
+724,KIRK,724,It's a long story.
+725,DAVID,725,We appear to have plenty of time.
+726,BONES,726,"You and your father can catch up on
+things."
+727,DAVID,727,"My father. I hope you realize
+another man has just been killed
+because of..."
+728,BONES,728,"Because of you, son. You shouldn't
+have tried to rush someone holding
+a primed phaser. Anyway it isn't
+one man dead, it's two, in case
+you've lost count."
+729,KIRK,729,"Do you have anything to eat? I
+don't know about anyone else, but
+I'm starved."
+730,BONES,730,"How can you think of food at a time
+like this?"
+731,KIRK,731,Our first order of business is survival.
+732,CAROL,732,"There's food in the Genesis cave,
+enough to last a lifetime -- should
+that be necessary."
+733,BONES,733,We thought
+734,this,734,was Genesis.
+735,CAROL,735,"This? It took the Starfleet corps
+of engineers ten months in space
+suits to tunnel out all this. What
+we did in there -- we did in a day.
+David, why don't you show Dr. McCoy
+and the Lieutenant our idea of food."
+736,DAVID,736,But we can't just sit here -- !
+737,KIRK,737,"Oh, yes we can. Is there really
+something to eat?"
+738,CAROL,738,David. Please.
+739,DAVID,739,"This is just to give us something
+to do, isn't it?"
+740,DAVID,740,Come on.
+741,SAAVIK,741,Admiral?
+742,KIRK,742,"As your teacher Mr. Spock is fond
+of saying: I like to think there
+always are possibilities."
+743,CAROL,743,"David was right, wasn't he? It's
+just to keep them busy."
+744,KIRK,744,Why? Why didn't you tell me?
+745,CAROL,745,"How can you ask me that? Were we
+together? Where we going to be?
+You had your world and I had mine.
+I wanted him in mine, not chasing
+through the universe with his father."
+746,CAROL,746,"He's a lot like you in many ways.
+Nothing I could do about it. He's
+smarter, of course; that goes without
+saying. Most of Genesis is really
+his."
+747,CAROL,747,"This is it, isn't it? We're never
+going to get out of here."
+748,CAROL,748,Please. Tell me what you're feeling.
+749,KIRK,749,"There's a man I haven't seen in
+fifteen years who thinks he's killed
+me. You show me a son who'd almost be
+happy to help him. My son. My life
+that could have been and wasn't. What
+am I feeling? I'm feeling old --
+worn out."
+750,CAROL,750,"Let me show you something that will
+make you feel young -- young as when
+the world was new."
+751,CAROL,751,He'll be all right. Come.
+752,KIRK,752,You did this -- in a day?!
+753,CAROL,753,"The matrix formed in a day. The
+life forms grew later -- at a
+wildly accelerated rate. Can I
+cook or can't I?"
+754,JOACHIM,754,Impulse power restored.
+755,KHAN,755,"More than a match for poor
+Enterprise."
+756,JOACHIM,756,"Departing dark side, Regula."
+757,KHAN,757,Visual --
+758,KHAN,758,Where IS she?
+759,DAVID,759,What are you looking at?
+760,SAAVIK,760,The Admiral's son.
+761,DAVID,761,Don't you believe it.
+762,SAAVIK,762,"Oh, I believe it."
+763,SAAVIK,763,What are
+764,you,764,looking at?
+765,DAVID,765,I don't know.
+766,KIRK,766,Now that's what I call a meal.
+767,BONES,767,It's like the Garden of Eden...
+768,CAROL,768,"Only here, every apple comes from
+the Tree of Knowledge."
+769,KIRK,769,"What's on your mind, Lieutenant?"
+770,SAAVIK,770,The
+771,"Kobayashi Maru
+, sir.
+DAVID",771,The what?
+772,BONES,772,"The no-win scenario -- and with
+what philosophy a commander faces
+defeat."
+773,KIRK,773,"Are you asking me if we are playing
+out that scenario now, Lieutenant?"
+774,SAAVIK,774,"On the test, sir, will you tell me
+what you did? I'd really like to
+know."
+775,BONES,775,"Lieutenant, you are looking at the
+only Starfleet cadet who ever beat
+the no-win scenario --"
+776,KIRK,776,"And almost got tossed out of the
+Academy..."
+777,SAAVIK,777,How?
+778,KIRK,778,"I reprogrammed the simulation so it
+was possible to rescue the ship."
+779,"SAAVIK
+WHAT
+KIRK",779,"I changed the conditions of the
+test. I received a commendation for
+original thinking."
+780,"SAAVIK
+WHAT
+KIRK",780,I don't like to lose.
+781,SAAVIK,781,"Then -- you never faced that
+situation -- faced death..."
+782,BONES,782,Until now.
+783,KIRK,783,"We each face death every day we're
+alive, Saavik."
+784,KIRK,784,"Spock, this is Kirk. It's two hours.
+Are you about ready?"
+785,SPOCK'S VOICE,785,"Right on schedule, Admiral. Just
+give us your coordinates and we'll
+beam you aboard."
+786,KIRK,786,Right. I don't like to lose.
+787,SAAVIK,787,"But the damage report -- we were
+immobilized..."
+788,KIRK,788,"Come, come, Lieutenant, you of all
+people go by the book. Hello,
+Spock. You remember Dr. Marcus..."
+789,SPOCK,789,Certainly...
+790,SAAVIK,790,By the book...
+791,KIRK,791,"Regulation 46-A: 'If transmissions
+are being monitored during battle...'"
+792,SAAVIK,792,"'... no uncoded messages on an open
+channel...'"
+793,SAAVIK,793,You lied.
+794,SPOCK,794,I exaggerated.
+795,KIRK,795,"Hours instead of days, Saavik; now
+we have minutes instead of hours --"
+796,BONES,796,I'm taking this bunch to sick bay.
+797,SPOCK,797,They're inoperative below C-deck.
+798,KIRK,798,What IS working around here?
+799,SPOCK,799,"Not much, Admiral. We have partial
+main power..."
+800,KIRK,800,That's it?
+801,SPOCK,801,Best we could do in two hours.
+802,SULU,802,Admiral on the bridge --
+803,KIRK,803,Battle stations.
+804,KIRK,804,Tactical.
+805,KIRK,805,Uh oh.
+806,SPOCK,806,"She can out-run us and out-gun us.
+But there is the Mutara Nebula at
+153 mark four."
+807,KIRK,807,"Scotty, can we make it inside?"
+808,SCOTTY,808,"The energizer's bypassed like a
+Christmas tree -- so don't give me
+too many bumps."
+809,KIRK,809,"No promises, Mr. Scott. On your way."
+810,SAAVIK,810,"Trouble with the nebula, sir, is all
+that static discharge and gas clouds
+our tactical display. Visuals won't
+function and shields will be useless."
+811,SPOCK,811,"What's sauce for the goose, Mr.
+Saavik. The odds will be even."
+812,DAVID,812,I'm going up there.
+813,BONES,813,"You'll be in the way, Dr. Marcus...
+best stay here."
+814,SAAVIK,814,"Admiral... what happens if Reliant
+fails to follow us into the nebula?"
+815,SPOCK,815,"I think we can guarantee she'll
+follow us, Mr. Saavik. Remind me
+to explain to you the concept of
+human ego."
+816,KIRK,816,"Best speed, Scotty..."
+817,KHAN,817,"There! Full impulse power! Not
+so wounded as we were led to believe
+-- so much the better..."
+818,SPOCK,818,"Estimating nebula penetration
+in two minutes. Reliant is
+closing."
+819,KIRK,819,Steady as you go...
+820,JOACHIM,820,We'll lose them if they go in there.
+821,KHAN,821,Rake her.
+822,BONES,822,Take it easy --
+823,CHEKOV,823,But I must --
+824,BONES,824,"Listen to me, Pavel; you haven't
+the strength or the equilibrium --"
+825,CHEKOV,825,But --
+826,CAROL,826,"Dr. McCoy, I can't just sit here.
+Tell me what I can do."
+827,BONES,827,"You can help get my surgery squared
+away. I'm expecting customers."
+828,SAAVIK,828,That was close --
+829,KIRK,829,They just don't want us going in there.
+830,SPOCK,830,One minute to nebula perimeter.
+831,SPOCK,831,"Admiral, they're reducing speed."
+832,KIRK,832,"Uhura, patch me in --"
+833,UHURA,833,"Aye, sir."
+834,KHAN,834,Why are we slowing?
+835,JOACHIM,835,"We daren't follow them into the
+nebula, sir -- our shields will be
+useless..."
+836,KIRK'S VOICE,836,This is Admiral Kirk.
+837,KIRK'S VOICE,837,"We tried it once your way, Khan.
+Are you game for a rematch?"
+838,KIRK'S VOICE,838,Khan -- ! I'm
+839,laughing,839,"at the
+""superior"" intellect."
+840,KHAN,840,Full impulse power!
+841,JOACHIM,841,"No sir! We have Genesis -- Whatever
+you want --"
+842,KIRK,842,"I'll say this for him: he's
+consistent."
+843,SPOCK,843,And we're... in.
+844,KHAN,844,Tactical!
+845,JOACHIM,845,Inoperative.
+846,KHAN,846,Raise the shields...
+847,JOACHIM,847,"As I feared, sir. Not functional.
+I'm reducing speed."
+848,SULU,848,"Phaser lock inoperative, sir."
+849,KIRK,849,"Best guess, Mr. Sulu. Fire when
+ready."
+850,KHAN,850,Aft-torpedoes -- fire -- !
+851,KIRK,851,Hold your course. Look sharp...
+852,SAAVIK,852,At what.
+853,"Reliant
+KIRK",853,Evasive starboard!
+854,KIRK,854,"Phaser bank one, fire!"
+855,KHAN,855,Joachim!
+856,JOACHIM,856,Yours... is... the superior...
+857,KHAN,857,I shall avenge you --
+858,KIRK,858,"Damage, Scotty?"
+859,SCOTTY,859,"Admiral, I've got to take the mains
+off the line. The energizer's shaken
+loose and I can't get in there to
+fix her -- radiation --"
+860,KIRK,860,"All right, we'll do the job with
+auxiliary power."
+861,CHEKOV,861,"Could you use another hand, Admiral?"
+862,KIRK,862,"Man the weapons console, Mr. Chekov."
+863,KIRK,863,Spock?
+864,SPOCK,864,"Sporadic energy readings port side,
+aft. Could be an impulse turn."
+865,KIRK,865,"He won't break off now. If he
+followed me this far he'll be back.
+But from where...?"
+866,SPOCK,866,"He's intelligent, but not experienced.
+His pattern indicates two dimensional
+thinking..."
+867,KIRK,867,"Mr. Saavik, all stop."
+868,SAAVIK,868,"All stop, sir."
+869,KIRK,869,"Descend ten thousand meters. Stand
+by photon torpedoes."
+870,KHAN,870,"Where is he? Where in God's name
+is he?"
+871,CHEKOV,871,"Torpedoes ready, sir."
+872,KIRK,872,Fire.
+873,KIRK,873,Cease fire. Look sharp.
+874,SAAVIK,874,"Power levels quite low, sir."
+875,KIRK,875,"Mr. Scott, can you get the mains
+back on line?"
+876,SCOTTY'S VOICE,876,"I'll need ten minutes, sir, 'til
+the radiation dissipates."
+877,KIRK,877,"Uhura, send to Commander, Reliant:
+prepare to be boarded."
+878,UHURA,878,"Aye, sir."
+879,UHURA'S VOICE,879,"Commander, Reliant, this is
+Enterprise. Surrender and prepare
+to be boarded. Repeat..."
+880,KHAN,880,No... Kirk. The game's not over.
+881,KHAN,881,To the last I will grapple with thee!
+882,UHURA,882,"Enterprise to Reliant: you are
+ordered to surrender your vessel.
+Respond!"
+883,UHURA,883,"Nothing, sir."
+884,KIRK,884,"We'll beam aboard. Alert
+transporter room --"
+885,SPOCK,885,"Admiral. Scanning an energy source
+on Reliant. A pattern I've never
+seen."
+886,DAVID,886,It's the Genesis Wave!
+887,KIRK,887,What?
+888,DAVID,888,He's on a build up to detonation!
+889,KIRK,889,How soon --
+890,DAVID,890,We encoded four minutes --
+891,KIRK,891,We'll beam aboard and stop it --
+892,DAVID,892,You can't!
+893,KIRK,893,"Scotty, I need warp speed in three
+minutes or we're all dead!"
+894,KIRK,894,Scotty!
+895,KIRK,895,"Saavik, get us out, best speed!"
+896,SAAVIK,896,"Aye, sir."
+897,KHAN,897,"No... You can't get away... From
+hell's heart I stab at thee..."
+898,KHAN,898,"For hate's sake... I spit my last
+breath at thee!"
+899,BONES,899,"Are you out of your Vulcan mind?
+No human can tolerate the radiation
+loose in there!"
+900,SPOCK,900,"But, as you are so fond of observing,
+Doctor, I'm not human."
+901,BONES,901,You're not going in there -- !
+902,SPOCK,902,"I'm afraid I can't stop to discuss
+this logically --"
+903,SCOTTY,903,Spock -- get out of there!
+904,KIRK,904,Time from my mark...
+905,SAAVIK,905,"Two minutes, ten seconds."
+906,KIRK,906,Engine room! What's happening?!
+907,SCOTTY,907,"Captain, please!"
+908,BONES,908,"Get out! Get out, man! Oh, dear
+God...!"
+909,KIRK,909,Time!
+910,SAAVIK,910,"Three minutes, thirty seconds."
+911,KIRK,911,Distance from Reliant...
+912,CHEKOV,912,Four hundred kilometers.
+913,CADET,913,Sir! The mains are back on line -- !
+914,KIRK,914,"Bless you, Scotty. Go, Saavik!"
+915,KIRK,915,"Reduce speed. My God, Carl. Look
+at it."
+916,KIRK,916,Engine Room. Well done. Scotty?
+917,BONES' VOICE,917,"Jim, you'd better get down here. Hurry."
+918,KIRK,918,"Saavik, take the con."
+919,SCOTTY,919,"No, sir! You'll flood the whole
+compartment...!"
+920,KIRK,920,He'll die -- !
+921,BONES,921,"He's dead already, Jim."
+922,KIRK,922,"Oh, God."
+923,KIRK,923,Spock!
+924,SPOCK,924,The ship -- out of danger?
+925,KIRK,925,Yes --
+926,SPOCK,926,"Don't grieve, Admiral -- it's
+logical: the good of the many
+outweighs --"
+927,KIRK,927,... the good of the few...
+928,SPOCK,928,Or the one.
+929,SPOCK,929,I never took the
+930,Kobayashi Maru,930,"test -- until now. What do you
+think of my solution?"
+931,KIRK,931,Spock...!
+932,SPOCK,932,"I have been -- and always will be
+-- your friend... Live. Long. And.
+Prosper."
+933,KIRK,933,No...!
+934,SAAVIK'S VOICE,934,"Admiral, you've got to see this!
+There's new life -- a whole new
+world, a Genesis world -- !"
+935,KIRK,935,"In accordance with the traditions
+of Starfleet and of Article 184
+Starfleet Regulations, we are
+assembled here today to pay final
+respects to our honored dead."
+936,KIRK,936,"And yet, in the midst of our sorrow
+it should be noted that this death
+takes place in the shadow of new
+life, the sunrise of a new world,
+a world that our beloved comrade
+gave his own life to protect and
+nourish. He did not feel that
+sacrifice a vain or empty one --
+and we will not debate his profound
+wisdom, in these proceedings. Of
+my friend, I can only say this, that
+of all the souls I have encountered
+in my travels, his was the most --"
+937,KIRK,937,-- human.
+938,KIRK,938,Lieutenant Saavik.
+939,SAAVIK,939,"We commend the soul of our brother
+departed. We love we commit his
+body to the depths of space."
+940,SULU,940,Honors -- hup!
+941,SULU,941,Return -- hup!
+942,KIRK,942,Lieutenant.
+943,KIRK,943,"After you dismiss the company, you
+will take the watch. Set course
+for Ceti Alpha V and we'll pick up
+survivors."
+944,SAAVIK,944,"Aye, sir."
+945,KIRK,945,"I'll be in my quarters if needed,
+but I would prefer..."
+946,SAAVIK,946,"Understood, sir."
+947,KIRK,947,Dismiss the company.
+948,KIRK,948,Yes... come.
+949,DAVID,949,I don't mean to intrude.
+950,KIRK,950,"Uh, no..."
+951,KIRK,951,I should be on the bridge.
+952,DAVID,952,Are you running away from me?
+953,KIRK,953,I suppose I was.
+954,KIRK,954,"I poured a drink. Would you like
+it?"
+955,DAVID,955,"No. I -- I guess I'm not what you
+expected."
+956,KIRK,956,I didn't expect anything.
+957,DAVID,957,That makes two of us.
+958,DAVID,958,"Lieutenant Saavik was right: you
+never have faced death --"
+959,KIRK,959,"Not like this -- no. I haven't faced
+death, I cheated death. I tricked
+my way out of death and patted myself
+on the back for my ingenuity. I
+know nothing."
+960,DAVID,960,"You knew enough to tell Saavik that
+how we face death is at least as
+important as how we face life --"
+961,KIRK,961,It was just words.
+962,DAVID,962,"But good words. That's where ideas
+begin. Maybe you should listen to
+them."
+963,KIRK,963,"I'm trying, David."
+964,DAVID,964,"So am I. My friends were killed,
+too."
+965,KIRK,965,I am truly sorry.
+966,DAVID,966,I was wrong about you. And
+967,I'm,967,sorry.
+968,KIRK,968,Is that what you came here to say?
+969,DAVID,969,Mainly.
+970,DAVID,970,"And also that I'm proud -- very
+proud -- to be your son."
+971,SAAVIK,971,Admiral on the bridge!
+972,KIRK,972,"As you were, Mr. Saavik."
+973,SAAVIK,973,"Aye, sir. On course to Ceti Alpha.
+All is well."
+974,KIRK,974,"Good, I believe you already know
+my, uh, son --"
+975,KIRK,975,"Yes, well, why don't you show him
+around and..."
+976,SAAVIK,976,"Aye, sir --"
+977,SAAVIK,977,So
+978,you,978,"turn out to be the dumb
+bastard."
+979,SAAVIK,979,That is a little joke.
+980,BONES,980,She's changed her hair again.
+981,BONES,981,"Will you look at that? Think
+they'll name it for you, Doctor?"
+982,CAROL,982,"Not if I can help it. We'll name
+it for our friend."
+983,KIRK,983,"It is a far far better thing I do
+than I have ever done before... a
+far better resting place I go to
+than I have ever known..."
+984,CAROL,984,Is that a poem?
+985,KIRK,985,"Something Spock was trying to
+tell me. On my birthday."
+986,BONES,986,"You okay, Jim? How do you feel?"
+987,KIRK,987,"Young. I feel young, Doctor."
+988,KIRK,988,"Lieutenant, new course: 'Second
+star to the right and straight on
+till morning.'"
+989,SPOCK'S VOICE,989,"Space, the final frontier... These
+are the continuing voyages of the
+Starship Enterprise... Her ongoing
+mission: to explore strange new
+worlds... to seek out new life and
+new civilizations... To boldly go
+where no man has gone before..."

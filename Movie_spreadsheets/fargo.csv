@@ -1,0 +1,1708 @@
+,character,line #,line
+0,CLERK,0,"And how are you today, sir?"
+1,MAN,1,"Real good now.  I'm checking in
+- Mr. Anderson."
+2,CLERK,2,"Okay, Mr. Anderson, and you're
+still planning on staying with
+us just the night, then?"
+3,ANDERSON,3,You bet.
+4,NEWS ANCHOR,4,"- whether they will go to summer
+camp at all.  Katie Jensen has
+more."
+5,KATIE,5,"It was supposed to be a project
+funded by the city council;  it
+was supposed to benefit those
+Fargo-Moorehead children who
+would otherwise not be able to
+afford to attend a lakeshore
+summer camp.  But nobody consulted
+city controller Stu Jacobson..."
+6,WAITRESS,6,Can I warm that up for ya there?
+7,ANDERSON,7,You bet.
+8,ANDERSON,8,"I'm, uh, Jerry Lundegaard -"
+9,YOUNGER MAN,9,You're Jerry Lundegaard?
+10,JERRY,10,"Yah, Shep Proudfoot said -"
+11,YOUNGER MAN,11,"Shep said you'd be here at 7:30.
+What gives, man?"
+12,JERRY,12,Shep said 8:30.
+13,YOUNGER MAN,13,"We been sitting here an hour.
+I've peed three times already."
+14,JERRY,14,"I'm sure sorry.  I - Shep told
+me 8:30.  It was a mix-up, I
+guess."
+15,YOUNGER MAN,15,Ya got the car?
+16,JERRY,16,"Yah, you bet.  It's in the lot
+there.  Brand-new burnt umber
+Ciera."
+17,YOUNGER MAN,17,"Yeah, okay.  Well, siddown then.
+I'm Carl Showalter and this is
+my associate Gaear Grimsrud."
+18,JERRY,18,"Yah, how ya doin'.  So, uh, we
+all set on this thing, then?"
+19,YOUNGER MAN,19,"Sure, Jerry, we're all set.  Why
+wouldn't we be?"
+20,JERRY,20,"Yah, no, I'm sure you are.  Shep
+vouched for you and all.  I got
+every confidence in you fellas."
+21,JERRY,21,"...  So I guess that's it, then.
+Here's the keys -"
+22,CARL,22,"No, that's not it, Jerry."
+23,JERRY,23,Huh?
+24,CARL,24,"The new vehicle, plus forty
+thousand dollars."
+25,JERRY,25,"Yah, but the deal was, the car
+first, see, then the forty
+thousand, like as if it was the
+ransom.  I thought Shep told you -"
+26,CARL,26,"Shep didn't tell us much, Jerry."
+27,JERRY,27,"Well, okay, it's -"
+28,CARL,28,"Except that you were gonna be
+here at 7:30."
+29,JERRY,29,"Yah, well, that was a mix-up, then."
+30,CARL,30,"Yeah, you already said that."
+31,JERRY,31,"Yah.  But it's not a whole pay-
+in-advance deal.  I give you a
+brand-new vehicle in advance and -"
+32,CARL,32,"I'm not gonna debate you, Jerry."
+33,JERRY,33,Okay.
+34,CARL,34,"I'm not gonna sit here and debate.
+I will say this though:  what Shep
+told us didn't make a whole lot
+of sense."
+35,JERRY,35,"Oh, no, it's real sound.  It's
+all worked out."
+36,CARL,36,You want your own wife kidnapped?
+37,JERRY,37,Yah.
+38,CARL,38,"...  You - my point is, you pay
+the ransom - what eighty thousand
+bucks? -  I mean, you give us
+half the ransom, forty thousand,
+you keep half.  It's like robbing
+Peter to play Paul, it doesn't
+make any -"
+39,JERRY,39,"Okay, it's - see, it's not me
+payin' the ransom.  The thing is,
+my wife, she's wealthy - her dad,
+he's real well off.  Now, I'm in
+a bit of trouble -"
+40,CARL,40,"What kind of trouble are you in,
+Jerry?"
+41,JERRY,41,"Well, that's, that's, I'm not go
+inta, inta - see, I just need
+money.  Now, her dad's real
+wealthy -"
+42,CARL,42,"So why don't you just ask him
+for the money?"
+43,GRIMSRUD,43,"Or your fucking wife, you know."
+44,CARL,44,"Or your fucking wife, Jerry."
+45,JERRY,45,"Well, it's all just part of this -
+they don't know I need it, see.
+Okay, so there's that.  And even
+if they did, I wouldn't get it.
+So there's that on top, then.  See,
+these're personal matters."
+46,CARL,46,Personal matters.
+47,JERRY,47,"Yah.  Personal matters that
+needn't, uh -"
+48,CARL,48,"Okay, Jerry.  You're tasking us
+to perform this mission, but you,
+you won't, uh, you won't - aw,
+fuck it, let's take a look at
+that Ciera."
+49,JERRY,49,Hon?  Got the growshries.
+50,VOICE,50,"Thank you, hon.  How's Fargo?"
+51,JERRY,51,"Yah, real good."
+52,VOICE,52,Dad's here.
+53,JERRY,53,"How ya doin', Wade?"
+54,WADE,54,"Yah, pretty good."
+55,JERRY,55,Whatcha watchin' there?
+56,WADE,56,Norstars.
+57,JERRY,57,...  Who they playin'?
+58,WADE,58,OOOoooh!
+59,JERRY,59,"Is he stayin' for supper, then?"
+60,WIFE,60,"Yah, I think so...  Dad, are you
+stayin' for supper?"
+61,WADE,61,Yah.
+62,SCOTTY,62,May I be excused?
+63,JERRY,63,"Sure, ya done there?"
+64,SCOTTY,64,Uh-huh.  Goin' out.
+65,WIFE,65,Where are you going?
+66,SCOTTY,66,Just out.  Just McDonald's.
+67,JERRY,67,Back at 9:30.
+68,SCOTTY,68,Okay.
+69,WADE,69,"He just ate.  And he didn't finish.
+He's going to McDonald's instead
+of finishing here?"
+70,WIFE,70,"He sees his friends there.  It's
+okay."
+71,WADE,71,"It's okay?  McDonald's?  What do
+you think they do there?  They
+don't drink milkshakes, I assure
+you!"
+72,WIFE,72,"It's okay, Dad."
+73,JERRY,73,"Wade, have ya had a chance to
+think about, uh, that deal I was
+talkin' about, those forty acres
+there on Wayzata?"
+74,WADE,74,You told me about it.
+75,JERRY,75,"Yah, you said you'd have a think
+about it.  I understand it's a
+lot of money -"
+76,WADE,76,"A heck of a lot.  What'd you
+say you were gonna put there?"
+77,JERRY,77,A lot.  It's a limited -
+78,WADE,78,I know it's a lot.
+79,JERRY,79,I mean a parking lot.
+80,WADE,80,"Yah, well, seven hundred and
+fifty thousand dollars is a lot
+- ha ha ha!"
+81,JERRY,81,"Yah, well, it's a chunk, but -"
+82,WADE,82,"I thought you were gonna show
+it to Stan Grossman.  He passes
+on this stuff before it gets
+kicked up to me."
+83,JERRY,83,"Well, you know Stan'll say no
+dice.  That's why you pay him.
+I'm asking you here, Wade.  This
+could work out real good for me
+and Jean and Scotty -"
+84,WADE,84,"Jean and Scotty never have to
+worry."
+85,GRIMSRUD,85,Where is Pancakes Hause?
+86,CARL,86,What?
+87,GRIMSRUD,87,We stop at Pancakes Hause.
+88,CARL,88,"What're you, nuts?  We had
+pancakes for breakfast.  I gotta
+go somewhere I can get a shot
+and a beer - and a steak maybe.
+Not more fuckin' pancakes.  Come
+on."
+89,CARL,89,"...  Come on, man.  Okay, here's
+an idea.  We'll stop outside of
+Brainerd.  I know a place there
+we can get laid.  Wuddya think?"
+90,GRIMSRUD,90,"I'm fuckin' hungry now, you know."
+91,CARL,91,"Yeah, yeah, Jesus - I'm sayin',
+we'll stop for pancakes, then
+we'll get laid.  Wuddya think?"
+92,CUSTOMER,92,"We sat here right in this room and
+went over this and over this!"
+93,JERRY,93,"Yah, but that TruCoat -"
+94,CUSTOMER,94,"I sat right here and said I didn't
+want no TruCoat!"
+95,JERRY,95,"Yah, but I'm sayin', that TruCoat,
+you don't get it and you get
+oxidization problems.  It'll cost
+you a heck of lot more'n five
+hunnert -"
+96,CUSTOMER,96,"You're sittin' here, you're talkin'
+in circles!  You're talkin' like
+we didn't go over this already!"
+97,JERRY,97,"Yah, but this TruCoat -"
+98,CUSTOMER,98,"We had us a deal here for nine-
+teen-five.  You sat there and
+darned if you didn't tell me
+you'd get this car, these options,
+WITHOUT THE SEALANT, for nine-
+teen-five!"
+99,JERRY,99,"Okay, I'm not sayin' I didn't -"
+100,CUSTOMER,100,"You called me twenty minutes ago
+and said you had it!  Ready to
+make delivery, ya says!  Come on
+down and get it!  And here ya are
+and you're wastin' my time and
+you're wastin' my wife's time and
+I'm payin' nineteen-five for this
+vehicle here!"
+101,JERRY,101,"Well, okay, I'll talk to my boss..."
+102,JERRY,102,"...  See, they install that TruCoat
+at the factory, there's nothin' we
+can do, but I'll talk to my boss."
+103,CUSTOMER,103,"These guys here - these guys!
+It's always the same!  It's always
+more!  He's a liar!"
+104,WIFE,104,"Please, dear."
+105,CUSTOMER,105,We went over this and over this -
+106,JERRY,106,"So you're goin' to the Gophers
+on Sunday?"
+107,SALESMAN,107,You bet.
+108,JERRY,108,"You wouldn't have an extra ticket
+there?"
+109,SALESMAN,109,They're playin' the Buckeyes!
+110,JERRY,110,Yah.
+111,SALESMAN,111,Ya kiddin'!
+112,JERRY,112,"Well, he never done this before,
+but seein' as it's special
+circumstances and all, he says I
+can knock one hunnert off that
+TruCoat."
+113,CUSTOMER,113,"One hundred!  You lied to me, Mr.
+Lundegaard.  You're a bald-faced
+liar!"
+114,CUSTOMER,114,...  A fucking liar -
+115,WIFE,115,"Bucky, please!"
+116,JERRY,116,"One hunnert's the best we can
+do here."
+117,CUSTOMER,117,"Oh, for Christ's sake, where's my
+goddamn checkbook.  Let's get this
+over with."
+118,CARL,118,"Oh, Jesus, yeah."
+119,HIS HOOKER,119,"There ya go, sugar."
+120,GRIMSRUD,120,Nnph.
+121,HIS HOOKER,121,"Yeah.  Yeah.  Oh, yeah."
+122,ED MCMAHON,122,"-  Johnny's guests tonight will be
+Lee Majors, George Wendt, and Steve
+Boutsikaros from the San Diego Zoo,
+so keep that dial -"
+123,JEAN,123,I'm talkin' about your potential.
+124,SCOTT,124,Uh-huh.
+125,JEAN,125,You're not a C student.
+126,SCOTT,126,Uhn.
+127,JEAN,127,"And yet you're gettin' C grades.
+It's this disparity there that
+concerns your dad and me."
+128,SCOTT,128,Uh-huh.
+129,JEAN,129,You know what a disparity is?
+130,SCOTT,130,Yeah!
+131,JEAN,131,"Okay.  Well, that's why we don't
+want ya goin' out fer hockey."
+132,SCOTT,132,"Oh, man!"
+133,SCOTT,133,"...  What's the big deal?  It's
+an hour -"
+134,JEAN,134,Hold on.
+135,JEAN,135,...  Hello?
+136,PHONE VOICE,136,"Yah, hiya, hon."
+137,JEAN,137,"Oh, hiya, Dad."
+138,WADE,138,Jerry around?
+139,JEAN,139,"Yah, he's still here - I'll
+catch him for ya."
+140,JEAN,140,...  Hon?
+141,VOICE,141,Yah.
+142,JEAN,142,It's Dad.
+143,VOICE,143,Yah...
+144,JERRY,144,"...  Yah, okay..."
+145,SCOTT,145,"Look, Dad, there is no fucking
+way -"
+146,JEAN,146,Scott!
+147,JERRY,147,"Say, let's watch the language -"
+148,JERRY,148,"How ya doin', Wade?"
+149,WADE,149,What's goin' on there?
+150,JERRY,150,"Oh, nothing, Wade.  How ya doin'
+there?"
+151,WADE,151,"Stan Grossman looked at your
+proposal.  Says it's pretty
+sweet."
+152,JERRY,152,No kiddin'?
+153,WADE,153,We might be innarested.
+154,JERRY,154,"No kiddin'!  I'd need the cash
+pretty quick there.  In order
+to close the deal."
+155,WADE,155,"Come by at 2:30 and we'll talk
+about it.  If your numbers are
+right, Stan says its pretty
+sweet.  Stan Grossman."
+156,JERRY,156,Yah.
+157,WADE,157,2:30.
+158,JERRY,158,"Yah, okay."
+159,JERRY,159,"Say, Shep, how ya doin' there?"
+160,SHEP,160,Mm.
+161,JERRY,161,"Say, ya know those two fellas
+ya put me in touch with, up
+there in Fargo?"
+162,SHEP,162,Put you in touch with Grimsrud.
+163,JERRY,163,"Well, yah, but he had a buddy
+there.  He, uh -"
+164,SHEP,164,"Well, I don't vouch for him."
+165,JERRY,165,"Well, that's okay, I just -"
+166,SHEP,166,"I vouch for Grimsrud.  Who's his
+buddy?"
+167,JERRY,167,Carl somethin'?
+168,SHEP,168,"Never heard of him.  Don't vouch
+for him."
+169,JERRY,169,"Well, that's okay, he's a buddy
+of the guy ya vouched for, so I'm
+not worryin'.  I just, I was
+wonderin', see, I gotta get in
+touch with 'em for, I might not
+need it anymore, sumpn's happenin',
+see -"
+170,SHEP,170,Call 'em up.
+171,JERRY,171,"Yah, well, see, I did that, and
+I haven't been able to get 'em,
+so I thought you maybe'd know an
+alternate number or what have ya."
+172,SHEP,172,Nope.
+173,JERRY,173,"Okay, well, real good, then."
+174,CARL,174,"...  Look at that.  Twin Cities.
+IDS Building, the big glass one.
+Tallest skyscraper in the Midwest.
+After the Sears, uh, Chicago...
+You never been to Minneapolis?"
+175,GRIMSRUD,175,No.
+176,CARL,176,"...  Would it kill you to say
+something?"
+177,GRIMSRUD,177,I did.
+178,CARL,178,"""No."" First thing you've said
+in the last four hours.  That's
+a, that's a fountain of conversation,
+man.  That's a geyser.  I mean, whoa,
+daddy, stand back, man.  Shit, I'm
+sittin' here driving, man, doin'
+all the driving, whole fuckin' way
+from Brainerd, drivin', tryin' to,
+you know, tryin' to chat, keep
+our spirits up, fight the boredom
+of the road, and you can't say one
+fucking thing just in the way of
+conversation."
+179,CARL,179,"...  Well, fuck it, I don't have
+to talk either, man.  See how
+you like it..."
+180,CARL,180,...  Total silence...
+181,JERRY,181,"Yah, real good.  How you doin'?"
+182,VOICE,182,"Pretty good, Mr. Lundegaard.
+You're damned hard to get on the
+phone."
+183,JERRY,183,"Yah, it's pretty darned busy here,
+but that's the way we like it."
+184,VOICE,184,"That's for sure.  Now, I just
+need, on these last, these financing
+documents you sent us, I can't
+read the serial numbers of the
+vehicles on here, so I -"
+185,JERRY,185,"But I already got the, it's okay,
+the loans are in place, I already
+got the, the what, the -"
+186,VOICE,186,"Yeah, the three hundred and twenty
+thousand dollars, you got the money
+last month."
+187,JERRY,187,"Yah, so we're all set."
+188,VOICE,188,"Yeah, but the vehicles you were
+borrowing on, I just can't read
+the serial numbers on your
+applicaton.  Maybe if you could
+just read them to me -"
+189,JERRY,189,"But the deal's already done, I
+already got the money -"
+190,VOICE,190,"Yeah, but we have an audit here,
+I just have to know that these
+vehicles you're financing with
+this money, that they really
+exist."
+191,JERRY,191,"Yah, well, they exist all right."
+192,VOICE,192,"I'm sure they do - ha ha!  But
+I can't read their serial numbers
+here.  So if you could read me -"
+193,JERRY,193,"Well, but see, I don't have 'em
+in front a me - why don't I just
+fax you over a copy -"
+194,VOICE,194,"No, fax is no good, that's what
+I have and I can't read the darn
+thing -"
+195,JERRY,195,"Yah, okay, I'll have my girl
+send you over a copy, then."
+196,VOICE,196,"Okay, because if I can't correlate
+this note with the specific vehicles,
+then I gotta call back that money -"
+197,JERRY,197,"Yah, how much money was that?"
+198,VOICE,198,"Three hundred and twenty thousand
+dollars.  See, I gotta correlate
+that money with the cars it's being
+lent on."
+199,JERRY,199,"Yah, no problem, I'll just fax
+that over to ya, then."
+200,VOICE,200,"No, no, fax is -"
+201,JERRY,201,"I mean send it over.  I'll shoot
+it right over to ya."
+202,VOICE,202,Okay.
+203,JERRY,203,"Okay, real good, then."
+204,HOST,204,"So I seperate the - how the heck
+do I get the egg out of the shell
+without breaking it?"
+205,HOSTESS,205,"You just prick a little hole in
+the end and blow!"
+206,HOST,206,"Okay, here goes nothing."
+207,AUDIENCE,207,Awoooo!
+208,GRIMSRUD,208,Unguent.
+209,CARL,209,Huh?
+210,GRIMSRUD,210,I need ... unguent.
+211,JERRY,211,"How ya doin' there, Stan?  How
+are ya, Wade?"
+212,STAN,212,"Good to see ya again, Jerry.  If
+these numbers are right, this
+looks pretty sweet."
+213,JERRY,213,"Oh, those numbers are all right,
+bleemee."
+214,WADE,214,This is do-able.
+215,STAN,215,"Congratulations, Jerry."
+216,JERRY,216,"Yah, thanks, Stan, it's a pretty -"
+217,WADE,217,"What kind of finder's fee were
+you looking for?"
+218,JERRY,218,...  Huh?
+219,STAN,219,"The financials are pretty thorough,
+so the only thing we don't know
+is your fee."
+220,JERRY,220,"...  My fee?  Wade, what the
+heck're you talkin' about?"
+221,WADE,221,Stan and I're okay.
+222,JERRY,222,Yah.
+223,WADE,223,We're good to loan in.
+224,JERRY,224,Yah.
+225,WADE,225,"But we never talked about your
+fee for bringin' it to us."
+226,JERRY,226,"No, but, Wade, see, I was
+bringin' you this deal for you
+to loan me the money to put
+in.  It's my deal here, see?"
+227,STAN,227,"Jerry - we thought you were
+bringin' us an investment."
+228,JERRY,228,"Yah, right -"
+229,STAN,229,"You're sayin' - what're you
+sayin'?"
+230,WADE,230,"You're sayin' that we put in
+all the money and you collect
+when it pays off?"
+231,JERRY,231,"No, no.  I - I'd, I'd - pay you
+back the principal, and interest
+- heck, I'd go - one over prime -"
+232,STAN,232,"We're not a bank, Jerry."
+233,WADE,233,"What the heck, Jerry, if I wanted
+bank interest on seven hunnert'n
+fifty thousand I'd go to Midwest
+Federal.  Talk to Bill Diehl."
+234,STAN,234,He's at Norstar.
+235,WADE,235,He's at -
+236,JERRY,236,"No, see, I don't need a finder's
+fee, I need - finder's fee's, what,
+ten percent, heck that's not gonna
+do it for me.  I need the principal."
+237,STAN,237,"Jerry, we're not just going to
+give you seven hundred and fifty
+thousand dollars."
+238,WADE,238,"What the heck were you thinkin'?
+Heck, if I'm only gettin' bank
+interest, I'd look for complete
+security.  Heck, FDIC.  I don't
+see nothin' like that here."
+239,JERRY,239,"Yah, but I - okay, I would, I'd
+guarantee ya your money back."
+240,WADE,240,"I'm not talkin' about your damn
+word, Jerry.  Geez, what the
+heck're you?...  Well, look, I
+don't want to cut you out of the
+loop, but his here's a good deal.
+I assume, if you're not innarested,
+you won't mind if we move on it
+independently."
+241,JERRY,241,Hon?
+242,JERRY,242,...  Got the growshries...
+243,JERRY,243,...  Hon?
+244,JERRY,244,"Yah, Wade, I - it's Jerry, I."
+245,JERRY,245,"...  Yah, Wade, it's, I, it's
+Jerry..."
+246,JERRY,246,"...  Wade, it's Jerry, I - we
+gotta talk, Wade, it's terrible..."
+247,JERRY,247,"...  Yah, Wade Gustafson, please."
+248,GRIMSRUD,248,"Shut the fuck up or I'll throw
+you back in the trunk, you know."
+249,CARL,249,"Geez.  That's more'n I've heard
+you say all week."
+250,CARL,250,"Ah, shit, the tags..."
+251,CARL,251,"...  It's just the tags.  I never
+put my tags on the car.  Don't
+worry, I'll take care of this."
+252,CARL,252,"...  Let's keep still back there,
+lady, or we're gonna have to, ya
+know, to shoot ya."
+253,CARL,253,...  Hey!  I'll take care of this!
+254,CARL,254,"How can I help you, officer?"
+255,TROOPER,255,"This is a new car, then, sir?"
+256,CARL,256,"It certainly is, officer.  Still
+got that smell!"
+257,TROOPER,257,"You're required to display
+temporary tags, either in the
+plate area or taped inside the
+back window."
+258,CARL,258,Certainly -
+259,TROOPER,259,"Can I see your license and
+registration please?"
+260,CARL,260,Certainly.
+261,CARL,261,"...  I was gonna tape up the
+temporary tag, ya know, to be
+in full compliance, but it, uh,
+it, uh ... must a slipped my
+mind..."
+262,CARL,262,"...  So maybe the best thing
+would be to take care of that,
+right here in Brainerd."
+263,TROOPER,263,"What's this, sir?"
+264,CARL,264,"That's my license and regis-
+tration.  I wanna be in
+compliance."
+265,CARL,265,"...  I was just thinking I could
+take care of it right here.  In
+Brainerd."
+266,TROOPER,266,"Put that back in your pocket,
+please."
+267,TROOPER,267,"...  And step out of the car,
+please, sir."
+268,GRIMSRUD,268,Shut up.
+269,CARL,269,"Whoa...  Whoa, Daddy."
+270,GRIMSRUD,270,"You'll take care of it.  Boy, you
+are smooth smooth, you know."
+271,CARL,271,"Whoa, Daddy."
+272,GRIMSRUD,272,Clear him off the road.
+273,CARL,273,Yeah.
+274,WOMAN,274,"Oh, geez..."
+275,WOMAN,275,"...  Hi, it's Marge..."
+276,MARGE,276,"...  Oh, my.  Where?...  Yah...
+Oh, geez..."
+277,MARGE,277,"...  Okay.  There in a jif...
+Real good, then."
+278,MARGE,278,"...  You can sleep, hon.  It's
+early yet."
+279,MAN,279,Gotta go?
+280,MARGE,280,Yah.
+281,MAN,281,I'll fix ya some eggs.
+282,MARGE,282,"That's okay, hon.  I gotta run."
+283,MAN,283,"Gotta eat a breakfast, Marge.
+I'll fix ya some eggs."
+284,MARGE,284,"Aw, you can sleep, hon."
+285,MAN,285,Ya gotta eat a breakfast...
+286,MAN,286,...  I'll fix ya some eggs.
+287,MARGE,287,"Aw, Norm."
+288,MARGE,288,"Thanks, hon.  Time to shove off."
+289,NORM,289,"Love ya, Margie."
+290,MARGE,290,"Love ya, hon."
+291,MARGE,291,Hon?
+292,NORM,292,Yah?
+293,MARGE,293,Prowler needs a jump.
+294,MARGE,294,"Hiya, Lou."
+295,LOU,295,"Margie.  Thought you might need
+a little warm-up."
+296,MARGE,296,"Yah, thanks a bunch.  So what's
+the deal, now?  Gary says triple
+homicide?"
+297,LOU,297,"Yah, looks pretty bad.  Two
+of'm're over here."
+298,MARGE,298,Where is everybody?
+299,LOU,299,"Well - it's cold, Margie."
+300,MARGE,300,"Ah, geez.  So...  Aw, geez.
+Here's the second one...  It's
+in the head and the ... hand
+there, I guess that's a defensive
+wound.  Okay."
+301,MARGE,301,...  Where's the state trooper?
+302,LOU,302,"Back there a good piece.  In
+the ditch next to his prowler."
+303,MARGE,303,"Okay, so we got a state trooper
+pulls someone over, we got a
+shooting, and these folks drive
+by, and we got a high-speed
+pursuit, ends here, and this
+execution-type deal."
+304,LOU,304,Yah.
+305,MARGE,305,"I'd be very surprised if our
+suspect was from Brainerd."
+306,LOU,306,Yah.
+307,MARGE,307,"Yah.  And I'll tell you what, from
+his footprints he looks like a big
+fella -"
+308,LOU,308,"Ya see something down there, Chief?"
+309,MARGE,309,"Uh - I just, I think I'm gonna barf."
+310,LOU,310,"Geez, you okay, Margie?"
+311,MARGE,311,"I'm fine - it's just morning
+sickness."
+312,MARGE,312,"...  Well, that passed."
+313,LOU,313,Yah?
+314,MARGE,314,Yah.  Now I'm hungry again.
+315,LOU,315,"You had breakfast yet, Margie?"
+316,MARGE,316,"Oh, yah.  Norm made some eggs."
+317,LOU,317,"Yah?  Well, what now, d'ya think?"
+318,MARGE,318,"Let's go take a look at that
+trooper."
+319,MARGE,319,"There's two of 'em, Lou!"
+320,LOU,320,Yah?
+321,MARGE,321,"Yah, this guy's smaller than
+his buddy."
+322,LOU,322,"Oh, yah?"
+323,MARGE,323,For Pete's sake.
+324,LOU,324,"How's it look, Marge?"
+325,MARGE,325,"Well, he's got his gun on his hip
+there, and he looks like a nice
+enough guy.  It's a real shame."
+326,LOU,326,Yah.
+327,MARGE,327,"You haven't monkeyed with his car
+there, have ya?"
+328,LOU,328,No way.
+329,MARGE,329,"Somebody shut his lights.  I guess
+the little guy sat in there, waitin'
+for his buddy t'come back."
+330,LOU,330,"Yah, woulda been cold out here."
+331,MARGE,331,"Heck, yah.  Ya think, is Dave open
+yet?"
+332,LOU,332,You don't think he's mixed up in -
+333,MARGE,333,"No, no, I just wanna get Norm some
+night crawlers."
+334,MARGE,334,You look in his citation book?
+335,LOU,335,Yah...
+336,LOU,336,"...  Last vehicle he wrote in
+was a tan Ciera at 2:18 a.m.
+Under the plate number he put
+DLR - I figure they stopped him
+or shot him before he could finish
+fillin' out the tag number."
+337,MARGE,337,Uh-huh.
+338,LOU,338,"So I got the state lookin' for a
+Ciera with a tag startin' DLR.
+They don't got no match yet."
+339,MARGE,339,"I'm not sure I agree with you a
+hunnert percent on your policework,
+there, Lou."
+340,LOU,340,Yah?
+341,MARGE,341,"Yah, I think that vehicle there
+probly had dealer plates.  DLR?"
+342,LOU,342,Oh...
+343,LOU,343,...  Geez.
+344,MARGE,344,"Yah.  Say, Lou, ya hear the one
+about the guy who couldn't afford
+personalized plates, so he went
+and changed his name to J2L 4685?"
+345,LOU,345,"Yah, that's a good one."
+346,MARGE,346,Yah.
+347,WADE,347,"-  All's I know is, ya got a
+problem, ya call a professional!"
+348,JERRY,348,"No!  They said no cops!  They were
+darned clear on that, Wade!  They
+said you call the cops and we -"
+349,WADE,349,"Well, a course they're gonna say
+that!  But where's my protection?
+They got Jean here!  I give these
+sons a bitches a million dollars,
+where's my guarantee they're gonna
+let her go."
+350,JERRY,350,"Well, they -"
+351,WADE,351,"A million dollars is a lot a damn
+money!  And there they are, they
+got my daughter!"
+352,JERRY,352,"Yah, but think this thing through
+here, Wade.  Ya give 'em what they
+want, why wont' they let her go?
+You gotta listen to me on this one,
+Wade."
+353,WADE,353,"Heck, you don't know!  You're just
+whistlin' Dixie here!  I'm sayin',
+the cops, they can advise us on
+this!  I'm sayin' call a professional!"
+354,JERRY,354,"No!  No cops!  That's final!  This
+is my deal here, Wade!  Jean is
+my wife here!"
+355,STAN,355,"I gotta tell ya, Wade, I'm leanin'
+to Jerry's viewpoint here."
+356,WADE,356,Well -
+357,STAN,357,"We gotta protect Jean.  These -
+we're not holdin' any cards here,
+Wade, they got all of 'em.  So
+they call the shots."
+358,JERRY,358,You're darned tootin'!
+359,WADE,359,"Ah, dammit!"
+360,STAN,360,I'm tellin' ya.
+361,WADE,361,Well...  Why don't we...
+362,WADE,362,"...  Stan, I'm thinkin' we should
+offer 'em half a million."
+363,JERRY,363,"Now come on here, no way, Wade!
+No way!"
+364,STAN,364,"We're not horse-trading here, Wade,
+we just gotta bite the bullet on
+this thing."
+365,JERRY,365,Yah!
+366,STAN,366,"What's the next step here, Jerry?"
+367,JERRY,367,"They're gonna call, give me
+instructions for a drop.  I'm
+supposed to have the money ready
+tomorrow."
+368,WADE,368,Dammit!
+369,CASHIER,369,How was everything today?
+370,JERRY,370,"Yah, real good now."
+371,STAN,371,"Okay.  We'll get the money together.
+Don't worry about it, Jerry.  Now,
+d'you want anyone at home, with you,
+until they call?"
+372,JERRY,372,"No, I - they don't want - they're
+just s'posed to be dealin' with
+me, they were real clear."
+373,STAN,373,Yah.
+374,JERRY,374,"Ya know, they said no one listenin'
+in, they'll be watchin', ya know.
+Maybe it's all bull, but like you
+said, Stan, they're callin' the
+shots."
+375,STAN,375,"Okay.  And Scotty, is he gonna
+be all right?"
+376,JERRY,376,"Yah, geez, Scotty.  I'll go talk
+to him."
+377,STAN,377,We'll call.
+378,JERRY,378,"...  How ya doin' there, Scotty?"
+379,SCOTT,379,"Dad!  What're they doing?  Wuddya
+think they're doin' with Mom?"
+380,JERRY,380,"It's okay, Scotty.  They're not
+gonna want to hurt her any.
+These men, they just want money,
+see."
+381,SCOTT,381,What if - what if sumpn goes wrong?
+382,JERRY,382,"No, no, nothin's goin' wrong here.
+Grandad and I, we're - we're makin'
+sure this gets handled right."
+383,SCOTT,383,"Dad, I really think we should call
+the cops."
+384,JERRY,384,"No!  We can't let anyone know about
+this thing!  We gotta play ball with
+these guys - you ask Stan Grossman,
+he'll tell ya the same thing!"
+385,SCOTT,385,"Yeah, but -"
+386,JERRY,386,"We're gonna get Mom back for ya, but
+we gotta play ball.  Ya know, that's
+the deal.  Now if Lorraine calls, or
+Sylvia, you just say that Mom is in
+Florida with Pearl and Marty..."
+387,JERRY,387,...  That's the best we can do here.
+388,CARL,388,Hold it.
+389,CARL,389,Ha ha ha ha ha ha!  Jesus!
+390,MARGE,390,"Hiya, hon."
+391,NORM,391,"Brought ya some lunch, Margie.
+What're those, night crawlers?"
+392,MARGE,392,Yah.
+393,NORM,393,"Thanks, hon."
+394,MARGE,394,"You bet.  Thanks for lunch.  What
+do we got here, Arbie's?"
+395,NORM,395,Uh-huh.
+396,MARGE,396,...  How's the paintin' goin'?
+397,NORM,397,"Pretty good.  Found out the Hautmans
+are entering a painting this year."
+398,MARGE,398,"Aw, hon, you're better'n them."
+399,NORM,399,They're real good.
+400,MARGE,400,"They're good, Norm, but you're
+better'n them."
+401,NORM,401,"Yah, ya think?"
+402,MARGE,402,"Ah, ya got Arbie's all o'er me."
+403,LOU,403,"Hiya, Norm, how's the paintin'
+goin'?"
+404,NORM,404,Not too bad.  You know.
+405,MARGE,405,How we doin' on that vehicle?
+406,LOU,406,"No motels registered any tan Ciera
+last night.  But the night before,
+two men checked into the Blue Ox
+registering a Ciera and leavin' the
+tag space blank."
+407,MARGE,407,"Geez, that's a good lead.  The
+Blue Ox, that's that trucker's
+joint out there on I-35?"
+408,LOU,408,"Yah.  Owner was on the desk then,
+said these two guys had company."
+409,MARGE,409,"Oh, yah?"
+410,MARGE,410,Where you girls from?
+411,HOOKER ONE,411,Chaska.
+412,HOOKER TWO,412,"LeSeure.  But I went to high school
+in White Bear Lake."
+413,MARGE,413,"Okay, I want you to tell me what
+these fellas looked like."
+414,HOOKER ONE,414,"Well, the little guy, he was
+kinda funny-looking."
+415,MARGE,415,In what way?
+416,HOOKER ONE,416,I dunno.  Just funny-looking.
+417,MARGE,417,Can you be any more specific?
+418,HOOKER ONE,418,"I couldn't really say.  He wasn't
+circumcised."
+419,MARGE,419,"Was he funny-looking apart from
+that?"
+420,HOOKER ONE,420,Yah.
+421,MARGE,421,"So you were having sex with the
+little fella, then?"
+422,HOOKER ONE,422,Uh-huh.
+423,MARGE,423,"Is there anything else you can
+tell me about him?"
+424,HOOKER ONE,424,"No.  Like I say, he was funny-looking.
+More'n most people even."
+425,MARGE,425,And what about the other fella?
+426,HOOKER TWO,426,"He was a little older.  Looked like
+the Marlboro man."
+427,MARGE,427,Yah?
+428,HOOKER TWO,428,"Yah.  Maybe I'm sayin' that cause
+he smoked Marlboros."
+429,MARGE,429,Uh-huh.
+430,HOOKER TWO,430,A subconscious-type thing.
+431,MARGE,431,"Yah, that can happen."
+432,HOOKER TWO,432,Yah.
+433,HOOKER ONE,433,"They said they were goin' to the
+Twin Cities?"
+434,MARGE,434,"Oh, yah?"
+435,HOOKER TWO,435,Yah.
+436,HOOKER ONE,436,Yah.  Is that useful to ya?
+437,MARGE,437,"Oh, you bet, yah."
+438,CARL,438,"...days ... be here for days with
+a - DAMMIT! - a goddamn mute ...
+nothin' to do ... and the fucking -
+DAMMIT!..."
+439,CARL,439,"...  TV doesn't even ... plug me
+in, man...  Gimmee a - DAMMIT! -
+signal...  Plug me into the
+ozone, baby...  Plug me into the
+ozone - FUCK!..."
+440,TV VOICE-OVER,440,"The bark beetle carries the worm
+to the nest ... where it will feed
+its young for up to six weeks..."
+441,MARGE,441,"...  Well, I'm turnin' in, Norm."
+442,NORM,442,"...  Oh, yah?"
+443,MARGE,443,Hello?
+444,VOICE,444,"Yah, is this Marge?"
+445,MARGE,445,Yah?
+446,VOICE,446,Margie Olmstead?
+447,MARGE,447,"...  Well, yah.  Who's this?"
+448,VOICE,448,"This is Mike Yanagita.  Ya know
+- Mike Yanagita.  Remember me?"
+449,MARGE,449,...  Mike Yanagita!
+450,MIKE,450,Yah!
+451,MARGE,451,"Yah, yah, course I remember.
+How are ya?  What time is it?"
+452,MIKE,452,"Oh, geez.  It's quarter to eleven.
+I hope I dint wake you."
+453,MARGE,453,"No, that's okay."
+454,MIKE,454,"Yah, I'm down in the Twin Cities
+and I was just watching on TV
+about these shootings up in
+Brainderd, and I saw you on the
+news there."
+455,MARGE,455,Yah.
+456,MIKE,456,"I thought, geez, is that Margie
+Olmstead?  I can't believe it!"
+457,MARGE,457,"Yah, that's me."
+458,MIKE,458,"Well, how the heck are ya?"
+459,MARGE,459,"Okay, ya know.  Okay."
+460,MIKE,460,Yah?
+461,MARGE,461,Yah - how are you doon?
+462,MIKE,462,"Oh, pretty good."
+463,MARGE,463,"Heck, it's been such a long time,
+Mike.  It's great to hear from ya."
+464,MIKE,464,"Yah...  Yah, yah.  Geeze, Margie!"
+465,JERRY,465,"Yah, ya got yer, this loaded here,
+this has yer independent, uh, yer
+slipped differential, uh, yer rack-
+and-pinion steering, yer alarm and
+radar, and I can give it to ya with
+a heck of a sealant, this TruCoat
+stuff, it'll keep the salt off -"
+466,CUSTOMER,466,"Yah, I don't need no sealant though."
+467,JERRY,467,"Yah, you don't need that.  Now
+were you thinking of financing here?
+You oughta be aware a this GMAC
+plan they have now, it's really
+super -"
+468,ANOTHER SALESMAN,468,"Jerry, ya got a call here."
+469,JERRY,469,"Yah, okay."
+470,JERRY,470,Jerry Lundegaard.
+471,VOICE,471,"All right, Jerry, you got this
+phone to yourself?"
+472,JERRY,472,Well ... yah.
+473,VOICE,473,Know who this is?
+474,JERRY,474,"Well, yah, I got an idea.  How's
+that Ciera workin' out for ya?"
+475,VOICE,475,"Circumstances have changed, Jerry."
+476,JERRY,476,"Well, what do ya mean?"
+477,VOICE,477,"Things have changed.  Circumstances,
+Jerry.  Beyond the, uh ... acts of
+God, force majeure..."
+478,JERRY,478,What the - how's Jean?
+479,CARL,479,...  Who's Jean?
+480,JERRY,480,My wife!  What the - how's -
+481,CARL,481,"Oh, Jean's okay.  But there's
+three people up in Brainerd who
+aren't so okay, I'll tell ya that."
+482,JERRY,482,"What the heck're you talkin' about?
+Let's just finish up this deal
+here -"
+483,CARL,483,"Blood has been shed, Jerry."
+484,CARL,484,...  Blood has been shed.
+485,JERRY,485,What the heck d'ya mean?
+486,CARL,486,Three people.  In Brainerd.
+487,JERRY,487,"Oh, geez."
+488,CARL,488,"That's right.  And we need more
+money."
+489,JERRY,489,"The heck d'ya mean?  What a you
+guys got yourself mixed up in?"
+490,CARL,490,We need more -
+491,JERRY,491,"This was s'posed to be a no-rough
+-stuff-type deal -"
+492,CARL,492,"DON'T EVER INTERRUPT ME, JERRY!
+JUST SHUT THE FUCK UP!"
+493,JERRY,493,"Well, I'm sorry, but I just - I -"
+494,CARL,494,"Look.  I'm not gonna debate you,
+Jerry.  The price is now the whole
+amount.  We want the entire eighty
+thousand."
+495,JERRY,495,"Oh, for Chrissakes here -"
+496,CARL,496,"Blood has been shed.  We've incurred
+risks, Jerry.  I'm coming into town
+tomorrow.  Have the money ready."
+497,JERRY,497,"Now we had a deal here!  A deal's
+a deal!"
+498,CARL,498,"IS IT, JERRY?  You ask those three
+pour souls up in Brainerd if a
+deal's a deal!  Go ahead, ask 'em!"
+499,JERRY,499,...  The heck d'ya mean?
+500,CARL,500,I'll see you tomorrow.
+501,JERRY,501,Yah!
+502,VOICE,502,Jerome Lundegaard?
+503,JERRY,503,Yah!
+504,VOICE,504,"This is Reilly Deifenbach at GMAC.
+Sir, I have not yet recieved those
+vehicle IDs you promised me."
+505,JERRY,505,Yah!  I ... those are in the mail.
+506,VOICE,506,"Mr. Lundegaard, that very well may
+be.  I must inform you, however,
+that absent the reciept of those
+numbers by tomorrow afternoon, I
+will have to refer this matter to
+our legal department."
+507,JERRY,507,Yah.
+508,VOICE,508,My patience is at an end.
+509,JERRY,509,Yah.
+510,VOICE,510,"Good day, sir."
+511,JERRY,511,...  Yah.
+512,GARY,512,"Hiya, Norm.  How ya doin', Margie?
+How's the fricasse?"
+513,MARGE,513,"Pretty darn good, ya want some?"
+514,GARY,514,"No, I gotta - hey, Norm, I thought
+you were goin' fishin' up at Mile
+Lacs?"
+515,NORM,515,"Yah, after lunch."
+516,MARGE,516,Whatcha got there?
+517,GARY,517,"The numbers y'asked for, calls
+made from the lobby pay phone
+at the Blue Ox.  Two to Minneapolis
+that night."
+518,MARGE,518,Mm.
+519,GARY,519,"First one's a trucking company,
+second one's a private residence.
+A Shep Proudfoot."
+520,MARGE,520,Uh-huh...  A what?
+521,GARY,521,Shep Proudfoot.  That's a name.
+522,MARGE,522,Uh-huh.
+523,GARY,523,Yah.
+524,MARGE,524,"...  Yah, okay, I think I'll
+drive down there, then."
+525,GARY,525,"Oh, yah?  Twin Cities?"
+526,NORM,526,"...  Oh, yah?"
+527,WADE,527,"Dammit!  I wanna be a part a
+this thing!"
+528,JERRY,528,"No, Wade!  They were real clear!
+They said they'd call tomorrow,
+with instructions, and it's gonna
+be delivered by me alone!"
+529,WADE,529,"It's my money, I'll deliver it
+- what do they care?"
+530,STAN,530,"Wade's got a point there.  I'll
+handle the call if you want, Jerry."
+531,JERRY,531,"No, no.  See - they, no, see, they
+only deal with me.  Ya feel this,
+this nervousness on the phone there,
+they're very - these guys're
+dangerous -"
+532,WADE,532,"All the more reason!  I don't want
+you - with all due respect, Jerry
+- I don't want you mucking this up."
+533,JERRY,533,The heck d'ya mean?
+534,WADE,534,"They want my money, they can deal
+with me.  Otherwise I'm goin' to
+a professional."
+535,WADE,535,"...  There's a million dollars
+here!"
+536,JERRY,536,"No, see -"
+537,WADE,537,"Look, Jerry, you're not sellin'
+me a damn car.  It's my show here.
+That's that."
+538,STAN,538,"It's the way we prefer to handle
+it, Jerry."
+539,MARGE,539,How ya doin'?
+540,CLERK,540,"Real good.  How're you today, ma'am?"
+541,MARGE,541,"Real good.  I'm Mrs. Gunderson, I
+have a reservation."
+542,CLERK,542,"You sure do, Mrs. Gunderson."
+543,MARGE,543,"Is there a phone down here, ya think?"
+544,MARGE,544,"...  Detective Sibert?  Yah, this
+is Marge Gunderson from up Brainerd,
+we spoke -  Yah.  Well, actually
+I'm in town here.  I had to do a
+few things in the Twin Cities, so
+I thought I'd check in with ya about
+that USIF search on Shep Proudfoot...
+Oh, yah?...  Well, maybe I'll go
+visit with him if I have the...  No,
+I can find that...  Well, thanks a
+bunch.  Say, d'ya happen to know a
+good place for lunch in the downtown
+area?...  Yah, the Radisson...  Oh,
+yah?  Is it reasonable?"
+545,CARL,545,"Yeah, I decided not to park here."
+546,ATTENDANT,546,"...  What do you mean, you decided
+not to park here?"
+547,CARL,547,"Yeah, I just came in.  I decided
+not to park here."
+548,ATTENDANT,548,"You, uh...  I'm sorry, sir, but -"
+549,CARL,549,"I decided not to - I'm, uh, not
+taking the trip as it turns out."
+550,ATTENDANT,550,"I'm sorry, sir, we do have to
+charge you the four dollars."
+551,CARL,551,"I just pulled in here.  I just
+fucking pulled in here!"
+552,ATTENDANT,552,"Well, see, there's a minimum charge
+of four dollars.  Long-term parking
+charges by the day."
+553,CARL,553,"I guess you think, ya know, you're
+an authority figure.  With that
+stupid fucking uniform.  Huh, buddy?"
+554,CARL,554,"...  King Clip-on Tie here.  Big
+fucking man."
+555,CARL,555,"...  You know, these are the limits
+of your life, man.  Ruler of your
+little fucking gate here.  There's
+your four dollars.  You pathetic
+piece of shit."
+556,JERRY,556,Where's Shep?
+557,MECHANIC,557,Talkin' to a cop.
+558,JERRY,558,...  Cop?
+559,MECHANIC,559,Said she was a policewoman.
+560,MARGE,560,- Wednesday night?
+561,SHEP,561,Nope.
+562,MARGE,562,"Well, you do reside their at
+1425 Fremont Terrace?"
+563,SHEP,563,Yep.
+564,MARGE,564,Anyone else residing there?
+565,SHEP,565,Nope.
+566,MARGE,566,"Well, Mr. Proudfoot, this call
+came in past three in the morning.
+It's just hard for me to believe
+you can't remember anyone calling."
+567,MARGE,567,"...  Now, I know you've had some
+problems, struggling with the
+narcotics, some other entanglements,
+currently on parole -"
+568,SHEP,568,So?
+569,MARGE,569,"Well, associating with criminals,
+if you're the one they talked to,
+that right there would be a
+violation of your parole and would
+end with you back in Stillwater."
+570,SHEP,570,Uh-huh.
+571,MARGE,571,"Now, I saw some rough stuff on
+your priors, but nothing in the
+nature of a homicide..."
+572,MARGE,572,"...  I know you don't want to be
+an accessory to something like
+that."
+573,SHEP,573,Nope.
+574,MARGE,574,"So you think you might remember
+who those folks were who called
+ya?"
+575,MARGE,575,Mr. Lundegaard?
+576,JERRY,576,Huh?  Yah?
+577,MARGE,577,"I wonder if I could take just a
+minute of your time here -"
+578,JERRY,578,What...  What is it all about?
+579,MARGE,579,"Huh?  Do you mind if I sit down
+- I'm carrying quite a load here."
+580,MARGE,580,"...  You're the owner here, Mr.
+Lundegaard?"
+581,JERRY,581,"Naw, I...  Executive Sales Manager."
+582,MARGE,582,"Well, you can help me.  My name's
+Marge Gunderson -"
+583,JERRY,583,"My father-in-law, he's the owner."
+584,MARGE,584,"Uh-huh.  Well, I'm a police officer
+from up Brainerd investigating some
+malfeasance and I was just wondering
+if you've had any new vehicles stolen
+off the lot in the past couple of
+weeks - specifically a tan Cutlass
+Ciera?"
+585,MARGE,585,...  Mr. Lundegaard?
+586,JERRY,586,...  Brainerd?
+587,MARGE,587,"Yah.  Yah.  Home a Paul Bunyan and
+Babe the Blue Ox."
+588,JERRY,588,...  Babe the Blue Ox?
+589,MARGE,589,"Yah, ya know we've got the big
+statue there.  So you haven't had
+any vehicles go missing, then?"
+590,JERRY,590,"No.  No, ma'am."
+591,MARGE,591,"Okey-dokey, thanks a bunch.  I'll
+let you get back to your paperwork,
+then."
+592,JERRY,592,"...  Yah, okay."
+593,JERRY,593,"...  Yah, gimmee Shep...  The
+heck d'ya mean?...  Well, where'd
+he go?  It's only...  No, I don't
+need a mechanic - oh, geez - I
+gotta talk to a friend of his, so,
+uh ... have him, uh ... oh, geez..."
+594,VOICE,594,Marge?
+595,MARGE,595,Mike!
+596,MIKE,596,Geez!  You look great!
+597,MARGE,597,"Yah - easy there - you do too!
+I'm expecting, ya know."
+598,MIKE,598,I see that!  That's great!
+599,MIKE,599,...  What can I get ya?
+600,MARGE,600,Just a Diet Coke.
+601,MARGE,601,...  This is a nice place.
+602,MIKE,602,"Yah, ya know it's the Radisson,
+so it's pretty good."
+603,MARGE,603,"You're livin' in Edina, then?"
+604,MIKE,604,"Oh, yah, couple years now.  It's
+actually Eden Prarie - that school
+district.  So Chief Gunderson, then!
+So ya went and married Norm Son-of-
+a-Gunderson!"
+605,MARGE,605,"Oh, yah, a long time ago."
+606,MIKE,606,"Great.  What brings ya down - are
+ya down here on that homicide -
+if you're allowed, ya know, to
+discuss that?"
+607,MARGE,607,"Oh, yah, but there's not a heckuva
+lot to discuss.  What about you,
+Mike?  Are you married - you have
+kids?"
+608,MIKE,608,"Well, yah, I was married.  I was
+married to -  You mind if I sit
+over here?"
+609,MIKE,609,"...  I was married to Linda
+Cooksey -"
+610,MARGE,610,"No, I -  Mike - wyncha sit over
+there, I'd prefer that."
+611,MIKE,611,"Huh?  Oh, okay, I'm sorry."
+612,MARGE,612,"No, just so I can see ya, ya know.
+Don't have to turn my neck."
+613,MIKE,613,"Oh, sure, I unnerstand, I didn't
+mean to -"
+614,MARGE,614,"No, no, that's fine."
+615,MIKE,615,"Yah, sorry, so I was married to
+Linda Cooksey - ya remember Linda?
+She was a year behind us."
+616,MARGE,616,"I think I remember Linda, yah.
+She was - yah.  So things didn't
+work out, huh?"
+617,MIKE,617,"And then I, and then I been workin'
+for Honeywell for a few years now."
+618,MARGE,618,"Well, they're a good outfit."
+619,MIKE,619,"Yah, if you're an engineer, yah,
+you could do a lot worse.  Of
+course, it's not, uh, it's
+nothin' like your achievement."
+620,MARGE,620,"It sounds like you're doin' really
+super."
+621,MIKE,621,"Yah, well, I, uh ... it's not that
+it didn't work out -  Linda passed
+away.  She, uh..."
+622,MARGE,622,I'm sorry.
+623,MIKE,623,"Yah, I, uh...  She had leukemia,
+you know..."
+624,MARGE,624,"No, I didn't..."
+625,MIKE,625,"It was a tough, uh ... it was a
+long -  She fought real hard,
+Marge..."
+626,MARGE,626,"I'm sorry, Mike."
+627,MIKE,627,"Oh, ya know, that's, uh - what
+can I say?..."
+628,MIKE,628,"...  Better times, huh?"
+629,MARGE,629,Better times.
+630,MIKE,630,"I was so...  I been so ... and
+then I saw you on TV, and I
+remembered, ya know...  I always
+liked you..."
+631,MARGE,631,"Well, I always liked you, Mike."
+632,MIKE,632,I always liked ya so much...
+633,MARGE,633,"It's okay, Mike -  Should we get
+together another time, ya think?"
+634,MIKE,634,"No - I'm sorry!  It's just -  I
+been so lonely - then I saw you,
+and..."
+635,MIKE,635,"...  I'm sorry...  I shouldn't a
+done this...  I thought we'd have
+a really terrific time, and now
+I've..."
+636,MARGE,636,It's okay...
+637,MIKE,637,"You were such a super lady ...
+and then I...  I been so lonely..."
+638,MARGE,638,"It's okay, Mike..."
+639,CARL,639,"Just in town on business.  Just
+in and out.  Ha ha!  A little of
+the old in-and-out!"
+640,WOMAN,640,Wuddya do?
+641,CARL,641,"Have ya been to the Celebrity Room
+before?  With other, uh, clients?"
+642,WOMAN,642,I don't think so.  It's nice.
+643,CARL,643,"Yeah, well, it depends on the artist.
+You know, Jose Feliciano, ya got no
+complaints.  Waiter!"
+644,CARL,644,"...  What is he, deaf?...  So,
+uh, how long have you been with
+the escort service?"
+645,WOMAN,645,I don't know.  Few munce.
+646,CARL,646,"Ya find the work interesting, do ya?"
+647,WOMAN,647,...  What're you talking about?
+648,CARL,648,"Shep!  What the hell are you doing?
+I'm banging that girl!  Shep!  Jesus
+Ch -"
+649,SHEP,649,Fuck out of my house!
+650,CARL,650,"Shep!  Don't you dare fucking hit
+me, man!  Don't you -"
+651,SHEP,651,"Fuck outta here.  Put me back in
+Stillwater.  Little fucking shit."
+652,VOICE,652,Hey!  Come on in there!
+653,MAN,653,"C'mon, brother, it's late -  Unghh!"
+654,CARL,654,"Stay away from me, man!  Hey!
+Smoke a fuckin' peace pipe, man!
+Don't you dare fuckin' -  Unghh!"
+655,VOICE,655,...  Yah?
+656,CARL,656,"All right, Jerry, I'm through
+fucking around.  You got the
+fucking money?"
+657,JERRY,657,"Yah, I got the money, but, uh -"
+658,CARL,658,"Don't you fucking but me, Jerry.
+I want you with this money on the
+Dayton-Radisson parking ramp, top
+level, thirty minutes, and we'll
+wrap this up."
+659,JERRY,659,"Yah, okay, but, uh -"
+660,CARL,660,"You're there in thirty minutes or
+I find you, Jerry, and I shoot
+you, and I shoot your fucking wife,
+and I shoot all your little fucking
+children, and I shoot 'em all in the
+back of their little fucking heads.
+Got it?"
+661,JERRY,661,"...  Yah, well, you stay away from
+Scotty now -"
+662,CARL,662,GOT IT?
+663,JERRY,663,"Okay, real good, then."
+664,WADE,664,"Okay ... here's your damn money,
+now where's my daughter?...
+Goddamn punk ... where's my damn
+daughter..."
+665,WADE,665,...  You little punk.
+666,VOICE,666,...  Dad?
+667,JERRY,667,"It's okay, Scotty."
+668,VOICE,668,Where're you going?
+669,JERRY,669,"Be back in a minute.  If Stan
+calls you, just tell him I went
+to Embers.  Oh, geez -"
+670,VOICE,670,...  Hello?
+671,MARGE,671,Norm?
+672,MARGE'S VOICE,672,They bitin'?
+673,NORM,673,"Yah, okay.  How's the hotel?"
+674,MARGE,674,"Oh, pretty good.  They bitin'?"
+675,NORM,675,"Yeah, couple a muskies.  No pike
+yet.  How d'you feel?"
+676,MARGE,676,"Oh, fine."
+677,NORM,677,Not on your feet too much?
+678,MARGE,678,"No, no."
+679,NORM,679,"You shouldn't be on your feet too
+much, you got weight you're not
+used too.  How's the food down
+there?"
+680,MARGE,680,"Had dinner at a place called the
+King's Table.  Buffet style.  It
+was pretty darn good."
+681,NORM,681,Was it reasonable?
+682,MARGE,682,"Yah, not too bad.  So it's nice
+up there?"
+683,NORM,683,"Yah, it's good.  No pike yet, but
+it's good."
+684,CARL,684,"Who the fuck are you?  Who the
+fuck are you?"
+685,WADE,685,"I got your goddamn money, you
+little punk.  Now where's my
+daughter?"
+686,CARL,686,"I am through fucking around!  Drop
+that fucking briefcase!"
+687,WADE,687,Where's my daughter?
+688,CARL,688,"Fuck you, man!  Where's Jerry?  I
+gave SIMPLE FUCKING INSTRUCTIONS -"
+689,WADE,689,"Where's my damn daughter?  No
+Jean, no money!"
+690,CARL,690,Drop that fucking money!
+691,WADE,691,"No Jean, no money!"
+692,CARL,692,Is this a fucking joke here?
+693,CARL,693,...  Is this a fucking joke?
+694,WADE,694,"Unghh ... oh, geez..."
+695,CARL,695,You fucking imbeciles!
+696,WADE,696,"Oh, for Christ ... oh, geez..."
+697,CARL,697,Oh!
+698,CARL,698,...  Owwmm...
+699,CARL,699,...  Mmmmmphnck!  He fnkem shop me...
+700,JERRY,700,"Oh, geez!"
+701,CARL,701,Ophhem ma fuchem gaphe!
+702,ATTENDANT,702,"May I have your ticket, please?"
+703,JERRY,703,"Oh!  Oh, geez!"
+704,SCOTT'S VOICE,704,...  Dad?
+705,JERRY,705,Yah.
+706,SCOTT'S VOICE,706,Stan Grossman called.
+707,JERRY,707,"Yah, okay."
+708,SCOTT'S VOICE,708,Twice.
+709,JERRY,709,Okay.
+710,SCOTT'S VOICE,710,...  Is everything okay?
+711,JERRY,711,Yah.
+712,SCOTT'S VOICE,712,Are you calling Stan?
+713,JERRY,713,Well...  I'm goin' ta bed now.
+714,CARL,714,...  Fnnkn ashlzh...  Fnk...
+715,MAN,715,How ya doin'?
+716,GARY,716,Mr. Mohra?
+717,MAN,717,Yah.
+718,GARY,718,Officer Olson.
+719,MAN,719,"Yah, right-o."
+720,MAN,720,"...  So, I'm tendin' bar there at
+Ecklund && Swedlin's last Tuesday
+and this little guy's drinkin'
+and he says, 'So where can a guy
+find some action - I'm goin' crazy
+down there at the lake.'  And I
+says, 'What kinda action?' and he
+says, 'Woman action, what do I
+look like,'  And I says 'Well,
+what do I look like, I don't
+arrange that kinda thing,' and he
+says, 'I'm goin' crazy out there
+at the lake' and I says, 'Well,
+this ain't that kinda place.'"
+721,GARY,721,Uh-huh.
+722,MAN,722,"So he says, 'So I get it, so you
+think I'm some kinda jerk for
+askin',' only he doesn't use the
+word jerk."
+723,GARY,723,I unnerstand.
+724,MAN,724,"And then he calls me a jerk and
+says the last guy who thought he
+was a jerk was dead now.  So I
+don't say nothin' and he says, 'What
+do ya think about that?'  So I
+says, 'Well, that don't sound like
+too good a deal for him then.'"
+725,GARY,725,Ya got that right.
+726,MAN,726,"And he says, 'Yah, that guy's dead
+and I don't mean a old age.'  And
+then he says, 'Geez, I'm goin'
+crazy out there at the lake.'"
+727,GARY,727,White Bear Lake?
+728,MAN,728,"Well, Ecklund && Swedlin's, that's
+closer ta Moose Lake, so I made
+that assumption."
+729,GARY,729,Oh sure.
+730,MAN,730,"So, ya know, he's drinkin', so I
+don't think a whole great deal of
+it, but Mrs. Mohra heard about the
+homicides out here and she thought
+I should call it in, so I called
+it in.  End a story."
+731,GARY,731,What'd this guy look like anyways?
+732,MAN,732,"Oh, he was a little guy, kinda
+funny-lookin'."
+733,GARY,733,Uh-huh - in what way?
+734,MAN,734,Just a general way.
+735,GARY,735,"Okay, well, thanks a bunch, Mr.
+Mohra.  You're right, it's probably
+nothin', but thanks for callin'
+her in."
+736,MAN,736,"Oh sure.  They say she's gonna
+turn cold tomorrow."
+737,GARY,737,"Yah, got a front movin' in."
+738,MAN,738,Ya got that right.
+739,CARL,739,...  Mmmnphh.
+740,CARL,740,"...  Jeshush Shrist...  Jeshush
+fuchem Shrist!"
+741,CARL,741,Mmmphh...
+742,MARGE,742,"No, I'm leavin' this mornin', back
+up to Brainerd."
+743,VOICE,743,"Well, I'm sorry I won't see ya."
+744,MARGE,744,"Mm.  But ya think he's all right?
+I saw him last night and he's -"
+745,VOICE,745,What'd he say?
+746,MARGE,746,"Well, it was nothin' specific
+he said, it just seemd like it
+all hit him really hard, his
+wife dyin' -"
+747,VOICE,747,His wife?
+748,MARGE,748,Linda.
+749,VOICE,749,No.
+750,MARGE,750,Linda Cooksey?
+751,VOICE,751,"No.  No.  No.  They weren't -
+he, uh, he was bothering Linda
+for about, oh, for a good year.
+Really pestering her, wouldn't
+leave her alone."
+752,MARGE,752,So ... they didn't...
+753,VOICE,753,"No.  No.  They never married.
+Mike's had psychiatric problems."
+754,MARGE,754,"Oh.  Oh, my."
+755,VOICE,755,"Yah, he - he's been struggling.
+He's living with his parents now."
+756,MARGE,756,Oh.  Geez.
+757,VOICE,757,"Yah, Linda's fine.  You should
+call her."
+758,MARGE,758,"Geez.  Well - geez.  That's a
+suprise."
+759,MARGE,759,Hello?
+760,MARGE,760,"Mr. Lundegaard?  Sorry to bother
+you again.  Can I come in?"
+761,JERRY,761,"Yah, no, I'm kinda - I'm kinda
+busy -"
+762,MARGE,762,"I unnerstand.  I'll keep it real
+short, then.  I'm on my way out
+of town, but I was just -  Do you
+mind if I sit down?  I'm carrying
+a bit of a load here."
+763,JERRY,763,"No, I -"
+764,MARGE,764,"Yah, it's this vehicle I asked you
+about yesterday.  I was just
+wondering -"
+765,JERRY,765,"Yah, like I told ya, we haven't had
+any vehicles go missing."
+766,MARGE,766,"Okay, are you sure, cause, I mean,
+how do you know?  Because, see,
+the crime I'm investigating, the
+perpetrators were driving a car
+with dealer plates.  And they
+called someone who works here, so
+it'd be quite a coincidence if
+they weren't, ya know, connected."
+767,JERRY,767,"Yah, I see."
+768,MARGE,768,"So how do you - have you done any
+kind of inventory recently?"
+769,JERRY,769,"The car's not from our lot, ma'am."
+770,MARGE,770,"but do you know that for sure
+without -"
+771,JERRY,771,"Well, I would know.  I'm the
+Executive Sales Manager."
+772,MARGE,772,"Yah, but -"
+773,JERRY,773,We run a pretty tight ship here.
+774,MARGE,774,"I know, but - well, how do you
+establish that, sir?  Are the
+cars, uh, counted daily or what
+kind of -"
+775,JERRY,775,"Ma'am, I answered your question."
+776,MARGE,776,"...  I'm sorry, sir?"
+777,JERRY,777,"Ma'am, I answered your question.
+I answered the darn -  I'm
+cooperating here, and I..."
+778,MARGE,778,"Sir, you have no call to get
+snippy with me.  I'm just doin'
+my job here."
+779,JERRY,779,"I'm not, uh, I'm not arguin' here.
+I'm cooperating...  There's no, uh
+- we're doin' all we can..."
+780,MARGE,780,"Sir, could I talk to Mr. Gustafson?"
+781,MARGE,781,...  Mr. Lundegaard?
+782,JERRY,782,"Well, heck, if you wanna, if you
+wanna play games here!  I'm
+workin' with ya on this thing, but
+I..."
+783,JERRY,783,"Okay, I'll do a damned lot count!"
+784,MARGE,784,Sir?  Right now?
+785,JERRY,785,"Sure right now!  You're darned
+tootin'!"
+786,JERRY,786,"...  If it's so damned imporant
+to ya!"
+787,MARGE,787,"I'm sorry, sir, I -"
+788,JERRY,788,"Aw, what the Christ!"
+789,MARGE,789,"...  Oh, for Pete's sake."
+790,MARGE,790,"...  Oh, for Pete's sake..."
+791,MARGE,791,"...  For Pete's s- he's fleein' the
+interview.  He's feelin' the
+interview..."
+792,MARGE,792,"...  Detective Sibert, please..."
+793,WOMAN,793,"Well, so far we're just saying he's
+wanted for questioning in connection
+with a triple homicide.  Nobody at
+the dealship there's been much help
+guessing where he might go..."
+794,MARGE,794,Uh-huh.
+795,WOMAN,795,"We called his house; his little
+boy said he hadn't been there."
+796,MARGE,796,And his wife?
+797,WOMAN,797,"She's visiting relatives in Florida.
+Now his boss, this guy Gustafson,
+he's also disappeared.  Nobody at
+his office knows where he is."
+798,MARGE,798,"Geez.  Looks like this thing goes
+higher than we thought.  You call
+his home?"
+799,WOMAN,799,"His wife's in the hospital, has
+been for a couple months.  The big C."
+800,MARGE,800,"Oh, my."
+801,WOMAN,801,"And this Shep Proudfoot character,
+he's a little darling.  He's now
+wanted for assault and parole
+violation.  He clobbered a neighbor
+of his last night and another
+person who could be one of your perps,
+and he's at large."
+802,MARGE,802,"Boy, this thing is really ... geez."
+803,WOMAN,803,"Well, they're all out on the wire.
+Well, you know..."
+804,MARGE,804,"Yah.  Well, I just can't thank you
+enough, Detective Sibert, this
+cooperation has been outstanding."
+805,DETECTIVE SIBERT,805,"Ah, well, we haven't had to run
+around like you.  When're you due?"
+806,MARGE,806,End a April.
+807,DETECTIVE SIBERT,807,Any others?
+808,MARGE,808,"This'll be our first.  We've been
+waiting a long time."
+809,DETECTIVE SIBERT,809,"That's wonderful.  Mm-mm.  It'll
+change your life, a course."
+810,MARGE,810,"Oh, yah, I know that!"
+811,DETECTIVE SIBERT,811,"They can really take over, that's
+for sure."
+812,MARGE,812,You have children?
+813,DETECTIVE SIBERT,813,"I thought you'd never ask.  The
+older one is Janet, she's nine, and
+the younger one is Morgan."
+814,MARGE,814,"Oh, now he's adorable."
+815,DETECTIVE SIBERT,815,"He's three now.  Course, not in that
+picture."
+816,MARGE,816,"Oh, he's adorable."
+817,DETECTIVE SIBERT,817,"Yah, he -"
+818,MARGE,818,Where'd you get him that parka?
+819,DETECTIVE SIBERT,819,Both of these.
+820,MARGE,820,"Oh, no, I can't let you do that."
+821,DETECTIVE SIBERT,821,"Oh, don't be silly."
+822,MARGE,822,"Well, okay - thank you, Detective."
+823,DETECTIVE SIBERT,823,"Oh, don't be silly."
+824,CARL,824,You should she zhe uzher guy!
+825,CARL,825,...  The fuck happen a her?
+826,GRIMSRUD,826,"She started shrieking, you know."
+827,CARL,827,Jezhush.
+828,CARL,828,"...  Well, I gotta muddy."
+829,CARL,829,"...  All of it.  All eighty gran.
+Forty for you..."
+830,CARL,830,"...  Forty for me.  Sho thishuzh
+it.  Adiosh."
+831,CARL,831,"...  You c'n'ave my truck.  I'm
+takin' a Shiera."
+832,GRIMSRUD,832,We split that.
+833,CARL,833,"HOW THE FUCK DO WE SHPLITTA FUCKIN'
+CAR?  Ya dummy!  Widda fuckin'
+chainshaw?"
+834,GRIMSRUD,834,One of us pays the other for half.
+835,CARL,835,"HOLD ON!  NO FUCKIN' WAY!  YOU
+FUCKIN' NOTISH ISH?  I GOT FUCKIN'
+SHOT INNA FAISH!  I WENT'N GOTTA
+FUCKIN' MONEY!  I GET SHOT FUCKIN'
+PICKIN' IT UP!  I BEEN UP FOR
+THIRTY-SHIKSH FUCKIN' HOURZH!  I'M
+TAKIN' THAT FUCKIN' CAR!  THAT
+FUCKERZH MINE!"
+836,CARL,836,"...  YOU FUCKIN' ASH-HOLE!  I
+LISHEN A YOUR BULLSHIT FOR A WHOLE
+FUCKIN' WEEK!"
+837,CARL,837,...  Are we shquare?
+838,CARL,838,...  ARE WE SHQUARE?
+839,CARL,839,"...  Fuckin' ash-hole.  And if
+you shee your friend Shep Proudpfut,
+tell him I'm gonna NAIL hizh
+fuckin' ash."
+840,VOICE,840,"His wife.  This guy says she was
+kidnapped last Wednesday."
+841,MARGE,841,The day of our homicides.
+842,VOICE,842,Yah.
+843,MARGE,843,And this guy is...
+844,VOICE,844,"Lundegaard's father-in-law's
+accountant."
+845,MARGE,845,Gustafson's accountant.
+846,VOICE,846,Yah.
+847,MARGE,847,But we still haven't found Gustafson.
+848,VOICE,848,-  looking.
+849,MARGE,849,Sorry - didn't copy.
+850,VOICE,850,Still missing.  We're looking.
+851,MARGE,851,Copy.  And Lundegaard too.
+852,VOICE,852,"Yah.  Where are ya, Margie?"
+853,MARGE,853,"Oh, I'm almost back - I'm driving
+around Moose Lake."
+854,VOICE,854,Oh.  Gary's loudmouth.
+855,MARGE,855,"Yah, the loudmouth.  So the whole
+state has it, Lundegaard and
+Gustafson?"
+856,VOICE,856,"Yah, it's over the wire, it's
+everywhere, they'll find 'em."
+857,MARGE,857,Copy.
+858,VOICE,858,We've got a -
+859,MARGE,859,There's the car!  There's the car!
+860,VOICE,860,Whose car?
+861,MARGE,861,My car!  My car!  Tan Ciera!
+862,VOICE,862,Don't go in!  Wait for back-up!
+863,VOICE,863,...  Chief Gunderson?
+864,MARGE,864,"Copy.  Yah, send me back-up!"
+865,VOICE,865,"Yes, ma'am.  Are we the closest PD?"
+866,MARGE,866,"Yah, Menominie only has Chief Perpich
+and he takes February off to go to
+Boundary Waters."
+867,MARGE,867,"Stop!  Police!  Turn around and
+hands up!"
+868,MARGE,868,...  Hands up!
+869,MARGE,869,...  Police!
+870,MARGE,870,...  Halt!
+871,MARGE,871,...  Halt!
+872,MARGE,872,...  Halt!
+873,MARGE,873,"...  All right, buddy.  On your
+belly and your hands clasped
+behind you."
+874,MARGE,874,"...  So that was Mrs. Lundegaard
+in there?"
+875,MARGE,875,"...  I guess that was your
+accomplice in the wood chipper."
+876,MARGE,876,"...  And those three people in
+Brainerd."
+877,MARGE,877,"...  And for what?  For a little
+bit of money."
+878,MARGE,878,"...  There's more to life than money,
+you know."
+879,MARGE,879,"...  Don't you know that?...  And
+here ya are, and it's a beautiful
+day..."
+880,MARGE,880,...  Well...
+881,MARGE,881,...  I just don't unnerstand it.
+882,COP ONE,882,Mr. Anderson...
+883,VOICE,883,...  Who?...
+884,COP ONE,884,"Mr. Anderson, is this your burgundy
+88 out here?"
+885,VOICE,885,...  Just a sec.
+886,COP ONE,886,"Could you open the door, please?"
+887,VOICE,887,"...  Yah.  Yah, just a sec."
+888,VOICE,888,...  Just a sec...
+889,COP ONE,889,Dale!
+890,COP ONE,890,Call an ambulance!
+891,COP TWO,891,You got him okay?
+892,COP ONE,892,"Yah, yah, call an ambulance."
+893,MARGE,893,Oooph!
+894,NORM,894,They announced it.
+895,MARGE,895,They announced it?
+896,NORM,896,Yah.
+897,MARGE,897,...  So?
+898,NORM,898,Three-cent stamp.
+899,MARGE,899,Your mallard?
+900,NORM,900,Yah.
+901,MARGE,901,"Norm, that's terrific!"
+902,NORM,902,It's just the three cent.
+903,MARGE,903,It's terrific!
+904,NORM,904,"Hautman's blue-winged teal got the
+twenty-nine cent.  People don't
+much use the three-cent."
+905,MARGE,905,"Oh, for Pete's - a course they do!
+Every time they raise the darned
+postage, people need the little
+stamps!"
+906,NORM,906,Yah.
+907,MARGE,907,"When they're stuck with a bunch a
+the old ones!"
+908,NORM,908,"Yah, I guess."
+909,MARGE,909,That's terrific.
+910,MARGE,910,"...  I'm so proud a you, Norm."
+911,NORM,911,"I love you, Margie."
+912,MARGE,912,"I love you, Norm."
+913,NORM,913,...  Two more months.
+914,MARGE,914,Two more months.

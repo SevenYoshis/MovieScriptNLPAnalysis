@@ -1,0 +1,1129 @@
+,character,line #,line
+0,WORKER,0,Master Li is here!
+1,AUNT WU,1,Shu Lien!
+2,AUNT WU,2,Li Mu Bai is here!
+3,LI,3,How's everything?
+4,AUNT WU,4,Fine.  Please come in.
+5,YU,5,Mu Bai...It's been too long.
+6,LI,6,It has.
+7,LI,7,How's business?
+8,YU,8,Good.  And how are you?
+9,LI,9,Fine.
+10,YU,10,"Monk Zheng said you were at Wudan
+Mountain.  He said you were
+practicing deep meditation."
+11,LI,11,Yes.
+12,YU,12,"The mountain must be so peaceful...
+I envy you.  My work keeps me so
+busy, I hardly get any rest."
+13,LI,13,I left the training early.
+14,YU,14,"Why?  You're a Wudan fighter.
+Training is everything."
+15,LI,15,"During my meditation training... I
+came to a place of deep silence...
+I was surrounded by light... Time
+and space disappeared.  I had come
+to a place my master had never told
+me about."
+16,YU,16,You were enlightened?
+17,LI,17,"No.  I didn't feel the bliss of
+enlightenment.  Instead... I was
+surrounded by an endless sorrow.  I
+couldn't bear it.  I broke off my
+meditation.  I couldn't go on.
+There was something... pulling me
+back."
+18,YU,18,What was it?
+19,LI,19,"Something I can't let go of.  You
+are leaving soon?"
+20,YU,20,"We're preparing a convoy for a
+delivery to Peking."
+21,LI,21,"Perhaps I could ask you to deliver
+something to Sir Te for me."
+22,YU,22,"The Green Destiny Sword?  You're
+giving it to Sir Te?"
+23,LI,23,"I am.  He has always been our
+greatest protector."
+24,YU,24,"I don't understand.  How can you
+part with it?  It has always been
+with you."
+25,LI,25,"Too many men have died at its edge.
+It only looks pure because blood
+washes so easily from its blade."
+26,YU,26,"You use it justly, you're worthy of
+it."
+27,LI,27,It's time for me to leave it behind.
+28,YU,28,So what will you do now?
+29,YU,29,"Come with me to Peking.  You can
+give the sword to Sir Te yourself.
+It'll be just like old times."
+30,LI,30,"First I must visit my master's
+grave.  It's been many years since
+Jade Fox murdered him.  I have yet
+to avenge his death.  And yet I'm
+thinking of quitting.  I must pray
+for his forgiveness."
+31,YU,31,"Join me once you have finished.  I
+can wait for you in Peking."
+32,LI,32,Perhaps.
+33,GUARDS,33,Ok.  Pass.
+34,YU,34,Thanks.  Let's go into the city.
+35,GIAO,35,"Everything got here safely.  I'm
+much obliged."
+36,YU,36,Just doing my job.
+37,GIAO,37,"Sun Security has been the best
+since your father started it.
+You're a credit to his memory."
+38,YU,38,Thank you.
+39,GIAO,39,I mean it.
+40,SIR TE,40,"This is Li's personal sword, a
+great hero's weapon!  He is the
+only one in the world worthy of
+carrying it.  It's too fine a gift.
+I cannot accept it."
+41,YU,41,"Sir Te!  It has brought him as much
+trouble as glory.  Help him to
+leave these troubles behind.
+Otherwise, he'll never be able to
+start anew."
+42,SIR TE,42,"All right.  I'll act as the sword's
+custodian."
+43,DE LU,43,Governor Yu has arrived.
+44,SIR TE,44,I must change.
+45,YU,45,"You've always been so good to Li Mu
+Bai and me.  Please accept our
+thanks."
+46,SIR TE,46,"Please do not be such a stranger.
+You'll stay the night as my guest.
+Now, Shu Lien... tell me something.
+And forgive me for prying.  Your
+father was a great friend to me,
+and I think of you as my own
+daughter."
+47,YU,47,"Please, Sir Te, what is it?"
+48,SIR TE,48,"Li Mu Bai giving up his sword and
+his warrior days... maybe he's
+trying to tell you something?"
+49,YU,49,I don't know...
+50,SIR TE,50,"Don't be coy.  I've always known
+about your feelings for each other.
+All these years, it's a shame...
+neither of you is brave enough to
+admit the truth to the other.
+You're both wasting precious time."
+51,YU,51,"I beg your pardon.  Li Mu Bai and I
+aren't cowards."
+52,SIR TE,52,"When it comes to emotions, even
+great heroes can be idiots.  Tell
+me if Li Mu Bai is not more open
+the next time you see him.  I'll
+give him an earful!"
+53,DE LU,53,"Sir Te said to leave the sword in
+here."
+54,DE LU,54,Who are you?
+55,JEN,55,"I'm your guest today.  I am Governor
+Yu's daughter."
+56,DE LU,56,"This is Sir Te's study.  You are
+here to..."
+57,JEN,57,I was looking for a quiet corner.
+58,DE LU,58,"I am Sir Te's head servant.  And
+this is another of our guests."
+59,JEN,59,"It's heavy for such a thin piece of
+metal!"
+60,YU,60,"The handle is heavy.  And the blade
+is no ordinary metal.  Still, the
+sword is the lightest of weapons.
+You're just not used to handling it."
+61,JEN,61,"But I have had much practice.  As a
+child in the West, a platoon lived
+with us.  They'd let me play with
+their weapons.  The scabbard is so
+beautiful."
+62,YU,62,"Beautiful but dangerous.  Once you
+see it tainted with blood, its
+beauty is hard to admire.  It's 400
+years old."
+63,JEN,63,Exquisite!  You said it belongs to...
+64,YU,64,"My friend Li Mu Bai.  He's given it
+to Sir Te as a gift."
+65,JEN,65,"Li Mu Bai!  The famous warrior?
+Why would he give his sword to Sir
+Te?"
+66,YU,66,You're too young to understand.
+67,JEN,67,You're a sword fighter too?
+68,YU,68,"Yes, I am.  But I prefer the
+machete.  Certain moves, however,
+call for a sword."
+69,JEN,69,Really?
+70,JEN,70,"It must be exciting to be a fighter,
+to be totally free!"
+71,YU,71,"Fighters have rules too: friendship,
+trust, integrity... Without rules,
+we wouldn't survive for long."
+72,JEN,72,"I've read all about people like you.
+Roaming wild, beating up anyone who
+gets in your way!"
+73,YU,73,"Writers wouldn't sell many books if
+they told how it really is."
+74,JEN,74,"But you're just like the characters
+in the stories."
+75,YU,75,"Sure.  No place to bathe for days,
+sleeping in flea-infested beds...
+They tell you all about that in
+those books?"
+76,JEN,76,"You know what I mean.  I'm getting
+married soon, but I haven't lived
+the life I want."
+77,YU,77,"So I heard.  Congratulations.  It's
+the most important step in a
+woman's life, isn't it?"
+78,JEN,78,"You're not married, are you?"
+79,YU,79,What do you think?
+80,JEN,80,"No!  You couldn't roam around
+freely if you were."
+81,YU,81,You're probably right.
+82,SIR TE,82,"Go ahead, Governor Yu."
+83,SIR TE,83,"Two feet 9 inches long.  1 inch
+wide.  The handle is 1 inch deep,
+2.6 inches wide.  Seven-tenths of
+an inch thick.  With seven rubies
+missing from the hilt.  You can
+tell the design dates back to
+before the Chin era.  Engraved with
+a technique lost by the time of the
+Han Dynasty."
+84,GOVERNOR YU,84,"Your knowledge is remarkable, Sir Te."
+85,SIR TE,85,"A sword by itself rules nothing.
+It comes alive only through skillful
+manipulation."
+86,GOVERNOR YU,86,I see your point.  Please continue.
+87,SIR TE,87,"The Imperial Court isn't the
+problem.  With royalty and officials
+everywhere, the Royal Guard keeps
+security tight.  But Peking is not
+like the West.  Here, you'll find
+all sorts of characters.  Proceed
+with caution in your quest for law
+and order.  Don't depend only on
+the court.  Contacts in the Giang
+Hu underworld can ensure your
+position.  Be strong, yet supple.
+This is the way to rule."
+88,MAID,88,Governess...
+89,GOVERNESS,89,Let me do it.
+90,JEN,90,Please sit.
+91,GOVERNESS,91,"I've made you silk pajamas.  Do you
+want to change into them?"
+92,JEN,92,Put them down.
+93,GOVERNESS,93,I heard you met Shu Lien today.
+94,JEN,94,Do you know her?
+95,GOVERNESS,95,"She's one of those.  Your mother
+would not want you consorting with
+her kind."
+96,JEN,96,"I'll socialize with whomever I
+please."
+97,GOVERNESS,97,"Don't invite danger into your
+father's house."
+98,JEN,98,I'm tired now.
+99,GOVERNESS,99,"Go to bed then.  Miss has grown up,
+and is getting married soon.  God
+knows what the future will bring."
+100,JEN,100,"It will be just the same.  Enough!
+I'm tired."
+101,GOVERNESS,101,"Autumn is coming.  I'll shut the
+windows for you."
+102,MASTER BO,102,"Chilly, eh?"
+103,NIGHTMAN,103,"Yes, Master Bo."
+104,BO,104,"Someone help!  Stop him!  He's on
+the roof!  The sword's been stolen!
+Stop thief!  Stop him!"
+105,TSAI,105,It's Jade Fox!
+106,MAY,106,We must avenge mother!
+107,BO,107,Do something!  He's getting away!
+108,YU,108,"Return the sword, and I'll let you
+go."
+109,YU,109,You've been trained at Wudan?
+110,TSAI,110,"You're mistaken.  We're just street
+performers.  We were rehearsing."
+111,MAY,111,Father!
+112,BO,112,"You were rehearsing?  Who are you
+trying to fool?"
+113,BO,113,Where did that thief go?
+114,BO,114,Governor Yu's house!
+115,YU,115,Get down here!  Give back the sword!
+116,DE LU,116,Sir Te awaits you.
+117,BO,117,"I'm sure the thief is in the Yu
+household."
+118,SIR TE,118,How dare you imply?
+119,BO,119,But I say --
+120,SIR TE,120,-- Enough.
+121,YU,121,Has Governor Yu ever seen the sword?
+122,SIR TE,122,"Yes, though I doubt he's involved
+in this."
+123,YU,123,"But the sword could be in his
+compound."
+124,SIR TE,124,"Then someone's trying to set him up.
+We should inform Li Mu Bai."
+125,MADAM YU,125,What is it?
+126,MAID,126,"Madam Yu, someone's put up posters."
+127,MADAM YU,127,Let me see.
+128,GOVERNESS,128,"Someone is after Jade Fox.
+Preposterous, looking for her here!"
+129,BO,129,Where are they?
+130,HOMELESS MAN,130,"I don't know.  I haven't seen them
+in two days."
+131,MAID,131,"There is a Miss Shu Lien here to
+see you."
+132,GOVERNESS,132,Miss is busy right now.
+133,MAID,133,I'll tell her.
+134,JEN,134,Show her in.
+135,GOVERNESS,135,This spells trouble.
+136,JEN,136,I have a guest.
+137,MAID,137,This way please.
+138,JEN,138,I've missed you.
+139,YU,139,How so?
+140,JEN,140,I'm bored.
+141,YU,141,You're doing calligraphy?
+142,JEN,142,I'll write your name.  Just for fun.
+143,YU,143,"I never realized my name looks like
+""sword."""
+144,YU,144,"You write gracefully.  Calligraphy
+is so similar to fencing."
+145,JEN,145,Maybe it is.  I wouldn't know.
+146,JEN,146,Please.
+147,YU,147,"Thank you for seeing me.  I hear
+your wedding day is near.  You must
+be overwhelmed by the preparations."
+148,JEN,148,"I'm hardly doing a thing.  The less
+I think of it the better.  My
+parents are arranging everything.
+The Gous are a very powerful family.
+My marrying one will be good for my
+father's career."
+149,YU,149,"You are fornuate to marry into such
+a noble family."
+150,JEN,150,"Am I?  I wish I were like the
+heroes in the books I read.  Like
+you and Li Mu Bai.  I guess I'm
+happy to be marrying.  But to be
+free to live my own life, to choose
+whom I love... That is true
+happiness."
+151,YU,151,"Do you think so?  Let me tell you a
+story."
+152,JEN,152,About you and Li Mu Bai?
+153,YU,153,"Yes.  Did you know I was once
+engaged to be married?"
+154,JEN,154,"No, really?"
+155,YU,155,"His name was Meng Si Zhao.  He was
+a brother to Li Mu Bai by oath.
+One day, while in battle, he was
+killed by the sword of Li Mu Bai's
+enemy.  After, Li Mu Bai and I went
+through a lot together.  Our
+feelings for each other grew
+stronger.  But how could we dishonor
+Meng's memory?  So the freedom you
+talk about, I too desire it.  But I
+have never tasted it."
+156,JEN,156,"Too bad for Meng, but it's not your
+fault, or Li Mu Bai's."
+157,YU,157,"I am not an aristocrat, as you
+are... but I must still respect a
+woman's duties."
+158,JEN,158,"Don't distance us.  From now on,
+let's be like sisters."
+159,YU,159,"Then as a sister, let me wish you
+happiness in your marriage."
+160,MADAM YU,160,"What a godforsaken place!  Can't
+your father be appointed closer to
+civilization?  Jen... are you
+listening to me?"
+161,TSAI,161,Let's go!
+162,TSAI,162,Who are you?
+163,BO,163,Wait!  I'm a friend!
+164,TSAI,164,I don't care about your sword.
+165,BO,165,Why were you spying on the Yus?
+166,TSAI,166,"I'm looking for someone.  Jade Fox.
+I'm a police inspector from Shaan
+Xi, Gen Su district.  Jade Fox is a
+master criminal.  I hear she
+infiltrated the Yus.  She must have
+come with them when they transferred
+here.  But with Yu's reputation, I
+can't just go in and accuse her."
+167,BO,167,This Jade Fox is a woman?
+168,TSAI,168,Yes.
+169,BO,169,Then leave her to me.
+170,TSAI,170,"Pardon me, but I doubt you can
+handle her.  My wife was quite a
+martial arts expert.  Jade Fox
+killed her.  So you see, this is
+personal.  Leave her to me."
+171,MAY,171,It's ready!
+172,BO,172,I'm ready for anything!
+173,MAY,173,Father gets first dip.
+174,TSAI,174,They're gone.
+175,MAY,175,What does it say?
+176,TSAI,176,"""We'll settle this at midnight on
+Yellow Hill.""  Good, the fox is out
+of her hole."
+177,SIR TE,177,"Shu Lien, look who's here."
+178,LI,178,"Sir Te believes it's a ploy cast
+suspicion on Governor Yu."
+179,YU,179,"But something is going on at the Yu
+household."
+180,LI,180,What have you discovered?
+181,LI,181,Jade Fox?  Impossible.
+182,YU,182,"You always suspected she'd fled to
+the West."
+183,LI,183,"I didn't think she'd dare come back
+to Peking!"
+184,YU,184,"Is there any place safer than under
+the nose of Governor Yu?"
+185,LI,185,"So I shall avenge my master's death
+after all."
+186,YU,186,"Be careful.  Sir Te requires
+discretion.  Official business is
+difficult enough.  Don't let
+personal feelings make it worse.
+And I don't know... even this
+poster... could be some sort of trap."
+187,LI,187,Did you see who posted it?
+188,YU,188,No.
+189,LI,189,"It says Jade Fox is hiding at Yu's.
+On the night of the theft there was
+a brawl near Yu's.  Were you
+involved?"
+190,YU,190,"It was Bo, Sir Te's man.  I hear he
+followed the thief to the Yus'."
+191,LI,191,Have you questioned him yet?
+192,YU,192,"No, not yet..."
+193,LI,193,"But your men are watching over Yu's
+compund?"
+194,YU,194,"No, I'd already sent them home.
+You can blame me for losing the
+sword, but please trust that I'll
+get it back soon using my own
+methods."
+195,LI,195,"That's not what I meant.  I don't
+care about the sword."
+196,YU,196,"What do you mean?  Didn't you come
+back here for it?"
+197,LI,197,"I don't know it was stolen until I
+got here."
+198,YU,198,"Then, why did you come?"
+199,LI,199,"Well, we had talked..."
+200,DE LU,200,"Pardon my intrusion.  Master Li,
+your room is ready."
+201,LI,201,Thank you.  Please lead the way.
+202,BO,202,"The fox doesn't care much for
+punctuality.  Still no sign of her."
+203,TSAI,203,Enough!  Show yourself.
+204,FOX,204,"Tsai... you dog!  You will pay for
+your stubbornness."
+205,BO,205,"That's what you think, old witch!"
+206,TSAI,206,"If you surrender now, you'll suffer
+less.  But if you resist, I won't
+stop until you're dead."
+207,MAY,207,"Father!  Let me avenge my mother's
+death."
+208,FOX,208,"You'll soon end up like her, you
+little whore!"
+209,BO,209,You'll pay for that!
+210,TSAI,210,She's going to paralyze you!
+211,TSAI,211,May!
+212,FOX,212,"Tsai, you filthy mongrel!  An ambush!"
+213,MAY,213,"Father, are you all right?"
+214,LI,214,"Wudan should have gotten rid of you
+long ago.  It's been a long time,
+Jade Fox!  You don't remember me...
+But you should remember my master.
+You infiltrated Wudan while I was
+away.  You stole our master!  Now
+it's time for you to pay!"
+215,FOX,215,"Your master underestimated us women.
+Sure, he'd sleep with me, but he
+would never teach me.  He deserved
+to die by a woman's hand!"
+216,LI,216,"You stole the secrets of Wudan's
+highest martial arts.  But after
+ten years of training, your moves
+are still undisciplined.  And
+today, under a Wudan sword... you
+will die!"
+217,FOX,217,"Disciple, we'll kill them all!"
+218,FIGURE IN BLACK,218,Let's go!
+219,BO,219,Another one!
+220,FOX,220,I must get rid of Tsai!
+221,LI,221,"Who are you?  Why is the Green
+Destiny in your possession?"
+222,FIGURE IN BLACK,222,What's it to you?
+223,LI,223,"My name is Li Mu Bai.  The Green
+Destiny is mine.  Jade Fox can't be
+your master.  Where did you learn
+that ""Xuan Piu"" move?"
+224,FIGURE IN BLACK,224,I'm just playing around.
+225,LI,225,"Tell me, who is your master?"
+226,FIGURE IN BLACK,226,Let's go!
+227,FOX,227,We must kill them!
+228,MAY,228,Father!
+229,TE,229,This is Tsai?
+230,MAY,230,"My father.  Police Inspector from
+Shaan."
+231,TE,231,"This should be reported to Governor
+Yu.  The victim is an officer.  You
+believe the killer is hiding out in
+his compound."
+232,YU,232,I'd bet my life on it!
+233,TE,233,Come with me.
+234,SIR TE,234,"This needs to be resolved, and
+quickly."
+235,LI,235,"I'll get into the Yu household and
+get her.  I'll ferret out Fox and
+her gang."
+236,YU,236,"We must be careful.  Governor Yu is
+a court official, and in charge of
+security.  Any disturbance will
+cast suspicion on him.  It might
+get Sir Te in trouble."
+237,SIR TE,237,This is a delicate matter.
+238,YU,238,"Sir Te, can you find some excuse to
+invite Madam Yu and her daughter?"
+239,SIR TE,239,What do you have in mind?
+240,YU,240,"The best way to trap a fox is
+through her cubs."
+241,MADAM YU,241,"Madam Te is certainly spoiling us
+with these wedding gifts.  She's
+being so considerate."
+242,YU,242,"I'm sorry she's not feeling well
+enough to receive you today."
+243,MADAM YU,243,"I heard Sir Te lost something.  And
+now Madame Te's not feeling well..."
+244,YU,244,"We know who stole the missing item.
+If the thief returns it, I'm sure
+Sir Te will pursue the matter no
+further."
+245,MADAM YU,245,"That's good.  Sometimes the help
+can't keep their hands to themselves.
+It's very embarassing."
+246,YU,246,"Sir Te knows that even well-meaning
+people can make mistakes... that
+can bring ruin to themselves and
+their families."
+247,MADAM YU,247,But don't be too lenient.
+248,YU,248,"No mercy will be shown toward the
+murderer who turned up in Peking."
+249,MADAM YU,249,A murderer?
+250,YU,250,"Yes.  The very killer of Li Mu
+Bai's own master.  Last night, she
+killed a policeman who had tracked
+her down."
+251,MADAM YU,251,A female criminal!  Now that's news!
+252,JEN,252,You say she killed a policeman?
+253,YU,253,"Yes, from the West.  He went
+undercover and and followed her
+here,"
+254,MADAM YU,254,"Maybe the murderer and the thief
+are one and the same."
+255,YU,255,"I doubt it.  This thief... it very
+unusual..."
+256,YU,256,"...And most likely smarter than a
+mere killer."
+257,JEN,257,"Greetings, Sir Te."
+258,SIR TE,258,"Hello, Madam Yu.  This is Li Mu
+Bai, the renowned swordsman."
+259,LI,259,Delighted to meet you.
+260,TE,260,Miss Yu is soon to be married.
+261,LI,261,Congratulations.
+262,MAY,262,Why don't you come in?
+263,BO,263,I'm standing guard.
+264,MAY,264,Come in.  It's cold.
+265,MAY,265,"Come in.  We don't have to fear
+Jade Fox if we're together."
+266,LI,266,"Isn't it a bit too late to be out?
+You've brought me the sword?"
+267,FIGURE,267,I do as I please.
+268,LI,268,Where's your master?
+269,FIGURE,269,What's it to you?
+270,LI,270,"Had enough flying?  You've got
+potential.  You've studied the
+Wudan Manual but you don't
+understand it.  You need a real
+master."
+271,FIGURE,271,Do you think you are a real master?
+272,LI,272,"Like most things, I am nothing.
+It's the same for this sword.  All
+of it is simply a state of mind."
+273,FIGURE,273,"Stop talking like a monk!  Just
+fight!"
+274,LI,274,Then tell me where Jade Fox is.
+275,FIGURE,275,On guard!
+276,LI,276,Real sharpness comes without effort.
+277,LI,277,"No growth without assistant.  No
+action without reaction.  No desire
+without restraint.  Now give
+yourself up and find yourself again.
+There is a lesson for you."
+278,FIGURE,278,Go ahead.
+279,LI,279,"Why should I?  You need practice.
+I can teach you to fight with the
+Green Destiny, but first you must
+learn to hold it in stillness."
+280,FIGURE,280,Why do you want to teach me?
+281,LI,281,"I've always wanted a disciple
+worthy of Wudan's secrets."
+282,FIGURE,282,And if I use them to kill you?
+283,LI,283,"That's a risk I'm willing to take.
+Deep down, you're good.  Even Jade
+Fox couldn't corrupt you."
+284,FIGURE,284,"Wudan is a whorehouse!  Keep your
+lessons!"
+285,FOX,285,"You're home late... or should I say
+early?"
+286,JEN,286,"Why are you still here?  You killed
+a policeman.  You should leave!
+You'll bring ruin on my whole family."
+287,FOX,287,"They wouldn't have found me if you
+hadn't stolen the sword.  Like a
+little girl, you thought stealing
+would be fun?  You, too, are
+responsible for that death.  Come
+with me.  You don't want to waste
+your life as the wife of some
+bureaucrat.  Denied your talent...
+As a master and disciple we will
+rule."
+288,JEN,288,I'll never live as a thief!
+289,FOX,289,You're already a thief.
+290,JEN,290,"That was just for fun.  How can I
+leave?  Where would I go?"
+291,FOX,291,"Wherever we want.  We'll get rid of
+anyone in our way.  Even your father."
+292,JEN,292,Shut up!
+293,FOX,293,"It's the Giang Hu fighter
+lifestyle... kill or be killed.
+Exciting, isn't it?"
+294,JEN,294,I owe you nothing.
+295,FOX,295,"Yes, you do!  You are still my
+disciple."
+296,JEN,296,"You think you've been teaching me
+all these years from the manual?
+You couldn't even decipher the
+symbols!"
+297,FOX,297,"I studied the diagrams.  But you
+hid the details!"
+298,JEN,298,"You wouldn't have understood, even
+if I had tried to explain.  You
+know... you've gone as far as you
+can go.  I hid my skills so as not
+to hurt you."
+299,FOX,299,"If I hadn't seen you fight with Li
+Mu Bai, I'd still be ignorant of
+all you've hidden from me."
+300,JEN,300,"Master... I started learning from
+you in secret when I was 10.  You
+enchanted me with the world of
+Giang Hu.  But once I realized I
+could surpass you, I became so
+frightened!  Everything fell apart.
+I had no one to guide me, no one to
+learn from."
+301,FOX,301,"Believe me, I've a lesson or two
+left to teach you!"
+302,YU,302,The sword is back... are you happy?
+303,LI,303,"I admit, getting it back makes me
+realize how much I'd missed it."
+304,YU,304,"But it's not your sword anymore.
+You gave it to Sir Te."
+305,LI,305,"True.  But I must borrow it for one
+last mission.  Jade Fox must die at
+its edge.  Did you know what you
+were hiding when you covered for
+that girl?"
+306,YU,306,"My job was to get the sword back,
+without embarassing anyone.  I
+wasn't about to ruin her life, or
+her father's."
+307,LI,307,"You did your job well.  But, this
+girl... I saw her last night."
+308,YU,308,I knew she would intrigue you.
+309,LI,309,She needs direction... and training.
+310,YU,310,"She's an aristocrat's daughter.
+She's not one of us.  In any case,
+it will all be over soon.  You'll
+kill Fox, and she'll marry."
+311,LI,311,"That's not for her.  She should
+come to Wudan and become a disciple."
+312,YU,312,But Wudan does not accept women.
+313,LI,313,"For her, they might make an
+exception.  If not, I'm afraid
+she'll become a poisoned dragon."
+314,YU,314,"It's not our affair.  Even if Wudan
+accepts her, her husband might
+object."
+315,LI,315,"I thought by giving away the sword,
+I could escape the Giang Hu world.
+But the cycle of bloodshed continues."
+316,YU,316,"I wish there were something more I
+could do to help you."
+317,LI,317,"Just be patient with me, Shu Lien."
+318,JEN,318,Lo?
+319,LO,319,Jen!
+320,JEN,320,You shouldn't have come.
+321,LO,321,"With all the traffic on your
+rooftop these days... it took me a
+while to get in here.  I can't wait
+any longer.  I was wrong to let you
+go.  Come back with me.  You'll be
+happy in the desert.  You'll be
+free there."
+322,JEN,322,"You've been looking for me all this
+time?"
+323,MADAM YU,323,Jen... stop playing with it.
+324,JEN,324,I won't break it.
+325,GUARD A,325,"It's Dark Cloud!  Dark Cloud is
+coming!"
+326,MADAM YU,326,"Lower the shade, don't let them see
+you!"
+327,DARK CLOUD (LO),327,Don't touch the women!
+328,LO,328,Let's go!
+329,LO,329,Come get your comb.
+330,LO,330,Hurry back to your mother.
+331,LO,331,She's mine.
+332,LO,332,Let's stop a moment.
+333,JEN,333,Give it back!
+334,LO,334,"You're tired.  You need rest.  Your
+horse needs water.  There's a creek
+up here."
+335,LO,335,"Well, there used to be!  What's
+your name?  I'm Lo.  The Hans call
+me Dark Cloud.  I'm not that tall
+or big, but I'm quick as lightning."
+336,JEN,336,My comb!
+337,LO,337,"If you like that arrow, I can make
+you a bow.  Great for hunting wild
+chicken.  They're delicious."
+338,LO,338,"You need to eat, understand?  Then
+you'll have the strength to fight.
+Understand?"
+339,LO,339,You're eating too fast.  Slowly.
+340,LO,340,"You've got quite a temper.  It's
+better this way."
+341,JEN,341,You coward!
+342,LO,342,"Still in a bad mood?  At least
+you're speaking.  What's your name?"
+343,LO,343,"I didn't think the Hans had names
+like that."
+344,LO,344,"Relax.  If I had wanted to, I would
+already have done it.  You must be
+dying for a bath.  Fresh water's
+hard to get here.  But I managed to
+bring some up.  You can wear my
+clothes when you're done.  They're
+clean.  Don't worry.  I'll sing, so
+you'll know where I am.  After the
+bath, you'll be calmer."
+345,LO,345,"No more hitting on the head!  All
+this trouble for a comb?"
+346,JEN,346,"It's mine.  It means a lot to me.
+A barbarian like you wouldn't
+understand."
+347,LO,347,"Not true.  I can use it to pick
+fleas from my horse."
+348,JEN,348,"By the way, I'm a real Manchurian."
+349,LO,349,"I'm sorry... I guessed wrong.  I
+though you were a Han."
+350,JEN,350,Give me back my comb.
+351,LO,351,I don't take orders from anyone.
+352,JEN,352,Give it back.
+353,LO,353,"When I was a boy, one night, I saw
+a thousand shooting stars.  I
+thought, where did they all go?
+I'm an orphan.  I used to look for
+stars alone.  I thought if I rode
+to the other end of the desert, I'd
+find them.  I've been riding in the
+desert ever since."
+354,JEN,354,"And so, the little boy became a
+fearsome bandit.  He couldn't find
+the stars, so he stole my comb."
+355,LO,355,"Out here, you always fight for
+survival.  You have to be part of a
+gang to stand a chance.  Slowly,
+your gang becomes your family.  All
+that Dark Cloud stuff is just to
+scare people and make my life easier."
+356,JEN,356,"So you're still that little boy
+looking for shooting stars."
+357,LO,357,"I am a man.  And now I've found the
+brightest star of all."
+358,LO,358,"Your father's men are looking for
+you."
+359,LO,359,"Your father's men are still looking
+for you.  They're still out there,
+circling closer."
+360,JEN,360,Let them look.
+361,LO,361,It is trouble for me.
+362,JEN,362,Don't send me back!
+363,LO,363,"You must decide.  You might get
+tired of this life.  You might
+begin to miss your family.  If it
+were our daughter, we'd look for
+her too.  She would miss us.  Jen...
+I want you to be mine forever.  I
+will make my mark on the world.  I
+will earn your parents' respect.
+We have a legend.  Anyone who dares
+to jump from the mountain, God will
+grant his wish.  Long ago, a young
+man's parents were ill, so he
+jumped.  He didn't die.  He wasn't
+even hurt.  He floated away, far
+away, never to return.  He knew his
+wish had come true.  If you believe,
+it will happen.  The elders say, ""A
+faithful heart makes wishes come
+true."""
+364,JEN,364,"Keep it safe.  Return it to me when
+we are together again."
+365,LO,365,I will.
+366,JEN,366,"If you don't, I'll come after you.
+And I won't let you off so easy."
+367,LO,367,"Wherever I went, someone always
+recognized me.  I really tried.
+Later, I heard you came to Peking.
+I was afraid I'd never see you
+again.  So I came.  I can't let you
+marry."
+368,JEN,368,Go.
+369,LO,369,Jen...
+370,JEN,370,Don't ever come back.
+371,LO,371,So it's over?
+372,JEN,372,Yes.
+373,MAID,373,We heard noises.
+374,JEN,374,It was just a cat.
+375,YU,375,You think Jade Fox will show up?
+376,LI,376,"She's out there, but I doubt she'll
+show herself.  We'll keep our eyes
+open.  Sooner or later, she'll come
+for the girl."
+377,LO,377,Jen!  Come with me!  You're mine!
+378,LO,378,"Come with me to the desert!  Jen!
+Come with me to Xin Jiang!"
+379,LI,379,Where is Jade Fox?
+380,YU,380,Come with me!  Hurry!
+381,YU,381,"You thought she'd give it all up
+and go back West with you?"
+382,LO,382,She's mine.
+383,LI,383,"Either way, you are no good to her
+dead.  With the Gou and Yu clans
+hunting you, you'll soon be in
+their hands."
+384,LO,384,I don't care anymore.
+385,LI,385,"If you truly loved her, you wouldn't
+say that."
+386,YU,386,Don't you want to see her again.
+387,LI,387,"All right.  I'll write you an
+introduction.  Take it to Wudan.
+Wait there for news from me."
+388,LO,388,All right.
+389,SIR TE,389,"When will this end?  They take it,
+they put it back, they take it
+again.  My home is turning into a
+warehouse."
+390,TE,390,Speak!
+391,BO,391,"Jen has run away!  Gou found the
+wedding chamber empty.  Governor Yu
+requests your assistance.  You know
+the Giang Hu underworld.  He wants
+to find her, and keep her from harm."
+392,LI,392,"Sir Te, leave this to us.  Don't
+worry."
+393,WAITRESS,393,What can I serve you?
+394,JEN,394,The cup is dirty.
+395,GANGSTER A,395,Hello.  What is your name?
+396,JEN,396,Long.
+397,GANGSTER B,397,"It's young Master Long.  My
+apologies.  I'm Iron Eagle Sung and
+this is my brother in arms, Flying
+Cougar Li Yun.  What brings you to
+Huai An, and where are you headed,
+Master Long?"
+398,JEN,398,Anywhere there's action.
+399,GANGSTER A,399,"In that case, perhaps we could be
+of assistance."
+400,JEN,400,Don't bother.
+401,GANGSTER A,401,You don't seem to understand.
+402,JEN,402,So what if I don't?
+403,GANGSTER B,403,"We have ways of helping you
+understand."
+404,GANGSTER A,404,Are you related to Li Mu Bai?
+405,JEN,405,He is my defeated foe!
+406,YU,406,Have some tea.
+407,LI,407,"Shu Lien... The things we touch
+have no permanence.  My master
+would say... there is nothing we
+can hold on to in this world.  Only
+by letting go can we truly possess
+what is real."
+408,YU,408,"Not everything is an illusion.  My
+hand... wasn't that real?"
+409,LI,409,"Your hand, rough and callused from
+machete practice... All this time,
+I've never had the courage to touch
+it."
+410,LI,410,"Giang Hu is a world of tigers and
+dragons, full of corruption... I
+tried sincerely to give it up but I
+have brought us only trouble."
+411,YU,411,"To repress one's feelings only
+makes them stronger."
+412,LI,412,"You're right, but I don't know what
+to do.  I want to be with you...
+just like this.  It gives me a
+sense of peace."
+413,WAITER,413,Please follow me.
+414,JEN,414,I want a clean room.
+415,WAITER,415,We have plenty.  Your order?
+416,JEN,416,"Steamed whole cod, bite-size
+meatballs, a little starchy, but
+keep the sauce light, shark fin
+soup, mixed vegetables, and some
+warm wine."
+417,WAITER,417,"I have to order from a bigger
+restaurant."
+418,JEN,418,Hurry then.
+419,GIANG HU A,419,That's him.
+420,MI BIAO,420,"I am Iron Arm Mi.  I heard a true
+master has arrived.  I have come to
+seek a lesson."
+421,MI BIAO,421,You asked for it!
+422,JEN,422,What kind of Iron Arm are you?
+423,FLYING MACHETE CHANG,423,"You have amazing technique!  I am
+Flying Machete.  Are you related to
+Southern Crane?"
+424,JEN,424,"Southern Duck?  I don't eat anything
+with two feet.  Who could remember
+such long-winded names?"
+425,GOU JUN SIHUNG,425,"Li Mu Bai is your defeated foe, and
+you don't know his master, Southern
+Crane?"
+426,JEN,426,Who are you?
+427,GOU JUN SIHUNG,427,I'm Shining Phoenix Mountain Gou.
+428,JEN,428,"Gou?  I hate that name.  It makes
+me puke!  Too bad you're named Gou.
+You'll be the first to feel my
+sword today."
+429,MONK JING,429,Hold it!  Don't you know Monk Jing?
+430,JEN,430,"A monk, in a place like this?  You
+need a lesson!"
+431,MONK JING,431,Who are you?
+432,JEN,432,"Who am I?  I am... I am the
+Invincible Sword Goddess.  Armed
+with the Incredible... Green
+Destiny.  Be you Li or Southern
+Crane... lower your head... and ask
+for mercy.  I am the desert dragon.
+I leave no trace.  Today I fly over
+Eu-Mei.  Tomorrow... I'll kick over
+Wudan Mountain!"
+433,FLYING MACHETE CHANG,433,"We politely asked for a friendly
+match, but she showed no respect,
+and attacked us.  Everyone came by
+to teach her a lesson."
+434,MI BIAO,434,Her sword was just too powerful.
+435,MONK JING,435,"I've traveled everywhere, but never
+met anyone so uncivilized."
+436,SHINING PHOENIX MOUNTAIN GOD,436,"She kept accusing me of being Gou
+Jun Pei's brother.  Who is this
+Gou, anyway?"
+437,YU,437,Her husband.
+438,LI,438,"We're close to your headquarters.
+Go home and check in."
+439,YU,439,What about you?
+440,LI,440,I'll look around and catch up later.
+441,YU,441,"Not a bad idea.  Tonight we'll get
+a good night's sleep at headquarters."
+442,SECURITY MAN A,442,"Mistress, you're back."
+443,YU,443,It's you!  How's everything here?
+444,CAPTAIN,444,Fine.  You've been gone a while.
+445,YU,445,"Yes, and I leave again tomorrow.
+Your wife was due?"
+446,AH WAI,446,"Yeah, a baby girl."
+447,YU,447,Good!
+448,AH WAI,448,"I'll be happy if she's half as
+strong as you."
+449,YU,449,Mrs. Wu...
+450,AUNT WU,450,You're back!
+451,YU,451,How's the arm?  Still sore?
+452,AUNT WU,452,"Much better.  You've been gone so
+long."
+453,YU,453,"Li Mu Bai is coming to stay the
+night."
+454,AUNT WU,454,I'll go and make up his room!
+455,JEN,455,Sister Shu Lien...
+456,YU,456,Here you must be in proper attire.
+457,JEN,457,"I'm just borrowing some clean
+clothes.  I'm not staying."
+458,YU,458,I'll give them to you.
+459,JEN,459,"I was just passing by and wondered
+how you were."
+460,JEN,460,"You, sister..."
+461,YU,461,"Look at the trouble you've caused.
+Now you know what Giang Hu life is
+really like.  If you think of me as
+your sister, let me give you some
+sisterly advice.  You can run from
+marriage, but not your parents."
+462,JEN,462,They forced me to marry!
+463,YU,463,"Go back to them first.  Then you
+can decide about Lo."
+464,JEN,464,You know about Lo?
+465,YU,465,"He really loves you.  Come back to
+Peking with me.  We'll find a
+solution."
+466,JEN,466,Where is he now?
+467,YU,467,"Li Mu Bai has made arrangements.
+He sent him to Wudan Mountain."
+468,JEN,468,"You're working together to set me
+up!  I'm leaving!"
+469,YU,469,"How dare you accuse us?  I always
+knew you had stolen the sword!
+I've done nothing but protect you
+and your family.  And you're repaid
+me with nothing but contempt.  Li
+Mu Bai himself spared you, and all
+you do is insult him.  We wanted
+some peace and you've ruined it all!
+You're no sister of mine!"
+470,JEN,470,"What do I care?  You were never a
+real friend anyway.  But I wonder,
+how long could you last as my enemy?"
+471,YU,471,Put the sword down!
+472,YU,472,Jen!
+473,YU,473,Everyone out.  Shut the doors.
+474,YU,474,Fine... the friendship is over.
+475,YU,475,"Don't touch it!  That's Li Mu Bai's
+sword."
+476,JEN,476,Come and get it if you can.
+477,YU,477,"Without the Green Destiny, you are
+nothing."
+478,JEN,478,"Don't be a sore loser.  Go ahead.
+Take your pick.  I'll wait.  Go
+ahead."
+479,YU,479,Give me the sword.
+480,JEN,480,Take it!
+481,LI,481,"Stop it!  You don't deserve the
+Green Destiny."
+482,JEN,482,Not another lecture!  On guard!
+483,LI,483,Let's end this here.
+484,JEN,484,Only the sword will settle this.
+485,LI,485,"I only let you go because I wanted
+to see the real you."
+486,JEN,486,What do you know about a true heart?
+487,JEN,487,What do you want?
+488,LI,488,"What I've always wanted, to teach
+you."
+489,JEN,489,"All right.  If you can take back
+the sword in three moves, I'll go
+with you."
+490,JEN,490,Give it back!
+491,LI,491,Kneel!
+492,JEN,492,Never!
+493,LI,493,Then you have no use for the sword.
+494,FOX,494,"Sooner or later, they'd drag you
+back to Peking.  Your parents will
+never accept you again.  But why go
+home?  We've gone this far, we
+won't stop now.  You'll always be
+my lady.  At last, we'll be our own
+masters.  We'll be happy.  That's
+the most important thing.  All we
+have left is each other, right?
+Lie down and rest."
+495,AUNT WU,495,"She's crazy.  You should have
+killed her."
+496,YU,496,I didn't have the heart.
+497,AUNT WU,497,"Well, Li Mu Bai can do it."
+498,JEN,498,Is it me or the sword you want?
+499,LI,499,You've been drugged!
+500,LI,500,Where is Jade Fox?
+501,YU,501,What happened?
+502,LI,502,"Jade Fox drugged her.  How did you
+get here?"
+503,YU,503,We followed Jade Fox.
+504,LI,504,And so you die.
+505,FOX,505,And so shall you!
+506,YU,506,A poisoned needle!
+507,FOX,507,"You deserve to die, but the life I
+was hoping to take... was Jen's.
+Ten years I devoted to you.  But
+you deceived me!  You hid the
+manual's true meaning.  I never
+improved... but your progress was
+limitless!  You know what poison is?
+An eight-year-old girl, full of
+deceit.  That's poison!  Jen!  My
+only family... my only enemy..."
+508,YU,508,"You can't die!  Tell us what poison
+you used!  You can't die!  Tell us
+the antidote!  You can't let Li Mu
+Bai die!"
+509,JEN,509,"She used Purple Yin... Purple Yin
+poison.  It goes straight to the
+heart."
+510,LI,510,"My blood will soon reverse its flow.
+It's the same poison she used to
+kill my master.  There is no
+antidote."
+511,YU,511,"That can't be!  Everything has an
+antithesis!  Why not this?"
+512,JEN,512,"The antidote exists.  She taught it
+to me.  The formula is simple, but
+it takes time to prepare.  Trust me.
+As you have helped me, let me help
+you."
+513,LI,513,"All right.  Hurry.  I will hold on
+as long as I can."
+514,YU,514,"Take my horse and go to the compound.
+Give this to Mrs. Wu.  She'll help
+you.  Hurry!"
+515,JEN,515,Spare your energy.  I'll be back!
+516,JEN,516,Where is Mrs. Wu?
+517,AUNT WU,517,Stop it!
+518,JEN,518,Shu Lien told me to show you this.
+519,AUNT WU,519,Let her in.
+520,YU,520,"Mu Bai, hold on.  Give me some
+hope..."
+521,LI,521,Shu Lien...
+522,YU,522,Save your strength.
+523,LI,523,"My life is departing.  I've only
+one breath left."
+524,YU,524,"Use it to meditate.  Free yourself
+from this world as you have been
+taught.  Let your soul rise to
+eternity with your last breath.  Do
+not waste it... for me."
+525,LI,525,"I've already wasted my whole life.
+I want to tell you with my last
+breath... I have always loved you.
+I would rather be a ghost, drifting
+by your side... as a condemned
+soul... than enter heaven without
+you.  Because of your love... I
+will never be a lonely spirit."
+526,JEN,526,He's gone?
+527,YU,527,"Bo... please take this sword back
+to Sir Te."
+528,YU,528,"Now you must go to Wudan Mountain.
+Lo awaits you there.  Promise me
+one thing, whatever path you take
+in this life... be true to yourself."
+529,JEN,529,"Do you remember the legend of the
+young man?"
+530,LO,530,"""A faithful heart makes wishes come
+true."""
+531,JEN,531,"Make a wish, Lo."
+532,LO,532,"To be back in the desert, together
+again."

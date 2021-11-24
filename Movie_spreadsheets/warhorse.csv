@@ -1,0 +1,1756 @@
+,character,line #,line
+0,FARMER,0,"Come on, easy, girl. Easy, girl.
+Easy."
+1,FARMER 2,1,"This is a stubborn one, huh?"
+2,FARMER 3,2,There we go. Who's a clever girl?
+3,FARMER 3,3,2.
+4,FARMER 2,4,"Easy does it. Easy does it. Come on,
+steady does it."
+5,AUCTION MAN 1,5,"Mornin', pop. Put your mark here.
+Good luck.
+3."
+6,AUCTION MAN 2,6,Get the colt...
+7,AUCTION MAN 3,7,Whoa! Whoa!
+8,AUCTION MAN 3,8,"AUCTION MAN 3 (CONT'D)
+Easy..."
+9,DAD,9,Now that's a beauty.
+10,SI EASTON,10,"Forget it, Ted. He's half
+thoroughbred and not got a day's
+work in him.
+(points to a plow horse next to"
+11,JOEY),11,"Now, there... There's your ticket."
+12,DAD,12,"But look at him, Si. Look at that creature.
+4."
+13,SI EASTON,13,"Don't be daft. You need something
+solid to plow a field."
+14,DAD,14,"(fixed on Joey)
+Yeah, but he's something else, that one."
+15,AUCTIONEER,15,"Alright gentlemen - settle down - settle
+down - horses on my right - men with money
+in their pockets on my left - it's the
+perfect combination. Is Fred Goddard here?"
+16,FRED,16,YES! I's here.
+17,AUCTIONEER,17,Good - more money than sense. Dave Hill?
+18,DAVE,18,I'm here. Yes!
+19,AUCTIONEER,19,"Bugger off, you tight bastard - you've been
+coming here for 20 years - never bought so
+much as a pork scratching."
+20,AUCTIONEER (CONT'D),20,"Okay - first up today - a gorgeous young
+horse - prettiest thing I've seen since my
+wife on our wedding day. Let's get going,
+shall we? Who wants this wonderful creature."
+21,DAD,21,"One guinea.
+5."
+22,AUCTIONEER,22,"One guinea, one guinea, one
+guinea...
+YOUNG ANDREW EASTON
+I thought you needed a plow horse, Mister
+Narracott."
+23,AUCTIONEER,23,"Any advance on one guinea? Any
+advance on one guinea?"
+24,LYONS,24,Two guineas.
+25,DAD,25,Three!
+26,SI EASTON,26,"Ted Narracott - it's completely the wrong
+animal."
+27,DAD,27,"Si Easton - I'm not gonna let that
+bastard see me off."
+28,LYONS,28,Five guineas.
+29,DAD,29,Six!
+30,SI EASTON,30,Oh for the love of...!
+31,LYONS,31,Seven.
+32,DAD,32,Greedy sod thinks he can just buy anybody.
+33,(BIDDING),33,"Eight.
+6."
+34,SI EASTON,34,"Stop it - he's your landlord - you
+can't be picking fights with him."
+35,LYONS,35,Ten guineas.
+36,SI EASTON,36,"You haven't got the money. Let's go
+home - let's have a pint."
+37,DAD,37,"Eleven guineas, sir, from as good a man as
+any in this town."
+38,AUCTIONEER,38,Do I hear twelve guineas? Twelve guineas?
+39,SI EASTON,39,"That's top price for a workin'
+animal. Ted! Save it for the shire!"
+40,DAD,40,"There are big days and there are
+small days. Which will it be?"
+41,AUCTIONEER,41,Do I hear any advance on eleven guineas?
+42,DAVID LYONS,42,"Just let him go, dad, I don't care
+for him, he's too... jumpy."
+43,LYONS,43,Shall we say - twenty five?
+44,SI EASTON,44,"Well, he's got you there. Nice try, Ted.
+7."
+45,ANDREW,45,"You were great, Mr N. Gave him a run
+for his money."
+46,AUCTIONEER,46,"Going, going..."
+47,DAD,47,Thirty. Thirty guineas!
+48,AUCTIONEER,48,"Thirty guineas. Thirty guineas. Going
+going gone - to Mister Ted Narracott."
+49,SI EASTON,49,"What have you done, Ted? What have you done?"
+50,LYONS,50,"Quite a beast, there. But what you gonna do
+with him - on a working farm? I hope you
+got the rent, Ted. I'll be around for it
+when it comes due."
+51,SI EASTON,51,"You're a fool, Ted. And our Rosie'll
+never forgive you."
+52,SI EASTON,52,8.
+53,SI EASTON,53,"MRS. NARRACOTT
+What have you done?"
+54,ALBERT,54,"That's Mooney's colt!
+MRS. NARRACOTT
+You were supposed to buy a plow horse."
+55,ALBERT,55,"You bought him?
+MRS. NARRACOTT
+What'd you pay for him?"
+56,ALBERT,56,"MRS. NARRACOTT (CONT'D)
+How much, Ted Narracott?"
+57,DAD,57,"I won't tell you a lie - though I would love
+to. Thirty guineas.
+MRS. NARRACOTT
+Thirty guineas!"
+58,DAD,58,"MRS. NARRACOTT (CONT'D)
+He's not worth ten! Are you out of your
+mind? What about the rent?"
+59,DAD,59,"He's a strong one, Rosie. Look at
+the way he holds his head!
+MRS. NARRACOTT
+How the hell are we gonna pull anything with
+that? Ted - you have to take him back. You
+have to take him back right now now."
+60,ALBERT,60,"No.
+9.
+MRS. NARRACOTT
+You have to get down on your knees and beg
+for our money back."
+61,ALBERT,61,"No. No, please don't take him back."
+62,DAD,62,"We can't take him back till he's broken in.
+MRS. NARRACOTT
+And how are you gonna train a horse with
+that leg?"
+63,ALBERT,63,"I'll train him.
+MRS. NARRACOTT
+No, you stay out of this, Albie. You don't
+know nothing about horses."
+64,ALBERT,64,"Please, Mum. Please let me. I can do it."
+65,DAD,65,"We have to keep him. We've no choice.
+MRS. NARRACOTT
+Right. Well... you've got one month to
+break him in or I'm taking him back myself.
+(She turns to the house,
+but then...)
+How did you get to thirty - what other fool
+bid you up that high?"
+66,DAD,66,It was Lyons.
+67,DAD,67,"MRS. NARRACOTT
+We're gonna lose everything. After all we've
+been through - we're gonna lose it all."
+68,DAD,68,10.
+69,ALBIE,69,"Don't worry, Mum - I'll raise him - and I'll
+raise him good.
+MRS. NARRACOTT
+Well, you better. Go on - get started. See
+if a child can undo what your fool of a
+father's done to this family of ours."
+70,ALBERT,70,Right. Let's make a start then.
+71,ALBERT (CONT'D),71,"It's oats. Very tasty, that is. It's
+beef and gravy to us!"
+72,ALBERT (CONT'D),72,Come on...
+73,ALBERT (CONT'D),73,"I bet you're missing your mother.
+Look at you... first time without
+your mum. First time away from home.
+But you're not alone, are you. In
+fact. Cos I'm `ere..."
+74,ALBERT (CONT'D),74,"It's alright. It's alright.
+11."
+75,ALBERT (CONT'D),75,"I'm gonna call you Joey. Understand? Joey.
+That's you. And I'm Albert. It's alright,
+You're mine now. You're mine."
+76,ALBERT,76,"Whoa. I want you to stay there,
+Joey. Stay. That's it. Good boy.
+That's it, you've got it."
+77,ANDREW,77,"Hey, look at him, Albie. He's
+playing ""Grandma's Footsteps."""
+78,ALBERT,78,"Right, come on, Joey. Back you go.
+Come on. Back you go."
+79,(MORE),79,12.
+80,ALBERT (CONT'D),80,"You're all right. That's it. Good
+boy. Right. You've gotta stay
+there, understand?"
+81,ALBERT (CONT'D),81,"That's it. Good boy. You've got it.
+Good boy."
+82,ANDREW,82,Good boy. Good.
+83,(TO ALBERT),83,Now call him. Whistle.
+84,ALBERT,84,"Come now, Joey. Come on."
+85,ALBERT (CONT'D),85,"You can come now, Joey."
+86,ANDREW,86,Don't think he fancies your owls.
+87,ALBERT,87,"No, I read it in a story. It's how
+the Indians used to summon their
+horses."
+88,ALBERT (CONT'D),88,"Now, Joey, when I whistle, you've
+gotta come, understand?"
+89,ANDREW,89,"My dad had a dog who stayed when you
+called him. He used to run up
+behind you when you weren't
+looking, and uh..."
+90,ALBERT,90,"He's not a dog. He's just puzzling
+it through.
+13."
+91,ANDREW,91,Brilliant. Look at you.
+92,ANDREW,92,"MRS. NARRACOTT
+Albie."
+93,LYONS,93,There's only fifteen here.
+94,DAD,94,The rest will come.
+95,LYONS,95,"You know by rights I could take this farm
+back today, don't you? And I'm a great
+believer in my rights."
+96,DAD,96,It will come.
+97,LYONS,97,"If you drank less beer and bought fewer
+horses you might be able to look your
+landlord in the eye, Narracott."
+98,LYONS,98,14.
+99,DAD,99,"I said I'll pay you. We got to plant the
+bottom field."
+100,LYONS,100,"Bottom field's rock hard. Only stones down
+there."
+101,DAD,101,"No, we're going to plow it. Just give me
+`til the autumn. I'll pay every penny I owe
+you. With interest."
+102,LYONS,102,"How you going to plow it? Not with that
+fancy animal of yours?"
+103,DAD,103,He'll do it.
+104,LYONS,104,"You'll not get that one in a harness, let
+alone pulling a plow. Even drunk on a
+Tuesday night, you know that. And I can't
+wait for the money - there's a war coming."
+105,DAD,105,"I promise you that field will be plowed.
+We'll plant it with turnips. And the money
+will be yours when harvest comes."
+106,DAD,106,"MRS. NARRACOTT
+Please, sir. Please."
+107,LYONS,107,"Very well - if that fancy plows that field
+I'll give you till October to set things
+straight."
+108,ALBERT,108,What if he doesn't?
+109,LYONS,109,I'll take the horse on the day he fails.
+110,"(BEAT)
+(MORE)",110,15.
+111,LYONS (CONT'D),111,"And I'll take your father's farm and give it
+to working men who can hold their pints and
+hold their heads high in decent company."
+112,ALBERT,112,"No, please. Sir, you can't do that."
+113,LYONS,113,"Now, now, now, lad. What - are you bladdered
+as well?! Ted Narracott - I got you down in
+my book!"
+114,ALBERT,114,You can't harness him.
+115,DAD,115,He's got to be collared.
+116,ALBERT,116,"No, you can't. Look, you're scaring him,
+Dad. You're scaring him. He..."
+117,(DESPERATE),117,He can't take a plow!
+118,DAD,118,"He's got to plow!
+16."
+119,ALBERT,119,"He won't be able to do it - he's too young -
+he's not even been backed yet...."
+120,ALBERT,120,"MRS. NARRACOTT
+Ted!"
+121,ALBERT,121,"It's alright, boy. It's alright. It's
+alright. It's alright."
+122,ALBERT,122,"MRS. NARRACOTT
+I knew this would happen soon as I laid eyes
+on him...."
+123,ALBERT,123,"MRS. NARRACOTT (CONT'D)
+Ted. No. Ted, no!"
+124,DAD,124,"He's worth nothing to me! If he won't take
+the collar, he's not worth a damn thing!"
+125,ALBERT,125,Dad?
+126,DAD,126,Move aside.
+127,ALBERT,127,Dad. Stop.
+128,ALBERT,128,"MRS. NARRACOTT
+You shoot that horse we have nothing.
+17."
+129,ALBERT,129,"MRS. NARRACOTT (CONT'D)
+NO!"
+130,ALBERT,130,"You were right what you said, Dad. ""He'll do
+it,"" you told Lyons, ""He'll plow that
+field."" And he will! You'll see. He'll show
+you. We'll show you. We'll get it done."
+131,MUM,131,Let go. Let go.
+132,MUM (CONT'D),132,Go back to the house.
+133,MUM (CONT'D),133,"MRS. NARRACOTT
+Here, here. Some days are best forgotten.
+Today ain't one of them. Come on."
+134,ALBERT,134,"How are you today, Joey? I don't know much
+about life, boy, but I do know that there
+are big days and there are small days. And
+most days are small days, and, well, they
+don't matter much to anyone - but this -
+well, this is a big one. This is our big
+day. Well, it's cold out there. So I'm going
+to take this off -
+(he takes off his coat)
+Well, if it's tough for you - it should be
+tough for me, too...
+18."
+135,ALBERT (CONT'D),135,"Now, I'm gonna teach you how to plow
+and you're gonna learn. Is that
+understood? And then we can be
+together, which is how I believe
+things are meant to be."
+136,ALBERT (CONT'D),136,"Boy. Steady, boy. Here we go. Here
+we go."
+137,ALBERT (CONT'D),137,"Easy, easy... Look at me, Joey. See?
+See? You've just gotta put your nose
+through."
+138,ALBERT (CONT'D),138,"That's it. See? You've got it.
+You've got it. Good boy. There..."
+139,SI EASTON,139,"Too large, too rocky, matted with
+grass roots. Even a sturdy plow
+horse'd never manage it alone.
+19."
+140,ANDREW,140,"Yet he will, I say."
+141,SI EASTON,141,"You'd swear he'd sprout wings and
+fly if Albert had told you so.
+(smiling at his son:)
+It's a fine thing, loyal to your
+mate. Even if he is a bit barmy. A
+team of two might manage, given a
+month and good weather."
+142,LYONS,142,"Ted too squeamish to watch, is he?"
+143,SI EASTON,143,`Course he's watching.
+144,LYONS,144,"Well, you've raised him up a true
+Narracott, Ted, picture of his
+father, he is: not a dollop of
+ordinary sense but that thick
+stubbornness that'll lead him to
+insist on the impossible."
+145,LYONS (CONT'D),145,"Wasn't a farmer in Devon didn't
+admire you, myself among `em,
+leaving your brothers that fine farm
+and setting yourself at this stoney
+patch of unpromising ground. You've
+fettle enough for twenty men, but
+with a gimpy leg and the drinking -
+for the pain, isn't it, that you
+drink?"
+146,(MORE),146,20.
+147,LYONS (CONT'D),147,"- yeah, none of us could have
+anticipated an ending better than
+this. Makes me question the wisdom
+of the charity that urged me to rent
+you this place, not only looking at
+you, me old pal, but that pretty
+little wife of yours, thought you
+were a spark, she did."
+148,"LYONS CONCLUDES:
+LYONS (CONT'D)",148,"And now your son's sinking into the
+selfsame bog that's swallowing you."
+149,ALBERT,149,"See Joey - I got the collar, too!"
+150,ALBERT (CONT'D),150,"Come on, boy. Walk on. That's it. Walk on!
+Walk on, Joey. Come on, boy, walk on."
+151,LYONS,151,"You'd be better off startin' at the
+top of the hill and goin' down!
+Gravity's the only friend you're
+gonna have today, young lad."
+152,ALBERT,152,"Walk on, Joey! Walk on! Come on,
+Joey, walk on. Walk on, boy."
+153,ALBERT (CONT'D),153,"Walk on. Come on, walk on."
+154,"TED
+(TO HIMSELF:)",154,"It'll take the whip to move him.
+21."
+155,LYONS,155,"Bravo! You've reached the top of the
+hill! Off you go again, boy! You'll
+make even better time comin' down!!"
+156,ALBERT,156,"Good boy. Good lad. Good lad. Now
+walk on. Good boy."
+157,ANDREW,157,"Albie, we're all with ya!"
+158,LYONS,158,"Look look look! The plow hasn't even cut
+yet!"
+159,LYONS,159,22.
+160,ALBERT,160,"Do you know - I believe we can do
+it, Joey. I knew when I first saw
+you that you'd be the best of us.
+That's why he bought you. He knows
+you've all the courage he never had.
+I knew when I first saw you that
+you'd be the one who'd save us."
+161,ALBERT (CONT'D),161,Whoa. Whoa.
+162,LYONS,162,"You've got no chance, lad. He'll not
+turn over half an acre. Give it up
+now. You've done well. You've tried
+hard. You're more of a man than your
+father."
+163,SI EASTON,163,"Come on now, Mr. Lyons, that's a bit
+rough, isn't it?"
+164,"LYONS
+(A SHRUG:)",164,"Well, he'll destroy that horse."
+165,LYONS (CONT'D),165,"I'll be over Thursday. Give you a
+day to close it up."
+166,LYONS (CONT'D),166,23.
+167,NEIGHBOUR,167,Your wool.
+168,(THEN),168,"I'm sorry, Rosie."
+169,ALBERT,169,"Now, boy! You've got to do it, Joey.
+You don't know, so I'm gonna have to
+do the knowing for you when the rest
+of our lives depend on this! So get
+set to pull - and pull straight! And
+pull hard!"
+170,ALBERT (CONT'D),170,"Now, boy! Go!"
+171,ALBERT (CONT'D),171,"Walk on, Joey! Walk on! That's it!
+Good boy, Joey! Good boy!"
+172,ANDREW,172,"Walk on! Walk on! Walk on! Walk
+on, Joey!"
+173,"ANDREW (CONT'D)
+(YELLING)",173,Go around it!!
+174,ALBERT,174,"Whoa, Joey! Whoa, Joey! Joey! Joey,
+whoa whoa whoa! Joey, stop! You'll
+break the blade -
+24."
+175,ANDREW,175,Will you look at you?
+176,"SAYS:
+LYONS",176,"I'd not let a child of mine slip in
+the mud alongside a plow blade. He
+could lose a foot!"
+177,ROSIE NARRACOTT,177,"You'll likelier lose an eye, Mr.
+Lyons, if you carry on prating at me
+how to manage my son! Or my plow, or
+my horse, or my field, or my farm!"
+178,ROSIE NARRACOTT,178,"MRS. NARRACOTT
+Come on, Albie! Push on through!"
+179,ANDREW,179,"Get it done, Albie! Get it done!
+25."
+180,ROSIE,180,"Oh, my pair of fools. My mighty
+fools."
+181,ROSIE,181,You're as battered and bloodied as he is.
+182,ALBERT,182,And where's Dad?
+183,ROSIE,183,Still in the bottom field.
+184,ALBERT,184,"Stumbling about, I suppose."
+185,ROSIE,185,"It's not the drink, Albert, that
+makes him stumble -
+26."
+186,"ALBERT
+(ABRUPTLY)",186,"He drinks, mum."
+187,ROSIE,187,"Well, so might you if you'd been
+where he's been, seen what he's
+seen!"
+188,ALBERT,188,"Well, he don't talk to me about it."
+189,ROSIE,189,"He don't talk about it because he
+can't. There aren't words for some
+things. Come here..."
+190,ROSIE (CONT'D),190,The mice've been at it. Sit down.
+191,ROSIE (CONT'D),191,"MRS. NARRACOTT
+Here. It's his campaign pennant. He were
+Sergeant, Seventh Battalion, Imperial
+Yeomanry."
+192,ROSIE,192,"And that is the Queen's South Africa
+Medal. Every man who fought in the
+Boer War got one of those. But
+this..."
+193,ROSIE (CONT'D),193,"That's the Distinguished Conduct
+Medal.
+27."
+194,ALBERT,194,Not dad's?
+195,ROSIE,195,"Well it ain't mine, dear. He got
+that after the fighting at
+Transvaal. After he'd been hurt, and
+he'd saved some other lads, and
+well... I don't know what else, he
+won't tell me either. But the first
+day he got home he just... tossed
+them out. First day he could walk,
+he threw `em straight in the
+dustbin, and wouldn't hear a word I
+said not to."
+196,ROSIE (CONT'D),196,"See, what you done today, you and
+Joey, you're chuffed up now, and so
+you should be, my splendid boy. It's
+good to be proud when you done
+something good. But what he done, in
+Africa, whatever it was, he takes no
+pride in it. Hard as it surely was,
+and however much pain it's cost him,
+he refuses to be proud of killing, I
+suppose."
+197,"ALBERT
+(CONFUSED:)",197,"I'd be proud. If I'd gone off to
+war. If I'd gone and saved my
+mates, and -"
+198,ROSIE,198,"Well, whether or not you think you'd
+do the same thing as him... Think
+how brave he is for refusing to be
+proud."
+199,ROSIE,199,28.
+200,ROSIE (CONT'D),200,"Oh, your dad makes mistakes. And he
+drinks to forget the mistakes that
+he's made - but he never gave up and
+he does that for us. And today, you
+showed the world it's all been worth
+it."
+201,ROSIE (CONT'D),201,"You keep looking after Joey and
+he'll always be looking after you."
+202,"ALBERT
+(SOFTLY:)",202,"Sergeant, Seventh Battalion,
+Imperial Yeomanry.
+(amazed, to Joey:)
+You see this, Joey? It's been
+through an entire war."
+203,ALBERT (CONT'D),203,"I'm not stealing it. I'll give it
+back to him, someday."
+204,ALBERT (CONT'D),204,29.
+205,DAVID,205,"Um, I'm the only boy that drives in
+the village. No one else drives but
+me."
+206,YOUNG WOMAN,206,"Oh, yeah?"
+207,DAVID,207,"That's right and this is my dad's
+car. You're lucky that you're in
+it. I'm not normally allowed to
+drive it `cause it's so -"
+208,YOUNG WOMAN,208,Is he a friend of yours?
+209,ALBERT,209,"Come on, boy, let's show her how to
+fly!"
+210,ALBERT,210,30.
+211,ALBERT (CONT'D),211,"Well...you're clearly not gonna be a
+jumper."
+212,ALBERT (CONT'D),212,"MRS. NARRACOTT
+Shoo, Harold. Shoo, shoo, shoo!"
+213,ALBERT,213,"We can try planting something else, or we
+could hire ourselves out to Uncle Bob."
+214,ALBERT (CONT'D),214,"How else we gonna pay Mr. Lyons'
+rent?"
+215,ALBERT (CONT'D),215,31.
+216,ALBERT (CONT'D),216,"MRS. NARRACOTT
+What we gonna do?"
+217,DAD,217,"I used to believe that God gave each man his
+fair portion of bad luck. I don't feel that
+any more. I've had more than my share."
+218,(PAUSE),218,"You'll stop loving me, Rose. And I won't
+blame you when you do."
+219,ROSE,219,"Well, I might hate you more - but I'll never
+love you less."
+220,MOTORBIKE RIDER,220,It's war!
+221,MOTORBIKE RIDER,221,"MOTORBIKE RIDER (CONT'D)
+We are at War with Germany. You hear?
+England is at war with Germany."
+222,MOTORBIKE RIDER,222,"MOTORBIKE RIDER (CONT'D)
+They're going to ring the bells at six
+o'clock - and then never ring them again
+until the war is over.
+32."
+223,ALBERT,223,"Look smart, Joey lad, it's the Tavistock
+Fair!"
+224,ALBERT,224,What has he done with him?
+225,RECRUITING OFFICER,225,"Last name first. First name, middle
+name, last."
+226,RECRUITING OFFICER,226,33.
+227,DAD,227,"Take my word for it - finest horse
+in the parish. Goes like a racer,
+strong, decent, very fine."
+228,SAM PERKINS,228,"No curbs, no splints, good feet and
+teeth. He's as sound as a bell,
+sir."
+229,CAPTAIN NICHOLLS,229,"And how much are you charging, sir - for
+this strong, decent, and very fine animal?!"
+230,DAD,230,Forty.
+231,CAPTAIN NICHOLLS,231,I'll give you twenty and not a penny more.
+232,DAD,232,"Twenty is no good to me, Captain. Thirty
+five and he's yours."
+233,CAPTAIN NICHOLLS,233,I don't even know how he rides.
+234,DAD,234,"Oh, he rides... Splendidly. You'll
+be astonished. I promise you that.
+(his heart's in his
+throat, fighting back"
+235,GRIEF),235,"Finest horse in all of Devon. Finest
+horse I ever seen."
+236,CAPTAIN NICHOLLS,236,Thank you.
+237,ALBERT,237,"You can't! You can't, he's mine! I trained
+him!
+34."
+238,DAD,238,Albert.
+239,ALBERT,239,"You can't have him. He's my horse, sir."
+240,CAPTAIN NICHOLLS,240,"I'm afraid it's too late, lad. I've just
+paid thirty guineas for him."
+241,"ALBERT
+(TO TED:)",241,"Please, I'll get you money. I will,
+I'll get you money. I'll...I'll work
+for it! I'll work for it."
+242,(TO NICHOLLS:),242,"He won't obey anyone else. He won't
+be any good in the war, neither.
+He...he shies at every sound!"
+243,CAPTAIN NICHOLLS,243,I'm sorry.
+244,ALBERT,244,"Well, if Joey's going, I'm going,
+too. I'm volunteering."
+245,CAPTAIN NICHOLLS,245,"I see. What's your name, lad?"
+246,ALBERT,246,"Albert, sir."
+247,CAPTAIN NICHOLLS,247,"And how old are you, Albert?"
+248,ALBERT,248,"Nineteen, sir."
+249,CAPTAIN NICHOLS,249,Is that the truth?
+250,ALBERT,250,"No sir. But, but I look nineteen and
+I'm bigger than most nineteen-year-
+olds, sir! And I'm strong, sir! And
+I...I'm not afraid of anything."
+251,NICHOLLS INTERJECTS:,251,35.
+252,CAPTAIN NICHOLLS,252,"I don't doubt your qualifications,
+Albert, but the law is very clear
+about the proper age for soldiering,
+and your father's done what he had
+to do. You know that. Thirty guineas
+isn't nearly enough to purchase a
+horse as fine as your Joey, I know
+that. But it's all I've got. Will
+you lease him to me, Albert, to be
+my own mount?
+(he removes his cap,"
+253,EARNEST),253,"I promise you, man to man, that I'll
+look after him as closely as you've
+done, I'll respect him and all the
+care that you've taken with him. And
+if I can - I'll return him to your
+care."
+254,EARNEST),254,"CAPTAIN NICHOLLS (CONT'D)
+Now say goodbye."
+255,ALBERT,255,"It's all right, boy..."
+256,SAM PERKINS,256,"All right, turn it in, eh? That's enough.
+He's a horse, not a dog. Now, on your way."
+257,(TO JOEY),257,Come on.
+258,DAD,258,"Do you want to lose the farm, Rose?"
+259,ROSIE,259,It's the way you did it.
+260,DAD,260,"But we're at war.
+36."
+261,ROSIE,261,Aren't we just.
+262,ALBERT,262,Joey...
+263,SAM PERKINS,263,"Here now, I've told you - sling your
+hook!"
+264,CAPTAIN NICHOLLS,264,"Let him be, Perkins."
+265,ALBERT,265,"This isn't the end. This isn't the
+end, my brother... I, Albert
+Narracott, solemnly swear we will be
+together again. Wherever you are, I
+will find you. And I will bring you
+home!"
+266,ALBERT,266,37.
+267,SAM PERKINS,267,"Whoa. Steady, steady. Steady now,
+come on. Walk on! Walk on now,
+come on!"
+268,GROOM,268,Whoa whoa whoa. Easy easy...
+269,SAM PERKINS,269,"Whoa whoa whoa, Joey! Stop muckin'
+about, you hear? Yer in the army
+now, son."
+270,SAM PERKINS,270,"SAM PERKINS (CONT'D)
+Good boy, good boy. Steady
+steady... Easy. Relax. Easy easy,
+back up."
+271,SAM PERKINS,271,"SAM PERKINS (CONT'D)
+Joey - meet Topthorn. Topthorn - this is
+Joey. Sort out who's in charge between the
+two of you, you hear? If you want to fight,
+you get it over with - `cause once we're
+over there, you're gonna need everything
+you've got for Fritz!"
+272,CAPTAIN NICHOLLS,272,"Gently, Perkins. I don't want to sour him.
+38."
+273,SAM PERKINS,273,"There'll be nothing gentle about the war,
+sir. And there'll be nothing gentle about
+this one either!
+SAM PERKINS (CONT'D)
+I understand that, Sergeant, but I
+want him fit and shining. He's my
+horse.
+SAM PERKINS (CONT'D)
+Sir."
+274,CHARLIE WAVERLY,274,Scares the living daylights out of me.
+275,CAPTAIN NICHOLLS,275,Who?
+276,CHARLIE WAVERLY,276,Perkins. Glad he's on our side.
+277,MAJOR STEWART,277,"Not bad. Not bad at all. Still not
+a patch on my Topthorn."
+278,CAPTAIN NICHOLLS,278,"I wouldn't be so sure. I think he's got
+potential. He's certainly got the bit
+between his teeth."
+279,CHARLIE WAVERLY,279,"I actually think my Blenheim is faster than
+the pair of them."
+280,MAJOR STEWART,280,Clear off!
+281,MAJOR STEWART,281,"39.
+MAJOR STEWART (CONT'D)
+All right, gentlemen, listen here.
+Everything tells us the same story, from
+Waterloo to Omdurman, from Pickett's Charge
+to the Battle of Mars La Tours - the first
+attack can and should be the decisive one.
+Perkins..."
+282,SAM PERKINS,282,"Yes, sir!"
+283,MAJOR STEWART,283,"No excuses, no mistakes - every
+horse groomed and fit for
+presentation! I want a full practice
+charge tomorrow."
+284,SAM PERKINS,284,Sir.
+285,MAJOR STEWART,285,Thought you two had bottled out.
+286,CHARLIE WAVERLY,286,As if.
+287,MAJOR STEWART,287,"All right, then, let's see what you
+two jokers are made of, shall we?
+40."
+288,CAPTAIN NICHOLLS,288,This is what quiet confidence looks like.
+289,CHARLIE WAVERLY,289,I'll wait for you two at the Duke of York.
+290,MAJOR STEWART,290,"Over to you, Captain Nicholls."
+291,CAPTAIN NICHOLLS,291,Draw...swords!
+292,CAPTAIN NICHOLLS,292,"CAPTAIN NICHOLLS (CONT'D)
+Give...point!"
+293,CAPTAIN NICHOLLS,293,"CAPTAIN NICHOLLS (CONT'D)
+Charge!!!!"
+294,CAPTAIN NICHOLLS,294,"41.
+CAPTAIN NICHOLLS (CONT'D)
+Come on, Joey. I know you've got
+it. Come on, boy! Come on!"
+295,CAPTAIN NICHOLLS,295,"CAPTAIN NICHOLLS (CONT'D)
+Come on, boy!"
+296,MAJOR STEWART,296,Whoa. Whoa.
+297,CAPTAIN NICHOLLS,297,Nice of you to turn up.
+298,MAJOR STEWART,298,"He's got speed...I'll give him that. But
+has he got stamina?"
+299,CAPTAIN NICHOLLS,299,He has everything.
+300,CAPTAIN NICHOLLS,300,42.
+301,MAJOR STEWART,301,What are you up to?
+302,CAPTAIN NICHOLLS,302,I'm writing a letter.
+303,MAJOR STEWART,303,With a picture in it?
+304,CAPTAIN NICHOLLS,304,"It's to the boy who owned Joey. I want to
+show him how wonderful he's looking."
+305,MAJOR STEWART,305,"Before we take him away across the Channel
+to face a million Germans guns."
+306,CAPTAIN NICHOLLS,306,Yes. Before that...
+307,MAJOR STEWART,307,"4 a.m. start tomorrow - travelling with the
+Dragoon Guards and the Royals. Transport
+detachment - they'll need to be at the docks
+at 5 am. Check all kit. Battle orders: no
+polishing - buttons, helmet buckles, stirrup
+irons - let `em all go dull. I want nothing
+to flash in the sun and give us away."
+308,CAPTAIN NICHOLLS,308,Of course.
+309,MAJOR STEWART,309,Charlie...
+310,CHARLIE WAVERLY,310,Jamie.
+311,CAPTAIN NICHOLLS,311,"Charlie.
+43."
+312,CHARLIE WAVERLY,312,What do you think of the cap?
+313,CHARLIE WAVERLY,313,"CHARLIE WAVERLY (CONT'D)
+Silk lining. I quite like it."
+314,CAPTAIN NICHOLLS,314,"I'm not sure it's going to make a lot of
+difference to the Germans."
+315,CHARLIE WAVERLY,315,"Oh, I don't know about that. Think about it -
+you're a Boche, just working out which of
+two chaps to shoot - and you thought - ""Good
+Lord - one of them really is wearing a very
+stylish cap indeed!"" You might shoot the
+other one instead."
+316,CAPTAIN NICHOLLS,316,"Or, alternatively, think - ""I fancy that
+cap"" and kill you first of all."
+317,CHARLIE WAVERLY,317,Hadn't thought of that.
+318,CHARLIE WAVERLY,318,44.
+319,CHARLIE WAVERLY,319,"SGT. MAJOR SINGH
+That is our target - the German 11th
+Division - at the moment bivouacked three
+miles to the east of the Menin Road. We have
+been watching them and they have pitched
+tents for the night and lit cooking fires.
+Knock them out - and we could slide in
+behind the German lines and come at them
+from the South at Geluveld."
+320,MAJOR STEWART,320,Excellent.
+321,CAPTAIN NICHOLLS,321,"Numbers?
+SGT. MAJOR SINGH
+About six hundred. Infantry."
+322,CAPTAIN NICHOLLS,322,Twice our size...
+323,MAJOR STEWART,323,"In regiments of horse and men, the
+advantage is ours.
+SGT. MAJOR SINGH
+And we have surprise on our side.
+But the sooner we move, the better -
+we have no assurance they'll still
+be there tomorrow morning."
+324,MAJOR STEWART,324,"Right. Good. So - today it is.
+Charlie - tell the men."
+325,CHARLIE WAVERLY,325,"Salisbury formation?
+45."
+326,MAJOR STEWART,326,"Salisbury formation. We'll charge
+through them and secure the ground
+behind.
+SGT. MAJOR SINGH
+The grass to the left is taller than
+we are - it's perfect cover."
+327,MAJOR STEWART,327,"Excellent work, Sergeant Major.
+Time spent on reconnaissance is
+rarely wasted."
+328,CAPTAIN NICHOLLS,328,"Thank you, Singh."
+329,(CALLING AFTER),329,Jamie!
+330,(CALLING AFTER),330,"CAPTAIN NICHOLLS (CONT'D)
+They have no idea we're coming."
+331,MAJOR STEWART,331,"Not having scruples, are you, Jim?"
+332,CAPTAIN NICHOLLS,332,"No. I understand the surprise is
+everything. But if it must be done,
+let's do it quickly."
+333,CAPTAIN NICHOLLS,333,"CAPTAIN NICHOLLS (CONT'D)
+Are you alright, Charlie?"
+334,CHARLIE WAVERLY,334,"Never been better. Literally, never
+better."
+335,MAJOR STEWART,335,Prepare to mount! Mount!
+336,MAJOR STEWART,336,46.
+337,CAPTAIN NICHOLLS,337,"Thank you, Standley."
+338,(TO JOEY),338,"Hey, Joey. My bonny boy. You're
+all right, aren't you, Joey? Hey?"
+339,MAJOR STEWART,339,"Gentleman. It is an honour to ride
+beside you. Make the Kaiser rue the
+day he dared to cross swords with
+us. Let every man make himself, his
+King, his country, and his fallen
+comrades proud! Be brave. Fear
+God. Honor the King!"
+340,TROOPERS,340,"(in unison shout)
+Fear God. Honor the King!"
+341,MAJOR STEWART,341,Draw swords!
+342,CAPTAIN NICHOLLS,342,"Good luck, my friends."
+343,MAJOR STEWART,343,"Forward, to walk! Walk...march!"
+344,MAJOR STEWART,344,"47.
+MAJOR STEWART (CONT'D)
+Forward to canter! Canter...march!"
+345,GERMAN SOLDIER,345,Kavallerie!
+346,CAPTAIN NICHOLLS,346,CHARGE!
+347,CAMP --,347,48.
+348,"GERMAN OFFICER
+(OUTRAGED)",348,"What? Did you think that a garrison
+on open ground would go undefended?
+Look at yourself! Who do you think
+you are?!!"
+349,"GERMAN OFFICER
+(OUTRAGED)",349,49.
+350,"GERMAN OFFICER
+(OUTRAGED)",350,"JUNIOR GERMAN OFFICER.
+What do we do with the horses?"
+351,GERMAN OFFICER,351,"If they're injured, shoot them.
+JUNIOR GERMAN OFFICER
+And the others, sir?"
+352,GERMAN OFFICER,352,"The others you round up and take to
+base camp - they will pull guns."
+353,THIRD OFFICER,353,"You'll never get fancy horses like
+these to pull guns."
+354,GERMAN OFFICER,354,Then shoot them also.
+355,GUNTHER,355,"Sir - perhaps we could use some of
+them with the ambulances - to get
+the injured men off the field."
+356,GERMAN OFFICER,356,Will they take the harness?
+357,GUNTHER,357,"I'd like to try, sir."
+358,GUNTHER,358,50.
+359,MICHAEL,359,It won't work - they're cavalry
+360,GUNTHER,360,Let's try.
+361,MICHAEL,361,You won't get the harness on.
+362,GUNTHER,362,"Come on, Michael."
+363,GUNTHER (CONT'D),363,"Whoa, whoa. Easy, now, easy now,
+Englishman... Whoa, whoa, whoa.
+Easy now, easy."
+364,MICHAEL,364,"Gunther! It's hopeless - we can't
+help them."
+365,GUNTHER,365,"Well, well, look at you. Whoever
+taught you this has just saved your
+life."
+366,GUNTHER,366,51.
+367,SI EASTON,367,Hello the farm!
+368,ROSIE,368,"(looking up, wiping her"
+369,BROW),369,"Hello, Si Easton!"
+370,SI EASTON,370,"I was at the post office and while I
+was there, Mrs. Allen said a parcel
+had come for Albert, from the, from
+the, from over there - and I thought
+I could go up that way in the
+morning. And - here it is."
+371,ALBERT,371,"Well, who'd be sending me a parcel
+over there?"
+372,DAD,372,"Well, open it and see."
+373,ALBERT,373,"It's a sketchbook...
+(gasp of realization)
+That's Captain Nicholls' sketchbook!
+See that? That's a picture of Joey!"
+374,ROSIE,374,"It's a picture of Joey. Well, I
+never!"
+375,"ALBERT
+(EXCITED)",375,And there's a letter...
+376,ROSIE,376,"Well, go on then, go on."
+377,ALBERT,377,All right.
+378,(READING),378,"""Dear Albert Narracott."
+379,(MORE),379,52.
+380,ALBERT (CONT'D),380,"Captain Nicholls, who died...Captain
+Nicholls, who died in action today
+left you this. Yours, Sergeant Sam
+Perkins."
+381,ROSIE,381,You weren't to know it was bad news.
+382,ALBERT,382,He was riding Joey when he died.
+383,ROSIE,383,"You don't know that he was riding
+him..."
+384,ALBERT,384,"""In action,"" it says."
+385,ALBERT,385,"BASE CAMP OFFICER.
+Gentlemen! We move forward to the
+frontline tonight. Full marching
+orders. Get moving!"
+386,ALBERT,386,"BASE CAMP OFFICER
+Schroeder! Schroeder!"
+387,ALBERT,387,"BASE CAMP OFFICER (CONT'D)
+No, not you - you. Come.
+53."
+388,ALBERT,388,"BASE CAMP OFFICER (CONT'D)
+I'm keeping you here. You are best
+with the horses and we need to move
+the camp quickly if the enemy
+continue to push through from the
+west."
+389,GUNTHER,389,"They're pushing through?
+BASE CAMP OFFICER
+I'm told. We will move later when we
+find where the horses are needed
+most."
+390,GUNTHER,390,"Yes, sir. Perhaps I can keep my
+brother here with me, he's also very
+good with horses.
+BASE CAMP OFFICER
+Oh no no. Not necessary."
+391,(TO MICHAEL),391,Get moving. We leave tonight.
+392,MICHAEL,392,"It's all right, Gunther."
+393,GUNTHER,393,"You are not going. I'll tell them
+you are only fourteen, that you're a
+boy."
+394,MICHAEL,394,"Father signed me in. He knew my age
+-and so do they.
+54."
+395,MICHAEL (CONT'D),395,"Mother obviously never taught you
+how to fold a shirt."
+396,GUNTHER,396,"Of course she did. I just wasn't
+listening. But you need to listen
+now! I promised her, I made her a
+solemn promise, that you would be
+safe with me. With me, Michael!!"
+397,GUNTHER (CONT'D),397,"They'll never make a head count.
+There are too many of us. You can
+stay here - slip underneath the bed -
+until they move out."
+398,MICHAEL,398,Then what?
+399,MICHAEL (CONT'D),399,"Gunther, it will be fine. And when
+all the machines break down and they
+call up the horses, I'll see you at
+the front. We'll be together again."
+400,MICHAEL (CONT'D),400,Gunther...
+401,GUNTHER,401,I'm giving this to you. For luck.
+402,GUNTHER (CONT'D),402,"To keep you safe.
+55."
+403,GUNTHER (CONT'D),403,"BASE CAMP OFFICER
+Im schnellschritt! Marsch...links!
+Zwei, drei, vier!"
+404,GERMAN OFFICER,404,Get back in line! Line!
+405,GERMAN OFFICER,405,56.
+406,MICHAEL,406,I'm hungry. Did you bring food?
+407,GUNTHER,407,I'm sorry.
+408,MICHAEL,408,Will Father be ashamed?
+409,GUNTHER,409,"He will pretend to be. Maybe at
+first he will be. But in the end, he
+will be glad."
+410,MICHAEL,410,And us? What about us?
+411,"JOEY'S SADDLE:
+MICHAEL (CONT'D)",411,"I was ready to go. I was proud to
+go.
+(after a beat, in a very"
+412,SMALL VOICE),412,I wanted to go.
+413,MICHAEL (CONT'D),413,The food in Italy is good.
+414,GUNTHER,414,Yes.
+415,MICHAEL,415,"What about the women?
+57."
+416,GUNTHER,416,Not as good as the food.
+417,MICHAEL,417,"Because...they've eaten too much of
+the food?"
+418,GUNTHER,418,"You are too young for war. And
+you're too young for women!"
+419,MICHAEL,419,I don't feel so young. Not anymore.
+420,MICHAEL (CONT'D),420,Michael.
+421,MICHAEL (CONT'D),421,What?
+422,GUNTHER,422,"Go to sleep - we have a big night of
+riding ahead. Goodnight, Michael."
+423,MICHAEL,423,"Night night, Gunther."
+424,GERMAN SOLDIER,424,Hei! In die windmühle!
+425,GUNTHER,425,"Go, go, go..."
+426,MICHAEL,426,"Okay.
+58."
+427,MICHAEL,427,"BASE CAMP OFFICER
+Schroeder."
+428,GUNTHER,428,"Yes, sir.
+BASE CAMP OFFICER
+A mistake?"
+429,GUNTHER,429,A promise.
+430,GUNTHER,430,"BASE CAMP OFFICER
+Ja..."
+431,GUNTHER,431,59.
+432,EMILIE,432,Grandpére.
+433,EMILIE (CONT'D),433,It's closer today.
+434,GRANDFATHER,434,"The wind plays tricks with the noise
+- it's moving away from us."
+435,EMILIE,435,"I can hear it, Grandpére, and there
+is no wind. You shouldn't lie to me."
+436,GRANDFATHER,436,"Here. There is no wind here. But
+over there - a wind so strong it
+will lift you off the ground..."
+437,EMILIE,437,"You lie about everything. You say
+you aren't worried but it's clear
+you are. I know the war is
+approaching but you say, ""Oh, it's
+just a trick of the wind."""
+438,EMILIE,438,60.
+439,"GRANDFATHER
+(SMILING)",439,Did I say that?
+440,EMILIE,440,"You started lying when Mama and Papa
+went away."
+441,EMILIE (CONT'D),441,"They're dead. But you won't say so.
+Do you think I'll die if you tell me
+the truth?"
+442,GRANDFATHER,442,The truth is -
+443,GRANDFATHER (CONT'D),443,"- you should speak to your elders
+with respect."
+444,EMILIE,444,"If you tell me the truth about the
+war, I will tell you the truth about
+the big horses I've been keeping in
+the windmill."
+445,GRANDFATHER,445,"(standing, putting his
+hands on his hips)
+Now - who is the one telling lies!"
+446,GRANDFATHER,446,In the windmill?
+447,EMILIE,447,"Yes. They were standing in the
+windmill waiting for Don Quixote.
+This is François (Joey) and this is
+Claude (Topthorn).
+61."
+448,GRANDFATHER,448,Yeah.
+449,EMILIE,449,"I named them after two boys who
+broke my heart last Summer."
+450,GRANDFATHER,450,"They must belong to someone. Horses
+like this don't just appear from a
+fairy-tale."
+451,EMILIE,451,"Yes - I know, Grandpére. They are
+not unicorns - so I will be fair and
+wait -- one day."
+452,GRANDFATHER,452,Emilie... Emilie...
+453,EMILIE,453,"And if no one comes to get them by
+night-time, then they belong to me."
+454,GRANDFATHER,454,"Emilie. Look at me. You cannot
+ride."
+455,EMILIE,455,"Mother used to tell me how my bones
+would give way with the slightest
+bump or fall."
+456,GRANDFATHER,456,"Yes. That's right. So it is
+settled?"
+457,GRANDFATHER (CONT'D),457,Good girl.
+458,EMILIE,458,"It will only be settled when I
+decide which one to ride first."
+459,GRANDFATHER,459,But it's - Over my dead body!
+460,EMILIE,460,"At least I won't have long to wait.
+62."
+461,"EMILIE
+(TO JOEY)",461,"I was in love with a boy called
+François - who had your lovely eyes."
+462,(TO CLAUDE),462,"Unfortunately he was in love with a
+girl called Marie, who had your
+teeth. She fell for a boy called
+Claude - who broke my heart. And who
+I intend to marry one day."
+463,(TO CLAUDE),463,"EMILIE (O.S.)
+Eyes on me. No talking."
+464,EMILIE (CONT'D),464,"Today we learn to jump. Did you know
+the French cleared one meter eighty-
+five at the Paris Olympics to win
+the gold medal? Today we will beat
+that record."
+465,EMILIE (CONT'D),465,"This is your jump. When I call
+you....be very brave and leap over
+it."
+466,EMILIE (CONT'D),466,63.
+467,EMILIE (CONT'D),467,Leap over it! Watch me.
+468,EMILIE (CONT'D),468,And now it's your --
+469,EMILIE,469,"He doesn't think we can do it. But
+we will show him, won't we?"
+470,EMILIE (CONT'D),470,"(Her voice shaking)
+No need to be afraid.
+(Emilie looking down at
+how far off the ground"
+471,SHE IS),471,"You are...very tall.
+64."
+472,GRANDFATHER,472,You'll kill yourself.
+473,EMILIE,473,"Only if you get in my way to make me
+fall."
+474,GRANDFATHER,474,"Oh please, come off the ladd--"
+475,GRANDFATHER (CONT'D),475,"Find somewhere to hide them. And do
+it quickly!!!"
+476,GERMAN OFFICER,476,Halt! Und aussteigen!
+477,GRANDFATHER,477,"My name is Bonnard - this is my
+land. Why are you here?"
+478,SOLDIERS,478,"Food for the soldiers at the front.
+Everyone must give their share."
+479,SOLDIERS,479,65.
+480,GRANDFATHER,480,"They are taking everything. Where
+are the horses?"
+481,EMILIE,481,What horses?
+482,GERMAN SOLDIER,482,What is it?
+483,GRANDFATHER,483,"Leave it if you don't know what it's
+for."
+484,GERMAN SOLDIER,484,"A pot is a pot. We'll find some use
+for it. Sir, where's the livestock?"
+485,GRANDFATHER,485,I make jam. We have no animals.
+486,GERMAN SOLDIER,486,But there's fresh hay in your barn.
+487,EMILIE,487,"We use it to replace the mattress
+stuffings."
+488,GERMAN SOLDIER,488,"Her grandfather?
+66."
+489,GRANDFATHER,489,Yes.
+490,GERMAN SOLDIER,490,Where are her parents?
+491,"EMILIE
+(BREAKING IN)",491,They're dead. They died.
+492,GERMAN SOLDIER,492,What is that?
+493,GRANDFATHER,493,"The wind. It plays tricks in the
+attic."
+494,BRANDT,494,There is no wind.
+495,GRANDFATHER,495,An old house creaks.
+496,(TO EMILIE),496,Go - close the shutters.
+497,GERMAN SOLDIER,497,"She's sickly, no?"
+498,GRANDFATHER,498,"If you or any of your friends harm
+her, as old as I am, I will kill
+you."
+499,GERMAN SOLDIER,499,"You know, I was going to give you
+back your pot. But now I'm going to
+keep it. For soup."
+500,GERMAN SOLDIER,500,67.
+501,BRANDT,501,We will be back in the new season.
+502,EMILIE,502,"Tell me what happened to them. To my
+mother and father."
+503,EMILIE (CONT'D),503,"You said you would tell me how they
+died. On my birthday. And tomorrow's
+my birthday! They died fighting,
+didn't they? But when the soldiers"
+504,EMILIE (CONT'D),504,"- you do nothing. You are a coward,
+aren't you?"
+505,GRANDFATHER,505,"Yes. Yes. It was your parents who
+were brave. I make jams."
+506,EMILIE,506,"And you've never done a brave thing
+in your life?"
+507,GRANDFATHER,507,"Maybe there are different ways to be
+brave. Did you know the French have
+the best carrier pigeons? And this
+could be the difference in the war -
+our messages getting through.
+68."
+508,EMILIE,508,"I don't want to hear about the
+birds."
+509,GRANDFATHER,509,"They are released at the front and
+told to go home - this is all they
+know. But to get there they must
+fly over a war. Can you imagine
+such a thing? Here you are flying
+over so much pain and terror - and
+you know you can never look down.
+You have to look forward or you'll
+never get home. I ask you - what
+could be braver than that?"
+510,EMILIE,510,What is that?
+511,GRANDFATHER,511,A present.
+512,EMILIE,512,"I hope you have not bought me a
+disgusting dress that I then have to
+wear like last year."
+513,"GRANDFATHER
+(LAUGHING)",513,It was disgusting?
+514,EMILIE,514,"Yes. I looked like an ugly nun.
+69."
+515,EMILIE (CONT'D),515,"Give me your hand.
+(she takes it in hers)
+Grandpére, we have no money. When
+the war is over, then you can buy me
+jewels and carriages."
+516,GRANDFATHER,516,"Anything you say, my sweet one.
+Anything-you-say! You are, of
+course, the boss. It's just an old
+thing I found - don't worry yourself
+- leave it, I'll put it back."
+517,GRANDFATHER,517,"It was your mother's. I hid it, so
+as not to encourage you. Emilie, I
+want you to ride very slowly, very
+carefully. And promise me you won't
+go far --"
+518,EMILIE,518,"Of course. Okay, I promise."
+519,GRANDFATHER,519,"To the top of the hill and straight
+back again."
+520,EMILIE,520,I promise.
+521,EMILIE,521,70.
+522,EMILIE (CONT'D),522,My hero.
+523,GRANDFATHER,523,Slowly...slowly...
+524,GRANDFATHER (CONT'D),524,Emilie!
+525,GRANDFATHER (CONT'D),525,Emilie!
+526,EMILIE,526,"No! Let go of me! No!
+71."
+527,GRANDFATHER,527,"She is my granddaughter! Emilie,
+stop! Don't hurt her, please!
+Don't hurt her."
+528,EMILIE,528,"You don't need them! There are so
+many others!"
+529,GRANDFATHER,529,"Please, take the bigger one and
+leave the smaller one. You are
+breaking my granddaughter's heart."
+530,"BRANDT
+(LEAVING)",530,"The war has taken everything from
+everyone."
+531,"GRANDFATHER
+(CALLING AFTER)",531,What will happen to them?
+532,BRANDT,532,They will pull artillery until they
+533,"DIE -
+EMILIE
+(COUGHING)",533,François!
+534,BRANDT,534,- or until the war is over.
+535,GRANDFATHER,535,It will never be over!
+536,BRANDT,536,You have your answer then.
+537,BRANDT,537,72.
+538,BRANDT,538,Heiglemann - these are yours.
+539,FRIEDRICH,539,"Yes, sir."
+540,BRANDT,540,"They look strong - should last a
+month or two."
+541,FRIEDRICH,541,You are beautiful.
+542,FRIEDRICH (CONT'D),542,It's a pity they found you.
+543,FRIEDRICH (CONT'D),543,Such a pity...
+544,FRIEDRICH (CONT'D),544,73.
+545,ARTILLERY OFFICER,545,Pull together!
+546,ARTILLERY SOLDIER,546,Halt! Halt! Stop!
+547,FRIEDRICH,547,Stop! Stop!
+548,BRANDT,548,"Heiglemann, bring up another one!"
+549,ARTILLERY OFFICER,549,"Heiglemann, bring up another horse!"
+550,BRANDT,550,That one!
+551,BRANDT (CONT'D),551,"No, no. The big black one!"
+552,BRANDT (CONT'D),552,74.
+553,FRIEDRICH,553,"He's a good horse, sir. But if you
+move him up to the heavy gun, he
+will be no use at all. Prince is
+already losing condition. His leg,
+sir."
+554,BRANDT,554,You have given them names?
+555,FRIEDRICH,555,"Yes, sir."
+556,BRANDT,556,"You should never give a name to
+anything you are certain to lose."
+557,FRIEDRICH,557,"His leg is not good enough, sir."
+558,BRANDT,558,"Private, you will do as you are
+told."
+559,(CALLING OFF),559,Hook him up.
+560,FRIEDRICH,560,"As you see, sir, this one is
+stronger."
+561,BRANDT,561,Hook him up.
+562,BRANDT,562,75.
+563,OFFICER,563,Halt! Halt! Take the horses away!
+564,ARTILLERY OFFICER,564,Shell!
+565,ARTILLERY OFFICER,565,"ARTILLERY OFFICER (CONT'D)
+And load!"
+566,ARTILLERY OFFICER,566,"ARTILLERY OFFICER (CONT'D)
+Back! Case!"
+567,ARTILLERY OFFICER,567,"ARTILLERY OFFICER (CONT'D)
+Position!"
+568,ARTILLERY OFFICER,568,"ARTILLERY OFFICER (CONT'D)
+And...fire!"
+569,ARTILLERY OFFICER,569,76.
+570,SERGEANT MARTIN,570,"Valuables in the bucket, lads. If
+you live, you'll get them back. If
+you live, you'll get them back.
+Good lads."
+571,ANDREW,571,"Maybe it's a drill, Albie. Maybe
+it's a drill like last time."
+572,ANDREW,572,77.
+573,DAVID,573,Love letter?
+574,ALBERT,574,That's my business.
+575,DAVID,575,"I hear you and your mate were doing
+bird imitations again. You gonna
+write a letter to your horse?"
+576,DAVID (CONT'D),576,"After you find your horse, I've lost
+my needle in a haystack, and I could
+use some help."
+577,DAVID (CONT'D),577,"Anything valuable. Anyone who comes
+back gets to share it out."
+578,"ALBERT
+(TO ANDREW)",578,Stay here.
+579,ALBERT (CONT'D),579,"Remember that day me and Joey raced
+you in your car?"
+580,DAVID,580,"I remember you somersaulting through
+the air."
+581,ALBERT,581,Who was that girl you were with?
+582,DAVID,582,There was a girl?
+583,ALBERT,583,"There was. Don't you remember?
+78."
+584,DAVID,584,"It was just some girl, I suppose. I
+don't recall which one. I do
+remember you falling on your bum in
+a ditch."
+585,DAVID (CONT'D),585,"You see? Always entertaining,
+Narracott, I'll give you that."
+586,ANDREW,586,You did that? You fell on your bum?
+587,SERGEANT MARTIN,587,"Be ready! Be ready! Let's go, men,
+get ready to go! Get ready to move
+out! Stay in position!"
+588,DAVID,588,"Hold your nerve, boys. Remember,
+it's not far to go. There's a way
+through.
+(he moves down the line)
+Run fast, keep your wits about you,
+keep your eyes open and God and the
+King will keep an eye on you.
+Company will fix bayonets! Fix
+bayonets!"
+589,ALBERT,589,"You know what it reminds me of out
+there?
+79."
+590,ANDREW,590,What?
+591,ALBERT,591,"That bloody impossible lower field
+the day me and Joey plowed it. Best
+day of my life that was and you were
+there."
+592,ANDREW,592,"And this here is the worst day of my
+life, about to begin, and you're
+here cheering me on. Us two, always.
+And him."
+593,DAVID,593,"Once you're in no man's land, go to
+the flanks. Stay on the flanks."
+594,SOLDIER,594,"Yes, sir."
+595,DAVID,595,"Come on, boys, come on. To the
+ladder!"
+596,"ALBERT
+(TO ANDREW)",596,"Stick close to the gentry, that's
+our ticket, yeah? We have the pluck
+but they have the luck."
+597,DAVID,597,"You, too, Narracott."
+598,(TO ANDREW),598,"And you, too."
+599,(TO ANDREW),599,80.
+600,DAVID (CONT'D),600,"Come on, on your ladders, boy. On
+your ladders. In you go, in you go.
+That's it."
+601,SERGEANT MARTIN,601,Listen to your sergeant!
+602,SERGEANT MARTIN,602,"SERGEANT MARTIN (CONT'D)
+If anybody turns back, if any one of
+our boys come running towards you -
+you take this rifle and you shoot
+them dead. Do you understand?"
+603,SOLDIERS,603,"Yes, sir!"
+604,SERGEANT,604,"Do you understand me? Do you
+understand what I'm telling you,
+son? You take this rifle and you
+shoot them dead. Understand?"
+605,SERGEANT (CONT'D),605,"Up there, son. Up your ladder. Up
+your ladder to your work!"
+606,ALBERT,606,"It's good. Andrew, it's good.
+Andrew! Nobody's retreating today.
+Andrew! Andrew! Nobody. Is
+retreating. Today."
+607,ALBERT,607,81.
+608,DAVID,608,I'm shot! No!
+609,DAVID (CONT'D),609,Just leave me. Leave me!
+610,ALBERT,610,"You'll be all right here. You'll be
+safe. Someone'll come for ya."
+611,DAVID,611,"Albert. Albert, listen..."
+612,ALBERT,612,"It's all right. It's all right.
+We're Devon boys, yeah?"
+613,DAVID,613,Yeah...
+614,DAVID,614,82.
+615,RANDOM SOLDIER,615,Get down!
+616,ANDREW,616,"NO!
+83."
+617,ANDREW (CONT'D),617,Albie.
+618,ALBERT,618,We made it. We made it.
+619,ALBERT (CONT'D),619,"Andrew, this way out!"
+620,SOLDIER,620,Gas! Gas! Gas!
+621,ANDREW,621,Albie...
+622,GERMAN OFFICER,622,"Hey, there's no stopping here. Keep
+them moving.
+84."
+623,FRIEDRICH,623,"Sir, there's something wrong. This
+one needs to rest."
+624,GERMAN OFFICER,624,"There's no rest for them. Move them
+along. Move them along!"
+625,FRIEDRICH,625,"Please, please, please. Stay on
+your feet. No, please. No no no..."
+626,FRIEDRICH (CONT'D),626,Please please... Stay on your feet.
+627,"DECLINE:
+FRIEDRICH (CONT'D)",627,Come on. Please please...
+628,GERMAN OFFICER,628,"They're coming! Leave it, private!"
+629,GERMAN OFFICER,629,"85.
+GERMAN OFFICER (CONT'D)
+Leave it! Come with me!"
+630,FRIEDRICH,630,Go to hell!
+631,FRIEDRICH (CONT'D),631,Run. Run! Run! Run!
+632,FRIEDRICH (CONT'D),632,86.
+633,FRIEDRICH (CONT'D),633,"GEORDIE SOLDIER (O.S.)
+Stand to, stand to -"
+634,FRIEDRICH (CONT'D),634,"GEORDIE SOLDIER (CONT'D)
+There's something moving."
+635,SOLDIER,635,What the hell is it?
+636,GEORDIE SOLDIER,636,It looks like a cow.
+637,SOLDIER,637,"What the hell would a cow be doing out
+there?"
+638,SOLDIER 2,638,That definitely isn't a cow.
+639,SOLDIER,639,"(handing over periscope)
+Well, what is it?
+87."
+640,SECOND GERMAN,640,"It can't be a horse. Nothing alive could be
+out there."
+641,THIRD GERMAN,641,It isn't a horse. It isn't a horse.
+642,SECOND GERMAN,642,Yes - it's a horse.
+643,THIRD GERMAN,643,It's a horse.
+644,PETER,644,"Yeah, it's a horse."
+645,BRITISH CAPTAIN,645,"Well, bugger me. It's a horse."
+646,GEORDIE SOLDIER,646,"Lads, we should call him."
+647,BRITISH SOLDIER,647,How do you call a horse?
+648,BRITISH SOLDIER,648,88.
+649,PETER,649,He's caught on the wire.
+650,GEORDIE SOLDIER,650,Oh sod it...
+651,BRITISH CAPTAIN,651,"What do you think you're doing? Get
+back, do you hear me? Corporal,
+that's an order! Get back!"
+652,BRITISH SOLDIER,652,"Listen to him, sir. We can't leave him."
+653,PETER,653,What's he doing?
+654,SECOND GERMAN,654,It's a trap.
+655,PETER,655,"No, I don't think so. I think he's
+trying to help."
+656,THIRD GERMAN,656,Scare him back into his hole.
+657,THIRD GERMAN,657,89.
+658,GEORDIE,658,"It's a white flag, ent it? You see
+the white flag!? I'm just after
+tending to this here horse, is all!"
+659,BRITISH CAPTAIN,659,"Get back, you stupid git!"
+660,GEORDIE,660,"The Lord is my shepherd, I shall not
+want, he leadeth me into green
+pastures, he lay me down beside the
+still waters..."
+661,GEORDIE (CONT'D),661,"Poor beastie. Poor babbie. It's
+alright. It's alright. Don't buck
+and wriggle so, you're only
+shredding yourself."
+662,GEORDIE (CONT'D),662,You'll blind yourself.
+663,GEORDIE (CONT'D),663,90.
+664,GEORDIE (CONT'D),664,"Bugger me worthless - I didn't think
+to bring gloves or something to cut"
+665,GEORDIE (CONT'D),665,OW! DAMN! OW!!
+666,PETER,666,"I thought perhaps you might need
+these."
+667,PETER (CONT'D),667,For the barbed wire?
+668,GEORDIE,668,"Yeah, yeah I... Ummm, thanks.
+Cheers. Cheers..."
+669,GEORDIE (CONT'D),669,Thanks.
+670,PETER,670,"That...That's a very long strand.
+When you cut it, it's going to
+release this -"
+671,"ENTANGLED:
+PETER (CONT'D)",671,"- and this, and this, and they'll
+coil back rather violently, which
+I'm afraid will only wound the poor
+fellow further.
+91."
+672,GEORDIE,672,You speak good English.
+673,PETER,673,"I speak English well.
+(re: the cutters)
+May I?"
+674,PETER (CONT'D),674,"What if we cut his head free first?
+So he won't try to stand up and
+blind himself? And then -"
+675,GEORDIE,675,"Pity you didn't bring a second pair.
+Then I could cut the wire here -"
+676,PETER,676,WE NEED MORE WIRE CUTTERS!
+677,PETER (CONT'D),677,"His blind spot. The cutters won't
+frighten him. If you could cut
+here, holding this wire -"
+678,PETER (CONT'D),678,92.
+679,PETER (CONT'D),679,I could -
+680,GEORDIE,680,"Say no more, I'm right behind you."
+681,GEORDIE (CONT'D),681,"And you understand what's happening,
+do you not, O Best Beloved? That you
+must lay so very nice and still.
+There's a lad, you're a remarkable
+horse, you are, helping us help you.
+There's a lad. There's a remarkable
+lad."
+682,GEORDIE (CONT'D),682,So how's things in yonder trench?
+683,PETER,683,"Delightful. We read, we knit
+sweaters, and we train our rats to
+perform circus tricks."
+684,GEORDIE,684,"Well, if ever you need any more
+rats, we can always send ours over.
+`Cause we've more than we need,
+strictly speaking. Besides, they
+scare off all the pretty girls."
+685,PETER,685,Our girls aren't afraid of rats.
+686,GEORDIE,686,"Big strapping German girls, eh? Kind
+what gives robust massages?"
+687,PETER,687,"Every Thursday! And they bring rum
+cake on your birthday."
+688,PETER,688,93.
+689,GEORDIE,689,"Look at that horse! Look at the
+muscles he's got, them long legs.
+They're made for running, horses.
+Runnin' away from danger."
+690,PETER,690,Running away is all they have.
+691,GEORDIE,691,"Yet we taught `em opposite. Running
+into the fray."
+692,PETER,692,War horse.
+693,GEORDIE,693,"Yeah. War horse. And there he is.
+What a strange beast you've become."
+694,PETER,694,And now?
+695,GEORDIE,695,"I take him back with me, yeah?"
+696,PETER,696,"Since I supplied the cutters, the
+horse is mine. This is fair, no?"
+697,GEORDIE,697,"In a pig's eye. He's English, plain
+to see."
+698,PETER,698,"Oh, you mean because he's so filthy?"
+699,GEORDIE,699,"Because he's so smart. And you're
+none too clean yourself.
+94."
+700,PETER,700,"We could box. And the winner gets
+the horse."
+701,GEORDIE,701,"No, thanks, pet. Must be careful not
+to start a war.
+(patting his pockets:)
+Do you have a coin of any sort?"
+702,PETER,702,Coin toss?
+703,GEORDIE,703,Yeah.
+704,GEORDIE (CONT'D),704,"All right, Fritz - you're on."
+705,PETER,705,My name is not Fritz - it is Peter.
+706,GEORDIE,706,Peter - I'm Colin.
+707,PETER,707,"You call it, Colin."
+708,GEORDIE,708,Heads.
+709,PETER,709,"That's the face of my Kaiser and he does not
+look pleased with me. The horse is yours."
+710,GEORDIE,710,"Gone quiet, hasn't it?"
+711,PETER,711,Yes.
+712,"(PAUSE)
+(MORE)",712,95.
+713,PETER (CONT'D),713,"But wait half an hour and we'll be shooting
+again."
+714,GEORDIE,714,"I'm a terrible shot, Pete, don't believe
+I'll ever hit the target."
+715,PETER,715,Thanks.
+716,PETER (CONT'D),716,"Cheerio, mate."
+717,(RE JOEY:),717,"You'll take good care of him, yes?"
+718,GEORDIE,718,I will.
+719,PETER,719,Our strange beast.
+720,GEORDIE,720,"And you take care of your own
+strange self."
+721,PETER,721,"Colin! A pair of German cutters - in memory
+of your handsome friend from Dusseldorf."
+722,GEORDIE,722,Thanks.
+723,GEORDIE (CONT'D),723,"I'll use `em back in the garden in
+South Shields. You keep your head
+down, now, Pete me lad!"
+724,PETER,724,Remarkable! A remarkable horse!
+725,PETER,725,96.
+726,SERGEANT MARTIN,726,We're full up. Move on.
+727,DAVID,727,"The gas got him - we had to wait
+till morning."
+728,MEDICAL OFFICER,728,This can't be all of us.
+729,SERGEANT MARTIN,729,"This is all.
+(bellowing to the men)
+All walking wounded, away to the
+dressing station! Away to the
+dressing station!"
+730,SERGEANT MARTIN,730,97.
+731,DOCTOR,731,What's this doing here?
+732,GEORDIE,732,"We need a vet, sir."
+733,DOCTOR,733,"There are no vets. We've scarcely
+any horses left."
+734,GEORDIE,734,"He's cut all over, but this leg
+here's got the worst of it."
+735,DOCTOR,735,It's probably tetanus. It's no good.
+736,GEORDIE,736,"Please, sir -"
+737,DOCTOR,737,"I've all these men to take care of,
+corporal, you can see that, can't
+you?"
+738,GEORDIE,738,"Please, sir, this horse can pull
+through anything."
+739,ALBERT,739,"What is it?
+98."
+740,AN ORDERLY,740,"It's a horse they found, wandering about in
+No Man's Land.
+(easing him back onto a"
+741,COT),741,Down you go.
+742,ALBERT,742,What kind of an horse?
+743,AN ORDERLY,743,"Bloody miraculous kind of an horse,
+be my guess. Nothing makes it out
+of No Man's Land."
+744,ALBERT,744,Miraculous horse...
+745,GEORDIE,745,"(to the doctor:)
+He was alive, y'see, sir, where
+nothing survives, so to me and me
+mates, to the men, sir, he's - Well,
+we have high hopes for him -"
+746,DOCTOR,746,You should shoot him now.
+747,GEORDIE,747,"Oh, but I can't."
+748,DOCTOR,748,"It'd be a mercy, lad, that leg's not
+going to mend."
+749,DOCTOR (CONT'D),749,"Sergeant. Put him out of his misery.
+99."
+750,SERGEANT FRY,750,"Ladies, if you please."
+751,SERGEANT FRY,751,"SERGEANT FRY (CONT'D)
+All right, back off. Back off."
+752,SOLDIER,752,Go on. Do it again.
+753,ALBERT,753,Joey?
+754,"ALBERT (CONT'D)
+(SOFTLY:)",754,"Hello, Joey. Hello boy. Where you
+been then, hey? Where in the world
+you been?"
+755,"ALBERT (CONT'D)
+(SOFTLY:)",755,100.
+756,DOCTOR,756,"(to the Geordie:)
+Do you know this man?"
+757,DOCTOR (CONT'D),757,What's your name?
+758,ALBERT,758,"Narracott, Private Albert Narracott,
+sir."
+759,DOCTOR,759,"This is a random horse, Narracott,
+and too badly injured.
+(to the orderly)
+Is this man in your care?"
+760,AN ORDERLY,760,"Yes, sir."
+761,ALBERT,761,"He's not random at all, sir! He's my
+horse, I raised him, in Devon. Sir,
+look at his legs! He's got four
+white socks, he's brown all over -
+(points to his own"
+762,FOREHEAD),762,"- and he has a white mark here -
+like so..."
+763,DOCTOR,763,Take him back.
+764,AN ORDERLY,764,"Come on, son."
+765,GEORDIE,765,"Wait! You can't see `cause of the
+mud."
+766,GEORDIE,766,101.
+767,GEORDIE (CONT'D),767,Four white socks!
+768,SERGEANT FRY,768,"All right, break it up. Clear off,
+the lot of ya."
+769,ALBERT,769,"You see, sir? He's not random at
+all."
+770,DOCTOR,770,"We will attend to your horse. Patch
+him up best we can. Treat him like
+the soldier he is."
+771,ALBERT,771,"Thank you, sir."
+772,SERGEANT FRY,772,"Gentlemen! Gentlemen! It falls on me to give
+you some important news. At eleven o'clock
+today, in two minutes time - the War will
+come to an end."
+773,SERGEANT FRY,773,"SERGEANT FRY (CONT'D)
+The King and Queen thank you for your
+service. We have been victorious - even if
+at a higher price than many of us might have
+imagined."
+774,(MORE),774,"102.
+SERGEANT FRY (CONT'D)
+When the bells ring out - and they will in a
+moment, for the first time for four years -
+let us remember our brothers fallen in the
+field. And thank God for the end of this
+struggle and victory."
+775,ALBERT,775,"I don't understand, sir."
+776,MAJOR TOMPKINS,776,"Officers' horses only. All other
+horses are to be auctioned
+immediately."
+777,SERGEANT FRY,777,"That is a complete and bloody outrage. It's
+the lad's horse, sir, from Devon. He raised
+him up from a pup, he did. Trained him
+right up to the day when the army came to
+town."
+778,MAJOR TOMPKINS,778,"These aren't my orders, sergeant."
+779,(TO ALBERT),779,"You'll have to take him to market. That's
+all."
+780,GEORDIE,780,"We've all clubbed together. It's everything
+we have. There's twenty-nine pounds there.
+Buy him back.
+103."
+781,ALBERT,781,Does the Major know?
+782,GEORDIE,782,The Major put in ten.
+783,GEORDIE (CONT'D),783,"Mum's the word where the Major's
+concerned. Your friend on the
+crutches over there -"
+784,GEORDIE (CONT'D),784,"- even asked the Major to say that
+Joey was his, an officer's horse, so
+that he could go back with the
+others."
+785,SERGEANT FRY,785,"Come on, Narracott! Get a move on. We don't
+want to miss the show."
+786,AUCTIONEER,786,"Seven pounds! Seven pounds there!
+Seven pounds! Eight pounds here!"
+787,AUCTIONEER (CONT'D),787,"Eight pounds! Ten pounds here! Any
+advance? Sold!"
+788,AUCTIONEER (CONT'D),788,104.
+789,GEORDIE,789,"You're alright. Nobody's gonna bid more than
+fifteen for a thoroughbred. They want work
+horses."
+790,AUCTIONEER,790,"Next one. We start at four pounds.
+Four pounds."
+791,THE BUTCHER,791,Eleven.
+792,SERGEANT FRY,792,"It's the butcher from Cambrai. He's
+been bidding for the best all
+morning."
+793,AUCTIONEER,793,Eleven. Eleven pounds. Eleven pounds.
+794,SERGEANT FRY,794,"Let me handle this, private.
+(he calls out) )
+Fifteen, and let that be an end to it."
+795,AUCTIONEER,795,Fifteen pounds.
+796,BUTCHER,796,Sixteen.
+797,AUCTIONEER,797,Sixteen pounds.
+798,SERGEANT FRY,798,Seventeen.
+799,BUTCHER,799,"Twenty of your English pounds. And let THAT
+be the end of it, my friend.
+105."
+800,AUCTIONEER,800,Twenty pounds.
+801,SERGEANT FRY,801,Twenty Five.
+802,AUCTIONEER,802,Twenty five pounds.
+803,BUTCHER,803,Twenty Six.
+804,AUCTIONEER,804,Twenty six pounds.
+805,SERGEANT FRY,805,Twenty seven.
+806,BUTCHER,806,Twenty eight.
+807,AUCTIONEER,807,Twenty eight pounds.
+808,SERGEANT FRY,808,Twenty nine.
+809,BUTCHER,809,And thirty.
+810,AUCTIONEER,810,Any advance at thirty pounds?
+811,FINAL BIDDER,811,One hundred pounds.
+812,GRANDFATHER,812,"And sir, if you bid against me, I will sell
+the coat on my back and bid to one hundred
+and ten. And if you bid against me again, I
+will sell my farm and bid to a thousand."
+813,GRANDFATHER,813,106.
+814,AUCTIONEER,814,"One hundred pounds. Going, going,
+gone."
+815,ALBERT,815,"Sir, I'll give you all your money.
+Everything you paid when we get back
+to England. I'll give you twice -"
+816,GRANDFATHER,816,You don't know anything about him.
+817,ALBERT,817,"Oh, but you're wrong, sir, I know
+everything!"
+818,GRANDFATHER,818,"Yes, you found him! I heard you
+found a horse in the wire between
+the armies -"
+819,GEORDIE,819,"No, I found him, he raised him -"
+820,GRANDFATHER,820,"When I heard about the miracle
+horse, I traveled three days because
+I knew whose horse it was. My
+granddaughter's. She saved his life!
+He was everything to her."
+821,GEORDIE,821,Where is your granddaughter?
+822,GRANDFATHER,822,"The war has taken everything from
+everyone. He is all that I have left
+of her."
+823,GRANDFATHER,823,107.
+824,ALBERT,824,"Don't be worried, boy, when I go. I
+won't worry over you none. Hey, I
+found you, didn't I, and you found
+me."
+825,ALBERT (CONT'D),825,"And we'll both... we'll both know
+that we made it through. Now go on."
+826,ALBERT (CONT'D),826,"We're the lucky ones. Always have
+been. Lucky since the day I met you."
+827,ALBERT (CONT'D),827,"God be with you, sir."
+828,GRANDFATHER,828,Do you know what this is?
+829,ALBERT,829,"It's my father's. It's his
+regimental pennant. How did you come
+by this, sir?"
+830,GRANDFATHER,830,You may have this.
+831,ALBERT,831,"Thank you ever so much for this,
+sir...
+108."
+832,GRANDFATHER,832,"(with a sigh)
+... And this."
+833,GRANDFATHER (CONT'D),833,"No no, not necessary. He belongs to
+you. That is, of course, what my
+little girl would have wanted. And
+she was the boss."
+834,ALBERT,834,What was her name?
+835,GRANDFATHER,835,"Emilie.
+(turns back with a smile)
+Her name is Emilie."
+836,GRANDFATHER,836,109.

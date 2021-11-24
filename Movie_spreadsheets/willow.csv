@@ -1,0 +1,1319 @@
+,character,line #,line
+0,DRUID,0,Is it a girl?
+1,ETHNA,1,It is a girl.
+2,DRUID,2,Show me its arm.
+3,DRUID,3,"It's true then.  I must tell Queen
+Bavmorda."
+4,MOTHER,4,"Ethna, please.  Help me.  They're
+going to kill my baby."
+5,ETHNA,5,They'll kill you.
+6,MOTHER,6,Please save my baby.
+7,ETHNA,7,Pretend this is the child.
+8,MOTHER,8,"Thank you, Ethna.  Thank you."
+9,BAVMORDA,9,"We will start the ritual at dusk.
+You're certain this is the one?"
+10,DRUID,10,It bears the markings.
+11,BAVMORDA,11,"I must see for myself!  Just as the
+omen foretold!"
+12,BAVMORDA,12,So.  You *were* the one.
+13,MOTHER,13,"Yes.  But nothing you can do will
+stop the prophecy."
+14,BAVMORDA,14,"This child will have no power over
+me...."
+15,BAVMORDA,15,Where's the baby!
+16,GUARD,16,The midwife!
+17,BAVMORDA,17,"Find that baby!  Use the dogs!
+Sorsha!"
+18,BAVMORDA,18,Kill her.
+19,DEATH DOG,19,Bordak!
+20,MIDWIFE,20,I don't have her!  No!  No!
+21,RANON,21,"Dada!  We found something in the
+river!"
+22,WILLOW,22,"I can't run off and play with you
+now.  I've got work to do."
+23,WILLOW,23,"But Dada, you gotta see it!  Hurry!"
+24,WILLOW,24,"Back!  Don't go near it.  We don't
+know where it's been.  It could be
+diseased."
+25,MIMS,25,It's a baby!
+26,RANON,26,It's not a Nelwyn baby.
+27,WILLOW,27,"No, it's too big to be a Nelwyn
+baby.  It looks like a daikini..."
+28,MIMS,28,"Ooh, it's so cute..."
+29,WILLOW,29,"Mims!  Get back here!  It might
+bite you."
+30,RANON,30,"Can't we keep it, Dada?"
+31,WILLOW,31,Absolutely not.
+32,WILLOW,32,Ufgood!  Willow Ufgood!
+33,WILLOW,33,"Shhh, shhh!  It's the Prefect --
+that's all I need.  Mims, Ranon,
+keep this thing hidden..."
+34,KIAYA,34,"Mr. Burglekutt!  He hasn't done
+anything wrong!"
+35,KIAYA,35,"Ufgood!  What do you think you're
+doing!  I tell the planting seeds
+in this village."
+36,KIAYA,36,"I told him we didn't steal it, Wil-
+low."
+37,KIAYA,37,"You haven't paid your debts.  Where
+did you get these seeds?"
+38,WILLOW,38,"In the forest.  My family's been
+gathering them since last fall.
+There's no law against that, Bur-
+glekutt."
+39,KIAYA,39,"Willow!  You left the children
+alone by the river??"
+40,KIAYA,40,"Too late, Ufgood.  You'll never get
+your planting done before the rains
+start.  You're gonna lose this
+land."
+41,WILLOW,41,"Absolutely, under no condition, is
+anyone in this family going to fall
+in love with that baby."
+42,WILLOW,42,"Kiaya!  We can't keep that baby.
+Mims, Ranon.  Hey!  I will not be
+ignored!"
+43,WILLOW,43,"This is bad.  If we're caught with
+that little daikini it'll be the
+end of us.  Careful, Ranon, I need
+that for the festival.
+(indicates magic cloth)
+Kiaya, what are we going to do?"
+44,KIAYA,44,We're gonna give this baby a bath.
+45,WILLOW,45,"Burglekutt's right.  There's not
+enough time to finish plowing.
+We'll lose everything and I'll end
+up working in the mines."
+46,KIAYA,46,"Willow, do you think we should take
+her to the Village Council?"
+47,WILLOW,47,"No, no!  They'll think it's a bad
+omen.  There'll be a flood or a
+drought or a plague and
+everybody'll blame me for it!"
+48,RANON,48,Look.  What's that?
+49,WILLOW,49,"I don't know.  This is trouble.
+I'll talk to the High Aldwin about
+it tomorrow at the Festival."
+50,WILLOW,50,"And now!  For our final amazing bit
+of magic, I will make an entire pig
+completely disappear!"
+51,CROWD,51,Aaww!  Booo!  Sssss!
+52,WILLOW,52,"Meegosh, I'm in trouble."
+53,MEEGOSH,53,"Hey, it wasn't that bad.  You need
+a better pig, that's all."
+54,MEEGOSH,54,"Now Burglekutt's got you in the
+squeeze.  Soon you'll be down in
+the mines like me."
+55,WILLOW,55,"Mining.  I hate closed-in spaces.
+That's the last thing I'd ever do."
+56,WILLOW,56,I gotta get my crop planted.
+57,MEEGOSH,57,"You know I'll help you as much as I
+can, Willow."
+58,MIMS,58,"Dada, can we get treacle candy?
+Can we, can we?  Please?"
+59,WILLOW,59,"Meegosh, can you watch the chil-
+dren?  I gotta talk to the High
+Aldwin."
+60,MEEGOSH,60,The High Aldwin??  Why?
+61,WILLOW,61,Sir!  I have to talk to you.
+62,WILLOW,62,"Not today, Willow."
+63,WILLOW,63,"It's a matter of great importance
+to me!"
+64,WILLOW,64,"Intuition, Willow -- remember?  I
+know you're eager to be my appren-
+tice, Willow.  But today is the
+spring festival."
+65,WILLOW,65,"Apprentice?  To the High Aldwin!!
+Willow Ufgood???"
+66,DEATH DOG,66,Bordak!  Bordak!
+67,MEEGOSH,67,What was it looking for?
+68,MEEGOSH,68,"It said ""bordak""!  What does it
+mean?"
+69,MEEGOSH,69,"Baby!  It means baby!  It was look-
+ing for somebody's baby!"
+70,MIMS,70,Mommy?
+71,WILLOW,71,Kiaya!  Kiaya!
+72,WILLOW,72,"We can't keep this baby, Kiaya.  We
+must take her to the Council."
+73,WILLOW,73,"An evil beast from the outer world
+has invaded our peaceful village,
+looking for a baby!"
+74,WILLOW,74,It's a sign!  An omen!
+75,ANOTHER VILLAGER,75,Our crops will die!
+76,ANOTHER VILLAGER,76,"Silence!  One beast we can kill.
+But there may be more!  And they
+won't give up their search till
+they've found what they're looking
+for!"
+77,MEEGOSH,77,Whose baby is it!
+78,MEEGOSH,78,Who's to blame for this!
+79,MEEGOSH,79,Willow Ufgood!  Come before me!
+80,MEEGOSH,80,"Earlier today you tried to tell me
+something, Willow."
+81,WILLOW,81,"My family found this baby in the
+river, High Aldwin."
+82,WILLOW,82,A daikini child...
+83,(his eyes close),83,"...of some importance, I feel..."
+84,(his eyes close),84,"That's what the beasts want!  Give
+it back!"
+85,WILLOW,85,"They'll kill her!  We can't let
+this baby die!"
+86,WILLOW,86,What do we care!
+87,WILLOW,87,"...importance...yes...this child
+is special..."
+88,WILLOW,88,What should we do?
+89,WILLOW,89,"This child must be taken beyond the
+boundaries of our village.  All the
+way to the daikini crossroads."
+90,WILLOW,90,Who will do that?
+91,SEVERAL VILLAGERS,91,Vohnkar!  Vohnkar!
+92,SEVERAL VILLAGERS,92,"The outer world is dangerous and
+corrupt, Vohnkar.  And this baby is
+hunted by blood-hungry beasts.  Are
+you willing to sacrifice your life?"
+93,VOHNKAR,93,"If I go, who'll defend you if other
+beasts attack?"
+94,VOHNKAR,94,"He's right!  It seems only fair
+that the man to take this baby to
+the crossroads..."
+95,VOHNKAR,95,"...be the very man who plucked
+it..."
+96,VOHNKAR,96,...out of the river!
+97,WILLOW,97,"I can't do it!  I haven't put my
+crop in!"
+98,WILLOW,98,"You caused this trouble.  You found
+the baby...you get rid of it!"
+99,WILLOW,99,I nominate Willow Ufgood!
+100,WILLOW,100,I will consult the bones!
+101,WILLOW,101,The bones tell me nothing.
+102,(he eyes Willow),102,"But I must make a decision.  Is
+there love in your heart for this
+child?"
+103,WILLOW,103,Yes.
+104,WILLOW,104,"The bones have spoken!  Willow?
+The security of this village
+depends on you!"
+105,MIMS,105,Dada?
+106,MIMS,106,"Watch out for brownies, Dada."
+107,WILLOW,107,"I will, Mims.  Goodnight."
+108,RANON,108,"Dada, what's a daikini?"
+109,WILLOW,109,"Daikinis are giant people who live
+far far away."
+110,RANON,110,Are you scared?
+111,RANON,111,"I could be you rguard!  I could
+carry your spear!"
+112,"WILLOW
+(smiles)",112,"What a great son you are, Ranon.  I
+wish I could take you with me.  Now
+go to sleep..."
+113,"WILLOW
+(smiles)",113,"Now, you know where you're going?"
+114,"WILLOW
+(smiles)",114,"Down there, through those trees,
+follow the river.  You'll know the
+crossroads by a big daikini struc-
+ture.  Willow, this is serious
+business.  Don't waste any time,
+the outer world is no place for a
+Nelwyn.  Give the baby to the first
+daikini you see, then hurry home as
+fast as you can."
+115,WILLOW,115,"If I'm not strong enough to be your
+apprentice, how can I do this?"
+116,WILLOW,116,"You're strong enough.  But you're
+going to need courage, Willow."
+117,WILLOW,117,"I don't want courage.  I don't want
+to be a warrior.  All I've ever
+wanted was to do magic, real magic,
+like you!"
+118,WILLOW,118,"Real magic, Willow, is simply the
+art of controlling the reality of
+others.  You lack faith in your-
+self.  You must learn to trust your
+intuition."
+119,WILLOW,119,"Go in the direction the bird is
+flying."
+120,"WILLOW
+(amazed)",120,"Oh, if I could do that I'd--I'd
+turn Burglekutt into a toad!"
+121,"WILLOW
+(amazed)",121,"Waste magic on revenge?  You have
+much to learn, Willow..."
+122,KIAYA,122,"Willow, we've never been apart.  I
+miss you already.  Take this.  It
+will bring you luck."
+123,WILLOW,123,"You cut your hair, Kiaya?"
+124,KIAYA,124,Willow!!
+125,KIAYA,125,"We've patrolled the hills.  This is
+where they killed the nursemaid."
+126,SORSHA,126,"She must have done something with
+the child.  Widen the search!"
+127,SORSHA,127,Get away from there!
+128,WILLOW,128,"I hate this.  Where am I?  I should
+stick you in a tree and go back
+home."
+129,WILLOW,129,I'm sorry.  I didn't mean that.
+130,WILLOW,130,That's it.  The crossroads...
+131,WILLOW,131,I hate this.
+132,WILLOW,132,I hate this.
+133,WILLOW,133,I really hate this.
+134,WILLOW,134,"Hey, Peck...get me some water...or
+you'll diiiiie...!"
+135,WILLOW,135,"I will--I'll getcha water--getcha
+lotsa water--anything you say--!"
+136,WILLOW,136,Peck!
+137,WILLOW,137,"You're a weasely little Peck!
+Gimme some water!"
+138,WILLOW,138,I'm not coming near you!
+139,WILLOW,139,"Please?  I'm dyin' of thirst in
+here."
+140,WILLOW,140,Good.  How long will it take?
+141,WILLOW,141,"Don't make me angry, Peck."
+142,WILLOW,142,"You be careful.  I'm a powerful
+sorcerer.  I could turn you into a
+toad just like that."
+143,WILLOW,143,Miserable Pecks.
+144,WILLOW,144,That's more like it.
+145,WILLOW,145,"Do any other daikinis ever come by
+here?"
+146,WILLOW,146,Why.
+147,WILLOW,147,"I have to give this baby to some-
+body."
+148,WILLOW,148,"I'm somebody.  Lemme out and I'll
+take care of your baby."
+149,WILLOW,149,"No.  Somebdoy put you in there for a
+reason.  I'll wait for somebody else."
+150,WILLOW,150,Hey!  Somebody's coming!
+151,WILLOW,151,Peck!  Quick!  Douse the fire!
+152,WILLOW,152,"No, you fool!  Put it out I say!
+Out!"
+153,WILLOW,153,No!!
+154,PICT,154,Whose fire!
+155,PICT,155,No!  Help!  Stop!
+156,PICT,156,Where are they?  Where did they go?
+157,PICT,157,"Thanks for your help, Peck."
+158,WILLOW,158,Are you okay?
+159,WILLOW,159,"As if you care.  I saved your life,
+Peck.  Those guys woulda killed us!"
+160,WILLOW,160,"You wanna give your baby to them??
+They eat babies!"
+161,WILLOW,161,I don't know.
+162,WILLOW,162,"The world's gone insane.  Good men
+locked in cages, criminals running
+free.  It doesn't pay to be honest,
+Peck."
+163,WILLOW,163,"Don't call me a Peck.  My name is
+Willow."
+164,WILLOW,164,"Hello, Willow.  I'm Madmartigan."
+165,WILLOW,165,You a woodcutter?
+166,WILLOW,166,Farmer.
+167,WILLOW,167,"Farmer!  I knew it!  You're a vic-
+tim, Willow.  Yep, you and me:
+victims of a rotten, corrupt, cor-
+rupt, rotten world."
+168,WILLOW,168,"Listen, Willow my friend.  I'm
+really a good man.  Give me my
+freedom, and I'll look after that
+baby for you.  Trust me."
+169,WILLOW,169,"That's it--good--good--like that,
+yes, good, good, the chain--that's
+it, come on--come on--!"
+170,WILLOW,170,"Nooo, I don't think I should."
+171,WILLOW,171,"Peck!!  Stupid Peck!  I'll kill ya!
+Let me out!"
+172,WILLOW,172,"Morning, Willow."
+173,WILLOW,173,"Sorry I yelled at you.  I've been
+in this cage toooo long.  Can't
+think straight anymore.  Owww...!"
+174,WILLOW,174,You all right?
+175,WILLOW,175,These burns.  My arms.  Ouch...
+176,WILLOW,176,See if this helps.
+177,WILLOW,177,"Aaaaaahhhh.  Better.  Here, I made
+something for the baby."
+178,WILLOW,178,What's inside?
+179,WILLOW,179,A tooth.
+180,(Willow reacts),180,I'm strving.  I got no used for it.
+181,WILLOW,181,Stop!  Wait!
+182,(with authority),182,Smells like a battle.
+183,WILLOW,183,Are you a warrior?
+184,WILLOW,184,"The greatest swordsman that ever
+lived."
+185,WILLOW,185,What's that?  I hear something!
+186,WILLOW,186,You hear trouble.
+187,WILLOW,187,What is it?
+188,WILLOW,188,"A hundred horses...five or six
+wagons...  and about six thousand
+fools."
+189,WILLOW,189,Sir?  Sir!
+190,OFFICER,190,Out of the way!
+191,AIRK,191,"Push 'em harder!  No rest at mid-
+day!  We need to make ten more
+leagues by dark!"
+192,WILLOW,192,"Sir!  Sir!  I have this baby.  We
+found her in our village.  Will you
+take her...?"
+193,AIRK,193,"We're going into battle, little
+one.  Find a woman to take care of
+it."
+194,AIRK,194,"He thought you were a woman, Airk!"
+195,AIRK,195,"Madmartigan!  What did you do this
+time?"
+196,AIRK,196,"Nothing you wouldn't have done it my
+place!"
+197,AIRK,197,"I always knew you'd end up in a
+crow's cage."
+198,AIRK,198,"Least I'm not down there herding
+sheep!"
+199,AIRK,199,"You're lucky somebody got to you
+first, Madmartigan!  I'd've killed
+you myself after that stunt at
+Land's End!"
+200,AIRK,200,"Airk!  Come on, Airk.  Lemme outa
+here."
+201,AIRK,201,"Hey, remember?  You don't need my
+help, Madmartigan.  Little rabbit
+trap like this?  Come on!  I could
+open it for you, but I wouldn't
+wanna insult you!"
+202,AIRK,202,"Gimme a sword, Airk.  I'll win your
+war for you."
+203,AIRK,203,"You're nothing but trouble, Madmar-
+tigan.  And I got plenty of that.
+Stay in your coffin and rot!"
+204,AIRK,204,"I'll be around long after you're
+dead, Airk!  You slime!  When I get
+outa here I'll cut your head off
+and stick it on a pig-pole!"
+205,WILLOW,205,Friend of yours?
+206,WILLOW,206,"Hello, little baby..."
+207,WILLOW,207,"Whatcha thinkin' about, Willow?"
+208,WILLOW,208,I hate this.
+209,WILLOW,209,"Nobody's gonna take your baby.
+Know why?  Nobody cares..."
+210,(beat),210,Except me.
+211,(beat),211,"You wanna go back to your farm.
+You wanna go back to your family.
+I could take care of that baby.
+I'll look after her like she was me
+own."
+212,WILLOW,212,"You don't know anything about ba-
+bies."
+213,WILLOW,213,"Ahhh!  But I know a lot of women
+who do.  Why, if I had somebody in
+my life--a little daughter for
+instance--I'd have a reason to
+live..."
+214,WILLOW,214,"Willow.  You can't let me die here.
+Not when I wanna help you."
+215,WILLOW,215,You gotta promise to feed her.
+216,WILLOW,216,I will.
+217,WILLOW,217,Fresh goat's milk.
+218,WILLOW,218,Absolutely!
+219,WILLOW,219,"And give her a bath everyday, and
+don't let her get cold.  And keep
+her diaper changed."
+220,WILLOW,220,Of course!  I promise!
+221,WILLOW,221,"Come to Daddy, little darlin'."
+222,WILLOW,222,I think she likes me!
+223,WILLOW,223,"Here are her diaper rags.  And this
+is her milk bladder.  And when she
+cries--she's either hungry or she's
+tired--rock her on your left
+shoulder.  She likes that."
+224,WILLOW,224,"Don't worry, Willow.  She's in good
+hands.  You haven't made a mistake."
+225,WILLOW,225,Bye.
+226,"WILLOW
+(to Madmartigan)",226,Please take good care of her.
+227,"WILLOW
+(to Madmartigan)",227,"You've done a great job.  Now you
+go back to your family and get your
+crop in."
+228,WILLOW,228,"Look, it's Willow Ufgood!  He's
+come home!  Welcome back, Willow!
+He deserves a medal:  he's quite
+mystical.  For honor, for bravery,
+for his intuitive powers..."
+229,WILLOW,229,"...let's make him Apprentice
+Aldwin.  Better still:  High
+Aldwin!  Make way!  It's Willow Uf-
+good, High Aldwin of---"
+230,WILLOW,230,"Come back here, you!  That's my
+baby!!"
+231,WILLOW,231,"Oh no, it's a trap!"
+232,WILLOW,232,Oh noooooo!!
+233,WILLOW,233,Where am I?  Where's the baby?
+234,FRANJEAN,234,"I am Franjean, king of the world."
+235,WILLOW,235,That baby's my responsibility!
+236,FRANJEAN,236,"I don't care.  We paid for her.  Go
+back to sleep, monsieur..."
+237,WILLOW,237,"Yeow!
+(he loses consciousness)
+Madmartigan...I never should've
+trusted you..."
+238,TEEMO,238,Tongue.
+239,WILLOW,239,Who are you?
+240,ROOL,240,"Quiet, you fool!"
+241,"TEEMO
+(formal)",241,"We are emissaries of her majesty,
+Queen Cherlindrea, of the land of
+Coshairm."
+242,WILLOW,242,Queen Cherlindrea?
+243,TEEMO,243,"She requests the presence of your-
+self and the young princess."
+244,WILLOW,244,Who??
+245,TEEMO,245,"You're the guardian, aren't you?"
+246,ROOL,246,"Quit yakking, Teemo.  We gotta get
+outa here!"
+247,TEEMO,247,"Elves!  They're always tormenting
+babies.  They make them cry and
+take their tears."
+248,ROOL,248,Somebody has to do it.
+249,WILLOW,249,Why??
+250,ROOL,250,How else they gonna make dew drops?
+251,WILLOW,251,I'm getting her out of there!
+252,TEEMO,252,"No!  You let us handle this.  Come
+along, Rool!"
+253,TEEMO,253,"Watch this.  Right between the
+eyes."
+254,ROOL,254,He never misses.
+255,TEEMO,255,"Ooops.  Was that right?  That
+wasn't right."
+256,TEEMO,256,Hyah!  Hyah!  Git!
+257,WILLOW,257,I can't go out there with the baby!
+258,WILLOW,258,Elves!!
+259,WILLOW,259,"Ohhh, I hate this."
+260,TEEMO,260,"Take your time.  Don't worry about
+the elves.  They won't come out
+here."
+261,WILLOW,261,Why not?
+262,ROOL,262,Because of the trolls.
+263,WILLOW,263,Trolls?
+264,TEEMO,264,"Relax.  They only come out at
+night."
+265,WILLOW,265,This is not going well.
+266,TEEMO,266,"Hurry!  Queen Cherlindrea will know
+what to do."
+267,TEEMO,267,"Come on.  This is a privilege.  No-
+body ever gets called before Her
+Majesty."
+268,ROOL,268,Stand up!  It's the queen!
+269,ROOL,269,Willow Ufgood.
+270,"WILLOW
+(blinded)",270,Yes...?
+271,"WILLOW
+(blinded)",271,"I hope you are comfortable here,
+inside my kingdom..."
+272,TEEMO,272,Talk!  Say something!
+273,WILLOW,273,"I can't see anything--she's too
+bright!"
+274,WILLOW,274,I'm sorry...
+275,WILLOW,275,"Broke-heart of nightingale for our
+honored guest."
+276,WILLOW,276,"It is Elora Danan!  The prophecy
+has come true."
+277,WILLOW,277,"You mean, you know who this baby
+belongs to?"
+278,WILLOW,278,"She belongs to all of us.  She is
+the future queen and ruler of all
+kingdoms on earth."
+279,WILLOW,279,What a relief.  Now I can go home.
+280,WILLOW,280,"No, Willow.  Your journey has just
+begun.  It has been foretold that
+this child shall bring about the
+downfall of Queen Bavmorda, whose
+evil powers have darkened our
+world.  Upon you depends this
+princess's life."
+281,WILLOW,281,Me?
+282,WILLOW,282,"You are the guardian, Willow.  You
+must take her to Tir Asleen."
+283,WILLOW,283,What is Tir Asleen?
+284,WILLOW,284,"It is a distant castle, where a
+great king and queen will look
+after Elora Danan and keep her safe
+until she is old enough to rule."
+285,WILLOW,285,"Where is Tir Asleen?  How far is
+it?"
+286,WILLOW,286,"The way has been lost in time. But
+there is one person, a druid sor-
+ceress, who might guide you there.
+She was exiled by Queen Bavmorda
+many years ago.  Her name is Fin
+Raziel."
+287,WILLOW,287,"You need a warrior for this job.
+I'm nobody."
+288,WILLOW,288,"You are very important, Willow."
+289,WILLOW,289,"No I'm not.  Have you really looked
+at me?"
+290,WILLOW,290,I'm short!  Even for a Nelwyn!
+291,WILLOW,291,"Why can't you do it?  You have mag-
+ical powers."
+292,WILLOW,292,"My prsence cannot extend beyond
+this forest.  But I can give you
+these..."
+293,WILLOW,293,"They will protect you.  Use them
+wisely."
+294,WILLOW,294,They look like acorns.
+295,WILLOW,295,"Anything you hurl them at will turn
+to stone."
+296,WILLOW,296,They're magic?  Are you serious?
+297,(sternly),297,"I am very serious, Willow.  There
+is no time to lose."
+298,WILLOW,298,"But I've got a family to think
+about!  They need me!"
+299,WILLOW,299,Hello...?
+300,WILLOW,300,"Bavmord'a powers are growing like
+an evil plague.  Soon she will con-
+trol the lives of you children,
+your wife, your village...everyone."
+301,WILLOW,301,The choice is yours.
+302,WILLOW,302,"I'll do it.  Yes, I will, I'll do
+it!"
+303,WILLOW,303,But I only have one shoe.
+304,WILLOW,304,"Wait till I tell my children.
+Stuff like this never happens in my
+village."
+305,TEEMO,305,"Hey, careful there!"
+306,WILLOW,306,"How do these work I wonder?  I got-
+ta save one to show the High
+Aldwin."
+307,ROOL,307,Look!  Death below!
+308,WILLOW,308,Daikinis...
+309,HORSEMEN,309,Hyaaaaahh!!
+310,WILLOW,310,"Let's get out of here.  Shhh, don't
+cry, Elora.  Things can't get any
+worse than this..."
+311,TEEMO,311,I'm not going in there.
+312,ROOL,312,Me neither!
+313,WILLOW,313,"Don't worry--I'm a sorcerer.  What
+could possibly happen?"
+314,WILLOW,314,"Could you spare some milk for this
+poor hungry baby?"
+315,BARMAID,315,"Get outa here, Peck!"
+316,PATRONS,316,"A Peck!  Get him out!  Beat it,
+Peck!"
+317,WILLOW,317,"I could use your help, boys."
+318,WILLOW,318,Willow?
+319,WILLOW,319,This is not fun.
+320,WILLOW,320,Woah!
+321,WENCH,321,Hurry!  Hurry!
+322,THE OTHER WOMAN,322,How do I look?
+323,WILLOW,323,You!!
+324,WILLOW,324,Where the hell did you come from?
+325,WILLOW,325,I trusted you...
+326,ROOL,326,Who's he?
+327,ROOL,327,You're crawling with rodents.
+328,LLUG,328,Where is he!!
+329,WENCH,329,"There's nobody here except me and
+my, um, cousin."
+330,WENCH,330,How do you do.
+331,WILLOW,331,Hey!  Give me that baby!
+332,WILLOW,332,"These Pecks make terrible nurse-
+maids."
+333,WILLOW,333,Nursemaid?!
+334,WILLOW,334,They get too excited.
+335,LLUG,335,Wanna breeeeeeed?
+336,"WILLOW
+(mischievously)",336,Time to change her diaper.
+337,"WILLOW
+(mischievously)",337,Time to leave.
+338,SORSHA,338,"You!  Are you the mother of that
+child?"
+339,SORSHA,339,"No.
+(looks at Llug; in a high voice)
+I mean yes."
+340,SORSHA,340,Let me see it.
+341,SORSHA,341,I can't.
+342,SORSHA,342,Let me see it.
+343,WILLOW,343,No!  You can't!
+344,WILLOW,344,I can't.
+345,SORSHA,345,Why not?
+346,SORSHA,346,Why not?
+347,WILLOW,347,Because she's sick.
+348,WILLOW,348,Because she's sick.
+349,SORSHA,349,Give it to me!
+350,SORSHA,350,Gawd...you're...beautiful...
+351,SORSHA,351,You're not a woman.
+352,LLUG,352,Not a woman??!!
+353,SORSHA,353,After them!!
+354,WILLOW,354,Madmartigan!  Wait!
+355,WILLOW,355,"We could've been killed, Madmarti-
+gan!"
+356,WILLOW,356,Heeyah!  Heeyah!
+357,WILLOW,357,Oh no!
+358,DEATH,358,Bordak!!
+359,DEATH,359,Bordak!!
+360,WILLOW,360,Woah...woah...!
+361,WILLOW,361,That girl is a vision.
+362,WILLOW,362,Where's the baby??
+363,WILLOW,363,I thought you had her!
+364,WILLOW,364,Willow!!
+365,WILLOW,365,"Now Willow, I know you're gonna
+blame me for this but it wasn't my
+fault...!"
+366,WILLOW,366,Elora Danan!
+367,WILLOW,367,"When I left the crossroads, I got
+ambushed by an elf!"
+368,WILLOW,368,Madmartigan!  You saved her life!
+369,WILLOW,369,I did?
+370,WILLOW,370,"I mean, of course I saved her life.
+She's almost my daughter, isn't
+she?"
+371,WILLOW,371,"Let's get out of here before they
+come back."
+372,TEEMO,372,"Northeast is that way.  We've come
+west and south.  I think."
+373,ROOL,373,"Watch it!  You're gonna set us on
+fire."
+374,ROOL,374,Not a bad idea.
+375,ROOL,375,"So you're on your way to Tir
+Asleen, huh?  I hate to tell you
+this, Willow, but Tir Asleen dosn't
+exist."
+376,WILLOW,376,"Yes it does.  The Fairy Queen told
+me."
+377,WILLOW,377,"The Fairy Queen?  And the baby
+here's a princess?  And these two
+rodents are your guides?"
+378,WILLOW,378,"Yeah well...in the morning I think
+I'll be on my way."
+379,WILLOW,379,"Madmartigan, I need your help."
+380,WILLOW,380,"My help?  A great magician like
+you?  You don't need any help."
+381,WILLOW,381,But you're a great swordsman!
+382,WILLOW,382,"You're not a warrior, Madmartigan!
+A warrior wouldn't lie there and do
+nothing!"
+383,WILLOW,383,"We're in trouble!  You've seen the
+big army that's after us!  You're a
+fake!  You're a bum!  You're a--
+you're a coward!!"
+384,WILLOW,384,"What's with you, Peck?"
+385,WILLOW,385,"I miss my wife!  I miss my chil-
+dren!  My boy Ranon!  He's growing
+up so fast, he even helps me on the
+farm now!  And little Mims!  If you
+ever saw her sweet little face
+you'd *melt* Madmartigan, you'd
+*melt*!"
+386,WILLOW,386,"Or maybe you wouldn't.  You don't
+know anything about love.  You
+don't know anything about any-
+thing..."
+387,WILLOW,387,"I was in love once, Willow.  She
+had a hold on my heart.  I could
+barely function."
+388,(a pause),388,"I *was* a great swordsman!  I was
+knighted!  I could have been king!"
+389,WILLOW,389,You?
+390,WILLOW,390,"Yeah me.  King!  But she betrayed
+me.  She robbed me of my dream."
+391,WILLOW,391,I'll never fall in love again...
+392,WILLOW,392,Madmartigan!  Madmartigan!
+393,WILLOW,393,"Relax, Willow.  We're having fun."
+394,ROOL,394,"That's it!  The sorceress lives
+there!"
+395,TEEMO,395,Are you sure?
+396,"ROOL
+(excited)",396,"Yes!  Raziel!  She lives out on
+that island!"
+397,TEEMO,397,"That tree dosn't look like gold to
+me."
+398,TEEMO,398,Gold!!
+399,TEEMO,399,"Its branches are supposed to be
+made of gold, solid gold."
+400,WILLOW,400,How are we going to get out there?
+401,WILLOW,401,"We'll find a way, Willow.  Look
+over there--that looks like a
+village--maybe they've got a boat.
+Come on, what are you waiting for?"
+402,WILLOW,402,"Give me a hand here, Peck!"
+403,BOY,403,What are you doing?
+404,BOY,404,It's nothing to do with you.
+405,WILLOW,405,We need to get out to that island.
+406,BOY,406,The island is cursed.
+407,WILLOW,407,"We've traveled a long way.  We're
+looking for Fin Raziel."
+408,TEEMO,408,The sorceress.
+409,BOY,409,"She's there.  But you can't go
+there.  The island is cursed."
+410,BOY,410,Yeah?  Who cursed it?
+411,BOY,411,"Queen Bavmorda.  Her powers govern
+the elements."
+412,BOY,412,"Ahh, he's trying to protect the
+gold.  Come on, Willow.  Jump in."
+413,WILLOW,413,What would the Fairy Queen say?
+414,ROOL,414,She's not here.
+415,"TEEMO
+(to Rool)",415,Obviously.
+416,WILLOW,416,"Without Raziel we'll never find Tir
+Asleen."
+417,WILLOW,417,We'd better go.
+418,WILLOW,418,Raziel?  Hello?  Fin Raziel?
+419,RAZIEL,419,Get away!  Get away!
+420,RAZIEL,420,You'll die!  You'll die!
+421,RAZIEL,421,Who are you!  Who are you!
+422,WILLOW,422,"I'm Willow Ufgood.  I'm here to
+find Fin Raziel."
+423,RAZIEL,423,That's me!  Raziel!  Raziel!
+424,WILLOW,424,"This can't be right.  This isn't a
+sorceress.  This is some kind of
+animal."
+425,TEEMO,425,Queen Bavmorda transformed her.
+426,RAZIEL,426,What do you want!
+427,WILLOW,427,"We need your help.  To take this
+baby to Tir Asleen.  She's a prin-
+cess."
+428,RAZIEL,428,Elora Danan!
+429,RAZIEL,429,"Rool!  Teemo!  You were right!
+This whole tree is made of gold!!"
+430,RAZIEL,430,"Fools!  You should never have come
+to this place!  We're all going to
+die!"
+431,RAZIEL,431,"We've got to get off this island
+right now.  Hurry!  The boat!  It's
+our only chance!"
+432,WILLOW,432,Madmartigan!
+433,WILLOW,433,Wait!  Gold!  Gold!
+434,WILLOW,434,"Help, Madmartigan!  The oar!"
+435,WILLOW,435,My gold!
+436,RAZIEL,436,Kill him!
+437,WILLOW,437,No!
+438,RAZIEL,438,Kill him!
+439,RAZIEL,439,No!!  Help!!  Willow!!!
+440,RAZIEL,440,"Willow...you...you got...magic...!
+Wait...we could team up...!"
+441,RAZIEL,441,Flee!  Flee!
+442,SORSHA,442,"Raziel.  Did you think my mother
+would allow you to escape?"
+443,SORSHA,443,"This is what we're looking for.  It
+bears the markings."
+444,SORSHA,444,"Don't worry, Willow.  If there's
+one thing I'm good at, it's charm-
+ing a woman..."
+445,SORSHA,445,"So.  Couldn't live without me, huh?"
+446,SORSHA,446,Lose your skirt?  How embarassing.
+447,SORSHA,447,Still got what counts.
+448,SORSHA,448,Not for long.
+449,SORSHA,449,"We'll join the column.  Bring them
+with us."
+450,TEEMO,450,We gotta follow them.
+451,ROOL,451,"Us??  We'll never catch them.  Any-
+way, we're all done, Teemo.  Let's
+go home."
+452,TEEMO,452,"Get back here, Rool!"
+453,ROOL,453,Ouch!  Let go of me!
+454,WILLOW,454,I can't go on...
+455,WILLOW,455,"Willow, why don't you use your mag-
+ic to get us out of here?"
+456,RAZIEL,456,He's no magician.
+457,RAZIEL,457,He turned that monster into stone!
+458,RAZIEL,458,Did *you* give that acorn its power?
+459,WILLOW,459,No.
+460,RAZIEL,460,"A magician *makes* magic.  Any fool
+can use it."
+461,RAZIEL,461,Then you get us out of here.
+462,RAZIEL,462,I will!  But I need help!
+463,WILLOW,463,I'll help you...!
+464,WILLOW,464,I won't.
+465,RAZIEL,465,You must learn magic.
+466,WILLOW,466,That's all I ever wanted!
+467,RAZIEL,467,Then I will teach you.
+468,RAZIEL,468,"Nice horse...nice hair...real nice
+hair...I'd say you've got the most
+beautiful hair I've ever--"
+469,SORSHA,469,Wolff wants to boil you in oil.
+470,SORSHA,470,Don't tempt me.
+471,WILLOW,471,"If you rest the baby on your
+shoulder, she'll stop crying."
+472,SORSHA,472,Shut up.
+473,SORSHA,473,"Mmmm, I love the smell of a woman."
+474,SORSHA,474,"My step-father's going to tear you
+apart."
+475,SORSHA,475,"I'm torn apart already.  I mean it!
+Under all that armor is a
+beautiful--"
+476,SORSHA,476,"Who is that girl, anyway?"
+477,RAZIEL,477,"Sorsha, Queen Bavmorda's daughter."
+478,RAZIEL,478,"Forget that one, Madmartigan."
+479,RAZIEL,479,"Willow.  To learn magic, first you
+must make your own philosopher's
+stone!"
+480,WILLOW,480,What do I need for that?
+481,RAZIEL,481,"We must start with feathers, dung,
+and a lock of your hair."
+482,RAZIEL,482,Now that's a woman...!
+483,RAZIEL,483,"Keep working at it.  Forget all you
+know, or think you know.  A
+magician's power depends on disord-
+er of the mind."
+484,RAZIEL,484,You got that one covered.
+485,WILLOW,485,"I hope she's all right.  How much
+more do I have to do of this?"
+486,RAZIEL,486,"Till it's in a powder.  The energy
+exits within you..."
+487,WILLOW,487,"I know, and the magician's goal is
+to find his true self.  But what's
+this got to do with it?"
+488,RAZIEL,488,"As below, so above.  You hold the
+univers, Willow, in your hand."
+489,RAZIEL,489,"I'm beginning to think you two
+*deserve* to be locked up."
+490,WILLOW,490,"The universe is a living creature,
+like you and me, Madmartigan."
+491,WILLOW,491,We're a tiny version of all that?
+492,RAZIEL,492,"As above, so below."
+493,WILLOW,493,I'm all finished.  Now what?
+494,RAZIEL,494,Burn it to a fine ash.
+495,WILLOW,495,How am I gonna do that?
+496,RAZIEL,496,"Patience.  Concentrate.  You will
+find a way."
+497,WILLOW,497,What's going on?
+498,WILLOW,498,Hurt him and you'll answer to me!
+499,SORSHA,499,"This baby won't do what I say.  You
+seem to know what to do.  Here!
+Make it shut up."
+500,WILLOW,500,She needs to be changed.
+501,SORSHA,501,I changed her already!
+502,WILLOW,502,She needs to be changed again.
+503,SORSHA,503,"Who is that horrible friend of
+yours?"
+504,WILLOW,504,Madmartigan.
+505,SORSHA,505,Who is he?
+506,WILLOW,506,I don't know much about him.
+507,SORSHA,507,"He's very bold.  Do you really
+think my hair is beautiful?"
+508,WILLOW,508,"Uh, yes.  It's very nice hair."
+509,WILLOW,509,She's hungry.
+510,SORSHA,510,"I know she's hungry.  I tried to
+feed her but she wouldn't eat a
+thing.  I'm not a wet nurse."
+511,WILLOW,511,Here.  Hold her.
+512,SORSHA,512,"I tried everything.  A spoon.  I
+poured milk into her mouth, she just
+spat it out.  I don't know what to
+do, I'm not a mother."
+513,WILLOW,513,Sometimes she likes it heated.
+514,WILLOW,514,She's a good baby.
+515,WILLOW,515,I did it!  I got the ashes!
+516,RAZIEL,516,Good!  The first step is complete.
+517,RAZIEL,517,Did she ask about me?
+518,WILLOW,518,Who?
+519,WILLOW,519,"Come on, Peck, don't give me a hard
+time.  You were in her ten all
+night.  Did she say anything?"
+520,WILLOW,520,She said lots of thing.s
+521,WILLOW,521,Willow!
+522,WILLOW,522,"She asked about you, Madmartigan."
+523,WILLOW,523,Well what did she say?
+524,SORSHA,524,"Here.  You're going to need these
+where we're going."
+525,SORSHA,525,She's in love.
+526,WILLOW,526,"You're crazy.  I think you're in
+love."
+527,RAZIEL,527,"We don't have much time left!  Go
+on!  Go on!"
+528,WILLOW,528,"I must concetrate my
+imagination...to creat a
+new...reality!"
+529,RAZIEL,529,What's the magician's weapon?
+530,WILLOW,530,The limitless power of...
+531,RAZIEL,531,"Your will!  Your will!  What else
+could it be?"
+532,WILLOW,532,"I can't remember all these things.
+What am I learning?"
+533,RAZIEL,533,The art of transformation!
+534,WILLOW,534,But what am I gonna transform??
+535,RAZIEL,535,Me!
+536,WILLOW,536,You?
+537,WILLOW,537,"What are you gonna become, Raziel?
+Queen of the rodents?"
+538,SORSHA,538,The baby's cold.  Take her.
+539,RAZIEL,539,"You remind me of your father, Sor-
+sha."
+540,SORSHA,540,My father was a weakling.
+541,RAZIEL,541,He was a great king.
+542,RAZIEL,542,"Not like your step-father, not like
+your mother.  He ruled Tir Asleen
+with kindness, and a generous
+heart."
+543,SORSHA,543,My mother calls that weakness.
+544,SORSHA,544,What do *you* call it?
+545,SORSHA,545,I do what I'm told.
+546,SORSHA,546,"Too bad you're not more like
+your father."
+547,SORSHA,547,Be careful.
+548,KAEL,548,Don't tell me what to do.
+549,KAEL,549,We gotta get the baby out of here.
+550,RAZIEL,550,"Tonight!  Complete the
+philosopher's stone!  I must be
+turned back!"
+551,WILLOW,551,"I'll do it, Raziel..."
+552,RAZIEL,552,"Let it settle.  Carefully, slowly.
+Concentration and will.  Now pour
+the water off."
+553,WILLOW,553,"Oooh, this smells terrible."
+554,RAZIEL,554,"That's the life spark.  Exxence of
+magic and sorcery!"
+555,WILLOW,555,Ouch!!
+556,RAZIEL,556,Shhhhh!
+557,WILLOW,557,What'd you bit me for!!
+558,RAZIEL,558,"We need blood.  To nourish the
+stone.  charge the stone with ener-
+gy."
+559,RAZIEL,559,"The components of the stone are
+fusing..."
+560,RAZIEL,560,"Again:  what is the magician's
+weapon?"
+561,WILLOW,561,His will.
+562,RAZIEL,562,Now use it.
+563,WILLOW,563,I just wanted to test it first.
+564,RAZIEL,564,"No!  Change me back into a sor-
+ceress, Willow."
+565,WILLOW,565,"Avaggdu, supriom, luwatha..."
+566,WILLOW,566,What did I do?
+567,WILLOW,567,"Not bad, Peck.  I'm impressed.  You
+busted the lock."
+568,WILLOW,568,"Madmartigan.  Let's go.  Let's get
+Eloran Danan."
+569,WILLOW,569,Let's get Elora Danan.
+570,RAZIEL,570,Wait!  What about me!
+571,RAZIEL,571,"You're a magician, Willow.  But I'm
+a thief.  Wait here.  I'll get the
+baby."
+572,RAZIEL,572,"I'm supposed to be a beautiful wo=
+man."
+573,WILLOW,573,"Come on, Madmartigan...!"
+574,WILLOW,574,"What are you doing?  Get out of
+there...!"
+575,WILLOW,575,I love you.
+576,SORSHA,576,"One move, and you really will be a
+woman."
+577,SORSHA,577,You're a fool.  Now put her back.
+578,SORSHA,578,I'm not going to let this baby die.
+579,SORSHA,579,Don't make me kill you.
+580,SORSHA,580,I believe you would...
+581,SORSHA,581,Why did you say that?
+582,SORSHA,582,Say what?
+583,SORSHA,583,I love you.
+584,SORSHA,584,Because it's true.
+585,SORSHA,585,I don't believe you.
+586,SORSHA,586,"I wish it weren't true.  I swore
+I'd never let this happen.  I hate
+you.  I hate your beauty, I hate
+your innocence, I hate the feelings
+you've awakened in me."
+587,MADMARTIGAN,587,"I'm in love with you, Sorsha.  I
+don't want to be, but a power has
+enchanted me and I stand helpless
+against it.  It's torture.  Battle-
+field or prison cell was never half
+as cruel."
+588,MADMARTIGAN,588,"I want you and I can't have you so
+I want you all the more.  If this
+were another time and another place
+I'd--"
+589,SORSHA,589,You'd what?
+590,KAEL,590,What's going on here!!
+591,SORSHA,591,Deceiver!!
+592,MADMARTIGAN,592,Whoops!
+593,MADMARTIGAN,593,Willow!  Jump on the shiled!
+594,KAEL,594,Bowmen!  Horses!  After them!
+595,MADMARTIGAN,595,"Sorsha!  I didn't betray you.  I
+love you!"
+596,KAEL,596,Kill them!!
+597,WILLOW,597,Nooo!!!
+598,MADMARTIGAN,598,"Willow!  Willow!  Are you all
+right?"
+599,VILLAGER,599,King Kael!
+600,ANOTHER VILLAGER,600,Nockmaar troops!
+601,MADMARTIGAN,601,Help us.
+602,AIRK,602,"Madmartigan.  Settled down with a
+family huh?"
+603,MADMARTIGAN,603,"You left me to die, friend."
+604,AIRK,604,You managed alright.
+605,MADMARTIGAN,605,Is this what's left of your army?
+606,OFFICER,606,Keep that baby quiet.
+607,KAEL,607,"Where is it!  Tell us or we'll burn
+your village!  Sorsha!"
+608,OFFICER,608,Kill her.
+609,MADMARTIGAN,609,You'll draw the others.
+610,AIRK,610,"It's you they're after, Madmarti-
+gan.  What did you do this time?"
+611,MADMARTIGAN,611,"They're not after me.  They want
+the baby."
+612,AIRK,612,Who is this baby?
+613,WILLOW,613,"The princess, Elora Danan."
+614,PEOPLE,614,The prophecy has come true.
+615,AIRK,615,Give her to us.  We'll protect her.
+616,RAZIEL,616,Not safe!  Not safe!
+617,WILLOW,617,"We're taking her to Tir Asleen.
+She'll be safe there from
+Bavmorda's powers."
+618,AIRK,618,"Tir Asleen is a myth.  It doesn't
+exist."
+619,RAZIEL,619,"It does!  It does!  I will show
+you!"
+620,AIRK,620,"You gonna be a hero, Madmartigan?
+I've lost half my men fighting
+Kael, and Bavmorda, and the Nock-
+maar army.  Now you and this Peck,
+and that magpie up in the rafters,
+are gonna take 'em on alone?"
+621,MADMARTIGAN,621,Then come with us.
+622,AIRK,622,"The war is here!  In towns and vil-
+lages like this!"
+623,AIRK,623,You're chasing a dream.
+624,MADMARTIGAN,624,Just get me some horses.
+625,MADMARTIGAN,625,"Once again, Airk, we say goodbye."
+626,AIRK,626,"One day one of us willl stand on
+the other's grave."
+627,RAZIEL,627,Nockmaar!  Nockmaar!
+628,RAZIEL,628,This way!  The cave!
+629,WILLOW,629,"Madmartigan!  I can't stand being
+in closed-in places."
+630,MADMARTIGAN,630,Want me to carry Elora?
+631,WILLOW,631,I'm used to her.  How's she doing?
+632,MADMARTIGAN,632,"She's doing a lot better than we
+are, Peck."
+633,MADMARTIGAN,633,"Willow...this may be a bad time to
+ask this question but...what if
+Raziel's wrong?"
+634,WILLOW,634,"She can't be wrong.  She's a very
+very very powerful sorceress."
+635,MADMARTIGAN,635,"She's a bird, Willow."
+636,WILLOW,636,"That's my fault, not hers.  I've
+got to keep practicing.  I'm still
+in the learning stage but magic,
+Madmartigan, requires concentration
+and--"
+637,MADMARTIGAN,637,Watch it!
+638,WILLOW,638,Ahhh!
+639,WILLOW,639,I hate this.
+640,MADMARTIGAN,640,"Go, Willow!  Run!  Run!"
+641,MADMARTIGAN,641,Willow!  Willow!
+642,KAEL,642,Go after them!
+643,MADMARTIGAN,643,"Hurry, Willow!  Throw it!"
+644,RAZIEL,644,Look out!
+645,KAEL,645,After them!!
+646,RAZIEL,646,Tir Asleen.
+647,WILLOW,647,There's nobody here.
+648,RAZIEL,648,"The Knights of the Pacalcade.  The
+king's bravest warriors."
+649,RAZIEL,649,"Turn them back, Willow!"
+650,WILLOW,650,How??
+651,RAZIEL,651,"Use the philosopher's stone!  Hur-
+ry!  Invocation!  Release them!"
+652,WILLOW,652,"Beings within, beings without!
+Danu danu walkail funfawtha!"
+653,WILLOW,653,"I did it!  Madmartigan!  Come here!
+Look!  You gotta see this!  I did
+it!"
+654,RAZIEL,654,More!  More!
+655,KAEL,655,Assault!  Scale the walls!
+656,WILLOW,656,Tuatha tuatha danu!
+657,WILLOW,657,"Raziel!  I transformed them all!
+I'm a magician!"
+658,RAZIEL,658,"You didn't transform them, Willow,
+you released them.  That was noth-
+ing.  Now change me."
+659,WILLOW,659,I feel like I could do anything!
+660,KNIGHT,660,It belonged to our king.
+661,WILLOW,661,"Capture the enery...limitless
+power of the will...avvdachh doth
+indicht rredd baerkinhaekin!"
+662,WILLOW,662,"Raziel?  Is that you?  Oh-oh.  What
+happened?"
+663,RAZIEL,663,I hate this.
+664,KAEL,664,Attack!!
+665,MADMARTIGAN,665,Sorsha.
+666,SORSHA,666,Madmartigan.
+667,MADMARTIGAN,667,Whose side are you on?
+668,SORSHA,668,Yours.
+669,MINION,669,Arrrggghhh!
+670,SORSHA,670,I love you.
+671,KAEL,671,Sorsha!!
+672,KAEL,672,Bordak!
+673,KAEL,673,Kill them both!
+674,KAEL,674,"Troops!  To Nockmaar!  Ride with
+me!"
+675,WILLOW,675,"I'm sorry.  There were too many of
+them."
+676,MADMARTIGAN,676,"Out for a little ride in the coun-
+try, Airk?"
+677,AIRK,677,"Thought you might get lonely, Mad-
+martigan!"
+678,MADMARTIGAN,678,"Thank you, friend."
+679,AIRK,679,Let's go.
+680,MADMARTIGAN,680,Sorsha!  Any way in there?
+681,SORSHA,681,"No.  The fortress is protected on
+all sides."
+682,AIRK,682,Make camp!  We'll assault at dawn.
+683,BAVMORDA,683,Kael!
+684,KAEL,684,Queen Bavmorda.  I have the child.
+685,BAVMORDA,685,We must start the ritual!
+686,BAVMORDA,686,Who is that?
+687,KAEL,687,An army of rebels and traitors.
+688,BAVMORDA,688,Where is Sorsha?
+689,KAEL,689,She has turned against you.
+690,BAVMORDA,690,"Purify the altar!  Arrange the im-
+plements!  I'll deal with Sorsha!"
+691,BAVMORDA,691,This is not an army!
+692,RAZIEL,692,"Willow!  Get out of here!  Quick!
+Hide!"
+693,RAZIEL,693,"Get down!  The ritual chant!
+Quick!  Protect yourself!"
+694,WILLOW,694,Why?
+695,RAZIEL,695,Just do it!
+696,MADMARTIGAN,696,"We've come for Elora Danan!  Turn
+her over to us!"
+697,BAVMORDA,697,"You dare to challenge me?  You are
+not warriors.  You're pigs!"
+698,BAVMORDA,698,You're all pigs!
+699,SORSHA,699,Mother!  No!!
+700,BAVMORDA,700,You made your decision!
+701,BAVMORDA,701,"Begin the ritual.  Now!  Light the
+first candle."
+702,BAVMORDA,702,"Come, thunder.  Come lightning.
+Touch this altar with your pwer.
+Come into my tower..."
+703,BAVMORDA,703,"Dark runes, dark powers!  Blend and
+bind, bind and blend, Universal
+night!  And the might of Nockmaar!"
+704,RAZIEL,704,"It's over, Willow.  You did well.
+You protected yourself."
+705,WILLOW,705,"I've come all this way and now
+Elora Dana's going to die!"
+706,RAZIEL,706,No!  I can still defeat Bavmorda!
+707,WILLOW,707,"She's too powerful, Raziel"
+708,RAZIEL,708,"A true magician, Willow, never
+surrenders.  She is a sorceress--I
+am a sorceress!  Transform me now
+and I will destroy her!  Hexagram!"
+709,WILLOW,709,"Banish all disturbing forces from
+this place.  Fire, water, above and
+below.  Balance.  Balance.  Bal-
+ance."
+710,"RAZIEL
+(voice distorted)",710,Don't give up!  Willow!
+711,WILLOW,711,Raziel!
+712,RAZIEL,712,"We've got a lot of work to do, Wil-
+low.  Bring in our brave men."
+713,BAVMORDA,713,"Black fire forever kindled within,
+Let the second right begin!"
+714,AIRK,714,"Uphill with our rough weapons,
+we'll never make it!"
+715,SORSHA,715,Elora Danan will die!
+716,RAZIEL,716,"By dawn, upon thirteen tolls of the
+runic drum!"
+717,WARRIOR,717,"Bavmorda is too powerful.  We need
+more forces.  I say we retreat!"
+718,RAZIEL,718,"Bavmorda cannot transform you.
+I've protected this camp with a
+spell."
+719,MADMARTIGAN,719,"Can you use your magic to get our
+men into the fortress, Raziel?"
+720,RAZIEL,720,"Bavmorda has shielded it with a
+spell of her own."
+721,WILLOW,721,Wait!!
+722,WILLOW,722,"I have an idea.  Back in my village
+we catch a lot of hedgehogs."
+723,MADMARTIGAN,723,"Willow, this is war, not agricul-
+ture!"
+724,WILLOW,724,"I know, I know!  But this is a way
+to get into that castle..."
+725,AIRK,725,It's too much work.
+726,WARRIOR,726,It can't be done.
+727,SORSHA,727,Kael will never fall for it.
+728,MADMARTIGAN,728,"I don't know, Willow."
+729,WILLOW,729,"Madmartigan, you promised me you'd
+take care of Elora Danan like your
+own daughter.  She is all that
+matters.  Are you going to abandon
+her?"
+730,AIRK,730,"Come on, Madmartigan.  you gonna
+listen to a Peck?  You and I are
+warriors.  You know this plan will
+never work."
+731,MADMARTIGAN,731,"We'll probably die here, Sorsha."
+732,SORSHA,732,I have no family.
+733,RAZIEL,733,"If we do not fight, and the baby
+dies, all hope for the future is
+lost.  I shall face the danger
+alone if I have to."
+734,WILLOW,734,"Me, too."
+735,MADMARTIGAN,735,"Time is running out.  We must now
+decide who's going to leave and who
+is going to stay..."
+736,BAVMORDA,736,Ocht veth nockkthirth bordak!
+737,RAZIEL,737,Time is running out.
+738,WILLOW,738,Surrender!!
+739,WILLOW,739,"We are all-powerful magicians!
+Give us the baby or we will destroy
+you!!"
+740,KAEL,740,Kill them!
+741,RAZIEL,741,"Patience, Willow."
+742,WILLOW,742,"Courage, Willow."
+743,AIRK,743,Let's squah 'em!
+744,SORSHA,744,"No, Willow!!"
+745,SORSHA,745,I will face my mother alone.
+746,BAVMORDA,746,Sorsha!!
+747,SORSHA,747,I won't let you kill her!
+748,BAVMORDA,748,"You are a weakling.  Like you fa-
+ther!  Can you not see that I am
+about to become all-powerful!"
+749,SORSHA,749,No!!
+750,BAVMORDA,750,Raziel...!!
+751,RAZIEL,751,"The baby will be queen.  It has
+been foretold, Bavmorda."
+752,BAVMORDA,752,"My ritual will kill the prophecy!
+Now the child dies with it, its en-
+ergy exiled into oblivion!"
+753,BAVMORDA,753,"You see?  I hold the power of the
+universe!"
+754,RAZIEL,754,Not until your ritual is complete!
+755,BAVMORDA,755,"And who will stop me?  The elements
+are slaves to my command!"
+756,RAZIEL,756,"There is no one who can match your
+sorcery.  Except me!"
+757,MADMARTIGAN,757,Airk!!
+758,MADMARTIGAN,758,Airk!  Airk!
+759,MADMARTIGAN,759,"Madmartigan...you're a brave
+warrior...a true friend...a good
+man..."
+760,MADMARTIGAN,760,"We're gonna win this war, Airk."
+761,BAVMORDA,761,"As above, so below!  Universe of
+evil, Raziel!  It conquers even
+you!"
+762,BAVMORDA,762,*Stop!  Bring back that child!!!*
+763,BAVMORDA,763,Who are you?
+764,WILLOW,764,I'm Willow Ufgood.  I'm a magician.
+765,WILLOW,765,I'm a *great* magician.
+766,BAVMORDA,766,Is that the extent of your power?
+767,BAVMORDA,767,Place it on the altar.
+768,WILLOW,768,No.  You can't have her.
+769,BAVMORDA,769,"By ritual, by sorcery, I well draw
+the lightning and send this child
+into the destructive realm."
+770,WILLOW,770,"And with my magic I'll send her
+into the...into the..."
+771,BAVMORDA,771,You're no magician.
+772,WILLOW,772,Into the good.
+773,BAVMORDA,773,"Even I don't have the power to do
+that.  You're a fraud."
+774,BAVMORDA,774,Impossible!  Bordak!  Bordak!
+775,BAVMORDA,775,Aaaaahhhh!!!
+776,RAZIEL,776,"Willow...Willow...how...how did you
+do that?"
+777,WILLOW,777,"It was just the old disappearing
+pig trick."
+778,RAZIEL,778,"Willow Ufgood.  Take this Book of
+Sorcery.  You are on your way to
+becoming a great magician."
+779,WILLOW,779,"Your dream has come true, madmarti-
+gan."
+780,MADMARTIGAN,780,"Goodbye, Peck."
+781,WILLOW,781,"Farewell, Elora Danan."
+782,KIAYA,782,Willow!!
+783,WILLOW,783,Kiaya!!

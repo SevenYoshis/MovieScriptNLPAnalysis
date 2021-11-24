@@ -1,0 +1,1681 @@
+,character,line #,line
+0,COMMODUS,0,Do you think he's really dying?
+1,LUCILLA,1,He's been dying for ten years.
+2,COMMODUS,2,I think he's really dying this time.
+3,COMMODUS,3,He has to be bled every night now.
+4,LUCILLA,4,How do you know that?
+5,COMMODUS,5,I've been so informed.
+6,COMMODUS,6,"If he weren't really dying he
+wouldn't have sent for us."
+7,LUCILLA,7,Maybe he just misses us.
+8,COMMODUS,8,"And the Senators.  He wouldn't have
+summoned them if --"
+9,LUCILLA,9,"Peace, Commodus.  After two weeks on
+the road your incessant scheming is
+hurting my head."
+10,COMMODUS,10,"The first thing I shall do is honor
+him with games worthy of his
+majesty."
+11,LUCILLA,11,"The first thing I shall do is have a
+hot bath."
+12,COMMODUS,12,Why have we stopped?
+13,PRAETORIAN GUARD MEMBER,13,"We're here, sir."
+14,COMMODUS,14,Where is my father?
+15,SOLDIER #1,15,"He's at the front, sir."
+16,COMMODUS,16,Is the battle won?
+17,SOLDIER #1,17,"Don't know, sir.  They've been gone
+for eight days."
+18,COMMODUS,18,"My sister wants a bath, take her to
+the camp."
+19,COMMODUS,19,Take me to my father.
+20,LUCILLA,20,"Civilization at last.  Gods preserve
+us."
+21,TITUS,21,"You would do as well to read the
+mind of a rhinoceros."
+22,QUINTUS,22,"These barbarians would rather drown
+in blood than yield an inch.  If I
+didn't hate them so much I would
+admire them."
+23,TITUS,23,They simply will not surrender.
+24,MAXIMUS,24,"A people should know when they are
+conquered."
+25,MAXIMUS,25,"At the first signal release the
+catapults.  We'll use the cavalry to
+cut off the retreat."
+26,QUINTUS,26,"General, I don't recommend that.
+Our cavalry might be caught in the
+flames."
+27,MAXIMUS,27,"I hope not, because I'm going to be
+leading them."
+28,MAXIMUS,28,"Why don't they know they're already
+dead?"
+29,QUINTUS,29,Now!
+30,MAXIMUS,30,Hold steady... steady...
+31,MAXIMUS,31,Steady...
+32,MAXIMUS,32,Brothers -- I salute you!  For Rome!
+33,MAXIMUS,33,Caesar.
+34,MARCUS,34,"Maximus, you prove your valor again.
+Let us hope for the final time here."
+35,MAXIMUS,35,"I don't think there's anyone left to
+fight."
+36,MARCUS,36,"There are always people left to
+fight..."
+37,MARCUS,37,"But this night, at least, Germania
+is at last defeated... What will you
+do now, my friend?"
+38,MAXIMUS,38,"Should Caesar permit, I'll go home.
+I've been away too long.  I've
+forgotten my wife's face and I
+barely know my son."
+39,GERMAN PRISONER,39,"THIS BLOOD MEANS NOTHING, CONQUEROR!"
+40,MARCUS,40,Stop...
+41,MARCUS,41,... You speak our language?
+42,GERMAN PRISONER,42,"You have been in my homeland for
+twelve years.  Of course I speak
+your language.  So did my son, who
+you murdered.  So did my daughter,
+who you raped."
+43,MAXIMUS,43,"Come, Caesar..."
+44,MARCUS,44,No.  Let him speak...
+45,MARCUS,45,"... I am Rome, what would you say to
+me?"
+46,GERMAN PRISONER,46,"You are that sun, Rome, and your
+time is over... You can slit a
+thousand throats here, and you can
+put a thousand babies to the sword,
+but it will always be our home."
+47,MARCUS,47,Now it is Rome.
+48,GERMAN PRISONER,48,"It will never be Rome.  Not as long
+as one German breathes."
+49,MARCUS,49,"No... Release him.  Give him safe
+passage.  Let him go to his family."
+50,MARCUS,50,"Tell me again, Maximus, why are we
+here?"
+51,MAXIMUS,51,"For the glory of the empire, sire."
+52,MARCUS,52,Yes.  I remember.
+53,MAXIMUS,53,"They honor you, Caesar."
+54,MARCUS,54,"I don't think they're standing for
+me, Maximus.  They honor you."
+55,COMMODUS,55,Have I missed it?
+56,COMMODUS,56,Have I missed the battle?
+57,MARCUS,57,"You've missed the war.  We're done
+here."
+58,COMMODUS,58,"Father.  Congratulations.  I shall
+sacrifice a thousand doves to honor
+your triumph."
+59,MARCUS,59,"Spare the doves and honor Maximus,
+he won the battle."
+60,COMMODUS,60,"General, Rome salutes you and I
+embrace you as a brother."
+61,MAXIMUS,61,Highness.
+62,COMMODUS,62,"Your Spaniards seem invincible.  May
+the Gods favor the Felix Regiment
+now and always..."
+63,COMMODUS,63,"Here, Father, take my arm."
+64,MARCUS,64,Where's your sister?
+65,COMMODUS,65,"She's at the camp.  She had no
+desire to see the gore of the
+battlefield."
+66,MARCUS,66,"Lucilla would eat every corpse here
+if it brought her one step closer to
+the throne."
+67,MAXIMUS,67,"Caesar, you do the lady injustice."
+68,MARCUS,68,"It's a foolish old cobra who doesn't
+recognize his own off-spring..."
+69,MARCUS,69,I think... I should ride now.
+70,MARCUS,70,So much for the glory of Rome.
+71,COMMODUS,71,He's dying.
+72,COMMODUS,72,Poor old man.
+73,MAXIMUS,73,"If you'll excuse me, Highness."
+74,MAXIMUS,74,"What, Gallus, losing your other
+hand?"
+75,GALLUS,75,"Aye, General, they're going to make
+a bronze one for it.  Long fingers
+this time."
+76,MAXIMUS,76,"And the women of your village will
+crave your touch even more."
+77,GALLUS,77,"Ah, then you know the women of my
+village."
+78,MAXIMUS,78,"What's your name, son?"
+79,VALERIUS,79,"Valerius, General."
+80,MAXIMUS,80,The name suits you.
+81,VALERIUS,81,Why am I dying?
+82,MAXIMUS,82,"You're dying because you love Rome,
+as I do."
+83,VALERIUS,83,I've never been to Rome.
+84,MAXIMUS,84,"Neither have I.  Rome for us lives
+here..."
+85,MAXIMUS,85,"... it's a thing inside us that came
+from our ancestors and that we give
+to our children."
+86,VALERIUS,86,"It must be glorious, Rome.  I've
+only seen pictures.  Is it a
+glorious place?"
+87,MAXIMUS,87,"Yes, it's a glorious place."
+88,VALERIUS,88,It must be.
+89,FALCO,89,"Hail, Marcus Aurelius."
+90,MARCUS,90,"Stand up, Senators.  That unfamiliar
+posture doesn't suit you."
+91,GAIUS,91,"We live in supplication to your
+glory."
+92,MARCUS,92,"All the while conspiring with that
+fat man in Rome.  How is the old
+monster?"
+93,GAIUS,93,"Senator Gracchus is hale, sire."
+94,MARCUS,94,Still damning me to the four winds?
+95,GAIUS,95,"Still eager for your triumphant
+return to Rome, Caesar."
+96,MARCUS,96,"I would have silenced him decades
+ago -- but I just like him too much."
+97,MAXIMUS,97,"If you want to stay on, I support
+you.  So do the men.  I'll ask the
+Emperor to appoint you in my place."
+98,TITUS,98,"It won't be the Felix Regiment
+without you."
+99,MAXIMUS,99,"I'll return after a season at home.
+Maybe two."
+100,QUINTUS,100,"That means after three or four more
+babies."
+101,TITUS,101,"And you'll be too fat from Vibia's
+cooking to get on your horse by
+then."
+102,MAXIMUS,102,"Should the Gods so bless me.  I
+would be thankful."
+103,COMMODUS,103,"Hail, warriors.  My congratulations."
+104,TITUS AND QUINTUS,104,Highness.
+105,COMMODUS,105,"My old friend, my father tells me
+you're returning to Spain?"
+106,MAXIMUS,106,Yes.
+107,COMMODUS,107,"A pity.  I'll need men like you in
+my army..."
+108,COMMODUS,108,"There are larger division that might
+appeal to you.  Even the Praetorian
+Guard.  You've never been to Rome.
+Imagine arriving as head of the
+Praetorians!  They have really
+splendid uniforms."
+109,MAXIMUS,109,I'm going home.
+110,GAIUS,110,"... And why not apply for entry to
+the Senate?"
+111,FALCO,111,"A war hero with a handsome face and
+a strong heart could go far."
+112,COMMODUS,112,"General Maximus, may I present
+Senators Gaius and Falco.  Beware of
+this Gaius, he'll pour a honeyed
+potion in your ear and you'll wake
+up one day and all you'll say is
+""Republic, Republic, Republic..."""
+113,FALCO,113,Have you never considered Rome?
+114,MAXIMUS,114,No.
+115,COMMODUS,115,"You've had my ear since we were
+children.  You could be a valuable
+ally in the Senate."
+116,GAIUS,116,Are you a believer in Republicanism?
+117,COMMODUS,117,There -- I warned you.
+118,MAXIMUS,118,"I'm a soldier, not a politician."
+119,GAIUS,119,"If your heart lies with the people,
+I would back you for the Senate.
+I'm sure Gracchus would as well."
+120,COMMODUS,120,"Not a word about that sodomite
+bastard."
+121,GAIUS,121,"The august Senator Gracchus has been
+rather a gadfly on the flesh of the
+imperial family."
+122,FALCO,122,He's a damned provocateur.
+123,GAIUS,123,"He lives under the antiquated
+assumption that the Senate should
+represent the people with vigor."
+124,COMMODUS,124,"I won't tolerate it.  His incessant
+criticism exhausts me.  The man can
+speak for five hours without taking
+a breath."
+125,GAIUS,125,"He serves Rome best when he serves
+it with honesty."
+126,COMMODUS,126,"Enough... Maximus, I would like to
+inspect the Felix Regiment at dawn.
+Please arrange it."
+127,MAXIMUS,127,I can't do that.
+128,COMMODUS,128,Excuse me?
+129,MAXIMUS,129,"My men have been fighting for five
+solid days.  They're too busy dying
+to go on dress parade."
+130,COMMODUS,130,"Of course, how foolish of me.  Some
+other time..."
+131,COMMODUS,131,Caesar retires early tonight.
+132,MARCUS,132,If only you had been born a man...
+133,LUCILLA,133,Father.
+134,MARCUS,134,What a Caesar you would have made.
+135,LUCILLA,135,You're right.
+136,MARCUS,136,"I think you would have been strong.
+I wonder if you would have been
+just?"
+137,LUCILLA,137,"I would have been what you taught me
+to be."
+138,MARCUS,138,"Well, pretend to be my loving
+daughter tonight and walk with me to
+my chamber."
+139,MARCUS,139,"This is a pleasant fiction, isn't
+it?"
+140,MAXIMUS,140,Caesar.
+141,MARCUS,141,Read this.
+142,MAXIMUS,142,"I never acquired the art, sir."
+143,MARCUS,143,"Of course.  No matter.  In this
+letter I denote my intention to
+nominate you to stand for the
+Emperorship after my death."
+144,MARCUS,144,"My son is not a moral man.  You have
+known this since you were young.  He
+cannot rule."
+145,MAXIMUS,145,"Caesar, I am honored but --"
+146,MARCUS,146,"For twenty years I have been
+spilling blood.  For twenty years I
+have written philosophy and
+ruminated and conquered.  Since I
+became Caesar I have only had four
+years without war.  Four years of
+peace in twenty.  So perhaps I can
+be... forgiven."
+147,MARCUS,147,"While I have been fighting, Rome has
+grown mad and corpulent and
+diseased.  I did this.  And now I
+shall make it right."
+148,MAXIMUS,148,"Sire, you brought the light of the
+Gods to barbarian darkness.  You
+brought civilization and justice to
+the farthest --"
+149,MARCUS,149,"I have brought the sword -- nothing
+more!  Rome is far away and we
+shouldn't be here.  What matter is
+it to the Gods if we subdue one more
+tribe of Parthians or Gauls?  What
+matter is it to Rome if a thousand
+more barbarians bend to our lash?"
+150,MARCUS,150,"Winter, Maximus.  It's winter now..."
+151,MARCUS,151,"There was a dream that was Rome.  I
+can only whisper of it now.
+Anything more than a whisper and the
+dream vanishes.  It's so... fragile.
+The true glory of Rome is in a very
+fragile idea.  Imagine a place
+devoted to the rights of the
+citizen.  Where every free man has a
+voice.  That was the dream... And I
+fear it will not survive the winter."
+152,MARCUS,152,"Let's just whisper here, you and I."
+153,MAXIMUS,153,"Yes, Caesar."
+154,MARCUS,154,"If the dream is ever to live again
+the people must have a true voice.
+The voice I took from them.  That
+all the Caesars took from them, bit
+by bit, conquest by conquest.  And
+now that I am dying I am going to
+give them that voice again."
+155,MAXIMUS,155,You're not dying.
+156,MARCUS,156,"I am, Maximus.  It's strange... I
+find as I near the end I think
+little of the waning moments around
+me... instead I think much of the
+past... and of the future.  How will
+the world speak my name in years to
+come?  Will I be known as the
+philosopher?  The warrior?  The
+tyrant?  Or will there be a more
+golden sounding to my name?  Will I
+be the Emperor who gave Rome back
+her freedom?"
+157,MARCUS,157,"Before I die I will give the people
+this final gift.  I will give them
+the Senate reborn.  The voice of the
+people empowered again, as it was
+always meant to be.  It is my design
+that they will elect the next
+Emperor.  And I would put forward
+your name with my backing."
+158,MAXIMUS,158,"Caesar, you do me honor -- but your
+son has pride of place for
+succession."
+159,MARCUS,159,"You are the son I should have had...
+Although I fear in my deepest heart
+that if you had truly been my son my
+blood would have polluted you as it
+did Commodus.  We're a cursed
+bloodline.  We have lived so long in
+power and depravity that we no
+longer remember a life without it.
+We can no longer even imagine a life
+without it."
+160,MARCUS,160,"Look at me, son."
+161,MARCUS,161,"Son... I know that one grove of your
+vineyard is worth more to you than
+all the treasures of Rome.  I know
+one loving word from your wife is
+worth more than the accolades of an
+Empire.  But... a fond old man, who
+loves you more than he can say, begs
+you to at least think about what he
+has said tonight."
+162,MAXIMUS,162,"I shall, Caesar."
+163,MARCUS,163,"I'll keep this letter to myself.  I
+hope that with the sunrise you will
+agree.  And embrace me as a father."
+164,MAXIMUS,164,You have always been my father.
+165,LUCILLA'S VOICE,165,He always favored you...
+166,LUCILLA,166,Even over his son.
+167,MAXIMUS,167,That's not true.
+168,LUCILLA,168,"Maximus, stop..."
+169,LUCILLA,169,Let me see your face.
+170,LUCILLA,170,You've been crying.
+171,MAXIMUS,171,I lost too many men.
+172,LUCILLA,172,What does my father intend?
+173,MAXIMUS,173,I don't know.
+174,LUCILLA,174,"You're lying.  I could tell when you
+were lying even when we were
+children.  You hate it."
+175,MAXIMUS,175,"I never acquired your comfort with
+it."
+176,LUCILLA,176,"True.  But then you never had to.
+Maximus, stop..."
+177,LUCILLA,177,"... Is it really so terrible seeing
+me again?"
+178,MAXIMUS,178,"No.  I'm sorry.  I'm tired from the
+battle."
+179,LUCILLA,179,"And you are hurt to see my father
+dying."
+180,LUCILLA,180,"He will announce Commodus'
+succession.  That's why he summoned
+us.  Will you serve my brother as
+you served his father?"
+181,MAXIMUS,181,"I will always serve the ideals of
+Rome."
+182,LUCILLA,182,"Do you know I still remember you in
+my prayers...?  Oh yes, I pray...
+Ever since that day you saved me
+from drowning off Capri.  Do you
+remember?"
+183,MAXIMUS,183,Yes.
+184,LUCILLA,184,"Commodus was so angry that a mere
+peasant -- a Spaniard no less --
+touched the royal person, do you
+remember his anger?"
+185,MAXIMUS,185,Yes.
+186,LUCILLA,186,"Mark this, Maximus:  that is the man
+who will be Emperor."
+187,MAXIMUS,187,"May I be permitted to go, Highness?"
+188,LUCILLA,188,"There was a time when you didn't
+call me ""Highness."""
+189,MAXIMUS,189,"And there was a time when you were
+just a little girl drowning in the
+sea.  All that was a different life."
+190,LUCILLA,190,"Very different... I wonder if it was
+better?"
+191,MAXIMUS,191,It was more honest.
+192,MAXIMUS,192,I thank you for your prayers.
+193,MAXIMUS,193,"Ancestors, true bloodline, I ask you
+for your guidance.  Bring me your
+solace and your wisdom.  Blessed
+Mother, come to me in my dreams with
+the Gods' desire for my future.
+Blessed Father, watch over my wife
+and my son with a ready sword.  Keep
+them safe until my return.  Whisper
+to them in their sleep that I live
+only to hold them again and all else
+is dust and air.  Ancestors, true
+bloodline, I honor you and will try
+to live with the dignity you have
+taught me."
+194,COMMODUS,194,"I search the faces of the Gods for
+ways to please you... to make you
+proud... and I can never do it.  One
+kind word -- one full hug where you
+pressed me to your chest and held me
+tight -- would have been like the
+sun on my heart for a thousand
+years... What is it in me you hate
+so much?  My eyes are your eyes.  My
+hands are your hands.  All I have
+ever wanted was to live up to you.
+Caesar.  Father."
+195,COMMODUS,195,"Why does Maximus deserve what I
+could never have? -- Why do you love
+his eyes over mine? -- I would
+butcher the whole world -- if you
+would only love me..."
+196,QUINTUS,196,General -- Maximus --
+197,MAXIMUS,197,Quintus -- ?
+198,QUINTUS,198,The Emperor needs you.  It's urgent.
+199,MAXIMUS,199,What is it?  Is he ill?
+200,QUINTUS,200,I don't know...
+201,COMMODUS,201,"Lament with me, brother, our great
+father is dead.  I want --"
+202,COMMODUS,202,"General, the Gods' have taken the
+great man and left me alone.  My
+first desire as Emperor is that you
+take my hand in friendship.  I need
+you at my side, Maximus, at this
+moment above all others.  Stand with
+me."
+203,MAXIMUS,203,How did he die?
+204,MAXIMUS,204,How did he die?
+205,COMMODUS,205,"The surgeons say it was his breath
+that gave out."
+206,COMMODUS,206,"Take my hand, Maximus.  I only offer
+it once."
+207,MAXIMUS,207,"How will the world speak your name
+now, old man?"
+208,LUCILLA,208,"Hail, Caesar."
+209,MAXIMUS,209,What -- ?!
+210,QUINTUS,210,"Please don't fight, Maximus --"
+211,MAXIMUS,211,Quintus --
+212,QUINTUS,212,"I'm sorry, General, Caesar has
+spoken."
+213,MAXIMUS,213,"Quintus, what -- ?"
+214,QUINTUS,214,I have no choice --
+215,MAXIMUS,215,My family?!
+216,MAXIMUS,216,"What about my family, Quintus?"
+217,QUINTUS,217,"They will greet you in the
+afterlife."
+218,QUINTUS,218,"Take him as far as the sunrise and
+then kill him."
+219,ASSASSIN #1,219,"All right, this is far enough."
+220,ASSASSIN #1,220,"You two take him down there where no
+one will find him."
+221,ASSASSIN #3,221,"Come on, General..."
+222,MAXIMUS,222,Have you ever done this before?
+223,ASSASSIN #3,223,What?
+224,MAXIMUS,224,Killed a man with a sword?
+225,ASSASSIN #3,225,"Not like this, exactly... this is
+good, you can stop."
+226,MAXIMUS,226,"It can be very messy -- you could
+get blood all over your armor.  You
+don't want to hack me up now.  You
+want one clean stroke."
+227,ASSASSIN #3,227,"Would you kneel, General?"
+228,MAXIMUS,228,"One good stroke -- you do know
+where, don't you?"
+229,ASSASSIN #4,229,Be quiet.
+230,MAXIMUS,230,"If you miss the spot there'll be
+blood everywhere.  Quite a spray."
+231,ASSASSINS #3,231,"All right, where?"
+232,MAXIMUS,232,"Here -- you don't want to hit the
+vein on the neck --"
+233,MAXIMUS,233,"Put the point of your sword here...
+you want one, good blow right at
+this spot --"
+234,COMMODUS,234,"Even as the Gods curse this dark day
+with clouds, so too does the sun
+begin to shine forth on a promised
+tomorrow.  Even as we mourn the
+passing of our father, so too do we
+celebrate the coming of a bright,
+new age for Rome.  At my side,
+brothers, you shall pull fresh
+glories from the heavens.  At my
+side, brothers, you shall know the
+adoration of the Gods.  Doubly-dark
+is this day because my friend, your
+noble commander Maximus Meridas, has
+been called to Rome to deal with
+urgent matters of state..."
+235,COMMODUS,235,"Until his promised return I
+appointed Quintus Domitian to serve
+in his stead.  I salute you,
+Legionnaires!"
+236,QUINTUS,236,"Hail, Caesar!"
+237,FELIX REGIMENT,237,"Hail, Caesar!"
+238,TITUS,238,"Quintus, what is -- ?"
+239,QUINTUS,239,"Don't speak of it.  Never speak of
+it."
+240,MAXIMUS' SON,240,MOTHER!  MOTHER!  FATHER'S HOME!
+241,MAXIMUS,241,Am I in Hades?
+242,JUBA,242,Yes.
+243,JUBA,243,For your wound...
+244,JUBA,244,For your wound.
+245,JUBA,245,"If you die in the wagons they feed
+you to the lions... The lions are
+worth more than we are.  I think we
+are worth more than the zebras
+though.  So they don't feed us to
+them."
+246,JUBA,246,I'm not sure about the giraffe.
+247,SLAVE TRADER,247,"Proximo, my old friend, see what I
+have for you today -- !"
+248,PROXIMO,248,"Those giraffes you sold me won't
+mate!  All they do is run around not
+mating!  YOU SOLD ME EUNUCH
+GIRAFFES!!"
+249,SLAVE TRADER,249,"I will make it up to you, Master.
+It's bargain day for you!  Look,
+look, look -- I have two lions and a
+panther -- hear how they roar for
+you!  ""Bring me home, Proximo!"""
+250,PROXIMO,250,How much for the lot?
+251,SLAVE TRADER,251,"For you -- 8,000 sesterces."
+252,PROXIMO,252,"For me -- 6,000 sesterces and I want
+to see their balls first.  And you
+throw in those two slaves."
+253,SLAVE TRADER,253,"What about this one?  Look at the
+arms!"
+254,PROXIMO,254,Good teeth --
+255,PROXIMO,255,Where did you get those scars?
+256,PROXIMO,256,Are you a soldier?
+257,PROXIMO,257,Do you speak? --
+258,PROXIMO,258,KEEP THOSE DAMN FLIES OFF ME!
+259,PROXIMO,259,He's dying.
+260,SLAVE TRADER,260,"1,000 sesterces."
+261,PROXIMO,261,My ass...
+262,PROXIMO,262,"You throw in this one and we'll make
+it 7,000 sesterces for the whole
+lot."
+263,SLAVE TRADER,263,"I have to eat, Master!  He's my
+finest, I couldn't let him go as
+part of the lot for less than 9,000
+total..."
+264,SLAVE TRADER,264,"I tell you this one is prime.  He's
+a Spaniard and killed fourteen of my
+men before he could be subdued!"
+265,PROXIMO,265,"All right, let's see."
+266,PROXIMO,266,That's enough.
+267,SLAVE TRADER,267,STOP!  STOP!
+268,PROXIMO,268,I'll give you 500 sesterces.
+269,SLAVE TRADER,269,"No -- no -- 1,000!"
+270,PROXIMO,270,"Come, don't quibble with your old
+friend.  I'll take the lions, the
+panther, the Numidian and this one
+for 7,000.  And I'll buy you the
+best whore in the town for two
+nights.  She's an enormous mountain
+of flesh who craves a stern hand."
+271,SLAVE TRADER,271,"How could I say no to my old friend
+Proximo?"
+272,PROXIMO,272,"COME ON, YOU FILTHY BEAST!"
+273,PROXIMO,273,"Slaves.  I am Proximo, trainer of
+gladiators.  You live and die at my
+pleasure.  Fight well and you will
+live.  Fight poorly and you will
+die.  It is better to live."
+274,PROXIMO,274,"Here you will be trained in the art
+of combat.  Here you will be given
+the tools to survive.  Please my
+patrons in the arena and all the
+gifts of the world will be showered
+upon you.  Imagine riches beyond
+your paltry dreams of riches!
+Imagine fame beyond your rude
+understanding of the word!  All this
+can belong to the select few who
+prove their worth in the arena."
+275,PROXIMO,275,"If... on the other hand... you
+disappoint me... you will be
+dismembered and fed to my jackals
+limb by limb."
+276,PROXIMO,276,And my jackals are always hungry.
+277,JUBA,277,Have you killed a man before?
+278,JUBA,278,"You should eat.  You'll need your
+strength tomorrow."
+279,JUBA,279,"I've never killed a man.  But I
+think you have."
+280,JUBA,280,"I almost killed once.  The Romans
+destroyed my village.  I was with a
+hunting party and when we
+returned... I would have killed
+every Roman in the world."
+281,JUBA,281,If you don't eat you will die.
+282,JUBA,282,"In the village I come from there was
+a man once.  He went fishing one day
+and his boat was attacked by
+crocodiles.  One of them ate his
+leg.  He pulled himself to the shore
+and a lion attacked him.  It ate one
+of his arms.  He dragged himself
+through the desert on the way home
+and a scorpion stung his eye.  So he
+only had one eye.  When he reached
+the village I sat with him.  I said,
+""You have lost a leg, an arm and one
+eye.  You must have a mighty will to
+live.""  He said, ""No, Lord, it's
+just better than the alternative."""
+283,JUBA,283,"Life is a gift from our fathers to
+us.  Who are you to give it up for
+lack of lifting a spoon?"
+284,SCRIBE,284,"I know nothing of armaments and
+warfare!  I'm a scribe -- I write
+down words!  I can write down seven
+languages --"
+285,VIBIUS,285,Be still.
+286,SCRIBE,286,"I don't -- how do you hold the
+sword?!  I've never held a sword!"
+287,VIBIUS,287,"You point the sharp end at your
+opponent and you shove it in his
+guts."
+288,SCRIBE,288,I can't -- I --
+289,VIBIUS,289,"Proximo!  You insult me with this
+carrion!  Chain him to someone else!"
+290,PROXIMO,290,"Don't worry, noble Vibius, he won't
+be bothering you for long."
+291,CHILDREN,291,Dead guts!  Dead guts!  Dead guts!
+292,PROXIMO,292,"Some of you say you can't fight, you
+won't fight... They all say that...
+But one day you will pick up a sword
+and thrust it into another man.  And
+the crowd will cheer you and love
+you.  And you will love them for it.
+On that day... you will be a
+gladiator."
+293,PROXIMO,293,"In this life, we all die.  All we
+can choose is how we die.  And how
+we are remembered.  Be remembered
+proudly."
+294,PROXIMO,294,No...
+295,PROXIMO,295,"... give the Spaniard to him.  Give
+the Scribe to Vibius."
+296,JUBA,296,Are we going to fight each other?
+297,PROXIMO,297,"Make it 600 sesterces for each
+decapitation."
+298,TRAINER #1,298,How many strokes?
+299,PROXIMO,299,Two.
+300,TRAINER #1,300,"For the great Vibius, one stroke."
+301,PROXIMO,301,"Done.  400 sesterces for two
+strokes."
+302,TRAINER #1,302,Who's he with?
+303,PROXIMO,303,A Greek Scribe.
+304,TRAINER #1,304,I'll raise the wager.
+305,PROXIMO,305,"Give me odds, friend."
+306,GRACCHUS,306,"We have plague in the Hebrew Quarter
+and it is spreading... we have
+looting at the granaries... we have
+so much filth in the Tiber that the
+water is undrinkable... we have
+Praetorian Guard units that are
+demanding protection payments from
+the merchants at the exchange --"
+307,MARCELLUS,307,"My City Guard units have tried to
+curtail these excesses but no
+constabulary can police the entire
+city.  And the Praetorians outnumber
+us two to one."
+308,GRACCHUS,308,"Rome dies as the Emperor plays at
+beneficence.  At least Nero gave us
+music!"
+309,GAIUS,309,Do you think he'll listen to us?
+310,GRACCHUS,310,"It is his duty to hear the will of
+the Senate."
+311,GRACCHUS,311,Not to mention the damn traffic!
+312,CHILD,312,"We honor Caesar with the laurel to
+show our love and appreciation for
+his benevolence."
+313,COMMODUS,313,"Caesar is honored to accept your
+tribute, Citizen Scholar."
+314,COMMODUS,314,"It is the most sacred duty of the
+Emperor to oversee the education of
+the young.  If I could leave no
+other legacy than the scholarship of
+all children my life would be
+blessed.  Tutors, you hold the
+future of Rome in your hands.  Teach
+them well so that they will bring
+honor to the Empire.  I salute you."
+315,COMMODUS,315,"Look at them, Senators... my truest
+gift to Rome."
+316,GRACCHUS,316,"Darling children, to be sure, now if
+I may proceed?"
+317,COMMODUS,317,Very well...
+318,GRACCHUS,318,"Caesar, your presence in Rome is an
+invaluable opportunity to begin
+correcting some of the ills that
+have beset the city since your
+father went to the wars.  We would
+like to --"
+319,COMMODUS,319,"Peace, good Gracchus, peace..."
+320,COMMODUS,320,"My beloved father was a careless
+shepherd to his flock.  I shall be a
+good father to my children.  I shall
+remain in Rome and show them how
+they are loved."
+321,GRACCHUS,321,"With respect, sire, the people don't
+need love -- they need law.  The
+Senate has prepared a series of
+protocols to begin addressing the
+corruption in the city --"
+322,GRACCHUS,322,"-- starting with basic sanitation in
+the Hebrew Quarter.  If Caesar could
+study this and --"
+323,COMMODUS,323,"You see that's the very problem,
+isn't it, my old, old friend?  My
+father spent all his time at study.
+At books and learning and
+philosophy..."
+324,COMMODUS,324,"He spent his twilight hours reading
+scrolls from the Senate.  All the
+while, the people were forgotten."
+325,GRACCHUS,325,The Senate is the people.
+326,COMMODUS,326,"I doubt many of the people eat so
+well as you do, Senator Gracchus..."
+327,COMMODUS,327,"I doubt many of the people have such
+splendid armor, Captain Marcellus.
+Or such fine mistresses, Senator
+Gaius.  No... only their true father
+knows what the people need.  I shall
+show them they are loved.  I shall
+hold them to my bosom and embrace
+them tightly --"
+328,GRACCHUS,328,"Have you ever embraced someone dying
+of plague, sire?"
+329,COMMODUS,329,"No.  But if you interrupt me one
+more time I assure you that you
+shall.  I will emulate the immortal
+Caesars of the past.  I will give
+the people what they truly want.
+Starting this day I will draw all of
+Rome to the Colosseum.  I will give
+them bread.  And they will want
+nothing more."
+330,GRACCHUS,330,You want to hold games?
+331,COMMODUS,331,"Not just any games, Senator!  A
+series of games that will make the
+Gods envious and leave my children
+happy!  I will subsidize the arena
+from this day forth -- and I will
+culminate this celebration in a
+great spectacle the likes of which
+the world has never seen!  A great
+spectacle to honor my father!
+Magnificent, unending weeks of
+festivity all in the name of Marcus
+Aurelius!"
+332,GRACCHUS,332,"If I may, Caesar... how are you
+going to pay for this?"
+333,COMMODUS,333,That is not your concern.
+334,GRACCHUS,334,"Respectfully, sire, taxation and
+import duties are the exclusive
+province of the Senate --"
+335,COMMODUS,335,"MY FATHER DESERVES TO BE HONORED AND
+I WILL HONOR HIM! -- AND THE PEOPLE
+WILL LOVE ME! -- AND THE SENATE WILL
+OBEY ME OR EVERY ONE OF YOU WILL
+BURN!  BURN!  BURN! -- I WILL HAVE
+ORDER!"
+336,LUCILLA,336,"Gentlemen, in the future do not
+concern my brother with these
+matters.  Come to me."
+337,MARCELLUS,337,Games?  He wants to hold games?
+338,GAIUS,338,It's madness.
+339,GRACCHUS,339,No... it's not...
+340,GRACCHUS,340,"He knows who Rome is.  Rome is the
+mob.  He will conjure magic for them
+and they will be distracted.  And he
+will takes their lives.  And he will
+take their freedom.  And still they
+will roar.  The beating heart of
+Rome isn't the marble of the Senate.
+It's the sand of the Colosseum.  He
+will give them death.  And they will
+love him for it."
+341,PROXIMO,341,"I've wagered on you against the
+Celts -- ignore the others and go
+for them -- there are two axe-and-
+net and two long spear.  Now the
+Celts aren't used to the sun so you
+have the advantage there..."
+342,PROXIMO,342,"And keep them moving, their lungs
+aren't strong, ground the spears as
+soon as you can and then go for the
+ax-men.  If you get all four there's
+an extra bonus so don't be
+distracted by the Spartans..."
+343,VIBIUS,343,"MOVE ASIDE!  THIS IS A TABLE FOR
+MEN!"
+344,PROXIMO,344,Butterfly?
+345,PROXIMO,345,Perhaps you'd like a woman?
+346,PROXIMO,346,Boy?
+347,PROXIMO,347,Gold?
+348,PROXIMO,348,"Well, I have nothing left to offer
+you!  A man who turns down a
+butterfly, a woman, a boy and gold
+confuses me.  Personally, I'd grab
+them all and then grab some more
+because the Gods are fanciful and
+take us at their whim.  Does the
+Spaniard have any needs?"
+349,PROXIMO,349,"You fight like a soldier.  You have
+wounds like a soldier who has been
+on long campaigns.  You eye the
+world around you like an enemy.
+What is your name, Roman soldier?"
+350,MAXIMUS,350,Gladiator.
+351,PROXIMO,351,And nothing more?
+352,MAXIMUS,352,Nothing more.
+353,PROXIMO,353,In two days we leave for Rome.
+354,PROXIMO,354,"Ah... so it's Rome you want.  Well
+you shall have her, Gladiator.  The
+new Emperor has ordered a series of
+matches to culminate in a grand
+spectacle.  If you do well I shall
+become very, very rich.  If you do
+well enough I shall set you free.
+Is it freedom you want?"
+355,PROXIMO,355,Not even that.
+356,MAXIMUS,356,The Emperor -- will he be there?
+357,PROXIMO,357,"Oh yes.  He's apparently quite mad
+about the games.  Spending a
+fortune, which is, needless to say,
+good for me again.  But what is good
+for you, Gladiator?"
+358,MAXIMUS,358,"Have you -- how does one meet the
+Emperor?"
+359,PROXIMO,359,As a gladiator?
+360,MAXIMUS,360,Yes.
+361,PROXIMO,361,One doesn't.
+362,PROXIMO,362,"Except... If one has proven oneself
+in battle.  If at the end of the
+games you are the final man standing
+-- the Emperor will present you with
+a small wooden sword.  The sword is
+your freedom."
+363,MAXIMUS,363,He give it personally?
+364,PROXIMO,364,He did to me...
+365,PROXIMO,365,"Our great father Marcus Aurelius
+looked into my eyes and touched me
+on the shoulder."
+366,MAXIMUS,366,You knew Marcus?
+367,PROXIMO,367,"I didn't know him.  He touched me on
+the shoulder.  Just once.  But that
+was enough."
+368,PROXIMO,368,"All right, Gladiator.  We shall go
+to Rome together and have bloody
+adventures.  The Great Whore will
+suckle us until we are fat and happy
+and can't suck another drop.  That
+is Rome."
+369,COMMODUS,369,"All my desires are splitting my head
+to pieces -- there's so much I want
+to do -- but all my efforts to show
+my children they are loved go
+unappreciated by those dragons in
+the Senate --"
+370,LUCILLA,370,"Quiet, brother..."
+371,LUCILLA,371,"Leave the Senate to me.  Don't
+trouble yourself."
+372,COMMODUS,372,"All I want is to be a good father to
+my people.  Why don't they
+understand that?"
+373,LUCILLA,373,Shhh.  The tonic will help...
+374,LUCILLA,374,"Yes, just drink this down."
+375,COMMODUS,375,"I must take a firmer hand with them.
+They must know their father can be
+firm.  As our father was firm with
+us."
+376,LUCILLA,376,"Our father lost his way.  His
+mistake was believing the old songs
+of the ""Republic.""  We know better.
+So let the Senate talk.  They have
+no real power."
+377,COMMODUS,377,"Yes... yes... you always know the
+way.  You were always so wise in
+these matters..."
+378,COMMODUS,378,"You know if I didn't have my duty to
+Rome I think I should be an artist.
+I should go away and paint pictures
+of the sea and leave all the
+politics to you..."
+379,COMMODUS,379,Will you stay with me?
+380,LUCILLA,380,"Still afraid of the dark, brother?"
+381,COMMODUS,381,Still.  Always.
+382,COMMODUS,382,My dreams would terrify the world.
+383,LUCILLA,383,"I'll stay with you until you are
+asleep."
+384,COMMODUS,384,"And after... just sit with me.  Keep
+me safe..."
+385,LUCILLA,385,He's asleep.  Be quick.
+386,GRACCHUS,386,"We've taking a sounding, the Senate
+is with us."
+387,LUCILLA,387,Good.
+388,GRACCHUS,388,"But we are only words.  We are air.
+We need steel."
+389,MARCELLUS,389,"The City Guard is faithful to the
+Republic.  But we don't stand a
+chance against the Praetorians."
+390,LUCILLA,390,Can they be bought?
+391,MARCELLUS,391,"They are zealots -- totally
+committed to your brother."
+392,GRACCHUS,392,"Well, can they at least be rented
+for a day?"
+393,MARCELLUS,393,"I doubt it.  He pays them exorbitant
+salaries and lets them loot and
+extort as they see fit.  The city
+belongs to them."
+394,LUCILLA,394,"And they've started arresting
+scholars now.  Anyone who dares
+speak out -- even satirists and
+chroniclers."
+395,MARCELLUS,395,"And mathematicians and Christians.
+All to fill the arena."
+396,GAIUS,396,"And what pays for it?  These games
+are costing a fortune and yet we
+have no new taxes."
+397,LUCILLA,397,"The future.  The future pays for
+it..."
+398,LUCILLA,398,"He's started selling the grain
+reserves."
+399,GAIUS,399,No.
+400,MARCELLUS,400,That can't be true...
+401,LUCILLA,401,"He's selling Rome's reserves of
+grain.  The people will be starving
+in two years.  I hope they are
+enjoying the spectacles because soon
+enough they will be dead because of
+them."
+402,MARCELLUS,402,Rome must know this.
+403,LUCILLA,403,"And who will tell them?!  You,
+Marcellus?  You, Senator Gaius?
+Will you make a speech on the Senate
+floor denouncing my brother?  And
+then see your family in the
+Colosseum?  What town-crier would
+dare?"
+404,LUCILLA,404,He must die.
+405,GAIUS,405,"The Praetorians would only seize
+control themselves."
+406,LUCILLA,406,"No -- cut off the head and the snake
+cannot strike."
+407,GRACCHUS,407,"Lucilla, Gaius is right.  Until the
+City Guard can neutralize the
+Praetorians we can accomplish
+nothing."
+408,MARCELLUS,408,And I haven't enough men.
+409,LUCILLA,409,What about the army?
+410,GAIUS,410,"No Roman army has entered the
+capital in a hundred years."
+411,LUCILLA,411,So we do nothing?!
+412,LUCIUS' VOICE,412,Mother...
+413,LUCIUS,413,I heard voices...
+414,LUCILLA,414,"It's all right, darling, you --"
+415,LUCIUS,415,Senator!  What did you bring me?!
+416,GRACCHUS,416,"For you prince Lucius... a sea
+monster!"
+417,GRACCHUS,417,"Off the coast of Achaea they grow
+twenty times this size, with
+snapping teeth to devour any nasty
+Praetorians they come across... now,
+where is Achaea?"
+418,LUCIUS,418,Below Macedonia!
+419,GRACCHUS,419,Show me on the map.
+420,LUCILLA,420,"Lucius, you go in now, I'll be in
+shortly."
+421,LUCIUS,421,"Thank you, Senator Mountain!"
+422,GRACCHUS,422,"You're welcome, Prince Anthill!"
+423,LUCILLA,423,What are you going to do?
+424,GRACCHUS,424,"Peace child... One dark night the
+Gods will light our path.  They will
+give us the voice we need.  Have
+faith in that.  Have faith."
+425,VIBIUS,425,Not what you expected?
+426,MAXIMUS,426,No.
+427,VIBIUS,427,"Rome is nothing but a slaughter
+house.  And we are the meat."
+428,VIBIUS,428,Tradition.  He watches over us.
+429,VIBIUS,429,"Oh go on, it won't kill you."
+430,PROXIMO,430,"Stop that!  You'll get some
+monstrous disease and then you'll be
+worth nothing to me!"
+431,JUBA,431,"Do you think it will be much
+different?  Here in Rome?"
+432,MAXIMUS,432,Bigger arena.  Same killing.
+433,JUBA,433,Are you scared for tomorrow?
+434,MAXIMUS,434,No.
+435,JUBA,435,Me too.
+436,JUBA,436,"I never though it would be so easy
+to kill."
+437,JUBA,437,So you're finally home.
+438,MAXIMUS,438,This isn't my home.
+439,JUBA,439,For all Romans... this is home.
+440,JUBA,440,"Among my people we honor the soil of
+our home.  Our ancestors are in that
+soil.  All their dreams live there.
+I will never see my home again.  The
+soil is dead and no one honors them,
+so the dreams die."
+441,MAXIMUS,441,Perhaps one day you'll return.
+442,JUBA,442,"How can I go back?  I am not what I
+was.  When a man kills for no
+reason, he has lost himself."
+443,CASSIUS,443,"... and the Emperor will have no
+more animal battles today --"
+444,TRAINER #1,444,"You promised me a bear match,
+Cassius!"
+445,TRAINER #2,445,"I have ten damned gorillas!  You
+said gorillas yesterday!"
+446,CASSIUS,446,"Talk to the man in the imperial box.
+Who has the next slot...?"
+447,CASSIUS,447,"-- Lentulus, Gideon, Trebonius and
+Proximo --"
+448,CASSIUS,448,"-- Nice to have you back, you
+piratical bastard -- now listen, the
+Emperor wants the Carthage
+spectacle."
+449,PROXIMO,449,"No -- have pity, Cassius -- !"
+450,TRAINER #3,450,My men are too good for -- !
+451,CASSIUS,451,"You give us the Carthage match or
+lose your spot on the rotation --
+but don't worry -- gold is flowing
+from the Emperor's fingers."
+452,TRAINER #3,452,It'll cost you --
+453,PROXIMO,453,"I won't do it for less than 100,000
+sesterces -- !"
+454,TRAINER #4,454,"120,000!  All I have is my best
+Thracians!"
+455,CASSIUS,455,"And I want to see this famous
+Spaniard of yours -- his reputation
+soars from the provinces.  The
+people are eager for him --"
+456,PROXIMO,456,"I won't throw my Spaniard into a
+spectacle!  Damn you and damn the
+rotation!"
+457,CASSIUS,457,"You will and the price will be
+90,000 sesterces each --"
+458,CASSIUS,458,"-- which you all know is exorbitant
+-- AND IF YOU EXTORTING BLOOD-WHORES
+TRY TO PAWN OFF LESSER FIGHTERS ON
+ME I WILL SEE YOU DEAD IN THE ARENA
+TOMORROW!"
+459,TRAINER #4,459,My Thracians are worth -- !
+460,CASSIUS,460,"Give me your best, brothers.  They
+die before Caesar."
+461,PROXIMO,461,"I give you 30,000 my Spaniard will
+kill at least one of your Thracians."
+462,TRAINER #4,462,"30,000?!  On a Spaniard?!  That
+provincial sun has curdled your
+brain!"
+463,PROXIMO,463,"Then make the wager, you smug
+bastard!"
+464,PROXIMO,464,"All right -- there are three other
+teams, four men each --"
+465,PROXIMO,465,You know what a Thracian looks like?
+466,MAXIMUS,466,"Yes, but --"
+467,PROXIMO,467,"Ignore the others -- go for the
+Thracians.  The sun is to the east
+-- over the gate -- keep your back
+to the gate and you won't have the
+sun."
+468,MAXIMUS,468,What -- ?
+469,PROXIMO,469,Hurry -- !
+470,PROXIMO,470,"Die well and we'll sing songs about
+you for a generation."
+471,CASSIUS,471,"This day we reach back to hallowed
+antiquity to bring you... THE FALL
+OF MIGHTY CARTHAGE...!"
+472,CASSIUS,472,"... On the barren armies of the
+barbarian Hannibal!  Ferocious
+mercenaries and warriors of all
+brute nations bent on merciless
+conquest!  Your Emperor is pleased
+to give you... THE BARBARIAN HORDE!"
+473,CASSIUS,473,"But on that illustrious day the Gods
+sent against them Rome's greatest
+warriors...!  The very life-image of
+nobility and glorious valor... who
+would on this day, and on these same
+arid Numidian deserts, decide THE
+FATE OF THE EMPIRE... Your Emperor
+is pleased to give you... THE
+LEGIONNAIRES OF SCIPIO AFRICANUS!!"
+474,COMMODUS,474,Slave!  Who are you?
+475,COMMODUS,475,SLAVE!  WHO ARE YOU?
+476,COMMODUS,476,SLAVE!  WHO ARE YOU?!
+477,MAXIMUS,477,"I AM MAXIMUS MERIDAS, GENERAL OF THE
+FELIX REGIMENT OF THE ROMAN ARMY AND
+SERVANT TO THE EMPEROR MARCUS
+AURELIUS!"
+478,MAXIMUS,478,"I AM FATHER TO A MURDERED SON AND
+HUSBAND TO A MURDERED WIFE AND
+LANDLORD TO A MURDERED WORLD -- AND
+I WILL HAVE VENGEANCE!"
+479,COMMODUS,479,Why is he still alive?
+480,LUCILLA,480,I don't know.
+481,COMMODUS,481,"He shouldn't be alive.  That vexes
+me.  I am terribly vexed..."
+482,COMMODUS,482,"There, that's better.  Do you like
+the platform here?"
+483,LUCILLA,483,Mmm.
+484,COMMODUS,484,"I do too.  Simple, elegant..."
+485,COMMODUS,485,"Father would have wanted something
+more ornate but he's dead now."
+486,COMMODUS,486,"Maximus Meridas haunts me.  I see
+Father turning away from me and
+gazing at him.  How many times did I
+suffer that indignity, I wonder?"
+487,LUCILLA,487,What are you going to do?
+488,COMMODUS,488,I'm going to kill him.
+489,LUCILLA,489,Good.
+490,COMMODUS,490,"Oh, you're too clever, Sister.
+Don't tell me part of you won't weep
+for him."
+491,LUCILLA,491,"When he defies my brother the
+Emperor, he defies me.  But you
+shouldn't send assassins."
+492,COMMODUS,492,No?
+493,LUCILLA,493,"The people embraced him today.  They
+will be expecting his next match..."
+494,LUCILLA,494,"... let him die in the arena like
+the slave he is.  Let the people see
+what comes of defying Caesar."
+495,COMMODUS,495,"He wounded you deeply, didn't he?
+Long ago."
+496,COMMODUS,496,"Nonetheless, your political acumen
+is, as always, unerring."
+497,JUBA,497,I will fight with you.
+498,MAXIMUS,498,This isn't your battle.
+499,JUBA,499,"Better to die for a friend than to
+die for gold."
+500,PROXIMO,500,"Enjoy yourself, Madame..."
+501,PROXIMO,501,"General, perform well and there will
+be riches for you."
+502,LUCILLA,502,"Rich matrons pay well to be
+pleasured by the bravest champions."
+503,MAXIMUS,503,"I knew your brother would send
+assassins.  I didn't think he would
+send his best."
+504,LUCILLA,504,"Maximus, listen to me --"
+505,MAXIMUS,505,"My family were crucified and burnt
+while they were still alive."
+506,LUCILLA,506,I knew nothing of that.
+507,MAXIMUS,507,Don't lie to me.
+508,LUCILLA,508,I wept for them.
+509,MAXIMUS,509,Don't.
+510,LUCILLA,510,"Do you know what it is to be the
+daughter of the Emperor?  I learned
+on the night my father had my
+husband killed.  I loved my husband
+very much.  Very... simply.  He was
+a man who believed in the Republic.
+He was a man who thought Marcus
+should be tending to Rome and not
+conquering the world.  One night my
+father had him strangled for
+conspiring with the Senate.  My
+father never spoke of it.  I never
+spoke of it.  That is what it is to
+be the daughter of Rome."
+511,LUCILLA,511,"My son will live.  He will survive
+this cursed bloodline.  Rome will
+die and the jackals will pick her
+clean -- but my son will survive.
+Empires come and go.  Cities crumble
+to dust.  Only family matters."
+512,MAXIMUS,512,My son was innocent.
+513,LUCILLA,513,So is mine.
+514,MAXIMUS,514,I want your brother dead.
+515,LUCILLA,515,So do I.
+516,LUCILLA,516,"My son will never be safe while he
+lives."
+517,MAXIMUS,517,How do you plan it?
+518,LUCILLA,518,"The Senate is with us, and the City
+Guard.  We have growing power in the
+streets.  But we need a leader.
+Someone the people can --"
+519,MAXIMUS,519,So the crown passes to your son.
+520,LUCILLA,520,"No.  So that my son will be safe.
+So that we may leave this charnel
+house forever and never look back.
+Look into my eyes, Maximus, and
+believe what I say to you..."
+521,LUCILLA,521,"By all the Gods, and in the name of
+my father who loved you, and in the
+name of the husband I loved... I
+swear to stand by your side in this
+now and always."
+522,MAXIMUS,522,What is your son's name?
+523,LUCILLA,523,Lucius Verus.  Like his father.
+524,MAXIMUS,524,I weep for him.
+525,LUCILLA,525,"Commodus plans to kill you in your
+next match in the arena.  He's
+planning something.  I will pray for
+you.  As I have always done."
+526,CASSIUS,526,"... in his majestic charity the
+Emperor has deigned to this day
+favor the people of Rome with an
+historical final match.  Returning
+to the Colosseum today... after five
+years in retirement... Caesar is
+pleased to bring you... THE ONLY
+UNDEFEATED CHAMPION IN ROMAN
+HISTORY..."
+527,CASSIUS,527,... THE LEGENDARY... TIGER OF GAUL!!
+528,PROXIMO,528,"Gods!  That old Homicide!  The
+Emperor must truly hate you."
+529,MAXIMUS,529,What can you tell me?
+530,PROXIMO,530,He cheats.
+531,CASSIUS,531,"And from the rocky promontories and
+martial bloodlines of Spain...
+representing the training lyceum of
+Proximo Antoninus... I give you...
+THE WARRIOR MAXIMUS!"
+532,MAXIMUS AND TIGER,532,We who are about to die salute you.
+533,LUCIUS' VOICE,533,Is it true you're a General...?
+534,MAXIMUS,534,I was a General.
+535,LUCIUS,535,"I saw you fight.  The Carthage
+battle too.  I've never seen so much
+courage."
+536,MAXIMUS,536,It doesn't take courage to kill.
+537,LUCIUS,537,My father was killed.
+538,MAXIMUS,538,I'm sorry.
+539,LUCIUS,539,"He still comes to me in my dreams.
+Do you have a father?"
+540,MAXIMUS,540,"I had a father.  He wasn't really my
+father but I cared for him very much."
+541,LUCIUS,541,"I hope he comes to you in your
+dreams.  My father and I ride horses
+in mine."
+542,LUCILLA,542,"Lucius, run along now.  I need to
+talk to the General."
+543,MAXIMUS,543,Where is my army?
+544,LUCILLA,544,"... Maximus will summon his army
+from Ostia and he will strike from
+the inside as his army strikes from
+the outside.  But he insists that
+the Senate be present."
+545,GAIUS,545,We've been ordered to attend.
+546,LUCILLA,546,How many are with us?
+547,GRACCHUS,547,"About half.  But once the tyrant is
+dead.  All."
+548,GRACCHUS,548,I want to meet him.
+549,LUCILLA,549,I'll arrange it.
+550,GAIUS,550,And what of the Emperor?
+551,LUCILLA,551,"He has withdrawn.  He's not eating.
+He doesn't go out.  He won't even
+see me... I don't know what tempests
+rage within him but..."
+552,GRACCHUS,552,"We should fear for the blackest
+storm."
+553,LUCILLA,553,Yes.
+554,GAIUS,554,"One question... who is to be the
+actual Regicide?"
+555,VIBIUS,555,You didn't kill him.
+556,MAXIMUS,556,"I will not kill another warrior.
+There is no honor to it."
+557,KIDS,557,"Maximus the Merciful!  Maximus the
+Merciful!"
+558,MAXIMUS,558,"Tell him we will enter Rome on the
+first day of Commodus' festival."
+559,LUCILLA,559,And they will march on Rome for you?
+560,MAXIMUS,560,"Yes.  But this letter must go to the
+lieutenant named Titus, no one else."
+561,LUCILLA,561,"Captain Marcellus will take it.  And
+his City Guard will by with you when
+you get to Rome.  Is that enough to
+face the Praetorian Guard?"
+562,MAXIMUS,562,"The Felix Regiment will never be
+defeated."
+563,GRACCHUS,563,"I only have one question for you,
+General... Why?"
+564,GRACCHUS,564,"You will lead an army of your
+brothers on Rome.  Many will die.
+Why?"
+565,MAXIMUS,565,I want Commodus dead.
+566,GRACCHUS,566,"That's not the reason.  Tell me the
+truth."
+567,MAXIMUS,567,"Because one night an old man
+whispered to me about a dream.  I
+will die for that dream."
+568,GRACCHUS,568,"I knew the old man well.  And I
+loved him very much.  In our youth
+we would spend hours building that
+dream together.  After he went to
+the wars and lost his way... I was
+very cruel.  I tormented him to
+remember that dream we spoke of."
+569,MAXIMUS,569,He did.
+570,GRACCHUS,570,"You can have no idea how much that
+means to me."
+571,GRACCHUS,571,"Any man who will die for a whispered
+dream deserves my respect.  I honor
+you, General."
+572,CENTURION,572,"Madame, the Emperor would like to
+see you."
+573,LUCILLA,573,Caesar...
+574,COMMODUS,574,"I am sorry to have kept you away...
+I needed this time to think..."
+575,LUCILLA,575,Of course...
+576,COMMODUS,576,"I limited my world to these four
+walls so as to let my mind free...
+again and again my mind settles on
+but one question... What kind of
+world are we making when the people
+of Rome prefer a slave in the arena
+to their father?"
+577,COMMODUS,577,"It is my responsibility to make the
+world as it should be.  How is it I
+have made this world?"
+578,LUCILLA,578,"Brother, do not be influenced by the
+mob.  They are a great, faceless
+beast --"
+579,COMMODUS,579,"They are not ""the mob,"" Lucilla,
+they are the people.  They are my
+children and all I want to do is
+love them."
+580,COMMODUS,580,"Our father loved Maximus... and I
+love him still... yet he defies me,
+he tasks me in front of my children.
+And they love him for it.  Just as
+Marcus loved him for it.  Tell me
+why, Lucilla."
+581,LUCILLA,581,"They see themselves in him.  They
+throw in their own sad dreams
+alongside his.  They think he fights
+for them."
+582,COMMODUS,582,"And what do I do but fight for
+them?!  I give them games to please
+them.  I strangle dissent to give
+them peace.  I empower the
+Praetorians to give them order.
+What more can I do?!"
+583,COMMODUS,583,"Say I should fight him, in the
+arena.  Let my children see who the
+Gods truly favor."
+584,LUCILLA,584,And what if he should win?
+585,COMMODUS,585,A God is more powerful than a man...
+586,LUCILLA,586,"Caesar, you let this unduly worry
+you.  At best he is a passing fancy
+-- he is a name, an image on a
+banner, ephemeral -- he will be
+forgotten as the next fancy
+appears --"
+587,COMMODUS,587,"But I need to know -- why do they
+love him?"
+588,LUCILLA,588,Mercy.
+589,LUCILLA,589,"He will not kill in the arena.  He
+is merciful.  As they all wish they
+were in their own hearts."
+590,COMMODUS,590,"And for that moment in the arena
+they are merciful too.  For a
+moment... they are Gods.  Offering
+life."
+591,COMMODUS,591,"But who can be more merciful than
+the Emperor of Rome?"
+592,COMMODUS,592,"Brother... we've taken a sad path
+since we were children at Capri,
+have we not?"
+593,COMMODUS,593,"For my own part... I am sorry it
+came to this.  And to you alone of
+all men, I acknowledge my errors.
+And my regret.  I shall live with my
+sin for all my days."
+594,MAXIMUS,594,"As will I, Commodus.  As will I."
+595,COMMODUS,595,"As the first act of my contrition I
+offer you the wooden sword of
+freedom."
+596,COMMODUS,596,"Take it, brother.  Stand at my side
+as a free man worthy of your
+ancestors."
+597,MAXIMUS,597,"I only have ancestors because of
+you, brother.  You killed everything
+that ever lived alongside me."
+598,COMMODUS,598,"Take it, Maximus.  Let us heal that
+fatal wound together."
+599,MAXIMUS,599,"This is the new home you cursed me
+to.  And I am safer here from your
+treachery than I could ever be
+outside."
+600,COMMODUS,600,Will you always mistrust me?
+601,MAXIMUS,601,Why don't you ask your father that?
+602,MAXIMUS,602,"I have more power as a slave in the
+arena than I could ever have as a
+free man.  As the Colosseum goes,
+the people go.  As the people go,
+the Empire goes."
+603,COMMODUS,603,"You think this is power?  I could
+show you power, slave --"
+604,MAXIMUS,604,"No, Caesar... I will show you."
+605,MAXIMUS,605,"The Felix Regiment will come from
+here.  We'll face the body of the
+Praetorians outside -- here.  Once
+inside, my archers will take up
+position to counter opposition
+inside the Colosseum.  I'll enter
+and join you -- we'll attack here --"
+606,MAXIMUS,606,-- a covert assault from within.
+607,VIBIUS,607,We'll be killed.
+608,MAXIMUS,608,Probably.
+609,MAXIMUS,609,"But if we aren't... think of the
+glory.  Do you remember glory,
+Gladiator?"
+610,JUBA,610,"And if we die that day -- we die
+free men worthy of our ancestors."
+611,VIBIUS,611,"You didn't know my ancestors.  A
+rotten bunch."
+612,MAXIMUS,612,"Then be worthy of him.  The old
+Titan who would rather die bravely
+in a just battle than slink off to
+grow old and fat."
+613,JUBA,613,And impotent.
+614,VIBIUS,614,"If I die, I want a hundred whores at
+my funeral."
+615,COMMODUS,615,Where is my sister?
+616,HANDMAIDEN,616,"She's out, sir..."
+617,COMMODUS,617,Where?
+618,HANDMAIDEN,618,"I... don't know, Caesar."
+619,COMMODUS,619,Where is my sister?
+620,MAXIMUS,620,Was it Centurion...?  General...?
+621,PROXIMO,621,Captain.
+622,PROXIMO,622,How did you know?
+623,MAXIMUS,623,A soldier knows a soldier.
+624,PROXIMO,624,"All that was a long time ago.  Too
+much wine and too many women.  And
+too much money."
+625,MAXIMUS,625,No --
+626,PROXIMO,626,This is who I am...
+627,PROXIMO,627,"You see?  There was a time I would
+stand against ten men and never give
+an inch, spitting into the jaws of
+Hades all the while.  There was a
+time my heart swelled to strap on
+the armor of Rome.  But now..."
+628,PROXIMO,628,Now I am just an entertainer.
+629,MAXIMUS,629,"You said something to me once.  You
+said in this life, we all die.  All
+we can choose is how we die.  And
+how we are remembered.  Do you
+recall those words?"
+630,PROXIMO,630,Yes.
+631,MAXIMUS,631,"Then be remembered proudly.  This is
+your time, Proximo.  Stand at my
+side and be what you were.  What you
+truly are.  One last time."
+632,PROXIMO,632,"You might have spared yourself the
+speech, General.  The lady Lucilla
+bought all my gladiators two hours
+ago!"
+633,MAXIMUS,633,You pox-ridden bastard -- !
+634,PROXIMO,634,"I am the richest trainer in the
+Empire!  And I will let my
+gladiators do anything you like!
+Conspire away, General!"
+635,PROXIMO,635,"But I tell you -- if you survive
+this madness I want you to go into
+business with me.  I'll give you a
+quarter of my holdings."
+636,MAXIMUS,636,A quarter?!
+637,PROXIMO,637,"A third.  And not a hair more.  And
+you'll have to start in the
+provinces!  Cleaning up the lion
+shit!"
+638,MAXIMUS,638,"You know, if you were half so awful
+as you pretend, you'd be a
+terrifying man."
+639,MAXIMUS,639,Lucilla --
+640,LUCILLA,640,"Don't even say it.  I know it's
+dangerous -- but I had to see you.
+Captain Marcellus has gone to the
+army with your message as you
+instructed."
+641,MAXIMUS,641,Good.
+642,LUCILLA,642,"He says the City Guard will be ready
+at the south road at noon.  They can
+only wait for an hour so --"
+643,MAXIMUS,643,You've told me this already.
+644,LUCILLA,644,"Did I?  All right then.  So
+everything is prepared.  The Senate
+will be in attendance and you have
+your gladiators -- the usual cohort
+of Praetorians will be inside the
+arena --"
+645,MAXIMUS,645,Lucilla... why are you here?
+646,LUCILLA,646,"Tell me honestly... please... do you
+think it will work?"
+647,MAXIMUS,647,No.
+648,LUCILLA,648,Do you think we'll all die?
+649,MAXIMUS,649,Yes.
+650,LUCILLA,650,Will you swear something to me?
+651,MAXIMUS,651,Yes.
+652,LUCILLA,652,"Will you swear it on the memory of
+your son?"
+653,MAXIMUS,653,Yes.
+654,LUCILLA,654,"By all that you have ever loved...
+swear that if you survive you will
+take my son out of Rome.  Swear that
+you will go far away and never
+return."
+655,MAXIMUS,655,I will.
+656,MAXIMUS,656,"And if I should not survive... swear
+to me that you will honor my family
+in your prayers always."
+657,LUCILLA,657,I will.
+658,LUCILLA,658,"Had I not been the daughter of
+Rome..."
+659,MAXIMUS,659,Shhh... my heart breaks enough.
+660,COMMODUS,660,"Sister... join us.  I've been
+reading to dear Lucius."
+661,LUCIUS,661,I've been reading too.
+662,COMMODUS,662,"Yes, he's a very smart little boy.
+He'll make a grand Emperor one day."
+663,COMMODUS,663,"Join us, sister."
+664,COMMODUS,664,"We've been reading about the great
+Julius and his adventures in Egypt."
+665,LUCIUS,665,She killed herself with a snake!
+666,COMMODUS,666,"And just wait until you hear what
+happened to some of our other
+ancestors!  If you're very good,
+tomorrow night I'll tell you the
+story of Emperor Claudius.  He was
+betrayed!  By those closest to
+him..."
+667,COMMODUS,667,"... by his own blood... they
+whispered in dark corners and went
+out late at night and conspired and
+conspired..."
+668,COMMODUS,668,"But the Emperor Claudius knew that
+they were up to something dire.  He
+knew they were busy little bees.
+And one night he sat down with one
+of them and he looked at her and he
+said:  ""Tell me what you have been
+doing, busy little bee, or I shall
+strike down those dearest to you.
+You shall watch as I bathe in their
+blood.""  And the bee knew he spoke
+the truth, for the Emperor always
+speaks the truth.  And what do you
+think happened then, Lucius?"
+669,LUCIUS,669,"I don't know, Uncle."
+670,COMMODUS,670,The bee told him everything.
+671,PROXIMO,671,"Release them!  Release them all!
+ARM THEM!"
+672,PROXIMO,672,Come --
+673,MAXIMUS,673,But --
+674,PROXIMO,674,If you want to live -- follow me --
+675,VIBIUS,675,"Go, Spaniard!  We'll show these
+Roman dogs how gladiators fight!"
+676,PROXIMO,676,"All the old gladiator schools have
+tunnels to the Colosseum -- most
+have long since collapsed --"
+677,JUBA,677,How did they know?
+678,MAXIMUS,678,We were betrayed.
+679,JUBA,679,"I'll stay here.  In case they
+follow."
+680,JUBA,680,Go!  Bring us the army!
+681,PROXIMO,681,Quickly --
+682,PROXIMO,682,"Down that corridor is the butchery
+-- the blood sloughs lead to the
+Tiber.  Gods watch over you."
+683,MAXIMUS,683,You're not coming?
+684,PROXIMO,684,They are killing my men!
+685,PROXIMO,685,Gods... they're killing them all.
+686,LUCIUS,686,What is that fire?
+687,COMMODUS,687,"Why that's a bonfire, Lucius.  I
+arranged it just for you."
+688,PRAETORIAN,688,Caesar...
+689,COMMODUS,689,Oh... that's for my sister.
+690,TITUS,690,By all the Gods...
+691,MAXIMUS,691,Old friend...
+692,TITUS,692,"You're returned from Hades!  By all
+the Gods!"
+693,MAXIMUS,693,Where is he?
+694,MAXIMUS,694,I forgive you.
+695,COMMODUS,695,"Rome... This is the day that was
+foretold.  This is the day when your
+father takes away all fear..."
+696,COMMODUS,696,"With these hands I shall destroy
+your enemies so that you may sleep
+always and forever in peace.  From
+this day forth let it be known that
+I, Lucius Aelius Aurelius Commodus,
+have surmounted mortality.  That I,
+Lucius Aelius Aurelius Commodus,
+assume my destined place... at the
+side of the Gods."
+697,COMMODUS,697,"And as a righteous God, I shall ever
+protect you.  I shall cradle the
+world on my benevolent hands and
+clasp it to my heart.  So I have
+spoken!  And let the heavens tremble
+at my might!"
+698,COMMODUS,698,"This day I reclaim Rome for her
+people.  I shall give you the
+rebirth of your Empire!  Reborn and
+cleansed of her enemies!"
+699,COMMODUS,699,"I will make a new Rome!  Founded as
+it was at the beginning!  Archers --
+GIVE US BLOOD!"
+700,MAXIMUS,700,"Throw down your weapons or we will
+kill you."
+701,MAXIMUS,701,"FELIX REGIMENT!  DO HONOR TO YOUR
+ANCESTORS!  I SALUTE YOU!"
+702,COMMODUS,702,"As it was at the beginning so is it
+now.  The great She-Wolf of Rome
+will again suckle us, again ravage
+our enemies -- AND BRING US A WORLD
+REBORN!"
+703,COMMODUS,703,"So it was for Romulus and Remus,
+sons of Mars, so shall it be for us!
+The great She-Wolf will --"
+704,LUCILLA,704,Remember your mother.
+705,CENTURION BODY GUARD,705,Caesar -- we must go -- !
+706,COMMODUS,706,GET THE BOY!
+707,CENTURION BODY GUARD,707,"THIS WAY, CAESAR!"
+708,MAXIMUS,708,Captain?
+709,MAXIMUS,709,Where are they going?!
+710,PROXIMO,710,This way!
+711,COMMODUS,711,KILL THE BOY!
+712,MAXIMUS,712,For my wife!
+713,MAXIMUS,713,For my son!
+714,MAXIMUS,714,For my father!
+715,MAXIMUS,715,We who are about to die salute you.
+716,GRACCHUS,716,"General, the purple is yours if you
+so desire.  The Senate will support
+you."
+717,MAXIMUS,717,"Rome... you are better than this.
+Look inside yourselves.  I challenge
+you to find your true voice.  Help
+the Senate speak for you.  Make them
+your champion... And dare to think
+what could be."
+718,MAXIMUS,718,I give you back the dream.
+719,MAXIMUS,719,"When everything has calmed down,
+lead an orderly withdrawal.  Take
+them home."
+720,MAXIMUS,720,"It doesn't look it now... but soon
+we'll have it growing again... Next
+year there will be vines, and then
+there will be grapes... It will be
+alive."

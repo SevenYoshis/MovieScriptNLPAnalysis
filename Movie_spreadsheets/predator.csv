@@ -1,0 +1,765 @@
+,character,line #,line
+0,MAN                                 *,0,He's here.
+1,PHILIPS,1,"You're looking well, Dutch."
+2,SCHAEFER,2,"It's been a long time, General."
+3,PHILIPS,3,"We've got a real problem here,
+something right up your alley."
+4,PHILIPS,4,"Eighteen hours ago I was
+informed that one of our
+choppers, transporting three
+presidential cabinet members
+from this charming little
+country, was shot down..."
+5,PHILIPS,5,"...The pilots radioed from the
+ground that they were all
+alive.  Their position was
+fixed by the transponder
+beacon onboard the chopper."
+6,PHILIPS,6,Here.
+7,SCHAEFER,7,"That's over the border,
+General."
+8,PHILIPS,8,"That's the problem.  Apparently
+they strayed off course."
+9,PHILIPS,9,"We're certain they've been
+captured by the guerrillas."
+10,SCHAEFER,10,"What have you got in mind,
+General."
+11,PHILIPS,11,"We figure we've got less than
+twenty-four hours to catch
+up with them.  After that,
+there's not much hope.  We
+want a rescue operation
+mounted tonight.  That doesn't
+give you much time."
+12,SCHAEFER,12,"What else it new?  When do
+we leave?"
+13,PHILIPS,13,You lift off in three hours.
+14,PHILIPS,14,There's one other thing.
+15,SCHAEFER,15,"What's that, General?"
+16,PHILIPS,16,"Someone else will be going
+in with you."
+17,SCHAEFER,17,"You know we don't work with
+outsiders, General."
+18,VOICE,18,"Who said anything about
+outsiders, Dutch?"
+19,DILLON,19,"Last time we danced, it was
+Lieutenant, Schaefer."
+20,SCHAEFER,20,"Dillon, you son of a bitch."
+21,DILLON,21,"How you been, Dutch?"
+22,SCHAEFER,22,"You've been pushing too many
+Pencils, Dillon.  Had enough?"
+23,DILLON,23,"No way, old buddy."
+24,SCHAEFER,24,"You never did know when to
+quit."
+25,DILLON,25,"That piece of work you guys
+pulled off at the Berlin
+embassy last week was really
+something.  Blew the entry
+points on three floors and
+neutralized the opposition
+in eight seconds flat.
+Beautiful."
+26,SCHAEFER,26,"Like the old days, Dillon."
+27,DILLON,27,"Also heard that you passed
+on that little job in Libya."
+28,SCHAEFER,28,"Wasn't my style.  We're a
+rescue unit, not assassins."
+29,SCHAEFER,29,"This must be good.  Big shot
+from the CIA, leaves his desk
+to come back to the bush.
+What's so important?"
+30,DILLON,30,"Those cabinet members are
+very important to our scope
+of operations in this part
+of the world.  They're about
+to get squeezed.  We can't
+let that happen.  I needed
+someone who could get the job
+done, quick and quiet...no
+screw-ups.  I needed the best.
+The best.  So, I pulled a few
+strings at the State
+Department...and here we are."
+31,SCHAEFER,31,Go on.
+32,DILLON,32,"The set-up is simple, Dutch.
+One day job.  We pick up their
+trail at the chopper, run 'em
+down, grab the hostages and
+bounce back across the
+border before anyone knows
+we were there.  You've done
+it a hundred times.  Nothing
+out of the ordinary."
+33,SCHAEFER,33,"And nothing we can't handle
+alone."
+34,PHILIPS,34,"I'm afraid those are your
+orders, Major.  Once you
+reach your objective, Dillon
+will evaluate the situation
+and take charge."
+35,DILLON,35,"Not to worry, Dutch.  I
+haven't lost my edge.  They've
+got a head start on us in
+some real tough country,
+otherwise, believe me, it's
+a piece of cake."
+36,PHILIPS,36,"Gentlemen, we're losing time."
+37,PHILIPS,37,"You'd better get your men
+ready."
+38,PHILIPS,38,"Good luck, Major."
+39,PILOT ONE,39,"Redbird Two, Two.  Bearing
+south, three, five, zero, one
+o'ckock on the saddle ridge.
+Over."
+40,PILOT TWO,40,"Roger, Blue Leader.  Three,
+five, zero, on your move.
+Over."
+41,HAWKINS,41,"Hey, Billy, how many marines
+does it take to eat a squirrel?"
+42,HAWKINS,42,"Two.  One to eat it and one
+to watch for cars."
+43,RAMIREZ,43,"Get that stinkin' thing out
+of my face, Blain!"
+44,BLAIN,44,"...bunch of slack-jawed
+faggots around here..."
+45,BLAIN,45,"...this stuff will put hair
+guaranteed..."
+46,BLAIN,46,"...make you a God-damned
+sexual ty-ran-toe-sore-ass...
+just like me."
+47,DILLON,47,"Our rendezvous points and
+radio freqs. are indicated
+and fixed.  AWACS contact on
+four hour intervals."
+48,SCHAEFER,48,Who's our back-up on this?
+49,DILLON,49,"No such thing, old buddy.
+It's a one way ticket.
+Once we cross that border,
+we're on our own."
+50,SCHAEFER,50,"This gets better by the
+minute."
+51,PILOT NUMBER ONE,51,"...roger Bird Two, Two.
+Reconfirm insertion at Tango,
+Charlie, Delta One, zero,
+niner on the grid at zero,
+two, two, mark four by zero.
+Over."
+52,PILOT NUMBER TWO,52,"Two, Two, leader.  Roger your
+insert co-ord.  Over."
+53,PILOT NUMBER ONE,53,"Leader to Bird Two Two.  I
+bear two minutes to Landing
+Zone."
+54,DILLON,54,"Man, that's a real bad habit
+you've got."
+55,PILOT NUMBER ONE,55,"LZ comin' up in 30 seconds.
+Stand by the rappel lines."
+56,DILLON,56,"You don't know how much I
+missed this, Dutch!!!  Once
+you get this in your blood,
+you never get it out!!!"
+57,SCHAEFER,57,"You never were all that
+smart...let's go!!!"
+58,RAMIREZ,58,"The pilots have each got one
+round in the head.  And whoever
+hit it stripped the shit out of it."
+59,SCHAEFER,59,Took 'em out with a heat seeker.
+60,RAMIREZ,60,"There's something else, Major..."
+61,SCHAEFER,61,Mmmnnn...?
+62,RAMIREZ,62,"I don't think that was any ordinary
+army taxi..."
+63,RAMIREZ,63,"...looks more like a surveillance
+bird to me."
+64,DILLON,64,Have you picked up their trail yet?
+65,SCHAEFER,65,Billy's on it.
+66,SCHAEFER,66,"Heat seeker.  Pretty sophisticated
+for half-asses mountain boys."
+67,DILLON,67,"They're getting better equipped
+every day."
+68,BILLY,68,"Major, looks like there were ten,
+maybe twelve guerrillas.  Looks
+like they took some prisoners
+from the chopper."
+69,BILLY,69,"Then a different set of track,
+over there."
+70,SCHAEFER,70,What do you mean?
+71,BILLY,71,"Six others, U.S. issue jungle
+boots.  They came in from the
+north, then followed the guerrillas."
+72,SCHAEFER,72,Mean anything to you?
+73,DILLON,73,"Probably another rebel patrol.
+They operate in here all the time."
+74,SCHAEFER,74,"Get ahead, see what you can find."
+75,SCHAEFER,75,Slow and easy.
+76,SCHAEFER (Contd.),76,We don't want any accidents.
+77,SCHAEFER                            *,77,What's he got?
+78,RAMIREZ                             *,78,"Same business, guerrillas
+hauling two guys from the
+chopper...followed by men
+with American equipment..."
+79,RAMIREZ,79,Holy Mother...
+80,SCHAEFER,80,"J.S. Davis, Captain, U.S. Army..."
+81,SCHAEFER,81,Mac.  Cut them down.
+82,SCHAEFER,82,"I knew this man.  Green Berets,
+out of Fort Bragg.  What the hell
+were they doing in here?  You got
+any answers for this, Dillon?"
+83,DILLON,83,Jesus...this is inhuman.
+84,DILLON,84,"Uh...I wasn't told of any
+operations in this area.  They
+shouldn't have been here."
+85,SCHAEFER,85,Well somebody sent them.
+86,RAMIREZ,86,"Must have run into the guerrillas
+...Fucking animals."
+87,MAC,87,"Ain't no way for a soldier to
+die."
+88,MAC,88,"Time to let 'ol 'painless'
+out of the bag."
+89,SCHAEFER,89,"What happened here, Billy?"
+90,BILLY,90,"Strange, Major.  There was a
+firefight.  Shooting in all
+directions."
+91,SCHAEFER,91,"I can't believe Jim Hopper
+walked into an ambush."
+92,BILLY,92,"I don't believe he did, Sir.
+I couldn't find a single track.
+Just doesn't make sense."
+93,SCHAEFER,93,"What about the rest of Hopper's
+men?"
+94,BILLY,94,"No sign.  They never left here
+Major."
+95,BILLY,95,It's like they just disappeared.
+96,SCHAEFER,96,Stick with the guerilla trail.
+97,SCHAEFER,97,"Let's get it over with.  We move.
+Five meter spread.  No sound.
+Nothing."
+98,BLAIN,98,Payback time.
+99,MAC,99,"You're ghostin' on me, mother
+fokaaa!...I don't care who
+you are back in the world...
+You give away our position
+again and I'll bleed you quiet
+and leave your fuckin' ass
+right here."
+100,MAC,100,Got it?
+101,BLAIN,101,"Say, Bull.  What's goin' down?
+We got movement?"
+102,MAC,102,"No.  Shithead with his
+trenchcoat and dee-coda-da
+ring was makin' enough noise
+to get us all waxed.  I don't
+like that guy.  Don't like
+him at my back.  I ain't
+winding up like those
+bastards back there."
+103,BLAIN,103,"I know what you mean, Bull,
+but don't sweat it, me and
+'ol 'painless' here are
+watchin' the front door."
+104,MAC,104,"As always, bro..."
+105,SCHAEFER,105,"Just killed one of the                             *
+prisoners.  No time for                            *
+invitations.  We take them,
+now."
+106,DILLON,106,"Ready, kid?"
+107,DILLON,107,On your nine!!!
+108,SCHAEFER,108,Stick around.
+109,SCHAEFER,109,Down!!!
+110,SCHAEFER,110,"Hawk, Get Con. Op. on the
+hook!  Position and situation,
+now!"
+111,HAWKINS,111,"You got it, Major!"
+112,SCHAEFER,112,Any sign of the hostages?
+113,MAC,113,"We found 'em both, dead.
+And the gear from the chopper.
+If they're Central American,
+I'm a fuckin' Chinaman.  By                        *
+the looks of 'em, I'd say our                      *
+cabinet minister and his aide                      *
+are CIA."
+114,MAC,114,"Another thing, Major, we were
+lucky...couple of those guys
+we waxed are Russians,
+military advisors by the look
+of it.  Something big was
+about to happen here."
+115,SCHAEFER,115,"Good work, Mac.  Clear the
+area, no traces.  Get the men
+ready to move."
+116,SCHAEFER,116,Shit...
+117,RAMIREZ,117,"You're hit.  You're bleedin',
+man."
+118,BLAIN,118,Ain't got time to bleed.
+119,BLAIN,119,"Son of a bitch's dug in like
+a Alabama tick..."
+120,BLAIN,120,...jack us around all day.
+121,RAMIREZ,121,"Hell, dude, we don't have all
+day."
+122,BLAIN,122,"Shit, Pancho!!!"
+123,RAMIREZ,123,"What's your problem, dude?"
+124,DILLON,124,"This is beautiful!  More than
+we ever thought.  We got the
+bastards!"
+125,SCHAEFER,125,I think this is the one you want.
+126,DILLON,126,"Two days...that's all we had.
+In two days, three hundred of
+these bastards would have been
+equipped with all this.  After
+they crossed the border, it
+would have taken a year to
+stop them."
+127,DILLON,127,"We've averted a major
+guerrilla invasion, Dutch..."
+128,SCHAEFER,128,"It was all bullshit.  All of it.
+From the start...you set us up,
+got us in here to do your
+dirty work."
+129,DILLON,129,"That's right, I set you up.
+You're a veteran at this, Dutch,
+I had to."
+130,SCHAEFER,130,Why us?
+131,DILLON,131,"Because I told you, you're the
+best.  I knew you could do it but
+I couldn't get you in here without
+a cover story."
+132,SCHAEFER,132,What story did you give to Davis?
+133,DILLON,133,"We've been lookin' for this
+place for months.  The chopper
+must have gotten close when
+they got shot down.  Hopper                        *
+was sent in to get my men.
+He was just doing his job.
+When he disappeared I had to
+clean this up,  I had to stop
+there bastards.  We were so
+close, we couldn't quit.  We
+couldn't sleep through this
+one.  I needed you, Dutch,
+can't you see that?"
+134,DILLON,134,"To invade a foreign country,
+illegally?  You lied, Dillon.
+Stacked the odds against us.  Set
+us up.  You could have gotten
+us all killed."
+135,DILLON,135,"You used to be one of us,
+Dillon, someone I could trust
+with my life..."
+136,DILLON,136,"We've been through a lot together
+Dutch.  When we were together, no                  *
+one could stop us, the hottest                     *
+Goddamned team the army ever saw.                  *
+But things changed, I woke up.
+We're fighting them in a dozen
+Goddamned countries.  It's a
+fight we can't lose, Dutch.  We're
+all expendable assets, can't you
+see that?"
+137,SCHAEFER,137,"That's your problem, Dillon.
+You always did put ambition
+before the lives of your men."
+138,SCHAEFER,138,"My men are not expendable.  I
+don't do this kind of work."
+139,SCHAEFER,139,"This is your dirty little war,
+not mine."
+140,HAWKINS,140,Major!
+141,DILLON,141,Are you all right?
+142,HAWKINS,142,"Major, we stepped into some
+real shit here.  I got a hook-up
+with aerial surveillance."
+143,SCHAEFER,143,Movement?
+144,HAWKINS,144,"Guerrillas swarming like flies                     *
+all over the place.  Can't be more                 *
+then one, maybe two miles away.                    *
+Place is going down, Major."
+145,SCHAEFER,145,How much time?
+146,HAWKINS,146,"Half an hour, maybe less.                          *"
+147,SCHAEFER,147,Tell Mac we move in five.
+148,DILLON,148,She goes with us.
+149,DILLON,149,"She's too valuable.  She's
+got to know their whole
+network.  The whole set up.
+We take her with us.                               *"
+150,SCHAEFER,150,"We take her and she'll give
+away our position, every
+chance she gets.  No
+prisoners, Dillon."
+151,DILLON,151,"You're still under orders,
+Dutch.  You want to make the
+call, or should I?"
+152,SCHAEFER,152,"I'm getting my men out of this
+damn jungle, Dillon.  She's
+your baggage.  You fall behind,
+you're on your own."
+153,SCHAEFER,153,"This place is too hot for a pick-up.
+They won't touch us until we're over
+the border.  We can lift at LZ 49,
+here."
+154,SCHAEFER,154,Spotter plane says we're cut off.
+155,SCHAEFER,155,Except for this valley.
+156,BILLY,156,"Looks bad, Major.  It's gonna be
+a real bitch."
+157,BILLY,157,"If we follow above the river and
+then down, here, at this canyon,
+we might find a way out."
+158,SCHAEFER,158,"Not much choice.  Pancho, take
+the lead.  Double time it."
+159,SCHAEFER,159,"Lock n' load, watch your ass."
+160,ANNA,160,"You touch me again, pig, and
+I will cut off your balls!"
+161,DILLON,161,"It's a long walk back, make it
+easy on yourself."
+162,MAC,162,"Hey, Dillon, over here."
+163,MAC,163,"Dillon, over here."
+164,DILLON,164,"Yeah, what is it, Sergeant?"
+165,ANNA,165,"When my people catch you,
+you'll wish you were him."
+166,DILLON,166,Thanks.
+167,MAC,167,Anytime.
+168,HUNTER,168,"Dillon, over here."
+169,HUNTER,169,"Dillon, over here."
+170,HUNTER,170,"Dillon, over here."
+171,MAC,171,"I've seen some badass bush
+before, but nothin' like
+this, man."
+172,MAC,172,Little taste 'o home?
+173,BLAIN,173,"I hear you bro, this is some
+shit.  Makes Cambodia look
+like Kansas.  Lose your way
+in here, man, you be in some
+kinda hurt."
+174,DILLON,174,Shit.  Come on...
+175,RAMIREZ,175,Don't try it.
+176,RAMIREZ,176,"You should put her on a leash,
+Agent Man.  If you can't handle
+her, just say the word."
+177,DILLON,177,Try that again.  Please.                           *
+178,DILLON,178,Watch her.
+179,SCHAEFER,179,What's got Billy so spooked?
+180,MAC,180,"Can't say, Major...been
+squirrely all mornin'...
+fuckin' weird...sometimes
+I think that nose of his is
+too good...smells things that
+ain't there."
+181,SCHAEFER,181,What is it...?
+182,SCHAEFER,182,"Billy...What the hell's wrong
+with you?"
+183,BILLY,183,Something...in the trees...
+184,BILLY,184,Can you see anything...
+185,BILLY,185,...there?
+186,SCHAEFER,186,It's...nothing...
+187,SCHAEFER,187,What do you think...?
+188,BILLY,188,It's nothing...
+189,HAWKINS,189,Please...
+190,ANNA,190,"Look out, behind you!!!"
+191,SCHAEFER,191,It's not her blood.
+192,RAMIREZ,192,"Major, you'd better take a
+look at this."
+193,SCHAEFER,193,Hawkins?
+194,RAMIREZ,194,I can't tell.
+195,SCHAEFER,195,What in God's name...?
+196,RAMIREZ,196,I think it's Hawkins.
+197,SCHAEFER,197,Where the hell is his body?
+198,RAMIREZ,198,There's no sign of it.
+199,SCHAEFER,199,"Ramirez, ask her what
+happened."
+200,RAMIREZ,200,"She says...the jungle came
+alive, and took him..."
+201,DILLON,201,"That isn't what she said...
+she said..."
+202,DILLON,202,...she doesn't make sense.
+203,RAMIREZ,203,"Couple of sappers been
+trailing us all the way from
+the camp, Major.  Billy heard
+them.  She set us up, ran
+for it...They were waiting.
+I should've wasted the bitch
+when I had the chance."
+204,SCHAEFER,204,"Why didn't they take the
+radio and his weapon?"
+205,SCHAEFER,205,Why didn't she escape?
+206,DILLON,206,"They did the same thing to
+Davis..."
+207,SCHAEFER,207,"I want him found.  Sweep
+pattern and double back.  Fifty
+meters."
+208,BLAIN,208,"Come on in you fuckers...come on
+in.  'ol 'painless' is waitin'..."
+209,MAC,209,"Contact, 30 Right!!!"
+210,MAC,210,I...saw it.
+211,SCHAEFER,211,You saw what?
+212,MAC,212,I saw it.
+213,SCHAEFER,213,Blain...
+214,SCHAEFER,214,"...Just like the others...no
+powder burns, no shrapnel."
+215,DILLON,215,"The wound all fused,
+cauterized...what the hell
+did this?"
+216,SCHAEFER,216,...Mac!
+217,SCHAEFER,217,Mac!  Mac!  Look at me!
+218,SCHAEFER,218,"Mac, who did this?"
+219,MAC,219,"I don't know.  Goddamn it,
+something...I saw something/."
+220,RAMIREZ,220,"Nothing.  The same thing.
+Not a fucking trace.  No
+bodies, blood, anything."
+221,SCHAEFER,221,"We're losing the light.  Mac,
+I want a defensive position
+above this ridge, mined with
+everything we're got."
+222,MAC,222,Yessir.
+223,SCHAEFER,223,"Put him in his poncho and
+liner and carry him back.
+We'll bury him in the morning."
+224,MAC,224,I'll take him.
+225,MAC,225,"We've got most of the flares,
+frags. and two claymores just
+outside.  Nothin's comin'
+close to here without trippin'
+on somethin'."
+226,SCHAEFER,226,"Thank you, Sergeant."
+227,SCHAEFER,227,"I'm sorry, Bull.  It's never
+easy.  He was a good soldier."
+228,MAC,228,The best friend I ever had.
+229,MAC,229,"Good-bye, Bro."
+230,DILLON,230,"Blazer One, say again..."
+231,BLAZER ONE,231,"Red Fox, I say again.  Your
+request for extraction denied.
+Your area still compromised.
+Proceed to Sector 3000 for
+prisoner extraction, Priority
+Alpha.  Next contact at 1030
+hours."
+232,DILLON,232,"Roger, Blazer One.  1030
+hours...damn, bastards."
+233,DILLON,233,"We're still too far in, they
+won't risk coming in for us."
+234,SCHAEFER,234,"Expendable assets, Dillon.
+Seems Langley is never around
+when you need them."
+235,DILLON,235,"I can accept that, it comes
+with the job."
+236,SCHAEFER,236,"Bullshit.  You're just like
+the rest of us."
+237,RAMIREZ,237,"Shit load o' good a chopper'd
+do us in here anyway."
+238,DILLON,238,Mac.  Who hit us today?
+239,MAC,239,"Don't know, only saw one of
+'em.  Camouflaged.  He was
+there..."
+240,MAC,240,...Those fucking eyes...
+241,DILLON,241,"What, Sergeant?"
+242,MAC,242,"Those eyes...disappeared.  But
+I know one thing, Major..."
+243,MAC,243,"...I drew down and fired
+right at it.  Capped-off two
+hundred rounds and then the
+Mini-gun; the full pack.
+Nothin'...nothin' on this
+earth could have lived...not
+at that range."
+244,MAC,244,I've got the first watch.
+245,DILLON,245,"Ask her again.  What did she
+see?  What happened to
+Hawkins?"
+246,RAMIREZ,246,"She says the same thing...
+It was the jungle..."
+247,RAMIREZ,247,"You know something Billy, what
+is it?"
+248,BILLY,248,I'm scared.
+249,RAMIREZ,249,"Bullshit.  You ain't afraid
+of no man."
+250,BILLY,250,"There's something out there,
+waiting for us...it ain't
+no man."
+251,DILLON,251,"He's losing his cool.  There's
+nothing out there but a couple
+of men that we're going to
+have to take down."
+252,SCHAEFER,252,"You still don't get it, do
+you Dillon?  He took Davis...
+and now he wants us."
+253,MAC,253,"It's the same kinda jungle,
+Bro, same moon...
+everything..."
+254,MAC,254,"...a real number ten night.
+Remember Bro?  Only you and
+me, the only one's out of the
+whole fuckin' platoon who made
+it out."
+255,MAC,255,"...we walked out on top of
+'em.  Not a scratch, not a
+fuckin' scratch."
+256,MAC,256,"No fuckin' chili-choker got
+to you, Bro...you were just
+too good..."
+257,MAC,257,"...I promise you this, Bro...
+whoever he is, I hope he's
+plannin' to hit us again..."
+258,MAC,258,"...'cause he's got my name
+on 'em."
+259,MAC,259,Got the motherfucker...
+260,MAC,260,A pig...just a fucking pig...
+261,RAMIREZ,261,"Holy shit, Mac."
+262,SCHAEFER,262,"Get a field dressing on that
+right away."
+263,SCHAEFER,263,Where's the girl?
+264,BILLY,264,"Major, over here."
+265,BILLY,265,The body...it's gone.
+266,RAMIREZ,266,"Came in through the trip
+wires, took it right out from
+under our noses..."
+267,BILLY,267,"Boar set off the trip flare,
+Major.  No other tracks."
+268,RAMIREZ,268,"How could anyone get through
+this, carry Blain out, right                       *
+under our noses without leavin'                    *
+a trace?"
+269,SCHAEFER,269,He knows our defenses.                             *
+270,RAMIREZ,270,"Why didn't he try to kill one
+of us last night?"
+271,SCHAEFER,271,He came back for the body.
+272,SCHAEFER,272,"He's killing us, one at a
+time..."
+273,BILLY,273,Like a Hunter.                                     *
+274,SCHAEFER,274,He uses the trees.                                 *
+275,SCHAEFER,275,Yesterday.  What did you see?
+276,DILLON,276,You're wastin' your time.
+277,SCHAEFER,277,No more games.
+278,ANNA,278,"I don't know what it was.
+It..."
+279,SCHAEFER,279,Go on.
+280,ANNA,280,"It changes colors, like the
+chameleon.  It uses the jungle..."
+281,DILLON,281,"Shit, you trying to tell me
+Blain and Hawkins were killed
+by a fucking lizard?  Don't
+listen to her.  Its's a psych-job.
+Two, maybe three of them, that's                   *
+all.  We keep our cool, out-think                  *
+them 'til we're across the                         *
+border...                                          *"
+282,SCHAEFER,282,What's you name?
+283,ANNA,283,Anna.
+284,SCHAEFER,284,"Anna.  He's hunting us.  You
+know that?"
+285,DILLON,285,"What the hell do you think
+you're doing?"
+286,SCHAEFER,286,We're going to need everyone.                      *
+287,DILLON,287,"What are you talking about?
+We'll be out of here in ten                        *
+minutes.                                           *"
+288,SCHAEFER,288,We're not going.                                   *
+289,DILLON,289,"That rendezvous is ten maybe                       *
+twelve miles, at most!  We're                      *
+almost home.  But the chopper                      *
+won't wait."
+290,SCHAEFER,290,"Dillon...This thing doesn't                        *
+care who we are, who she is.
+We make a stand or there won't                     *
+be anyone left to make that                        *
+chopper."
+291,ANNA,291,"There is something else.  When
+the big man was killed, you
+must have wounded it."
+292,ANNA,292,It's blood was on the leaves.
+293,SCHAEFER,293,"If it bleeds, we can kill it."
+294,DILLON,294,"I'm tellin' you, this little                       *
+'boy scout' stunt is a                             *
+Godamned waste of time.                            *"
+295,DILLON,295,"We've got to get the hell out                      *
+of here, now, while we've still                    *
+got the chance."
+296,SCHAEFER,296,"He'll be looking for the trip wires.
+If we're lucky, he won't see this."
+297,DILLON,297,"Now what, Dutch.  You going to
+send your mystery guest an
+invitation?"
+298,SCHAEFER,298,"You're catching on, Dillon."
+299,ANNA,299,When I was little we find a man --
+300,ANNA,300,"-- like a butcher.  The old ones in
+the village cross themselves and
+whisper crazy things.  'Demonio,
+cazador de trofoes...Only the hottest
+times of the hottest years...'  Crazy
+things...This year is grows hot.  And
+we begin finding our men.  We find
+them sometimes without their skin.
+Sometimes...much, much worse.  Cazador
+de trofoes...means the demon who takes
+trophies."
+301,DILLON,301,What'll you try next -- cheese?
+302,DILLON,302,"Satisfied?  Now let's get the hell
+out..."
+303,DILLON,303,What is God's name...?
+304,SCHAEFER,304,Mac!
+305,SCHAEFER,305,"Get Ramirez on his feet!  Take
+the girl and get the hell out
+of here!"
+306,DILLON,306,"No way, Dutch.  I'm going.
+You get these people and get
+the hell out of here."
+307,SCHAEFER,307,"This isn't your style, Dillon."
+308,DILLON,308,"Guess I've picked up some bad
+habits from you, Dutch.  Now
+don't argue with me, you know
+I'm right.  Get to that
+chopper and hold it for us.
+We'll be along."
+309,SCHAEFER,309,"You know you can't win this
+one."
+310,DILLON,310,"You know me, Dutch, I never
+did know when to quit."
+311,SCHAEFER,311,Dillon!
+312,SCHAEFER,312,I'll see you there.
+313,DILLON,313,Right behind you.
+314,BILLY,314,"He's busted up, bad, Major."
+315,RAMIREZ,315,"I can make it, Major."
+316,SCHAEFER,316,"Come on, Poncho, we're getting
+out of here."
+317,SCHAEFER,317,"Billy, take the radio, leave
+the rest.  Come on!"
+318,MAC,318,"Come on, you motherfucker!"
+319,VOICE,319,"Dillon, over here."
+320,VOICE,320,"Dillon, over here."
+321,DILLON,321,Mac?
+322,MAC,322,"Out there.  Past the rocks...
+can you see it?"
+323,DILLON,323,I see it!
+324,DILLON,324,We're gonna take this thing.
+325,DILLON,325,"Take a position over there.
+I'll work around towards you.
+When I flush him, you nail
+him..."
+326,MAC,326,"...Right, I got a score to
+settle for the Bro..."
+327,DILLON,327,We both got scores to settle.
+328,DILLON,328,Mac...Mac.
+329,SCHAEFER,329,Billy!!!
+330,SCHAEFER,330,Billy!!!
+331,SCHAEFER,331,"Get back, into the rocks!"
+332,SCHAEFER,332,Run!  Get to the chopper!
+333,SCHAEFER,333,You couldn't see me.
+334,SCHAEFER,334,"One chance, that's all."
+335,ANNA'S VOICE,335,"Look out, behind you!!!"
+336,ANNA'S VOICE,336,"...Look out, behind you!"
+337,SCHAEFER,337,Anna...?
+338,SCHAEFER,338,Anna...?
+339,HUNTER,339,"Dillon, over here..."
+340,SCHAEFER,340,"Bleed, you bastard."
+341,SCHAEFER,341,Who the hell are you...?
+342,HUNTER,342,Who...
+343,HUNTER,343,...the hell...
+344,HUNTER,344,...are...
+345,HUNTER,345,...You?
+346,PILOT,346,"Holy, fuck, what was
+that...?!!!"
+347,PHILIPS,347,Orbit right...check it out!
+348,ANNA,348,NOOOOOO!!!!!!
+349,MEDIC,349,"Looks like he's been through
+hell...can't believe he's
+still alive.  What the hell
+went on down there?"
+350,PHILIPS,350,"If it hadn't been for her, he'd
+be dead now.  That story she
+told us...I still can't believe
+it."
