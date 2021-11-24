@@ -1,0 +1,4941 @@
+{
+ "movie_url": "https://imsdb.com/scripts/War-of-the-Worlds.html",
+ "movie_title": "war of the worlds",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "\"WAR OF THE WORLDS\"\nScreenplay by\nJosh Friedman & David Koepp\nSubmitted by\nTyler\nFINAL MOVIE SCRIPT\n** Resized to fit on minimal number of pages**\n[Showing Pictures of City Life]"
+  },
+  {
+   "type": "stage direction",
+   "text": "NARRATOR"
+  },
+  {
+   "type": "speech",
+   "character": "",
+   "text": "No one would have believed in the early\nyears of the21st century, that our world\nwas being watched by intelligences greater\nthan our own. That as men busied themselves\nabout their various concerns, they observed\nand studied. Like the way a man with\na microscope might scrutinize the creatures\nthat swarm and multiply in a drop of\nwater. With infinite complacency men\nwent to and fro about the globe, confident\nof our empire over this world. Yet,\nacross the gulf of space, intellects,\nvast and cool and unsympathetic regarded\nour plant with envious eyes. And slowly\nand surely, drew their plans against\nus."
+  },
+  {
+   "type": "location",
+   "text": "EXT. DOCK - CARGO BAY - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray (in his 30s, short hair, rough groomed, almost always wears\nhis New York baseball cap, raggedly dressed, looks like he hasn't\nslept in days) is moving cargo boxes from the ship to ground\nloading brackets. Shots show him inside the control room operating\nthe levers. As the last car is loaded, he is seen walking down\nthe stairs."
+  },
+  {
+   "type": "speech",
+   "character": "SAL",
+   "text": "Ray!! Ferrier! Whoa!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray turns away and laughs because he already knows what he is\ngoing to say."
+  },
+  {
+   "type": "speech",
+   "character": "SAL",
+   "text": "I need you back at 4:00 instead of 12:00\nI got half of Korea coming in."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "No, no, no I can't. I'm on a 12 hour\nblow! Call Tadesko."
+  },
+  {
+   "type": "stage direction",
+   "text": "Camera follows them walking down the street."
+  },
+  {
+   "type": "speech",
+   "character": "SAL",
+   "text": "Tadesko can't move 40 containers in\nan hour. I need somebody who can do\ndouble picks."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I wish I could help you Sal. God damn\nunion regulations."
+  },
+  {
+   "type": "speech",
+   "character": "SAL",
+   "text": "(getting angry) Come on, I'm in a position\nhere!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Come on, you remember the union regulations,\nSal."
+  },
+  {
+   "type": "speech",
+   "character": "SAL",
+   "text": "(angrily) You know what your problem\nis?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sal stops on one side of the street while Ray continues walking."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(joking) I can think of a couple of\nwomen who'd be happy to tell you."
+  },
+  {
+   "type": "location",
+   "text": "EXT. RAY'S CAR - DRIVEWAY - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray gets out and takes the last can of trash to the street as\nTim (in his 30s, wearing expensive clothes, slicked sharp hair,\nextremely well groomed, looks like (and is) rich) and Ray's ex-wife\nMary Ann (in her 30s, pregnant with maternity clothes on, hair\nhanging loose and rather unkempt) stand at their new car. Robbie\n(15, ragged, tough look, long hair, partially groomed, worn clothes\n(but looks in style), hip side pack with misc. objects in it.)\nand Rachel (10, still dressed in Barbie color scheme clothing,\nlong unkempt hair in pigtails) are in the car."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Is it 8:30? We say that?"
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "We said 8:00."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(changing subject) Hey, this is one\nsafe looking vehicle you got yourself\nhere Tim. Congratulations."
+  },
+  {
+   "type": "speech",
+   "character": "TIM",
+   "text": "Thank You."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "8 o'clock huh?"
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "Um-Huh. We'll be back by 9:30 on Sunday,\ndepending on the traffic."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie gets out of the car, carelessly banging the door on the\nelectrical pole. He is listening to his MP3 player at a loud\nenough volume for the camera (10' away to hear)."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "There he is! You got a hug?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie ignores him as if he was not there and heads up to the\nfront door of the house."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(continues) Confusing handshake? (joking)\nKick in the teeth? The door's locked.\n(to Mary Ann): Still working on those\nmanners?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mary Ann nods \"yes\" as Rachel gets out of the car."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Hello dad."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Hello, Rachel!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel gives him a hug and goes back to the car to retrieve her\nbag. She struggles and Mary Ann, Tim, and Ray try to help which\nresults in a small bicker argument. (Ray, Tim, and Mary Ann add\nlib.)"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(during bickering, at the front door)\nThe door's locked."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "(suit case in hand) I'll just get it\nin the door."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "It's got rollers, just roll it."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "Well we can't roll it up the stairs\nnow can we?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Really, I got it from here, okay?"
+  },
+  {
+   "type": "location",
+   "text": "INT. RAY'S HOUSE - KITCHEN - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mary Ann, Rachel, Ray, and Tim walk into the kitchen as Robbie\nheads straight upstairs to his room. Mary Ann sees a car engine\nnext to the kitchen table and looks at Ray in disgust."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(to Tim) It's a 302 V8. It's gonna be\nout of here next week."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mary Ann walks over to the refrigerator to check for the basic\nfood supplies. Ray gets frustrated that she is going through\nHIS stuff."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(trying to get her to leave) You better\nget going if you want to beat the traffic,\ndon't you think?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mary Ann ignores his comment as she opens the refrigerator which\nis almost empty."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "You're out of milk. (smells it) And\neverything else."
+  },
+  {
+   "type": "stage direction",
+   "text": "Shot of Rachel, intensely listening from the stairs."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(mad) Would you close the door please?\nNow that that's my refrigerator."
+  },
+  {
+   "type": "speech",
+   "character": "TIM",
+   "text": "I'm gonna go wait outside. (to Rachel)\nI love you sweetheart (hugs her) see\nyou in a few days."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Bye Tim."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "I'd better get this upstairs."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray tries to further rid of her but she continues."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(trying to get her bag form Mary Ann)\nMom, Mom!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Mary Ann, let me get this."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "I can get it."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(rushes to close his bedroom door, as\nif hiding something) Excuse me."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray gets his door closed as Mary Ann goes into Rachel and Robbie's\nroom."
+  },
+  {
+   "type": "location",
+   "text": "INT. RAY'S HOUSE - RACHEL AND ROBBIE'S ROOM - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mary Ann and Ray go into the room where Robbie is laying on his\nbed listening to his MP3 player. Rachel sits down on her bed."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "A little old to still be sharing aren't\nthey?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I don't hear any complaints."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "No, I do."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mary Ann walks over to Robbie on his bed and grabs his MP3 player.\nShe un-plugs the headphones and the music stops. Ray sits down\non a desk chair."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "Robbie's got a paper... (looks at Robbie\nto make sure he's listening) ...on the\nFrench occupation of Algeria due Monday\nwhich he's yet to begin. It would be\nnice if he were done by the time we\ngot back so we don't have to keep him\nup all night on Sunday."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mary Ann looks at Robbie who promptly says..."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "I just got to type it up. (makes typing\nmotion)"
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "No, you just got to start writing it\nfirst."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(interrupts her) I love you mom!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mary Ann kisses him."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "I love you. (begins walking over to\nRachel) Listen to your father."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mary Ann hugs Rachel and promptly notices..."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "Oh, no shoes on the bed."
+  },
+  {
+   "type": "stage direction",
+   "text": "INT Ray's House - Walking Down Stairs - Dawn"
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "We'll be at my parent's house in Boston\nbut don't call the house line, because\nyou know. Well the point is I've got\nmy cell phone. So if anything comes\nup, or if you have any questions just\ncall."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Believe it or not, I can handle it."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "I'll leave the phone on."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Mary Ann? (beat) It's a good look for\nyou."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mary Ann opens door and proceeds to walk out the door. She stops\nto say..."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "You think?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "Take care of our kids."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Mary Ann, you got nothing to worry about.\nListen, you tell your mother that Ray\nsends his love and kisses."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "(laughs) She'll love that."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mary Ann leaves.\nINT Ray's House - Rachel and Robbie's Room - Dawn\nRobbie is watching the TV stories about lighting storms in other\nparts of the world. Channel changes ever few seconds. Ray turns\noff the TV and throws Robbie's baseball mitt at him. He catches\nit and says..."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Baseball season's over."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Five minutes. It's not going to kill\nyou."
+  },
+  {
+   "type": "location",
+   "text": "EXT. RAY'S HOUSE - BACKYARD - DAWN"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "There he is. (Robbie puts on his new\ncap) Boston? (hesitating) That's how\nit is? (no response from Robbie) That's\nhow it's gonna be?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie throws ball at Ray unexpectedly who catches it just barely\nand comments..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Careful with that throw."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Whatever Ray!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Your mom says you've got a report due\non Monday, so you are going to work\non that when you're done here."
+  },
+  {
+   "type": "stage direction",
+   "text": "During next lines (until noted) they throw the ball back and\nfourth."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Yeah, I'm almost finished, I just got\nto type it up."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yeah, bullshit!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Yeah, and what do you know Ray?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Everything. Haven't you heard? Between\nme and my brother, we know everything."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "What's the capital of Australia?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "That's one my brother knows."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Is it okay with you if I just laugh\nthe first 500 times you tell that one."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Just do your report. We don't send you\nto school so you can flunk out."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "You don't pay for it, Tim does."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray throws the ball at Robbie hard enough to knock dust off his\nmitt. Robbie shakes his hand in his mitt and grits his teeth\nin pain."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "That's half of what I've got."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "You're an asshole. I hate coming here."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "That why you act like such a dick?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray throws the ball and Robbie purposely misses, shattering a\nwindow behind him. Robbie turns his hat backwards and walks up\nthe stairs back into the house. Ray stares at Rachel who stares\nback."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "What?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "That's not how you're going to get through\nto him. You want him to listen to you..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(interrupts her) What are you? Your\nmother or mine?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Where are you going?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "To sleep. I work for a living."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "What are we supposed to eat?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "You know, order."
+  },
+  {
+   "type": "location",
+   "text": "INT. RAY'S HOUSE - RAY'S ROOM - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray takes off his shirt, seems to loose his cap with it, and\ntakes off his boots as he gets in his bed and goes to sleep.\nINT Ray's House - Living room -  Day\nRachel is flipping TV channels as Ray walks down the hall after\nhis nap. He sits down and sees Rachel picking at a splinter.\nRachel has his hard hat on."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "What's the matter?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I got a splinter."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Where'd you get it. Come here."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "On your porch railing."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "What, you want me to... (beat) You want\nme to take that out for you?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Absolutely not!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Well, come here let me see it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel shows him but doesn't let him touch it for fear he may\npull it out. Rachel and Ray ad lib as she stops moving it and\nhe looks at it."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "It's gonna get infected."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "No it wont."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yes, it's gonna get infected."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "No, it won't. When it's ready, my body\nwill just push it out."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Push it out?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I read that. (as she sits back down)\nYou should get TiVo. Tim got it for\nmy room. It's awesome. I can watch all\nmy shows after homework."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yeah, I'll just put that on my platinum\ncard. Robbie? (no response) Robbie?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray takes a bite of the food sitting on the coffee table in front\nof him, having no idea what it is."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(with the disgusting food in his mouth)\nWhat is that?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Hummus."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Hummus?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "From the health food place. I kept one\nof their menus last time we were here."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray gives Rachel a \"this is gross\" look and she gawks at him."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Uh, you said order!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(laughs) I meant order food! Where is\nRobbie?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "He went out."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Out where?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I don't know. He just took your car\nand left."
+  },
+  {
+   "type": "stage direction",
+   "text": "EXT Ray's House - Front Driveway - Day\nHe glances at his open garage door with the car that should have\nbeen in it. He runs across the street to search for his car.\nAs he sees everyone else looking at the sky, he looks himself\nto find a large black cloud with a white hole in the middle of\nit. The cloud is swirling as if it was being artificially turned."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 1",
+   "text": "You ever see something like that?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(scratching his chin) In the springtime\nmaybe. Not this time of year. Come on,\nwe can see better from the back yard."
+  },
+  {
+   "type": "stage direction",
+   "text": "(continuous) EXT Ray's House - Back Yard - Day\nRay runs by the fence to his back yard. As he runs, the wind\nstarts to pick up. 30-40 mph."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "That is so weird."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 2",
+   "text": "What?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "The wind is blowing toward the storm."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 2",
+   "text": "That is weird."
+  },
+  {
+   "type": "stage direction",
+   "text": "Winds pick up faster. 40-50 mph."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel, wanna see something cool?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel rushes down the stairs to his side and hugs him in fear.\nPan up to view the 'storm' that appears to be lighting up with\nmultiple colored lights. Wide angle shot of clothes blowing in\nthe wind. Suddenly the wind dies down to nothing. Lightning hits\nthe pavement about 300 feet away."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "It's okay."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I want to go inside."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "It's okay."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I want to go inside."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Okay, you go ahead."
+  },
+  {
+   "type": "stage direction",
+   "text": "The friend's baby starts to cry..."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 2",
+   "text": "That's enough weather for me. (begins\nwalking inside)"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I don't want to go by myself."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAM!! BAM!! BAM!!! LIGHTNING hits the ground more rapidly and\nlouder now. Rachel and Ray run towards the eves of the house.\nBAM! The lighting continues. BAM!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Kind of fun, ain't it?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Oh, Come on. It's like the fourth of\nJuly."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "No it's not."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray begins singing as... BAM!! The LIGHTNING gets even louder\nand scares the both of them enough to hightail it for the house.\nBAM!!! Half the car alarms go off in a 10 block radius. BAM!!\nAnother few car alarms go off. BAM!!! Louder and louder the LIGHTNING\ncontinues.\nINT Ray's House - Kitchen - Day\nRay and Rachel are running as fast as they can up the stairs\ninto the kitchen. BAM!! The lighting continues again and makes\nRachel scream."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "It's okay. You're fine."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "It hit right behind our house."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yeah, well it's not gonna hit there\nagain because lighting doesn't strike\ntwice in the same place."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAM!! It hits again and makes Ray jump."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Oh, SHIT!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They both get under the table for safety as the LIGHTING continues.\nThey both begin panicking. BAM!! BAM!! BAM!! The LIGHTNING goes\non with no apparent end. Ray and Rachel both scurry on the floor\nunder the table as the lighting goes on."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Where's Robbie?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I don't know."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Is Robbie okay? (no response) Are you\nokay?"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAM! The lighting continues."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Where's the thunder?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Why won't it stop?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Pan out from under the table as the lightning subsides and all\nis silent."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(with hesitation) Is it over?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray remains speechless as he is fixated on the area where the\nlightening came from. Ray climbs out from under the table to\nget an idea of what just happened."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Where are you going?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Just checking things out. Just wait,\nwait there."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Are we going to be okay?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I don't know."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "You don't know."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "No. I meant... Rachel, please, just\nstop asking so many questions. Just\nwait here."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray walks around to various parts of the kitchen to see if everything\nis okay. The power is off. After saying \"just wait here\" he then\nwalks into the living room. Nothing in the living room has power.\nHe checks his phone which doesn't work. He tries his cell phone\nwhich also appears to not work at all. He sees his watch which\nhas also stopped working."
+  },
+  {
+   "type": "location",
+   "text": "EXT. RAY'S HOUSE - BACK YARD AREA - EVENING"
+  },
+  {
+   "type": "stage direction",
+   "text": "Pan left to see the storm cloud still lighting up in some spots."
+  },
+  {
+   "type": "location",
+   "text": "EXT. RAY'S HOUSE - FRONT STREET - EVENING"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray walks down the stairs to see that nobody else has power and\nfor some reason all the cars seem to have just stopped working.\nBy now we get the picture (EMP). He walks out onto the sidewalk\nwhere he is joined by his friend."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 2",
+   "text": "You believe this Ray? Every single car."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray walks past her onto the street where he sees ROBBIE walking\nup the street towards him. Ray begins running towards him."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(worried) Oh, Jesus. Oh, Jesus."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "The car just stopped and..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(interrupts him) You're okay? Are you\nokay?"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "... and the lighting started hitting\nabout a block away over and over again.\nAnd me and this other guy we..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(getting angry) Where the hell'd you\ngo?"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Over on Lincoln Avenue. (break) ...\nby the church."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Did you see it? Did you... Were you\nnear it?"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Yeah. 26 times we counted! Over and\nover the lighting started hitting. It\nopened up this hole or something..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "26 times?"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Okay, well, you're okay?"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Good, because your sister is in the\nhouse, I want you to go in that house\nand I want you to stay with her. Okay?\n(break, as he starts running down the\nstreet) And the next time you take my\ncar with no driver's license and no\npermission, I call the cops. You better\nbe there when I get back."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie doesn't move in fear. Ray gets angry that he is not going."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Robbie. (snaps his hands together)"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray begins walking down the street to the auto shop a few yards\naway."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Manny! Manny! Hey Manny. What is it,\ndead?"
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "All of them, everything, look at this...\n(taps the starter motor) starter's fried."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Lightning hit it?"
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "Not even close. I thought if I changed\nit... you got any idea what's going\non?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I'm on my way to find out. Try umm...\ntry changing the solenoids."
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "Right, (to accompanying mechanic) Right\nsee, I told you that, the solenoids."
+  },
+  {
+   "type": "stage direction",
+   "text": "Everyone who's car is fried is checking their car to see what\nwent wrong. Ray joins about 30 people walking down to where the\nlightning started hitting. Ray's friends join him. Cops walk\nby."
+  },
+  {
+   "type": "speech",
+   "character": "COP 1",
+   "text": "Let us through. Let us through here."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 3",
+   "text": "Hey, what up, Ray?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(joking) I should of known you two were\nbehind this."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 3",
+   "text": "Hey, god's pissed off at the Neibor\nhood"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Can you blame him?"
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 4",
+   "text": "You see it?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yep, you got power where you are?"
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 3",
+   "text": "Nope, nothing."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "It's the cars though. That's the thing."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 4",
+   "text": "Solar Flare, that's what this guy told\nme."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "A solar flare?"
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 4",
+   "text": "Yeah, the sun shoots off blobs of plasma,\nthey turn into solar flare flashes.\nIt's the only thing that can kill all\nof the electronic stuff."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 3",
+   "text": "Can I say something?"
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 4",
+   "text": "What bro?"
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 3",
+   "text": "The sun does not cause lightning, okay?"
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 4",
+   "text": "Bro, I'm just telling you what that\nguy said he heard."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 3",
+   "text": "I know but it just sounds dumb saying\nthat..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray and his friends walk up to this hole in the ground where\neveryone else is gathered around."
+  },
+  {
+   "type": "speech",
+   "character": "COP 1",
+   "text": "I never seen anything like this before.\nThat many strikes of lighting in one\nspot."
+  },
+  {
+   "type": "stage direction",
+   "text": "The cops start ushering people to stay back away from the hole."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Is this the only place?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray picks up a stone that is white next to all the black asphalt\ncrumbs. He switches it from hand to hand because it is too cold\nto hold in one hand."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 4",
+   "text": "Is it hot?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "No. It's freezing."
+  },
+  {
+   "type": "stage direction",
+   "text": "The police officers and the other people gathered around feel\na vibration under their feet."
+  },
+  {
+   "type": "speech",
+   "character": "COP 2",
+   "text": "What is that?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "You feel that?"
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 3",
+   "text": "Yeah, I feel that."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 4",
+   "text": "What is it the subway?"
+  },
+  {
+   "type": "speech",
+   "character": "COP 1",
+   "text": "There's no subway here."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 4",
+   "text": "PATH Train maybe?"
+  },
+  {
+   "type": "speech",
+   "character": "COP 1",
+   "text": "That can't be the water main."
+  },
+  {
+   "type": "speech",
+   "character": "COP 2",
+   "text": "There's nothing else down there."
+  },
+  {
+   "type": "speech",
+   "character": "COP 1",
+   "text": "The water main doesn't run through here."
+  },
+  {
+   "type": "speech",
+   "character": "COP 2",
+   "text": "Well, there's something down there and\nit's moving."
+  },
+  {
+   "type": "stage direction",
+   "text": "The pavement starts to crack into a wider circle. People start\nrunning away from the crack as it gets bigger and bigger. Windows\nstart to crack under pressure as the pavement separates even\nmore. Entire sheets of road split into pieces causing everyone\non the road to loose their balance. Shots of more shattering\nwindows. Busting pipes. The church starts cracking apart and\nmoving with a GIANT CIRCLE of pavement that moves. The pavement\nlurches up and then caves down. A few cars go tumbling in. Something\nthrows the last car that tumbled in back out flying through the\nair as a leg of the robot makes a lurch out of the hole. The\npolice continue trying to move people away. The engines of the\nship start coming out as they power up. The entire ship comes\nout and begins dusting it's self off. Ray and his friends hide\nbehind a building."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 4",
+   "text": "Oh my god."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray begins walking out from behind the building."
+  },
+  {
+   "type": "speech",
+   "character": "FRIEND 4",
+   "text": "Ray, no, stay man."
+  },
+  {
+   "type": "stage direction",
+   "text": "The machine makes a large vibrating noise as if calling out to\nother robots. It arms it's disintegrator beams and opens fire.\nPeople can be seen to disintegrate as they are struck with the\nbeam. The beams, when fired make a zap sound. People start exploding\ninto dust and their clothes are blown away. Ray misses numerous\nbeams by a foot or two as he goes into a convenience store. Again\nRay runs out the back door and misses another beam by inches.\nHe runs his ass off trying to escape the robot. Disintegrator\nbeams strike off rooftops to clear a walking path. Ray hides\nbehind a building as the machine walks by."
+  },
+  {
+   "type": "location",
+   "text": "EXT. RAY'S HOUSE - PORCH -  EVENING"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray walks into the house where he is met by Rachel's gawking\neyes out the window. Robbie stands in the background looking\nat the doorway. Ray walks past Rachel then Robbie toward the\nkitchen. Rachel and Robbie follow him into the kitchen. With\nanxious eyes, Robbie begins to say..."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "What happened?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray sits down against the wall of the island countertop in the\nkitchen, not responding."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "What's going on?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie squats down next to Ray as Rachel rests her elbows on\nthe stool at the island."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Dad, what's the matter?"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "What's all that stuff all over you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray seems to be delirious as he slurs his head towards Robbie."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Rachel reaches through a leg of the\nisland to pull at Ray's hood on his\nshirt. BAM! Ray jumps and jerks his\nhead toward Rachel fast enough to make\nsome of the white powder poof off as\nif jerked back into reality. Robbie\njumps as well in fright."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "What's all the stuff?"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Hello? Ray?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray looks at his arms which are coated in the white powder. He\ngets up and begins heading for the bathroom. Still unresponsive\nto the questions he was just asked. He looks in the mirror to\nsee that he is covered in the whit powder (human ash). He quickly\ndoes his best to wash it off realizing what it is. After washing\nit off, he begins mentally planning what to do.\nWalking back into the kitchen..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "We're leaving this house in 60 seconds."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray grabs an old Penzoil box and dumps the tools out of it. He\nshoves the box into Robbie who grasps it as to not fall over\nat the force Ray used."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(questioning) What? Wait. I have no\nidea what's going on..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(while Robbie asks) ... all the food\nfrom the refrigerator and the cupboard,\nput it in here."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "I think we are having a bit of a shock\nhere...what's going on, just tell me..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Just do it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray runs toward the table, grabs a flashlight and begins to try\nto get it to work."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel, sweetheart..."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Dad, you're really scaring me."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I need you to get your suitcase..."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Dad. (break) Dad!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "The one that you brought, bring it to\nme, okay?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray shoves cereal boxes aside to get to the cabinet over the\nrefrigerator for batteries. Hastily grabbing the package, he\nrealizes they are probably dead due to the EMP."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Can you do that for me, darling?"
+  },
+  {
+   "type": "location",
+   "text": "INT. RAY'S HOUSE - RAY'S ROOM - EVENING"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray runs into his room while Rachel and Robbie are downstairs.\nHe hastily enters the combination to a metal box that contains\na hand gun. He tucks the gun into his belt on his back and folds\nhis shirts over it.\nStreet Sidewalk - Evening\nRay, Rachel, and Robbie are walking at a very fast pace down\nthe sidewalk with about 20 other people around them. Rachel is\nclutching Ray's hand and Robbie is carrying the box of food."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "What's happening?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Shh, Shh, I can't tell you now. We...\nWe've only got about another minute."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray sees the car that Manny was working on just as Manny's Apprentice\ncloses the hood. Ray mutters..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Please, Please, Please."
+  },
+  {
+   "type": "stage direction",
+   "text": "People are seen rushing down the street in the intersecting direction.\nRay, Robbie and Rachel approach the car."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Just keep it down."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Ray, I'm standing right beside you.\nCan you please answer me?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray does not respond as he looks in the ignition and finds keys."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Just get in the front seat Robbie."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray loads Rachel in the middle row of seats as Robbie gets in\nthe passenger seat."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Who's car is this?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Just get in."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Who's car is this?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray throws Rachel's bag in the row of seats behind her, slams\nthe door and starts walking to the driver side of the car. He\nis caught by Manny walking."
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "Hey, Hey, Ray! You were absolutely right.\nI had to change the sole... Ray?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Manny sees Ray has loaded his whole family into the car."
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "Hey Ray? Ray? What?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Manny walks over to the passenger side as Ray and Robbie watch\nhim."
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "Ray. Open up."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray, who did no such thing sits there. Robbie looks at ray wondering\nwhat he's going to do."
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "Open the door, come on! OPEN THE DOOR\nRAY!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray reaches over Robbie and opens the door."
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "What are you..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(interrupts him) Get in."
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "That's funny, you gotta get out of the\ncar. You can't take it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray tries to get Manny to calm down from the panic he is in..."
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "It's not my car. It's not your car.\nWhere you going? Daddy's acting crazy\nkids. Guy's gonna come back..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(interrupts him) I don't have time to\nexpl...."
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "(interrupts him) You're busting my chops.\nI got a shop to run. You know how many\npeople..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(interrupts him) Get in!"
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "No, RAY GET OUT OF THE..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "GET IN MANNY OR YOU'RE GONNA DIE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel begins crying as she says..."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "What do you mean?"
+  },
+  {
+   "type": "stage direction",
+   "text": "A dead silent pause falls on everyone. Robbie stares at Ray in\nfright as Ray and Manny stare at each other."
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "All right, get out of the truck! I'm\nnot kidding now. GET OUT OF THE CAR\nRAY!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel cries more as a view of an approaching robot shoots flame\nat a nearby tree. Ray and Manny continue as Rachel looks at the\nflaming tree."
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "I'm not fooling around, I got a busy\nday ahead of me..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(to Robbie) Close the door! CLOSE IT!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray helps Robbie close the door on Manny as they begin speeding\naway."
+  },
+  {
+   "type": "speech",
+   "character": "MANNY",
+   "text": "RAY! BRING THE CAR BACK RAY! IT'S NOT\nMY CAR!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Manny just finishes his line as he is zapped by a disintegrator\nbeam. Camera shows the auto shop zapped by the beam and exploding\nto smithereens."
+  },
+  {
+   "type": "location",
+   "text": "INT. CAR - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Trying to outrun the beams..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "GET DOWN! GET DOWN! GET DOWN!"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Is this the terrorists?!?!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "JUST GET DOWN. GET DOWN!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray grabs Robbie's collar of his jacket and shoves him toward\nthe floor."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "GET DOWN!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "HOLY SHIT!"
+  },
+  {
+   "type": "stage direction",
+   "text": "High shot shows the bridge behind Ray's house being blasted away.\nThe expressway gets hit by the beams and overturns into the houses\nbelow. One of them Ray's. An explosion is seen as a fuel tanker\nfalls on Ray's house that obliterates 4 houses. Flaming debris\nflies all over behind the van.\nThe van has now made it on to the freeway where hundreds of cars\nare scattered all over the road broken down. The van speeds by\nthem honking the horn every few cars."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Where are we going?!?!?!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "We gotta go! We got to be the only working\ncar around here. I'm not stopping until\nwe are clear."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "CLEAR OF WHAT?!?!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "We gotta go."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "WHAT THE HELL IS GOING ON!?!?!?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "YOU SAW! WE'RE UNDER ATTACK!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel begins frantically crying. After a few seconds, she begins\nhyperventilating."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "BY WHO? WHO IS ATTACKING US?!?!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel... Rachel you've got to keep\nit down Rachel!"
+  },
+  {
+   "type": "stage direction",
+   "text": "After honking his horn a few more times, she has only gotten\nworse."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel! SHUT UP RACHEL! I CAN'T THINK!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(with a vein driven face) YOU ARE FREAKING\nHER OUT!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "WELL, LOOK, I'M DRIVING, DO SOMETHING!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie turns to the back seat as an attempt to calm Rachel. He\nthinks of an old technique he was taught."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Okay, (slapping his arms together on\ntop of each other, demonstrating) Put\nem' up Rache."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel makes his demonstrated arm formation."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Make the arms. (he grabs her elbows\nso she holds the position. He begins\nto calm her down) This space right here,\nthis is yours."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie stares directly into her eyes. She takes deep breaths\nto regain control. She is able to open her eyes and stare back\ninto his eyes to maintain contact."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "... This belongs to you, right?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(panting, but keeping eye contact) Yes..."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(reassuring her) You're safe in your\nspace."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(keeping eye contact) I'm safe in my\nspace."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(reassuring her) You're safe in your\nspace. Nothing is going to happen to\nyou in your space."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray looks back into the back seat in amazement at Robbie able\nto do what he's doing."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I'm really scared."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "I'm gonna go to the front seat to talk\nto dad..."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "No...."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(reassuring her) I will be two feet\naway. Okay."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel breaks eye contact and starts controlling her breathing\nwhile Robbie grabs her hand as reassurance."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Will you hold my hand?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Are you gonna be okay?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(relatively calm) Yes."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie grabs her hand and they both lean forward toward the front."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(taking a breath to calm himself) I\nwant to know everything you know."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray looks into Robbie's eyes who is looking straight forward\non the road."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "This thing, this machine, it crawled\nout of the ground and started torching\neverything, just killing everybody."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "What is it? (break) Is it terrorists?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "No, this came from some place else."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "You mean like Europe?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "NO ROBBIE!! NOT LIKE EUROPE!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray swerves to miss a car as the camera cranes around to the\ndriver's side."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "That machine, it was already buried."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray looks into the sky. What for is unknown."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Maybe it came down in the lightning\nstorm."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Wait a minute... you just said it was\nburied."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "No, the machine I'm talking about was\nburied. But, what came down in the lighting\nstorm, what operates it. That's the...\nthat's the.... You know. The...."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie jumps back into the passenger's seat as Rachel scoots\nforward in the back seat. Robbie is looking toward the sky."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "The what?"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Why aren't there any helicopters or\nairplanes?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Hey Rache. How you doing there girl?\n(to Robbie) How she doing?"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "How you doing?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I'm fine."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(to Ray) She's good."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Good.  Hey, what was that thing you\ndid with her?"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Works sometimes. She gets claustrophobic."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Hey Rachel"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I want mom."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I know. You feel better?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I want mom."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yeah, tell me about it, you know?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Take me to Mom's!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Listen, I just need you to hold it together\nfor me, okay?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I WANT MOM!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "When you start screaming like that,\nyou know, I can't really..."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "TAKE ME TO MOM!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie gets back into the back seat to repeat the \"arms\" process\nwith her to calm her again."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I know..."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "TAKE ME TO MOM'S!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "That's where we're going right now."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "TAKE ME TO MOM'S!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I KNOW!!"
+  },
+  {
+   "type": "location",
+   "text": "EXT. MARY ANN'S HOUSE - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Still in the car..."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Come on, hurry up Dad..."
+  },
+  {
+   "type": "stage direction",
+   "text": "As soon as the van stops, Robbie gets out and opens the door\nfor Rachel."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Robbie, get the door.... (she knocks\non it)"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie grabs the keys off his belt loop as Rachel begins running\nup to the front door."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(begins, and continues once in the house)\nMOM! TIM!!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(begins, and continues once in the house)\nMOM!! TIM!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray remains in the car realizing how unimportant he really is\n(kids are shouting for Tim)."
+  },
+  {
+   "type": "location",
+   "text": "INT. MARY ANN'S HOUSE - ENTRY - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel and Robbie are shouting for \"mom\" and \"Tim\" as Ray walks\nthrough the door. Rachel and Robbie meet Ray in the entry from\ndifferent parts of the house in their search."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "They're gone."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Is she dead??"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "She's not dead. All right? She's just\nno here. Okay? They're never here."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "How do you know?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Because they are on their way to Boston...."
+  },
+  {
+   "type": "stage direction",
+   "text": "The camera goes to the phone which is briskly picked up by Robbie.\nThen the camera views into the new family vacation portrait next\nto the phone. It has Ray missing who is replaced by Tim."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "... and so they just kept on going,\nthey're probably up to your grandma's\nhouse by now."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(dialing the phone) I'm gonna call her."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "How come the lights are on here and\nnot at your place?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Umm.... Because nothing bad happened\nhere. Okay?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie is having no luck and is only getting error tones out\nof the phone."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "So, were safe here. All Right?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Remembering Robbie's calming \"arm\" technique..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Okay, Rachel? This is your area. Okay,\nyou are safe in your area..."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Dad. That's not how it goes."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Okay, well, you hungry, huh? I'll get\nyou some food. I'm gonna feed you. Get\nsomething to eat.  (digs into the box)\nWhat do we have here??"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": ".. Busy signals, one of the fast ones....\nYou think all the circuits are down?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(continues) Ketchup, Mustard, Ahh, Tabasco,\nBarbeque Sauce. This is really good\nRobbie. Vinaigrette. I said pack food.\nWhat... What the hell is this?"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "That's all that was in your kitchen."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Okay. No, it's all right, it's all right."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie takes his hat off and sits down as Ray searches the box\nfor food. He finds peanut butter."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Uh, food... Uh, bread... (getting the\nbread) okay, we're gonna have... umm....\nWe'll just get some sandwiches."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray takes the twist tie off the bread bag and dumps the whole\nloaf on the counter. He taps his hands together to try to calm\nRachel and Robbie."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "You ever see me deal? Wanna see me deal?\nOkay, there's two for you, two for Robbie,\ntwo for me, (he has one extra in his\nhand) ...one for the house. (laughs)"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray opens the peanut butter and grabs a wooden spoon from the\ncooking utensil holder on the counter."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Maybe after we get done eating, I will\ntake you down, teach you how to play\nsome poker. A little five card stud...\na little blackjack..."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I'm allergic to peanut butter."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(laughs) Since when?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(with a snotty look) Birth!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie shakes his head yes to her statement."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Okay, well, umm, here (hands her two\npieces of bread) You can eat the bread.\nOkay?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I'm not hungry."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Okay, well. Robbie and I are going to\nbe eating peanut butter sandwiches.\n(to Robbie) You want jelly on this sandwich?"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "I'm not hungry either."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "You're not hungry either? Well, that's\nfine."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray picks up the bread pieces and throws them at the sink window.\nOne with peanut butter sticks on the window and slowly slides\noff."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Everybody just relax, okay? Because\nwe are here now and we're safe, and\nwe're gonna stay.  And in the morning\nyour mom and Tim are going to be here\nand everything's gonna be fine. Okay?\n(no responses) Okay."
+  },
+  {
+   "type": "location",
+   "text": "INT. MARY ANN'S HOUSE - BASEMENT - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel and Ray are running down the stars carrying their own\npillows and blankets. Robbie follows slightly behind them carrying\nhis own and a few extra pillows and blankets."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "If everything's fine, why do we have\nto sleep in the basement. We've got\nperfectly good beds."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "It's like a slumber party."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "What are you afraid is gonna happen\nto us?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(walks over to the weight room corner\nof the basement) Nice basement."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I want to sleep in my bed. I've got\nback problems."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Okay. You know on the Weather Channel\nwhen there's a tornado, and they tell\nyou to go to the basement for safety?\nIt's like that."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "There's gonna be tornadoes?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel, no more talking."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie puts his hat on Rachel's head and ushers her over to the\nspot under the stairs where blankets are laid out. Ray walks\nover to the chair about five feet away from the bed."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Could you be a little nicer to me. God!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel and Robbie are heard in the background..."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Wanna stay here?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Yeah. Good night, love you."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Love you, Rache."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray takes out his gun and puts it under a pillow of the sofa\nas he sits down. So Robbie and Rachel wont notice."
+  },
+  {
+   "type": "location",
+   "text": "INT. MARY ANN'S HOUSE - BASEMENT - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bushes are heard rattling against the window. They become louder\nand louder against the window. Eventually they become just shy\nof loud enough to wake Ray up. FLASH! A strike of lighting gets\nRay's eyes to roll back around and open. BAM! The second flash\nis loud enough to get Robbie (who is now in the seat next to\nRay) to jump up next to him. A few more flashes and the lightening\nstarts like the first time. BAM! BAM! Every strike of lighting\nlights up the entire downstairs. Rachel gets up and looks thought\nthe stairs.\nA close up shot of Robbie. With every lightening strike, his\nbreathing becomes more erratic."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Is the lighting back?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "No, this is something else..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Just as ray finishes, an ear piercing noise from a jet engine\nbegins. The howl rattles things off of shelves on the walls.\nRobbie and Ray wince at the pain in their ears. Rachel runs up\nto Robbie and hugs him in security. Things fall off of shelves\neverywhere.\nA shot of the incredibly bright window as the noise grows even\nlouder."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(screams) AHHHH... WHAT'S THAT SOUND?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I NEVER HEARD THAT BEFORE!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "IS IT THEM!!! IS IT THEM!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The lighting grows more intense as does the sound."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "WE GOTTA GO!! WHERE DO WE GO??? ROBBIE,\nTHIS IS YOUR HOUSE, WHERE DO WE GO??"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie opens the door to the furnace room and shows Rachel down\nthe stairs who runs. Robbie goes back to get Ray.\nRay realizes he has forgotten his gun."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "WAIT!! WAIT!! WAIT!! WAIT!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray and Robbie run to the door just as a fireball bursts through\nthe windows. Flaming debris follows after. Ray gets the first\ndoor closed but the fire blasts through the wooden one. He manages,\nafter a struggle, to get the metal one closed on the inside of\nthe furnace room.\nThe door closes and the room is completely black. In the dark,\nyou can hear the debris being thrown around everywhere around\nthem."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Are we still alive?"
+  },
+  {
+   "type": "location",
+   "text": "INT. MARY ANN'S HOUSE - FURNACE ROOM - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray is looking out the window at the top of the room. He is holding\non to the metal wire conduit. Seeing hardly anything, he judges\nit to be safe to go outside the furnace room.\nHe walks by Rachel who is sleeping in Robbie's arms who is sleeping\nagainst some copper piping. Holding his slightly burned arm in\npain, Ray exit's the room through the charred doors and finds\nmost of the basement in ruins. The ground floor is now the top\nfloor because the second floor was completely torn off.\nThe camera pans out to find a winding down, burning airplane\nengine. Panning out further we can see ray walking through the\nremains of different sections of an airplane."
+  },
+  {
+   "type": "location",
+   "text": "EXT. MARY ANN'S HOUSE - YARD - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray sees the fuselage with one surviving person hauling a blue\ncart through the aisle."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Down here!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The man continues hauling the cart."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Were you on this plane? Are you a passenger?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The cart comes flying down the fuselage doorway as the man creeps\ndown the floor to the ground."
+  },
+  {
+   "type": "speech",
+   "character": "MAX (NEWS CAMERA OPERATOR)",
+   "text": "Hey, how you doing? Wanna help me open\nthis?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The news reporter comes rushing out from the side of the news\nvan in the background."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Are you a passenger?"
+  },
+  {
+   "type": "speech",
+   "character": "NEWS REPORTER",
+   "text": "He's deaf. The shell went off right\nbeside him. The camera on his shoulder\nsaved his life. (to Max) You hear that\nMax? Your stupid camera saved your stupid\nlife."
+  },
+  {
+   "type": "stage direction",
+   "text": "They succeed in jimmying open the cart and begin bagging all\nthe water and food they can."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Where were you?"
+  },
+  {
+   "type": "speech",
+   "character": "NEWS REPORTER",
+   "text": "Out there in the pine barrens. We were\nattached to a National Guard unit, the\n83rd Mechanized. They moved to one of\nthose things around midnight. They've\ngot some kind of shield around them.\nWe can't see it, but everything we fire\nat them detonates too early before we\ncan get close enough to cause any damage.\nWhen they flash that thing, everything\nlights up like Hiroshima."
+  },
+  {
+   "type": "stage direction",
+   "text": "She begins eating one of the meal packages."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "There's more than one?"
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "You gotta be kidding me right?"
+  },
+  {
+   "type": "location",
+   "text": "INT. NEWS CAR - DAWN"
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "We were feeding New York but New York\nwent dark. So we patched over to D.C.,\nthey went down, L.A., Chicago, uplink\nto London. Even called the affiliates\nto try and get them to catch the feed,\nbut nobody answered."
+  },
+  {
+   "type": "stage direction",
+   "text": "The reporter looks at tapes to find the one she's looking for.\nWhen she does so, she jams it into the VCR which promptly begins\nplaying it."
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "It's the same everywhere. Once the tripods\nstart to move, no more news comes out\nof that area."
+  },
+  {
+   "type": "stage direction",
+   "text": "She shows him a tape of about 30 tripods destroying a city."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Oh, my god!"
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "You ain't seen nothing yet."
+  },
+  {
+   "type": "stage direction",
+   "text": "She wheels her chair around to show him the next piece."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I saw that storm. I was right in the\nmiddle of one of those."
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "No, you didn't see it like this. Those\nmachines come up from under the ground,\nright? That means they must have been\nburied there a long time ago. So who's\ndriving the god damn things? (pointing\nto the monitor) Watch the lightning.\nWatch it..... Watch the lighting....."
+  },
+  {
+   "type": "stage direction",
+   "text": "She slows the footage down so he can get a good look. She advances\nit slowly. She points out an alien capsule like object running\ndown the lighting bolt."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "What is that?"
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "That is them. They come down in capsules,\nriding the lighting into the ground\ninto the machines right?"
+  },
+  {
+   "type": "stage direction",
+   "text": "A vibration noise is heard by an approaching robot. They both\njump at the noise."
+  },
+  {
+   "type": "speech",
+   "character": "DRIVER",
+   "text": "You hear that? We're getting the hell\nout of here."
+  },
+  {
+   "type": "stage direction",
+   "text": "The camera man has his hands full of meals as he loads into the\nvan."
+  },
+  {
+   "type": "speech",
+   "character": "DRIVER",
+   "text": "Come on! Get in! Get in! Get in!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The door almost closes on Ray as she stops and opens it again."
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "Hey. Were you on that plane?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray shakes his head no."
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "Oh, that's too bad, it would have been\na really great story."
+  },
+  {
+   "type": "stage direction",
+   "text": "She closes the door on him.\nBlack blend to:"
+  },
+  {
+   "type": "location",
+   "text": "INT. MARY ANN'S HOUSE - BASEMENT - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray is talking to Rachel..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Look at me. Look at me."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel and Ray are putting on their coats."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "You keep your eyes only on me, you understand?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel has her big eyes on him as she nods yes."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Don't look down, don't look around me.\nI'm taking you to the car and you're\ngonna want to look around. But you are\nnot going to, are you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She shakes her head and whispers \"no\"."
+  },
+  {
+   "type": "location",
+   "text": "INT. (BUT DUE TO CRASH IT IS NOW EXT.) MARY ANN'S HOUSE - DEBRIS"
+  },
+  {
+   "type": "stage direction",
+   "text": "FIELD - DAWN\nRay is carrying Rachel to the van. Robbie is walking along behind\nthem looking at the devastation."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "You're doing good. You're doing good.\nKeep your eyes on me. We'll go right\nto Boston, and we're gonna see your\nmom."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I'm not gonna look, dad."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "That's a girl. That's my girl.  Okay,\nlisten, I want you to close your eyes.\nGot them closed?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Um-Huh."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "There you go. Keep em' closed for me."
+  },
+  {
+   "type": "stage direction",
+   "text": "Camera follows Robbie who puts his hands on his head in amassment\nof the devastation. Ray starts the car and turns it around to\npull out."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Robbie, get in."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie does not react at all. Ray becomes agitated."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "ROBBIE!! GET IN!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Why are you yelling?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray gives him a mean look as Robbie realizes that they must go."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(to Rachel) It's okay. (to Robbie) Get\nin!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They pull away from the wreckage and continue on their journey."
+  },
+  {
+   "type": "location",
+   "text": "EXT. VAN - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray is reading the map while Robbie looks out the window. They\nare taking back roads that have nothing but farmlands on them."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Why the hell aren't we on the turnpike?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Because I don't want everybody to see\nwe've got a working car. (going over\nthe plan) We'll stay along the Hudson\nuntil we find an open bridge or ferry,\nthen we're gonna cross the Hudson. Then\ntake the back roads across Connecticut\nall the way to Boston."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Where is everybody?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I don't know. Running, hiding, hiding\nin their basements."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "If we had any balls, we'd go back there\nand find one of those things and kill\nit."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yeah, well, why don't you just let me\nmake the big decisions, okay?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray shoves the map on the floorboard as he becomes more angry\nat Robbie."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Which would be when? Never Ray? Never's\nabout your speed."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Okay, enough Robbie!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(angrily) Okay! Enough with the Ray\nshit!! It's dad, sir, or if you want\nMr. Ferrier. That sounds a little weird\nto me but you decide."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Dad?!?!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yes, Rachel."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I have to go to the bathroom."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Really?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel shakes her head \"yes\" as he pulls the car over.\nRay grabs Robbie by the shirt arm and holds him in the car. He\nglares at Rachel mean enough to make her freeze in her seat."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Come on. (tugs at his shirt sleeve which\nRay has a hold of) I gotta go!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Not so fast, not so fast, all right?\nNow, there are two things we have to\nwatch out for, and the second is people\nwho might want our car."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "There's nobody around!"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I gotta go."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie breaks free of Ray's grasp on his sleeve. Robbie and Rachel\nboth get out of the car. Ray follows the both of them to supervise\nthe whole event from the van."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(displeased) Rachel! Rachel, that's\ngood right there. (points to a spot\n20' away)"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I'M NOT GOING IN FRONT OF YOU GUYS!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "All right, then just go where I can\nsee you!"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "ARE YOU CRAZY?? DON'T LOOK!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I'm not gonna look! JUST STAY IN SIGHT!!"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "THAT'S LOOKING!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel is about 200 feet away entering a patch of bushes. Robbie\nhas already found a spot about 10' away next to the stream under\nthe road."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Listen. Every time you don't listen\nto me, I'm telling your mother, okay?\nI'm making a list. (reinforcing) I'm\nmaking a list!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel is entering the wooded area next to the stream looking\nfor a half way decent spot. She sees the river and looks at it\nin beauty just as she sees a body floating down it. MORE BODIES\nstart coming at a huge rate. 20,30,40,50 bodies floating down\nthe river. Rachel begins to hyperventilate again as Ray comes\nup from behind her and throws his hands over her eyes and grabs\nher."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I told you to stay where I could see\nyou!"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I'm sorry!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray grabs her into his arms and begins walking back to the van.\nArmy trucks can be heard crossing by the van. Robbie, who's only\ninterest is killing one of the robots sees this as an opportunity\nto do so. Robbie runs toward the trucks and begins shouting...."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "STOP!! DO YOU HAVE ROOM??? STOP!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Some trucks pass by as the soldiers in them look at him blankly."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "WAIT, STOP!!! LET ME ON!!! LET ME ON!!!\nGIVE ME A HAND!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie is getting soaked as the tank's tracks roll over the large\npuddles of water. Robbie is not giving up hope that one may let\nhim on."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "WAIT!!! STOP!!! GIVE ME A HAND!!! YOU\nHAVE ROOM!!!"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER",
+   "text": "Watch it, kid! YOU'RE GONNA GET YOURSLELF\nRUN OVER!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray sees Robbie trying to get on with them. He has had enough\nof Robbie and goes up to him to tell him...."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "WHAT!?!?!  ROBBIE, YOU WANT TO GO IN\nTHAT DIRECTION?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie, who ignores him is still shouting for them to stop."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "THERE'S NOTHING LIVING IN THAT DIRECTION,\nROBBIE!!!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "WHAT DO YOU CARE?!?!? YOU NEVER GAVE\nA SHIT BEFORE!!! YOU NEVER GAVE A SHIT!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "OKAY, HARD ASS, WHAT'S YOUR PLAN? YOU'RE\nIN CHARGE NOW, YOU TELL ME WHAT WE'RE\nDOING!!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "WE CATCH UP WITH THESE SOLDIERS, WE\nPICK UP WHOEVER ELSE ISN'T DEAD AND\nWE GET BACK AT THEM!!! WE GET BACK AT\nTHEM!! THAT'S WHAT WE DO!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "WELL, NOW LET'S TRY ONE THAT DOSEN'T\nINVOLVE YOUR TEN YEAR OLD SISTER JOINING\nTHE ARMY! YOU HAVE ANYTHING LIKE THAT???"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray and Robbie are about ready to start throwing punches at each\nother as the tanks continue rolling by."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "WHY DON'T YOU JUST TELL US THE TRUTH???"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "YOU HAVE ANYTHING LIKE THAT!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "YOU HAVE NO IDEA WHICH WAY TO GO!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "YOU HAVE ANYTHING LIKE THAT?!?!?!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "YOU WANNA COME OFF ALL WISE AND SHIT!!\nYOU ONLY CHOSE BOSTON BECAUSE YOU HOPE\nMOM IS THERE AND IF SHE'S THERE, YOU\nCAN DUMP US ON HER!!! YOU CAN DUMP US\nON HER THEN YOU'LL ONLY HAVE TO CARE\nABOUT YOURSELF!!! WITCH IS EXACTLY THE\nWAY YOU LIKE IT!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie is shivering in the cold of his wet clothes but his adrenaline\nkeeps him fighting at Ray. They both can be seen with the air\nfrom their nostrils flaring like a bull. Rachel rushes in as\nan attempt to get Robbie to realize what he's doing."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "ROBBIE!!! WHERE ARE YOU TRYING TO GO?!?!\nWHAT ARE YOU TRYING TO DO?!?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel begins to cry as Robbie looks at her in sorrow."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "WHOE'S GONNA TAKE CARE OF ME IF YOU\nGO!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel's last line almost brings Robbie to tears as he picks\nher up and starts walking over to the van. Ray stands next to\nthe still rolling army vehicles and begins to realize how this\nbrother and sister have come to rely on each other during the\ndivorce of their parents."
+  },
+  {
+   "type": "location",
+   "text": "INT. VAN - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie is staring out the window in the exact opposite direction\nof Ray. The radio is broadcasting the emergency alert test. Ray\nturns off the radio and says..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "If I close my eyes, why don't you drive\nfor a bit."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "I don't have a license."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Since when has that stopped you?"
+  },
+  {
+   "type": "location",
+   "text": "INT. VAN - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie is driving into a city. Ray is sleeping in the passenger\nseat. The streets are crowded with people walking. Robbie gets\nworried and gets Ray to drive."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Ray. (no response) Ray. (no response)\nDad!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray wakes up and Robbie tries to get him to take the wheel."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "You think you could.... You think you\ncould..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Don't stop... don't take your foot off...\nOkay. I got it... I got it...."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Where's everybody going?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I don't know Rach."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "But we do right?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yeah, we do."
+  },
+  {
+   "type": "stage direction",
+   "text": "They continue driving through the crowd as they become more and\nmore mad at Ray for not letting them on. They begin banging on\nthe glass."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Why'd he do that?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The man continues hitting the windshield."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Why is he doing that?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "He wants a ride. Everybody just wants\na ride."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Can we give him one?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Just sit back and put on your seatbelt.\nRobbie, put on your seatbelt."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel is busy looking at all the people who are now begging\nfor a ride."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Put on your seatbelt Rachel."
+  },
+  {
+   "type": "stage direction",
+   "text": "The three of them fasten their seatbelts."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Be careful."
+  },
+  {
+   "type": "stage direction",
+   "text": "People bang on the windows louder as they shout \"give me a ride\"."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I'm sorry, I can't. Please get away\nfrom the car."
+  },
+  {
+   "type": "stage direction",
+   "text": "A police man jumps on the hood and bangs on the window."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "HEY!!"
+  },
+  {
+   "type": "speech",
+   "character": "POLICE MAN 3",
+   "text": "Stop the car!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY AND ROBBIE TOGETHER",
+   "text": "GET OFF THE CAR!!! GET OFF THE CAR!!!"
+  },
+  {
+   "type": "speech",
+   "character": "POLICE MAN 3",
+   "text": "You could carry 20 people in there!\nSTOP THE CAR!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel is panicking and starts to do the \"arms\" process to stay\ncalm."
+  },
+  {
+   "type": "speech",
+   "character": "RAY AND ROBBIE TOGETHER",
+   "text": "GET OFF THE CAR!!! GET OFF THE CAR!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray hit's the gas pedal as the police man falls off the side\nof the van. Ray speeds away now and gains some speed just as\nsomeone throws debris into the windshield which breaks it. Rachel\nscreams in panic."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(screams) AHHHH!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Oh hold on!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie and Ray see a woman standing dead in their way holding\na baby. They swerve to miss her."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Look out! Look out!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(seeing a telephone pole) Oh, GOD!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The van smashes into the telephone pole and the pole lurches\nabout 20 feet. The transformer on the top of the pole begins\nto arc and spark. The crowd is now rocking the van from side\nto side shouting at about a riot level."
+  },
+  {
+   "type": "location",
+   "text": "INT. VAN - DUSK"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Are you okay?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel has no time to respond before the back windshield is busted\nopen by a crowd member. The driver and passenger side windows\nare then promptly busted. Robbie ducks to avoid the flying glass.\nA man jumps on the hood and starts ripping glass away from the\nhole in the front windshield. He is so desperate to get in the\nvan he rips his hands to shreds. A crowd member suggests to \"push\nit\". He does so and the glass falls through.\nThe passenger side door is opened and Robbie is pulled out by\nthe rioting crowd."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(screams) AHHHHH!!!! RAY!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "ROBBIE?!?! ROBBIE?!?!?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray then screams to the rioting crowd who are now pulling him\nout of the driver's side window."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "NO, JUST WAIT!!! WAIT!! STOP!!! JUST\nSTOP!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "DADDY!!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A man from the crowd runs up to Rachel's window, breaks it, and\ntries to grab Rachel. Ray pulls the man out and throws him back\ninto the crowd."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel!! (grabs guy) GET OUT OF THERE!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray is pushed by the man he just threw and hit's the driver's\nside door. Ray kicks the guy square in the gut which gets him\nback into the crowd."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "DADDY!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray wrestles another man trying to grab Rachel. The man gets\ntossed to the ground. Just as Ray stands up... WHAM!!! Ray is\nhit in the back of the head by a man with a baseball bat. The\nblow was not severe enough to cause life threatening damage to\nRay."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(grasping his head in pain) AHHH!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Another man grabs Ray to try to fight him. Women in the crowd\nyell to \"stop them\" but nobody does so. The man who is strangling\nRay yells to \"get in the car\". Robbie fought off the men who\npulled him out of the car, comes over to Ray's side, and begins\nchoking the man who is choking Ray. Robbie hit's the man's head\nagainst the car. The man releases his grip on Ray, the man and\nRobbie are drug into the rioting crowd beyond frame view.\nA man gets into the driver's seat and tries to start the car."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(through a choking grip) Rachel, get\nout of the car! GET OUT OF THE CAR RACHEL!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray just barely finishes as he is drug off into the crowd beyond\nframe."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "DADDY!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel tries to get out, but there is an overflow of people barreling\ninto the car through the windows. She is surrounded by people\nin the car. Robbie and Ray are getting beat in the crowd.\nRay manages to pull out his gun. He fires off two rounds into\nthe air. The crowd instantly moves away from him. One man yells\n\"take it easy!\" No sign of Robbie."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(pointing the gun at the people on the\nroof of the car) GET OFF THE CAR!! GET\nOFF!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Men start getting off the car to avoid the gun threatening Ray."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(continues) GET OFF THE CAR!! Move!!\nMove!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Realizing Robbie is nowhere in sight...."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Where's my son?!?!"
+  },
+  {
+   "type": "speech",
+   "character": "RIOT MAN 1",
+   "text": "You don't need that, Man!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "WHERE'S MY SON?!?! ROBBIE!!    ....\nROBBIE!!"
+  },
+  {
+   "type": "speech",
+   "character": "RIOT MAN 2",
+   "text": "Put the gun down, man. It's not me!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(still determined to find Robbie) ROBBIE!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray is able to pull Robbie out from the crowd. Robbie has a running\nbloody nose and a badly bruised stomach. He is fighting to catch\nhis breath because he had it knocked out of him."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "DAD!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The camera moves from Robbie to Ray, then pivots on his face\nto reveal a man holding another gun at Ray's head."
+  },
+  {
+   "type": "speech",
+   "character": "RIOT MAN 3",
+   "text": "Okay, man, now listen. Put down the\ngun. I'm taking the car."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "My daughter's in the car..."
+  },
+  {
+   "type": "speech",
+   "character": "RIOT MAN 3",
+   "text": "(shaking the gun nervously) Put down\nthe gun, I'm taking the car."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "All I want is my daughter...."
+  },
+  {
+   "type": "speech",
+   "character": "RIOT MAN 3",
+   "text": "PUT DOWN THE GOD DAMN GUN!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray is scared into dropping his gun on the street. Ray then puts\nhis hands near his head to avoid being shot."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Please, all I want is my daughter."
+  },
+  {
+   "type": "speech",
+   "character": "RIOT MAN 3",
+   "text": "(surprisingly calm) I'm taking the car."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I just want my daughter. Please just\nlet me take my daughter, can I.... All\nI want is my daughter."
+  },
+  {
+   "type": "speech",
+   "character": "RIOT MAN 3",
+   "text": "Yeah. Okay, go ahead, take her, take\nher, yeah, yeah...."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray grabs Rachel out of the car as the riot man gets in the driver's\nseat and closes the door."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Robbie!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie, who has managed to get to his feet, hunched over, walks\nover to Ray. Ray, with Rachel in his arms, and Robbie walk to\nthe diner on the street. The man backs up the car just as the\ncamera pans down to see a man who sees the gun on the street.\nThe man picks up Ray's gun and looks at the man in the van."
+  },
+  {
+   "type": "location",
+   "text": "INT. DINER - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "The three of them are walking to a booth in the diner. Ray, with\nRachel in his arms, is beginning to bleed from his head wound.\nHe walks with a slight limp. Rachel is panic stricken. Robbie\nlets go of his bloody nose and, with both hands, clenches his\nchest in pain. He is still fighting to catch his breath. They\nare all soaked from the rain.\nThey all sit down at the booth. The power is flickering on and\noff. As they begin to relax from the ordeal they just had, gunshots\nare heard. BAM!! BAM!! Ray jumps and catches his head in his\nhands as it throbs. Robbie jumps and flails his arms in pain\nas the jump tightened muscles in his stomach. Robbie turns around\nto see the man with Ray's gun firing at Riot Man 3. BAM! One\nmore gunshot is heard. Rachel scurries over to Robbie who, despite\nhis pain, grabs Rachel and they hug each other seeking comfort.\nThe van drives away.\nRachel sobs as Ray also starts crying because nobody knows what\nto do from here. Robbie looks at Ray for some comfort. He has\nnone.\nWalking Down the Street - Dusk\nThey are walking in a crowd of about 300. Some men share their\nstories of assumption. One man says... \"Europe's got it the worst....\"\nwhile another man says \"We've got it the worst......\" while some\npeople \"don't give a shit who it is.....\""
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Looks like the power's still on here."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yeah, power's still on because nothing\nbad has come up from under the ground."
+  },
+  {
+   "type": "stage direction",
+   "text": "A rail road crossing guard stick comes down as the bells and\nlights start going off. The people stand behind the guard just\nlike cars. They wait.\nA train approaches and is blowing off fireballs from an encounter\nwith a robot. The entire train is flaming and burning. The train,\nas it whisks by is releasing pieces of red hot ash. The bars\ngo up as the train completes it's crossing. The people continue\nwalking."
+  },
+  {
+   "type": "location",
+   "text": "EXT. FERRY DOCK - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Random, pointless music is playing over the PA system as people\nare being herded by soldiers onto a ferry boat. A blood bank\nwoman says over a megaphone..."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "Unless you are O-positive and Rh negative,\nthank you but we already have more blood\nthan we can use. Again... (repeats message)"
+  },
+  {
+   "type": "stage direction",
+   "text": "Shots of the herded people boarding the ferry.\nSolders are heard and seen saying \"this way\" and \"keep it moving\nfolks\"."
+  },
+  {
+   "type": "speech",
+   "character": "HARBOR MASTER",
+   "text": "Please move forward calmly, the boat\ncan make more than one trip. Please\nmove forward calmly, take your time,\ndon't rush. (repeats)"
+  },
+  {
+   "type": "speech",
+   "character": "SHERYL",
+   "text": "Ray! RAY?!?!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Sheryl?"
+  },
+  {
+   "type": "speech",
+   "character": "SHERYL",
+   "text": "Yeah."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray and Sheryl hug as they are re-united."
+  },
+  {
+   "type": "speech",
+   "character": "SHERYL",
+   "text": "Oh, my gosh, are these your kids?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yes, this is Rachel."
+  },
+  {
+   "type": "speech",
+   "character": "SHERYL",
+   "text": "Hi, I'm Sheryl, this is my daughter,\nNora."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray, Sheryl, Nora, and Rachel exchange handshakes."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Hi, I've heard about you, Nora."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel looks at sea gulls that are flying rather fast away from\nthe boat. Robbie meets Sheryl with Ray."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "This is my son, Robbie."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Hi Sheryl."
+  },
+  {
+   "type": "speech",
+   "character": "SHERYL",
+   "text": "He's just like dad."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel continues watching the gulls."
+  },
+  {
+   "type": "speech",
+   "character": "SHERYL",
+   "text": "How you doing? You look like shit."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel is now fully into watching the gulls. Ray, Sheryl, and\nRobbie are engaged into small talk. Rachel sees the gulls flying\naround something over the horizon behind the city."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(to herself) The trees are funny."
+  },
+  {
+   "type": "speech",
+   "character": "HARBOR MASTER",
+   "text": "We're gonna move some cars out of the\nway to make more space. Give us a few\nminutes."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel watches the trees begin to be flattened and moved as something\ngets brighter on the horizon. Rachel grabs Ray's finger and he\nrealizes that she wants him. Ray turns around to see what Rachel\nwants as he too sees the thing on the horizon. Robbie sees Ray\nlooking that way, so he too looks that way. A robot puts it's\nlast foot down with a thud and looks at the dock full of people.\nIt makes the vibration noise which gets the attention of everybody.\nThe crowd begins overrunning the soldiers and cramming onto the\nship for safety. The captain sees the overflow and prepares the\nship for takeoff to try to stop the overflow."
+  },
+  {
+   "type": "speech",
+   "character": "CAPTAIN",
+   "text": "CAST OFF!!! GET THAT RAMP UP!!!"
+  },
+  {
+   "type": "speech",
+   "character": "HARBOR MASTER",
+   "text": "CAST OFF NOW!!! GET THAT RAMP UP!!!\n(to soldiers) No more people! No more\npeople! We're taking the ramp up."
+  },
+  {
+   "type": "stage direction",
+   "text": "The soldiers create a blockade which holds back the crowd for\nquite a while. As the crowd starts to collect, the soldiers start\nto bulge forward from people pushing them. Three robots now switch\non their lights to look over the crowd of people. A moving crowd\nof about 1,000 people is now collecting on the soldiers who so\nfar are withstanding.\nRay, now in the front next to a soldier, tries to get them to\nlet him and his family through. They say there is no more room."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(to Sheryl) You just stay with me! Grab\nmy jacket!"
+  },
+  {
+   "type": "speech",
+   "character": "SHERYL",
+   "text": "I got you Ferrier. (trips) oh, Jesus!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "You okay? Come on!"
+  },
+  {
+   "type": "speech",
+   "character": "SHERYL",
+   "text": "Jesus. Oh my god!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Come on."
+  },
+  {
+   "type": "stage direction",
+   "text": "The harbor master hit's the switch to start the ramp motor to\nbegin folding up the ramp. Soldiers shove empty cars off the\nramp.\nSheryl is knocked around by a few people and looses grip of Ray's\njacket."
+  },
+  {
+   "type": "speech",
+   "character": "SHERYL",
+   "text": "Oh, Ray!! RAY!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They run faster and Sheryl falls farther behind. Robbie makes\na grab for her hand but a soldier stops Sheryl just short."
+  },
+  {
+   "type": "speech",
+   "character": "SHERYL",
+   "text": "NO, I CAN GO WITH HIM!!!  RAY!!!! NO!!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The ramp begins lifting as a few people make one last jump and\nlatch on to it. Ray looks back for Sheryl."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "SHERYL?!?!? SHERYL!!!!"
+  },
+  {
+   "type": "speech",
+   "character": "SHERYL",
+   "text": "RAY!!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "There's room on the boat!!!"
+  },
+  {
+   "type": "speech",
+   "character": "SHERYL",
+   "text": "LET US THROUGH GOD DAMN IT!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "THERE'S STILL ROOM ON THE BOAT!!! THERE'S\nROOM ON THE BOAT!!! THERE'S ROOM ON\nTHE BOAT!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel screams as Ray runs to the bow with Rachel in his arms.\nRobbie is soon to follow..."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "ROBBIE?!?!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Stay with me! Stay with me Robbie!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie runs right past them and up to the captain's deck."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "ROBBIE!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie, panting hard, looks at the inclining ramp and sees there\nare still people hanging on to the back side of the ramp. He\nstarts running to the stern of the ship.\nThe captain pushes the throttle all the way full. The propellers\nstart so fast they spray water all over the people still at the\ndock. Pulling away at it's ties to the dock, the ship begins\npulling away."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(seeing Robbie running to the stern)\nRobbie? Robbie!?!?!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Robbie!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "ROBBIE!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie ignores them as he jumps onto the grate of the folded\nup ramp. Climbing to the top, he begins helping those who are\nhanging on the back side of the ramp."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Here, grab my hand!! Hold on! I got\nyou! HOLD ON!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Camera turns or Ray's face. Ray looks at Robbie helping people\nin admiration and proud ness."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "TAKE MY HAND!! TAKE IT!!!"
+  },
+  {
+   "type": "location",
+   "text": "INT. CAPTAIN'S CONTROL ROOM - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "The captain sees some sort of whirlpool sucking water down into\na hole. The ship begins to slowly turn toward the hole, being\nsucked in."
+  },
+  {
+   "type": "speech",
+   "character": "CAPTAIN",
+   "text": "Oh, my god!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Passengers rush over to the starboard railing where a robot emerges\nfrom the whirlpool. WOOSH!!! Hundreds of gallons of water are\ntossed up with the robot. The water in the air turns to snow\nas it falls on the ship. The robot's engines howl in the air."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(fearing danger to his son) ROBBIE!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The robot's claws begin pushing the ship making it lean to one\nside and finally tip over on it's side. Robbie is already running\ntowards Ray. At the turn of the ship, the three go into the water.\nCars start coming towards them. WOOSH!!! A car comes right for\nthem. SPLASH!!! The car hit's the water where they are, instantly\npinning Robbie and Ray to the front of it. Rachel is holding\non to Robbie's back, also going down.\nThe people in the car are screaming as the car fills with water.\nAs the ship completely capsizes, people are thrown or washed\ninto the water. Cars sink down, people float and the ship bobs\nin the water. Ray is able to un-pin himself and pulls Robbie\nout. They all begin swimming to the surface. Rachel lags behind\nand Robbie grabs her and helps her up.  At the surface, they\nmeet. A ship propeller at full power. They begin to swim away\nfrom it. Claws from the ship over head are grabbing people and\npulling them into the robot's holds."
+  },
+  {
+   "type": "location",
+   "text": "EXT. BEACH - DARK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray is heaving Rachel up to shore. Robbie is not far behind.\nThey are all fighting to get their breath after swimming for\nso long. Ray can no longer haul Rachel up the beach."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Help me. Help me with her."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(gagging) Okay."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie almost slips as he gags, still fighting for breath.\nPulling each other up the hill...."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Don't stop. Don't stop."
+  },
+  {
+   "type": "stage direction",
+   "text": "Alert sirens can be heard coming from the city.\nRay pulls the two of them."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "(yells in pain) AHHH."
+  },
+  {
+   "type": "stage direction",
+   "text": "They all lay on the hillside, gasping for air. In the distance\nthey look... Two robots are still picking people up out of the\nwater. Two more robots have joined and are picking up people\noff the streets. Many people scream.\nWith jaws clattering, Rachel looks toward the other hillside\non the other side of the river. Shivering Ray and Robbie look\nthere with her.\nTHREE MORE robots are on the opposite hillside blasting people\nwith their disintegrator beams. Many more people scream. Rachel,\nin fright, runs towards the bushes behind Ray. Ray sees her,\nand runs with her. Robbie runs with them. They stop and squat\ndown as they see the top of another robot coming over the hill\nto join the three.\nRobbie, running, with clenched teeth, stops. His jaw drops as\nwe are able to see hundreds of thousands of articles of clothing\nfalling from the sky. They continue running through the woods\nwhere clothes fall like snow.\nPasture Fence Line - Dark\nRobbie is walking 5' ahead of Ray and Rachel along a fence line\nof a pasture. Gunfire is seen and heard over the hill about 500\nyards away. Robbie, who always wanted to help in the fight, begins\nwalking faster toward the gunfire."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Robbie, slow down."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie follows the fence line and walks a little faster."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Robbie, slow down!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie, who is coming closer to the hill, sees army trucks rolling\ndown the road and up the hill. Seeing this, Robbie walks into\na slow run along the fence line. Ray and Rachel try to keep up."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Robbie."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Robbie. We got to stay together Robbie."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie, getting closer, runs faster, faster."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Robbie! Stay together! ROBBIE!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray and Rachel duck as a missile comes EXTREMELY CLOSE to their\nheads. Jets speed by them overhead. Rachel screams."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "GET BACK HERE!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie, in a full scale run, runs with the army trucks that have\nnow taken to the hills. Ray and Rachel run as fast as they can\nto try to stay with Robbie."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Robbie!! NO!! ROBBIE!!! COME BACK!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie runs with the trucks with all his might. Ray and Rachel\nare now searching for him."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "ROBBIE!!! (sets Rachel down next to\na tree) NOW DON'T MOVE! FOR GOD'S SAKE,\nSTAY RIGHT HERE! I'M COMING RIGHT BACK!\n(calling out for him) ROBBIE!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray sees Robbie about 20' ahead of him."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "ROBBIE!!! ROBBIE!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie is held back by two soldiers. Robbie gets thrown back\nby them where Ray grabs him and pins him to the ground. Robbie\nfights to get back up."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "WHY ARE YOU DOING THIS???"
+  },
+  {
+   "type": "stage direction",
+   "text": "Soldiers are blasting everything they have to something over\nthe hill. Radio people are telling their officers \"no effect\non target\".\nRobbie is watching all he is able to see while Ray tries to get\nhis attention on him."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "LISTEN TO ME! TURN AROUND! I WANT YOU\nTO LISTEN TO ME!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie ignores him and continues watching artillery blast over\nthe hill.\nRay gets fed up with Robbie. He grabs his shoulders and flips\nhim over on to his back. Robbie looks at Ray in fright that he\ndid that. Ray grabs his coat shoulders, and climbs on top of\nhim, pining him down to the ground."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "LISTEN TO ME!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel watches helicopters fire missiles simultaneously over\nthe hill."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "DON'T DO THIS! I LOVE YOU!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "I NEED TO BE HERE! I NEED TO SEE THIS!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I KNOW IT SEEMS LIKE YOU HAVE TO BUT\nYOU DON'T!!!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "LET ME GO!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "YOU DON'T!!!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "PLEASE LET ME GO!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel is approached by people. They think she's alone so they\ntry to talk her into coming with them (ad lib)."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I'M NOT LETTING YOU DO THIS!! YOU CAN\nHATE ME....."
+  },
+  {
+   "type": "stage direction",
+   "text": "Robbie tries to fight to get up but Ray keeps him pinned to the\nground."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "... YOU CAN HATE ME. BUT I LOVE YOU!!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "LET ME GO PLEASE!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I'M NOT LETTING YOU DO THIS!!!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "DAD!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray sees the couple trying to get Rachel to go with them. For\na second, Ray doesn't know what to do."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Just listen to me!"
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "I need to be here! I want to see this!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Wait, stay. Stay for Rachel. Stay for\nyour sister."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Please let me go! You need to let me\ngo."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray and Robbie are silent for what seems to them like forever.\nRay looks to Rachel who is being carried away by the couple.\nRobbie manages to turn back over to his stomach. After enough\ntrying, Robbie is able to squirm out of Ray's grasp on his shoulders.\nRobbie crawls out of Ray's grasp and stands up. They stare at\neach other for a while and Robbie begins running over the hill.\nRay runs over to Rachel to get her back from the couple."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "GET OFF!!! I'M HER FATHER!!! I'M HER\nFATHER!!!"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "We thought she was alone... we...."
+  },
+  {
+   "type": "stage direction",
+   "text": "She doesn't finish as she scurries away. Ray looks at the hill\nwhere the soldiers were firing at... A FLAMING army truck rolls\nover the hill."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Robbie?!?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Two more trucks come over the hill ablaze. Suddenly... BOOM!!!\nA ring of mine charges go off at the peak of the hill. The explosion\nblast is almost big enough to knock Ray off of his feet."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "ROBBIE!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "By now, Robbie has run over the hill and is long out of site.\nA robot that appears to be on fire comes slowly rising over the\nhill. Ray makes a run for it down the hill. We can see three\nrobots now rising over the hill. Missiles and bullets are being\nfired at them as their shields block all the fired artillery."
+  },
+  {
+   "type": "location",
+   "text": "EXT. HARLAND'S HOUSE - CELLAR DOOR - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Harland lives in the basement of his house about 300 feet away\nfrom the hill that the robots came over. He is holding a rifle\nas a signal for anybody who can see him."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "Over here! OVER HERE!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray and Rachel run towards him."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "Hurry!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The three of them scurry into the basement. Ray and Rachel run\ninto the main room while Harland proceeds to close the cellar\ndoors. Gunfire can be heard alongside the screams from people.\nLights flash through the cracks in the walls and door."
+  },
+  {
+   "type": "location",
+   "text": "INT. HARLAND'S HOUSE - BASEMENT - DUSK - CONTINUOUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Harland walks up to the lantern hanging on the wall and looks\nat Ray and Rachel. His face, half lit looks medieval with the\nclothes he wears.\nHarland grabs the lantern and carries it over to where Ray and\nRachel are huddled shivering in their damp clothes."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "(to Rachel) You all right?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel does not respond most likely due to shock."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "(to Ray) And what about you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray looks up at him and looks at the lantern. He is still heard\nmuttering \"Robbie\" very quietly.\nHarland moves a wheel barrel as rats are seen scurrying about\non the floor. The army platoon has gone far enough over the hill\nthat gunfire can no longer be seen or heard."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(while Harland moves the wheel barrel)\n(to Rachel) There you go. Is that comfortable?\nI need you to close your eyes now, okay?\nYou need some sleep."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel's face is pure white with some red around her eyes."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Dad?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray already knows what she is going to ask."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "He's gonna meet us. Hey, Robbie's gonna\nmeet us, Rach, In Boston, at your grandma's."
+  },
+  {
+   "type": "stage direction",
+   "text": "Harland is watching them through fallen out boards in the wall."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(about ready to cry) What do you think\nmom's doing right this minute?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Harland sits down on the stairs to listen to their conversation.\nHe begins sharpening a shovel with a file."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Mom? She's in Boston. Waiting. And I\nknow she's not sleeping 'cause she is\nso worried about you. (trying to comfort\nher) ... And she's in grandma's kitchen,\nand she's making that awful tea that\nshe makes. And they're all just... ...\n...there all just counting the minutes\nuntil they see you again."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel is crying because she misses Robbie and her mom. Ray sees\nthe first place ribbon she keeps carrying around and begins to\ninvestigate what it is."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(picking up the ribbon) What is this?\nWhat... What is this?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "I won."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "You won?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "The walk, trot, and canter. Third place."
+  },
+  {
+   "type": "stage direction",
+   "text": "She begins to feel dreary..."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Sing me \"Lullaby and Goodnight\"?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(shakes his head in displeasure because\nhe can't think of it) I don't remember\nthat one."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Sing me \"Hushabye Mountain\"?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I'm sorry Rach, I don't know that one\neither."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel turns over (her back to Ray) because she realizes that\nit is a lost hope to get a song out of him. Ray thinks for a\nmoment and remembers an old nursery rhyme he was taught."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(begins to sing) I'm not bragging, baby.\nSo don't put me down. Because I've got\nthe fastest set of wheels in the town.\nSomething comes up to me that don't\neven try...."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel turns back over as Ray continues singing..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(continues singing) ... If I had a set\nof wings, man, I know she could fly.\nShe's my little deuce coupe. You don't\nknow what I've got... just my little\ndeuce coupe. (now whispering) You don't\nknow what I've got...."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel has fallen asleep. Ray kisses her on the forehead. Harland\ntaps two glasses together and says..."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "Peach schnapps."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray gets up and begins walking towards him."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "Disgusting, I know it. I found a whole\ncase of this shit."
+  },
+  {
+   "type": "stage direction",
+   "text": "Harland hands Ray a glass as they both sit down."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Thank you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Silence falls over for a period."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "I'm sorry about your son."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "We got separated... he's gonna meet\nus in umm... in Boston."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray drinks the schnapps as he begins to ask..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Did you... (pauses) ... (whispers) Did\nyou loose anybody?"
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "All of them."
+  },
+  {
+   "type": "stage direction",
+   "text": "Another pause."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "(introduces himself) Harland Ogilvy."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(introduces himself) Ray Ferrier."
+  },
+  {
+   "type": "stage direction",
+   "text": "They shake hands."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "I got water... Food.... Enough for weeks.\nYou're welcome to stay, both of yous."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray gets up from the conversation."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I'm sorry. I'm gonna get some sleep."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "(speaks loud enough to get Ray to pause)\nThose machines, those tripods they got...\nThey buried them... right under our\nfeet. Since before there were even people\nhere. They've been planning this for\na million years. We're beat to shit."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray looks at Harland sternly because he is afraid Rachel may\nhear what he may say next."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Please, my daughter."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "Think about it.    ...    They defeated\nthe greatest power in the world in a\ncouple days. Walked right over us.\n....    And these are only the first,\nthey'll keep coming. This is not a war\nany more than there's a war between\nmen and maggots. This is an extermination."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray walks over to where Rachel is sleeping."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "(feeling he's not grasping the reality)\nAre you afraid?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Of course I am."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "(going on) I been around death plenty.\nDrive an ambulance in the city. Well,\ndrove and ambulance in the city. That's\nall over now, huh?    ....   You know\nthe people who make it Ray? The ones\nthat don't flatline before the hospital?\nIt's the ones who keep their eyes open,\nkeep looking at you, keep thinking.\n....    There the ones who survive...\n....   We can' t loose our heads\nRay.   ....   Running, that's what'll\nkill you.    ......     I'm dead set\non livin'."
+  },
+  {
+   "type": "stage direction",
+   "text": "He pauses and begins chuckling at his own joke."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "Hah. Dead set on Living."
+  },
+  {
+   "type": "stage direction",
+   "text": "Harland walks back over to the place where the conversation first\nstarted."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Thank you for taking us in."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray lies down next to Rachel as Harland finishes..."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "We're not going to be exterminated."
+  },
+  {
+   "type": "stage direction",
+   "text": "The ground starts shaking from robots walking around outside.\nRay gets back up just as BOOM!! A small piece of the corner of\nthe basement collapses from all the vibration."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "(with shotgun at side) It's okay! Come\non, I wanna show you something!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They both are waling towards a window."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "We're gonna fight them Ray. They gotta\nhave a weakness. Come on, take a look."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray and Harland see two robots spraying vine like strands out\nof a hole on the bottom of the ship onto the ground."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "Somehow they killed a few of these things\nin Osaka. That's what I heard. You telling\nme the Japanese can figure it out but\nwe can't?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray goes over to Rachel and picks her up to take her somewhere\nelse."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "We can do it. We can get 'em. We can\nfigure it out."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray puts the now wide awake Rachel in a chair."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Stay right there!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray opens up a window guard to see two robots skimming the ground\nalmost as if they are tilling up the soil. He now understands\nthat robots do this on a regular basis."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "I have a daughter! Why did you bring\nus here?"
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "To fight 'em together, Ray.   ....\nNow we'll be the ones coming up from\nunderground. When the time is right,\nwe'll take 'em by supries, the way they\ntook us. We'll take 'em by surprise."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray puts his hands over his face as he realizes he is staying\nwith an insane man."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "We're right under their feet, Ray. Right\nhere, under their feet."
+  },
+  {
+   "type": "location",
+   "text": "INT. HARLAND'S HOUSE - BASEMENT - NEAR DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray looks at the mysterious red plant that is growing wildly.\nHe feels it and them snaps a piece of it off of a pipe. He examines\nit closely as he walks over to the window where lights are beaming\nin and out as the robots work. He takes another piece of a wall\nand studies that one.\nRay hears a hovering craft over his head. A light flows over\nthe roof boards that streams down to the other end of a board\nhall in the basement. Harland is sitting on the stairs with Rachel."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "You miss your mommy? I had a little\ngirl nearly your age. You know, if anything\nhappens to your daddy, I'll take care\nof you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray is very angry that Harland is saying things like that to\nhis daughter."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel runs towards him and he points to stand beside him. They\nboth stare at Harland, on the stairs, in dismay."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(distinctly angry, but not yelling)\nYou don't have anything to say to her,\ndo you understand? If you want to talk\nto somebody, or ask somebody a question,\nyou ask me!"
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "(also angry at Ray) What exactly is\nyour plan, Ray? I know what I'm gonna\ndo. How about you? You gonna sit here,\nwait for them to come get you? Is that\nyour plan?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Harland walks around to different parts of the basement doing\nmiscellaneous things."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "Maybe you want to get caught. Couple\nof days hiding in a basement too much\nfor you, I bet. You'll probably turn\nyourself right in!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The robots outside stop moving. All the rumbling stops."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Listen. It stopped."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "(paying no attention) Maybe you'll be\nokay. Maybe you'll get lucky and they'll\ntrain you as their pet. You know, train\nyou, feed you, teach you how to do tricks..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(yells) WILL YOU SHUT UP AND LISTEN?!?!?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Pieces of wood fall from the hole as a robot camera comes floating\ndown into the hole. Ray hides behind the stairs. The camera eye\nopens and lights turn on for it.\nRachel is hiding as well. The camera looks around the couch.\nRay moves as to not be seen by it moving around the couch. It\nsees a rat and quickly follows it for a few seconds. Ray and\nHarland exchange looks as Ray runs toward Rachel to hide with\nher.\nThe robot continues checking out the basement. Harland grabs\nan axe to cut off the camera from it's limb. Ray shakes his head\nno to get him to stop. Ray silently does expressions to convince\nhim not to.\nHarland goes towards ray so they can hide together. Harland almost\nmakes it before he thuds against a cabinet full of glass containers\nwhich clang together. The robot hears this and turns around toward\nthe noise. They run to a different spot.\nRobot gets closer...\nRay puts a mirror in front of the doorway to trick the robot\ninto seeing another robot. The camera looks over the mirror and\nsees nothing.\nIt turns around just as... Rachel's boot slides, making a noise.\nThe robot views into the boot that is hanging out. It looks behind\nthe mirror to find just a boot sitting there. Ray, Rachel and\nHarland are in the middle of the basement. A sight of relief\ncomes as the robot camera exit's out of the hole.\nNow the actual aliens come into the basement. Harland turns the\nlantern out and runs to hide. The aliens look around the basement.\nThey look at, smell, and touch various different things throughout\nthe basement. Ray, Rachel, and Harland scurry to different parts\nof the basement.\nHarland loads his gun and aims it to fire at one of the aliens\nbut the gun is pulled back by Ray."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(dead silent) Give me that!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray and Harland are in a silent fight for the gun. They both\nhave their hands on it. The aliens continue looking around.\nRay and Harland are both sweating bullets fighting for the gun.\nStill silently.  Harland pins Ray against the wall and forces\nhim down to the ground to try and break the gun free of his grasp.\nThe aliens are seen taking and smelling a photograph from a box.\nRay lets go of the gun and Harland jerks it away from him just\nas the vibration like noise is heard from the robot. The aliens\nscurry out through the open hole.\nHarland comes down to Ray, now sitting on the floor, and says...."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "You and I... I don't  think we are on\nthe same page."
+  },
+  {
+   "type": "location",
+   "text": "INT. HARLAND'S HOUSE - BASEMENT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The vines ray looked at are growing at a phenomenal rate along\nthe concrete slab under the window. Robots are spraying a red\nmist out of the back of their ships. Ray holds his hand in the\nmist that is entering the window.  After a moment.... Ray retracts\nhis hand and turns it over to reveal what appears to be blood."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "RAY!!! RAY!!!! RAY!!!! RAY!!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "KEEP YOUR VOICE DOWN!!! QUIET!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Harland turns around and his whole face is covered in spots of\nblood.\nThey both turn back around then Harland runs. Ray watches a man\nbeing set down, fighting to be let go. A needle like object comes\ndown and stabs the man. It then pumps the blood out of him. Ray\nhas a horrified look on his face."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "(repeats for about 2 minutes) Not My\nBlood!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray realizes they will have the same fate if he keeps yelling.\nThen... the robots stop because they hear him. Ray runs to Harland\nwho is digging some sort of hole."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Stop it! Stop it! You gotta stop it!\nYou gotta be quiet or they'll hear you!"
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "(with an insane expression and tone)\nThey drink us!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Please, they'll hear you!"
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "Then they spray us, like a fertilizer!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "You gotta be quiet!"
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "Drink US and...."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "They're gonna come back down here!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Harland has mentally lost it now."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "Then they spit us out all over their\ngoddamn red weeds!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(no longer whispering) Do you understand\nwhat I'm gonna have to do? I can't let\nmy daughter die because of you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Harland pays no attention to him."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "This tunnel will get us to the city.\nWe'll have our own tunnels there. Ready\nMade! Subway, see what I'm saying!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Stop it!"
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "You can hide a whole army down there!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Stop it!!"
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "... We'll go underground!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "STOP IT!!!"
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "Sneak attacks at night!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "YOU STOP IT!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray grabs him by the arm just as he hits ray in the forehead\nwith a shovel. Ray releases his grip and lies on a dirt pile\nnext to Harland."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "We're the resistance Ray! They can't\noccupy this country! Occupations always\nfail! History's taught us that a thousand\ntimes. This is our land."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray runs up the stairs of the room to Rachel standing calmly\nin the middle of the basement."
+  },
+  {
+   "type": "speech",
+   "character": "HARLAND",
+   "text": "(continues) ... We eat it, we breathe\nit, only we can live on it! They can't\nsurvive here Ray. They weren't built\nfor it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray hugs Rachel because he knows what he has to do.\nHarland goes on saying odd things as Ray gets Rachel prepared\nfor what he has to do.\nRay puts a black cloth over Rachel's eyes which makes her breathing\ngo erratic."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "What are you doing?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Whatever you hear... don't take this\noff."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Dad??"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rach?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Dad?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "What was that song... that lullaby I\ndidn't know?"
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Hushabye Mountains"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Yeah. Please, Rach, sing it."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(begins to sing) ... A gentle breeze...."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Don't stop."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "... On Hushabye Mountain..."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "That's my girl."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "... For far away my baby goes..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray kisses her hands and has her put them over her ears. Then\nwalks back to Harland. He is still digging and chanting \"not\nmy blood\""
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "... it fills the sails ..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Harland stops and sees Ray standing in the doorway."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "... of boats that are waiting ..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray closes the door behind him as he steps in."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "... Waiting to sail your worries away"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel hears screams and grunts as the two men fight behind the\ndoor."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "... So close your eyes. You're on Hushabye\nMountain ..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel's voice begins trembling as she holds her ears tighter."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "... Wave goodbye to the cares of the\nday and watch your boat, from Hushabye\nMountain, sail far away from Lullaby\nBay."
+  },
+  {
+   "type": "stage direction",
+   "text": "All is silent for a while. Ray opens the door and walks out.\nRachel releases her hands and takes off the blindfold. Ray is\nsitting on the stairs.\nRachel sits in his lap and puts his arms around her. They both\nsit there in silence."
+  },
+  {
+   "type": "location",
+   "text": "INT. HARLAND'S HOUSE - BASEMENT - DUSK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray and Rachel are sleeping on the couch. As we view down from\nRay's face we find that Rachel is wide awake for some reason.\nShe sits up and...."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(screams) AHHHH!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A robot camera is 1' away from her face. Rachel runs to the wall,\nstill screaming as ray hit's the camera with his hands. The camera\nhit's the ceiling and shakes it's self off of debris.\nRay begins blasting the axe he had in hand into the camera attachment\nline. Rachel screams as he hit's the line. Over and over and\nover. Rachel runs up the basement stairs. Ray continues hitting\nit and it finally pulls away. The camera, still attached by a\nhair, hits some wood planks and is pulled out of the hole."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel???"
+  },
+  {
+   "type": "stage direction",
+   "text": "No response for a few seconds, then Rachel lets off a gut wrenching\nscream."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "RACHEL!!!  (to himself) Oh, my god,\nno!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He runs up the stairs to search for her in the house."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel? Rachel? (looks up the stairs)\nRachel??"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray opens the front door to find red vines coated in blood in\nthe doorway. He quickly brushes them down stepping out the door."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(searching) Rachel, make some noise\nbaby. Rachel??"
+  },
+  {
+   "type": "stage direction",
+   "text": "He begins walking down a path to look for her farther out."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel? Rachel? Talk to me baby, come\non!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He gets no response from Rachel. All is dead silent accept for\nhim."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel?!? RACHEL?!?!?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray sees an entire field of blood coated red vines beyond the\nhill."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "RACHEL!!!! RACHEL!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A robot's lights turn on to him as a food lands close enough\nto him to blow him back. One of the robot's grabbing claws comes\nafter Ray. He hides in a truck. The claw breaks through the glass,\ngrabs the car, and flips it, causing it to roll about 3 times."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(screams) AHH!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Now in the car, lying upside down, he hears Rachel scream. He\nlooks and Rachel is standing at the top of a hill.\nThe robot centers above her and begins to grab her with a claw.\nRay runs towards her to try and do what he can to stop it."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "(screams) AHHHHH!!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "NO NO NO!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The robot blasts through a building. Ray is right behind the\nfoot. He runs into an army vehicle and finds a belt full of grenades.\nHe takes on off, removes the pin and throws it at the robot."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "HEY!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "It hit's the robot's shields and the robot turns right around.\nIt eyeballs Ray for a moment and picks him up by a grabbing claw."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(screams in pain) AHHH!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He is thrown into a cage with about 30 other people in it as\nwell. The gate closes on the top as he is thrown in. The camera\nshows he is in one of two cages. People scream and cry in confusion.\nRay spots Rachel sitting on the side of the grate."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "RACHEL!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He goes towards her just as the door opens, it makes a sound\nand a grabbing claw comes out of a hole on the robot. Ray falls\ndown (luckily), it grabs another person and sucks him into the\nship. The same happens in the other cage."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(reaching Rachel) Rachel. (no response)\nRachel."
+  },
+  {
+   "type": "stage direction",
+   "text": "She seems to be frozen."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Dad?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray goes to speak just as BOOM! The grate shifts, tossing all\nthe people around and the door opens to take another person up.\nRay ducks down with Rachel but this is noticed by the grabbing\nclaw. He is swept up by it. Rachel holds on to his neck to go\nwith him. But then, Ray sees his belt of grenades. He prigs Rachel's\nhands off of him and grabs the grenades. A soldier sees this\nand latches onto Ray's arm."
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER 2",
+   "text": "Pull me! Pull me!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "People all start latching on to the soldier and begin heaving\nhim and Ray down. They loose ground until more people join."
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER 2",
+   "text": "We got him! Keep pulling! Pull me!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray is let loose by the clamp and they all fall back into the\ncage. Ray spits out two grenade pins out of his mouth. This is\nseen by the soldier."
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER 2",
+   "text": "EVERYBODY DOWN!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Hardly anybody gets down as the inside of the robot explodes.\nWe can see the robot exploding on the inside. It breaks doors\nand fluid stars spilling out of it. The robot releases it's cages\nand they fall into a tree. Splitting open. People promptly climb\nout.\nOnce the robot falls to the ground, Rachel looks at Ray in a\nway that meant how did you do that.\nBoston City Limits - Freeway - Day\nRay walks with Rachel down the road as soldiers are ushering\nthem to \"keep moving.\" The crows are now eating the red plant\nwhich appears to be dying rapidly.  Ray picks up a piece, of\ndead plant."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "What happened to it?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray crumples the plant in his hand. It turns to dust and blows\naway."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "It's dying."
+  },
+  {
+   "type": "stage direction",
+   "text": "Watching the dust, they walk along to find a robot lying half\nstruck into a building."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "What happened?"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER 3",
+   "text": "I don't know, something's happening\nto them. Please keep moving."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray goes up to another soldier for information."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Something's happening to them?"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER 4",
+   "text": "Go. Go. Just keep moving, sir."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray asks another soldier down the road for information."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Excuse me, excuse me, what happened\nhere? You guys take it down?"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER 5",
+   "text": "No sir, it was behaving erratically,\nwalking in circles then it went down\non it's own about an hour ago. (to people)\nNow let's keep moving, don't stop do\nnot stop! Keep moving!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rachel and Ray are walking down the road with soldiers and other\npeople."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "How is it dead all by it's self?"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "Rachel, I'm not sure."
+  },
+  {
+   "type": "stage direction",
+   "text": "Seeing another robot, one soldier motions to get into the water\ntunnel. Other soldiers make signals to get set up for defense\nif necessary. Everyone gets into the tunnel. A soldier can be\nheard telling everyone \"calm down and get in the tunnel\".\nRay notices that birds are flying over AND LANDING ON the robot.\nThe robot's shields are down. As he goes to tell someone, the\nrobot makes the viberating sound."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(to a soldier, during the robot noise)\nLOOK AT THE BIRDS!!!"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER 6",
+   "text": "I CAN'T HEAR YOU!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "LOOK AT THE BIRDS!!!"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER 6",
+   "text": "I CAN'T HEAR YOU!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(louder) LOOK AT THE GOD DAMN BIRDS!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The soldier looks at them and doesn't get what Ray's getting\nat. He looks back at Ray. The noise continues erratically as\nif the robot is fighting to stay alive."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "NO SHIELDS!!!"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER 6",
+   "text": "(motions and says) I CAN'T HEAR YOU!!!"
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(pointing) NO SHIELDS!!!"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER 6",
+   "text": "(now getting it) (to the soldiers) THE\nJAVELIN'S THE KEY! LOAD THE GUSTAV,\nIT'S GONNA BE A TOUGH KILL!!! LET'S\nGO!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray gets in the tunnel as all the soldiers come running out."
+  },
+  {
+   "type": "speech",
+   "character": "RAY",
+   "text": "(to the people in the tunnel and Rachel)\nIt's safer in here!"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER 6",
+   "text": "LETS GO!!! BRIGN OUT THE JAVELIN!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Soldiers scurry to get set up and they hurriedly fire missiles\nat the robot. The first missile hit's the grabbing claws and\nknocks them off. A few more shots and the robot collapses into\na nearby factory. The factory explodes and the robot grinds to\na halt on the ground. They check it to be clear as an alien falls\nout of the door. It quickly dies on site."
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER 6",
+   "text": "IT'S CLEAR!"
+  },
+  {
+   "type": "stage direction",
+   "text": "We watch the alien turn to stone as it dies.\nBoston - Walking Down Street near Mary Ann's Mother's house -\nDay\nMary Ann walks up to the front door and sees Ray walking down\nthe street with Rachel in his arms. She flutters open the doors\nand she and Rachel run towards each other on the street. Mary\nAnn begins crying."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "MOM!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They hug each other crying.\nMary Ann looks at Ray who is still standing in the middle of\nthe street."
+  },
+  {
+   "type": "speech",
+   "character": "MARY ANN",
+   "text": "(just barely hearable) Thank you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mary Ann's parents come out of the door. The mother has a shocked\nlook on her face. Tim is behind them.\nRay's eyes and face perk up as we see ROBBIE coming down the\nfront steps towards him."
+  },
+  {
+   "type": "speech",
+   "character": "RACHEL",
+   "text": "Robbie?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ray and Robbie take a good look at each other and Robbie finally\nmutters with a dry throat."
+  },
+  {
+   "type": "speech",
+   "character": "ROBBIE",
+   "text": "Hey dad!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They hug each other in thankfulness for each other's survival.\nScreenshot of a germ in a water droplet on a bud on a tree"
+  },
+  {
+   "type": "speech",
+   "character": "NARRATOR",
+   "text": "From the moment the invaders arrived,\nbreathed our air, ate and drank, they\nwere doomed. They were undone, destroyed,\nafter all of man's weapons and devices\nhad failed, by the tiniest creatures\nthat God and his wisdom, put upon this\nearth. At the toll of a billion deaths,\nman had earned his immunity, is right\nto survive among this planet's infinite\norganisms. And that right is ours against\nall challenges, for men do not live\nnor die in vein."
+  },
+  {
+   "type": "stage direction",
+   "text": "FADE OUT TO BLACK\nTHE END\nRoll Credits"
+  }
+ ]
+}

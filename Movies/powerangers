@@ -1,0 +1,5699 @@
+{
+ "movie_url": "https://imsdb.com/scripts/Mighty-Morphin-Power-Rangers-The-Movie.html",
+ "movie_title": "power rangers",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "MIGHTY MORPHIN POWER RANGERS: THE MOVIE\nREVISIONS BY ARNE OLSEN\nDIRECTED BY BRYAN SPICER\nREVISED DRAFT OCTOBER 31 1994"
+  },
+  {
+   "type": "stage direction",
+   "text": "FADE IN:\nBLACK SCREEN\nWords SCRAWL UP ON SCREEN and we hear a RESOUNDING VOICE."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "In a time of great strife, a\nlegendary interdimensional being\nknown as Zordon, came to the city\nof Angel Grove to establish a\nvanguard in the never ending\nstruggle against evil.  with the\naid of his trusted assistant,\nAlpha 5, the noble master sought\nout six extraordinary teenagers\nand gave them the power to\ntransform into an unstoppable\nfighting force.  In time of great\nneed, the young heroes could now\ncall upon colossal assault\nvehicles known as \"Zords\".  while\nthe identity of the six remained\na guarded secret, their\ncourageous exploits soon became\nthe stuff of Legend, earning them\nthe title...  The Mighty Morphin\nPower Rangers."
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear PUMPING ROCK AND ROLL MUSIC as the POWER RANGER'S LOGO\nBURST'S ONTO THE SCREEN.  Now the logo EXPLODES, revealing\n1   EXT.  PROP PLANE / FLYING - DAY                             1\nA prop plane whisking across the deep blue sky."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "YeeeoowwWWWWW!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "2   INT.  PROP PLANE / FLYING - DAY                             2\nThe six Power Rangers, TOMMY, KIMBERLY, BILLY, AISHA, ADAM and\nROCKY sport sleek sky diving suits, parachute packs and\nhelmets.  Tommy is strapped into a high-tech airboard."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "We're OUTTA here!!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Easy, Rock."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Once we hit the target zone we've\ngot fifteen seconds to make the\ndrop."
+  },
+  {
+   "type": "speech",
+   "character": "BULK  (0 . S .)",
+   "text": "Step aside, pinheads."
+  },
+  {
+   "type": "stage direction",
+   "text": "BULK and SKULL push their way through the Rangers, decked\nin bizarre skydiving regalia, topped off by World War II\nleather caps and aviator goggles."
+  },
+  {
+   "type": "speech",
+   "character": "BULK",
+   "text": "The Stealth Eagle is about to\nfly."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "Ditto for the Swooping Swallow."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Rangers exchange amused looks.  Aisha gestures to them"
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Lead on, flyboys."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bulk and Skull swagger to the door and open it - the ground\nis a dizzying distance below.  They swallow hard."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "Bulk... where'd the earth go?"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Five seconds to the target zone!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Aisha  you' re  on !"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bulk and Skull step aside, Aisha LAUNCHES herself.\nThe others follow through the opening with flair."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Stylin!"
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "On your tail!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "All systems"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tommy and Kimberly share an infectious glance, Kimberly\na hand, indicating Tommy should go first."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Surf's up!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He's gone.  Kimberly stands backwards in the doorway."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Catch you on the flipside."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bulk and Skull watch wide-eyed as she BACK-FLIPS\nout of the plane.\n3   EXT. SKY  -  DAY\nROCK AND ROLL fills the track as the Rangers plunge towards\nearth, executing a series of MIND-BOGGLING MANEUVERS: SPINS,\nFISHTAILS, POWER DIVES, BACK FLIPS, you name it.\n4   INT. PROP PLANE  -  DAY                          4\nBulk and Skull psyche themselves up."
+  },
+  {
+   "type": "speech",
+   "character": "BULK",
+   "text": "Be the eagle.  Be the eagle."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "Be the swallow.  Be the\nswallow..."
+  },
+  {
+   "type": "stage direction",
+   "text": "They take deep breaths then CHARGE THE DOOR."
+  },
+  {
+   "type": "speech",
+   "character": "BULK AND SKULL",
+   "text": "Aaaaaahhhhhhhh!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Naturally, they get STUCK, wedged shoulder to shoulder.\nTHE PILOT glances back, CHUCKLES and BANKS THE PLANE.\n5   EXT. PROP PLANE - BARREL-ROLLING - DAY\nBulk and Skull rotate into frame.  Now, facing straight down --\nthey FALL INTO CAMERA, CLINGING TO EACH OTHER DESPERATELY"
+  },
+  {
+   "type": "speech",
+   "character": "BULK AND SKULL",
+   "text": "YEAAAAAAHHHHHH!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "6   EXT.  SKY  -  DAY\nThe Rangers pull off more SPECTACULAR MANEUVERS\nthen swoop TOGETHER, interlocking hands and forming a\nPERFECT CIRCLE\nThey look to one another and a moment of pure magic passes\nbetween them.  It's not  usual the exhilaration of flight they're\nsharing, it s the exhilaration of togetherness, of being part\nof a team."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Let's BREAK!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They disperse and yank their rip-cords.  The sky BURSTS TO LIFE\nWITH SIX BLOSSOMING PARACHUTES -- white, pink, blue, yellow ,\nred and black in color.\n7   EXT.  ANGEL GROVE PARK  -  DAY                               7\nFAMILIES eat hot dogs and cotton candy at a huge fundraiser .\nA large banner proclaims \"SAVE THE OBSERVATORY.\"  We see\ndiving teams with labeled uniforms -- the BOWLING TEAM, ANGEL\nGROVE P.D.  and the FIRE DEPARTMENT.  There s a large white\n\"BULLSEYE\" spray-painted on the grass.  The city's\nspectacular large skyline rises out of the b.g.\nA SPUNKY MR. KELMAN stands at a podium, speaking into a mic."
+  },
+  {
+   "type": "speech",
+   "character": "MR. KELMAN",
+   "text": "Okay, so the firemen landed four\nout of six inside the target --"
+  },
+  {
+   "type": "stage direction",
+   "text": "A BOWLER shouts out playfully."
+  },
+  {
+   "type": "speech",
+   "character": "BOWLER",
+   "text": "How `bout a show tune?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mr. Kelman feigns seriousness."
+  },
+  {
+   "type": "speech",
+   "character": "MR. KELMAN",
+   "text": "Somebody wanna keep chose bowlers\nin line."
+  },
+  {
+   "type": "stage direction",
+   "text": "A hip thirteen year old, FRED KELMAN, yells out as he points\nto the sky."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "Hey dad, get with the program!"
+  },
+  {
+   "type": "speech",
+   "character": "MR. KELMAN",
+   "text": "Ladies and gentlemen, it's Angel\nGrove High"
+  },
+  {
+   "type": "stage direction",
+   "text": "ANGEL ON TARGET - AS AISHA touches down flawlessly."
+  },
+  {
+   "type": "speech",
+   "character": "MR. KELMAN",
+   "text": "And that's one!  A perfect\nlanding!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Aisha clears, then Billy and Adam land toqether."
+  },
+  {
+   "type": "speech",
+   "character": "MR. KELMAN",
+   "text": "Three for three.  Look at `em go!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Billy and Adam clear and now Rocky and Kimberly come in."
+  },
+  {
+   "type": "speech",
+   "character": "MR. KELMAN",
+   "text": "That's five perfect landings!\nNow it's all up to Tommy Oliver."
+  },
+  {
+   "type": "stage direction",
+   "text": "Everybody watches with dumbfounded expressions as Tommy SAILS\nIN ON HIS AIR BOARD AND SLIDES INTO DEAD CENTER.  He spreads\nhis arms wide."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Touch down."
+  },
+  {
+   "type": "stage direction",
+   "text": "The families CHEER and APPLAUD as they surge forward to\ncongratulate the Rangers.\nMr. Kelman and Fred approach Tommy -  Fred and Tommy exchange\nstylish hand slaps."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "Looking good up there."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Thanks, man."
+  },
+  {
+   "type": "speech",
+   "character": "MR. KELMAN",
+   "text": "Congratulations - the\nObservatory's got a new lease on\nlife."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "Awesome!   Ryan's Comet is passing\nover in two days!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The other Rangers approach."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Who's up for lunch?"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "You read my mind."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Last one to Ernies buys."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "Let's roll!"
+  },
+  {
+   "type": "stage direction",
+   "text": "8   EXT.  ANGEL GROVE PARK  -  DAY                              8\nWe hear a VOCIFEROUS SISSING SOUND, but we can't see where  it's\ncoming from. - Suddenly the six Rangers come SCREAMING AROUND A\nCORNER ON STATE-OF-THE-ART ROLLERBLADES.  These kids are FLYING!!\nWe hear FULL-THROTTLED MUSIC as the kids WEAVE, DUCK and SWERVE\nlike blading virtuosos.  Tommy LEAPS in the air, does a 180 and\nSKATES BACKWARD.\nTHE HIGH BRANCHES.past a large tree as Bulk and Skull DROP INTO\nFRAME"
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "Stealth Eagle, huh?  The Lame\nDuck is more like it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "9   EXT.  CITY STREET - DAY                                     9\nThe Rangers GLIDE around another corner -- there's buildings on\none side of them and a construction site on the other."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Let's take the shortcut!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tommy leads them up a plywood ramp -- they LAUNCH TEN FEET\nTHROUGH THE AIR, PULLING OFF HAIR-RAISING FREE STYLE MOVES THEN\nMAKE SPECTACULAR LANDINGS on the construction site parking\nstructure.\nAs they shoot across the concrete, the CAMERA PUSHES IN on:\n10   EXT.  INNER CITY CONSTtZUCTION SITE - DAY                   10\n... WORKERS operating heavy machinery -- cranes, bulldozer ,\netc., Construction Worker  jackhammers solid rock.  Drill\nmakes a CLANGING SOUND as it HITS METAL!  A baffled look comes\nover him as he stops the jackhammer, brushes away debris..\nuncovering an ANCIENT IRON PLATE.  He gapes at it, too stunned\nto speak.\n11   EXT.  CONSTRUCTION SITE - SHORT TIME LATER                  11\nA large hook has been fastened to the iron plate -- a crane\nENGINE ROARS as it HOISTS THE PLATE UP, revealing a CAVERNOUS\nOPENING.\nTWO MORE CONSTRUCTION WORKERS have joined the first, all of\nthem look on in amazement."
+  },
+  {
+   "type": "speech",
+   "character": "CONSTRUCTION WORKER #2",
+   "text": "Whadda you figure it is?!"
+  },
+  {
+   "type": "speech",
+   "character": "CONSTRUCTION WORKER #1",
+   "text": "Hey, ya got me."
+  },
+  {
+   "type": "stage direction",
+   "text": "Suddenly a PURPLE STEAM POURS from the opening.  And now\nsomething really amazing happens.   ..\nA menacing STONE CLAW RISES UP, CRADLING A HUGE STONE"
+  },
+  {
+   "type": "speech",
+   "character": "CONSTRUCTION  WORKER  # 1",
+   "text": "... I'll be damned."
+  },
+  {
+   "type": "stage direction",
+   "text": "As though drawn by it's power, he moves to touch it.\nKZAAAAAAP?!!  APURPLE BEAM OF LIGHT BLASTS HIM -- SENDS HIM\nFLYING TEN FEET THROUGH THE AIR!"
+  },
+  {
+   "type": "speech",
+   "character": "CONSTRUCTION WORKER #1",
+   "text": "AHHHHHHHHH!"
+  },
+  {
+   "type": "stage direction",
+   "text": "11A   EXT.  CONSTRUCTION SITE - DAY                                11A\nA T.V.  REPORTER is talking into camera."
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "We're here at the World Center\nConstruction Site, where a\nmysterious object was just\nuncovered in a freak accident in\nwhich one workman suffered minor\ninjuries..."
+  },
+  {
+   "type": "stage direction",
+   "text": "12\n12\nthru    OMITTED\n13                                                                  13\n13A  INT.  ERNIE'S WATERFRONT CAFE - DAY                           13A\nCLOSE ON - T.V.  SCREEN\nWe see the reporter then a few cuts of GEOLOGISTS combing the\nsite with scanning equipment and COPS sealing off the area with\nyellow tape."
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "... Angel Grove Police have\ncordoned off the area until it\ncan be determined whether or not\nthe unidentified object poses any\nthreat.  The injured workman was\nquoted as saying..."
+  },
+  {
+   "type": "stage direction",
+   "text": "PULL BACK TO REVEAL A CAFE.\nThe Rangers are at a table -- Tommy is teaching Fred martial arts\nmoves."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "It's one smooth move and then\nyou've gotta explode off the top."
+  },
+  {
+   "type": "stage direction",
+   "text": "Tommy executes a wicked JUMPING ROUNDHOUSE KICK.  Fred is\nwowed.  He drops into position."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Nice and easy."
+  },
+  {
+   "type": "stage direction",
+   "text": "The jovial proprietor, ERNIE, approaches the Rangers' table\nwith a loaded tray.  Fred pulls off a dazzling JUMPING\nROUNDHOUSE KICK and almost knocks Ernie's tray over."
+  },
+  {
+   "type": "speech",
+   "character": "ERNIE",
+   "text": "Hey, no Karate on the patio!"
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "Actually, Ernie, it's Tae-Kwan\nDoe."
+  },
+  {
+   "type": "speech",
+   "character": "ERNIE",
+   "text": "Well Tae-Kwan-Do-it some place\nelse."
+  },
+  {
+   "type": "stage direction",
+   "text": "Fred moves off as Ernie serves the desserts."
+  },
+  {
+   "type": "speech",
+   "character": "ERNIE",
+   "text": "So, what're the plans for the\nweekend?"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Aisha and.I are checking out a\nnew dance spot."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "I heard that!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "I'll be at the Observatory\nSunday."
+  },
+  {
+   "type": "speech",
+   "character": "ERNIE",
+   "text": "That's right - Ryan's Comet."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "We should throw a little comet\nshindig."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "Any excuse for a party."
+  },
+  {
+   "type": "stage direction",
+   "text": "Aisha reacts to something off screen."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "The Eagle has landed."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bulk and Skull swagger past followed by a GROUP OF KIDS."
+  },
+  {
+   "type": "speech",
+   "character": "BULK",
+   "text": "The earth was hurtling toward us\nat seven hundred miles per hour,\nand we knew at that moment that\nwe were facing death straight in\nthe eye."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "We could smell it's breath."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ernie moves off after Bulk and Skull.  Tommy's wrist\ncommunicator BEEPS.  The kids exchange glances than look for a\nprivate area."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "There's a spot over there."
+  },
+  {
+   "type": "stage direction",
+   "text": "They move out of everybody's sight."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY (into  communicator)",
+   "text": "What's up, Alpha?"
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5 (V.O.)",
+   "text": "Rangers, we need you at the\nCommand  Center,  L.R.N. !"
+  },
+  {
+   "type": "stage direction",
+   "text": "Aisha gives Kimberly a puzzled look."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "'Like Right Now.'"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "We're on our way."
+  },
+  {
+   "type": "stage direction",
+   "text": "They hit their wrist-communicators and instantly TRANSFORM\nINTO SIX IRIDESCENT COLUMNS OF COLOR.  The columns SHOOT UP\nTHROUGH a giant oak tree, KNOCKING LEAVES LOOSE.\n14   EXT. COMMAND CENTER  -  SUNSET                               14\nZordon's remote headquarters protrudes from a craggy\nmountain top -- silhouetted by a glorious sunset.  The SIX STREAK\nOF COLOR slice downward into the roof.\n15   INT.  CONIMAND CENTER  -  NIGHT                              15\nEverything's gone haywire   buttons BLINK, emergency\nlights FLASH, there's a CACOPHONY OF ELECTRONIC SOUNDS.\nALPHA 5 works frantically amidst the array of computer\nbanks while ZORDON looks on from his COLUMN OF LIGHT.\nThe six Rangers MATERIALIZE, Tommy turns to Zordon."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "What's happening?"
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Ay,  yi,  yi,  yi,  yi !  Our\nthermionic-sensors have been hit\nby a CATACLYSMIC surge of evil!"
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "Rangers, you must act swiftly.\nThe planet is in GRAVE danger!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Danger from what?"
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "Six thousand years ago a\nmorphological being known as Ivan\nOoze, ruled the world with a\nreign of unparalleled terror.\nFinally, a rebel factor known as\nthe \"Order of the Meledon\" lured\nhim into a hyperlock chamber and\nburied him deep underground."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "In a place that came to be known\nas Angel Grove."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "The chamber has been accidently\nUNCOVERED!  You must return it to\nthe depths. or  anyone should\nopen it and Ivan is released!"
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "To assist you I have retro-fitted\nyour helmets with new Opti-Scan\ndevices."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "Use extreme caution, Rangers.\nYou are dealing with an evil here\nthat is beyond ALL comprehension."
+  },
+  {
+   "type": "stage direction",
+   "text": "16   EXT.  INNER CITY CONSTRUCTION SITE - NIGHT\nBarricades and police tape surround the egg.  A  SECURITY GUARD\npasses his sleeping CO-WORKER, drops into a chair, sips his\ncoffee.\nBZZWAPP -- ZEDD, RITA, GOLDAR and a short, fat, furry creature\nnamed MORDANT appear."
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "Another Saturday night and I'm\ntraipsing around the galaxy with\nthe THREE LITTLE PIGS!  My mother\nwarned me this would happen!\nRita, she said, after 89\nmarriages you might wanna think\nabout throwing in the towel.  Why\ndidn't I listen to her?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Zedd grumbles to himself."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "That's a good question."
+  },
+  {
+   "type": "stage direction",
+   "text": "The stunned guard stirs his sleeping buddy."
+  },
+  {
+   "type": "speech",
+   "character": "FIRST SECURITY GUARD",
+   "text": "Uh... Kurt...  you might wanna\ntake a look at this."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kurt looks up groggily."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "No need to wake him.  In fact,\nwhy don't you take a little nap\nyourself."
+  },
+  {
+   "type": "stage direction",
+   "text": "Zedd ZAPS THE GUYS with a bolt from his staff -- they are\nknocked out.\nGoldar steps back from the blast and accidentally steps or\nMordant's foot.  Mordant KNOCKS on Goldar's metallic leg."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Hey bonehead, get off my hoof!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Goldar is oblivious.  Zedd, stands reverently before the\nglowing egg shape."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "After two thousand years of\nsearching...  I have finally\nfound you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mordant BANGS on Goldar's leg again."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Yo, earth to Bigfoot!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Goldar SWATS Mordant."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "Watch your mouth, fuzz-ball!"
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "SILENCE!"
+  },
+  {
+   "type": "speech",
+   "character": "RITA (to  Goldar)",
+   "text": "Where did you FIND this rabid\nlittle rodent, anyway?!"
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "Mordant's my second cousin three\ntimes removed on my mother's\nside.  He`s just visiting for the\nsummer."
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "Well put a muzzle on him!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mordant GRUMBLES under his breath.  Meanwhile, Zedd aims  is\nstaff at the chamber and BURSTS a blast of energy.  The egg\nopens up with a wHOOSH of decompressing air.  webs of\nELECTRICITY BRANCH OUT, followed by a SWIRL OF BLACK SMOKE.\nWhen the smoke clears we see a BUBBLING, PURPLE, PHOSPHOSCENT\nOOZE.  The group gathers around -- Rita sticks a finger in  o\nthe sticky substance."
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "What... you spent two thousand\nyears looking for this tub of\nSNOT!"
+  },
+  {
+   "type": "stage direction",
+   "text": "As if in response, the ooze BOILS AND FROTHS.  Zedd and Rita\nare too busy arguing to notice this."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "Don't you ever have anything nice\nto say?!"
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "Well, if I did I certainly\nwouldn't say it to you!"
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear a SLITHERING SLURPING SOUND as the substance RISES UP\nAND TAKES ON THE GHASTLY SHAPE OF IVAN OOZE.  Mordant tugs at Zedd."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Boss."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "For your information this is not\njust your average, run-of-the-\nmill tub of snot !"
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "You're trying to tell me there`re\ndifferent levels of snot?!"
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Boss."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "WHAT!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Zedd and Rita finally notice Ivan, standing with his lips\napart, revealing jagged teeth, one of which is made of\nGLISTENING SILVER.\nHe stretches his sinewy arms, releases an enormous YAWN, puts\nhis hands on his head, CRACKS it."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Ahhhhhhhh."
+  },
+  {
+   "type": "stage direction",
+   "text": "Now he SMACKS his lips together, opens his arms theatrically\nand gives his trademark stance."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Ladies and Gentlemen... the OOZE\nis back!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rita blushes."
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "He's so cute."
+  },
+  {
+   "type": "stage direction",
+   "text": "Zedd flashes her an angry look, turns back to Ivan."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "I am Lord Zedd, sworn enemy of\nall that is good and decent.  It\nis a supreme honor to finally\nmeet you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan gives a slight bow."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "How can I ever repay you?"
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "Do you recall the name...  Zordon\nof Eltare?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan's face goes dark, THUNDER RUMBLES and the site LIGHTS UP\nWITH A FLASH OF LIGHTNING.  Mordant turns to Goldar."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Seems to ring a bell."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "I want you to destroy Zordon, so\nthat my evil may once again reign\nSUPREME."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN (hissing)",
+   "text": "I will not only destroy him, I\nwill OBLITERATE his entire being.\nIt will be like Zordon\nof Eltare never EXISTED!"
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "Finally, a real man."
+  },
+  {
+   "type": "stage direction",
+   "text": "Goldar hands Ivan a scrap of paper."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "Here's his address."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN (reading)",
+   "text": "\"... left off Interstate 12?!\""
+  },
+  {
+   "type": "stage direction",
+   "text": "(puzzled)"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN (reading)",
+   "text": "What's an \"interstate\"?"
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "It's like a freeway.  How long\nhave  you  been  locked  up? !"
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "We shall leave you to weave your\nwicked ways."
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "Now we go out on the town.  First\ndinner, then dancing, then --"
+  },
+  {
+   "type": "stage direction",
+   "text": "BZZWAPP!!  The foursome DE-MATERIALIZE."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "What is that odious stench?"
+  },
+  {
+   "type": "stage direction",
+   "text": "His eyes come alive."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Smell's like...   TEENAGERS!"
+  },
+  {
+   "type": "stage direction",
+   "text": "17   OMITTED\n18   EXT.  CONSTRUCTION SITE - NIGHT\nOn cue, the Power Rangers TELEPORT into the construction site.\nThey're surrounded by rock piles, pools of water and a plethora\nof building supplies.  Billy looks down at the mud puddle he's\nstanding in."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Remind me to have a word with\nAlpha about his teleporting\ncalculations."
+  },
+  {
+   "type": "stage direction",
+   "text": "They survey the construction site for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Anybody see anything?"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "... Let's take a look over there."
+  },
+  {
+   "type": "stage direction",
+   "text": "They advance up a slope -- the egg comes into view."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY (alarmed)",
+   "text": "It looks like it's been opened!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids get close to the egg, looking it over with\nfascination.  Suddenly a hand falls on Aisha."
+  },
+  {
+   "type": "speech",
+   "character": "SECURITY GUARD (O.S.}",
+   "text": "Hey!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They all whirl around and see the first Security Guard.  He\nhalf smiles, shaking his head."
+  },
+  {
+   "type": "speech",
+   "character": "SECURITY GUARD",
+   "text": "You had me scared there."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Makes two of us."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "You haven't by any chance seen\na ... morphological being lurking\naround?"
+  },
+  {
+   "type": "speech",
+   "character": "SECURITY GUARD",
+   "text": "The only thing I've seen is you\nteenagers."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "And you know... if there's one\nthing in the world I reeeeally\nhate...."
+  },
+  {
+   "type": "stage direction",
+   "text": "CLOSE ON HIS FACE as it SHAPE-SHIFTS INTO THE+ HIDEOUS VISAGE OF\nIVAN OOZE."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "It's TEENAGERS"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "GroSS!"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "You're too kind.  Allow me to\nintroduce myself.  I am the\ninfamous, world-reviled,\nuniversally despised, IVAN OOZE!"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Well, pack your bags cause we're\nsending you back where you came\nfrom!"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Gee, a teenager with a big mouth.\nNot much has changed in six\nthousand years."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "we're not just teenagers, raisin-\nhead."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "We're the Mighty Morphin Power\nRangers!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan puts his hands to his face in mock fear."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Ooooh, where's my autoqraph\nbook?."
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks them over reproachfully."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Power Rangers, huh?  So Zordon is\nstill using a bunch of rug-rats\nto do his dirty work.  And\nspeaking of rats..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan raises both hands -- ELECTRICITY SHOOTS OUT HIS FINGERS\nand the kids DIVE CLEAR as the bolt ZAPS A THRONG OF RATS.\nNow, incredibly, the RATS GROWN INTO GRUNTING, SNARLING MAN\nSIZED RAT-BEASTS."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "From this moment forth, the world\nas you know it SHALL CEASE TO\nEXIST!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan raises his arms -- thunder CRACKLES and LIGHTNING RIPS\nACROSS THE SKY."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "WELCOME TO MY NIGHTMARE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "An EXPLOSION OF PURPLE SMOKE CONSUMES IVAN."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "He's  gone."
+  },
+  {
+   "type": "stage direction",
+   "text": "The RATS ATTACK!"
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "Let's take these beasts!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tommy gets off a stellar CROSS-HOCK TAKEDOWN, Kimberly delivers\na world class HEEL STOMP, Billy executes a lethal REVERSE\nHANDSWORD.  Despite their valiant efforts, the Rangers ar\nbeing overwhelmed by the fierce combatants.\n19   INT.  COMMAND CENTER - NIGHT\nSMOKE POURS from various circuit boards, numerous control\npanels VIBRATE."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "Alpha, my sensors tell me the\nRangers were too late!  Ivan is\non his way here!"
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Hey, NOBODY enters the Command\nCenter without a power coin!"
+  },
+  {
+   "type": "stage direction",
+   "text": "There's a BLEET, BLEET -- emergency lights start FLASHING near\nthe entrance.  Alpha watches, forlorn, as OOZE SEEPS through\nthe hairline cracks in the door."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Well...  ALMOST nobody."
+  },
+  {
+   "type": "stage direction",
+   "text": "The ooze SLITHERS AND GURGLES ACROSS THE FLOOR, once again\nIVAN RISES UP.  He takes in the state-of-the-art surroundings."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Gee... pretty fancy-shmancy.  I\nguess if you invest your money\nwell over SIXTY centuries you can\nbuy something pretty nice."
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha drops into a Karate stance, makes some BRUCE LEE NOISES\nthen LUNGES."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "HI ,  YAH !"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan holds his arm out, ZAPS Alpha with an electrical charge\nAlpha starts spinning."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA  5",
+   "text": "Welcome to Wiener World.  May I\ntake your order, please?"
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "You haven't changed, Ooze.\nYou're still picking on creatures\nsmaller than yourself."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan slowly circles Zordan's column of light, Zordon turns\nwith him."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Put a cork in it \"Z\" .  Ten\nminutes out of the egg and I'm\nalready listening to one of your\nlectures.\n(he explodes furiously)\nYou robbed me of my PRIME!  I was\nthe Supreme Ruler of the most\nfoul Empire in the Universe.  I\nwas the King of Calamity.  The\nDuke of Destruction.  The big man\non campus!"
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "And then you came along.  You\nlocked me into your stuffy little\nhyperlock-chamber and tossed me\ninto the depths like yesterdays\nTRASH!"
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "It worked for six thousand years."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Don't remind me!"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Do you have any idea what it's\nlike to be cooped up in a rotten\negg for six thousand years?  It's\nBORING!  Not to mention I've had\na Charlie horse since the\nRenaissance!  But now the tables\nare turned.  Now..."
+  },
+  {
+   "type": "stage direction",
+   "text": "IVAN raises his hands - he  is holding  a flute and he PLAYS A FEW\nNOTES"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "... it's time to pay the PIPER!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He uses the flute like a lightning rod --  A BOLT OF LIGHTNING\nBLASTS A PANEL TO SMITHEREENS."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Oh, the things that I have\nmissed.  The BLACK PLAGUE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He blows up another PANEL."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "The SPANISH INQUISITION!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(another bolt)"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "The  70's!"
+  },
+  {
+   "type": "stage direction",
+   "text": "HE BLOWS UP ANOTHER PANEL.  Ivan CASTS ANOTHER LIGHTNING BOLT,\nDEMOLISHING AN ENERGY PILLAR."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "And now, finally, I have the\nstrength to DESTROY your pathetic\npowers FOREVER!!"
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "YOU WON'T GET AWAY WITH THIS!"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "I've got a NEWS flash for you\nLIGHT-BRIGHT -- I ALREADY HAVE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Now Ivan begins to THROW LIGHTNING EVERYWHERE, LAYING\nTHE  COMMAND CENTER TO WASTE.\nIvan laughs in the b.g.  as Alpha continues to spin,\nmoving  his arms in and out."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "You put your left probe in, you\nput your left probe out, you put\nyour left probe in and you shake\nit all about.  You do the hokey-\npokey and you turn yourself\naround..."
+  },
+  {
+   "type": "stage direction",
+   "text": "20   EXT.  CONSTRUCTION SITE - NIGHT\nTwo rats charge Aisha and she LEAPS UPWARD - the pair SMASH\ninto each other.\nRocky picks up a two-by-four and starts SPARRING with another\nrat.\nBilly SHOVES A HUGE WOODEN-SPOOL down a slope and it\nROLLS INTO A COUPLE OF RATS, BOWLING THEM OVER.\nOne rat CRACKS IT'S TAIL like a whip, KNOCKING Adam to\nthe ground.\nAnother rat gets Kimberly in a bear hug and she makes a\nface."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "RAT breath!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "She grabs a handful of his whiskers."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Somebody needs a shave."
+  },
+  {
+   "type": "stage direction",
+   "text": "She YANKS THEM OUT, the rat SQUEALS and releases her.  The\nfight well, but the rats start to get the upperhand."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "IT'S MORPHIN TIME!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Rangers click their power coins into their power morphers."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "PTERODACTYL!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "TRICERATOPS!"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "TYRANNOSAURUS!"
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "MASTODON!"
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "SABER TOOTH TIGER!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "WHITE TIGER!"
+  },
+  {
+   "type": "speech",
+   "character": "RANGERS",
+   "text": "MORPHENOMENAL!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They JUMP INTO THE AIR and they're ENGULFED IN A DAZZLING\nGOLDEN LIGHT as we do a 3D MOVIE VERSION OF THEIR\nTRANSFORMATION INTO COSTUME.\nThey all LAND and there's a WHIRRING SOUND as all six of the\nface pieces POLARIZE so we can see their faces.  The rats\nimmediately scurry off."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Let's teach these vermin a few\nmanners."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Activating Power Beam!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A YELLOW BEAM SLICES THROUGH THE DARKNESS.  Aisha leads the\ngroup through the site."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Everybody stay alert."
+  },
+  {
+   "type": "stage direction",
+   "text": "(CONTINUED) - NEXT FILE\nPAGES 21 ONWARDS\n20   CONTINUED:  (2)                                           20\nThey pass a bulldozer, some scaffolding"
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "Hold it..."
+  },
+  {
+   "type": "stage direction",
+   "text": "They come to a stop."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM (pointing)",
+   "text": "I heard something over there."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Activating Audio Enhancer!"
+  },
+  {
+   "type": "stage direction",
+   "text": "AN AUTO-PHONIC RECEIVER POPS OUT of the side of Billy's\nhelmet.  As he turns his head, the receivers ROTATE.\nSOUND EFFECT:  We hear silence and then... a RASPY\nBREATHING, followed by a GUTTURAL SNARL."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "They're on the other side of that\nwall."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Rangers advance along a cement wall, slowly round a\ncorner.  Aisha's light PANS THROUGH THE GLOOM."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Anybody see them?"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Activating Power Scope!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A SCOPE SNAPS into place over Rocky's left eye.\nP.O.V.  - THROUGH POWER TRACKER\nWe see HEAT SENSOR OUTLINES, PULSATING WITH COLOR.  COMMAND\nGRAPHIC:  SEARCH MODE.\nLines VECTOR and SCAN as Rocky searches the area.  Eventually\nhe looks up and the lines LOCK ON TO THE PULSATING FORMS  OF\nTHE RATS."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "THEY'RE ABOVE US!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The creatures LEAP DOWN and we see the Rangers pull off\nKICKS, SUCKER PUNCHES, SPINBACK-ROUNDHOUSES, you name it.\nOne of the beasts TACKLES Tommy and the pair go TUMBLING\nOWN A TWENTY FOOT ROCK PILE.  Aisha picks up a handful of dirt"
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Hey, handsome!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A beast turns -- Aisha FLINGS dirt in his eyes."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "My mistake."
+  },
+  {
+   "type": "stage direction",
+   "text": "She follows through with an OVER SHOULDER THROW --\nthe beast CRASHES INTO A JOHNNY-ON-THE-SPOT.\nRocky fights another beast and the creature SWINGS\nUP THROUGH SCAFFOLDING with phenomenal dexterity.  Rocky goes\nafter him."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "SABA SABER?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The talking Saber appears in Tommy's hand."
+  },
+  {
+   "type": "speech",
+   "character": "SABA (yawning)",
+   "text": "What a DREAM I was having!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "We've got company."
+  },
+  {
+   "type": "stage direction",
+   "text": "Saba sees the rats."
+  },
+  {
+   "type": "speech",
+   "character": "SABA",
+   "text": "Rats!  I hate rats!"
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear a PRIMITIVE CRY as a beast SLAMS INTO ADAM,\nSENDS HIM CATAPULTING.  Adam rises, speaks in a low growl."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "Bad move, Willard!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He holds his hand in the air."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "STEGA-STINGER!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The STEGA-STINGER appears in Adam`s hand.  He aims\nit toward an overhang, FIRES.  A thin wire SHOOTS OUT -- the\nStinger at the end PIERCES the overhang."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "Coming through!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Adam leaps off a platform, SWINGS THROUGH THE AIR like Tarzan,\nSLAMS into the rat and sends him CATAPULTING."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "Target Neutralized?"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Raptor-Ribbon!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A contraption APPEARS in Kimberly's hand and she throws her arm\nout -- a LONG RIBBON SWIRLS out and tangles itself around the\nrat."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Now you see `em."
+  },
+  {
+   "type": "stage direction",
+   "text": "She yanks the ribbon pulling the rat into an opening -- he\nDISAPPEARS."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Now you don't."
+  },
+  {
+   "type": "stage direction",
+   "text": "Billy takes a hit, ROLLS across the ground.  He stops inches\naway from a twenty foot drop-off.\nThe beast CHARGES HIM, he ducks and the beast GOES FLYING\nTHROUGH THE AIR AND SPLASHES DOWN IN ONE OF THE MUDDY POOLS\nOF WATER."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Not the brightest of beasts."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rocky is now up in the scaffolding.  He DROPS TEN FEET through\nthe air, LANDS ON ONE END OF A BOARD.\nThere's a beast at the other end and he goes FLIPPING THROUGH\nTHE AIR.\nTommy throws Saba Saber and the knife SWOOPS THROUGH THE AIR\nand zings around the beasts as they try to knock him down."
+  },
+  {
+   "type": "speech",
+   "character": "SABA",
+   "text": "Na na na na na!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The rats chase after Saba as he heads into a water-slicked\narea.  There's a large power cable running across it.  Once\nall the rats are in the water, Saba kamikaze dives into the\ncable, SLICING IT OPEN WITH AN ERUPTION OF SPARKS.  The water\nSIZZLES WITH ELECTRICITY and the rats GO UP IN A PUFF OF SMOKE."
+  },
+  {
+   "type": "speech",
+   "character": "SABA",
+   "text": "Fried mice, anyone?"
+  },
+  {
+   "type": "stage direction",
+   "text": "We see the six original small rats scurry away, SQUEAKING.\nSuddenly, there's an EXPLOSION OF ELECTRICAL ACTIVITY and the\nRangers watch, stunned, as their COSTUMES DE-MATERIALIZE and\nthey appear back in civilian clothes."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "What's going on?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Billy tries his wrist communicator."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Alpha, come in!"
+  },
+  {
+   "type": "stage direction",
+   "text": "There's no response."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "We'd better get back."
+  },
+  {
+   "type": "stage direction",
+   "text": "They all hit their communicators and nothing happens."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA (worried)",
+   "text": "Something's wrong!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Come on, guys..."
+  },
+  {
+   "type": "stage direction",
+   "text": "They hurry off.\n21   EXT.  COMMAND CENTER - NIGHT                         21\nThe Rangers climb a mountain path, all of them looking alarmed.\nUp ahead, there's a PILLAR OF BLACK SMOKE rising from the\nCommand Center.\n22   INT.  COMMAND CENTER - NIGHT                          22\nThe place is trashed -- there's SMOKING debris, ravaged  panels,\nexposed wires and mechanisms.  The kids move through the\nwreckage in numb silence."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY (barely audible)",
+   "text": "... what happened here?..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Adam spots Alpha's arm protruding from a mound of rubble."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "Guys!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids quickly uncover the battered robot."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Alpha, are you okay?!"
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "I'll GET you my pretty, and your\nlittle DOG toa!!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "He must've blown an anitromic\ndemodulator!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY (stunned)",
+   "text": "Oh, no..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Everybody follows Kimberly's gaze, thunderstruck expressions\ncoming over them.\nLaying on a destroyed bed of crystals is Zordon.  He is still a\nSHIMMERING SPECTRAL being, only now he s aged a good fifty\nyears.\nThe kids stand over him, forlorn."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "... What's happening to him?'"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Outside of his time warp he's\naging at a vastly acellerated\nrate!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "We have to help him!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Zordon opens his eyes."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "...  Rangers... thank goodness\nyou're safe."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids drop down beside him."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "We have to get you back inside\nyour time warp."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "I'm afraid that's impossible...\nThe power has been destroyed.\nIt's gone... The Zords, the\nweapons...  all of it."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "The Mighty Morphin Power Rangers\nare no more."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids are stunned.  Kimberly gently takes Zordon's hand."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Zordon... you can't leave us.\nEver since you came into our\nlives... you've been like another\nfather `to  us  all.-"
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "... You must be strong... Ivan\nalmost overthrew the planet\nonce...  and now I'm afraid he\nhas the strength to see his\nscheme through."
+  },
+  {
+   "type": "stage direction",
+   "text": "Zordon closes his eyes.  Tommy puts a hand on Kimberly's\nshoulder.  The kids slowly rise, all of them looking utterly\ndespondent.  Billy turns to Alpha."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "what're we going to do?"
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "I do not LIKE Green Eggs and Ham!\nI do not like them, Sam-I-am!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Billy opens a panel on Alpha's back, makes an adjustment.\nAlpha's head rolls back like he's going to sneeze."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Ah-Ah-Ahhhh-CHOO!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "SPARKS BURST from where his nose should be.  He SNIFFS."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Thanks, Billy."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rocky hands Alpha a hanky, Alpha wipes his nose area."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "There has to be something we can\ndo."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Come on, guys, think!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Aisha turns to Alpha."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Alpha.  Is there any way we can\ndefeat this  monster?  Any way at\nall?"
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "... Perhaps there is a way... I\nhave heard tales of another\npower."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "What?!"
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "... They say that somewhere\nbeyond the Hyperion Constellation\nthere exists a mythological power\nthat is beyond all comprehension."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "How can we get to it?"
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "As the legend goes, the power is\nimpossible to obtain."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "We have to try, Alpha.  It's our\nonly hope."
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha shakes his head."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "It's far too dangerous.  Zordon\nwould never allow it."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "If we don't try, Zordon won't\nsurvive!"
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "If Ivan  Ooze  isn't  stopped,\nnobody will survive."
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha heaves a sigh."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Ay, yi, yi, yi."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "The legend speaks of a Master\nWarrior who lives on the planet\nPhaedos... This is the only\nperson who knows the secrets of\nthe power."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "How can we reach Phaedos?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha heaves a SIGH."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Zordon's going to have my\norbicular spheroids when he hears\nout about this!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids exchange curious looks as Alpha opens a compartment\nand removes a vile filled with RADIOLUMINESCENT ENERGY."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "This is an emergency reserve of\nmorphonic emissions.  It should\nbe enough to get -you there."
+  },
+  {
+   "type": "stage direction",
+   "text": "He approaches a damaged panel, loads in the vile."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "There is one problem.  I only\nhave enough reserve to send you\nPhaedos...  I can't bring you\nback."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "So how do we get back?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha gives them a grim look."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "... You'll have to pray that the\nlegends are true."
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha keys in coordinates."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "You're sure you want to do this?!\nThe Rangers share purposeful looks."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "It's our only hope."
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha shakes his head, punches in the final codes."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA",
+   "text": "Safe journey, Rangers!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He pulls a lever."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA  5",
+   "text": "BE CAREFUL!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids TRANSFORM INTO SIX STREAKS OF COLOR AND BLAST 0FF\nTHROUGH THE CEILING.  Alpha shakes his head in despair."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Ay, yi, yi, yi.  They're DOOMED!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "23 thru 27        OMITTED\n28    EXT.  EARTH - NIGHT                                  28\nWe see the SIX COLORED STREAKS BLAST away from earth and SHOOT\nPAST the moon.\nThe CAMERA MOVES IN on Zedd's ominous palace which rises up out\nof the tortured landscape.  Zedd, Rita, Mordant and Goldar are\nstanding on the balcony.\n29   INT.  ZEDD'S PALACE - NIGHT                           29\nZedd, Rita and their minions are inside Zedd's dark palace\nGoldar looks through Rita's telescope as Rita rants."
+  },
+  {
+   "type": "speech",
+   "character": "RITA (outraged)",
+   "text": "How could he let them slip\nthrough his hands?!  He's no\nbetter than the rest of the hired\nhelp around here!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Goldar looks up from the telescope."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "According to the TX Tracker,\nthey're headed for Phaedos."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "I'm gonna fire that slimeball so\nfast his not gonna know what hit\nhim!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan sweeps regally into the room."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Hi, honey, I'm home !"
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "You garlic-sucking DINGLEBRAIN!\nThe Rangers are going after the\nGreat Power"
+  },
+  {
+   "type": "speech",
+   "character": "(to  Zedd)",
+   "text": "I thought you said this guy was\nthe Master of Disaster?"
+  },
+  {
+   "type": "speech",
+   "character": "(to  Ivan)",
+   "text": "He's nothing but a slime-\ninfested, jelly-bellied blob of --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan SNAPS his hand -- a WAD OF OOZE FLIES OUT, SPLATS RITA\nacross the mouth, muffling her."
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "Rrgh mmffpprr brghuh!!"
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "How dare you?!  Nobody shuts up\nRita but me!"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Sorry, slick, there's been a\nslight'change of plans."
+  },
+  {
+   "type": "speech",
+   "character": "(arms out in trademark stance)",
+   "text": "The \"booger man\" is taking over."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan drops regally into Zedd's chair."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "Nobody double-crosses Lord Zedd\nand lives!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mordant slips behind Goldar, using him as a shield."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Zedd's gonna kick this snotball\ninto next week!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Zedd SHOOTS A BLAST from his staff -- Ivan is COVERED IN SPARKS."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Ooooh, that tickles!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan raises his hands and the sparks DISAPPEAR."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "My turn."
+  },
+  {
+   "type": "stage direction",
+   "text": "He ZAPS Rita and Zedd, and with a BRILLIANT FLASH, THEY'RE GONE.\nMordant moves to a snow-globe on the table, his mouth falling\nopen.  Zedd and Rita are INSIDE IT!!\nRita wipes the ooze off her mouth, RANTS IN A MUNCHKIN VOICE."
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "This is all your fault!  If you'd\ntaken me out tonight like you\nwere suposed to, none of this\nwould've happened."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan turns menacingly to Goldar and Mordant."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Now you have a choice, either\nserve me, or join those\ninsufferable cheesedongs."
+  },
+  {
+   "type": "stage direction",
+   "text": "Mordant and Goldar exchange a look, then turn back to Ivan."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "We never liked the cheesedongs in\nthe first place."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Couldn''t stand them -- low-class\nall the way.  And did you catch\na whiff of their BREATH?!  It's\nlike having a conversation with\na couple of ONIONS!  Not to\nmention..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Goldar throws a hand over Mordant's mouth, MUFFLING him."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR (apologetic)",
+   "text": "He's just visiting for the\nsummer."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "Now what about,the Rangers, oh\nhideous one?"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Ah yes, the RANGERS!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He makes a HOARKING SOUND then SPITS OOZE ONTO THE FLOOR,"
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Gasunteidt."
+  },
+  {
+   "type": "stage direction",
+   "text": "Now the OOZE GROWS INTO TEN TENGU WARRIORS -- BIRD-LIKE\nCREATURES WITH LONG BEAKS AND ENORMOUS WINGS.\nTHEY GOBBLE, SQUAWK AND CHIRP like newborn chickens, the\nCACOPHONY GROWING LOUDER AND LOUDER until..."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "SHUT YOUR BEAKS !!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Tengu fall dead silent."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Tengu Warriors, you will fly to\nPhaedos, find the Power\nRangers...  and TEAR THEM APART!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The creatures make HORRENDOUS SQUAWKING SOUNDS AS THEY SPREAD\nTHEIR REPTILIAN WINGS."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Mordant, go with them and report\nback to me!"
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "You know boss, I'd really like to\nhelp out but I've got this\ngastronomic condition which rules\nout all space trave--"
+  },
+  {
+   "type": "stage direction",
+   "text": "One of the Tengu grabs hold of Mordant and the FLOCK WINGS OFF\nLIKE COLOSSAL BATS."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "IIIIIII!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ANGLE ON - SNOW GLOBE\nZedd waves his arms around in outrage."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "Isn't this just TYPICAL!  We\nfinally do somebody a good turn\nand just look what happens!"
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "From now on it's E-V-I-L, NO\nexceptions!"
+  },
+  {
+   "type": "speech",
+   "character": "RITA (optional line)",
+   "text": "It just goes to show, ya never go\ninto business with a booger."
+  },
+  {
+   "type": "stage direction",
+   "text": "29A   EXT.  OUTER SPACE - NIGHT                        29A\nThe Tengu warriors sweep toward us -- we see Mordant dangling\nfrom one of the Tengu's talons."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Watch the HAIRRRRRRRR!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He SWINGS PAST CAMERA and out of sight.\n30  thru  32A  OMITTED\n32B   EXT.  SPACE                                       32B\nThe COLORED STREAKS OF LIGHT SHOOT THROUGH THE COSMOS,\nheading down toward the planet, PHAEDOS.  It's emerald\ngreen with two radiant golden circles around it.\n32C   EXT. JUNGLE CLEARING / PHAEDOS - DAY              32C\nThe STREAKS OF COLOR hit the jungle floor and only FIVE  RANGERS\nMATERIALIZE."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Everybody okay?"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Where' s  BILLY? !"
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids search the sky in a panic.\n32D   OMITTED\n32E   INT.  COMMAND CENTER - DAY\nAlpha works frantically hitting buttons and levers."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Ay, yi, yi, yi!  The filamentary\ntransistors have malfunctioned!"
+  },
+  {
+   "type": "stage direction",
+   "text": "SPARKS erupt from the panel, SINGING ALPHA.  He snarls."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA  5",
+   "text": "Why you low-frequency, battery\noperated --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha winds up and DELIVERS A MIGHTY KICK to the panel.\nsuddenly comes to life with BLEEPS and BLIPS.\n32F   EXT.  JUNGLE CLEARING / PHAEDOS - DAY  (OLD SC.  32C)\nThe Rangers continue scouring the sky as BILLY COMES FLYING."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "WHOAAAAAAHHHH!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He SPLASHES DOWN in a puddle."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "BILLY!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The others quickly gather around him."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "You okay?"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "I think so."
+  },
+  {
+   "type": "stage direction",
+   "text": "Billy looks down at the puddle."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "This puddle thing is really\ngetting on my nerves."
+  },
+  {
+   "type": "stage direction",
+   "text": "They help Billy up then take in the exotic jungle environment.\nThey hear all sorts of EXOTIC ANIMAL SOUNDS."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Welcome to beautiful downtown\nPhaedos."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "... Incredible..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Tommy gives them all an invigorating look."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Let's see if we can find this\nMaster warrior."
+  },
+  {
+   "type": "stage direction",
+   "text": "He leads the team down a narrow path.\n32G   EXT.  CHEMICAL PLANT - DAY (OLD SC 32D)                32G\nEstablishing.\n33   INT.  CHEMICAL PLANT - DAY                              33\nIvan is walking through a giant chemical plant with Goldar"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Taking over the world is one\nthing.  It's finding good help to\nrun it for you that's the killer."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "You want me to place a few calls?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan shakes his head."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "No need.   I'm going to use the\nyoung minds of Angel Grove."
+  },
+  {
+   "type": "stage direction",
+   "text": "GOLDAR digs for buried treasure deep in his nose."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "No offense, boss, but they might\nfind you a little disgusting."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Yes, well, I suppose you'd know\na little something about that."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "Not to worry.  I'll ever so\ngently lure them in and mold them\ninto an army of devils!  And what\nbetter way to entice them ...\nthan with a little Ivan's Ooze?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan approaches an enormous vat, turns a tap -- it BURPS and\nGLOPS as PURPLE OOZE pours out."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "But boss, what about their\nparents?"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Ah, the old and doddering.  I'm\ngoing to SCOURGE their puny\nminds, reducing them to ZOMBIE'S.\nAnd then I'll put them to work\nrebuilding my empire."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bulk and Skull enter waving a \"help wanted\" flier.  Both\nthem are wearing their garish blazers and dark sunglasses."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "I understand you're looking for\na few new assistants."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bulk does a G.Q. stance."
+  },
+  {
+   "type": "speech",
+   "character": "BULK",
+   "text": "Well put your mind to rest `cause\nnow you've got the best."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan doesn't look too pleased."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "What is this?!  I advertised for\nbrilliant and good looking\nassistants!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Skull extends his hand."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "Hi, I'm brilliant."
+  },
+  {
+   "type": "speech",
+   "character": "BULK (hand extended)",
+   "text": "And I'm good looking."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan steps forward."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "And I'm Little-Bo-Peep."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bulk and Skull lower the sunglasses and take a good look\nIvan.  Both of them swallow hard."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "Bulk... why don't we give Mr.\nPeep here a chance to think it\nover?"
+  },
+  {
+   "type": "speech",
+   "character": "BULK",
+   "text": "A stellar idea, Skull."
+  },
+  {
+   "type": "stage direction",
+   "text": "They start to back away."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Not so fast, greaseballs."
+  },
+  {
+   "type": "stage direction",
+   "text": "Goldar blocks their way."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "You'll have to do."
+  },
+  {
+   "type": "stage direction",
+   "text": "34   thru   38   OMITTED\n39   EXT.  PHAEDOS JUNGLE - DAY                          39\nThe Rangers move through foreboding jungle terrain, their ears\nalert to all the UNEARTHLY SOUNDS around them.  Tommy watches\nKimberly, who seems to be lost in thought."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Hey."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kimberly glances up."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "You okay?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Kimberly takes a moment to answer."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "I was just thinking about\nZordon...  everything we've been\nthrough together."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "You know, meeting Zordon...\nteaming up with you guys, it's\nthe best thing that's ever\nhappened to me."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "It's the best thing that's ever\nhappened to all of us."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "... He's gonna make it, guys."
+  },
+  {
+   "type": "stage direction",
+   "text": "The others nod in agreement."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "We'll get this warrior...  save\nZordon...  and send that\nSLIMEBALL Ivan Ooze back to the\nSEWER he crawled out of."
+  },
+  {
+   "type": "stage direction",
+   "text": "Tommy's words sink in.  He stops suddenly, sensing something.\nANGLE ON - MORDANT hiding behind a tree, watching the Ranger's\npass.\nThere's a HORRIFIC SCREECH -- the kids look up as the TENGU\nWARRIORS COME SWEEPING OUT OF THE SKY"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "TAKE COVER!"
+  },
+  {
+   "type": "stage direction",
+   "text": "It's too late.  The Tengu attack with unbelievable ferocity\nThey SLASH with their claws, STAB with their beaks and BATTER\nwith their wings."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "THEY'RE T00 STRONG??"
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "WE NEED OUR POWERS!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rocky is hurtled into some bushes, Aisha is knocked against a\ntree, Adam splashes down in a small creek.  Mordant watches\nof this from the sidelines.  He gets so excited that he starts\nthrowing punches and kicks."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "WHAM!  KAPOW!  BOOM!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He accidently punches a tree."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "#0!@!#!"
+  },
+  {
+   "type": "stage direction",
+   "text": "One of the Tengu gets Kimberly in a choke-hold,"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "HANG ON, KIMBERLY."
+  },
+  {
+   "type": "stage direction",
+   "text": "Tommy rushes to help her and another Tengu trips him -- he\nTUMBLES HEAD OVER HEELS DOWN A SLOPE.  We hear an OTHERWORDLY\nCRY as a small, hunched figure wearing a tattered robe SWINGS\nIN ON A VINE.\nHe proceeds to pull off what is nothing short of a miracle.\nHe uses the STICKS for weapons as he executes a ROUNDHOUSE\nKICK, a SCISSOR-KICK TAKEDOWN, a SITTING SIDE KICK, a\nROUNDHOUSE DROP SPIN BACK KICK, a PARALLEL BLOCK FROM THE\nOUTSIDE, a REVERSE HANDSWORD and so on.\nThe creature punctuates the hits with an exotic variation of\nBRUCE LEE NOISES."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "What's the matter with you\nwoodpeckers!  Take this guy out!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Tengu SQUAWK and SQUEAL as the little dynamo WAILS ON THEM."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "The Tengu Warriors my butt!  The\nTengu TURKEYS is more like it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Finally the Tengu retreat, WINGING UP THROUGH THE TREES."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Hey, aren't you bird-brains\nforgetting something?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "One of the Tengu SWOOPS IN AND SNATCHES Mordant up."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Watch the meathooks!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Rangers recover and exchange expressions of utter disbelief"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Wow!  That was amazing for such\na little dude!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The figure speaks in a HOARSE WHISPER."
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE",
+   "text": "You're trespassing."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "Now state your business."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "We're looking for the Master\nWarrior.  Do you know where we\ncan find him?"
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE",
+   "text": "The Master Warrior doesn't\nentertain visitors  -"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "But we have to find him.  Our\nleader Zordon is dying."
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE",
+   "text": "Zordon?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Now the most amazing thing happens.  The figure RISES TO FULL\nHEIGHT OF SIX FEET, while simultaneously shedding it's robe.\nUnderneath is a SCANTILY CLAD, STUNNING AMAZONIAN WOMAN.  We're\ntalking B-U-I-L-T.  Meet the Master warrior, DULCEA.\nThe Rangers stand there with stunned expressions.  Dulcea looks\nto Tommy."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "How did this happen?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tommy just gapes.  Kimberly gives him a cold glance and THUNKS\nhim one with her elbow."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "The lady asked you a question."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Huh ... Oh, uh, we re, ah..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kimberly intervenes."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "He was attacked by this horrific\nbeing -- Ivan Ooze."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Ivan Ooze is free?!  We are all\nin mortal danger!"
+  },
+  {
+   "type": "stage direction",
+   "text": "She moves off - the Rangers just stand there staring at each\nother."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Let' s go."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Rangers quickly follow her through the brush Aisha turns\nto Kimberly, speaks under her breath."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Kind of bossy, isn't she?"
+  },
+  {
+   "type": "stage direction",
+   "text": "39A.. EXT.  ANGEL GROVE PARK - DAY      (OLD SC 38)         39A\nCLOSE UP - OOZE CONTAINER\nThere's a label with a picture of Ivan -- he's wearing make-up\nto make him a little more presentable.\nDOZENS OF KIDS Ranging in age from eight to seventeen, are swarming\nBulk and Skull, who have set up a booth with a large banner\nthat reads:      \"FREE OOZE!\"\nSome kids STRETCH the ooze, others MOLD it, others THROW it at\neach other.  It's an ooze free-for-all."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Boys and girls, girls and boys,\ngather round and feast your eyes.\nThis ain't sludge and this ain't\nguck... this is the one and only\nIvan's Ooze!  Yesireebob.  It's\nooey, gooey and even kind of\nchewy.  But best of all it's\nFREE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bulk and Skull run a booth.   A banner screams \"OOZE RULES\".\nKids crowd around."
+  },
+  {
+   "type": "speech",
+   "character": "BULK",
+   "text": "Here you go!  No pushing!"
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "There's enough for everybody!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Fred approaches."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "So where'd this guy come from?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bulk and Skull exchange apprehensive looks."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "Uh... that's classified, top\nsecret, confidential, undercover\ninformation."
+  },
+  {
+   "type": "speech",
+   "character": "BULK",
+   "text": "If we told you -- we'd have to\nkill you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Fred looks at the container in his hand but he doesn't open it.\nSkull sees a kid HURL some ooze at him."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "INCOMING!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Skull ducks and Bulk gets SPLATTERED in the face.  Bulk glares at\nSkull, wipes some goop off, FLICKS it at Skull."
+  },
+  {
+   "type": "speech",
+   "character": "WIZARD",
+   "text": "Come on, come all -- it's an COZE\nFREE FOR ALL!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He smiles, revealing a glistening silver tooth.\n40   thru   42   OMITTED\n42A   EXT.  DULCEA'S MOUNTAINSIDE COMPLEX - DAY            42A\nAn oriental garden set against a stunning hillside vista.\n43    EXT.  DULCEA'S CAMP / PHAEDOS - DAY                  43\nThe kids are seated on rocks by a lakeside, all of them\ndrinking from clay mugs.  Dulcea finishes handing out bowls.\nAisha stares into hers with a grim expression."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Is this... food!"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "They're called squirbs."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kimberly lifts out an EEL-LIKE CREATURE, and watches it SQUIRM\nbetween her fingers."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Mine seems to be a little\nundercooked."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea sprinkles hers with brown flakes."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Add a few dried weevils and\nyou'll never know the difference."
+  },
+  {
+   "type": "stage direction",
+   "text": "The other Rangers watch as Billy holds one of the squirbs over\nhis mouth and drops it in.  He chews a few times, lets out  a\nBURP."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "... Not bad."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Listen, we appreciate your\nhospitality, but we really don't\nhave much time."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea looks to Tommy."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "What do you know of the Great\nPower?"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Only that we need it to defeat\nIvan Ooze."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea's eyes move from Ranger to Ranger."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "It is said that to those who\npossess the Power... all things\nare possible."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Where did it originate?"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "In another time, another\ndimension.  It was brought here\nlong ago by the \"Nathadians\", a\npeople who are now all but\nextinct.\nThey built an impenetrable stone\nMonolith to store the power and\nkeep it from their enemies."
+  },
+  {
+   "type": "speech",
+   "character": "(ominous)",
+   "text": "For thousands of years, beings\nfrom all over the Universe have\ntried to obtain it... ALL have\nperished."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea's words hang heavily in the air."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "So how can we get to it?"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "The only way to obtain the power\nis to achieve the highest state\nof being..."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "And how do we do that?"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "By learning the ancient art of\nNinjetti.  It is the Genesis of\nwhat you on earth have come to\nknow as the Ninja."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "It is the perfect union of mind,\nbody and spirit."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Look, Zordon doesn't have much\nlonger to live.  And for all we\nknow, Angel Grove could already\nbe under attack.  We don't have\nTIME for this."
+  },
+  {
+   "type": "stage direction",
+   "text": "As Rocky is talking, a flubbery looking SNOUT works it's way\nover Kimberly's shoulder.  She hasn't noticed it yet."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "You don't understand.  If you do\nnot have the Ninjetti, the power\nwill destroy  you."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "To reach the Monolith we must\ntraverse the Neola jungle.  We\nwill train today, and set out on\nfoot tomorrow."
+  },
+  {
+   "type": "stage direction",
+   "text": "The snout works it's way underneath Kimberly's chin -- she\nSCREAMS FOR ALL SHE'S WORTH.\nINCLUDE - A TERRIFIED SNOGGLE.\nThis is Dulcea's ant-eater like assistant.   He jumps up and\ndown, YAMMERING and GESTICULATING."
+  },
+  {
+   "type": "speech",
+   "character": "SNOGGLE",
+   "text": "HNUGLHLU PHUNGLUMP BUGHLSMRPH\nGBUJIPHN HUPHLGMPNORU!!!"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Snoggle, you watch your language!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Snoggle now re-fills Aisha's tea-cup."
+  },
+  {
+   "type": "speech",
+   "character": "SNOGGLE",
+   "text": "Slnughyu buglhugrmrph?"
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Excuse me?"
+  },
+  {
+   "type": "speech",
+   "character": "SNOGGLE",
+   "text": "Slnughyu buglhugrmrph?"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "He wants to know if you'd like a\ncube of sugar in your tea."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Ah... sure."
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear a PHOOT as Snoggle BLOWS A CUBE OF SUGAR OUT HIS SNOUT\nAND IT SPLASHES INTO AISHA'S TEA.  Aisha stares at the cube a\nmoment."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Ah... thanks."
+  },
+  {
+   "type": "stage direction",
+   "text": "The other Rangers watch as Billy holds one of the squibs above\nhis mouth and drops it in.  He chews a few times, lets out a\nBURP."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "... Not bad."
+  },
+  {
+   "type": "stage direction",
+   "text": "43A   EXT.  ANGEL GROVE LANE - DAY   (OLD SC 40)                43A\nNight has fallen on Angel Grove.  We PAN ACROSS a quiet, middle-\nclass neighborhood, settle on a two story house.\n43B   INT.  LIVING ROOM / KELMAN-RESIDENCE - DAY   (OLD SC 41)  43B\nCLOSE ON - OOZE CONTAINER\nWe PULL BACK to reveal it's sitting on a table.\nMr Kelman enters, looks it over curiously.  He picks it up,\nopens it and sticks his finger inside.\nSuddenly a CRACKLING ELECTRICAL CURRENT RUNS OVER HIS ENTIRE\nBODY.  His face goes blank and his eyes momentarily GLOWS\nPURPLE.  Now he strides purposefully out the door.\n43C   thru   47   OMITTED\n48   EXT.  DULCEA'S GARDEN / PHAEDOS - DAY                   48\nDulcea and the Rangers are gathered around a bird-bath stand\nwith FLAMES leaping out of it."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "In the language of the\nNathadians, \"Nin\" stands for\n\"man\", \"jetti\" stands for\n\"animal\".  Ninjetti  - man and\nanimal, together as one."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "Now, put your hands inside the\nflame."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Yeah, right."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "It will not harm you."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids hesitate a moment, then reluctantly put their hands\ninside the flame.  Aisha makes a horrific expression..."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Just kidding."
+  },
+  {
+   "type": "stage direction",
+   "text": "They remove their hands -- they're filled with sand."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Wow.  Sand."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Now tell me... what do you see?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Aisha studies the sand for a moment -- it MAGICALLY TAKE ON\nTHE SHAPE OF A BEAR."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA (bedazzled)",
+   "text": "I see... a bear"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Aisha, you are the Bear, stalwart\nand bold."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Stylin'!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea turns to Rocky.  His sand MAGICALLY TAKES ON THE SHAPE\nOF AN APE."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "I see... an Ape."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Rocky, you are the Mighty Ape."
+  },
+  {
+   "type": "stage direction",
+   "text": "We see each of them DISCOVER THEIR ANIMAL."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "I see... a fox"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Close.  Billy, you are the Wolf,\ncunning and swift."
+  },
+  {
+   "type": "stage direction",
+   "text": "And now Kimberly.  She studies hers for a moment.  It looks\nlike a bird."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "I think its some kind of bird."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Kimberly, you are the Crane,\nagile and sublime."
+  },
+  {
+   "type": "stage direction",
+   "text": "Now Adam."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "That's gotta be a frog."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Adam, you are the Frog, quick as\nlightning."
+  },
+  {
+   "type": "stage direction",
+   "text": "And finally, Tommy."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "It's... an eagle?"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Look closer."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "... A falcon?"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Tommy, you are the Falcon, Winged\nLord of the Sky."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kimberly regards Dulcea with true admiration."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "How do you know so much about the\nNinjetti?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea stands tall and proud."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "I... am the sole living\ndescendant of the \"Nathadians\"."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "Now prepare yourselves for the\nmost intense physical and mental\ntraining known to man and animal."
+  },
+  {
+   "type": "stage direction",
+   "text": "48A   INT.  KELMAN HOUSE / LIVING ROOM  -  DAY   (OLD SC 44)    48A\nFred enters the living room and searches for his Dad."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "Dad... ??!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He heaves a frustrated sigh.\n48B   INT.  KELMAN HOUSE / MASTER BEDROOM  -  DAY   (OLD SC 45) 48B\nFred enters the empty master bedroom, a look of concern coming\nover him."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "DAD?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "48C   EXT.  KELMAN HOUSE  -  DAY    (OLD SC 46)                 48C\nFred comes outside as several KIDS approach, all of them\nlooking forlorn."
+  },
+  {
+   "type": "speech",
+   "character": "KID #1",
+   "text": "You seen my parents?"
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "I can't find my dad either."
+  },
+  {
+   "type": "speech",
+   "character": "KID #2",
+   "text": "What's going on?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Suddenly a WILD KID wearing grunge clothes runs by HOWLING LIKE\nA BANSHEE.  He's holding a container of ooze in one hand and a\nbaseball bat in the other.  He SMASHES a couple of trash  cans\nwith his bat."
+  },
+  {
+   "type": "speech",
+   "character": "WILD KID",
+   "text": "Ooze, ooze, ooze rules!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The kid BASHES IN a mailbox then runs off.  Fred looks\nstartled."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "That guy was the student body\nPresident"
+  },
+  {
+   "type": "stage direction",
+   "text": "49   thru   50   OMITTED\n51   EXT.  DULGEA'S GARDEN - DAY                            51\nKimberly and Snoggle observe as Dulcea walks ON HER HANDS\nacross a narrow bamboo log that spans a pond.  A waterfall\nchurns in the b.g."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "The crane maintains it's agility\nthrough the perfect harmony of\nmind, body and spirit."
+  },
+  {
+   "type": "stage direction",
+   "text": "She leaps into the air, does a ROUND-HOUSE KICK, lands\nperfectly on the narrow span."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Awesome!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea reaches the end of the log, flips through the air lands\nflawlessly on the ground.\nKimberly heaves a sigh, climbs onto the bamboo and start\nwalking across, balancing precariously on her hands.\nShe gets about a quarter of the way, loses her balance, and\nfalls into the shallow pond.\nSnoggle laughs, making a loud HONKING SOUND.  Kimberly\nrecovers, shoots him a look."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Let's see you do it ."
+  },
+  {
+   "type": "speech",
+   "character": "SNOGGLE (indignant)",
+   "text": "Ghun Phnug Gnouphl."
+  },
+  {
+   "type": "stage direction",
+   "text": "He marches to the pole, Dulcea holds him back."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Snoggle, we don't have time for\nyou to show off"
+  },
+  {
+   "type": "stage direction",
+   "text": "52   thru   53   OMITTED\n53A   EXT.  DULCEA'S GARDEN / PHAEDOS - DAY                  53A\nDulcea and Rocky are standing at the bottom of a twenty foot pole\nwith an exotic oriental carving"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "The ape is strong, but more\nimportantly it is flexible and\nfree."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea now SCRAMBLES UP THE POLE WITH THE NIMBLENESS OF A\nSPIDER.  In less than ten seconds she reaches the top.  Rocky\nshakes his head in disbelief."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Who is this lady?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Now she SLIDES DOWN like a firewoman, drops beside Rocky.  He\ntakes hold of the pole, focuses for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Here goes!"
+  },
+  {
+   "type": "stage direction",
+   "text": "It starts SCURRYING UPWARD.  He gets about fifteen feet in the\nair, loses his grip, PLUMMETS AND SLAMS TO THE GROUND.\n54A   EXT.  DULCEA'S GARDEN / PHAEDOS - DAY   (OLD SC 53)       54A\nDulcea and Billy circle one another, fighting with spinning\nWHISTLING sticks.\nDulcea is blindfolded, Billy isn't."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "The wolf relies on it's enhanced\nsenses to guide it...  He can\nhear what we cannot hear, he can\nsmell what we cannot smell."
+  },
+  {
+   "type": "stage direction",
+   "text": "Billy takes SWING after SWING -- Dulcea easily DEFLECTS every\nblow.\nNow Dulcea takes numerous SWINGS, THWACKING Billy repeatedly\nand finally KNOCKING him INTO THE WATER.\n54B   EXT.  DULCEA'S GARDEN / PHAEDOS - DAY                    54B\nDulcea, Adam and Snoggle stand in an area filled with FLYING\nINSECTS."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "The frog remains still and silent\nwhile it assesses its target...\nthen strikes out in the blink of\nan eye."
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear a TRILLING SOUND as Dulcea watches some kind of insect\ndart around her.\nTHWAP!  The TRILLING SOUND is gone.  Dulcea has literally\ncaught the insect in the blink of an eye.  Adam shakes his head\nin disbelief.\nHe waits a moment, hears a TAT-TAT-TAT sound and watches a\ninsect zip around him.  He lashes out numerous times,\nmissing the insect completely.\nTHWUMP!  With lightning speed Snoggle VACUUMS the fly into his\nsnout.  CRUNCH, CRUNCH, CRUNCH.\nAdam speaks under his breath."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "Show off."
+  },
+  {
+   "type": "stage direction",
+   "text": "54C   EXT.  DULCEA'S GARDEN / PHAEDOS - DAY   (OLD SC 52)    54C\nAisha watches as Dulcea goes into a bear stance."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "The bear is sturdy as a towering\ntree.  Nothing can uproot it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Snoggle CHARGES Dulcea, SLAMS INTO HER.  She remains as rooted\nas a tree.  Snoggle meanwhile suffers some serious bodily\ndamage."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Girl, you've got to be kidding\nme."
+  },
+  {
+   "type": "stage direction",
+   "text": "Snoggle recovers and faces Aisha.  Aisha shrugs, goes into a\nbear stance.  Snoggle charges, SLAMS INTO HER and sends HER\nFLYING!\n54D   thru   54E   OMITTED\n54F   EXT.  DULCEA'S GARDEN / PHAEDOS - DAY                  54F\nDulcea and Tommy are standing on a towering rock rising out of\na dark lake."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "The falcon never struggles with\nthe air, but rather becomes one\nwith it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Now Dulcea does the impossible.  She LEAPS OFF THE ROCK, SOARS\nFIFTY FEET through the air, AND LANDS on another protruding\nrock.  Tommy is stunned."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA (calling out)",
+   "text": "JOIN WITH THE FORCES OF NATURE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tommy psyches himself up."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "You can do this.  You can do\nthis.  You can do this..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He spreads his arms out, LEAPS... and DROPS LIKE A ROCK\nexploding into THE BLACK WATER.\n54G   INT.  COMMAND CENTER - NIGHT      (OLD SC 54E)     54G\nAlpha fusses over Zordon, who is looking a good ten years older."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "... Alpha, I am deeply concerned\nabout the Rangers..."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "I told them it was too dangerous,\nbut they wouldn't listen."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "... We must try to communicate\nwith them."
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha looks out over the decimated Command Center."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Perhaps if I could locate a\nvertical-deflector then I could\nassemble a holographic-comlink."
+  },
+  {
+   "type": "stage direction",
+   "text": "Zordon shudders in pain, closes his eyes.  Alpha watches over\nhis mentor, shakes his head in anguish."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA",
+   "text": "Ay, yi, yi, yi, yi ."
+  },
+  {
+   "type": "stage direction",
+   "text": "55   OMITTED\n55A   EXT.  DULCEA'S GARDEN / PHAEDOS - NIGHT                  55A\nDulcea leads the kids through a circular opening in one\nwall, all of them look completely wiped out.  She reaches an\nornate doorway, faces the Rangers."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Each of you must reach deep\nwithin and draw upon your natural\ninstincts...  Only then will you\nknow the way of the Ninjetti."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "Rest for a few hours.  We will\ncontinue at daybreak."
+  },
+  {
+   "type": "stage direction",
+   "text": "She heads through the door."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "So where are we supposed to\nsleep?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Snoggle points to the campfire."
+  },
+  {
+   "type": "speech",
+   "character": "SNOGGLE",
+   "text": "Buhph nghujr."
+  },
+  {
+   "type": "stage direction",
+   "text": "He pushes Kimberly toward it making a \"Na na na na na\" sound\nthrough his snout.  He then hurries inside and SLAMS the door."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "That guy's cruisin' for a\nbruisin'."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids approach the dying fire, all of them limping a little."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "I can hardly walk..."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "I've never been this sore in my\nlife."
+  },
+  {
+   "type": "stage direction",
+   "text": "They drop around the fire, a few of them GROANING.  They stare\ninto the orange coals for a long moment, all of them looking\ndisillusioned."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Do you guys really think we can\npull this off?"
+  },
+  {
+   "type": "stage direction",
+   "text": "It takes a moment to get a response."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "Maybe if we had more time."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "... I wonder... We've been\nrelying on our Morphin Powers for\nso long... maybe we've forgotten\nhow to rely on ourselves."
+  },
+  {
+   "type": "stage direction",
+   "text": "There's a somber silence."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "We should get some rest."
+  },
+  {
+   "type": "stage direction",
+   "text": "They all settle in for the night.\n55B   EXT.  INNER CITY CONSTRUCTION SITE  -  NIGHT  (OLD SC 47) 55B\nA PURPLE HAZE OF SMOKE has settled on the construction site.\nSuddenly, mysteriously, SWARMS OF ZOMBIFIED PARENTS emerge from\nthe vapors - We see Mr. Kelman amongst them.\nIvan steps forward, followed by Goldar."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Ladies and gentlemen, Simon\nsays...  STOP!"
+  },
+  {
+   "type": "stage direction",
+   "text": "All the parents stop."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Simon says... stand on one foot!"
+  },
+  {
+   "type": "stage direction",
+   "text": "All the parents stand on one foot.  Ivan seems to be taking a\nperverse glee in all this."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Simon says..."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "Quack like a'duck!"
+  },
+  {
+   "type": "stage direction",
+   "text": "All the parents start QUACKING LIKE DUCKS.   Ivan slowly turns\nto Goldar, gives him an icy stare."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "It just slipped out."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan turns back to the QUACKING parents."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "SHUT UP!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The parents keep quacking."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "You didn't say \"Simon says\"."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN (irritated)",
+   "text": "Simon says SHUT UP!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(they shut up)"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN (irritated)",
+   "text": "Now, as soon as I give the word\nI want all of you to start\ndigging."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "Do I make myself perfectly --"
+  },
+  {
+   "type": "stage direction",
+   "text": "The zombie parents have already started going to work.  Ivan\nshakes his head in exasperation."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "This is the Iast time I use\nparents for anything!"
+  },
+  {
+   "type": "stage direction",
+   "text": "55C   EXT.  DULCEA'S GARDEN / PHAEDOS - NIGHT             55C\nThe Rangers are fast asleep.  A night wind WHISTLES through the\ntrees, causing the branches to shiver.\nAfter a moment, there's movement in the bushes.  Suddenly,\namazingly, a WOLF emerges -- his mane glistening in the\nmoonlight, his eyes GLOWING LIKE FIRE.\nHe surveys the sleeping clan, moves straight toward Billy.  He\nstands inches away from him, watches him with an intense gaze.\nBilly stirs slightly.\nThe embers cast an orange glow on Kimberly's sleeping face\nA SHADOW moves over her and two CRANE LEGS step into frame.\nThere's a FLURRY OF FLAPPING WINGS as a FALCON SWOOPS DOWN and\nlands on a rock directly above Tommy.  The bird fixes on Tommy\nwith its piercing eyes.\nWe hear a GRUNTING SOUND as the SILHOUETTE OF AN APE APPEARS:\nNow a FROG HOPS through the air and lands inches away from\nAdam.  The frog sits there a moment, it's THROAT THROBBING\nNow we hear a DEEP GROWL and a tree SHAKES.  Aisha fidgets in\nher sleep as an ENORMOUS BEAR SHADOW FALLS OVER HER.\nNow, all at once, the six animals VANISH INTO THIN AIR LIKE\nSPIRITS OF THE NIGHT.\n55D    EXT.  CONSTRUCTION SITE - NIGHT  (PART OLD SC 55B)     55D\nIvan and Goldar patrol the parents who are busy digging."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Let's pick it up here!  I've got\na schedule to keep.  In twenty\nfour hours the ooze is gonna hit\nthe fan!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Goldar suddenly point to the sky."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "Hey, boss!"
+  },
+  {
+   "type": "stage direction",
+   "text": "THE TENGU DROPS INTO THE SCENE, SQUEALING"
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "What kind of landing was that?!\nThese clowns are a menace to the\nsky"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "How did you fare?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mordant waves Ivan off."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Oh, it couldn't've gone better.\nThe Power Rangers didn't know\nwhat hit them ."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Tengu appear, one of them SQUAWKS and makes grand gestures."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "That's right.  And then we threw\none of them off a mountain and\nanother one into a raqing river!"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "So they've been destroyed?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Tengu SQUAWKS some more."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "\"Basically\"."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "What do you mean \"basically\"?"
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Well... we were about to finish\nthem off... when this huge\nmonster came out of nowhere!"
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Okay, maybe he wasn't so huge.\nBut you should've seen the size\nof his STICKS"
+  },
+  {
+   "type": "stage direction",
+   "text": "A pensive look comes over Ivan..."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Did these sticks make a whistling\nsound?"
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "How'd you know?"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Dulcea!"
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "That miserable, manipulating\nloathsome she-devil of a WITCH!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "To help make the point Mordant SPITS on the ground."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "How could you let them get away?!\nIf Dulcea leads them to the Great\nPower, everything will be ruined!\nThey must be OBLITERATED!"
+  },
+  {
+   "type": "stage direction",
+   "text": "One of the Tengu SCREECHES again."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "What're you talking about?!  It\nwasn't my fault!  You're the\nfeatherbrains that let them get\naway!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan looks up to the sky."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "I call upon the Powers of\nDarkness to enrich the evil of my\ncreatures by tenfold!"
+  },
+  {
+   "type": "stage direction",
+   "text": "LIGHTNING RIPS from the sky and ZAPS THE TENGU, CAUSING THEM TO\nGLOW RADIANTLY."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "And now the coup de grace, to\nlead my tribe to victorious\nbattle!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He shoots a BOLT OF ENERGY AND CREATES THE OUEEN TENGU!  She is\na different color than the rest and her eyes GLOW RED.  Mordant\nshakes his head in wonder."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Where does he come up with this\nstuff?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Queen spreads her wings and makes the most HORRENDOUS\nSCREECH imaginable."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Queen Tengu, lead-your warriors\nto Phaedos, FEAST YOURSELVES UPON\nTHE POWER RANGERS AND BRING ME\nDULCEA!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Once again, the Tengu take to the sky like GIANT BATS.\n55E   EXT.  LONG SHOT OF DULCEA'S COMPOUND - SUNRISE (MATTE) 55E\nThe morning sun bathes Dulcea's compound in a shimmering golden\nlight.\n55F   EXT.  DULCEA'S COMPOUND - SUNRISE   (OLD SC 55D)         55F\nCLOSE ON KIMBERLY\nSnoggle's snout works it's way toward her making SNORTING\nSOUNDS.\nKimberly bolts awake and SLAMS his snout with her fist.  She\nYELPS LIKE A CHILD as he grips the protrusion and JUMPS\nUP AND DOWN."
+  },
+  {
+   "type": "speech",
+   "character": "SNOGGLE",
+   "text": "BUGHU PHUNGL MURHPUGNU!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "All the Rangers spring awake.  As they get out from under their\nblankets they're shocked to discover that they're all wearing\nNinjetti costumes with animal symbols on their chest."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "How the heck?!..."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "What's going on?!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "I don't believe it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea approaches, a wondrous expression on her face."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "You have been visited by the\nanimal spirits... they have given\nyou their blessing."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Rangers continue to admire their symbols in silent wonder.\n55G   EXT.  DULCEA'S GARDEN / PHAEDOS - MORNING  (OLD SC 55E)   55G\nMONTAGE\nHARD DRIVING MUSIC KICKS IN.\n1.  We see Aisha standing on a rock, her whole body flowing in\na martial art exercise.\n2.  Billy and Dulcea continue to fight with whistling sticks.\nBilly is starting to get the hang of it.  He hits Dulcea a few\ntimes, then she CLOBBERS him.\n3.  Kimberly balances along the bamboo log again.  She does a\nFLIP and lands it, however one foot slips off and she struggles\nto maintain her balance.\n4.  Tommy stands on the protruding rock again, spreads high\nlike a falcon, SOARS THROUGH THE AIR.  He gets about ten feet\nthen DROPS INTO THE WATER.\n5.  Rocky climbs up the oriental pole -- this time he makes it\nup about FIFTEEN FEET before he slips.  He only drops five\nfeet.\n6.  Adam stands amidst overhanging trees and goes into his frog\nanimal stance, his entire being focused on his actions.\n7.  Billy stands off alone practicing with the whistling\nsticks.  The weapons are now a BLURR in his hands.\n8.  Kimberly balances along the log, executes a FLIP, lands it\nperfectly, throws her arms up triumphantly.\n9.  Adam stands on the lakeshore, c\u007fncentrating on a buzzing\ninsect.  He strikes out at it, but  just misses it.\n10.  Aisha also does something appropriate.\n55H   EXT.  ANGEL GROVE PARK - DAY   (OLD SC 55F)       55H\nHUNDREDS OF KIDS AND TEENAGERS fill the park, all of them\nwearing PURPLE CLOTHES.  They're all dirty and grunged out\nThey jump around, breaking stuff, sparring with each other\nIt's total pandemonium.\nSuddenly, an ERUPTION OF SMOKE -- and Ivan, disguised as the\nwizard, MAGICALLY APPEARS.  The crowd CHEERS, Nuremburg style,\nfists raised."
+  },
+  {
+   "type": "speech",
+   "character": "CROWD",
+   "text": "OOZE!  OOZE!  OOZE!  OOZE!"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Thank you!  Please!  You're too\nkind."
+  },
+  {
+   "type": "speech",
+   "character": "(sotto voce)",
+   "text": "Finally. a little appreciation\nwhere it's deserved."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "We love you Ivan!"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Right back at ya!-"
+  },
+  {
+   "type": "speech",
+   "character": "(he smiles)",
+   "text": "Now, WHO MISSES SCHOOL?!"
+  },
+  {
+   "type": "speech",
+   "character": "CROWD",
+   "text": "NOT US!"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "AND WHO MISSES RULES?!"
+  },
+  {
+   "type": "speech",
+   "character": "CROWD",
+   "text": "NOT US!"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "AND WHO WANTS TO JOIN ME IN\nRAISING HELL ACROSS  THE\nUNIVERSE?!"
+  },
+  {
+   "type": "speech",
+   "character": "CROWD",
+   "text": "WE DO!"
+  },
+  {
+   "type": "stage direction",
+   "text": "At the edge, Fred discreetly approaches Bulk and Skull."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "Can I have a word with you guys?"
+  },
+  {
+   "type": "speech",
+   "character": "(he pulls them aside)",
+   "text": "What's really going on here?!\nWhere are everybody's parents?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bulk and Skull exchange a look."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "Like we said before, that's\nclassified, top secret..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Fred decides to be tricky."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "Look, Ivan wants me to go dump a\nload of garbage all over them."
+  },
+  {
+   "type": "speech",
+   "character": "BULK",
+   "text": "Well, why didn't you say so?!"
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "They're at the World Center\nConstruction Site."
+  },
+  {
+   "type": "stage direction",
+   "text": "Fred nods."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "Uh.   OOZE RULES!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He does a ridiculous mock salute.  Bulk and Skull repeat it."
+  },
+  {
+   "type": "speech",
+   "character": "BULK AND SKULL",
+   "text": "OOZE  RULES !"
+  },
+  {
+   "type": "stage direction",
+   "text": "Fred rolls his eyes and hurries away.\n56   thru   57A   OMITTED\n58    EXT.  JUNGLE / PHAEDOS - MORNING                         58\nDulcea leads Snoggle and the Rangers up a stone path.  They\napproach a bush filled with exotic berries.  All of them start\neating the berries."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Dulcea... how do you and Zordon\nknow each other?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea reminisces."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "We belonged to an interstellar\nPeace Keeping Force known as the\n\"Order of the Meledan\"."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "Zordon was widely regarded as the\nfinest Commander in the Galaxy.\nHe was a true Legend... If it\nwasn't for him, the Universe\nwould be a very different place\nfrom what it is today."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids are overwhelmed by what they're hearing."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "So...  what happened?"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Over time our enemies were\ndefeated...  I returned to\nPhaedos, Zordon moved on to\ncontinue the struggle elsewhere."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "Until you kids showed up, I\nhadn't heard from him for\ncenturies."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Rangers are silent for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "He was always an inspiration..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea speaks with grim-visaged intensity."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "This is why I'm taking you to the\nNathadian Monolith.  That is why\nI'm teaching you the Ninjetti."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "If Zordon dies... then a piece of\nall of us dies... and the force\nof good within the Universe will\nbe dealt an irreparable blow."
+  },
+  {
+   "type": "stage direction",
+   "text": "These words strike deep in the kids.\n59   EXT.  INNER CITY CONSTRUCTION SITE - DAY                    59\nThe bulldozers and earth movers have dug out a twenty foot pit.\nIVAN leads Goldar and Mordant through the site, passing dozens\nof laboring parents."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "As soon as we've taken over the\nworld I'm gonna change my name to\nSir Mordant.  Or how about MAJOR\nMordant?!"
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "How about Major Moron?"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "How about the two of you shut Up\nand pay attention!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The entourage comes to a stop, Goldar and Mordant can't believe\nwhat's before them."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "What is THAT!"
+  },
+  {
+   "type": "stage direction",
+   "text": "INCLUDE - A HUGE MECHANICAL ARM AND LEG EXTRUDING FROM THE DIRT."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Feast your eyes upon the\nexoskeleton of the barbaric\nHORNITOR!"
+  },
+  {
+   "type": "speech",
+   "character": "(to parents)",
+   "text": "KEEP DIGGING.  THE DREADFUL\nSCORPITRON SHOULD BE CLOSE BY."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "ONCE I HAVE MY ECTO-MORPHICON\nMACHINES UP AND RUNNING, I SHALL\nANNIHILATE ANGEL GROVE... AND\nTHEN... THE WORLD"
+  },
+  {
+   "type": "stage direction",
+   "text": "ANGLE ON FRED as he darts through the construction site, taking\ncare not to be seen.  He hunkers down behind a stack of\ntwo-by-fours, searches the area.  He spots his dad, speaks under\nhis breath."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "Dad...?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He glances around to make sure the coast is clear, then sprints\noff to where his dad is digging, grabs his hand."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "We have to get out of here!"
+  },
+  {
+   "type": "speech",
+   "character": "MR. KELMAN",
+   "text": "Dig... dig... dig..."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "Dad?!... It's me, Fred!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mr. Kelman just gives Fred a blank stare."
+  },
+  {
+   "type": "speech",
+   "character": "MR. KELMAN",
+   "text": "Dig... dig... dig..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Suddenly an ARM FALLS ON FRED'S SHOULDER."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT (O.S.)",
+   "text": "Gotchya!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Fred whips araund, finds Mordant standing behind him.     He\nSPRINGS TO ACTION pulling off a lightning quick IRON HAMMER\nFIST STRIKE, a PALM HEEL BLOCK, A FRONT KICK WITH JUMPING\nKICK.\nMordant is getting pummeled.  The last kick sends him FLYING\nBACK INTO THE DIRT.  Fred takes off as Goldar stands over\nMordant."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Just shut your gap!"
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "Did I say anything?"
+  },
+  {
+   "type": "stage direction",
+   "text": "60   OMITTED                                                 60\n61   INT.  COMMAND CENTER - DAY                              61\nZordon is looking more decrepit than ever.  Alpha inserts\ntube into a make-shift electronic contraption."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "By bouncing ultra-high\nfrequencies off one of the\nnetwork satellites, I can send a\nlong-range pulsar signal to\nwithin TWO FEET of the Rangers\ncoordinates."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON\n(with difficulty)",
+   "text": "... I just pray we're not too\nlate."
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha continues making adjustments."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Let's give it a whirl."
+  },
+  {
+   "type": "stage direction",
+   "text": "He flicks a switch and the screen LIGHTS UP WITH STATIC.  The\nthe same reporter we saw at the opening of the movie appears."
+  },
+  {
+   "type": "speech",
+   "character": "REPORTER",
+   "text": "Angel Grove Police have been\nfielding hundreds of calls from\nconcerned citizens as the number\nof missing gersons continues to\ngrow"
+  },
+  {
+   "type": "stage direction",
+   "text": "There's more STATIC, then IVAN APPEARS AS THE WIZARD."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Hi, folks, Ivan Ooze here."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Ai,  yi,  yi,  yi,  yi"
+  },
+  {
+   "type": "stage direction",
+   "text": "As Ivan speaks we see Mordant behind him waving into camera."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Are you bored with your work?\nAre you bored with your family\nAre you bored with your 1ife\nWell, come on down to Ooze City\nand LET'S GET STICKY!"
+  },
+  {
+   "type": "stage direction",
+   "text": "62    OMITTED                                               62\n63    EXT. ROCKY TERRAIN  -  DAY                            63\nThe group reaches the crest of a ridge -- off in the background\nwe can see the outline of the Nathadian Monolith."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "The Monolith is there in the\ndistance."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids strain to get a better look."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "This is as far as I can take you."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids are thrown by this."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "You're leaving us?!"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "I have taught you all that I\nknow.   Now you must achieve the\nNinjetti on your own."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids share glances, not quite knowing what to say."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "It is said that once you've\nreached the power... you have\nonly ten triacs to release it."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "What's a Triac?"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "About twenty seconds in your\ntime."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "And how do we release the power?"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "The legend goes that you release\nthe power with the power."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "What does that mean!"
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "That is a question that even I\ncannot answer."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "Remember, ten triacs.  After that\nsomething bad will happen."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Like...how bad?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea gives them a grim look."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "They say the power will throw off\na super-heated, radioactive\nfireball, instantly reducing you\nto ash and bits of charred bone."
+  },
+  {
+   "type": "stage direction",
+   "text": "Aisha nods."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "That's pretty bad."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Thank you, Dulcea.  For\neverything."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dulcea catches her hand and six Rangers put their hands on top\nof hers."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Ka'Alabas tor nartu En'Kata-Tay."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "May your animals watch over you."
+  },
+  {
+   "type": "stage direction",
+   "text": "64   OMITTED                                                64\n65   EXT.  CHEMICAL PLANT - DAY                             65\nThe sky above the chemical plant is BOILING WITH DARK CLOUDS.\n56   INT.  CHEMICAL PLANT - DAY                             66\nThe parents have finished assembling the STEEL TOWER -- thick\ncables run from the base to the skeletal heads of Hornitor and\nScorpitron.\nWe see a group of parents fastening clear plastic pipes to the\nskeletal feet -- the pipes are attached to the vat of ooze.\nMordant videotapes Ivan as he struts past a giant mechanical\nfoot."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Finally, after centuries of\nwaiting, my Ecto-Morphicon\nmachines are ready to take on the\nworld!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mordant gets the camera a little too close to Ivan."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "GET THAT THING OUT OF MY FACE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan SWATS Mordant and the camera FLIES up through the air and\nSMASHES against a wall."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Oh, man, that was a rental!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ANGLE ON - FRED watching from behind a generator, an alarmed look\non his face.  Ivan steps up onto a platform."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Mordant... let the ooze flow!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mordant pulls a lever and the OOZE SLITHERS THROUGH THE\nPIPES AND STARTS FILLING OUT THE GIANT EXOSKELETONS."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Goldar... the roof!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Goldar presses a button and the roof of the plant ROLLS OPEN,\nREVEALING THE TUMULTUOUS SKIES ABOVE."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Looks like a fine day for raising\nHELL!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan holds his arms up to the heavens."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "HECALE MENNIPUS LIBRI MAGUS!"
+  },
+  {
+   "type": "stage direction",
+   "text": "THE SKY CRACKLES WITH THUNDER AND A JAGGED BOLT OF LIGHTNING\nSTREAKS DOWN, ZAPS THE METAL TOWER SENDING UP AN ENORMOUS\nERUPTION OF SPARKS!"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Bullseye!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ELECTROMAGNETIC CHARGES TRAVEL THE LENGTH OF THE CABLES AND HIT\nHORNITOR AND SCORPITRON WITH SEARING BLASTS OF ENERGY."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "LIFE!!  Give my creatures LIFE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mordant admires Ivan."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "This guy is the King!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Now the most amazing thing of all happens...\nThe SCINTILLATING BEHEMOTHS AWAKE FROM THE DEAD, THEIR EYES AND\nMOUTHS OPENING, THEIR ARMS REACHING UPWARD.  The beasts ROAR\nOUT IN THUNDEROUS RAGE.\nMordant's HAIR LITERALLY STANDS ON END -- he quickly retreats\nbehind a drum.\nFRED looks on in horror."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "PARENTS OF ANGEL GROVE."
+  },
+  {
+   "type": "stage direction",
+   "text": "All of them turn their attention to Ivan."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "YOU HAVE SERVED YOUR PURPOSE.\nNOW YOU WILL RETURN TO THE\nCONSTRUCTION SITE AND LEAP TO\nYOUR DEMISE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The parents just stand there with blank expressions."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "What're you waiting for??..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Goldar taps him on the shoulder and he spins around."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "What!"
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "You forgot to say 'Simon says.\""
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan shakes his head dismally.\n67   EXT.  ROPE BRIDGE -  DAY                              67\nThe Rangers crest a hill and Adam, who's in the lead, suddenly\ndrops down - the others following suit.\nThey peer over the ridge -- their eyes wide.\nBefore them, a tenuous rope bridge leads to a vast rock landing.\nThe ocean RAGES BELOW.\nOn top of the island is the Nathadian Monolith.  It's a  mind-\nboggling wonder from another time and place.\nBetween the Rangers and the bridge, the Tengu Warriors are on\npatrol."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Man, these are the last guys I\nwanted to see."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Whadda we do now?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Kimberly surveys the area."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "That's the only way to the\nMonolith..."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "We can take these guys!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tommy pulls all of them into a huddle.\n68   EXT.  ROPE BRIDGE -  DAY                                  68\nThe Tengu are on full alert.  One of them hears something,\nsnaps around, there's nothing there.\nAnother Tengu looks down as a frog hops between his leg.  He\nSCREECHES and STOMPS down his taloned foot, missing the\ncreature by inches.\nWe hear a CAW and the Queen Tengu squints as she spots a falcon\ncircling in the sky above.  The Queen is perched on top of a 20\nfoot rock face. She looks around hesitantly.\nNow the Rangers ATTACK, some of them LUNGING OFF ROCKS, others\nBURSTING out of crevices, others coming over the walls.\nBilly wields his WHISTLING sticks -- misses several times, then\nstarts BASHING and THWACKING the feathered beasts.\nThe Queen SHOOTS A LASER BLAST from her eyes -- it EXPLODES\nbefore Tommy.\nKimberly battles another Tengu and the creature forces her back\non to the rickety bridge.\nThe Queen FIRES ANOTHER BLAST."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "LOOK OUT!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Rocky DIVES, knocking Aisha away from the bolt.\nAdam and one of the Tengu circle each other warily."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "The frog silently assesses its\ntarget, then strikes out..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Suddenly the Tengu is HURTLED BACKWARD TEN FEET THROUGH THE\nAIR.  We didn't even see Adam move."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "... in the blink of an eye."
+  },
+  {
+   "type": "stage direction",
+   "text": "Tommy steps up behind a Tengu."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Yo, Tweety!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Tengu turns around and Tommy WHALLOPS HIM WITH A SPINNING-\nHEEL KICK.  A Tengu faces down Aisha and she goes into a bear\nstance."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "The bear is sturdy as a towering\ntree.  Nothing can uproot it."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Tengu CHARGES LIKE A BULL, SLAMS INTO AISHA.  She holds\nfast and the bird EXPLODES INTO A CLOUD OF FEATHERS."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Bye, bye birdy."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kimberly continues balancing precariously on the bridge as she\nEXCHANGES BLOWS with her foe.\nShe finally drops into a crane stance... then just like Dulcea\nshe LEAPS THROUGH THE AIR, EXECUTES A BRUTAL SPINNING HELL KICK\nand sends the birdman TUMBLING OFF THE BRIDGE.\nIn a movement that seems to defy gravity, she lands perfcctly\nback on the swinging bridge."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "Hasta la Pasta, Bigbird!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Billy swings his sticks, BASHES one of the Tengu in the beak --\nthe creature EXPLODES INTO A CLOUD OF FEATHERS!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "AIM FOR THEIR BEAKS!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tommy reaches the top of a rack.  He sees a Tengu making a\nKAMIKAZE DIVE TOWARD KIMBERLY.  TOMMY DIVES, SOARING THIRTY\nFEET THROUGH THE AIR -- HE INTERCEPTS THE TENGU AND THEY SPIN\nTOWARD EARTH TOGETHER.  They HIT the ground and EXCHANGE BLOWS\nAS THEY FALL OVER ONE ANOTHER.\nRocky SLAMS another Tengu in the beak, KABLAM  -- the creature\nis OBLITERATED.\nTommy LEAPS INTO THE AIR, NAILS two Tengu in the beaks.  They\nBOTH BURST IN AN EXPLOSION OF FEATHERS.\nThe Queen shoots another BOLT OF ENERGY --  a rock EXPLODES,\nSHOWERING THE KIDS WITH SHRAPNEL.  Aisha turns to Rocky."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "It's up to you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rocky takes a deep breath, goes into a crouch position.\nIncredibly he SCALES THE WALL IN THE SAME WAY HE WENT UP THE\nPOLE.  HE FLIPS OVER THE TOP and lands right before the Queen\nTengu.  He looks her dead in the eye."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Polly wanna cracker?"
+  },
+  {
+   "type": "stage direction",
+   "text": "With that, he executes a devastating SPINNING-HEEL KICK and the\nQueen BURSTS INTO OBLIVION."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "ALL RIGHT, ROCKY!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Instantly, the remaining Tengu retreat, SQUAWKING and CAWWING  in\nrage.  The kids turn to eaeh other, sharing in a moment of triumph."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "WE DID IT!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "72   EXT.  ANGEL GROVE TOWER - DAY                               72\nWe're on top of a high tower overlooking the entire city\nThere's a BURST OF PURPLE SMOKE -- Ivan, Mordant and Goldar\nappear.  Ivan looks out on the city, holds up his arms\ntheatrically."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "ANGEL GROVE... I'D LIKE TO\nINTRODUCE YOU TO A COUPLE OF MY\nNEAREST AND DEAREST FRIENDS...\nHORNITOR!"
+  },
+  {
+   "type": "stage direction",
+   "text": "HORNITOR APPEARS on the street ROARING like a fiend.  His\nenormous foot DROPS DOWN AND CRUSHES A CAR INTO OBLIVION."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "And his trimetallic partner in\ncrime... SCORPITRON!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "SCORPITRON APPEARS on the street and BASHES IN THE SIDE OF A\nBUILDING, SENDING GLASS AND DEBRIS EVERYWHERE."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "THE BOYS ARE BACK IN TOWN!!!"
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "GO IVAN!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mordant turns to Ivan and throws his arms up in jubilation."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "LONG LIVE THE BOOGER MAN!"
+  },
+  {
+   "type": "stage direction",
+   "text": "73   INT. COMMAND CENTER - DAY                                   73\nZordon, now barely alive, watches as Alpha makes more\nadjustments to his contraption."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "That should do it.  we won't be\nable to hear them, but they\nSHOULD be able to hear us."
+  },
+  {
+   "type": "speech",
+   "character": "(beat)",
+   "text": "Here goes."
+  },
+  {
+   "type": "stage direction",
+   "text": "There's STATIC and then we see the reporter again."
+  },
+  {
+   "type": "speech",
+   "character": "NEWS REPORTER",
+   "text": "... the Mayor has declared a\nstate of emergency and asked that\nthe city be immediately\nevacuated.  He has reiterated the\nneed for everyone to remain calm."
+  },
+  {
+   "type": "stage direction",
+   "text": "We see images of PEOPLE SCREAMING THEIR GUTS out as they\nCLAMBER PAST CAMERA."
+  },
+  {
+   "type": "speech",
+   "character": "NEWS REPORTER",
+   "text": "Angel Grove has never before\nknown such a crisis and we can\nnow only pray for the swift\narrival of the Power Rangers!"
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Ay, yi, yi, yi!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Zordon speaks in a whisper."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "... Alpha, keep trying!"
+  },
+  {
+   "type": "stage direction",
+   "text": "74                                                               74\nthru   OMITTED                                                   thru\n75                                                               75\n75A    EXT.  MONOLITH - DAY                                      75A\nThe kids climb up on top of the rock bluff -- before them is a\nhuge black Monolith.  There's all sorts of charred bones and\nskeletons strewn around it, some of them human, some of them\nalien.\nThey approach the massive block, stand before it in awe struck\nsilence.  In the middle of the Monolith there's a large circle\nwith the six animals of the Ninjetti carved into it."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "... The Nathadian Monolith..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kimberly looks at all the bones -- instinctively puts her hand\non her animal symbol."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "I guess these guys weren't so\nlucky."
+  },
+  {
+   "type": "stage direction",
+   "text": "A few of the kids walk around the Monolith, examining it more\nclosely."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "We've come all this way for a\nrock wall?!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "There should be a way to open it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Billy &;Tommy latch their hands over the block, searching for\nan opening."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "... Nothing."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Release the power with the power."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rocky steps back, THROWS HIS SHOULDER into the Monolith with a\nTHUMP, winces in pain."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Not that kind of power."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids exchange discouraged looks."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "... There has to be something\nwe're missing."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids look crestfallen."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "It can't end like this..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Suddenly a SIZZLE OF ELECTRICITY forms in front of them."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "What NOW!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids mouth's fall open as... a HOLOGRAPHIC IMAGE OF\nZORDON'S WITHERED FACE APPEARS.  He speaks in a barely\naudible voice."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "Rangers... Ivan has invaded the\ncity... time is running out..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Zordon's image FLICKERS a few times then STABILIZES again."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "Each of you are now in possession\nof miraculous skills... but only\nwhen the six become one will you\nhave the strength to harness the\nGreat Power."
+  },
+  {
+   "type": "stage direction",
+   "text": "His IMAGE FLICKERS then FADES AWAY."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "ZORDON!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Billy studies the circle with zealous eyes."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Six become one... the combined\nforces of the Ninjetti."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Strength in numbers!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They silently assemble in a line, all of them interlock:\nhands.  They face the Monolith with fire in their eyes."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "I am the wolf, cunning and swift!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "I am the crane, agile and\nsublime!"
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "I am the bear, stalwart and bold!"
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "I am the frog, quick as\nlightning!"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "I am the mighty ape!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "And I am the Falcon, Winged Lord\nof the Sky!"
+  },
+  {
+   "type": "speech",
+   "character": "RANGERS",
+   "text": "WE... ARE THE NINJETTI!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A mysterious HALO OF LIGHT SHROUDS the Rangers and they dissapear\nINTO THIN AIR.\n75B   OMITTED                                                    75B\n75C   INT.  MONOLITH - DAY                                       75C\nThe kids BURST THROUGH A WALL OF LIGHT and come down together\ninside a vast cavern.  There's a pyramid shaped steel object in\nthe center of the room, a RADIANT LIGHT SHINING FROM IT."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "What HAPPENED?!"
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "Where are we?!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Of course!  The power is of\nanother world.  Another\ndimension."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "WE'VE GOT TEN TRIACS BEFORE WE'RE\nTOAST!!"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "That's twenty seconds!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids advance toward the pyramid."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Release the power WITH the power."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "What does that mean?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Adam notices their symbols are glowing."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Our SYMBOLS."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids ogle the radiant emblems.  Kimberly takes hold of hers\nand it COMES OFF in her hand -- there's a mirror on the other\nside."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Ten seconds and counting!!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "It's some kind of mirror!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Kimberly looks at her reflection and primps her hair.  The\nother's remove their symbols."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Release the power with the\npower."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "I've got it!  We use the mirrors\nto reflect the light back into\nitself!!"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "THREE SECONDS!!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "LET'S DO IT!?"
+  },
+  {
+   "type": "stage direction",
+   "text": "All of them turn their mirrors toward the pyramid.  A BEAM OF\nLIGHT SHOOT FROM THE POWER; INTO THE MIRRORS AND BACK IN TO THE\nPOWER.\nWe hear a RUMBLING SOUND as the earth starts to SHAKE.  The\nRangers look to each other, horrified.\nThen everything falls still and silent... and then a miracle\nhappens.\nWe hear a HARMONIOUS, OTHERWORLDLY CHORUS as the pyramid OPENS\nUP, REVEALING THE MOST GLORIOUS SOURCE OF LIGHT IN THE\nUNIVERSE.\nThe kids shield their eyes from the brilliance, all of them\nwearing wonder-struck expressions.\nSIX BEAMS OF COLORED LIGHT SHOOT OUT AND HIT EACH OF THE\nRANGERS...  AND THEIR POWER RANGERS UNIFORMS MATERIALIZE ON\nTHEM!  Their visors are clear so we can see their faces."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "WE HAVE THE GREAT POWER!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Now the symbols in their hands TRANSFORM INTO..."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "NEW POWER COINS!!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "OUR MORPHERS ARE ON LINE!"
+  },
+  {
+   "type": "speech",
+   "character": "AISHA.",
+   "text": "WE DID IT!!"
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "HANG ON, ANGEL GROVE."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "WE'RE ON OUR WAY!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They hit their communicators -- they instantly TRANSFORM INTO\nSIX IRIDESCENT COLUMNS OF COLOR AND BLAST OFF.\n75D   EXT.  MOUNTAIN SIDE / PHAEDOS - DAY                        75D\nDulcea and Snoggle watch as the COLUMNS OF COLOR streak away\nfrom the planet, leaving behind a RAINBOW with the six colors\nof the Power Rangers."
+  },
+  {
+   "type": "speech",
+   "character": "SNOGGLE",
+   "text": "Spherhlegnu."
+  },
+  {
+   "type": "speech",
+   "character": "DULCEA",
+   "text": "Yes, Snoggle... they now have the\nGreat Power of the Ninjetti!"
+  },
+  {
+   "type": "stage direction",
+   "text": "76   EXT. GEORGE STREET  -  NIGHT     (OLD SC 75B)               76\nWe see the mass of parents as they march intently down a dark\ncity street.\n76A   EXT.  ANGEL GROVE PARK - ERNIE'S  -  NIGHT  (OLD SC 64)    76A\nErnie's is packed with crazed kids and teenagers who are\nripping the place apart.\nBulk and Skull watch while gorging themselves on pizza."
+  },
+  {
+   "type": "speech",
+   "character": "BULK",
+   "text": "There goes the neighborhood."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "A real shame."
+  },
+  {
+   "type": "stage direction",
+   "text": "Suddenly Fred appears and shouts out."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "EVERYBODY, LISTEN UP!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The place falls silent."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "You've been brainwashed!  This\nIvan is no Wizard.  He's some\nkind of DEMON!"
+  },
+  {
+   "type": "speech",
+   "character": "KID #4",
+   "text": "Shut up, squirt."
+  },
+  {
+   "type": "speech",
+   "character": "KID #3",
+   "text": "You can't talk that way about our\nleader."
+  },
+  {
+   "type": "stage direction",
+   "text": "Enraged, they move in on Fred."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "You gotta believe me -- he's\nEVIL!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The crowd gets angrier.  They move closer... Fred gulps with\nfear... glancing around for help, he notices a HOSE.  He lunges\nfor it, cranks on the water, and TURNS IT ON THE CROWD!\nSPLASH!  They get SPRAYED DOWN!\nSuddenly -- they stop in their tracks, slowly blinking,\nconfused.  The spell is broken.  We hear: \"What's going on ?!\"\n\"What am I doing here?!\", etc."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "Listen to me!  Our parents are in\ndanger!  If we don't help them\nthey're going to be killed!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He hurries off.  A few follow him, then a few more... until\npretty soon everybody joins him.  Bulk and Skull share a look."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "What about the pizza?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bulk considers the dilemma."
+  },
+  {
+   "type": "speech",
+   "character": "BULK",
+   "text": "We could take it with us."
+  },
+  {
+   "type": "stage direction",
+   "text": "Skull nods, relieved.  They gather up the pizza and move off\nafter the others.\n77    OMITTED                                                    77\n78    INT.  COMMAND CENTER - NIGHT                               78\nThe Rangers MATERIALIZE in the Command Center with their\nhelmets off."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "ALPHA?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha approaches, speaks in an anguished voice."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Rangers...  I'm afraid you're too\nlate."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "What?!"
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Zordon...  he's gone."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Rangers are too stunned to speak.  They approach Zordon's\nlifeless form looking absolutely devastated."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "... This can't be..."
+  },
+  {
+   "type": "stage direction",
+   "text": "They stare at Zordon with gut-wrenching expressions.  They're\nutterly defeated.\nEventually, Tommy looks to the others and speaks in a fervent\nvoice."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "\"To those who possess the Great\nPower...   all things are\npossible.\""
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids gradually exchange zealous looks.  They form a circle\naround Zordon and interlock hands.\nThey close their eyes, bow their heads...\nAfter a long moment, a SHIMMERING ENERGY BEGINS TO FLOW DOWN\nFROM THE RANGERS, INTO ZORDON'S ASTRAL FORM.\nZordon grows BRIGHTER and BRIGHTER and then there's a DAZZLING,\nSTROBOSCOPIC EXPLOSION.\nWhen the LIGHT FADES WE SEE THE COMMAND CENTER BACK IN ITS\nORIGINAL, PRISTINE FORM.\nZordon's youthful face once again looks down from within his\npillar of light, his eyes filled with a fierce pride."
+  },
+  {
+   "type": "speech",
+   "character": "RANGERS",
+   "text": "ZORDON!!"
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "Welcome back, kids."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "It's good to be back."
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha jumps up and down like a child."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "HE'S ALIVE!  HE'S ALIVE!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "We thought you..."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "It's good to see you again, too."
+  },
+  {
+   "type": "stage direction",
+   "text": "Alpha sees the Ecto-Morphicon machines on the VIEWING GLOBE."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA  5",
+   "text": "AI, YI, YI, YI, YI   Ivan s Ecto-\nMorphicon machines are leveling\nthe city!"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "We've got news for you, Ivan..."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "The Power Rangers are BACK IN\nBUSINESS!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They TELEPORT out.\n79   EXT.   ANGEL GROVE TOWER - NIGHT                            79\nCLOSE ON IVAN as he TURNS INTO CAMERA, a startled look on his face."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "I... SMELL..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks down on the street as the COLUMNS OF LIGHT SHOOT DOWN\nAND THE POWER RANGERS APPEAR."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN\n(outraged)",
+   "text": "POWER RANGERS!"
+  },
+  {
+   "type": "stage direction",
+   "text": "80   EXT.  CITY STREETS                                          80\nThe Rangers watch as Hornitor and Scorpitron come THUNDERING\ndown the street toward them."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "What're THOSE?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear Alpha on Tommy's wrist communicator."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5  (V. 0.)",
+   "text": "Rangers, call for your new animal\nZords!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Let's DO it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "One after another they click their new coins into their\nmorphers and go into their stances."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "NINJA CRANE ZORD!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "NINJA WOLF ZORD!"
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "NINJA BEAR ZORD!"
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "NINJA FROG ZORD!"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "NINJA APE ZORD!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "NINJA FALCON ZORD!"
+  },
+  {
+   "type": "stage direction",
+   "text": "From the sky, the six new ANIMAL ZORDS BURST FORTH LIKE\nTHUNDERING, MECHANICAL GODS.  The Rangers look up at the\nTOWERING ASSAULT VEHICLES in awe.\n81   INT.   COCKPITS                                             81\nWe see VARIOUS SHOTS of the Rangers DROPPING INTO their\nrespective cockpits.\n81A   EXT.  MONORAIL STATION - NIGHT   (OLD SC 69)               81A\nFred, Bulk and Skull watch a sleek monorail pulling in.  Skull\ntalks with a mouth full of pizza."
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "Look, kid, I don't think you\nrealize who you're dealing with."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "I don't think he realizes who\nHE'S dealing with."
+  },
+  {
+   "type": "stage direction",
+   "text": "The train glides to a complete stop and the doors SLIDE OPEN ."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "EVERYBODY ON BOARD!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The youngsters pile through the doors, quickly filling up the\nentire monorail.\n81B   EXT.  CITY STREET                                          81B\nThe parents round a corner, advance down the street like machines.\n82    EXT.   THE ECTO-MORPHICON MACHINES                         82\nATTACK WITH A RELENTLESS FEROCITY.  There's all kinds of\nCRASHING and BASHING and EXPLOSIONS!\nThere's a BLAM, BLAM, BLAM as Scorpitron REPEATEDLY FIRES his\ncannon arm at the Bear Zord, who in turn DEFLECTS THE VOLLEYS.\nHornitor shoots a BLAST from it's stinger, the Crane Zord\ndodges the FIERY ERUPTION."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY (V. O.)",
+   "text": "Nice try,  Pinhead!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Scorpitron repeatedly KICKS at the Frog Zord with it's BLADED\nFEET, SENDING UP OSCILLATORY DISCHARGES, at the same time\nSLASHING WITH IT'S LETHAL CLAWS."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM  (V. O.)",
+   "text": "Somebody back me up, here!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Hornitor BORES IT'S DRILL ARM INTO THE APE ZORD, SENDING\nEXPLOSIONS OF SPARKS."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY  (V. O.)",
+   "text": "These things are FEROCIOUS!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Bear Zord CHARGES HORNITOR and the two Mastodons go\nCRASHING BACKWARD."
+  },
+  {
+   "type": "speech",
+   "character": "AISHA  (V.O.)",
+   "text": "The bear kicks butt!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Hornitor SEARS the Wolf Zord with it's needle-nose.  In\nretaliation, the Wolf Zord POUNCES, KNOCKING HORNITOR INTO THE\nSTREET.  Now the Falcon Zord SWOOPS THROUGH THE AIR."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY  (V.O.)",
+   "text": "Heads up!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He FIRES BOOSTER ROCKETS, STRAFING SCORPITRON WITH AN INTENSE\nFUSILLADE.\nHornitor gets back up -- the Ape Zord SWINGS DOWN FROM\nBILLBOARD, RAMS HIM FEET FIRST, SENDS HIM CATAPULTING BACK."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY  (V.O.)",
+   "text": "Hope you've got a good mechanic."
+  },
+  {
+   "type": "stage direction",
+   "text": "Scorpitron FIRES A VOLLEY at the Frog Zord -- the Zord BOUNDS\nTHROUGH THE AIR, AVOIDING THE BLAST, COMES CRASHING DOW ON TOP\nOF SCORPITRON.\nThe Falcon Zord swoops in and blasts Scorpitron who BLOWS UP\nINTO A BILLION FLAMING PARTICLES!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY (V.O.)",
+   "text": "WE GOT HIM!!"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN\n(outraged)",
+   "text": "These brats are ruining\nEVERYTHING!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mordant and Goldar watch popeyed as IVAN'S BODY STRETCHES OUT\nLIKE A HUGE PIECE OF GUM.\nHe STRETCHES and STRETCHES until his head BURSTS THROUGH THE\nSTOMACH OF SCORPITRON.\nWe hear a resounding SNAP AS IVAN'S FEET ARE RELEASED FROM THE\nROOFTOP AND HIS ENTIRE BEING SPURTS INSIDE THE GIANT'S BELLY.\nNow there's all sorts of GURGLING and SLURPING sounds as the\nmonster's face SHAPE-SHIFTS INTO IVAN'S FACE!\nHe grins, revealing his silver tooth."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN",
+   "text": "Let's TANGO!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY  (V.O.)",
+   "text": "We need Ninja MEGAZORD POWER,\nNOW!"
+  },
+  {
+   "type": "stage direction",
+   "text": "There's amazing PYROTECHNICS AS FIVE ANIMAL ZORDS MERGE\nTOGETHER AND TRANSFORM INTO THE NINJA MEGAZORD.\n82A   INT.  COMMAND CENTER                                       82A\nAs Alpha watches the battle on the viewing globe, he does\nlittle jig."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "GO, Rangers!  GO, Rangers!  GO,\nRangers!  GO!"
+  },
+  {
+   "type": "stage direction",
+   "text": "83   INT.  MEGAZORD COCKPIT                                      83\nThe Rangers are side by side, each of them handling different\ncontrols."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "ACTIVATING NINJA MEGAZORD BATTLE\nMODE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "84   EXT.  MAIN STREET                                           84\nThere's plenty of GRINDING and SCRAPING as the MEGAZORD RISES\nUP TO ITS FULL, TOWERING HEIGHT."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY  (V.O.)",
+   "text": "All systems go!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY (V.O.)",
+   "text": "This guy is messing with the\nwrong teenagers!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The behemoths CHARGE each other and the mother of all battles\nbegins.\n85   EXT.  GREENWAY STREET - NIGHT                               85\nThe parents continue to advance through the city like robots.\n86   OMITTED                                                     86\n87   EXT.  MAIN STREET - NIGHT                                   87\nThe battle continues.  Remarkably, these enormous machines pull\noff DOUBLE PUNCHES, DROP KICKS, ROUNDHOUSE HOOKS, SPINBACK\nKICKS -- YOU NAME IT!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY  (V.O.)",
+   "text": "ENGAGING KNUCKLE ROCKETS!"
+  },
+  {
+   "type": "stage direction",
+   "text": "BOOM, BOOM, BOOM, BOOM -- The Megazord STRAFES Ivan/Scorpitron\nwith EXPLODING MISSILES."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN/COLOSSUS",
+   "text": "Don't make me LAUGH!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ivan/Scorpitron SINGES the Megazord with a DEVASTATING LASER\nBLAST, SENDING IT TUMBLING BACKWARD."
+  },
+  {
+   "type": "speech",
+   "character": "RANGERS  (V.O.)",
+   "text": "WHOOOAAAHH!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Falcon Zord SWOOPS IN, STRAFING Ivan/Scorpitron with\ngunfire.  Ivan/Scorpitron now turns to Angel Grove Tower and\ngrabs hold of it.\n88   EXT.   TOWER                                                88\nMordant grabs on to Goldar."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "I'm outta here."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Wait for me!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Goldar TAKES FLIGHT with Mordant CLINGING DESPERATELY TO ONE OF\nHIS LEGS."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "GET OFF ME!"
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "BUT I'M YOUR COUSIN!"
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "SECOND COUSIN, THREE TIMES\nREMOVED.  NOW  GET OFF ME!"
+  },
+  {
+   "type": "stage direction",
+   "text": "89   EXT.  MAIN STREET                                           89\nIvan/Scorpitron RIPS THE TOWER OUT AND USES IT AS A SWORD TO\nBATTLE THE MEGAZORD."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN/SCORPITRON",
+   "text": "UN GARDE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The giant SWINGS THE TOWER, BATTERING THE MEGAZORD MERCILESSLY."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY  (V.O.)",
+   "text": "POWER SWORD, NOW!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The POWER SWORD DROPS FROM THE HEAVENS, PIERCES THE GROUND.\nMegazord grips the handle, raises it to the sky."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM (V.O.)",
+   "text": "HIGH POWER ENGAGE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The sword is STRUCK BY THUNDERBOLTS and now the behemoths SLASH\nand PARRY WITH CATACLYSMIC BURSTS OF SPARKS.\nIvan/Scorpitron takes a swing and the TOWER SMASHES INTO\nMONORAIL, SHATTERING A TWENTY FOOT SECTION OF AN OVERPASS\nIvan/Scorpitron continues backing the Megazord toward an\nenormous power station."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN/SCORPITRON",
+   "text": "Time to recharge your batteries,\nFLOWER Rangers!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He takes a final, DEVASTATING BLOW, SENDS MEGAZORD HURTLING\nTHROUGH THE AIR AND DOWN INTO GIANT GENERATORS.\nThere's an APOCALYPTIC FIREWORKS DISPLAY AS TEN MILLION VOLTS\nCOURSE THROUGH MEGAZORD.\n90   INT. COCKPIT                                                90\nThe kids are SHOWERED WITH SPARKS  - ELECTRICAL TENTACLES SPLAY\nTHROUGHOUT THE COCKPIT."
+  },
+  {
+   "type": "speech",
+   "character": "RANGERS",
+   "text": "WHOOAAAAAHHH!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "90A   OMITTED                                                    90A\n91    EXT.  MEGAZORD                                             91\nRolls clear, SMOKE AND SPARKS SPITTING FROM ITS JOINTS."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY  (V.O.)",
+   "text": "SYSTEM MALFUNCTION!"
+  },
+  {
+   "type": "speech",
+   "character": "AISHA  (V.O.)",
+   "text": "OUR SEMI-CONDUCTORS ARE DOWN!"
+  },
+  {
+   "type": "stage direction",
+   "text": "IVAN PICKS UP THE PROSTRATE MEGAZORD, RAISES IT OVER HIS HEAD AND THROWS\nIT."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN/COLOSSUS",
+   "text": "NEXT STOP, ANGEL GROVE FIRST\nNATIONAL!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He HURTLES THE MEGAZORD INTO A BUILDING with a sign that\n\"Angel Grove First National Bank\".  The ENTIRE SIDE OF THE\nBUILDING IS DEMOLISHED."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY (V.O.)",
+   "text": "One more blow like that and we're\nHISTORY!"
+  },
+  {
+   "type": "stage direction",
+   "text": "92   EXT.  THE MONORAIL                                          92\nSpeeds around a bend.\n93   INT.  FRED                                                  93\nLooks on in shock at the huge rupture in the tracks ahead."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "EVERYBODY HANG ON!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He YANKS the emergency cord.  It doesn't work!\n94   EXT.  THE TRAIN                                             94\nThe train heads for the jagged edge of the broken track.\n95   INT.  FALCON ZORD COCKPIT\nTommy throws his collective forward."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "The monorail is in trouble! I'm\ngoing in!"
+  },
+  {
+   "type": "stage direction",
+   "text": "98   EXT.  THE MONORAIL                                          98\nhas almost reached the rupture.  Suddenly the Falcon Zord\nSWOOPS IN AND FILLS THE RIFT.\nThe monorail miraculously SLIDES across the back of the zord\nand continues down the tracks.\n99   INT.  MONORAIL                                              99\nFred, Bulk, Skull and the hundreds of kids CHEER WILDLY.\nWe hear: \"Right on!\", \"All right Power Rangers!\", \"Awesome!\"\n100   EXT.  IVAN/COLOSSUS                                        100\nclimbs up a ten story building like a mechanical King Kong.\n101   INT.  COCKPIT                                              101\nThe kids watch as Ivan reaches the top of the building, gazes\nup at the stormy skies."
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "What's he doing?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "There's more SLURPING and BUBBLING AS HIDEOUS, BAT-LIKE WINGS\nERUPT FROM HIS BACK.\nThe wings FAN OUT and Ivan/Colossus DIVES INTO THE AIR AND\nSOARS UP INTO THE HEAVENS."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Let's go after him!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "102   INT.  FALCON ZORD COCKPIT                                  102"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Ultra Ninja Megazord complete!"
+  },
+  {
+   "type": "stage direction",
+   "text": "103   EXT.  MEGAZORD                                             103\nThe Falcon Zord SWOOPS down and latches on to the back of the\nMegazord.  Now the Megazord GLOWS WITH A TRANSCENDENTAL\nLUMINESCENCE and GLORIOUS WINGS SPREAD OUT FROM IT'S BACK.\n104   INT.  MEGAZORD COCKPIT                                     104\nTommy DROPS INTO a seat beside the other Rangers."
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "I'm in!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "LET'S FLY!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Billy throws a switch.\n105   EXT.  MEGAZORD                                             105\nThe Megazord TAKES TO THE AIR with the grace of an Eagle.\n106   EXT.  CITY STREET                                          106\nFred, Bulk, Skull and the entourage of kids come rushing toward\nthe construction site.  They can see the parents heading toward\nthe drop off."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "There they are!"
+  },
+  {
+   "type": "speech",
+   "character": "BULK",
+   "text": "They're heading for the cliff!"
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "That's gotta be an eighty foot\ndrop!"
+  },
+  {
+   "type": "speech",
+   "character": "KID #3",
+   "text": "Whadda we do?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Fred thinks for a moment, his eyes settling on a large tanker\ntruck."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "FOLLOW ME!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "107   INT.  MEGAZORD COCKPIT                                     107\nBilly fixes on a screen."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "We've got him locked!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Speed?"
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "1600 m.p.h.  and increasing!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "Everybody hold on tight.  We're\ngonna send this sucker into\nOBLIVION!"
+  },
+  {
+   "type": "stage direction",
+   "text": "108   EXT.  SKY                                                  108\nKAPAOW!!!\nSPARKS EXPLODE AND METAL CRUNCHES AS THE TWO GIANTS GO\nCATAPULTING OFF INTO OUTER SPACE.\n109   INT.  SNOW GLOBE / ZEDD'S PALACE                           109\nZedd and Rita are now half-buried in snow, both of them blue in\nthe face.  As usual, Rita is ranting away."
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "You call yourself a hell-hound?!\nA basset hound is more like it.\nIf you were a real outlaw you\nwould've gotten me out of this\nblizzard HOURS ago!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Zedd shakes his head in misery."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "This is the last time I marry a\nwitch."
+  },
+  {
+   "type": "stage direction",
+   "text": "Zedd and Rita react as they see Ivan/Colossus and Megazord\nshooting out into the stars."
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "It's Ivan and the Megazord!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "110   EXT.  OUTER SPACE                                          110\nThe two behemoths HURTLE THROUGH SPACE while POUNDING, SLASHING\nand RIPPING at each other."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN/COLOSSUS",
+   "text": "NOTHING can defeat the Powers of\nDarkness!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Now Ivan/Colossus goes to town on Megazord.  WHOMP!  THWACK!\nCRUNCH!  He SMASHES the machine mercilessly.\n111   INT.  MEGAZORD COCKPIT                                     111\nThe cockpit fills with smoke, SPARKS erupt from panels,\nEMERGENCY LIGHTS FLASH."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "WE'RE BREAKING UP!"
+  },
+  {
+   "type": "stage direction",
+   "text": "112   EXT.  OUTER SPACE                                          112\nIvan/Colossus BASHES the Megazord so hard that the machine does\nMULTIPLE CARTWHEELS through the cosmos.\nIvan/Colossus makes a KAMIKAZE-DIVE straight for Megazord"
+  },
+  {
+   "type": "speech",
+   "character": "IVAN/COLOSSUS",
+   "text": "SLAM DANCE, ANYONE?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He BASHES the Megazord, SENDS IT SPIRALING.\n113   INT.  MEGAZORD\nFLAMES ERUPT in the cockpit  - everything SHAKES and RATTLES"
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "He's on us!!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Wait a second...  What time is\nit?"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "Two thirty three a.m."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "Ryan's Comet!!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "What about it?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Biily punches information into a keyboard."
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "It's passing over earth as we\nspeak!"
+  },
+  {
+   "type": "speech",
+   "character": "(reading screen)",
+   "text": "Trajectory coordinates are\n009843."
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "Billy, that's BRILLIANT!"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY\nBILLY",
+   "text": "We get Ivan into the Comets PATH--"
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "-- and KABOOOM -- he's space\ndust!"
+  },
+  {
+   "type": "stage direction",
+   "text": "113A   EXT.  CONSTRUCTION SITE                                   113A\nFred is standing beside the water truck holding a large hose\nBulk and Skull are in the truck cabin trying to start the\nengine.  It turns over but it won't catch."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "Come on!  Come on!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The parents are now five feet from the drop off.\nBulk turns the key again and the engine starts up."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "All right!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He LETS IT RIP -- A POWERFUL JET OF WATER ARCS THROUGH THE AIR\nAND SHOWERS DOWN ON THE PARENTS.\nThey're about a foot away from the drop when they come to a\nstandstill, all of them sharing confused looks.\nThere's all sorts of CHEERS as parents and kids are reunited.\nFred runs into his father's arms."
+  },
+  {
+   "type": "speech",
+   "character": "FRED",
+   "text": "DAD!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bulk turns to Skull, holds out his arms."
+  },
+  {
+   "type": "speech",
+   "character": "BULK",
+   "text": "SKULL!!"
+  },
+  {
+   "type": "speech",
+   "character": "SKULL",
+   "text": "BULK!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They embrace -- Skull practically gets crushed by his burly\nfriend.\n114    OMITTED                                                   114\n115    INT.  SNOW GLOBE / ZEDD'S PALACE                          115\nZedd and Rita continue watching the battle from the snow globe."
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "I hope those Rangers put that\nlousy lowlife out of his misery!"
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "GO POWER RANGERS!"
+  },
+  {
+   "type": "stage direction",
+   "text": "116  EXT.  OUTER SPACE                                           116\nIvan/Colossus SLAMS into Megazord again and the pair go\nTWISTING THROUGH THE STARS.\nIvan/Colossus gets the Megazord into a lethal bear hug."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN/COLOSSUS",
+   "text": "Have you hugged your Zord today?"
+  },
+  {
+   "type": "stage direction",
+   "text": "117    INT.  MEGAZORD COCKPIT                                    117"
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "R.G.P. PRESSURE IS HEADING INTO THE RED!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "WE'RE GOING TO IMPLODE!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "THREE DEGREES OFF THE COMETS\nTRAJECTORY!"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "GIVE IT EVERYTHING WE'VE GOT!"
+  },
+  {
+   "type": "stage direction",
+   "text": "All the Rangers go to work.\n118                                                              118\nthru   OMITTED                                                   thru\n118A                                                             118A\n119   EXT.  OUTER SPACE                                          119\nIvan/Colossus continues to SQUEEZE Megazord.  We hear\nSCREECHING METAL and BURSTING VALVES.\n120   INT.  COMMAND CENTER                                       120\nAlpha and Zordon watch as Ivan/Colossus bear hugs Megazord."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Ay, yi, yi!  The Rangers are\ngoing to be CRUSHED!"
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "Don't lose hope yet, Alpha!"
+  },
+  {
+   "type": "stage direction",
+   "text": "121   INT.  MEGAZORD COCKPIT                                     121"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "009843... 42... 41!  WE'RE IN\nALIGNMENT!"
+  },
+  {
+   "type": "speech",
+   "character": "ROCKY",
+   "text": "THERE'S THE COMET!"
+  },
+  {
+   "type": "stage direction",
+   "text": "We see a BRILLIANT COMET BLAZING straight toward us!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "IMPACT IN FIFTEEN SECONDS!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "WE HAVE TO GET OUT OF HERE!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "122   EXT.  OUTER SPACE                                          122\nIvan/Colossus continues to SQUEEZE Megazord, oblivious to the\nCOMET BOMBING TOWARD HIM.  Megazord struggles fiercely to break\nfree.\n123   INT.  MEGAZORD COCKPIT                                     123"
+  },
+  {
+   "type": "speech",
+   "character": "ADAM",
+   "text": "WE CAN'T BREAK FREE!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "IMPACT IN EIGHT SECONDS!"
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Desperate times call for\ndesperate measures."
+  },
+  {
+   "type": "stage direction",
+   "text": "Aisha opens a metal switch cover."
+  },
+  {
+   "type": "speech",
+   "character": "KIMBERLY",
+   "text": "What're you doing?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Inside is a red switch with a sign: \"FOR EMERGENCY USE ONLY\""
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Taking care of business."
+  },
+  {
+   "type": "stage direction",
+   "text": "She flicks the switch.\n124   EXT.  OUTER SPACE                                          124\nIvan/Colossus is about to CRUSH Megazord into oblivion whEn\nMegazord's KNEE SUDDENLY RISES WITH LIGHTNING SPEED AND KICKS\nIVAN/COLOSSUS RIGHT IN THE GROIN.\nIvan/Colossus releases Megazord and DOUBLES OVER IN PAIN."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN/COLOSSUS",
+   "text": "YEEOOOOOWWW!!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "125   INT.  MEGAZORD COCKPIT                                     125"
+  },
+  {
+   "type": "speech",
+   "character": "AISHA",
+   "text": "Bull's eye!"
+  },
+  {
+   "type": "speech",
+   "character": "BILLY",
+   "text": "FOUR SECONDS TO IMPACT!"
+  },
+  {
+   "type": "speech",
+   "character": "TOMMY",
+   "text": "WE'RE OUTTA HERE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "126   EXT.  OUTER SPACE                                          126\nMegazord WINGS OUT OF THE WAY as the COMET BLASTS STRAIGHT TOWARD\nIVAN/COLOSSUS.\nIn the last second, he see the HURTLING ORB."
+  },
+  {
+   "type": "speech",
+   "character": "IVAN/COLOSSUS",
+   "text": "NOOOOOOOOOOOOUOOOO!!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Now we witness the EXPLOSION TO END ALL EXPLOSIONS as\nIvan/Colossus is TRANSFORMED INTO A BILLION FLAMING PARTS\nHURTLING THROUGH OUTER SPACE.\n127   INT.  MEGAZORD COCKPIT                                     127\nThe Rangers all throw their hands up in triumph."
+  },
+  {
+   "type": "speech",
+   "character": "RANGERS",
+   "text": "MORPHENOMENAL!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "128   INT.  COMMAND CENTER                                       128\nAlpha LEAPS for joy."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "HOORAY, POWER RANGERS!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "129   INT.  SNOW GLOBE / ZEDD'S PALACE                           129\nRita and Zedd both look immensely pleased."
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "That was a CHEAP shot!"
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "We couldn't have done it better\nourselves."
+  },
+  {
+   "type": "stage direction",
+   "text": "KAPOW -- Zedd and Rita APPEAR BACK IN ZEDD'S PALACE IN ORIGINAL\nSIZE, both of them still covered in snow.\n130   INT.  COMMAND CENTER - DAY                                 130\nThe Rangers are gathered around Zordon, holding their helmets\nin their hands."
+  },
+  {
+   "type": "speech",
+   "character": "ZORDON",
+   "text": "Rangers, by going after the Great\nPower, all of you knowingly put\nyour lives at extreme risk... and\nin so doing you not only saved my\nlife, you saved all of Angel\nGrove and the world from a reign\nof unthinkable terror."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Rangers literally beam.  Alpha holds up a camera."
+  },
+  {
+   "type": "speech",
+   "character": "ALPHA 5",
+   "text": "Everybody say cheese."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kids share amused looks and all together they LEAP IN THE\nAIR, PUMPING THEIR FISTS UP VICTORIOUSLY."
+  },
+  {
+   "type": "speech",
+   "character": "RANGERS",
+   "text": "POWER RANGERS!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "WE FREEZE FRAME.  BEGIN CLOSING CREDITS.\n131   INT.  ZEDD'S PALACE - DAY - OVER CLOSING CREDITS           131\nRita and Zedd chase Mordant and Goldar around the palac\nBLASTING them with their staffs."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "What'd we do?!"
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "It's not what you DID, it's what\nyou DIDN'T do!"
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "We tried to rescue you every\nchance we had!"
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "LIARS!"
+  },
+  {
+   "type": "stage direction",
+   "text": "She WHACKS Goldar."
+  },
+  {
+   "type": "speech",
+   "character": "GOLDAR",
+   "text": "Ouch!!"
+  },
+  {
+   "type": "speech",
+   "character": "RITA",
+   "text": "Do you know what it's like to be\nstuck in a BLIZZARD FOR TWO\nDAYS?!"
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "... Cold?"
+  },
+  {
+   "type": "speech",
+   "character": "ZEDD",
+   "text": "Are you trying to be funny?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Zedd BLASTS Mordant, SINGING his hairy behind."
+  },
+  {
+   "type": "speech",
+   "character": "MORDANT",
+   "text": "Hey, watch the hair!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "FADE OUT."
+  }
+ ]
+}

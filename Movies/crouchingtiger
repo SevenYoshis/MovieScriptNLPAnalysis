@@ -1,0 +1,4203 @@
+{
+ "movie_url": "https://imsdb.com/scripts/Crouching-Tiger,-Hidden-Dragon.html",
+ "movie_title": "crouching tiger",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "Crouching Tiger, Hidden Dragon\nby\nWang Hui Ling, James Schamus, Tsai Kuo Jung\nbased on the novel by\nWang Du Lu\nEXT. YUAN COMPOUND - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Security men and porters are loading wagons for a convoy.\nAs they work, we see across the lake a lone horseman entering\nthe village.  One of the men recognizes him."
+  },
+  {
+   "type": "speech",
+   "character": "WORKER",
+   "text": "Master Li is here!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ANGLE ON: Li Mu Bai, thirties, powerful and handsome.\nIn the background, old Aunt Wu, at the sight of Li Mu Bai,\ndrops her parcels and runs excitedly into the building."
+  },
+  {
+   "type": "location",
+   "text": "INT. YUAN HALLWAY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Aunt Wu runs hurriedly through the halls."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT WU",
+   "text": "Shu Lien!"
+  },
+  {
+   "type": "location",
+   "text": "INT. YU'S ROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu, a beautiful woman in her early 30s, is finishing packing\nfor the convoy, wrapping a few small items in a linen\nwrapper, as Aunt Wu bursts in."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT WU",
+   "text": "Li Mu Bai is here!"
+  },
+  {
+   "type": "location",
+   "text": "INT. YUAN PRACTICE HALL - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "How's everything?"
+  },
+  {
+   "type": "speech",
+   "character": "AUNT WU",
+   "text": "Fine.  Please come in."
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu sits, composed, as Aunt Wu ushers Li in.  Li carries a\nlarge object, wrapped in silk.\nYu smiles."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Mu Bai...It's been too long."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "It has."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he glances around\nthe room)"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "How's business?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Good.  And how are you?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Fine."
+  },
+  {
+   "type": "stage direction",
+   "text": "An awkward pause."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Monk Zheng said you were at Wudan\nMountain.  He said you were\npracticing deep meditation."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "The mountain must be so peaceful...\nI envy you.  My work keeps me so\nbusy, I hardly get any rest."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "I left the training early."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Why?  You're a Wudan fighter.\nTraining is everything."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "During my meditation training... I\ncame to a place of deep silence...\nI was surrounded by light... Time\nand space disappeared.  I had come\nto a place my master had never told\nme about."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You were enlightened?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "No.  I didn't feel the bliss of\nenlightenment.  Instead... I was\nsurrounded by an endless sorrow.  I\ncouldn't bear it.  I broke off my\nmeditation.  I couldn't go on.\nThere was something... pulling me\nback."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "What was it?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Something I can't let go of.  You\nare leaving soon?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "We're preparing a convoy for a\ndelivery to Peking."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Perhaps I could ask you to deliver\nsomething to Sir Te for me."
+  },
+  {
+   "type": "stage direction",
+   "text": "Li unwraps the object.  It is an ancient, astonishingly\nbeautiful sword."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "The Green Destiny Sword?  You're\ngiving it to Sir Te?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "I am.  He has always been our\ngreatest protector."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "I don't understand.  How can you\npart with it?  It has always been\nwith you."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Too many men have died at its edge.\nIt only looks pure because blood\nwashes so easily from its blade."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You use it justly, you're worthy of\nit."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "It's time for me to leave it behind."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "So what will you do now?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li doesn't reply."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Come with me to Peking.  You can\ngive the sword to Sir Te yourself.\nIt'll be just like old times."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "First I must visit my master's\ngrave.  It's been many years since\nJade Fox murdered him.  I have yet\nto avenge his death.  And yet I'm\nthinking of quitting.  I must pray\nfor his forgiveness."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Join me once you have finished.  I\ncan wait for you in Peking."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Perhaps."
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE GATE TO PEKING. DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Customs officials have just finished checking the contents\nin a row of carriages bearing the Sun Security insignia.\nThe caravan slowly passes through the checkpoint into the\nboundaries of Peking.  Yu, riding a handsome horse and\nclearly the leader, watches as her crew clears inspection."
+  },
+  {
+   "type": "speech",
+   "character": "GUARDS",
+   "text": "Ok.  Pass."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Thanks.  Let's go into the city."
+  },
+  {
+   "type": "location",
+   "text": "EXT. OUTSIDE A DEPOT. DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Workers are busy unloading the contents from the carriages.\nBoss Giao is checking off the merchandise -- a cargo of\nmedicinal herbs."
+  },
+  {
+   "type": "speech",
+   "character": "GIAO",
+   "text": "Everything got here safely.  I'm\nmuch obliged."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Just doing my job."
+  },
+  {
+   "type": "speech",
+   "character": "GIAO",
+   "text": "Sun Security has been the best\nsince your father started it.\nYou're a credit to his memory."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Thank you."
+  },
+  {
+   "type": "speech",
+   "character": "GIAO",
+   "text": "I mean it."
+  },
+  {
+   "type": "location",
+   "text": "EXT. DAY. PEKING"
+  },
+  {
+   "type": "stage direction",
+   "text": "From a gray tiled roof, we can see Peking's magnificent grid\nof houses extending miles and miles out, freshly painted by\nthe morning sun."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PEKING STREET. DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dusty and congested as always, people, horses, and carriages\nare fighting to get through the boulevards.\nA group of jugglers perform at a corner.\nYu surveys the busy street from on top of her horse."
+  },
+  {
+   "type": "location",
+   "text": "INT. TE'S GREAT HALL - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu presents the sword to Sir Te."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "This is Li's personal sword, a\ngreat hero's weapon!  He is the\nonly one in the world worthy of\ncarrying it.  It's too fine a gift.\nI cannot accept it."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Sir Te!  It has brought him as much\ntrouble as glory.  Help him to\nleave these troubles behind.\nOtherwise, he'll never be able to\nstart anew."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "All right.  I'll act as the sword's\ncustodian."
+  },
+  {
+   "type": "stage direction",
+   "text": "De Lu, the head servant, enters."
+  },
+  {
+   "type": "speech",
+   "character": "DE LU",
+   "text": "Governor Yu has arrived."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "I must change."
+  },
+  {
+   "type": "stage direction",
+   "text": "(getting up)"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You've always been so good to Li Mu\nBai and me.  Please accept our\nthanks."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "Please do not be such a stranger.\nYou'll stay the night as my guest.\nNow, Shu Lien... tell me something.\nAnd forgive me for prying.  Your\nfather was a great friend to me,\nand I think of you as my own\ndaughter."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Please, Sir Te, what is it?"
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "Li Mu Bai giving up his sword and\nhis warrior days... maybe he's\ntrying to tell you something?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "I don't know..."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "Don't be coy.  I've always known\nabout your feelings for each other.\nAll these years, it's a shame...\nneither of you is brave enough to\nadmit the truth to the other.\nYou're both wasting precious time."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "I beg your pardon.  Li Mu Bai and I\naren't cowards."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "When it comes to emotions, even\ngreat heroes can be idiots.  Tell\nme if Li Mu Bai is not more open\nthe next time you see him.  I'll\ngive him an earful!"
+  },
+  {
+   "type": "location",
+   "text": "INT. TE'S STUDY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu and De Lu approach the study."
+  },
+  {
+   "type": "speech",
+   "character": "DE LU",
+   "text": "Sir Te said to leave the sword in\nhere."
+  },
+  {
+   "type": "stage direction",
+   "text": "De Lu opens the door and is startled to find a young woman\ninside.  The woman is studying the sheets of calligraphy\nhanging on the walls."
+  },
+  {
+   "type": "speech",
+   "character": "DE LU",
+   "text": "Who are you?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I'm your guest today.  I am Governor\nYu's daughter."
+  },
+  {
+   "type": "speech",
+   "character": "DE LU",
+   "text": "This is Sir Te's study.  You are\nhere to..."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I was looking for a quiet corner."
+  },
+  {
+   "type": "speech",
+   "character": "DE LU",
+   "text": "I am Sir Te's head servant.  And\nthis is another of our guests."
+  },
+  {
+   "type": "location",
+   "text": "INT. TE'S STUDY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu gently lays the sword, still in its sheath, in Jen's hands."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "It's heavy for such a thin piece of\nmetal!"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "The handle is heavy.  And the blade\nis no ordinary metal.  Still, the\nsword is the lightest of weapons.\nYou're just not used to handling it."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "But I have had much practice.  As a\nchild in the West, a platoon lived\nwith us.  They'd let me play with\ntheir weapons.  The scabbard is so\nbeautiful."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Beautiful but dangerous.  Once you\nsee it tainted with blood, its\nbeauty is hard to admire.  It's 400\nyears old."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Exquisite!  You said it belongs to..."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "My friend Li Mu Bai.  He's given it\nto Sir Te as a gift."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Li Mu Bai!  The famous warrior?\nWhy would he give his sword to Sir\nTe?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You're too young to understand."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "You're a sword fighter too?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu yanks the sword out of the sheath.  An eerie sound\nresonates within the study.  Jen is even more impressed."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Yes, I am.  But I prefer the\nmachete.  Certain moves, however,\ncall for a sword."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Really?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu puts the sword back in the case."
+  },
+  {
+   "type": "stage direction",
+   "text": "(longingly)"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "It must be exciting to be a fighter,\nto be totally free!"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Fighters have rules too: friendship,\ntrust, integrity... Without rules,\nwe wouldn't survive for long."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I've read all about people like you.\nRoaming wild, beating up anyone who\ngets in your way!"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Writers wouldn't sell many books if\nthey told how it really is."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "But you're just like the characters\nin the stories."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Sure.  No place to bathe for days,\nsleeping in flea-infested beds...\nThey tell you all about that in\nthose books?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "You know what I mean.  I'm getting\nmarried soon, but I haven't lived\nthe life I want."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "So I heard.  Congratulations.  It's\nthe most important step in a\nwoman's life, isn't it?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "You're not married, are you?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "What do you think?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "No!  You couldn't roam around\nfreely if you were."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You're probably right."
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu studies Jen.  The room falls silent for a moment."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SIDE COURT YARD - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "It's dusk and the sky is beautiful orange and purple.  Jen\nis leaving the study escorted by her maid.  She turns to Yu\nfor a final good-bye.  Yu seems intrigued by the encounter."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SIR TE'S COMPOUND - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Two lighted lanterns are raised up."
+  },
+  {
+   "type": "location",
+   "text": "INT. TE'S STUDY - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sir Te hands the sword to Governor Yu."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "Go ahead, Governor Yu."
+  },
+  {
+   "type": "stage direction",
+   "text": "Governor Yu is impressed by the opulence and elegance of the\nsword.  He closes his eyes to guess the weight of the sword.\nTe snubs out the flame from a candle, then slides the sword\nout from its sheath.  The sword gives off a luminous blue\nglow in the dark."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "Two feet 9 inches long.  1 inch\nwide.  The handle is 1 inch deep,\n2.6 inches wide.  Seven-tenths of\nan inch thick.  With seven rubies\nmissing from the hilt.  You can\ntell the design dates back to\nbefore the Chin era.  Engraved with\na technique lost by the time of the\nHan Dynasty."
+  },
+  {
+   "type": "speech",
+   "character": "GOVERNOR YU",
+   "text": "Your knowledge is remarkable, Sir Te."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "A sword by itself rules nothing.\nIt comes alive only through skillful\nmanipulation."
+  },
+  {
+   "type": "speech",
+   "character": "GOVERNOR YU",
+   "text": "I see your point.  Please continue."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "The Imperial Court isn't the\nproblem.  With royalty and officials\neverywhere, the Royal Guard keeps\nsecurity tight.  But Peking is not\nlike the West.  Here, you'll find\nall sorts of characters.  Proceed\nwith caution in your quest for law\nand order.  Don't depend only on\nthe court.  Contacts in the Giang\nHu underworld can ensure your\nposition.  Be strong, yet supple.\nThis is the way to rule."
+  },
+  {
+   "type": "location",
+   "text": "INT. JEN'S ROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "A maid warms her hands in a basin of hot water for Jen, then\nwalks over to Jen and helps remove her earrings.  Someone\nknocks and the maid goes to answer the door."
+  },
+  {
+   "type": "speech",
+   "character": "MAID",
+   "text": "Governess..."
+  },
+  {
+   "type": "speech",
+   "character": "GOVERNESS",
+   "text": "Let me do it."
+  },
+  {
+   "type": "stage direction",
+   "text": "The maid leaves as the governess enters the room."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Please sit."
+  },
+  {
+   "type": "speech",
+   "character": "GOVERNESS",
+   "text": "I've made you silk pajamas.  Do you\nwant to change into them?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Put them down."
+  },
+  {
+   "type": "speech",
+   "character": "GOVERNESS",
+   "text": "I heard you met Shu Lien today."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Do you know her?"
+  },
+  {
+   "type": "speech",
+   "character": "GOVERNESS",
+   "text": "She's one of those.  Your mother\nwould not want you consorting with\nher kind."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen shoots her an angry look."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I'll socialize with whomever I\nplease."
+  },
+  {
+   "type": "speech",
+   "character": "GOVERNESS",
+   "text": "Don't invite danger into your\nfather's house."
+  },
+  {
+   "type": "stage direction",
+   "text": "She's about to say something, then thinks better of it."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I'm tired now."
+  },
+  {
+   "type": "speech",
+   "character": "GOVERNESS",
+   "text": "Go to bed then.  Miss has grown up,\nand is getting married soon.  God\nknows what the future will bring."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "It will be just the same.  Enough!\nI'm tired."
+  },
+  {
+   "type": "speech",
+   "character": "GOVERNESS",
+   "text": "Autumn is coming.  I'll shut the\nwindows for you."
+  },
+  {
+   "type": "stage direction",
+   "text": "The governess leaves.  Jen sits on the side of her bed,\nthinking."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TE'S COMPOUND - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "A wide shot of the compound.  A patrol man greets Master Bo,\nSir Te's head of security.  The place is serene."
+  },
+  {
+   "type": "speech",
+   "character": "MASTER BO",
+   "text": "Chilly, eh?"
+  },
+  {
+   "type": "speech",
+   "character": "NIGHTMAN",
+   "text": "Yes, Master Bo."
+  },
+  {
+   "type": "stage direction",
+   "text": "As Bo walks on, shadows rustle in a treetop in the background."
+  },
+  {
+   "type": "location",
+   "text": "EXT./INT. INSIDE AND OUTSIDE OF TE'S STUDY - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "A masked figure silently opens the window and enters the\nroom.  It moves swiftly to the sword case, opens it, and\nwraps the sword.\nBo enters, sees the thief, who leaps up to the ceiling.  The\nthief steps over Bo and out into the courtyard.  Bo tries to\nstop the thief, who easily outwits him, jumping onto the\nroof as Bo yells out."
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "Someone help!  Stop him!  He's on\nthe roof!  The sword's been stolen!\nStop thief!  Stop him!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The thief skips a few times and jumps off to a side street.\nBo grabs a pole and runs, as gongs begin to sound, alerting\npeople to the theft.  People rush outside, Yu Shu Lien among\nthem."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PEKING STREET - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bo runs through the streets.  The thief is nowhere in sight.\nSuddenly, there are sounds of weapons clashing.  Bo hurries\ntowards the source."
+  },
+  {
+   "type": "location",
+   "text": "EXT. AN ALLEY OUTSIDE GOVERNOR YU'S COMPOUND - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bo is surprised to see the hooded figure battling with two\nother fighters -- Tsai (male, 40s) and May, his daughter."
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "It's Jade Fox!"
+  },
+  {
+   "type": "speech",
+   "character": "MAY",
+   "text": "We must avenge mother!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The hooded figure does a gravity defying flip and soars over\na wall, just as Bo arrives."
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "Do something!  He's getting away!"
+  },
+  {
+   "type": "location",
+   "text": "EXT. PEKING ROOFTOP - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "The thief runs atop a roof -- right into Yu.  Yu and the\nhooded figure face off."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Return the sword, and I'll let you\ngo."
+  },
+  {
+   "type": "stage direction",
+   "text": "The figure just regards her, slightly shifting weight.\nYu attacks, but the figure repels her."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You've been trained at Wudan?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The figure answers by leaping to another rooftop.  Yu\ncatches up, and resumes her attack with a relentless series\nof lightning-quick blows."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ALLEY OUTSIDE GOVERNOR YU'S COMPOUND - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bo follows Tsai and May, who are quickly walking away."
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "You're mistaken.  We're just street\nperformers.  We were rehearsing."
+  },
+  {
+   "type": "speech",
+   "character": "MAY",
+   "text": "Father!"
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "You were rehearsing?  Who are you\ntrying to fool?"
+  },
+  {
+   "type": "stage direction",
+   "text": "May wants to respond but is again cut off by Tsai.  They run\noff."
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "Where did that thief go?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bo looks around and discovers he had chased the thief into\nGovernor Yu's compound."
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "Governor Yu's house!"
+  },
+  {
+   "type": "location",
+   "text": "EXT. ROOF TOP"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu and the Black Figure continue to fight."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Get down here!  Give back the sword!"
+  },
+  {
+   "type": "location",
+   "text": "EXT. GOVERNOR YU'S - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu slowly gets the upper hand in her fight with the thief.\nA small arrow cuts across the night and flies toward Yu.\nShe catches it, but the masked figure takes the opportunity\nto get away.\nYu pauses to feel the arrow in her hand, standing in the\nempty courtyard."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TE'S SIDE ENTRANCE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "De Lu escorts Yu into Te's."
+  },
+  {
+   "type": "speech",
+   "character": "DE LU",
+   "text": "Sir Te awaits you."
+  },
+  {
+   "type": "location",
+   "text": "INT. TE'S GREAT HALL - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Men are standing at attention.  Bo is giving his account of\nwhat happened, as Yu enters."
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "I'm sure the thief is in the Yu\nhousehold."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "How dare you imply?"
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "But I say --"
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "-- Enough."
+  },
+  {
+   "type": "stage direction",
+   "text": "The men hustle out.  Bo can barely contain his frustration."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Has Governor Yu ever seen the sword?"
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "Yes, though I doubt he's involved\nin this."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "But the sword could be in his\ncompound."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "Then someone's trying to set him up.\nWe should inform Li Mu Bai."
+  },
+  {
+   "type": "location",
+   "text": "EXT. OUTSIDE GOVERNOR YU'S COMPOUND - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Madam Yu is returning from temple.  The governess is helping\nher out of the carriage.  Servants are peeling bills off a\nwall across the street."
+  },
+  {
+   "type": "speech",
+   "character": "MADAM YU",
+   "text": "What is it?"
+  },
+  {
+   "type": "speech",
+   "character": "MAID",
+   "text": "Madam Yu, someone's put up posters."
+  },
+  {
+   "type": "stage direction",
+   "text": "A partially torn flyer with the words \"Jade Fox will not\nescape justice!\" is seen on the ground."
+  },
+  {
+   "type": "speech",
+   "character": "MADAM YU",
+   "text": "Let me see."
+  },
+  {
+   "type": "speech",
+   "character": "GOVERNESS",
+   "text": "Someone is after Jade Fox.\nPreposterous, looking for her here!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Madam Yu nods and walks inside, as the Governess tosses the\nflyer away and follows her.\nA hand scoops up the flyer -- it is Yu.  She studies it,\nthen puts it in her pocket, and moves on."
+  },
+  {
+   "type": "location",
+   "text": "EXT. BRIDGE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bo is searching for the Tsais.  The bridge is full of\njugglers.  But the two are nowhere to be found."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PEKING STREET - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bo quizzes a homeless man."
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "Where are they?"
+  },
+  {
+   "type": "speech",
+   "character": "HOMELESS MAN",
+   "text": "I don't know.  I haven't seen them\nin two days."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bo is about to give up when he looks up and sees May walking\nquickly into an alley.  Bo follows her."
+  },
+  {
+   "type": "location",
+   "text": "EXT. IN FRONT OF TSAI'S HOUSE"
+  },
+  {
+   "type": "stage direction",
+   "text": "May walks into a dilapidated house surrounded by a broken-\ndown bamboo fence.  Bo inches closer and sees May and Tsai\noiling their weapons."
+  },
+  {
+   "type": "location",
+   "text": "INT. BO'S ROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen practices calligraphy.  The governess is by her side\nembroidering and throwing occasional glances at Jen.  The\nmaid enters."
+  },
+  {
+   "type": "speech",
+   "character": "MAID",
+   "text": "There is a Miss Shu Lien here to\nsee you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen stops and looks up at them."
+  },
+  {
+   "type": "speech",
+   "character": "GOVERNESS",
+   "text": "Miss is busy right now."
+  },
+  {
+   "type": "speech",
+   "character": "MAID",
+   "text": "I'll tell her."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Show her in."
+  },
+  {
+   "type": "stage direction",
+   "text": "The governess shoots her a look."
+  },
+  {
+   "type": "speech",
+   "character": "GOVERNESS",
+   "text": "This spells trouble."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I have a guest."
+  },
+  {
+   "type": "stage direction",
+   "text": "The governess gets up to leave just as the maid shows Yu in."
+  },
+  {
+   "type": "speech",
+   "character": "MAID",
+   "text": "This way please."
+  },
+  {
+   "type": "stage direction",
+   "text": "The governess and Yu exchange quick glances.  The governess\nbows slightly and departs."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I've missed you."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "How so?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I'm bored."
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu sees the calligraphy."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You're doing calligraphy?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I'll write your name.  Just for fun."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen writes Yu's name with great confidence and swiftness."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "I never realized my name looks like\n\"sword.\""
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen freezes slightly."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You write gracefully.  Calligraphy\nis so similar to fencing."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Maybe it is.  I wouldn't know."
+  },
+  {
+   "type": "stage direction",
+   "text": "The maid enters with tea."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Please."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Thank you for seeing me.  I hear\nyour wedding day is near.  You must\nbe overwhelmed by the preparations."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I'm hardly doing a thing.  The less\nI think of it the better.  My\nparents are arranging everything.\nThe Gous are a very powerful family.\nMy marrying one will be good for my\nfather's career."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You are fornuate to marry into such\na noble family."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Am I?  I wish I were like the\nheroes in the books I read.  Like\nyou and Li Mu Bai.  I guess I'm\nhappy to be marrying.  But to be\nfree to live my own life, to choose\nwhom I love... That is true\nhappiness."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Do you think so?  Let me tell you a\nstory."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "About you and Li Mu Bai?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Yes.  Did you know I was once\nengaged to be married?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "No, really?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "His name was Meng Si Zhao.  He was\na brother to Li Mu Bai by oath.\nOne day, while in battle, he was\nkilled by the sword of Li Mu Bai's\nenemy.  After, Li Mu Bai and I went\nthrough a lot together.  Our\nfeelings for each other grew\nstronger.  But how could we dishonor\nMeng's memory?  So the freedom you\ntalk about, I too desire it.  But I\nhave never tasted it."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Too bad for Meng, but it's not your\nfault, or Li Mu Bai's."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "I am not an aristocrat, as you\nare... but I must still respect a\nwoman's duties."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Don't distance us.  From now on,\nlet's be like sisters."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Then as a sister, let me wish you\nhappiness in your marriage."
+  },
+  {
+   "type": "location",
+   "text": "EXT. YU'S GARDEN - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The maid escorts Yu out.  Yu pauses, looks around, and sees\nthe profile of the Governess peering at her from around a\ncorner."
+  },
+  {
+   "type": "location",
+   "text": "INT. JEN'S ROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Moonlight spills into the room, as Jen rises sleeplessly\nfrom bed and looks out the window.  A light breeze stirs her\nhair.  The sound of the wind rises, and slowly her face\ndissolves, into..."
+  },
+  {
+   "type": "location",
+   "text": "INT./EXT. CARRIAGE/MONGOLIAN DESERT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "...the face of a younger, less sophisticated Jen, as she\nlets the dry desert air flow through her hair.  She sits in\na carriage, part of a caravan, with guards on horseback,\nthat is traveling through the spectacular desert.  Across\nfrom her sits her mother, of whom she is barely cognizant."
+  },
+  {
+   "type": "speech",
+   "character": "MADAM YU",
+   "text": "What a godforsaken place!  Can't\nyour father be appointed closer to\ncivilization?  Jen... are you\nlistening to me?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen is still looking out the side of the carriage, at a\nbeautiful mountainside."
+  },
+  {
+   "type": "location",
+   "text": "INT. JEN'S ROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen sighs, and turns back toward her bed."
+  },
+  {
+   "type": "location",
+   "text": "EXT. STREET OUTSIDE GOVERNOR YU'S COMPOUND - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tsai and May have been sitting, hidden in the branches of a\ntree, watching Jen."
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "Let's go!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They drop down silently and walk away.  From another rooftop,\nLo looks silently on."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TSAI'S HOUSE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tsai and May enter the house."
+  },
+  {
+   "type": "location",
+   "text": "INT. TSAI'S HOUSE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Inside the tiny house, they discover a hooded figure going\nthrough their belongings.\nImmediately Tsai throws a knife, which rips off the figure's\nmask -- revealing Bo.  Tsai has another long knife at his\nthroat."
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "Who are you?"
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "Wait!  I'm a friend!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tsai pauses."
+  },
+  {
+   "type": "location",
+   "text": "INT. TSAI'S HOUSE - NIGHT (LATER)"
+  },
+  {
+   "type": "stage direction",
+   "text": "May fans a small coal-fired grill that is boiling a sizzling\npot of vegetable and meatball soup.  Her father and Bo are\nnow friendly dinner companions, much to May's delight."
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "I don't care about your sword."
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "Why were you spying on the Yus?"
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "I'm looking for someone.  Jade Fox.\nI'm a police inspector from Shaan\nXi, Gen Su district.  Jade Fox is a\nmaster criminal.  I hear she\ninfiltrated the Yus.  She must have\ncome with them when they transferred\nhere.  But with Yu's reputation, I\ncan't just go in and accuse her."
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "This Jade Fox is a woman?"
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "Yes."
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "Then leave her to me."
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "Pardon me, but I doubt you can\nhandle her.  My wife was quite a\nmartial arts expert.  Jade Fox\nkilled her.  So you see, this is\npersonal.  Leave her to me."
+  },
+  {
+   "type": "speech",
+   "character": "MAY",
+   "text": "It's ready!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(re: the soup)"
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "I'm ready for anything!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bo fishes into the pot with his chopsticks.  May intercepts\nhim with her own chopsticks."
+  },
+  {
+   "type": "speech",
+   "character": "MAY",
+   "text": "Father gets first dip."
+  },
+  {
+   "type": "stage direction",
+   "text": "Tsai stiffens and snaps his chopsticks, not to pick up a\nmeatball but to catch an incoming dart.  A dart wrapped with\na note.  Bo jumps up."
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "They're gone."
+  },
+  {
+   "type": "speech",
+   "character": "MAY",
+   "text": "What does it say?"
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "\"We'll settle this at midnight on\nYellow Hill.\"  Good, the fox is out\nof her hole."
+  },
+  {
+   "type": "location",
+   "text": "INT. TE'S STUDY - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu is ushered into the room, to discover Sir Te talking to\nanother man, whose back is to her."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "Shu Lien, look who's here."
+  },
+  {
+   "type": "stage direction",
+   "text": "The man turns around -- it's Li Mu Bai."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TE'S HALL - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu and Li Mu Bai sit together."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Sir Te believes it's a ploy cast\nsuspicion on Governor Yu."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "But something is going on at the Yu\nhousehold."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "What have you discovered?"
+  },
+  {
+   "type": "stage direction",
+   "text": "From her sleeve, Yu removes the flyer.  Li takes it, his\nface darkening."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Jade Fox?  Impossible."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You always suspected she'd fled to\nthe West."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "I didn't think she'd dare come back\nto Peking!"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Is there any place safer than under\nthe nose of Governor Yu?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "So I shall avenge my master's death\nafter all."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Be careful.  Sir Te requires\ndiscretion.  Official business is\ndifficult enough.  Don't let\npersonal feelings make it worse.\nAnd I don't know... even this\nposter... could be some sort of trap."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Did you see who posted it?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu pauses."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "It says Jade Fox is hiding at Yu's.\nOn the night of the theft there was\na brawl near Yu's.  Were you\ninvolved?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "It was Bo, Sir Te's man.  I hear he\nfollowed the thief to the Yus'."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Have you questioned him yet?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "No, not yet..."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "But your men are watching over Yu's\ncompund?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "No, I'd already sent them home.\nYou can blame me for losing the\nsword, but please trust that I'll\nget it back soon using my own\nmethods."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "That's not what I meant.  I don't\ncare about the sword."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "What do you mean?  Didn't you come\nback here for it?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "I don't know it was stolen until I\ngot here."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Then, why did you come?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Well, we had talked..."
+  },
+  {
+   "type": "stage direction",
+   "text": "De Lu enters."
+  },
+  {
+   "type": "speech",
+   "character": "DE LU",
+   "text": "Pardon my intrusion.  Master Li,\nyour room is ready."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Thank you.  Please lead the way."
+  },
+  {
+   "type": "location",
+   "text": "EXT. YELLOW HILL - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tsai, Bo, and May wait under an ancient tree.  Bo stifles a\nyawn."
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "The fox doesn't care much for\npunctuality.  Still no sign of her."
+  },
+  {
+   "type": "stage direction",
+   "text": "An old lady struggles up the hill, wearing a floppy hat over\nher face, holding a cane.  The three exchange glances."
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "Enough!  Show yourself."
+  },
+  {
+   "type": "stage direction",
+   "text": "The old woman shrinks in fear, but then throws off her\ndisguise and unveils herself -- the Governess."
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "Tsai... you dog!  You will pay for\nyour stubbornness."
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "That's what you think, old witch!"
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "If you surrender now, you'll suffer\nless.  But if you resist, I won't\nstop until you're dead."
+  },
+  {
+   "type": "speech",
+   "character": "MAY",
+   "text": "Father!  Let me avenge my mother's\ndeath."
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "You'll soon end up like her, you\nlittle whore!"
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "You'll pay for that!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A fierce battle begins, the main fighting between Tsai and\nFox, with May and Bo getting a stab in occasionally, when\nthe opportunity presents itself."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Bo)"
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "She's going to paralyze you!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Using acupressure, Fox disables Bo.  May shoots an arrow at\nher, but she catches it and flings it back, hitting May."
+  },
+  {
+   "type": "speech",
+   "character": "TSAI",
+   "text": "May!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Fox then disables Tsai, but just as she goes for the kill,\nLi Mu Bai flies down from the treetops and steps between them."
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "Tsai, you filthy mongrel!  An ambush!"
+  },
+  {
+   "type": "speech",
+   "character": "MAY",
+   "text": "Father, are you all right?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li addresses Fox."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Wudan should have gotten rid of you\nlong ago.  It's been a long time,\nJade Fox!  You don't remember me...\nBut you should remember my master.\nYou infiltrated Wudan while I was\naway.  You stole our master!  Now\nit's time for you to pay!"
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "Your master underestimated us women.\nSure, he'd sleep with me, but he\nwould never teach me.  He deserved\nto die by a woman's hand!"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "You stole the secrets of Wudan's\nhighest martial arts.  But after\nten years of training, your moves\nare still undisciplined.  And\ntoday, under a Wudan sword... you\nwill die!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li easily brings Fox to the ground.\nLi raises his sword to the prostrate Fox.  A figure masked\nin black appears next to Fox, sword extended, saving her."
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "Disciple, we'll kill them all!"
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE IN BLACK",
+   "text": "Let's go!"
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "Another one!"
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "I must get rid of Tsai!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Fox fights Tsai, Bo, and May, as Li addresses the masked\nfigure."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Who are you?  Why is the Green\nDestiny in your possession?"
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE IN BLACK",
+   "text": "What's it to you?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "My name is Li Mu Bai.  The Green\nDestiny is mine.  Jade Fox can't be\nyour master.  Where did you learn\nthat \"Xuan Piu\" move?"
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE IN BLACK",
+   "text": "I'm just playing around."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Tell me, who is your master?"
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE IN BLACK",
+   "text": "Let's go!"
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "We must kill them!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tsai throws his blade at Fox, who catches it and throws it\nback, hitting him in the head.  Fox and the masked figure\nleap away.\nMay drops to the ground, cradling her dead father's head.\nBo kneels beside her."
+  },
+  {
+   "type": "speech",
+   "character": "MAY",
+   "text": "Father!"
+  },
+  {
+   "type": "location",
+   "text": "EXT. TE'S - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Te and a group of his men look down as a cloth is removed\nfrom over the body of Tsai.  Bo and May stand before them."
+  },
+  {
+   "type": "speech",
+   "character": "TE",
+   "text": "This is Tsai?"
+  },
+  {
+   "type": "speech",
+   "character": "MAY",
+   "text": "My father.  Police Inspector from\nShaan."
+  },
+  {
+   "type": "speech",
+   "character": "TE",
+   "text": "This should be reported to Governor\nYu.  The victim is an officer.  You\nbelieve the killer is hiding out in\nhis compound."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "I'd bet my life on it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Li and Yu)"
+  },
+  {
+   "type": "speech",
+   "character": "TE",
+   "text": "Come with me."
+  },
+  {
+   "type": "stage direction",
+   "text": "He exits the room."
+  },
+  {
+   "type": "location",
+   "text": "INT. TE'S STUDY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Te, Li, and Yu are seated."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "This needs to be resolved, and\nquickly."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "I'll get into the Yu household and\nget her.  I'll ferret out Fox and\nher gang."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "We must be careful.  Governor Yu is\na court official, and in charge of\nsecurity.  Any disturbance will\ncast suspicion on him.  It might\nget Sir Te in trouble."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "This is a delicate matter."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Sir Te, can you find some excuse to\ninvite Madam Yu and her daughter?"
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "What do you have in mind?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "The best way to trap a fox is\nthrough her cubs."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sir Te and Li look puzzled."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SIR TE'S GARDEN - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu sits with Madam Yu and Jen.  They busy themselves with\nvarious items for her trousseau."
+  },
+  {
+   "type": "speech",
+   "character": "MADAM YU",
+   "text": "Madam Te is certainly spoiling us\nwith these wedding gifts.  She's\nbeing so considerate."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "I'm sorry she's not feeling well\nenough to receive you today."
+  },
+  {
+   "type": "speech",
+   "character": "MADAM YU",
+   "text": "I heard Sir Te lost something.  And\nnow Madame Te's not feeling well..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen sits silently reading."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "We know who stole the missing item.\nIf the thief returns it, I'm sure\nSir Te will pursue the matter no\nfurther."
+  },
+  {
+   "type": "speech",
+   "character": "MADAM YU",
+   "text": "That's good.  Sometimes the help\ncan't keep their hands to themselves.\nIt's very embarassing."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Sir Te knows that even well-meaning\npeople can make mistakes... that\ncan bring ruin to themselves and\ntheir families."
+  },
+  {
+   "type": "speech",
+   "character": "MADAM YU",
+   "text": "But don't be too lenient."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "No mercy will be shown toward the\nmurderer who turned up in Peking."
+  },
+  {
+   "type": "speech",
+   "character": "MADAM YU",
+   "text": "A murderer?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Yes.  The very killer of Li Mu\nBai's own master.  Last night, she\nkilled a policeman who had tracked\nher down."
+  },
+  {
+   "type": "speech",
+   "character": "MADAM YU",
+   "text": "A female criminal!  Now that's news!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen becomes visibly upset."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "You say she killed a policeman?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Yes, from the West.  He went\nundercover and and followed her\nhere,"
+  },
+  {
+   "type": "speech",
+   "character": "MADAM YU",
+   "text": "Maybe the murderer and the thief\nare one and the same."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "I doubt it.  This thief... it very\nunusual..."
+  },
+  {
+   "type": "stage direction",
+   "text": "As Yu speaks, she lifts the tea pot to pour Jen some tea.\nAs she finishes speaking, she looks into Jen's face and the\npot slips from her hand.  Without even looking down, Jen\ninstinctively catches the pot with a lightning-fast move."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "...And most likely smarter than a\nmere killer."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sir Te and Li Mu Bai walk by."
+  },
+  {
+   "type": "stage direction",
+   "text": "(formal)"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Greetings, Sir Te."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "Hello, Madam Yu.  This is Li Mu\nBai, the renowned swordsman."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Delighted to meet you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Li sizes Jen up."
+  },
+  {
+   "type": "speech",
+   "character": "TE",
+   "text": "Miss Yu is soon to be married."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Congratulations."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TSAI'S HOUSE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "May opens her door, only to find Bo standing guard."
+  },
+  {
+   "type": "speech",
+   "character": "MAY",
+   "text": "Why don't you come in?"
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "I'm standing guard."
+  },
+  {
+   "type": "speech",
+   "character": "MAY",
+   "text": "Come in.  It's cold."
+  },
+  {
+   "type": "stage direction",
+   "text": "She turns back inside, hesitates, then turns back to him."
+  },
+  {
+   "type": "speech",
+   "character": "MAY",
+   "text": "Come in.  We don't have to fear\nJade Fox if we're together."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TE COMPOUND - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "A still, dark night."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TE'S STUDY - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Something moves in the moonlight.  A hooded figure jumps down.\nLi Mu Bai, who had been hiding in the shadows, comes forward."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Isn't it a bit too late to be out?\nYou've brought me the sword?"
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE",
+   "text": "I do as I please."
+  },
+  {
+   "type": "stage direction",
+   "text": "The masked figure lunges away, but Li Mu Bai leaps with\nincredible speed and grabs the sword from her."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Where's your master?"
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE",
+   "text": "What's it to you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The figure floats away.  Li chases after her."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PEKING STREET - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "The two fly over houses and bounce off of rooftops,\ndisplaying amazing floating skills."
+  },
+  {
+   "type": "location",
+   "text": "INT. ABANDONED MONASTERY - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "The figure bounces into an old monastery.  Li is already\nthere."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Had enough flying?  You've got\npotential.  You've studied the\nWudan Manual but you don't\nunderstand it.  You need a real\nmaster."
+  },
+  {
+   "type": "stage direction",
+   "text": "The figure doesn't respond, but we sense the pride in her\neyes."
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE",
+   "text": "Do you think you are a real master?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Like most things, I am nothing.\nIt's the same for this sword.  All\nof it is simply a state of mind."
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE",
+   "text": "Stop talking like a monk!  Just\nfight!"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Then tell me where Jade Fox is."
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE",
+   "text": "On guard!"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Real sharpness comes without effort."
+  },
+  {
+   "type": "location",
+   "text": "EXT. MONASTERY - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "The figure leaps into the garden, but again, Li is ahead of\nher.\nThe figure attacks Li, who uses his agility to evade her.\nFrustrated, the figure intensifies her attack.\nThe figure, losing composure, attacks wildly.  Li gets even\nmore elusive, using a branch to repel her."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "No growth without assistant.  No\naction without reaction.  No desire\nwithout restraint.  Now give\nyourself up and find yourself again.\nThere is a lesson for you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Li now holds the stick to her mask, gently raising it\nslightly."
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE",
+   "text": "Go ahead."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Why should I?  You need practice.\nI can teach you to fight with the\nGreen Destiny, but first you must\nlearn to hold it in stillness."
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE",
+   "text": "Why do you want to teach me?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "I've always wanted a disciple\nworthy of Wudan's secrets."
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE",
+   "text": "And if I use them to kill you?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "That's a risk I'm willing to take.\nDeep down, you're good.  Even Jade\nFox couldn't corrupt you."
+  },
+  {
+   "type": "stage direction",
+   "text": "The figure's eyes cloud with tears."
+  },
+  {
+   "type": "speech",
+   "character": "FIGURE",
+   "text": "Wudan is a whorehouse!  Keep your\nlessons!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The figure swirls and takes off, leaving a rueful Li standing\nalone in the monastery."
+  },
+  {
+   "type": "location",
+   "text": "INT. JEN'S ROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen slips in through the window.  She pulls off her mask, as\nshe spots the Governess/Fox sitting and sewing."
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "You're home late... or should I say\nearly?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Why are you still here?  You killed\na policeman.  You should leave!\nYou'll bring ruin on my whole family."
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "They wouldn't have found me if you\nhadn't stolen the sword.  Like a\nlittle girl, you thought stealing\nwould be fun?  You, too, are\nresponsible for that death.  Come\nwith me.  You don't want to waste\nyour life as the wife of some\nbureaucrat.  Denied your talent...\nAs a master and disciple we will\nrule."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I'll never live as a thief!"
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "You're already a thief."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "That was just for fun.  How can I\nleave?  Where would I go?"
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "Wherever we want.  We'll get rid of\nanyone in our way.  Even your father."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Shut up!"
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "It's the Giang Hu fighter\nlifestyle... kill or be killed.\nExciting, isn't it?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I owe you nothing."
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "Yes, you do!  You are still my\ndisciple."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen lunges at the Governess, and the two exchange a few\nblows.  Jen presses her finger against one of the Governess's\npressure points, disabling her.  Jen pushes her across the\nroom."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "You think you've been teaching me\nall these years from the manual?\nYou couldn't even decipher the\nsymbols!"
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "I studied the diagrams.  But you\nhid the details!"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "You wouldn't have understood, even\nif I had tried to explain.  You\nknow... you've gone as far as you\ncan go.  I hid my skills so as not\nto hurt you."
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "If I hadn't seen you fight with Li\nMu Bai, I'd still be ignorant of\nall you've hidden from me."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Master... I started learning from\nyou in secret when I was 10.  You\nenchanted me with the world of\nGiang Hu.  But once I realized I\ncould surpass you, I became so\nfrightened!  Everything fell apart.\nI had no one to guide me, no one to\nlearn from."
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "Believe me, I've a lesson or two\nleft to teach you!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Fox exits."
+  },
+  {
+   "type": "location",
+   "text": "EXT. GOVERNOR YU'S GATE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Governess leaves, a small sack over her back."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TE'S COURTYARD - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li practices fluently with Green Destiny in hand, beautifully\nat ease with the weapon.  He spins around to find Yu standing\nin the doorway."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "The sword is back... are you happy?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li smiles."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "I admit, getting it back makes me\nrealize how much I'd missed it."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "But it's not your sword anymore.\nYou gave it to Sir Te."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "True.  But I must borrow it for one\nlast mission.  Jade Fox must die at\nits edge.  Did you know what you\nwere hiding when you covered for\nthat girl?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "My job was to get the sword back,\nwithout embarassing anyone.  I\nwasn't about to ruin her life, or\nher father's."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "You did your job well.  But, this\ngirl... I saw her last night."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "I knew she would intrigue you."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "She needs direction... and training."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "She's an aristocrat's daughter.\nShe's not one of us.  In any case,\nit will all be over soon.  You'll\nkill Fox, and she'll marry."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "That's not for her.  She should\ncome to Wudan and become a disciple."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "But Wudan does not accept women."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "For her, they might make an\nexception.  If not, I'm afraid\nshe'll become a poisoned dragon."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "It's not our affair.  Even if Wudan\naccepts her, her husband might\nobject."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "I thought by giving away the sword,\nI could escape the Giang Hu world.\nBut the cycle of bloodshed continues."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "I wish there were something more I\ncould do to help you."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Just be patient with me, Shu Lien."
+  },
+  {
+   "type": "location",
+   "text": "INT. JEN'S ROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen is asleep.  A noise awakens her.\nLo opens the window and sneaks in -- right into the point of\nJen's waiting sword.\nJen's sword drops to the ground."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Lo?"
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Jen!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo grabs her by the wrist."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "You shouldn't have come."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "With all the traffic on your\nrooftop these days... it took me a\nwhile to get in here.  I can't wait\nany longer.  I was wrong to let you\ngo.  Come back with me.  You'll be\nhappy in the desert.  You'll be\nfree there."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen turns back to him and rests herself briefly in his arms\nagain."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "You've been looking for me all this\ntime?"
+  },
+  {
+   "type": "stage direction",
+   "text": "FLASHBACK: FOUR YEARS EARLIER"
+  },
+  {
+   "type": "location",
+   "text": "INT./EXT. CARRIAGE/MONGOLIAN DESERT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen holds up a comb, with daylight shining through it.  Jen\nadmires the piece, her most prized possession.\nMadam Yu sits opposite her."
+  },
+  {
+   "type": "speech",
+   "character": "MADAM YU",
+   "text": "Jen... stop playing with it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen looks out over the desert, as the wind picks up and the\nsky darkens."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I won't break it."
+  },
+  {
+   "type": "location",
+   "text": "EXT. CARRIAGE/MONGOLIAN DESERT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo and a group of armed bandits descend on the caravan."
+  },
+  {
+   "type": "speech",
+   "character": "GUARD A",
+   "text": "It's Dark Cloud!  Dark Cloud is\ncoming!"
+  },
+  {
+   "type": "stage direction",
+   "text": "His warning is useless.  From Jen's pov, we see the guards\nslaughtered in a hail of arrows and swords."
+  },
+  {
+   "type": "speech",
+   "character": "MADAM YU",
+   "text": "Lower the shade, don't let them see\nyou!"
+  },
+  {
+   "type": "speech",
+   "character": "DARK CLOUD (LO)",
+   "text": "Don't touch the women!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Though unharmed, Madam Yu immediately faints.  Lo approaches\nthe carriage and grabs the comb from Jen's hand.\nShe bolts from the carriage, and, once outside, bends down\nand grabs a lance from the body of a dead guard, whose horse\nflails beside him.\nShe looks up to see the gang of bandits already making their\nescape on horseback."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Let's go!"
+  },
+  {
+   "type": "location",
+   "text": "EXT. DESERT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen and Lo ride across the desert floor at breakneck speed."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Come get your comb."
+  },
+  {
+   "type": "stage direction",
+   "text": "She tries to jab him with the lance, but he grabs it and\nflings her off her horse."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Hurry back to your mother."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo rides on as she charges after her horse."
+  },
+  {
+   "type": "location",
+   "text": "EXT. DESERT BLUFF - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "A group of bandits is dividing up the loot, as Jen rides up,\nkeeping a respectable distance.  They notice her and rise as\nshe dismounts.\nOne of them saunters over to her and stands, grinning, a few\nfeet away.\nIn a second, she's slammed his balls into his stomach and\nknocked his nose into his face.  He crumples to the sand.\nThe other bandits stop laughing, quickly exchange glances,\nand charge her at once.\nIn a matter of seconds, they're either on the ground or\ndragging their fallen comrades back.\nLo calls out and stops the fight."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "She's mine."
+  },
+  {
+   "type": "location",
+   "text": "EXT. DESERT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo and Jen ride, if not side-by-side, then parallel, about\n20 feet apart.  Their pace has slowed considerably.  In\nfact, they're dead tired."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Let's stop a moment."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Give it back!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(shouting a bit)"
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "You're tired.  You need rest.  Your\nhorse needs water.  There's a creek\nup here."
+  },
+  {
+   "type": "stage direction",
+   "text": "He dismounts, looks down at the dry creek bed."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Well, there used to be!  What's\nyour name?  I'm Lo.  The Hans call\nme Dark Cloud.  I'm not that tall\nor big, but I'm quick as lightning."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "My comb!"
+  },
+  {
+   "type": "stage direction",
+   "text": "She kicks him.  They fight ferociously until Lo, exhausted,\ncollapses.  She kicks him a few times, then collapses too."
+  },
+  {
+   "type": "location",
+   "text": "INT. CAVE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen comes to and finds herself wrapped in a blanket of\nanimal fur.  She sits up with a start and checks her clothes.\nLooking around, she realizes she's in a cave.  Next to her\nare a lamp, some hunting equipment, and a neat row of sharp\narrows.  She quickly grabs one of the arrows."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "If you like that arrow, I can make\nyou a bow.  Great for hunting wild\nchicken.  They're delicious."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen raises one of the arrows, going on the attack again, but\nher legs betray her and she falls."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "You need to eat, understand?  Then\nyou'll have the strength to fight.\nUnderstand?"
+  },
+  {
+   "type": "stage direction",
+   "text": "He helps her up, then pours her some horse milk from a sac.\nHe hands her a small chunk of food, which she first accepts\ngrudgingly, then, her hunger getting the better of her, she\nstarts to wolf it down."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "You're eating too fast.  Slowly."
+  },
+  {
+   "type": "location",
+   "text": "EXT. CAVE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo walks out into a barren mountain landscape.  A chicken\nroasts over a fire.  Lo whistles.\nJen appears suddenly with a rock and knocks it over his head.\nLo passes out as Jen scurries away."
+  },
+  {
+   "type": "location",
+   "text": "EXT. MOUNTAINSIDE AND DESERT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen tries to find her way among the treacherous stony\nterrain, her lips chapped and fingers bloody and blistered.\nBut soon she passes out."
+  },
+  {
+   "type": "location",
+   "text": "INT. CAVE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen again awakes inside the cave.  Lo tries to feed her some\nwater, but she chokes, and tries to push him away, only to\nfind that her legs and hands are tied up."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "You've got quite a temper.  It's\nbetter this way."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "You coward!"
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Still in a bad mood?  At least\nyou're speaking.  What's your name?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen spits at Lo."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "I didn't think the Hans had names\nlike that."
+  },
+  {
+   "type": "stage direction",
+   "text": "Later: She weaves in and out of consciousness.  In the\nflickering lights, she sees Lo sharpening his arrows.\nLater, he pulls back an opaque curtain to reveal a makeshift\nbathroom -- a water-filled cavity serves as a tub.\nHe rises as Jen sobs at the sight of her imprisoned and\ndishevelled body.  He comes over and unties her."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Relax.  If I had wanted to, I would\nalready have done it.  You must be\ndying for a bath.  Fresh water's\nhard to get here.  But I managed to\nbring some up.  You can wear my\nclothes when you're done.  They're\nclean.  Don't worry.  I'll sing, so\nyou'll know where I am.  After the\nbath, you'll be calmer."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen nods and the bandit releases her.  He starts to sing as\nhe walks out.  Jen waits until the sound recedes before\nclosing the curtain behind her and dipping into the pit.\nWhile she bathes, she listens to his singing, a loud\nrendition of a tribal song.  Lo apparently doesn't remember\nall the lyrics, and la-las his way through more than a few\npassages.  Jen smiles."
+  },
+  {
+   "type": "location",
+   "text": "INT. CAVE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen grimaces as Lo pulls the last of some cactus needles\nfrom the soles of her feet."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "No more hitting on the head!  All\nthis trouble for a comb?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "It's mine.  It means a lot to me.\nA barbarian like you wouldn't\nunderstand."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Not true.  I can use it to pick\nfleas from my horse."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "By the way, I'm a real Manchurian."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "I'm sorry... I guessed wrong.  I\nthough you were a Han."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Give me back my comb."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "I don't take orders from anyone."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Give it back."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen impulsively grabs an arrow and stabs Lo, drawing a\nlittle blood from his chest.  Furious, Lo lunges at her and\nthey tussle briefly.  Finally, Lo gets on top of Jen, and\nthe scuffling becomes more like foreplay.  Violence turns\ninto unleashed passion."
+  },
+  {
+   "type": "location",
+   "text": "EXT. DESERT OASIS - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo and Jen ride across the desert.  Jen holds tightly to him."
+  },
+  {
+   "type": "location",
+   "text": "EXT. CAVE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo and Jen lie in the bath together."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "When I was a boy, one night, I saw\na thousand shooting stars.  I\nthought, where did they all go?\nI'm an orphan.  I used to look for\nstars alone.  I thought if I rode\nto the other end of the desert, I'd\nfind them.  I've been riding in the\ndesert ever since."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "And so, the little boy became a\nfearsome bandit.  He couldn't find\nthe stars, so he stole my comb."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo pauses."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Out here, you always fight for\nsurvival.  You have to be part of a\ngang to stand a chance.  Slowly,\nyour gang becomes your family.  All\nthat Dark Cloud stuff is just to\nscare people and make my life easier."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "So you're still that little boy\nlooking for shooting stars."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "I am a man.  And now I've found the\nbrightest star of all."
+  },
+  {
+   "type": "location",
+   "text": "EXT. DESERT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo sees uniformed men through his binoculars."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Your father's men are looking for\nyou."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen doesn't respond."
+  },
+  {
+   "type": "location",
+   "text": "EXT. DESERT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo and Jen ride through a mountain pass."
+  },
+  {
+   "type": "location",
+   "text": "EXT. CLIFF - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo and Jen stand at the crest of a cliff.  Lo looks over,\nviewing the desert valley below, as Jen joins him.  They see\na troop of uniformed men riding by in the distance."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Your father's men are still looking\nfor you.  They're still out there,\ncircling closer."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Let them look."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "It is trouble for me."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen bites her lip."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Don't send me back!"
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "You must decide.  You might get\ntired of this life.  You might\nbegin to miss your family.  If it\nwere our daughter, we'd look for\nher too.  She would miss us.  Jen...\nI want you to be mine forever.  I\nwill make my mark on the world.  I\nwill earn your parents' respect.\nWe have a legend.  Anyone who dares\nto jump from the mountain, God will\ngrant his wish.  Long ago, a young\nman's parents were ill, so he\njumped.  He didn't die.  He wasn't\neven hurt.  He floated away, far\naway, never to return.  He knew his\nwish had come true.  If you believe,\nit will happen.  The elders say, \"A\nfaithful heart makes wishes come\ntrue.\""
+  },
+  {
+   "type": "location",
+   "text": "INT. TENT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen and Lo kiss.  Jen takes the jade comb out of her hair\nand presses it into his palm.  Jen starts to cry.  They\nembrace."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Keep it safe.  Return it to me when\nwe are together again."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "I will."
+  },
+  {
+   "type": "stage direction",
+   "text": "(smiling painfully)"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "If you don't, I'll come after you.\nAnd I won't let you off so easy."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TENT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen quietly walks out and stands sadly in the early morning\nlight.\nEnd of flashback."
+  },
+  {
+   "type": "location",
+   "text": "INT. JEN'S ROOM - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Wherever I went, someone always\nrecognized me.  I really tried.\nLater, I heard you came to Peking.\nI was afraid I'd never see you\nagain.  So I came.  I can't let you\nmarry."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen is about to respond when a servant's voice is heard from\noutside the door."
+  },
+  {
+   "type": "stage direction",
+   "text": "(whispering)"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Go."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Jen..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(through her tears)"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Don't ever come back."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo hovers at the window frame."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "So it's over?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen pauses."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Yes."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo thrusts a small object in her hand.\nHe lifts his legs through the window, and drops out of\nsight, just as Jen's door is opened from the hall."
+  },
+  {
+   "type": "speech",
+   "character": "MAID",
+   "text": "We heard noises."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "It was just a cat."
+  },
+  {
+   "type": "stage direction",
+   "text": "The maid pauses, then dutifully exits, closing the door.\nJen opens up her palm; gasping, she sees the comb that Lo\nhas given her."
+  },
+  {
+   "type": "location",
+   "text": "EXT. WEDDING PROCESSION - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The noise and color of a wedding procession.  A marching\nband heralds the occasion, as throngs of onlookers fight to\nget a glimpse of the groom, Gou Jun Pei, who trots by on a\nhandsome white horse."
+  },
+  {
+   "type": "location",
+   "text": "INT. WEDDING CARRIAGE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen's head is completely covered in red cloth, as she rides\nsilently in the bride's carriage."
+  },
+  {
+   "type": "location",
+   "text": "EXT. BALCONY OVERLOOKING WEDDING PROCESSION - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li and Yu watch the festivities from a balcony of the city\ngate."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You think Jade Fox will show up?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "She's out there, but I doubt she'll\nshow herself.  We'll keep our eyes\nopen.  Sooner or later, she'll come\nfor the girl."
+  },
+  {
+   "type": "location",
+   "text": "INT. WEDDING CARRIAGE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "A small arrow flies into the carriage.  Jen calmly lifts the\nred cloth from her face and pulls the arrow out of the\npanelling inside the carriage.\nWe hear Lo's voice from outside the carriage, but Jen\ndoesn't seem to notice."
+  },
+  {
+   "type": "stage direction",
+   "text": "(v.o.)"
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Jen!  Come with me!  You're mine!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo runs wildly into the crowd."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "Come with me to the desert!  Jen!\nCome with me to Xin Jiang!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The guards surround Lo, but he escapes."
+  },
+  {
+   "type": "location",
+   "text": "EXT. BEIJING STREET - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo leaps and lands right in front of Li Mu Bai, his fingers\npressed against Lo's neck.  Yu comes running around the\ncorner and sees them."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Where is Jade Fox?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu jumps in and pushes Li away."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Lo)"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Come with me!  Hurry!"
+  },
+  {
+   "type": "location",
+   "text": "INT. CITY OUTSKIRTS - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo sits dejectedly, having told his story to Yu and Li, who\nlook him over."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Lo)"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You thought she'd give it all up\nand go back West with you?"
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "She's mine."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Either way, you are no good to her\ndead.  With the Gou and Yu clans\nhunting you, you'll soon be in\ntheir hands."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "I don't care anymore."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "If you truly loved her, you wouldn't\nsay that."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Don't you want to see her again."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "All right.  I'll write you an\nintroduction.  Take it to Wudan.\nWait there for news from me."
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "All right."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TE COMPOUND - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu and Li enter, as other men and women race through the\ncompound, a sense of panic in the air.  Yu gives Li a look.\nLi shrugs."
+  },
+  {
+   "type": "location",
+   "text": "INT. TE'S HALL - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "A crowd, including Li and Yu, stand by as Te opens the empty\nsword case, his voice rising."
+  },
+  {
+   "type": "speech",
+   "character": "SIR TE",
+   "text": "When will this end?  They take it,\nthey put it back, they take it\nagain.  My home is turning into a\nwarehouse."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bo bursts into the hall, bows to Te."
+  },
+  {
+   "type": "speech",
+   "character": "TE",
+   "text": "Speak!"
+  },
+  {
+   "type": "speech",
+   "character": "BO",
+   "text": "Jen has run away!  Gou found the\nwedding chamber empty.  Governor Yu\nrequests your assistance.  You know\nthe Giang Hu underworld.  He wants\nto find her, and keep her from harm."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Sir Te, leave this to us.  Don't\nworry."
+  },
+  {
+   "type": "location",
+   "text": "INT. TEA STALL - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen arrives at the tea stall.  She places her sword on the\ntable, which catches the attention of a couple of Giang Hu\nmartial arts characters sitting nearby."
+  },
+  {
+   "type": "speech",
+   "character": "WAITRESS",
+   "text": "What can I serve you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "As the waitress turns to leave, Jen grabs her by the arm."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "The cup is dirty."
+  },
+  {
+   "type": "stage direction",
+   "text": "The flustered waitress apologizes and takes the cup away.\nThe men approach Jen."
+  },
+  {
+   "type": "speech",
+   "character": "GANGSTER A",
+   "text": "Hello.  What is your name?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(without lifting her eyes)"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Long."
+  },
+  {
+   "type": "speech",
+   "character": "GANGSTER B",
+   "text": "It's young Master Long.  My\napologies.  I'm Iron Eagle Sung and\nthis is my brother in arms, Flying\nCougar Li Yun.  What brings you to\nHuai An, and where are you headed,\nMaster Long?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Anywhere there's action."
+  },
+  {
+   "type": "stage direction",
+   "text": "The two men exchange glances."
+  },
+  {
+   "type": "speech",
+   "character": "GANGSTER A",
+   "text": "In that case, perhaps we could be\nof assistance."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Don't bother."
+  },
+  {
+   "type": "speech",
+   "character": "GANGSTER A",
+   "text": "You don't seem to understand."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "So what if I don't?"
+  },
+  {
+   "type": "speech",
+   "character": "GANGSTER B",
+   "text": "We have ways of helping you\nunderstand."
+  },
+  {
+   "type": "stage direction",
+   "text": "The two pull out their weapons which are immediately chopped\ninto scraps by Jen."
+  },
+  {
+   "type": "stage direction",
+   "text": "(stunned)"
+  },
+  {
+   "type": "speech",
+   "character": "GANGSTER A",
+   "text": "Are you related to Li Mu Bai?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "He is my defeated foe!"
+  },
+  {
+   "type": "location",
+   "text": "EXT. WOODS - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li and Yu pass a cup back and forth as Bo tends to the\nhorses in the background."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Have some tea."
+  },
+  {
+   "type": "stage direction",
+   "text": "As Yu passes the cup to Li, their fingers touch.\nEmbarrassed, Li pulls back."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Shu Lien... The things we touch\nhave no permanence.  My master\nwould say... there is nothing we\ncan hold on to in this world.  Only\nby letting go can we truly possess\nwhat is real."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Not everything is an illusion.  My\nhand... wasn't that real?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Your hand, rough and callused from\nmachete practice... All this time,\nI've never had the courage to touch\nit."
+  },
+  {
+   "type": "stage direction",
+   "text": "Li takes Yu's hand and presses it to his face."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Giang Hu is a world of tigers and\ndragons, full of corruption... I\ntried sincerely to give it up but I\nhave brought us only trouble."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "To repress one's feelings only\nmakes them stronger."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "You're right, but I don't know what\nto do.  I want to be with you...\njust like this.  It gives me a\nsense of peace."
+  },
+  {
+   "type": "stage direction",
+   "text": "Li Mu Bai smiles."
+  },
+  {
+   "type": "location",
+   "text": "INT. STAR RESTAURANT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen walks upstairs.  A waiter greets her."
+  },
+  {
+   "type": "speech",
+   "character": "WAITER",
+   "text": "Please follow me."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I want a clean room."
+  },
+  {
+   "type": "speech",
+   "character": "WAITER",
+   "text": "We have plenty.  Your order?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen again sets her sword on the table as she sits down."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Steamed whole cod, bite-size\nmeatballs, a little starchy, but\nkeep the sauce light, shark fin\nsoup, mixed vegetables, and some\nwarm wine."
+  },
+  {
+   "type": "stage direction",
+   "text": "(dazed)"
+  },
+  {
+   "type": "speech",
+   "character": "WAITER",
+   "text": "I have to order from a bigger\nrestaurant."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Hurry then."
+  },
+  {
+   "type": "stage direction",
+   "text": "The waiter gauges Jen for an instant before bouncing off to\nplace the orders.  Jen checks her pouch and sees there's not\nmuch money left.\nA large group of Giang Hu characters enters.  They survey\nthe restaurant and quickly find Jen upstairs."
+  },
+  {
+   "type": "speech",
+   "character": "GIANG HU A",
+   "text": "That's him."
+  },
+  {
+   "type": "speech",
+   "character": "MI BIAO",
+   "text": "I am Iron Arm Mi.  I heard a true\nmaster has arrived.  I have come to\nseek a lesson."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen ignores him."
+  },
+  {
+   "type": "stage direction",
+   "text": "(bristles)"
+  },
+  {
+   "type": "speech",
+   "character": "MI BIAO",
+   "text": "You asked for it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mi charges and attacks Jen, who is still sitting sipping tea.\nJen barely lifts a finger and disposes of Mi with a poke at\na sensitive pressure point.  This provokes a reaction from\nthe other men."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "What kind of Iron Arm are you?"
+  },
+  {
+   "type": "speech",
+   "character": "FLYING MACHETE CHANG",
+   "text": "You have amazing technique!  I am\nFlying Machete.  Are you related to\nSouthern Crane?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Southern Duck?  I don't eat anything\nwith two feet.  Who could remember\nsuch long-winded names?"
+  },
+  {
+   "type": "speech",
+   "character": "GOU JUN SIHUNG",
+   "text": "Li Mu Bai is your defeated foe, and\nyou don't know his master, Southern\nCrane?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Who are you?"
+  },
+  {
+   "type": "speech",
+   "character": "GOU JUN SIHUNG",
+   "text": "I'm Shining Phoenix Mountain Gou."
+  },
+  {
+   "type": "stage direction",
+   "text": "(furious)"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Gou?  I hate that name.  It makes\nme puke!  Too bad you're named Gou.\nYou'll be the first to feel my\nsword today."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen leaps up and dives into battle.  The men all use\ndifferent kinds of weapons, but they all succumb to the\npowerful Green Destiny."
+  },
+  {
+   "type": "speech",
+   "character": "MONK JING",
+   "text": "Hold it!  Don't you know Monk Jing?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "A monk, in a place like this?  You\nneed a lesson!"
+  },
+  {
+   "type": "speech",
+   "character": "MONK JING",
+   "text": "Who are you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She smiles, and leaps again into action after unsheathing\nthe Green Destiny."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Who am I?  I am... I am the\nInvincible Sword Goddess.  Armed\nwith the Incredible... Green\nDestiny.  Be you Li or Southern\nCrane... lower your head... and ask\nfor mercy.  I am the desert dragon.\nI leave no trace.  Today I fly over\nEu-Mei.  Tomorrow... I'll kick over\nWudan Mountain!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen is in a frenzy, slashing and maiming as she speaks."
+  },
+  {
+   "type": "location",
+   "text": "INT. STAR RESTAURANT - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu and Li are surrounded by the variously bandaged men who\nbattled with Jen."
+  },
+  {
+   "type": "speech",
+   "character": "FLYING MACHETE CHANG",
+   "text": "We politely asked for a friendly\nmatch, but she showed no respect,\nand attacked us.  Everyone came by\nto teach her a lesson."
+  },
+  {
+   "type": "speech",
+   "character": "MI BIAO",
+   "text": "Her sword was just too powerful."
+  },
+  {
+   "type": "speech",
+   "character": "MONK JING",
+   "text": "I've traveled everywhere, but never\nmet anyone so uncivilized."
+  },
+  {
+   "type": "stage direction",
+   "text": "(heavily bandaged)"
+  },
+  {
+   "type": "speech",
+   "character": "SHINING PHOENIX MOUNTAIN GOD",
+   "text": "She kept accusing me of being Gou\nJun Pei's brother.  Who is this\nGou, anyway?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Her husband."
+  },
+  {
+   "type": "stage direction",
+   "text": "The men all nod their heads."
+  },
+  {
+   "type": "location",
+   "text": "EXT. OUTSIDE HWAI AN - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li and Yu ride together."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Yu)"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "We're close to your headquarters.\nGo home and check in."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "What about you?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "I'll look around and catch up later."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Not a bad idea.  Tonight we'll get\na good night's sleep at headquarters."
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu takes a fork off the road.  Thunder can be heard in the\ndarkening sky."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SUN COMPOUND - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "A group of security men are practicing Kung Fu in the front\nyard of Sun Security.  They stop when Yu enters."
+  },
+  {
+   "type": "speech",
+   "character": "SECURITY MAN A",
+   "text": "Mistress, you're back."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "It's you!  How's everything here?"
+  },
+  {
+   "type": "speech",
+   "character": "CAPTAIN",
+   "text": "Fine.  You've been gone a while."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Yes, and I leave again tomorrow.\nYour wife was due?"
+  },
+  {
+   "type": "speech",
+   "character": "AH WAI",
+   "text": "Yeah, a baby girl."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Good!"
+  },
+  {
+   "type": "speech",
+   "character": "AH WAI",
+   "text": "I'll be happy if she's half as\nstrong as you."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Mrs. Wu..."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT WU",
+   "text": "You're back!"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "How's the arm?  Still sore?"
+  },
+  {
+   "type": "speech",
+   "character": "AUNT WU",
+   "text": "Much better.  You've been gone so\nlong."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Li Mu Bai is coming to stay the\nnight."
+  },
+  {
+   "type": "stage direction",
+   "text": "(excited)"
+  },
+  {
+   "type": "speech",
+   "character": "AUNT WU",
+   "text": "I'll go and make up his room!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Aunt Wu hustles out.  Yu goes into her own room."
+  },
+  {
+   "type": "location",
+   "text": "INT. HALL OF ANCESTRAL WORSHIP"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu lights incense for her former fianc\u00e9 Meng.  Hearing\nsomething, she turns to see a dishevelled Jen standing\noutside downstairs."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Sister Shu Lien..."
+  },
+  {
+   "type": "location",
+   "text": "INT. YU'S ROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu eases her guard, then opens a drawer, and takes out some\nclothes.  Jen, wearing just white underclothing, sets\nherself on the edge of Yu's bed.  Yu brings over the clothes."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Here you must be in proper attire."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I'm just borrowing some clean\nclothes.  I'm not staying."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "I'll give them to you."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "I was just passing by and wondered\nhow you were."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen tries to hide her anxiety but finally breaks down on\nYu's shoulder in tears."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "You, sister..."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Look at the trouble you've caused.\nNow you know what Giang Hu life is\nreally like.  If you think of me as\nyour sister, let me give you some\nsisterly advice.  You can run from\nmarriage, but not your parents."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "They forced me to marry!"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Go back to them first.  Then you\ncan decide about Lo."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "You know about Lo?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "He really loves you.  Come back to\nPeking with me.  We'll find a\nsolution."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Where is he now?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Li Mu Bai has made arrangements.\nHe sent him to Wudan Mountain."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "You're working together to set me\nup!  I'm leaving!"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "How dare you accuse us?  I always\nknew you had stolen the sword!\nI've done nothing but protect you\nand your family.  And you're repaid\nme with nothing but contempt.  Li\nMu Bai himself spared you, and all\nyou do is insult him.  We wanted\nsome peace and you've ruined it all!\nYou're no sister of mine!"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "What do I care?  You were never a\nreal friend anyway.  But I wonder,\nhow long could you last as my enemy?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen gets up to leave.  Yu intercepts her."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Put the sword down!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen jumps out."
+  },
+  {
+   "type": "location",
+   "text": "INT. YUAN COURTYARD - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen soars out to the front courtyard where the guards are\nstill practicing.\nThey raise their weapons at the sight of an intruder."
+  },
+  {
+   "type": "stage direction",
+   "text": "(calling out)"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Jen!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen greets Yu with the Green Destiny."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Everyone out.  Shut the doors."
+  },
+  {
+   "type": "stage direction",
+   "text": "The men leave."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Fine... the friendship is over."
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu scoops up a weapon from one of many lying around and\nbegins her battle with Jen.\nYu uses every weapon that's available against Jen but none\nare any match for the Green Destiny.\nAfter slicing through another set of Yu's weapons, Jen looks\nadmiringly at the Green Destiny in her hands."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Don't touch it!  That's Li Mu Bai's\nsword."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Come and get it if you can."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Without the Green Destiny, you are\nnothing."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Don't be a sore loser.  Go ahead.\nTake your pick.  I'll wait.  Go\nahead."
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu picks up a huge broad sword and attacks.  Just as the\nGreen Destiny slices it in half, Yu holds the broken blade\nat Jen's neck.  She pauses before hurting Jen, then pulls\nback."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Give me the sword."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen, taking advantage of Yu's trust, slices her arm."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Take it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu, her shoulder bleeding, falls back as Li Mu Bai jumps in."
+  },
+  {
+   "type": "stage direction",
+   "text": "(enraged)"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Stop it!  You don't deserve the\nGreen Destiny."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Not another lecture!  On guard!"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Let's end this here."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Only the sword will settle this."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen soars up to the rooftop, with Li right on her tail."
+  },
+  {
+   "type": "location",
+   "text": "EXT. LAKE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen floats over the lake, Li close behind."
+  },
+  {
+   "type": "location",
+   "text": "EXT. BAMBOO FOREST - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen runs into a sea of bamboo.  She appears to have lost Li\nbut is not slowing down.  Her white clothes are now stained\nwith blood and mud.  The wind had picked up and every breeze\nsounds like an air attack by Li.\nThe two leap onto the tips of the bamboo trees and begin\ntheir dances and dodges.  They glance off bamboos and each\nother while staying afloat.  Finally Jen lands on the same\nstick of bamboo as Li.  The two hold their positions for a\nwhile, as the bamboo bends."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "I only let you go because I wanted\nto see the real you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen tries to shake Li off the bamboo but Li recovers nicely."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "What do you know about a true heart?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li suddenly leaps off the bamboo tree.  The bamboo\nstraightens up and throws Jen toward the ground.  Jen\nquickly pulls herself up and charges at Li.\nJen chases after Li, into a clearing, out of the bamboo\nforest."
+  },
+  {
+   "type": "location",
+   "text": "EXT. RIVER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen finally catches up to Li, who is standing on a rock\nabout a few feet wide amid the rapids.  Jen vaults onto the\nrock and scuffles with Li.  Jen loses her balance."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "What do you want?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "What I've always wanted, to teach\nyou."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "All right.  If you can take back\nthe sword in three moves, I'll go\nwith you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Li takes the sword back."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Give it back!"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Kneel!"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Never!"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Then you have no use for the sword."
+  },
+  {
+   "type": "stage direction",
+   "text": "Li throws the sword into the rapids.\nJen dives in to retrieve it.  He follows Jen downstream by\nhopping from one rock to another.  Jen recovers the sword\nbut is herself drowning.  Suddenly Jade Fox swings into the\nrapids and fishes Jen out.  Jade Fox carries the unconscious\nJen away.  Li gives chase, but loses them."
+  },
+  {
+   "type": "location",
+   "text": "INT. ABANDONED FACTORY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "It's raining.  Inside an old factory, Fox heats some medicine\npaste and then dips a needle in the paste.  She burns the\nneedle point, causing a blue smoke.  She lights some incense\nand puts it in a burner near Jen, who is barely conscious."
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "Sooner or later, they'd drag you\nback to Peking.  Your parents will\nnever accept you again.  But why go\nhome?  We've gone this far, we\nwon't stop now.  You'll always be\nmy lady.  At last, we'll be our own\nmasters.  We'll be happy.  That's\nthe most important thing.  All we\nhave left is each other, right?\nLie down and rest."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen is too weak to respond.\nFox leaves Jen clutching the Green Destiny."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ABANDONED FACTORY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Fox scurries ahead in the rain.  Her eyes catch something,\nbut she keeps moving."
+  },
+  {
+   "type": "location",
+   "text": "INT. YUAN COMPOUND - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Aunt Wu finishes bandaging Yu."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT WU",
+   "text": "She's crazy.  You should have\nkilled her."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "I didn't have the heart."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT WU",
+   "text": "Well, Li Mu Bai can do it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu senses movement at the window.  Looking out, she sees\nJade Fox in the distance."
+  },
+  {
+   "type": "location",
+   "text": "INT. ABANDONED FACTORY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen wakes up, flushed from fever.  She takes a sip from a\ncup of water -- it's empty.  She tosses the cup, gets up,\nand walks into the rain."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ABANDONED FACTORY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen walks out, raises her face into the rain, and drinks the\nraindrops.  Thirst quenched, she turns around and finds Li\nstanding there.  Jen limps towards him while mumbling."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Is it me or the sword you want?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen falls into Li, who checks her pulse and looks at her eyes."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "You've been drugged!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li carries her inside, kicking away the incense burner."
+  },
+  {
+   "type": "location",
+   "text": "INT. ABANDONED FACTORY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li lays his hands on Jen's back; she slowly comes to."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Where is Jade Fox?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen gestures that she doesn't know.  Yu and Bo enter.  Yu\nlooks at Jen."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "What happened?"
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Jade Fox drugged her.  How did you\nget here?"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "We followed Jade Fox."
+  },
+  {
+   "type": "stage direction",
+   "text": "Instantaneously, a flurry of darts flies directly in Jen's\ndirection.  Li and Yu swipe miraculously at them all,\nsending them flinging hither and thither.\nFox shows herself.  Li attacks her.  She falls back, bleeding\nto death."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "And so you die."
+  },
+  {
+   "type": "stage direction",
+   "text": "Li touches his neck."
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "And so shall you!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li pulls a single needle from his neck."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "A poisoned needle!"
+  },
+  {
+   "type": "speech",
+   "character": "FOX",
+   "text": "You deserve to die, but the life I\nwas hoping to take... was Jen's.\nTen years I devoted to you.  But\nyou deceived me!  You hid the\nmanual's true meaning.  I never\nimproved... but your progress was\nlimitless!  You know what poison is?\nAn eight-year-old girl, full of\ndeceit.  That's poison!  Jen!  My\nonly family... my only enemy..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jade Fox dies."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "You can't die!  Tell us what poison\nyou used!  You can't die!  Tell us\nthe antidote!  You can't let Li Mu\nBai die!"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "She used Purple Yin... Purple Yin\npoison.  It goes straight to the\nheart."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "My blood will soon reverse its flow.\nIt's the same poison she used to\nkill my master.  There is no\nantidote."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "That can't be!  Everything has an\nantithesis!  Why not this?"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "The antidote exists.  She taught it\nto me.  The formula is simple, but\nit takes time to prepare.  Trust me.\nAs you have helped me, let me help\nyou."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "All right.  Hurry.  I will hold on\nas long as I can."
+  },
+  {
+   "type": "stage direction",
+   "text": "(takes the comb from\nher hair)"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Take my horse and go to the compound.\nGive this to Mrs. Wu.  She'll help\nyou.  Hurry!"
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Spare your energy.  I'll be back!"
+  },
+  {
+   "type": "location",
+   "text": "EXT. ABANDONED FACTORY - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bo is burying Fox in the rain."
+  },
+  {
+   "type": "location",
+   "text": "EXT. YUAN COMPOUND - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "The guards surround Jen.  She pushes past them."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Where is Mrs. Wu?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Aunt Wu comes running out."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT WU",
+   "text": "Stop it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen pulls out Yu's comb."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Shu Lien told me to show you this."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT WU",
+   "text": "Let her in."
+  },
+  {
+   "type": "location",
+   "text": "INT. ABANDONED FACTORY - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu sits across from Li, whose pose is almost meditational,\neerily calm."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Mu Bai, hold on.  Give me some\nhope..."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "Shu Lien..."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Save your strength."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "My life is departing.  I've only\none breath left."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Use it to meditate.  Free yourself\nfrom this world as you have been\ntaught.  Let your soul rise to\neternity with your last breath.  Do\nnot waste it... for me."
+  },
+  {
+   "type": "speech",
+   "character": "LI",
+   "text": "I've already wasted my whole life.\nI want to tell you with my last\nbreath... I have always loved you.\nI would rather be a ghost, drifting\nby your side... as a condemned\nsoul... than enter heaven without\nyou.  Because of your love... I\nwill never be a lonely spirit."
+  },
+  {
+   "type": "stage direction",
+   "text": "Yu cries.\nShe kisses him lightly.  He closes his eyes."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PATH - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "As the sun rises, Jen rides speedily, clutching the medicine\nin her hands."
+  },
+  {
+   "type": "location",
+   "text": "INT. ABANDONED FACTORY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Li is in Yu's arms.  They're holding hands.  The sun shines\nin.  Yu slowly releases Li's stiff fingers -- he is dead.\nJen is at the door."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "He's gone?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bo peeks over Jen's shoulder.\nYu rises and picks up Green Destiny.  Jen kneels.  Yu raises\nthe sword, but doesn't kill her."
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Bo... please take this sword back\nto Sir Te."
+  },
+  {
+   "type": "stage direction",
+   "text": "He takes the sword from her."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Jen)"
+  },
+  {
+   "type": "speech",
+   "character": "YU",
+   "text": "Now you must go to Wudan Mountain.\nLo awaits you there.  Promise me\none thing, whatever path you take\nin this life... be true to yourself."
+  },
+  {
+   "type": "location",
+   "text": "EXT. WU TAN TEMPLE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen climbs up toward the temple, finally reaching the temple\ngate, and sees Lo standing there.\nHe runs to her.  She greets him."
+  },
+  {
+   "type": "location",
+   "text": "INT. WU TAN TEMPLE - MAGIC"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen and Lo make love."
+  },
+  {
+   "type": "location",
+   "text": "INT. WU TAN TEMPLE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo wakes up to find the jade comb on the pillow beside him,\nJen gone."
+  },
+  {
+   "type": "location",
+   "text": "EXT. WU TAN MOUNTAIN - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo catches up to Jen, who stands on a bridge.  The gorges\nbelow are shrouded in clouds.  She looks back at him."
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Do you remember the legend of the\nyoung man?"
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "\"A faithful heart makes wishes come\ntrue.\""
+  },
+  {
+   "type": "speech",
+   "character": "JEN",
+   "text": "Make a wish, Lo."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lo pauses."
+  },
+  {
+   "type": "stage direction",
+   "text": "(closing his eyes)"
+  },
+  {
+   "type": "speech",
+   "character": "LO",
+   "text": "To be back in the desert, together\nagain."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jen smiles, turns, and leaps into the clouds.  They seem to\ncatch her gently, before she disappears into them.\nLo remains standing, a smile on his face, tears rolling down\nhis cheeks.\nTHE END.\n<!--Ad Banner\nfunction popupPage() {\nvar windowopts = \"location=no,scrollbars=no,menubars=no,toolbars=no,resizable=yes,left= 50,top=50,width=490,height=130\";\npopup82942 = open('/prohost/banner.html',\"MenuPopup\",windowopts);\npopup82942.focus();\n<b>}\n</b>\npopupPage();\n//  Ad Banner-->"
+  }
+ ]
+}

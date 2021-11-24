@@ -1,0 +1,3598 @@
+{
+ "movie_url": "https://imsdb.com/scripts/Piano,-The.html",
+ "movie_title": "piano",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "THE PIANO LESSON\nScreenplay for a film by\nJANE CAMPION\nProducer\nJAN CHAPMAN\nScript editor\nBILLY MACKINNON\nMaori dialogue and translator\nSELWYN MURU\n(c) copyright:"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jan Chapman Productions Pty Ltd\n2 Fairlight Street Leichhart 2040\nNSW Australia\n4th draft 1991\nDeveloped with the assistance of\nThe Australian Film Commission\nSc 1                                                  Sc 1"
+  },
+  {
+   "type": "speech",
+   "character": "ADA (VO - Scs 2 to 7)",
+   "text": "The voice you hear is not my\nspeaking voice, but my mind's\nvoice.\nI have not spoken since I was\nsix years old. No one knows\nwhy, not even me. My father\nsays it is a dark talent and\nthe day I take it into my head\nto stop breathing will be my\nlast.\nToday he married me to a man\nI've not yet met. Soon my\ndaughter and I shall join him\nin his own country. My husband\nsaid my muteness does not\nbother him. He writes and hark\nthis: God loves dumb creatures,\nso why not he!\nWere good he had God's patience\nfor silence affects everyone in\nthe end. The strange thing is I\ndon't think myself silent, that\nis, because of my piano. I\nshall miss it on the journey."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 2     EXT     SCOTTISH FIELD NEAR HOUSEDAY     Sc 2\nA woman in a dark crepe Victorian dress sits leaning against a tree,\nher hands cover her face, around her neck she wears a writing pad. She\ncrosses a field with large bare trees, in the far background stands a\n3 storey stone house.\nSc 3     INT     SCOTTISH HOUSE CORRIDOR     DAY     Sc 3\nA small girl roller skates down a dimly lit corridor. A parlour maid\nlooks down the hall where the girl has disappeared.\nSc 4     INT     SCOTTISH HOUSE DRAWING ROOMDAY     Sc 4\nThree men wearing long grey aprons are fitting the packing for a\npiano. On one of the men's arms is a tattoo of a whale in a wild sea.\nSc 5     EXT     SCOTTISH HOUSE GROUNDS     DAY     Sc 5\nThe girl wearing her skates sits on a small black pony. An old man is\npulling it, but it won't move. (In the background, another aspect of\nthe grey stone house.)\nSc 6     INT     SCOTTISH HOUSE FLORA'S BEDROOM NIGHTSc 6\nThe woman lifts back the sheets from the bottom of the sleeping girl's\nbed. She is still wearing her skates. The woman cuts through the laces\nand removes the boots. One disembodied skate rolls across the room.\nSc 7     INT     SCOTTISH HOUSE DRAWING ROOMNIGHT     Sc 7\nThe woman stands at a window lit by moonlight. Her skin appears\nluminescently white. She touches the wooden window frame, the curtain,\nthe objects on the window sill, her mind abstracted, her hands\nunconsciously performing a farewell. Turning from the window she moves\nto a square piano crowded by packing boxes. In the dim light she\nbegins to play strongly. Her face strains, she is utterly involved,\nunaware other own strange guttural sounds that form an eerie\naccompaniment to the music.\nAn old maid in night-dress looks in. Abruptly the woman stops playing.\nThe emotion leaves her face, it whitens and seems solid like a wall.\nCUT TO BLACK\nSc 8     EXT     UNDERWATER BEACH          DAY     Sc 8\nUnder water a long boat passes overhead, its oars breaking the\nsurface.\nSc 9     EXT     BEACH                    DAY     Sc 9\nAmidst a riotous sea a woman, ADA, is carried to shore on the\nshoulders of five seamen. Her large Victorian skirt spreads across the\nmen's arms and backs, on her head a black bonnet, around her neck her\npad and pen. We should be forgiven if this woman seems a sacrificial\noffering as the bay they carry her to is completely uninhabited. A\nblack sand backs on to an endless rise of dense native bush.\nThe breakers are chaotic, the men strain to keep their footing,\ncalling to each other."
+  },
+  {
+   "type": "speech",
+   "character": "SEAMEN",
+   "text": "Hold still you smutt! Blast the\nboat!\nLook up! Look up!\nLay to! Lay to.\nUp with it you buggerers, hold\nhard!\nDamn me won't you hold?!\nEtc."
+  },
+  {
+   "type": "stage direction",
+   "text": "Two of the men are black, all are battered, tattooed and tough, some\nare drunk.\nBehind the woman is her daughter, a girl of ten in Scottish dress. She\ntoo is carried on the shoulders of seamen.\nADA is placed on the sand. She looks down at her feet sinking into the\nwet sand, then up at the huge confusion of fern and bush in front of\nher. The sound of sea behind is thunderous.\nSeveral of the seamen have formed a group and are pissing on the sand.\nHer daughter is on all fours evidently being sick. But ADA's attention\nis diverted to the seamen who are staggering through the waves with a\nhuge piano shaped box. They put it down as soon as they get to 5hore\nbut ADA makes gestures that they must immediately bring it to higher\nsafer ground. The piano placed to her satisfaction she hovers near it,\none hand in constant touch of it while her daughter grips her free\nhand.\nSc 10     EXT     BEACH                         DAY     Sc 10\nTWO SEAMEN finish carrying the last crate to shore. Trunks and boxes\nincluding an open crate with hens are scattered carelessly along the\nshore.\nThe SEAMEN gather together. After a discussion in which they look\nbetween ADA and her child and their Coaster out on the sea, one of the\nmen approaches. Behind him the other men keep their eyes out to sea or\ndown on the sand. They don't want to be involved. The sight of the\nwomen alone on this beach is too hopeless."
+  },
+  {
+   "type": "speech",
+   "character": "SEAMEN",
+   "text": "It's a little rough out there.\nCould be they can't get through\nto you in this weather. Maybe\nthey'll come over land."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA nods."
+  },
+  {
+   "type": "speech",
+   "character": "SEAMEN",
+   "text": "Have you things for shelter?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA nods."
+  },
+  {
+   "type": "speech",
+   "character": "SEAMEN",
+   "text": "What things have you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA signs to her daughter. The little girl speaks clearly and loudly\nwithout emotion."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "She says, \"thank you\"."
+  },
+  {
+   "type": "stage direction",
+   "text": "Puzzled, the man walks off, then turns and comes back."
+  },
+  {
+   "type": "speech",
+   "character": "SEAMEN",
+   "text": "Does your mother prefer to come\non with us to Nelson?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA signs vigorously to FLORA."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "She says, No. She says she'd\nrather be boiled alive by\nnatives than get back in your\ntub."
+  },
+  {
+   "type": "speech",
+   "character": "SEAMEN",
+   "text": "(stunned) You be damn fortuned\nI don't smack your puppy gob,\nmissy. Damn lucky."
+  },
+  {
+   "type": "stage direction",
+   "text": "SCENE 11 DELETED\nSc 12     EXT     BEACH                         DAY     Sc 12\nADA is sheltering behind the crated piano, anxiety etched on her face.\nFLORA  is asleep at her feet a half eaten biscuit in her hand ADA has\nfound a gap through the crate so that she might lift the lid and play\na few notes. The sweetness and comfort of the piano seem only to\nexaggerate their isolation and hopelessness.\n2- See notes\nSuddenly a rush of sea water shoots straight under the raised crate of\nthe piano wetting her shoes. ADA stands, pushing FLORA onto her feet.\nShe is aghast to see the tide has crept in completely unnoticed.\nThey watch three of their boxes float out to sea. One of the hens has\nescaped the crate and is bobbing up and down in the waves.\nSCENE 13 DELETED\nSc 14     EXT     BEACH                         DUSK     Sc 14\nThere is just a pink streak left in the sky. ADA and FLORA shelter\ninside their make-shift tent, a hooped petticoat secured at the edges\nwith stones.  Inside the tent a candle lights up their conversation.\nADA is hand signaling a story to FLORA who lies back watching, nervous\nand afraid. ADA's whole self is involved in the \"telling\", her face is\nalight with expression, now tender, now sad, now humorous, now soft,\nwhile her hands and fingers are deft and precise. From outside it is\nan odd shadow play."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(hand signaling) Mother... I'm\nthinking"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA pauses."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(speaking) I'm not going to\ncall him Papa.  I'm not going\nto call HIM anything. I'm not\neven going to look at HIM."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 15     EXT     BUSH ON WAY TO BEACH          DAY     Sc 15\nThrough a dense bush walk a party of fourteen MAORI people and two\nEUROPEAN MEN. The wetness, closeness and darkness of the bush is such\nthat the air seems green, like at the bottom of a deep sea. Two of the\nMAORIS share one pair of shoes and all of them are clothed in a\nmixture of native and European costume. Of the Europeans one is small\nand has a shy manner. He has a half completed Maori tattoo across his\ncheeks. The other is a similar age about 45 and wears a suit, muddy\nand out of place here in the bush. He staggers, spurts forward then\nslows to a stop. His hair and face are wet and his skin reflects the\ngreen foliage. BAINES the younger man turns and slows."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Are we stopping?... Do you want\nto stop?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The MAORI voices and laughter are becoming fainter. BAINES watches\ntorn between his concern for STEWART and the split in their party.\n3-See Notes"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Shall we stop?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Unable to get an answer BAINES runs after the MAORIS."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Tai hoa! Me tatari tatou .., me\ntutatou I konei.\n(Wait! We are stopping.. we're\nstopping.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART takes out a comb and drags it dazed and zombie like through\nhis wet hair. Inside the darkness of his pocket, he turns over and\nover a small, worn edged photograph, a smudge of green light allows us\nto see ADA's tumbling face. Taking it in the heel of his hand he\nsecretly looks at it. Just as the party return and settle he stares on\nahead possessed and determined."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "We must get on."
+  },
+  {
+   "type": "stage direction",
+   "text": "The MAORIS look at BAINES bewildered."
+  },
+  {
+   "type": "speech",
+   "character": "TAME",
+   "text": "Aue tepatupsiarehe!\n(The fairy people, what can you\nexpect?)"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 16     EXT     BEACH                     MORNINGSc 16\nIt is early morning. The sea is calmer and the tide is again low. The\nparty or two EUROPEANS and fourteen MAORI MEN and WOMEN come out on to\nthe beach. About half the MAORI party head straight for the shoreline\nwhere an older woman loudly organises a pipi collection. All sorts of\ncontainers are used from flax baskets to shirts with knots in their\narms. The rest follow STEWART and BAINES over to the boxes. STEWART\nautomatically re-combs his hair, patting it against his forehead,\nwhere it sticks in a raked pattern. On his head he carefully places a\nformal top hat, oddly dean compared to his mud splattered suit. The\nparty stops short of the petticoats where a tell-tale foot reveals its\noccupants."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Miss McGrath, Alisdair Stewart.\nYou'll have to wake yourself.\nI've got men here to carry your\nthings."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA and FLORA struggle up to find themselves confronted by a group of\nmen and women. The MAORIS stare curiously and comment on the women."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Aut he anahera enci?\n(Are they angels, they look\nlike angels.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "A man points at FLORA's feet and gestures as if holding one of the\nlittle shoes in his hand."
+  },
+  {
+   "type": "speech",
+   "character": "SUBTITLED",
+   "text": "Te monohi hoki!\n(So small!)"
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA is struck by shyness and hides under her mother's skirt. ADA\ncannot look straight at STEWART and STEWART also cannot look at her."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I see you have a good many\nboxes, I'd like to know what is\nin each."
+  },
+  {
+   "type": "stage direction",
+   "text": "As ADA does not move STEWART is puzzled."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "CAN - YOU - HEAR - ME?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA nods and looks up coldly, insulted by his slow loud speaking."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Well that is good, yes that is\ngood, good."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART smiling searches ADA's face for some sign of comprehension but\nis unnerved by her lack of response. He stops smiling, and, patting\nhis hair walks to the closest box. Several of the MAORI party follow\nbehind STEWART while one of them closely and particularly mimics him."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "What's in here?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA points to the writing already on the box saying \"Crockery and\nPots\"."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Ohh, yes so it is, written\nthere, crockery."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "And this one?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA writes \"bedclothes and linen\" on the pad around her neck- While\nshe writes he takes the opportunity to scrutinise her."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "You're small. I never thought\nyou'd be small."
+  },
+  {
+   "type": "stage direction",
+   "text": "He walks to another chest"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "What's here?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She writes \"clothes\". The MAORI mimic also pretends to write.\nFinally he comes to the piano box. He lifts a corner experimentally."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "What's in here then, lead?"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(gravely) It's my mother's\npiano."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "A piano?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The MAORIS touch the exposed legs of the piano.  STEWART speaks to the\nother European man BAINES."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Tell them to carry in pairs.\nThose three and those two the\nblack and the red, then the\nsuitcases."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART holds BAINES back a moment."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "What do you think?"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART nods towards ADA. BAINES thinks a moment then turns towards\nADA too."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "She looks tired."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "She's stunted, that's one\nthing."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES walks over to HONE a big man and the MAORJ leader, he stands\ntall with a great sense of his own importance. (Mana)"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Anei nga pouaka - ko era e\ntoro.\nMe era e raa.\n(Here are the boxes, those\nthree and those two.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "UNSUBTITLED"
+  },
+  {
+   "type": "speech",
+   "character": "HONE",
+   "text": "E Hoal"
+  },
+  {
+   "type": "stage direction",
+   "text": "HONE takes an aggressive fighting posture towards BAINES, insulted\nthat BAINES should suggest he might carry anything. HONE does not\ncarrying, he is the boss. With great dignity HONE retreats, too\ninjured to help. Other MAORIS come up and BAINES assigns them boxes.\nADA gets worried, the piano is being left alone. She writes on her\npad, \"THE PIANO?\" She shows STEWART."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Oh no, it can't come now."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "It must come."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART looks at FLORA"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "She wants it to come."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Yes and so do I, but there are\ntoo few of us here to carry it.\nTOO - HEAVY"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA writes \"I NEED THE PIANO.\" Her MAORI mimic copies her."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Do you mean you don't want your\nkitchenware or your clothes? Is\nthat what you mean?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA signs to FLORA."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "We can't leave the piano"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Let us not discuss this\nfurther. I am very pleased...."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART slows down as he watches ADA again sign to FLORA, he has the\nuncomfortable impression he is being interrupted."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Mother wants to know if they\ncould come back directly for\nit?"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART is shocked, his mouth hangs slightly open, paused in mid\nspeech. TAHU mimics this mouth drop perfectly."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "After they have taken the other\nthings?"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART is growing confused and anxious. His two mimics and their\ngrowing audience unnerve him further."
+  },
+  {
+   "type": "speech",
+   "character": "PITO",
+   "text": "Kei Riri a te raho Maroke.\n(shouted loudly at TAHU)\n(Watch it dry balls is getting\ntouchy.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART nods suspiciously towards the MAORI speaker not understanding\nhim, the speaker smiles and nods back."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I suggest you prepare for a\ndifficult journey. The bush\nwill tear clothes and the mud\nis deep in places."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART walks away. ADA stands beside the piano turned away from the\nactivities. FLORA pats her hand trying to cheer her. Down on the beach\na fire is lit and pipis are prepared for cooking. Some of the young\nmen are racing naked into the sea."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(to BAINES about the MAORIS)\nWhat are they doing? We don't\nhave time for that."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 17     EXI     BEACH                         DAY     Sc 17\nIt is some hours later and the carrying party are beginning to make\ntheir way up into the bush. ADA still stands beside her piano. FLORA\nwants to follow the party. BAINES comes back along the beach, trailed\nby a young Maori boy, KAHA."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Mr. Stewart asked if I might\nshow you to the path. (ADA does\nnot move) ... May I carry\nsomething?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA turns to BAINES, her face angry and defiant, her eyes full of\ntears. BAINES falls back, struck by her show of emotion. ADA and FLORA\nwalk past him toward the bush.\nSc 18     EXT     CLIFF ABOVE BEACH               DAY     Sc 18\nThe party threads its way through the bush along the cliff. ADA pauses\nat the cliff top to see her piano below on the sand, tiny and\ndesolate. Its distance and her love of it suddenly strike her. Its\nmusic is faint and becomes loud over the next scene.\nSc 19     EXT     BUSH FROM BEACH               DAY     Sc 19\nBrown feet squelch through the mud, finally followed by dainty boots\ncaked in dirt. The MAORI leaders of the party have stopped.\n4 - See Note\nBAINES works his way to the front."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "aha tenei?\n(What is it?)"
+  },
+  {
+   "type": "speech",
+   "character": "SUBTITLED\nHONE",
+   "text": "E hinga te Koroua ra B Pitama i\nkonci. Kare noa Kia hikina te\ntapu.\n(Old man Pitama died here.\n(points to the spot)\nThe Tapu hasn't been lifted)"
+  },
+  {
+   "type": "stage direction",
+   "text": "UNSUBTITLED\nSTEWART struggles up to the front to join BAINES, he speaks over the\ntop of HONE."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "What's he say?"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Someone died here. It's tapu."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "But we came down this way\ndidn't we? I'm sure we did."
+  },
+  {
+   "type": "stage direction",
+   "text": "The MAORI leaders continue discussing."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "0h Pitama eh."
+  },
+  {
+   "type": "speech",
+   "character": "HONE",
+   "text": "E Tarna heke atu ki ram - tiro\nhis atu.\nRapuhia mai he huarahi re!\n(Go and look, find another\ntrack eh!)"
+  },
+  {
+   "type": "stage direction",
+   "text": "UNSUBTITLED"
+  },
+  {
+   "type": "speech",
+   "character": "TIPI",
+   "text": "'cia tupato he ana taniwba ke\nraro na.\n(Go easy there's a ghost down\nthere.)"
+  },
+  {
+   "type": "speech",
+   "character": "SUBTITLED\nHOTU",
+   "text": "'Ca, rongo koe i te haunga a\ntans tutae i te tuatahi. (You\nsmell his shit first.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "UNSUBTITLED\nSTEWART continues over the top of the MAORI discussion."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "They want more money. They are\ntrying to make two days out of\nit?"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "No, no they know another track\n- to the side of this."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA and FLORA sit watching, out of breath. The bush is dense,\nclaustrophobic and exotic. One of the MAORI women sits close to ADA\napparently not looking at her- Slowly she draws the scarf that is in\nADA's lap into her own. Defiantly she puts it on.\nMeanwhile another woman makes a very dignified attempt to wipe the\nfreckles from FLORA's face.\nSc 20     EXT     STEWART'S                    DAY     Sc 20\nIt is another day and STEWART'S hut, bleakly set amidst smoking stumps\nis full of squeals, chasing and antics.\nSc 21     INT     STEWART'S HUT               DAY     Sc 21\nThe reverend in frock coat has a wedding dress stuck part way up his\narms. It is not a normal wedding dress but a backless one used again\nand again as a photographic prop. Stewart's AUNT MORAG and her\ncompanion NESSIE are trying to pull it off."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Watch your feet!"
+  },
+  {
+   "type": "speech",
+   "character": "NESSIE",
+   "text": "Watch your feet!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA and FLORA find the family fun frightening and have taken refuge in\nthe bedroom."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Careful! Watch his hand."
+  },
+  {
+   "type": "speech",
+   "character": "NESSIE",
+   "text": "Watch his hand"
+  },
+  {
+   "type": "stage direction",
+   "text": "The REVEREND tickles his sister as she tries to get the sleeve off his\nhand. NESSIE squeals with excitement."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Stop it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "NESSIE looks towards ADA panting with excitement at the fun."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "(shooing the Reverend out)\nWe'll bring out the bride."
+  },
+  {
+   "type": "stage direction",
+   "text": "The two women now fit the wedding dress on ADA."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "LIFT - YOUR - ARM - UP - DEAR."
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA sits on the bed sulkily. She leans back and crosses her leg."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "My REAL father was a famous\nGerman composer"
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Ohh the tag is broken."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(continues) .... They met when\nmy mother was an opera\nsinger... in Luxemburg..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The two women pause to look at FLORA. ADA signs to FLORA \"THAT'S\nENOUGH!\""
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Why?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA looks away, the two women finish primping the dress. FLORA crosses\nher arms."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "I want to be in the photograph."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 22     EXT     STEWART'S Hut                DAY     Sc 22\nNESSIE half holds an umbrella over ADA as they make their way to where\nthe camera is setup in front of a chair and a sparse display of three\ntoi-toi. All about the house is muddy, so much so that they must weave\ntheir way through on planks and logs. A fine veil of rain is falling\nacross the distant bush, the whole valley is shrouded in mist. STEWART\nlooks through the camera at the REVEREND and the photographer who are\nposing as the couple, complete with tatty bouquet. STEWART notices\nADA's arrival and seeing her as a real bride, his bride, he is\nstruckdumb with pride, even the rough tapes at the back or the dress\ncannot destroy the illusion."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Beautiful."
+  },
+  {
+   "type": "stage direction",
+   "text": "The umbrellas are held away, the rain pours down.\nSc 23     INT/EXT     STEWARTS HUT BEDROOM     DAY     Sc 23\nAUNT MORAG has brought a chair into the bedroom and sits knee to knee\nwith FLORA."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "I thought she met your father\nin Luxemburg."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Well, yes, in Austria where be\nconducted the Royal Orchestra."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "(frowning) And where did they\nget married?"
+  },
+  {
+   "type": "stage direction",
+   "text": "AUNT MORAG checks to see if someone is coming."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(her Scottish accent becomes\nthick and expressive) In an\nenormous forest, with real\nfairies as bridesmaids each\nholding a little elf's hand."
+  },
+  {
+   "type": "stage direction",
+   "text": "AUNT MORAG sits back, regarding FLORA with obvious disapproval and\ndisappointment. She smooths back her hair."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "No, I tell a lie, it was in a\nsmall country church, near the\nmountains"
+  },
+  {
+   "type": "stage direction",
+   "text": "AUNT MORAG is becoming involved again. She leans forward."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Which mountains are those dear?"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "The Alps."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Ohhh I've never been there.\n(she leans forward)"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Mother used to sing the songs\nin German and her voice would\necho across the valleys\nThat was before the\naccident...."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Oh what happened?"
+  },
+  {
+   "type": "stage direction",
+   "text": "MORAG looks over her shoulder as FLORA continues to talk, so\npersuasive is FLORA's storytelling that the scene comes vividly to\nlife, albeit in FLORA's dark pupil."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "One day when my mother and\nfather were singing together in\nthe forest, a great storm blew\nup out of nowhere. But so\npassionate was their singing\nthat they did not notice, nor\ndid they stop as the rain began\nto fall and when their voices\nrose for the final bars of the\nduet a great bolt of lightening\ncame out of the sky and struck\nmy father so that he lit up\nlike a torch... And at the same\nmoment my father was struck\ndead my mother was struck dumb!\nShe- never-spoke-another-word."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Ohhh ... dear. Not another word\nFrom the shock, yes it would\nbe."
+  },
+  {
+   "type": "stage direction",
+   "text": "The story is interrupted by the return of the wedding party who are\ndripping wet, exactly as the couple in the story. AUNT MORAG bustles\nover to take off the wet wedding gown, her face puckered with tragedy."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Terrible.  Terrible"
+  },
+  {
+   "type": "stage direction",
+   "text": "Before she can undo the ties ADA pulls it from herself so aggressively\nthat the ties and part of the gown comes apart. None of this is a\nconcern to ADA who is distracted with fear for her piano. She crosses\nto the little window and stares anxiously at the falling rain.\nSc 24     EXT     BEACH                         DUSK     Sc 24\nSoft piano music has been playing over the previous scene. Now it\nbuilds to strength as sea water swirls high around the piano, small\nand embattled on the dark rainy beach.\nSc 23     INT     STEWART'S HUT BEDROOM          DAY     Sc 25\nIt's morning of the next day. ADA and FLORA sit amongst tea chests in\nthe bedroom. ADA is signing intently to FLORA. FLORA signs back,\nsometimes using words. STEWART watches uneasy with their secret\ncommunication. As STEWART enters the animation is suspended. ADA\nstands and takes a step back as if to attention."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I shall be gone for some days.\nThere is some Maori land I want\nand may buy very reasonably.\n(STEWART shuffles) I am hoping\nyou will use the time to settle\nin, and, in some ways we may\nstart again"
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA and ADA look at each other."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "All right?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA looks at him blankly, then nods.\nSc 26     EXT     STEWART'S                    DAY     Sc 26\nADA and FLORA dressed in cloaks and bonnets skirt the dense bush\ntrying to find a path in. It is not easy, because the bush is so\ntight. ADA's leg slides in up to her calf in mud.\nSc 27     EXT     BAINES'                    DAY     Sc 27\nADA and FLORA arrive at BAINES' rough hut. It is mid-morning but\nBAINES is not yet dressed. ADA hands him a note. BAINES looks at it\nblankly."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I'm not able to read."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA signs to FLORA."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Please take us to the beach\nwhere we landed."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I'm sorry, I can't do that.\n(FLORA and ADA stare evenly at\nhim)\nI don't have the time.\n(They continue to stare.)\nGoodbye"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 28     EXT     BAINES'                    DAY     Sc 28\nIt is much later when BAINES emerges from his hut with a saddle over\nhis arm. The two women are still there. ADA looks up at him\nexpectantly.\nFLORA mirrors her expression."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I - can't - take - you there. I\ncan't do it."
+  },
+  {
+   "type": "stage direction",
+   "text": "He puts the saddle over a rail. He continues to saddle up, sneaking\nglances at them from under the horse and around its side. They watch\nhim closely, not pleadingly, but stubbornly1 eerily of one mind.\nSc 29     EXT     BEACH                         DAY     Sc 29\nThe sky is blue with long wisps of cloud.\nThe party of three break onto the long expanse of beach where the\npiano still stands. It has not been without visitors. There are\nfootprints on the sand and some of the boards have been pulled back.\nADA passes BAINES, walking urgently towards it. Soon, ADA has removed\nenough boards that she may lift the lid and play the keys. EMNES stays\nback. ADA takes great delight in feeling her fingers on the keys\nagain. Her whole composition is altered. She is animated, joyful,\nexcited.\nDown on the wet sand FLORA does a wild dance of her own invention\nusing a seaweed wig. She finishes by rolling down the beach in the\nsand.\nBAINES views them with suspicion, yet he is magnetically drawn to the\nspectacle He has never seen women behave with so much abandon. His\nattention fixes on ADA's uninhibited emotional playing, and as he\nwatches, he finds himself edging irresistibly closer.\nSc 30     EXT     BEACH                    LATE AFTER NOONSc 30\nThe shadows are long on the sand when BAIN'ES collects the boards. ADA\nand FLORA are attempting a duet. ADA notices him come towards them\nwith the boards, obviously intending that they should leave. Her mood\ndarkens, she continues playing stubbornly even though FLORA has\nstopped. Abruptly she finishes. In black spirits she replaces her cape\nand bonnet. BAINES is struck by this sudden change, he watches her\nmesmerised as he replaces the boards.\nSc 31     EXT     BEACH                    NIGHT          Sc 31\nFrom a helicopter, the camera tracks along the beach, following the\ncrashing wave line, to find the piano.\nSCENE 32 DELETED\nSc 33     EXT     STEWART'S HUT & KITCHEN     DUSK          Sc 33\nThe hut puffs smoke out into the valley. The lie of the land traps\nsound like a shell and the clear high notes of a voice echo out.\nSuspicious that ADA is singing, STEWART approaches the house quietly.\nThrough the open kitchen door he sees that the keys of a piano have\nbeen etched on the table top. While ADA \"plays\" the notes FLORA sings\nthem.\nSTEWART puts his pack down. ADA stands to attention, folding the\ntablecloth back over the table.\n5, 6 + 7 See notes"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Hello, then."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Hello."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA nods. STEWART'S hand explores the markings on the table. ADA\nwatches his hand moving under the checked cloth.\nSc 34     INT     MISSION HOUSE               DAY     Sc 34\nAUNT MORAG, NESSIE and TWO MAORI GIRLS dressed in proper Victorian\ncostume are kneeling around a huge double white sheet, sewing and\ncutting it. The MAORI girls are part of the mission's good works. They\nare dressed in European style and while their training is in polite\nproper domestic behaviour they constantly corrupt it with their\ndemonstrative displays of affection, and their clay tobacco pipes to\nwhich they are addicted.\nSTEWART is standing, looking on. BAINES is behind him in the kitchen\nremoving his boots."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "(looking carefully at STEWART)\nWell you stopped combing your\nhair, which is a good thing, it\nwas looking over done.\n(without pause but referring to\nthe sheet) You see these are\nthe slits that the heads will\ngo through, show him Nessie ...\nthey'll be dead, the Reverend\nis going to use animal blood,\nno doubt it will be very\ndramatic. Tea!\n(for NESSIE rather than to her)"
+  },
+  {
+   "type": "speech",
+   "character": "NESSIE",
+   "text": "It will be very dramatic."
+  },
+  {
+   "type": "stage direction",
+   "text": "NESSIE leaves to get the tea. HENI, the MAORI girl with a Moku tickles\nMARI'S back while she sews.\nThey sing the anthem in snatches. It is background to the\nconversation."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(sitting down)\nWhat would you think if someone\nplayed a kitchen table like it\nwere a piano?"
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Like it were a piano?"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "It's strange isn't it? I mean\nit's not a piano, it doesn't\nmake any sound."
+  },
+  {
+   "type": "stage direction",
+   "text": "NESSIB puts STEWART'S tea down. BAINES comes in with his tea cup\ndwarfed in his big hands. He stands back leaning against a wall."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "(hissing to NESSIE) Biscuits.'\nNo, no sound."
+  },
+  {
+   "type": "stage direction",
+   "text": "NESSIE hustles back to the kitchen."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I knew she was mute, but now\nI'm thinking it's more than\nthat. I'm wondering if she's\nnot brain affected."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "No sound at all?"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "No, it was a table."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "(musing) Well, she was very\nviolent with the gown. She tore\noff a chunk of lace. if hadn't\nbeen there I'd have sworn she'd\nused her teeth"
+  },
+  {
+   "type": "speech",
+   "character": "NESSIE",
+   "text": "and wiped her feet an it."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Well it has not yet come to\nanything. Just a concern."
+  },
+  {
+   "type": "stage direction",
+   "text": "AUNT MORAG pats her chest. a calming device."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Oh, yes, yes of course, a\nconcern."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "There is something to be said\nfor silence"
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Oh indeed. Cotton'."
+  },
+  {
+   "type": "stage direction",
+   "text": "She holds her needle up for NESSIE to thread."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(warming)  And with time she\nwill, I'm sure, become\naffectionate."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Certainly, there is nothing so\neasy to like as a pet and they\nare quite silent."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES watches quietly on.\nSc 35     EXT     STEWART'S WOODCHOP          DAY     Sc 35\nSTEWART is at the woodshop cutting firewood. He displays his\nvirtuosity as an axeman, cutting the wood into ever more slender\npieces, FLORA is watching and stacking the fallen timber. She flinches\nas the axe hits the wood, but scurries in to pick up the timber.\nBAINES is standing talking to STEWART."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Those 80 acres, that cross the\nstream, what do you think of\nthem?"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "On your property?"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Yes"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES carries a log across for STEWART who talks without pausing in\nhis work,"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Good, flatish land with\nreliable water, why? I don't\nhave money. What are you about?"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I'd like to make a swap."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "What for?"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "The piano."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "The piano on the beach? Ada's\npiano?"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES nods. STEWART stops, this is serious."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "It's not marshy is it?"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART has walked a few paces away from his wood chop in the\ndirection of the land."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "You'd have to organise it up\nhere."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Yes, I thought that."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Well Baines the music lover, I\nnever would have known. Hidden\ntalents George."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I'll have to get lessons. It\nwouldn't be much use without\nthem."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Yes, I suppose you would."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES remains silent. He looks away."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Well Ada can play."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES shrugs."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I have it in a letter she plays\nwell. She's been playing since\nshe was 5 or6."
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA has stopped stacking. She is lying along the top of the wood,\nlifting a leg up and down, watching the men.\nSc 36     INT     STEWART'S KJTCHEN               DAY     Sc 36\nSTEWART, flushed with his plans, is pouring tea into cups. FLORA peers\nat cup level through the steam. ADA sits beside her at the table."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I have got us some excellent\nland. Baines has taken some\nqueer idea to have a piano, and\nyou are to give him lessons.\nHave you taught before?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA signs to FLORA."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "What on?"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "On your piano, that is the\nswap."
+  },
+  {
+   "type": "stage direction",
+   "text": "ALA finger signs, her face furious."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "What does she say?"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "She says it's her piano, and\nshe won't have him touch it.\nHe's an oaf, he can't read,\nhe's ignorant."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "He wants to improve himself...\nand you will be able to play on\nit ... (ADA is not responding\nwell) Teach him to look after\nit."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA's breathing becomes heavy with anger, she writes Curiously on her\npad."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "NO! NO! THE PIANO IS MINE! IT'S\nMINE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART regards her note and her passion with suspicion and disdain"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(getting up) You can't go on\nlike this, we are a family now,\nall of us make sacrifices and\nso will you.\nYou will teach him. I shall see\nto that!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA's emotions are suddenly removed and she views STEWART blankly,\neerily so.\nSc 37     EXT     BUSH FROM BEACH               DAY     SC 37\nThe piano is taken up through the bush by a group of six to eight\nMAORI MEN. It's very heavy and awkward and they grunt and struggle\nwith it."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "HiM na ake 'nun na'.\n(Lift up the back)"
+  },
+  {
+   "type": "stage direction",
+   "text": "UNSUBTITLED"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Tern - tern!\n(Ass hole!)\nHei niti niti maan!\n(turning around)\nYou lick it.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "Someone stumbles and the back of the piano comes crashing to the\nground thundering out in the bottom end of the scale. People scatter.\nOnly one stays who warrior like challenges the piano.\nSc 38     EXT     PATH TO BAINES                DAY      Sc38\nThe women duck low to avoid a branch as STEWART leads them to BAINE'S\nhut. STEWART carries the piano stool.  The path slopes up through a\nstrange, bearded forest where the tops of trees are bare and ghost\nlike."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I'd try children's tunes,\nnothing more complicated"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA is unrepentant, she does not want to teach BAINES the piano."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Just be encouraging no one expects him to be good."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 39      INT/EXT     BAINES' HUT                DAY     SC 39\nThe piano is the only cared for item in the rough hut"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(lifting the lid) It looks\ngood, very nice looking thing.\nWell . I wish you luck. The girls\nare very excited about the\nlessons."
+  },
+  {
+   "type": "stage direction",
+   "text": "The \"girls\" look anything but excited. FLORA shy, plays obsessively\nwith a long strand of greasy hair. ADA is cold and grim."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Flora will explain anything Ada says.\nThey talk through their fingers,\nyou can't believe what they say\nwith just their hands."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART leaves. BAJNES goes to the piano and lifts the lid. He looks\nat them. ADA signs to FLORA."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "My mother wants to see your\nhands. Hold them out."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES holds out his hands, spread wide as if holding a ball."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "No, no, like this"
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA puts her neat little fingers together, first with their backs up\nthen she turns them over. HAINES does the same only his bands are big\nand coarse. ADA signs to FLORA. BAINES is shyly keen."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "You have to wash them."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "They are washed."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA signs."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Wash them again."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "The marks do not come out.\nThey are scars and hardened\nskin."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA and FLORA do not move. Humiliated BAINES takes a scrub brush, soap\nand bucket and goes outside. ADA can see him from the window. She\nmoves to her piano. She wants to touch it but she is torn by her\nfeelings, wanting it, but not owning it. She strokes the varnished\nwood with her hand and softly lifts the lid. Outside FLORA stands\nbeside BAINES pointing out hits of his hand he should still scrub.\nFurtively she lays her hands on the keys. The instrument is horribly\nout of tune, almost every note is off. She goes outside and signs to\nFLORA."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "There's no tune left in the\npiano so she can't teach you."
+  },
+  {
+   "type": "stage direction",
+   "text": "The two women leave.\nSc40     EXT      STEEP BUSH HILL                DAY     Sc40\nTwo men come crashing out down a steep bush hill, They are tied to\neach other. BAINES, the younger and stronger, is trying to break their\nfall by grasping hold of branches and shoots. Finally their fall is\nchecked. The old man is white haired, the front of his suit splattered\nwith the debris of many meals. He sits up feeling about for his\nglasses. He is blind. His eyes, though closed, wobble and roll BAINES\nfinds the glasses One of the lenses has gone, the other is very dark.\nThe old man fits his handkerchief in the gap.\nSc 41     EXT     HUGESCREE                    DAY     Sc 41\nBAINES carries the old man on his back, they cross a huge scree. Each\nof BAINES' steps dislodge a fall of rocks. The crashing of stones\nechoes across the valley. BAINES and he are but small dots in this\ngiant earth scar\nSCENE 42 DELETED\nSc 43     INT     BAINES' HUT                    DAY     Sc 43\nInside BAINES' hut the old man feels the piano."
+  },
+  {
+   "type": "speech",
+   "character": "BLIND MAN",
+   "text": "Ah, a Broadbent. A fine\ninstrument. I've not come\nacross one here, or in the\nIslands where I have tuned some\n200. Yes, they like their\npianos there."
+  },
+  {
+   "type": "stage direction",
+   "text": "Out of his pocket he takes a carefully wrapped tuning fork. He unwraps\nthe package, lifts the back and lid and starts to tune. He sniffs the\nair. BAINES watches, He sniffs close to the keys."
+  },
+  {
+   "type": "speech",
+   "character": "BLIND MAN",
+   "text": "Scent? And salt of course."
+  },
+  {
+   "type": "stage direction",
+   "text": "He works on."
+  },
+  {
+   "type": "speech",
+   "character": "BLIND MAN",
+   "text": "What will you play when it's\ntuned? What music do you play?"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINS looks over at him from the meal he is preparing."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I can't play."
+  },
+  {
+   "type": "stage direction",
+   "text": "The blind man stops working."
+  },
+  {
+   "type": "speech",
+   "character": "BLIND MAN",
+   "text": "You don't play?"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "No, I can't.\nI'm going to learn."
+  },
+  {
+   "type": "stage direction",
+   "text": "The man goes back to work somewhat depressed by the futility of the\nventure."
+  },
+  {
+   "type": "speech",
+   "character": "BLIND MAN",
+   "text": "Well my dear Miss Broadbent,\ntuned, but silent."
+  },
+  {
+   "type": "stage direction",
+   "text": "SCENE 44 DELETED\nSCENE 45 DELETED\nSC 46     EXT     BAINES' HUT                    MORNINGSc 46\nA slash of sunlight falls across the piano. Thousands of particles of\ndust become visible floating in the air. BAINES is at the window in\nhis shirt/night shirt. He notices the dust on the piano and strips off\nhis shirt which he uses as a duster. Under the shirt he is naked. As\nhe wipes the smooth wood he becomes aware of his nakedness. His\nmovements become slower until he is no longer cleaning, but caressing\nthe piano.\nSc 47     EXT     PATH TO BAINES'               DAY     Sc 47\nOn the path to BAINES' house, ADA and FLORA sit in the bush. ADA's\nhead is bowed. Her hands held over her face. FLORA tries to catch the\nspots of light in her palm as they twinkle through the thick canopy of\nleaves over head.\nSc 48     EXT/INT     BAINES' HUT                    DAY     Sc 48\nThe door opens. ADA and FLORA stand in their cloaks and bonnets."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Mother says she can't stand to\nteach piano with it all out or\ntune. So I'm to do scales."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA turns and walks off. FLORA bustles in. BAINES watches ADA from the\nwindow,"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "I hope you've scrubbed your\nhands."
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA begins a scale."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Oh, it's in tune."
+  },
+  {
+   "type": "stage direction",
+   "text": "She looks over at BAINES who is still gazing out the window."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "What's out there?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She gets up to see what BAINES is looking at. She sees her mother and\ndivines BAINES is looking at nothing."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "You have to watch me where I\nput my fingers."
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA starts again. ADA can only hear the piano faintly but moves\ncloser as she too hears it's in tune.\nAs she enters the hut BAINES pulls his fingers away from the piano.\nFLORA sees this and stops too. She looks at her mother."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "It's in tune."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA checks the other notes. FLORA stands with her arms folded, a bit\nsulky and fluffed up."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(Hissing) I was teaching."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA tries the piano. She looks over at BAINES then signs to FLORA."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "She wants to see what you can\ndo."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I'd rather not play. I want to\nlisten and learn that way."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Everyone has to practice."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I just want to listen."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA is a bit nonplussed. She does not want to be listened to anymore\nthan she wants to teach. She pulls a strand of her hair then signs to\nFLORA."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "What do you want to hear?"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAIWES shrugs shyly and locks away out the window. He doesn't know"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Anything."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA is slow to start. Unobliging as ever she plays scales. But once\nbegun her belligerence fades as her absorption in the music\nstrengthens.\nSc 49     INT     STEWART'S HUT/ADA'S BEDROOM      NIGHT     Sc 49\nBack at STEWART'S hut, ADA lies dispirited on the bed. FLORA lies\nbeside her holding ADA's hand."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Tell me about my real father."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA nods and strokes FLORA's hair from her face. FLORA leans back."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "How did you speak to him?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA signs to FLORA who watches in love with all the stories of her\nmother and unreal father."
+  },
+  {
+   "type": "speech",
+   "character": "ADA (subtitled)",
+   "text": "I didn't need to speak, I could\nlay thoughts out in his mind\nlike they were a sheet"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "What happened? Why didn't you\nget married?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA continues to sign her hands casting odd animal like shadows on the\nnewspapered walls."
+  },
+  {
+   "type": "speech",
+   "character": "ADA cont.",
+   "text": "After a while he became\nfrightened and he stopped\nlistening."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART enters their bedroom. FLORA stops and ADA stands against the\nwall. STEWART finds the atmosphere curious yet impenetrate."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Shall I kiss you goodnight?"
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA looks up at her mother. ADA shrugs.\nSTEWART nods stiffly, and uncomfortably, he leaves.\nSc 50     EXT     BAINES' VERANDAH               DAY     Sc 50\nIt's raining heavily, FLORA sits on the small verandah outside BAINES'\nhut, her legs stuck straight out into the wet. She is overseeing a\nmerciless power game with the dog, forcing it out of the verandah with\na stick.\nSc 51     INT     BAINE'S HUT                    DAY     Sc 51\nADA's playing can be heard inside. BAINES sits back watching ADA. Her\ncape on the hook is dripping a puddle on to the floor and there is a\ncircle of drips around her skirt hem. She is totally absorbed in her\npiano music as she was on the beach.\nBAINES watches. Her long white neck, now wet from rain, proves\nirresistible. He comes across the room and kisses her. ADA jumps up\nand prepares to leave. BAINES stands in front of the door."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Do you know how to bargain, nod\nif you do."
+  },
+  {
+   "type": "stage direction",
+   "text": "She doesn't move,"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "There's a way you can have your\npiano back. Do you want it\nback? You want it back?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA eyes him suspiciously."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "You see I'd like us to make a\ndeal. There's things I want to\ndo while you stay. If you let\nme you can earn it back.\nWhat do you think, one visit\nfor every key."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA is tense but she is thinking about it. She holds up a finger then\npoints to the black of her dress."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Your dress?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA shakes her head."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Skirt ...?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She walks over to her piano and points to a black key."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "For every black one?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA turns raising her head, nodding."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "That's a lot less, half."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES is counting the keys. ADA starts for the front door."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "All right, all right then, the\nblack keys."
+  },
+  {
+   "type": "stage direction",
+   "text": "She sits back at the piano. She plays the lowest black key as in\nnumber one\nShe takes her hands off the piano waiting."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "It's better that you play."
+  },
+  {
+   "type": "stage direction",
+   "text": "Obediently she begins, stopping abruptly, indignantly, as he touches\nher neck."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Play... Keep playing."
+  },
+  {
+   "type": "stage direction",
+   "text": "After a moment she settles back to the piano.\nSc 52     EXT     BAINES' VERANDAH               DAY     Sc 52\nOutside FLORA is cradling the poor confused dog, asking him what cruel\nmiserable person had sent him out into the cold and wet.\nSc 53     EXT     RIVERHOLE NEAR BAINES'          DAY     Sc 53\nBAINES bathes in a riverhole. He is watched by a gathering of Maori,\nsometimes with great seriousness, at other times with hilarity. They\npass between them his clothes, trying them on and mimicking him. One\nof the older women HIRA crouches close to the bank keeping up a steady\nline of inquiry. Her manner is relaxed but focused and persistent. She\nsmokes a pipe-"
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "I got the good wife for you\nPeini. She pray good. Clean.\nRead Bible. You sleep her\nPeini. She chief daughter."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "No, no bible readers."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES continues good humouredly washing."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "Why? We need you pakeha clever.\nYou sleep her."
+  },
+  {
+   "type": "speech",
+   "character": "TAHU",
+   "text": "(A big man dressed as a woman)\n(Background) I give her plenty\nclever. (Gestures sexually)"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I have a wife."
+  },
+  {
+   "type": "speech",
+   "character": "TAHU",
+   "text": "(camping it up) I give her\nclever eb Peini. Hallelujah!"
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "Don't answer, he low born. Jun\nlook at him, mongrel. Your wife\nwhere she?"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "She lives her own life in New\nJersey, America."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "You have spare wife here Peini.\nYou get rnana for that. Our\nchief four wives."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES shakes his head amusedly. As he gets out of the river HIRA\nslaps him."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "I marry white man Peini, he a\nwhaler like you. He very good\nto me. Love me, nurse me."
+  },
+  {
+   "type": "stage direction",
+   "text": "HIRA touches her own face where BAINES' tattoo is."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "Who do that? It not finish,\nthat no good Peini. You finish!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Several people on the bank are taking turns to comb their hair,\npeering into a tiny piece of mirror.\nSc 54     EXT/INT     BAINES' HUT                    DAY     Sc 54\nBAINES' dog hears ADA and FLORA approach. It takes off under the\nhouse. FLORA calls the dog. It keeps well hidden. ADA has gone on\ninside and the door is closed. FLORA stands outside the door left out\nand lonely. She knocks. BAINES answers."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(small voice)\nI want to speak to my mother"
+  },
+  {
+   "type": "stage direction",
+   "text": "She buries her head in her mother's skirt."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "I don't want to be outside, I\nwant to watch."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA signs to FLORA."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "I'll be very quiet."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA leads her to the door signing to her"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "I won't look at him!"
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA is shut out.\nSc 55     INT     BAINES' HUT                    DAY     Sc 55\nADA sits at the piano. She is shy and nervous She turns to BAINES who\nnods. ADA begins to play. BAINIES keeps his head bowed, but as the\nplaying becomes more confident he raises his head to watch.  He sits\nat a far corner of the room apparently enjoying the whole vision or\nthis woman at her piano.\nAfter some time BAINES, affected by the music, takes his chair to a\ncloser position and from an opposite angle. ADA glances up as she\nfeels him passing behind her.  He seems satisfied to watch. His\nattention finally focuses on her neck as it bends further or closer to\nthe piano.\nAgain he shifts his chair, taking it round the back and to the other\nside of the piano. As he moves ADA watches warily. From this position\nbe doesn't try to touch her, but watches, enjoying her fingers moving\non the keys and the small details of motion on her face. Twice he\ncloses his eyes and breathes deeply BAINES is experiencing an\nunpractised sense of appreciation and lust. When his eyes are closed,\nADA glances at him with curiosity and suspicion.\nSc 56     INT     SCHOOL HALL                    DAY     Sc 56\nFLORA stands on a kitchen chair. AUNT MORAG and NESSIE have paused\nfrom fitting FLORA's bodice and wire angel wings. They are attempting\nto learn the hand gestures as FLORA signs:"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "\"I shall listen hard to rehearsal,\nbecause I live too\nfar away to go often.\""
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "(suspiciously) Which sign is\nthe word rehearsal?"
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA deftly demonstrates."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "I can't imagine a fate worse\nthan being dumb. Turn around."
+  },
+  {
+   "type": "speech",
+   "character": "NESSIE",
+   "text": "To be deaf?"
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Oh yes, dear too - TERRIBLE!\nAWFUL!\"'"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Actually, to tell you the whole\ntruth, Mama says most people\nspeak rubbish and it's not\nworth the listen."
+  },
+  {
+   "type": "stage direction",
+   "text": "AUNT MORAG and NESSIE exchange looks."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "(stiffly) Well, that is a\nstrong opinion."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Yes, it's unholy."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 57     INT     BAINES' HUT                    DAY     Sc 57\nADA is quick to remove a used plate and cup left on top of the piano.\nBAINES is sitting next to the window, his elbow on the sill, his head\nturned away."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Lift your skirt,"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA stops playing. She turns to him. Thinks about it then slowly lifts\nher skirt a little to show her boots."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Lift it higher."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA pulls the skirt up fractionally so the top other boots are\nexposed.\nBAINIES nods ADA starts to play again, not so confidently as before.\nBAINES moves close, he goes down on his knees to watch her feet on the\npedals."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Higher."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA doesn't hear."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Lift it higher."
+  },
+  {
+   "type": "stage direction",
+   "text": "She stops and lifts her skirt to her knees. She looks at BAINES with\nill-disguised contempt. BAINES is enthralled with her legs, or what he\ncan now see of them. He moves back to watch them from behind. He's\nlying on the ground, head propped on his arm. ADA's slim stockinged\ncalves work the pedals, one of the stockings has a small hole through\nwhich her white skins shows\nSc 58     EXT      MISSION HOUSE GROUNDS          DUSK     Sc 58\nHENI holds STEWART'S horse near a wooden gate. Its wet coat steams in\nhe night air, making the whole horse glow. HENI talks softly to it in\nMaori.\nSc 59     INT     MISSION HOUSE               NIGHT     Sc 59\nInside the REVEREND is closely watched by STEWART, AUNT MORAG and\nNESSIE as he cuts out the shape of an axe from a piece of marbled\ncardboard. A lamplight flickers warm tones across their faces while\nthe rest of the room is dark giving it a conspiratorial air."
+  },
+  {
+   "type": "speech",
+   "character": "REVEREND",
+   "text": "Nessie, your hand out ... out\nhere, please."
+  },
+  {
+   "type": "speech",
+   "character": "NESSIE",
+   "text": "Oh, no use Mr Stewart, I can't\nact."
+  },
+  {
+   "type": "speech",
+   "character": "REVEREND",
+   "text": "Nessie, please."
+  },
+  {
+   "type": "stage direction",
+   "text": "NESSIE hesitatingly puts her arm out towards him and the REVEREND\nchops away in the air two feet in front other, NESSIE looks at AUNT\nMORAG puzzled."
+  },
+  {
+   "type": "speech",
+   "character": "REVEREND",
+   "text": "Look you are being attacked!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The REVEREND points to the opposite rose-papered wall, where his\nshadow and paper axe now look very real as they loom large above the\ncrouching NESSIE chopping into her. NESSIE squeals, as does MARY."
+  },
+  {
+   "type": "speech",
+   "character": "REVEREND",
+   "text": "And with the blood ... it will\nbe a good effect:"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 60     INT     BAINES' HUT               DAY     Sc 60\nADA's finger plays the fourth black key from the left hand side,\ndenoting lesson four."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Undo your dress. This part,\n(he indicates the top) I want\nto see your arms."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA is taken unawares. She sits a moment unsure if she wants to\ncooperate, then slowly she staffs to undo her buttons.\nADA pulls her arms out of the tight sleeves. Underneath she wears a\nworn-in bodice. Her arms are so white they seem transparent. A\ndelicate network of blue-green veins crisscross up the soft underpart\nof her arms. A dark growth of hair in her armpit suggests a shadowy\ndepth. The back of her hands, normally white, are quite tanned in\ncomparison."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Play."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES draws his chair close. Gently he places his hand on the soft\nunderpart of her forearm. ADA stiffens and pulls away. He grips the\narm."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Two keys."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA continues to play. Slowly he moves his hand higher towards her\nshoulder. Clearly unnerved she changes the music to something brisk,\nalmost comical. BAINES feels suddenly ridiculous, his mood broken. He\ntakes his hand away and moves back to the window injured. ADA is\nvictorious, she is pleased to have won herself a respite.\nSc 61     EXT     STEWART'S WOODCHOP          DAY     Sc 61\nSTEWART is at the woodchop talking to AUNT MORAG and NESSIE.\nMARY and HENI, AUNT MORAG'S Maori girls lie sprawled out under a tree."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "I hardly need to give one to\nyou, but there you are anyway."
+  },
+  {
+   "type": "stage direction",
+   "text": "NESSIE has been sorting through a basket of invitations, finding\nSTEWART'S she hands it to AUNT MORAG who hands it to STEWART."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Don't be late. You will see\nthere are two times and since\nyou are accompanying a\nperformer, you will need to\nmake the earlier time"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART has stopped listening, he is watching ADA and FLORA pick their\nway through the fallen logs to BAINES path."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Wait."
+  },
+  {
+   "type": "stage direction",
+   "text": "The two women stop. There is a Japanese sense of deferment to STEWART"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "How are the lessons going?\nADA nods enthusiastically.\nHe's getting on all right?\nADA nods again\nGood."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "That is good, yes."
+  },
+  {
+   "type": "stage direction",
+   "text": "As ADA walks on AUNT MORAG leans towards STEWART."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "She seems quieted down.  Is she\nmore affectionate?"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART looks after them unable to answer."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Ah well, slowly, slowly"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 62     INT     BAINES' HUT                    DAY     Sc 62\nBAINES secures a chair against the door while ADA is removing her\ndress top. She sits at the piano hugging herself against the chill.\nAs BAINES passes be knocks the jacket off the chair back. He picks it\nup and takes it across to her seat by the window.\nBAINES nods and ADA begins to play. BAINES fingers the still warm\njacket1 he lifts it up and smells it. ADA turns around and stops\nplaying suddenly appalled by his odd sensual pleasure taking. She\nholds out her hand for the jacket, her expression stern and\ncensorious. She indicates he should return it to the chair back.\nBAINES ignores her. ADA stands and comes over to BAINES. She pulls the\njacket from his hands and replaces it across the chair back, but as\nshe turns to sit,\nBAINES is beside her. He pulls the shoulders of her bodice down,\nexposing her shoulders and some of her breast. ADA immediately stands,\nbut BMNES is much stronger and man-handles her across to the bed. ADA\nstruggles seriously, this is much, much more than she was expecting."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Ada, four keys."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA holds up five fingers and mouths 'five'."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I just want to lie."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA shakes her head vigorously and again mouths five'."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "All right, all right five."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA no longer struggles. She is stiff and still. BAINES intoxicated by\nthe smell and presence of her skin becomes soft and gentle. He kisses\nand touches her with feeling and affection. Then suddenly aware of her\nstillness he too becomes still. He pulls himself up to see whether her\nface betrays her feelings. ADA seizes this opportunity to return to\nthe uncertain sanctuary of her piano. From the bed, BAINES watches her\nrun a hand noiselessly over the polished ivory keys, a gesture\nbetraying affection never afforded to him. BAINES gets up. He shuts\nthe piano lid forcing ADA to remove her hand.\nADA immediately stands and dresses, marking hurtfully BAINES'\nownership of her piano.\nSc 63     EXT     STEWART'S HUT               SUNSETSc 63\nA golden evening. STEWART in his best shirt and trousers prepares the\nhorse and cart.\nSc 64     INT      STEWART'S HUT  ADA's BEDROOM      SUNSETSc 64\nInside FLORA is in her finished Angel costume, she sings softly to\nherself while ADA undoes the long strands of plaits and separates them\nto comb."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "The Holly and the Ivy..."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART comes in to put on his jacket, but the collar is all tucked\nin. ADA automatically adjusts it for him, settling it around his neck.\nHer touch, meant practically, strangely affects him. In an impassioned\nimpasse, meant gallantly, he tries to kiss ADA's finger tips. The\ngesture falters as ADA, surprised, jumps back.\nSc 65     EXT     SCHOOL HALL                    DUSK     Sc 65\nPeople are arriving at the school hall. One family is being ferried\nthrough the mud in a wheelbarrow.\n10 See Notes\nSc 66     INT     SCHOOL HALL                    NIGHT     Sc 66\nSome people are already seated in the hall. Several other angels have\narrived, and they like FLORA are ushered backstage.\nSc 67     INT     SCHOOL HALL BACKSTAGE          NIGHT     Sc 67\nBACKSTAGE, the Sunday School teacher is gathering the children\ntogether, reminding them of the order of songs, checking their hair,\netc. The local dramatic society are also preparing themselves. One of\nthe women is peeping through a hole in a make-shift curtain to watch\nthe townspeople seating themselves."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "They're bringing in extra\nseats!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Despite this, there would still be only a maximum of forty people. 10\nor so of them MAORIS in their best European dress."
+  },
+  {
+   "type": "speech",
+   "character": "ANOTHER WOMAN",
+   "text": "Oh God, don't pin my hair too\nhigh Alfred!"
+  },
+  {
+   "type": "speech",
+   "character": "STILL ANOTHER",
+   "text": "Yes, me too, do it about here\n... (she shows Alfred)"
+  },
+  {
+   "type": "stage direction",
+   "text": "Two of the women are putting a little c4ouring on each of the angels\nwhile two other angels are being smacked for putting their white gloved\nhands in the bucket of blood.\nSc 68     INT     SCHOOL HALL                    NIGHT     Sc 68\nEveryone is chatting at each other's seats, except the MAOIRI guests\nwho wait solemnly. AUNT MORAG is organising the placement of the new\nseats. BAINES arrives."
+  },
+  {
+   "type": "speech",
+   "character": "MAN ONE",
+   "text": "Look who's here, the musical MR BAINES\nWhat will we have tonight\nGeorge, \"Twinkle, twinkle?\""
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES smiles and blinks, the teasing continues as BAINES scans the\nroom for ADA. Two of the MAORI PARTY share one pair of shoes so that\nonly one may be in the hall at a time, while the other waits\nbarefooted outside."
+  },
+  {
+   "type": "speech",
+   "character": "ANOTHER MAN",
+   "text": "'Mary had a little lamb' or a\npolka, come on George what's it\nto be?"
+  },
+  {
+   "type": "stage direction",
+   "text": "AUNT MORAG hustles over to BAINIES and pushes him in front of her\ntowards NESSIE and the piano."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Mr. Baines, do come and turn\npages"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES looks wildly about for rescue."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I can't read music, I have just\nbegun."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES backs off from NESSIE whose face drops in disappointment. He\nhas spotted ADA and is eager to take a seat near her. He takes the\nseat next to ADA but one. He sits smiling and blinking. The teasing\ncontinues, behind him."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(turning) Lot of fools. Come\non, move up."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA puts her hand on the seat and shakes her head indicating that she\nis saving it for FLORA. BAINES is rebuffed and looks across at ADA who\nignores him.\nThe main lights are put out and everyone returns to their places. In\nthe dark STEWART shyly takes ADA's hand in his. BAINES watches STEWART\nsqueezing her hand and quite out of control stands and leaves\naccompanied by a chorus of eshhhhhhhhhhhhhn. Satisfied, ADA watches\nhim go.\nThe children file on with their candles, They stand in a group singing\nwith great seriousness, but struck with shyness their voices are so\nsmall as barely to be heard."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "-sing up Billy!\n-Come on sing out!"
+  },
+  {
+   "type": "stage direction",
+   "text": "One of the smallest promptly pees. An arm reaches under the curtain to\nwipe the stage.\nSc 69     INT     SCHOOL RALL & BACK STAGE     NIGHT     Sc 69\nBackstage all is ready for the main dramatic event. There seems to be\nmore peep-holes than curtains as eyes press themselves to the little\nflap. The master of ceremonies, the REVEREND is on stage explaining\nthe dramatics. He is wearing harlequin tights and rompers, his face is\ndramatically paled. The candles are blown out."
+  },
+  {
+   "type": "speech",
+   "character": "REVEREND",
+   "text": "And so the young maid came upon\neach and all of Bluebeard's\nmissing wives, their severed\nheads still bleeding, their\neyes still crying."
+  },
+  {
+   "type": "stage direction",
+   "text": "The piano accompaniment is suspenseful while the audience shriek\nappreciatively. Backstage AUNT MORAG provides the dripping blood,\nmoving between the corpses, she peers at the audience through a peep-\nhole in the curtain."
+  },
+  {
+   "type": "speech",
+   "character": "REVEREND",
+   "text": "But who it this?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(AUNT MORAG looks around gasping, fooled despite herself)\nA loud improvised door slam and heavy footsteps. NESSIE, in costume,\nfreezes. The shadow of Bluebeard moves clumsily down the cut-out\nbanister and along the corridor."
+  },
+  {
+   "type": "speech",
+   "character": "BLUEBEARD",
+   "text": "I am home early my sweet wife\n... where art thou?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The girl scrambles for the fallen key and rushes out of the closet\ninto the silhouette corridor."
+  },
+  {
+   "type": "speech",
+   "character": "YOUNG WIFE",
+   "text": "Hello husband, what a surprise!"
+  },
+  {
+   "type": "speech",
+   "character": "BLUEBEARD",
+   "text": "Yes wife, a surprise indeed! So\nnow you know my secret you, the\nsweetest and youngest or all my\nwives must be prepared to die."
+  },
+  {
+   "type": "stage direction",
+   "text": "BLUEBEARD pulls out a cut-out axe and moves towards her.\nTwo of the young warriors in CHIEF NIHE's party rise to their feet."
+  },
+  {
+   "type": "speech",
+   "character": "BLUEBEARD",
+   "text": "Auc! Ha aba ra tenei?\n(Hey! What's this)"
+  },
+  {
+   "type": "speech",
+   "character": "SUBTITLED",
+   "text": "E Nilie, E Nihe he Kohuru, he\nkohurn?\n(Nihe, Nihe is this murder?)"
+  },
+  {
+   "type": "stage direction",
+   "text": "NIHE waves them down, but they are shaken up and only crouch above\ntheir seats. The others stare anxiously between NIHE and the stage."
+  },
+  {
+   "type": "speech",
+   "character": "NIHE",
+   "text": "(Amused by them)\nE te whsnau keite pai-he takaro\ntenei.\n(Everything is fine this is\njust a game)"
+  },
+  {
+   "type": "stage direction",
+   "text": "BLUEBEARD moves closer, the young wife drops to her knees her hands\nheld up in prayer."
+  },
+  {
+   "type": "speech",
+   "character": "YOUNG WIFE",
+   "text": "No, no wait!"
+  },
+  {
+   "type": "speech",
+   "character": "BLUEBEARD",
+   "text": "I shall not wait. Bare your\nneck."
+  },
+  {
+   "type": "stage direction",
+   "text": "As BLUEBEARD raises his axe again, first one then the other of the\nyoung warriors run forward, shouting a fierce war cry and parting the\naudience, who flee to either side while the corpses come very much to\nlife."
+  },
+  {
+   "type": "speech",
+   "character": "BLUEBEARD",
+   "text": "Kia hiwara! Kin hiwara!\n(Be on the alert! Brace\nyourself)\nPokokohun - whakaputa mai ja\nkoc!\n(Coward! Show yourself, come\nout!)"
+  },
+  {
+   "type": "stage direction",
+   "text": "Only NIHE and his top-hatted daughter remain calmly in their seats.\nThe warriors have BLUEBEARD cornered and whimpering an umbrella held\nspear-like above him. NIHE stomps his stick, his great voice booming\nout."
+  },
+  {
+   "type": "speech",
+   "character": "NIHE",
+   "text": "Hoki rnai! Hoki rnai!\n(Come back here! Come back\nhere!)"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 70     INT     SCHOOL HALL BACK STAGE       NIGHT     Sc 70\nBackstage the CHIEF and his party are shown the theatrical devices;\nthe blood-bucket, the paper axe, the splits in the sheets.\nSc 71     INT     BAINES' HUT                    DAY     Sc 71\nADA goes to the piano, she is upset that BAINES has again left a plate\non top of it. BAINES intercepts her, stepping several times between\nher and the piano. She sees the game and stands still. He steps aside.\nShe removes the plate, gently, lovingly wiping the surface underneath.\nThere is a sulky irritation in the ways BAINES watches her."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I have been waiting. You are\nvery late."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA starts to play, BAINES watches then looks away."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I don't want you to play. I\njust want you to sit."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA keeps playing until she has finished. Without looking at him she\nholds up two fingers against the piano."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "(angry) No, not two keys."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA starts playing again, BAINES feels powerless. He no longer admires\nher absorption with the piano, he is jealous of it."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "(shouts) Two keys then!"
+  },
+  {
+   "type": "stage direction",
+   "text": "She stops playing. There is an insolence or casualness in the way she\nregards BAINES. He pulls her chair back from the piano. This upsets\nher, as much of her confidence was associated with the instrument.\nBAINES kisses her passionately on the mouth. ADA pulls back, BAINES\npersists, he is desperate and romantic.\nSc 72     EXT     BASE OF BUSH COVERED HILL     DAY     Sc 72\nSTEWART, with BAINES interpreting, talks with a group of MAORIS at the\nbase of a bush covered hill. The MAORIS sit behind a small\nrepresentation of the hill marked out with twigs on the ground. The\natmosphere is tense."
+  },
+  {
+   "type": "speech",
+   "character": "MAORI NEGOTIATOR",
+   "text": "(pointing to the places)\nNga awa kau kau, nga ana koiwi\n0 matoti mattia tunpuna; kei\nrunga katoa i te whenua nei\nkorerongia atu ki to tangata na\ne Peini.\n(The bathing waters, the caves,\nthat house, the remains of our\nancestors are all part of this\nland. Explain it to the man\nBaines.)"
+  },
+  {
+   "type": "speech",
+   "character": "SUBTITLED\nSTEWART",
+   "text": "(muttering to BAINES across the\nprevious speech) What do they\nsay? Are they selling? Offer\nthe blankets for half the land."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART holds up his ten fingers and then two more."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "T-w~e-l-v~e."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Te, kawnarna paraikete mo te\ntahi hawlie 0\nte whenna uci.\n(he'll give you twelve blankets\nfor half the land.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "UNSUBTITLED\nThe MAORIS look carefully at the quality of the blankets, noting the\ndepth of the weave and the strength of the Wool. They shake their\nheads as they discuss them."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(Quietly to BAINES)\nOffer the guns."
+  },
+  {
+   "type": "speech",
+   "character": "MAORI NEGOTIATOR",
+   "text": "Kahore atu he kororo. Kahore\nniaton Kote hake whentia. Engad\nmate peaks ne.\n(No more talk, we won't sell\nthe land. I will trade you\npigs, that is all.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "He messes up the pattern of twigs as he speaks.\nANGRY MAORI\n(Angry to the NEGOTIATOR)\nHe aha te pononga 0 te whenus\npena kahore he Pu hei pupuri?\n(What is the point of owning\nour land if we have no guns to\nhold it?)"
+  },
+  {
+   "type": "stage direction",
+   "text": "The MAORI NEGOTIATOR gets up to leave as do the others, STEWART\nsnatches back his blankets and sulkily shakes them out to fold."
+  },
+  {
+   "type": "stage direction",
+   "text": "E hoa ma, haria atu ra takit\nkia Nihe.\n(Give my regards to Chief\nNihe.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Others join in)\nAc ra. Kia Ora! Kia Ora! Te\nPeini.\n(Yes indeed! Thank you. Thank\nyou, Peini.)\nSc 73EXT     BUSH AT NEW BOUNDARY MARKERSDAYSc 73\nBAINES and STEWART walk through the bush. STEWART laden down with his\nblankets, red-faced and irritable."
+  },
+  {
+   "type": "stage direction",
+   "text": "What do they want it for? They\ndon't cultivate it, burn it\nback, anything. How do they\neven know it's theirs?\nBAINES stops as he comes to a freshly placed fence post. STEWART winds\ndown his complaints watching BAINES anxiously. BAIXES walks down to\nthe next one. he touches the freshly split post.\n(tentatively) I thought I might\nas well mark it out."
+  },
+  {
+   "type": "stage direction",
+   "text": "Yes, why not."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ada says you're doing well with\nthe piano?\nBAINES keeps walking from post to post."
+  },
+  {
+   "type": "stage direction",
+   "text": "I'll have to come and hear you\nplay. what do you play."
+  },
+  {
+   "type": "stage direction",
+   "text": "Nothing just yet"
+  },
+  {
+   "type": "stage direction",
+   "text": "No. Well I suppose it takes\ntime.\nSc 74EXT     STEWARTS VEGETABLE PATCHDAYSc 74\nADA has cut a good sized cabbage in the vegetable patch. She throws it\nto FLORA who misses, dropping it in a pool of mud, spattering her face\nand dress. ADA smiles and FLORA who was about to cry gives the cabbage\na big football beet towards her mother. ADA's mouth falls open, but\nthen she too kicks it and they begin to dribble the mud caked cabbage\ntowards the hut, all the time signing playful insults. Into this\narrives STEWART."
+  },
+  {
+   "type": "stage direction",
+   "text": "Baines can't play a damn thing.\nIs that right he can't play a\nthing?\nWe're going to lose that land,\nthe way he was carrying on over\nit.\nIs he musical? You've got to\nteach him a song. Something\nsimple.\nFLORA has her foot on the cabbage, she nudges it off behind her. It\nroll down the hill. STEWART can't help but notice,"
+  },
+  {
+   "type": "stage direction",
+   "text": "What's that?\nHe follows the cabbage down the hill' where he scrapes some of the mud\noff.\nThis thing's been knocked to\npieces.\nSc 75     INT/EXT     BAINES' HUT                    DAY     Sc 75\nFLORA is seen through BAINES' window Inside, ADA as ever charts her\nprogress on the black keys, eleven. She turns to BAINES for\ninstructions.  BAINES is not himself, he is sulky and distant."
+  },
+  {
+   "type": "stage direction",
+   "text": "Do what you like. Play what you\nlike.\nADA is perplexed by this turn about of behaviour. A little\nuncertainly, she sets about her playing. After a little she too turns\nto see what BAINES is doing. He's not there. She is surprised then\nanxious as she fears the deal may be off when there are flaw so few\nkeys to go. She starts to play again, but her anxieties prove too\ngreat. She stops and listens. She looks out the window, where FLORA is\nmucking about in the yard. She walks to his bedroom, listens, then\nopens the door. BAINES stands naked looking at her. ADA is taken aback"
+  },
+  {
+   "type": "stage direction",
+   "text": "I want to lie together without\nclothes on. How many would that\nbe?\nADA holds up ten fingers an impossibly high number of keys.\nBAINES nods.\nADA is surprised; she didn't expect him to agree. ADA checks again\nholding up her hands."
+  },
+  {
+   "type": "stage direction",
+   "text": "Yes, ten keys.\nHesitantly, she starts to undress. She lies on her petticoat, having\ndeemed the bed too dirty. BAINES lies, very still on top of her. A\nscraping sound is heard.\nSc 76     EXT/INT     BAINES' HUT                    DAY     Sc 76\nFLORA is outside walking on sticks and logs trying to make sure she\nnever puts her foot on the ground. She looks over at the house\nsuddenly aware that the piano playing has stopped again. She\ninvestigates the mystery peeping through the various cracks and holes\nin the loosely built hut. Her vision is always only parts of bodies,\nthe venture is one of challenge and curiosity.\nSc 77     EXT     NATIVE PINE FOREST          DAY     Sc 77\nFLORA and three small Maori children play amongst some native pines.\nTwo MAORI WOMEN smoke and chat nearby. The children rub up and down\nagainst the tree trunks kissing and hugging them. The game has an edge\nof promiscuity to it as they exchange trunks and hug one tree as a\ngroup. Unseen by the children STEWART marches towards FLORA. He pulls\nher off the tree."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Never behave like that, never\nany where. You are greatly\nshamed and you have shamed\nthose trunks. (trees)"
+  },
+  {
+   "type": "stage direction",
+   "text": "The MAORI WOMEN keep up an unacknowledged chant.\nMAORI WOMEN"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "What o'clock say Mr Stewart?\n-Ge Tupeka?\n(got tobacco?)\n-Time for puff puff."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 78     EXT     NATIVE PINE FORESTDAY     Sc 7$\nWith a bucket of dull soapy water FLORA begins the task of washing the\ntree trunks.\nThe MAORI WOMEN laugh and point to their feet meaning her to wash them\ntoo.  Their children are lying in their laps playing string games.\nSc 79     EXT     NATIVE PINE FORESTDUSK     Sc 79\nFLORA is still washing the tree trunk silhouetted against the evening\nsky\nFLORA is tearful and sorry for herself. The job has an increased\nfutility as it has begun to rain- STEWART is inspecting her penance.\nShe follows STPWART about the trees."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(sulkily) I know why Mr. Baines\ncan't play the piano."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "You've missed this bit."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "She never gives him a turn."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART stops and looks at her."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "She just plays whatever she\npleases, sometimes she doesn't\nplay at all."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART continues through the trees more slowly."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "And when is the next lesson?"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Tomorrow."
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA puts her bucket on her head to protect herself from the rain.\nSc 80     EXT     PATH TO BAINES'          DAY     Sc 8O\nThe next day is very windy, the tops of trees are thrashed by fierce\ngusts of wind and some smaller branches crash to the ground. ADA's\nlong dress and cape flap uncontrollably. FLORA's smaller cape stands\nout on end. Birds fly in mad wind-battered courses, swooped up then\nstrangely drawn down.\nSc 81     EXT     BAINES'               DAY     Sc 81\nADA and FLORA arrive at BAINES' place to see the piano emerge from the\nhut carried by six MAORI MEN, one of whom does nothing but walk beside\nit \"plonking\" the keys. Another group of MAORIS sit cross-legged on\nthe verandah playing draughts. Panicked ADA hurries down the hill to\nthe hut. FLORA follows behind.\nSc 82     INT     BAINES' HUT               DAY     Sc 82\nInside the hut, HIRA, the old woman from the bathing spot, is smoking\nher pipe. ADA enters distraught and indicates what she has seen. Her\nface is flushed and whipped by the wind. She is much more expressive\nthan normal."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I am giving the piano back to\nyou. I've had enough.  The\narrangement is making you a\nwhore and me wretched.\nI want you to care for me, but\nyou can't."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES sits down on a chair and prepares to eat, somewhat ignoring\nADA. ADA is confused not quite believing the situation. She watches\nBAINES for some kind of confirmation."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "(softly) George, can I use this\ncomb?"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES nods. ADA is still watching. HIRA scrapes the inside of her\npipe with the comb."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "It's yours, leave, go on go!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA is off balanced by the reversal of attitudes, surprised too, that\nshe doesn't want to go. FLORA is fast to leave, ADA follows to\norganise and protect her piano on the journey.\nSc 83     EXT     BAINES' HUT & BUSH     DAY     Sc 83\nAs she climbs out of the small valley surrounding BAINES' hut, she\nstops and walks back to look down at BAINES and his hut, in the EXACT\nsame manner that she once looked at her piano from the cliff-top above\nthe beach. BAINES is throwing the scraps of his meal to his dog, he\ndoes not look up.\nSc 84     EXT     PATH TO BAINES' HUT STEEP HILL DAY     Sc 84\nSTEWART, on his way to BAINES, sees THE PIANO BEARERS and ADA way\nbelow him in the bush. He scrambles down a steep slope towards them."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(stiffly from some distance)\nStop right there'. This isn't\nyours  what are you doing with\nthe piano?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The women exchange looks."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "He's given it to us."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(out of breath) Hah, you're\nvery cunning Ada, but I've seen\nthrough you, I'm not going to\nlose the land this way. Wait\nhere!"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART is off, pounding on down through the bush.\nSc 85EXT/INT     BAINES' HUT/BEDROOM     DAY     Sc 85\nHIRA is sitting on the front step of BAINES' place, blocking STEWART'S\neasy access."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "George sick, he don't wanna see\nnobody. You got Tupeka for the\nHira?"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART goes around to a side window in BAINES' bedroom. BAINES is\nsitting on the bed, but lies back as he hears STEWART coming about the\nside of the house. STEWART opens up the window."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I don't think you should have\ngiven up the piano. I will make\nsure you are properly taught,\nwith music written on to sheets\nand..."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I don't want to learn."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "You don't want to learn."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "And what does this do to our\nbargain? I cannot afford the\npiano if you mean me to pay."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "No, no payment. I have given it\nback. I don't want it."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Well, I doubt I want it very\nmuch myself."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "It was more to your wife that I\ngave it."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Well, thank you, I expect she\nwill appreciate it."
+  },
+  {
+   "type": "stage direction",
+   "text": "He closes the window."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "So that is agreed on?"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES nods.\nHIRA has wandered stiffly into BAINES' room. She sits on the edge of\nhis bed."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "You make BIG mistake George. In\nfirst place you should swap\nland for wife. Now look, she\ngone, you no land, no music\nbox, you got nothing."
+  },
+  {
+   "type": "stage direction",
+   "text": "SCENE 86 DELETED\nSc87     EXT/INT     STEWART'S HUT     DAY     Sc 87\nAt the door of the hut STEWART is distributing buttons to the piano\nbearers.\nOne squats catching them as they fall. A commotion begins as one of\nthe MAORIS snatches the whole jar and runs off. Two of them give chase\nwhile the others insist on tobacco.\n11 See Note\nInside the hut ADA had lifted the top of the piano and is peering in\nwhile playing notes to check tune and damage."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Is it all right? Aren't you\ngoing to play something?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA pulls up a chair and seats herself at the piano. She rubs her\nhands and places them lightly on the keys, she turns from habit over\nher left shoulder where STEWART waits crossed armed. Quickly she\nremoves her hands, stands and gestures FLORA to play. FLORA proudly\ntakes ~p the seat, she pulls her lips in trying to control her\nhappiness to say in front of both her mother and STEWART."
+  },
+  {
+   "type": "stage direction",
+   "text": "What will I play?\nShe looks to ADA, who looks back through her not concentrating."
+  },
+  {
+   "type": "stage direction",
+   "text": "Play a gig."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to ADA) Do I know any gigs?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Play a song then\nFLORA starts a song, ADA walks past them out of the hut, STEWART\nignores her exit moving up to lean on the piano. ADA is seen through\nthe hut window wandering amidst the ghostly, blackened trunks.\nSTEWART'S attention is drawn to ADA, he interrupts FLORA'S singing\nwith a sudden outburst."
+  },
+  {
+   "type": "stage direction",
+   "text": "(exasperated) Why won't she\nplay it? We have it back, and\nshe just wanders off!\nFLORA stops to watch her mother through the window. ADA looks towards\nthe house as the music stops."
+  },
+  {
+   "type": "stage direction",
+   "text": "Keep playing!\nGrimly STEWART slaps the top of the piano to FLORA's playing.\nADA continues to walk, her face dark and puzzled. She stops. Her head\nstiffly, irresistibly, lifts and turns in the direction BAINES' hut.\nShe peers deep into the bush as if attempting to penetrate a puzzle.\nShe thinks and walks on.\nSc 88     INT     STEWART'S KITCHEN     DAY     Sc 88\nThe next day ADA and her piano face each other across the kitchen. A\nslit of light falls across the piano highlighting it's rosey walnut\nwood. ADA's expression is critical and distant.\nTaking a cloth she begins to clean and polish the piano. Her finger\nholds down one of the keys and we glimpse an old inscription on its\nside, a small heart, and an arrow. Putting the cloth aside she sits at\nthe piano to begin playing.\nShe starts with wholehearted feeling, her eyes closed, but before long\nshe is surprised by a moving reflection across the piano and she\n'starts', glancing over her shoulder. She stops and begins again. But\nonce more a reflex has her glance across her left shoulder and she\npauses in her playing. Disquieted she starts again and again she looks\naway. She stops, confused, unable to go on, unable to getup, one hand\non the lid and one on the piano keys.\nSc 89     EXT     PATH TO BAINES'     DAY     Sc 89\nADA carrying her cape and bonnet hurries through the narrow bush path\nto BAINES' hut, FLORA has a fist of her skirt and is pulling back. ADA\nturns on FLORA and snatches the skirt out of the girl's hand. ADA\nsigns to her and continues on."
+  },
+  {
+   "type": "stage direction",
+   "text": "Why? Why can't I?\nADA signs again."
+  },
+  {
+   "type": "stage direction",
+   "text": "(crossing her arms) I shan't\npractise and I DON'T CARE!\nBut ADA does not wait to listen. FLORA walks back through the bush\nmuttering childish expletives to herself. STEWART and his two MAORI\nhelpers come out of the bush towards her. FLORA squeals with fright."
+  },
+  {
+   "type": "stage direction",
+   "text": "(looking up the hill) Where's\nyour mother? Where has she\ngone?\nFLORA pauses petulant and grumpy."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "To HELL!"
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA races off as fast as she can, enlivened by her wickedness.\nSTEWART clambers back up the path. He just glimpses the distant figure\nof ADA nervously turning, her skirts flying as she hurries up the bush\npath The wind bothers the tops of the trees, setting them groaning,\nrubbing their branches against each other.\nSc 90     INT     BAINES' HUT          DAY     Sc 90\nADA enters BAINES' hut, she is breathless1 announcing her presence by\nsimply being there, standing there. BAINES comes through from the\nbedroom. Seeing ADA he is aloof, suspicious and his blinking becomes\npronounced."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "So what brings you here? Did\nyou leave something? I have not\nfound anything."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA does not respond, finally she looks at BAINES and her look has a\nvulnerability and frankness that takes him off guard."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Does he know something?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA shakes her head."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "The piano is not harmed? It\narrived safely? Would you like\nto sit? I am going to sit."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA does not sit. She stands immobilised.  BAINES attempts to maintain\nhis casual charade) he pours a tea.\nHe turns to her about to speak, but stops unmanned by a new fragility\nto her strength. He blinks rapidly"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Ada, I am unhappy because I\nwant you, because my mind has\nseized on you and thinks of\nnothing else. This is how I\nsuffer, I am sick with longing.\nI don't eat, I don't sleep. If\nyou do not want me, if you have\ncome with no feeling for me,\nthen go!"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES walks roughly towards the door and opens it, his softness\nturned suddenly cruel."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Go! Go NOW! Leave!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA is stung by his change of tune, she takes a step towards him and\neyes filling with tears of anger hits him hard across the face.\nBAINES' nose begins to bleed yet his face slowly lights up as if she\nhas spoken words of love. ADA is flushed, shocked, the two face each\nother at this very moment of profound awareness of each other,\nprofoundly equal. With each new breath, with every moment that their\neyes remained locked together the promise of intimacy is confirmed and\nreconfirmed and detailed until like sleepwalkers who do not know how\nthey came to wake where they did, they are standing next to each other\nand beginning to kiss each other, the lips, the cheeks, the nose.\nThere is nothing practised about their tenderness, only their feelings\nand emotions guide their instincts. BAINES' face crumples with the\nexquisite pain of his pleasure, ADA cradles his head to her chest.\nBAINES struggles through her dress anxious to touch her skin.\nSc 91     EXT/INT     BAINES' HUT          DAY     Sc 91\nOutside STEWART surveys the hut suspiciously. BAINES' dog growls as he\nclimbs on to the small verandah. Carefully STEWART peers through some\nloosely slatted boards. There are sounds inside which are worrying\nhim. By standing on the seat he has found a spyhole where he can see\nADA and BAINES kissing, undressing\nHe reels back angry, but just as we might expect him to burst through,\nhe steps up to look again; the fatal second look, the look for\ncuriosity. He watches BAINES bare-chested undressing ADA, her buttons\nburst, ADA laughs, BAINES touches her under her skirts - anywhere, he\ntakes himself under her dress pulling down her stockings. STEWART\nwatches, stepping down to peer lower as BAINES buries into ADA's\nskirt. He does not seem to notice the dog licking his hand. Suddenly\nhe pulls his hand away and looks at it, wet with dog saliva, he wipes\nit on the boards and continues watching as if mesmerised.\nSc 92     INT     BAINES' BEDROOM     DAY     Sc 92\nInside BAINES' small bedroom the raw dark boards contrast with the\nsoftness, whiteness of BAINES' and ADA's bodies, The long black\nstrands of ADA's hair stick to her cheek and wrap around her neck. Her\nface is flushed and her eyes are bright. BAINES rolls his face across\nher chest, gently, slowly savouring the flavour of her body. Drunkenly\nthey continue their sex slowly, slowly. ADA's breaths turn to low\nmurmurs; these small sounds are extraordinarily moving to BAINES whose\nface swoons with joy."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "What?  What?  whisper...."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 93     INT     BAINES' BEDROOM&UNDER HOUSEDAYSc 93\nAs ADA dresses, BAINES sits on his bed watching. He is unhappy,\nthoughtful."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Now you are going I am\nmiserable, why is that? (He\ncatches her hand and draws her\nto hint) Ada I need to know,\nwhat will you do? Will you come\nagain?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA is distracted, collecting her buttons from the floor, concerned at\nthe time past, worried to dress and return.\nThe camera cranes down and down to find STEWART wedged under the loose\nwooden floor slats. He cannot hear clearly, but ADA's hand reaching\nfor each button is only inches away. One falls through a slat on to\nSTEWART'S neck and on down his shirt collar. As she stands he rolls\nout."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Wait! I don't know what you're\nthinking. (gently, teasingly)\nDoes this mean something to\nyou? Hey? (Stroking a strand of\nhair behind her ear) I already\nmiss you. Ada, do you love me?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA considers this question. Clearly she doesn't know, the question is\nmore complex to her than to him, then as if by way of answer she\nkisses him strongly and sexually. BAINES pulls away confused. ADA\nfinishes dressing. BAINES comes up behind her to help with the\nbuttons."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "(anxiously) Come tomorrow. If\nyou are serious, come tomorrow."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA turns and kisses him passionately, with the new born enthusiasm of\nsomeone who has just discovered their appetite for sex. Then as\nquickly as she began, she takes her hood and cape and goes to leave."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Tomorrow?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She nods and is gone.\nSc 94     INT     STEWART'S HUT ADA'S BEDROOMNIGHTSc 94\nFLORA and ADA are both in their white nightgowns. FLORA stands behind\nADA on a chair trying to sort out the knots that have matted at the\nback of ADA's head. ADA shakes her head from side to side playfully,\nmaking the difficult job impossible."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Stay still! It's the very worst\nknots."
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA tries to hold her mother's head still but ADA's high spirits are\nunstoppable and her hair flies out from side to side flicking FLORA in\nthe face."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Mama STOP IT!"
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA starts to giggle and retaliates flinging her own hair from side\nto side. The two women are twirling in the small bedroom their hair\nflying about them, FLORA is shrieking with the fun, then stops dizzy\nand sick. ADA continues flicking FLORA as she twirls."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Stop it I feel sick!"
+  },
+  {
+   "type": "stage direction",
+   "text": "But ADA doesn't stop, her dark hair whirls about her, as giddy and\ndisorientated, she knocks against the walls\nSc 95     INT     STEWART'S HUT     NIGHT     Sc 95\nNext door STEWART sits on his bed listening, his hair wet and neatly\ncombed. He has a journal of pressed botanical specimens beside him.\nHearing FLORA squealing he goes to the kitchen and standing back in\nthe shadows, watches ADA frenetic, whirling through the part open\ndoor.\n80\nSc 96     INT     STEWART'S HUT ADA'S BEDROOMDAWNSc 96\nDaylight floods the room as ADA secures the pins at the back of her\nhair.\nSc 97     EXT     PATH TO BAINES'          DAYSc 97\nMusic builds and plays throughout.) The sky is dark and the wind is\nballooning ADA's cape, wrapping it up high around her. The tree tops\nare swaying furiously. Inside the bush it is dark and ADA hurries up\nthrough the path. She is out or breath and glancing behind her as if\nto guard against followers, when directly in front of her STEWART\nsteps out onto her path. ADA stops short. The look on his face is\nunlike any expression she has yet seen. His eyes do not look at her,\nbut all about her in a way more animal than human. She lowers her eyes\nand calling his bluff walks steadily past him. But STEWART takes her\narm and spinning her back, pulls her close and blind to all protest\nkisses her. ADA struggles furiously. His grip falters and she steps\nback staring at him, then runs off down the hill, but STEWART is on\ntop of her clasping her skirts, pulling her towards him hand over\nhand, she slips and falls to the ground. STEWART is upon her, lifting\nher dress, touching her legs, ADA goes quite still, which throws\nSTEWART long enough for her to scramble away, yet again STEWART\ncatches her and again they roll on the ground, STEWART touching and\nkissing her, ADA turning herself this way and that to avoid it. There\nis a cat and mouse quality to their mute struggle finally broken by\nFLORA calling up the path, distraught and in tears, her angel wings\nhave twisted about her waist."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(TOP OF HER LUNGS) Mumma!\nMumma! They are playing your\npiano!"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART allows ADA to get up and the two women go back down the path\ntowards home. The distant sound of the piano keys thumping.\nSc 98     INT     STEWART'S HUT     DAY     Sc 98\nAt the piano and with solemn dignity sits a MAORI WOMAN. She is\nwearing a top hat and a long black dress, beside her stands the MAORI\nwho absconded with the buttons, most of which he has attached to his\njacket. She plays loudly with two closed fists, her companion listens\ngravely, placidly, blinking at the crashes, two others listen from the\ndoorway, one with his bands over his head.\nSc 99     INT/EXT     STEWART1S HUT     DAY     Sc 99\nFLORA and ADA stand in the hut while fierce hammering can be heard\noutside. STEWART is boarding over the windows, barricading them in.\nFLORA joins in the spirit of be exercise gaily pointing out any slats\nSTEWART has missed."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Here Papa!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA's face pales in the diminishing light. Exasperated by the\nthreatened incarceration she shakes her head with anguish and moving\nto the piano lifts the lid and plays several bars brutally and\nstrongly. She passes on to the bedroom, where she picks up the small\nhand mirror and looks at her face puckered with frustration. She\ntouches her face and neck tenderly, then throws herself on the bed,\nface to the wall, her hands over her ears.\nFLORA stands over her mother."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "You shouldn't have gone up\nthere, should you? I don't like\nit and nor does Papa. Mama, we\ncan play cards together."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA rolls over, her eyes closed she pushes her face and body against\nthe mattress. The movement is sensual and removed. FLORA stops dealing\nthe cards on to the bed and watches her mother puzzled.\nSc 100INT     STEWART'S HUT     NIGHT     Sc 100\nIt is night and ADA is walking in the dark, ghostly in her white\nnightgown. She sits at her piano and begins to play loudly and\nstrongly. Her hair is loose and she seems half-asleep. FLORA and\nSTEWART wake to the loud playing and fumble their way to the kitchen.\nSTEWART carries a lit candle. ADA continues her playing\nFLORA passes a hand in front of ADA's face."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "She is asleep, look."
+  },
+  {
+   "type": "stage direction",
+   "text": "One night she was found in her nightgown on the road to London.\nGrandpa said her feet were cut and bleeding so badly she couldn't walk\nfor a week.\nThe two watch ADA, mesmerised by her compulsive playing.\n12 See Note\nSc 101EXT     STREAM NEAR STEWARTS'DAY     Sc 101\nSTEWART stands guard while ADA and FLORA wash their clothes in the\nstream. FLORA is taking the lead, soaping up the clothes, she passes\nthe garments to her mother to rinse. ADA is distracted and as she\ntakes the clothes, she just as soon lets them go and they float off\ndown the stream past STEWART who tries to catch them but can't. Two\nMAORI BOYS continue the chase, enjoying the fun, thinking it a great\nadventure."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "You are letting the clothes\nfloat off... They are floating\noff."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA stares off into the distance rocking lightly back and forth as she\ncrouches on a stone. Her dress unhitched floats down the stream behind\nher.\n12.See notes"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Mama! Look out!"
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA wades across to grasp yet another garment ADA has let drift off.\nSc 102EXT     STEWART'S          DAY     Sc 102\nOn the way back to the barricaded hut FLORA swings between ADA and\nSTEWART."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "One, two, three\nOne, two, three"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA glances around at the bush. FLORA beams enjoying a feeling of\nfamilyness of which she is now the boss. The two women go ahead into\nthe hut which STEWART shuts and secures with a beam.\nSc 103INT     STEWART'S HUT ADA'S BEDROQOMNIGHT     Sc 103\nIt is night. ADA is tossing in the small bed beside FLORA, her hair\nwound across her face, she makes low moaning sounds as she pushes her\nface and body up against the sleeping FLORA. Her movement and moans\nincrease until she wakes suddenly sitting bolt upright.\nSc 104INT     STEWART'S KITCHEN & BEDROOMNIGHT     Sc 104\nADA walks through the kitchen, small slithers of moonlight lighting\nher path. She walks past the piano into STEWART'S room who has gone to\nsleep with his candle still alight. ADA looks, then slowly her hand\nhovers above him before lightly touching his face. His eyes open, he\nlooks towards ADA anxious and surprised, but as ADA continues, his\nreserve breaks and he is captive to his own sensations. She pulls down\nthe sheet and strokes his neck, shoulders, chest, he reaches out\ntowards her."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Ada!"
+  },
+  {
+   "type": "stage direction",
+   "text": "But ADA scowls and pulls away roughly, STEWART lies back anxious not\nto break the spell and when he is still ADA continues to caress his\nchest. His eyes well with tears and he looks up into her face like a\nchild after a bad dream, fearful and trusting. ADA continues like a\nnurse spreading ointment on a wound, tenderly and attentively she\nstrokes down towards his belly. STEWART'S skin goose bumps and be\nshudders. He puts his hand on hers to still it1 she slides hers out\nand continues stroking. He looks at her pleadingly and childlike, she\nstops and kisses the soft skin of his belly, STEWART groans clutching\nthe mattress. ADA seems removed from STEWART as if she has a separate\ncuriosity of her own.\nSc 105INT     STEWART'S KITCHEN          DAY     Sc 105\nNext day AUNT MORAG stands circling in STEWART'S small darkened house.\nFLORA and ADA sit quietly together"
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Ohhh, it's so dark, it's like a\ndank cave."
+  },
+  {
+   "type": "speech",
+   "character": "NESSIE",
+   "text": "Yes, like a cave."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Ohh no, it makes my skin creep!"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART comes into the house with some logs, AUNT MORAG follows him\nacross to the fire."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Alisdair, is it because of our\nplay? Have the natives\naggressed you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She continues following him to the door.\nI have to say you have done the wrong thing here, you see you have put\nthe latch on the outside. When you close the door, (and she doses it)\nit will be the Macna that lock you in, you see? With the latch on that\nside you are quite trapped."
+  },
+  {
+   "type": "speech",
+   "character": "NESSIE",
+   "text": "(nodding her head in imitation)\n... you are quite trapped."
+  },
+  {
+   "type": "stage direction",
+   "text": "AUNT MORAG walks inside and continues to the table where her basket\nfull of clothes and packets of food have been left. She lifts it from\nthe table and begins to spread the cloth."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "We have just come from George\nBanes' and they have taken him\nover. It is no wonder he is\nleaving, he has got in too deep\nwith the natives. They sit on\nhis floor as proud as Kings,\nbut without a shred of manners."
+  },
+  {
+   "type": "speech",
+   "character": "NESSIE",
+   "text": "(in unison) ... without a shred\nof manners."
+  },
+  {
+   "type": "stage direction",
+   "text": "NESSIE and AUNT MORAG are unpacking parcels of cakes and biscuits\non plates putting them about the table."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "He is quite altered, as if they\nhad been trying some native\nwitchcraft on him. Well\ntomorrow or the day after he\nwill be gone."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Baines is packing up?"
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Well he has NOTHING to pack,\nbut he is leaving. And it is\njust as well; Nessie has\nfoolishly grown an affection\nfor him ... we have had some\ntears"
+  },
+  {
+   "type": "stage direction",
+   "text": "At this mention NESSlE's face crumples and tears again begin to flow."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "(very firmly) STOP IT! STOP!"
+  },
+  {
+   "type": "stage direction",
+   "text": "NESSIE remarkably obeys, blinking her face back to shape.\nADA attempts to disguise her agitation, she moves to the piano and\nstrokes it, she begins to play."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "I am quite frightened of the\nway back, we must leave in good\nlight. Will we be safe?"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(wanting them gone) If you\nleave soon, yes, I am sure of\nit."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART and MORAG watch ADA at the piano. Her playing develops until\nshe is fully absorbed. AUNT MORAG is intrigued despite herself\nSc 106EXT     BUSY ROAD TO MISSIONDAY     Sc 106\nOn the edge of the bush beside the dirt road to town AUNT MORAG\nattempts a discrete toilet stop. NESSIE keeps guard holding up the\ncape while one of their MAORI charges holds up another."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "You know I am thinking of the\npiano. She does not play the\npiano as we do Nessie."
+  },
+  {
+   "type": "stage direction",
+   "text": "The cape begins to droop as NESSIE listens."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "UP! UP! No she is a strange\ncreature and her saying is\nstrange like a mood that passes\ninto you. You cannot teach that\nNessie, one may like to learn\nbut that could not be taught."
+  },
+  {
+   "type": "stage direction",
+   "text": "NESSIE again lets the cape droop."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "Up! Your playing is plain and\ntrue and that is what I like.\nTo have a sound creep inside\nyou is not all pleasant"
+  },
+  {
+   "type": "stage direction",
+   "text": "A fluttering sound in the bush."
+  },
+  {
+   "type": "speech",
+   "character": "AUNT MORAG",
+   "text": "what is that?"
+  },
+  {
+   "type": "speech",
+   "character": "NESSIE",
+   "text": "(frightened) Ohhhhhh!"
+  },
+  {
+   "type": "speech",
+   "character": "MARY/HENI",
+   "text": "(slow, relaxed) A pid-geon\nAuntie."
+  },
+  {
+   "type": "stage direction",
+   "text": "The party finish and hurry a little spooked on the road to town.\nSc 107INT     STEWART'S ROOM     NIGHT     Sc 107\nIt is night. ADA enters the room, STEWART looks at her shyly."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I've been hoping you would\ncome."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA strokes his brow. STEWART closes his eyes, breathing heavily\nrelieved. ADA strokes the nape of his neck and on down his back.\nSTEWART'S face puckers, his eyes fill with tears. She strokes so\nsoftly, the tenderness is shocking to him. Gently she pulls his under-\ngarment down, exposing his buttocks. STEWART grabs nervously at them,\nhauling them up with his hands. ADA unclenches his fist and once more,\nslowly pulls them down. She begins to stroke his buttocks, STEWART is\npainfully eroticised, painfully vulnerable, he begins to weep, the\nintimacy and soft-ness unman him and he is helpless. STEWART sits up\nhunching over himself, retreating"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I want to touch you Why can't I\ntouch you? Do you like me?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Slowly he raises his head to look at ADA. She looks back moved by his\nhelplessness, but distanced as if it has nothing to do with her."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Do you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA does not respond. STEWART slumps into disappointment and despair."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Why? Why not?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 108INT     STEWART'S KITCHEN     DAY     Sc 108\nThe next morning, ADA, FLORA and STEWART sit together in the small\ndark hut. FLORA preens a miniature landscape of moss and tiny branches\nall piled on a dinner plate. A slit of sunlight falling across the top\nsmall branches gives it a magical glow. FLORA's small dirty fingers\npush in another 'tree', she looks up happily"
+  },
+  {
+   "type": "stage direction",
+   "text": "This is going to be Adam's tree\nand then I'm going to make a\nserpent to live here, with a\nvery long tongue. (She pokes\nher tongue out and waggles it).\nSTEWART reads, he glances at ADA who is glum and lifeless.\nSc 109INT     STEWART'S HUT     DAY     Sc 109\nADA and FLORA wake to sunlight streaming in on their faces, more and\nmore of it as STEWART rips the boards from the windows FLORA runs\nabout in nightgown and boots happy to be in the sunlight. ADA winds\nher hair into a bun. STEWART walks inside, he packs food and fencing\nequipment"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(Clears his throat) We must\nboth get on. I have decided to\ntrust you to stay here. You\nwill not see Baines?\n(ADA nods) Good, good. Perhaps\nwith more trying you will come\nto like me?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 110EXT     STEWART'S          DAY     Sc 110\nADA hangs out washing restlessly scanning the bushline. A tiny STEWART\nwalks along the crest of the hill, eventually dropping out of sight.\nSc 111INT     STEWART'S HUT     DAY     Sc 111\nInside the hut ADA is pacing, anguished and frustrated. Impulsively\nshe picks up a knife from the kitchen table, opens the back of the\npiano and cuts one of the keys loose. Carefully she engraves on the\nside in Victorian handscript.\nDEAR GEORGE, YOU HAVE MY HEART. ADA McGRATH.\nSc 112EXT     STEWART'S          DAY     Sc 112\nUnder the sheets FLORA has constructed a dolls' clothes line on which\nshe hangs small strips of cloth ADA hands her the key wrapped and tied\nin white cotton. ADA signs. Her black shadow behind the sheet recalls\nthe macabre play."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "No!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The little girl continues defiantly with her miniature washing. ADA\nrips the washing line up and flings it aside. FLORA is shocked,\nstunned. She takes the key and walking off she turns and shouts."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "We're not supposed to visit\nhim'."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA signals GO!\nSc 113EXT     PATH TO BAINES' AT FENCEDAYSc 113\nAt the junction of the path to BAINES' hut is the beginning of\nSTEWART'S boundary fence. At this place FLORA has paused. She looks\nback to see if her mother is watching; she's not- FLORA turns sharply\nright so that she now follows alongside STEWART'S boundary fence and-\naway from BAINES' hut.\nSc 114EXT     HILLS WITH FENCE     DAY     Sc 114\nThe fence appears and disappears behind hills.  Flora too dips behind\nthe hills to reappear on the other side. She sings a brisk song to\nherself."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "The grand old Duke of York. He\nhad ten thousand men etc."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 115EXT     VALLEY WITH FOXGLOVE & FENCEDAYSc 115\nShe pauses in one of the valleys, stifled by clumps or tall, mauve\nfoxglove.\nSc 116EXT     COMPLETE FENCE ON HILLDAY     Sc 116\nThe fence line seems endless as the tired FLOW4 trudges up yet another\nhill but from there, she can see where the fence finishes, half way up\nthe crest of the next hill and at this point is STEWART, driving in a\nnew fence post. He is watched by MANA and his friend who squat passing\na pipe between themselves. MANA strums tirelessly on his buttons."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Mumma wanted me to give this to\nMr. Baines."
+  },
+  {
+   "type": "stage direction",
+   "text": "She holds out the cotton covered piano key. STEWART looks up."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "I thought maybe it was not a\nproper thing to do."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART keeps working, hammering the post into the earth."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Shall I open it?"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "No!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He stops and takes the key, suspicious and uncomfortable. He slowly\nunwraps it and turning it over reads it. Squeezing the key in his\nfist, STEWART staggers off in a daze, He returns, picks up his open\npack spilling the nails. Finally he drops the pack and the key) and\nleaves with only his axe. FLORA follows confused. The MAORIS waste no\ntime investigating the booty. MANA presses the piano key repeatedly."
+  },
+  {
+   "type": "speech",
+   "character": "MANA",
+   "text": "Knare e Wainta! Kaare e Wajata!\n(no sing, no sing)"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 117EXT          STEWART'S     DAY     Sc 117\nThe sky is dark and rain is falling heavily as STEWART strides fast\ntowards the hut, his axe swinging in his hand. FLORA is far behind\nhim, her angelwings sodden.\nSc 118INT     STEWART'S HUT     DAY     Sc 118\nSTEWART bursts into the hut, his wet hair is splattered against his\nforehead. his face is white. ADA looks up from her book, moving her\nhands from the table. STEWART swings his axe hard. It slices into the\ntable, splitting a section off her book. ADA pushes her chair back."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(exasperated) why? WHY? I\ntrusted you!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He pulls the axe out of the table and swings it at the piano."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "WHY?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA runs forward to restrain him, but it sinks deep into the wood. The\nstruck piano lets ont a strange resonant moan."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I trusted you, do you hear? I\ntrusted you. I could love you."
+  },
+  {
+   "type": "stage direction",
+   "text": "He takes her by the wrist."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Why do you do this? Why do you\nmake me hurt you? Do you bear?\nWhy have you done it? We could\nbe happy"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART shakes her violently."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "You have made me angry. SPEAK!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 119EXT     STEWART'S HUT & WOODCHOPDAY     Sc 119\nHe pulls her out of the hut, past the now terrified FLORA."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "You shall answer for this.\nSpeak or not you shall answer for\nit!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He drags her out through the mud, towards the wood chop. It is raining\nhard.\nADA sees where they are headed and suddenly she is very scared. She\nbucks and struggles, but STEWART is infinitely stronger. At the wood\nchop she breaks free and crawls away through the woodchips and mud.\nBut axe in hand he grasps her by the neck of her dregs, then her hair,\nand pulls her backwards towards the cutting block. There, he takes her\nright hand and holds it in place with his boot, so that only ADA's\nindex finger shows, ADA's head is held twisted between the wood chop\nand STEWART'S leg."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(anguished) Do you love him? Do\nyou?! Is it him you love?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA blinks rigid with fear. The rain is driving down."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "No, she says NOOOOOO!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The axe falls. ADA's face buckles in pain. Blood squirts onto FLORA's\nwhite pinafore, her angel wings are splattered in mud."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(Screaming) Mother!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA stands. She looks faint, her finger is pulsing blood, she shakes\nher hand then seeing the blood she puts it behind her back shocked.\nShe watches FLORA, concerned and confused. Uncontrollably her whole\nbody starts to shake and as if by reflex ADA begins to walk. FLORA\ntrots parallel to her."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "Mama!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA keeps walking blindly like her being depends on it. Her face is\nashen, her eyes fearful as she walks unseeingly straight into a large\ntree stump. She sinks into the mud.\nSTEWART wraps the finger in a white handkerchief and gives it to FLORA\nwho backs away from him terrified."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(quietly) Mama."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Take this to Baines. Tell him\nif he ever tries to see her again\nI'll take off another and another\nand another!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The figures seem tiny amidst the rain drenched skeleton forest.\nSCENE 12O DELETED*\nSc 121EXT     MAORI PA     DAY     Sc 121\nThe formal farewells are over and HIRA and BAINES finishes shaking\nhands and pressing noses with her people.\nHIRA holds his arm, she is sad and tearful. He places his hat on her\nhead affectionately and slips her a much appreciated tin of tobacco.\nA soft rain begins to fall. BAINES and HIRA make their way past the\nMeeting House and the low sleeping houses to the Pa entrance where his\nhorse waits,"
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "I worry for us Peini. Pakeha\ncunning like wind, KNOCK you\nover, yet you not see it. Some\nthey say, how can pakeha get\nour land if we won't sell it?\""
+  },
+  {
+   "type": "stage direction",
+   "text": "A crowd of children run beside them, dogs scurry off and pigs are\nkicked out of the way, their owners protesting loudly. Some hold mats\nover their heads to protect themselves from the rain, one has a\nbattered umbrella."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "They wrong Peini. We need guns\nto hold it."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES mounts his heavily laden horse. MANA pushes forward to say his\nfarewell, but is abruptly shoved aside, evidently unpopular with the\nothers. BAINES glances over and sees the piano key the man has\nfashioned into an earring."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "(angrily)I worried Feini.\nWhat's gonna happen you, you go\nhome, but where we go? We got\nnowhere to go."
+  },
+  {
+   "type": "stage direction",
+   "text": "HIRA's voice rises as BAINES lets go of her arm and rides through the\ngroup towards MANA. He takes the piano key in his hand, MANA pulls\nback."
+  },
+  {
+   "type": "speech",
+   "character": "MANA",
+   "text": "(In Macit)\nIt is mine. I found it."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES turns it over and finds the writing on it."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "(urgently)\nHomni 'ci au.\n(I want this.)"
+  },
+  {
+   "type": "speech",
+   "character": "SUBTITLED\nMANA",
+   "text": "(sulky)\nNcrr! Naaku. It\u0092s mine. Me find\nit"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "He aha to hiahia? Ask for it?\nTobacco?\n(What do you want?)"
+  },
+  {
+   "type": "speech",
+   "character": "SUBTITLED\nHIRA",
+   "text": "(still angry)\nGun, ask for his gun!"
+  },
+  {
+   "type": "stage direction",
+   "text": "MAYA rubs his nails up and down his buttons while he considers what he\nwill have."
+  },
+  {
+   "type": "speech",
+   "character": "OTHERS",
+   "text": "- Nga rarahe\n(The glasses)\n- Wana Putu\n-Te whitiki, gettem ehoal\n(The belt)"
+  },
+  {
+   "type": "stage direction",
+   "text": "UNSUBTITLED\nSc 122EXT     MAORI PA     DAY     Sc 122\nOutside the Pa walls near the kumera gardens, HIRA holds BAINES'\nsaddle bags. It is raining hard as he rides out, hatless, shoeless and\ngunless, but clutching to his chest ADA's engraved key."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "Go Peini ... Haere atu e Peini."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I'll be back."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 123EXT     SCHOOL     DAY     Sc 123\nBAINES crosses through the pony paddock of the one room colonial\nschool hall, school house. He has a piece off flax knotted around his\nwaist to bold up his trousers. In the paddock are five very shabby\nlooking rides'. one huge old wagon horse, built to carry a whole\nfamily, down to a tiny sour looking Shetland. The girls have long,\nstained, once white pinafores and everyone wears boots that seem too\nbig, except the little boy who has the front cut off his hoots so his\ntoes can hang out.\nFour little girls play a sedate game of skip rope, using a bush vine.\nBAINES watches, noticing in particular a little girl of about 9 with a\nbock. The boys and some of the wilder girls play BullRush.\nNOTE  SCENE 123 REPLACES SCENES 124 AND 125\nDELETE SCENES 124 AND 125\nSc 126EXT     GENTLE STREKM     DAY     Sc 126\nThe girl with the book goes off sit by a little stream. BAINES follows\nand sits beside her."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Can you read?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The little girl immediately closes the book and walks off.\nThe girl keeps walking, before she turns about to watch him from a\nsafe distance.\nAnother little girl drops down from a tree."
+  },
+  {
+   "type": "speech",
+   "character": "TREE GIRL",
+   "text": "I can."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "You can read?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(She is very small.)"
+  },
+  {
+   "type": "speech",
+   "character": "TREE GIRL",
+   "text": "Yes ... lots of things."
+  },
+  {
+   "type": "stage direction",
+   "text": "The skipping group of girls join them."
+  },
+  {
+   "type": "speech",
+   "character": "BIG SISTER",
+   "text": "She can't read, she's my\nsister, I ought to know.\nAre those sweets?"
+  },
+  {
+   "type": "speech",
+   "character": "TREE GIRL",
+   "text": "I can read!"
+  },
+  {
+   "type": "speech",
+   "character": "BIG SISTER",
+   "text": "She can't."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES holds out the packet to the little girl."
+  },
+  {
+   "type": "speech",
+   "character": "BIG SISTER",
+   "text": "Don't give her one."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES does anyway."
+  },
+  {
+   "type": "speech",
+   "character": "BIG SISTER",
+   "text": "She can't read."
+  },
+  {
+   "type": "stage direction",
+   "text": "The little girl throws the lolly paper away, which one of the other\ngirls picks up and sniffs, she hands it to the others."
+  },
+  {
+   "type": "speech",
+   "character": "BIG SISTER",
+   "text": "Mmm Caramels"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Can you read?"
+  },
+  {
+   "type": "stage direction",
+   "text": "He holds out the piano key BIG SISTER takes it with great authority,\nher friends crowd behind her. She frowns at the writing. She turns it\nover."
+  },
+  {
+   "type": "speech",
+   "character": "BIG SISTER",
+   "text": "Running writing, we haven't\ndone that yet."
+  },
+  {
+   "type": "speech",
+   "character": "READING GIRL",
+   "text": "Myrtle can read it, her mother\ntaught her."
+  },
+  {
+   "type": "stage direction",
+   "text": "The key is snatched from BIG SISTER and given to MYRTLE, the girl with\nthe book. The others crowd around."
+  },
+  {
+   "type": "speech",
+   "character": "MYRTLE",
+   "text": "(frowning) D e a r  G e o r g e"
+  },
+  {
+   "type": "stage direction",
+   "text": "The children look over at BAINES to see if this is right so far."
+  },
+  {
+   "type": "speech",
+   "character": "MYRTLE",
+   "text": "You (in unison)... have"
+  },
+  {
+   "type": "speech",
+   "character": "BIG SISTER",
+   "text": "That's \"My\"."
+  },
+  {
+   "type": "speech",
+   "character": "MYRTLE",
+   "text": "Its not an M"
+  },
+  {
+   "type": "speech",
+   "character": "BIG SISTER",
+   "text": "Yes it is."
+  },
+  {
+   "type": "stage direction",
+   "text": "MYRTLE & BIG SISTER"
+  },
+  {
+   "type": "speech",
+   "character": "BIG SISTER",
+   "text": "Dear - George - you - have - my"
+  },
+  {
+   "type": "speech",
+   "character": "MYRTLE",
+   "text": "heart? (She pulls a face as if\nit doesn't make sense) Ada\nMcGrath."
+  },
+  {
+   "type": "speech",
+   "character": "BIG SISTER",
+   "text": "It doesn't make sense."
+  },
+  {
+   "type": "stage direction",
+   "text": "The little girls read it again together. MYRTLE turns the key over\nmatter of factly to see if there is more writing."
+  },
+  {
+   "type": "speech",
+   "character": "MYRTLE",
+   "text": "That's all"
+  },
+  {
+   "type": "stage direction",
+   "text": "They all look up at him."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Say it again, just you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Everyone turns and listens to MYRTLE"
+  },
+  {
+   "type": "speech",
+   "character": "MYRTLE",
+   "text": "Dear George you have my heart,\nAda McGrath."
+  },
+  {
+   "type": "stage direction",
+   "text": "She gives a little \"Is that all?\" gesture."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "You say it. (He points to BIG\nSISTER, who has a crazy deep\nvoice.)"
+  },
+  {
+   "type": "speech",
+   "character": "BIG SISTER",
+   "text": "Dear George you have my heart,\nAda McGrath."
+  },
+  {
+   "type": "stage direction",
+   "text": "Another little girl spontaneously recites the message. And so does\nanother. Through all this BAINES keeps his bead down shaking it in\ndisbelief and shy happiness. He starts to laugh with relief and\npleasure. The little girls think it is something funny in the line and\ncontinue to repeat it, which each then appears to give BAINES fresh\npleasure. Meanwhile the smallest of the girls is quietly helping\nherself to the sweets.\nSCENE 127 DELETED\nSCENE 128 DELETED\nSc 129EXT     BAINES\u0092     DUSK     Sc 129\nBAINTS rides up to his house in the evening light He is silly with\nhappiness. HIRA comes running out to meet him"
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "Peini, Peini, liddle gel. I\nseen her come up here, scream,\nscream . blood on her. Look\nbad... very bad"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES jumps off his horse and strides into his hut.\nSc 130INT     BAINES' HUT     DUSK     Sc 130\nInside he finds FLORA crouching in a corner, her face is white, tear\nstained and splattered with mud. Her angel wings are squashed behind\nher and blood stained. On seeing BAINES she cries with renewed pain\nand relief"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "What has happened? Hush, hush,\nwhat is it?"
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA thrusts the wrapped finger at BAINES. He takes the blood soaked\nobject and unwraps it. The finger unravels into his hand, he reels\nback groaning, choking about to be sick."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(yelling) He says you're not to\nsee her or he'll chop her up!"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "(angry, horrified)\nWhat happened?"
+  },
+  {
+   "type": "stage direction",
+   "text": "But FLORA cannot speak. She bursts into loud sobs. BAINES kneels in\nfront of her shaking her."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "TELL ME! TELL ME!"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES stops shaking her, she scrambles away and out the door. BAINES\nchases after her.\nSc 131EXT     BAINES     DUSK     Sc 131\nFLORA screams as he catches her."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Quiet down! Shhh! Where is she?"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(whimpering)\nHe chopped it off"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "Jesus! I'll kill him! I'll kill\nhim.\nWhat did she tell him?\n(shaking her)\nWhat?"
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "Put her down Peirn She is\nliddle."
+  },
+  {
+   "type": "stage direction",
+   "text": "HIRA takes the quivering FLORA in her arms."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "There girl. there"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES notices the blood on FLORA'S dress, he touches it, she shys\naway.\nSc 132EXT     STEWARD'S HUT     NIGHT     Sc 132\nSTEWART walks outside his hut disconsolate.\nSc 133INT     STEWART'S HUT     NIGHT     Sc 133\nSTEWART enters ADA's room with a lamp. He puts it down beside her on\nthe table. He studies her pale face and dry lips. ADA's eyes flicker\nopen."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(speaking to his feet)\nI lost my temper. I'm sorry."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART looks at ADA."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "You broke my trust, you pushed\nme hard, to hard. (he sighs)\nYou cannot send love to HIM you\ncannot do it.  Even to think on\nit makes me angry, very angry"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA opens her eyes and looks at STEWART. It is evident she hears\nnothing and has understood nothing, she is struggling with pain. Her\nface grimaces and she groans."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I meant to love you. I clipped\nyour wing, that is all."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART sings two lines of an English love ballad to ADA."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "We shall be together, you will\nsee it will be better..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Her forehead is damp with fever. She thrashes at the blankets. STEWART\npulls them off to cool her. He feels her brow."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(whispering) ...\nmy love bird."
+  },
+  {
+   "type": "stage direction",
+   "text": "Her nightgown is damp with sweat and clings to her body. STEWART\nreaches out to adjust her gown, his hand touches her leg and he holds\nit there, feeling a tingle of pleasure, that grows and builds the\nlonger his hand remains."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Ohhhhh my love"
+  },
+  {
+   "type": "stage direction",
+   "text": "His hand begins to move further and further up her leg, nudging the\nnightgown higher and higher. He looks at her face. She is closed-eyed,\nunconscious. STEWART'S face crinkles into a pained expression and all\nhis control melts into a drive to hold and extend this moment. He\nbrings his mouth to her leg and begins to kiss her knee, her thigh. A\nnew thought occurs to him, a terrible thought, but as he has phrased\nthe thought to himself, he cannot resist it. He glances at her face\nstill fevered and unconscious. Quietly, stealthily, he begins to undo\nhis belt buckle. He bends across her to gently separate her legs. As\nhe moves his body over her, he looks towards her and to his shame and\nhorror she is looking directly back at him, her eyes perfectly on his,\nperfectly focused. Quietly STEWART moves back and pulls down her gown,\nall the time keeping his eyes on her."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "You are feeling better?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA's lips move slightly and STEWART turns suddenly as if he has heard\nsomething. Slowly he turns back to ADA.\nSTEWART looks at ADA intently, moving closer to her bed, closer to ADA\nhis eyes locked on hers."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "What...?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The sound of his own voice makes him blink. He watches her as if\nlistening to her speak in a voice that is so faint, and distant, that\nonly with great concentration and perseverance can he make it out. As\nhe watches her his face transforms; his eyes fill, his lips soften and\nhis eyebrows take on the exact expression of her own.\nThe kerosene lamp burns fitfully, fluttering a light pulse across\ntheir faces. STEWART moves closer to ADA. Outside a wind bangs the\niron roof and rubs branches against each other making a high-pitched\nsee-saw sound. He leans closer still.\nSc 134EXT     STEWARTS     NIGHT     Sc 134\nSTEWART carrying a candle in a glass box makes his way through ghostly\ntree stumps. In his other arm he has his gun.\nSc 135EXT/INT     BAINES'     NIGHT     Sc 135\nAt BAINES' hut STEWART steps over the curled figure of HIRA sleeping\non the verandah and walks through the hut towards the bedroom where a\nlit candle flickers.\nSc 136INT     BAINES' BEDROOMNIGHT     Sc 136\nIn the bed lies FLORA wrapped in a blanket with BAINES beside her, axe\nin hand, both fast asleep. STEWART nudges BAINES awake with the butt\nof his rifle prodding him under the chin. BAINES wakes rudely with a\nstart, frozen by the sight of STEWART and his rifle."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Put that away, on the floor."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES obeys, careful not to disturb the sleeping child. STEWART sits\nnear the bed on a box, resting his gun across his knee, his face is\nglowing, he looks closely at BAINES, examining him."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "I look at you, at your face. I\nhave had that face in my head\nhating it. But now I am here\nseeing it ... it's nothing, you\nblink, you have your mark, you\nlook at me through your eyes,\nyes. you are even scared of me"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART laughs."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Look at you!"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES watches him stiffly, disconcerted, unable to read STEWART'S\nstrange mood. STEWART stares back at him."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(softly)\nHas Ada ever spoken to you?"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "You mean in signs?"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "No, words. You have never heard\nwords?"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "No, not words."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART nods."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Never thought you heard words?"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES shakes his head."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "(slowly)\nShe has spoken to me. I heard\nher voice. There was no sound,\nbut I beard it here (he presses\nhis forehead with a palm of his\nhand). Her voice was there in\nmy head. I watched her lips,\nthey did not make the words,\nyet the harder I listened the\nclearer I heard her, as clear\nas I hear you, as dear as I\nhear my own voice."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "(trying to understand)\nSpoken words?"
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "No, but her words are in my\nhead. (he looks at BAINES and\npauses) I know what you think,\nthat it's a trick, that I'm\nmaking it up. No, the words I\nheard, were her words."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "(suspiciously) What are they?"
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART looks up at the ceiling as if reciting something he has learnt\nby heart and means to repeat exactly as he heard it."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "She said, \"I have to go, let me\ngo, let Baines take me away,\nlet him try and save me. I am\nfrightened of my will, of what\nit might do it is so strange\nand strong\"."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES recovering himself eyes STEWART angrily."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "You punished her wrongly, it\nwas me, my fault."
+  },
+  {
+   "type": "stage direction",
+   "text": "STEWART does not answer. Finally be looks up, his eyes full with\ntears."
+  },
+  {
+   "type": "speech",
+   "character": "STEWART",
+   "text": "Understand me. I am here for\nher, for her I wonder that I\ndon't wake, that I am not\nasleep to be here talking with\nyou. I love her. But what is\nthe use? She doesn't care for\nme. I wish her gone. I wish you\ngone. I want to wake and find\nit was a dream, that is what I\nwant. I want to believe I am\nnot this man. I want my self\nback; the one I know."
+  },
+  {
+   "type": "stage direction",
+   "text": "FLORA moves and turns in her sleep. The two men watch. Her brow frowns\nthen smoothes. Her eyelids roll as her eyes dart back and forth in\ndream.\nSc 137EXT     STREAM NEAR BAINES'DAY     Sc 137\nHIRA washes out the mud from FLORA's dress and angel wings in a bush\nstream.\nSc 138INT/EXT     STEWART'S          DAY     Sc 138\nADA's trunks are delivered outside STEWART'S hut by AUNT MORAG and her\ngirls. ADA is led from STEWART'S hut by NESSIE. She wears a black\ndress and her arm is tied in a white sling. The light outside makes\nher blink. NESSIE smoothes her hair behind her shoulders. FLORA\ntimidly peeps at her mother from behind BAINES.\nSc 139EXT     BUSH ON WAY TO BEACHDAY     Sc 139\nThe piano is carried on ahead while in the secrecy of the bush BAINES\nkisses ADA passionately. She looks back at him worried.\nSc 140EXT     STEWART'S HTJT     DAY     Sc 140\nSTEWART is fencing his new land. Suddenly be looks off in to the far\ndistance.\nSc 141EXT     BEACH               DAY     Sc 141\nOn the beach ADA sits looking out to sea while FLORA plaits her hair\nin one thick braid behind her back. She places the bonnet carefully on\ntop At the sea edge in front of them the piano is being loaded on the\ncanoe.\nSc 142EXT     BEACH               DAY     Sc 142\nHIRA and BAINES are next to each other by the canoe. HIRA is looking\nat ADA,"
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "I worry for you."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "No, I love her, we will be a\nfamily. I have her piano. I\nwill mend it, she will get\nbetter."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "I miss you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sc 143EXT     AT SEA/BEACH     DAY     Sc 143\nThe sea is choppy and the piano is difficult to steady in the canoe.\nBAINES helps the rigging of the piano, thick rope ends coil under the\nwomen's feet. HIRA is left on the shore with one child and two other\nMAORI people.\nTears run openly down her big sad face as she sings her farewell to\nBAINES."
+  },
+  {
+   "type": "speech",
+   "character": "HIRA",
+   "text": "He rimu teretere koc ete. Peini\neeeii,\nTere 'Ci Tawhiti 'ci Paniamao\neeeii\nHe waka Teretere He waka\nteretere.\nKo koe ka tere 'ci tua whakuere\neeeii.\nYou are like seaweed drifting\nin the sea BAINES.\nDrift far away, drift far\nbeyond the horizon\nA canoe glides hither, a canoe\nglides thither\nBut you though will journey on\nand eventually\nbe beyond the veil~)"
+  },
+  {
+   "type": "stage direction",
+   "text": "UNSUBTITLED"
+  },
+  {
+   "type": "speech",
+   "character": "(by Selwyn Mum)\nMAROI OARSMEN",
+   "text": "Tarinaharawa - alanel tahuri\nai.\n(It's too heavy - the canoe\nwill tip over.)"
+  },
+  {
+   "type": "speech",
+   "character": "SUBTITLED\nBAINES",
+   "text": "Keite pail Kaare e titahataha\naria.\n(It's all right! Look it's\nnicely balanced.)"
+  },
+  {
+   "type": "speech",
+   "character": "SUBTITLED\nANOTHER OARSMAN",
+   "text": "(Shrugging) Te-hau-jua-kahake\nte pupuhi.\n(The wind is already strong.)"
+  },
+  {
+   "type": "speech",
+   "character": "ANOTHER OARSMAN",
+   "text": "Leave it - its too heavy."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "No, she needs it, she must have\nit."
+  },
+  {
+   "type": "stage direction",
+   "text": "SCENE 144 IS NOW COMBINED WITH SCENE 143\nSCENE 144 DELETED\nSc 145EXT     AT SEA/BEACHDAY     Sc 145\nThe canoe has paddled away from the shore. FLORA leans over the edge\nof the canoe, her mouth open, her hair held back by BAINES."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "I can't"
+  },
+  {
+   "type": "stage direction",
+   "text": "BAINES rubs her back. FLORA straightens up."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "I can't."
+  },
+  {
+   "type": "stage direction",
+   "text": "They retake their seats, FLORA's back to the piano, while BAINES sits\nnext to ADA. He tenderly takes her good hand. ADA removes hers and\nsigns to FLORA who looks at her mother then BAINES amazed."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "What did she say?"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(puzzled) She says, throw the\npiano overboard."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "(to ADA) It's quite safe, they\nare managing..."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA signs again."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "(Cautiously) What?"
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "She says, throw it overboard.\nShe doesn't want it. She says\nit's spoiled"
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "I have the key here, look, I'll\nhave it mended..."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA mimes directly to BAINES, \"PUSH IT OVER\". Her determination is\nincreasing."
+  },
+  {
+   "type": "speech",
+   "character": "MAORI OARSMAN",
+   "text": "Ae! Peja. Turakina'. Bushit?\nPeja te kawheha kite moana.\n(Yeah she's right push it over,\npush the coffin in the water.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "(softly, urgently) Please, Ada,\nyou will regret it. It's your\npiano, I want you to have it.\nBut ADA does not listen, she is adamant and begins to untie the ropes."
+  },
+  {
+   "type": "speech",
+   "character": "FLORA",
+   "text": "(panicking)\nShe doesn't want IT!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The canoe is unbalancing as ADA struggles with the ropes."
+  },
+  {
+   "type": "speech",
+   "character": "BAINES",
+   "text": "All right. sit down, sit down."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA sits, pleased. Her eyes glow and her face is now alive.\nBAINES speaks to the MAORIS who stop paddling and together they loosen\nthe ropes securing the piano to the canoe.\nAs they maneuver the piano to the edge ADA Jocks into the water. She\nputs her hand into the sea and moves it back and forth.\nThe piano is carefully lowered and with a heave topples over. As the\npiano splashes into the sea, the loose ropes speed their way after it.\nADA watches them snake past her feet and then out of a fatal\ncuriosity, odd and undisciplined, she steps into a loop.\nThe rope tightens and grips her foot so that she is snatched into the\nsea, and pulled by the piano down through the cold water.\nSc 146INT     SEA NEAR BEACH     DAY     Sc 146\nBubbles tumble from her mouth. Down she falls, on and on. her eyes are\nopen, her clothes twisting about her. The MAORIS diving after her\ncannot reach her in these depths. ADA begins to struggle. She kicks at\nthe rope, but it holds tight around her boot. She kicks hard again and\nthen with her other foot, levers herself free from her shoe. The piano\nand her shoe continue their fall while ADA floats above, suspended in\nthe deep water, then suddenly her body awakes and fights, struggling\nupwards to the surface.\nSc 147 EXT     AT SEA BEACH     DAY     Sc 147\nAs ADA breaks the surface her VOICE OVER begins:"
+  },
+  {
+   "type": "speech",
+   "character": "ADA (VOICE OVER)",
+   "text": "What a death!\nWhat a chance!\nWhat a surprise!\nMy will has chosen life!?\nStill it has had me spooked and\nmany others besides!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA coughing and spluttering is pulled on to the canoe. She is wrapped\nin jackets and blankets.\nSc 148INT     SEA NEAR BEACH     DAY     Sc 148\nUnderwater we see the canoe bottom, its oars dipping the surface\nSc 149INT     ADA'S NELSON DRAWING ROOM     DUSK     Sc 149"
+  },
+  {
+   "type": "speech",
+   "character": "ADA (VOICE OVER)",
+   "text": "I teach piano now in Nelson.\nGeorge has fashioned me a metal\nfinger tip, I am quite the town\nfreak which satisfies! I am\nlearning to speak. My sound is\nstill so bad I am ashamed. I\npractice only when I am alone\nand it is dark."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA's hands move across the piano keys, her metal finger shines in the\ndull light.\nDISSOLVE TO:\nSc 150INT     ADA'S NELSON DRAWING ROOM     NIGHT     Sc 150\nADA paces up and down the small drawing room. There are no lights on\nonly  a dim blue evening wash. Over her head she has a dark cloth, her\nvoice makes low guttural sounds as it repeats the vowels.\nDISSOLVE TO:\nSc 151INT     SEA BED NEAR BEACH     DAY     Sc 151"
+  },
+  {
+   "type": "speech",
+   "character": "ADA (VOICE OVER)",
+   "text": "At night! I think of my piano\nin its ocean grave, and\nsometimes of myself floating\nabove it. Down there everything\nis so still and silent that it\nlulls me to sleep. It is a\nweird lullaby and so it is; it\nis mine."
+  },
+  {
+   "type": "stage direction",
+   "text": "ADA's piano on the seabed, its lid fallen away. Above floats ADA, her\nhair and arms stretched out in a gesture of surrender, her body slowly\nturning on the end of the rope. The seaweed's rust coloured fronds\nreach out to touch her.\nTHERE IS A SILENCE WHERE HATH BEEN NO SOUND\nTHERE IS A SILENCE WHERE NO SOUND MAY BE\nIN THE COLD GRAVE, UNDER THE DEEP DEEP SEA.\n(Hood)\nNOTES AND EXTRA DIALOGUE\n1.\nSc 10 SEAMAN'S DISCUSSION\nThe wind and the low manner of their speaking makes it impossible to\nhear the exact nature of the discussion.\n-'Tis a dead shore, a dead shore\n-Leave her here, it's what she wanted.\n-A pox on you!\n-Ay very nice, leave her and be lynched for the pleasure.\n-Do what you like, I'm off this shore\nETC.\n2.\nSc 12 ART DEPARTMENT NOTE\nADA's finger is seen INSIDE the dark crate sounding a few notes\n3.\nSc 15 TRANSLATION NOTE\n(i) With the MAORI language dialogue of BAINES and the MAORI PEOPLE,\nthe general scheme is that only when necessary to sense or humour will\nsubtitled translation be given. However for the benfit of its readers\nthis script will translate everything noting what will and won't be\nsubtitled.\n(ii)EXTRA MAORI DIALOGUE  SC 15\nAwe!\n(What wag that?)\n-He Kehua?\n(Is it a ghost)\nUNSUBTITLED\n(iii)Many of the MAORIS have coughs, running noses and sores.\n(They have no immunity to European diseases.)\n(iv)MAORI NAMES\nMEN\nTnTame\nVitoHotu\nHonePara\nTipiKahu (boy)\nWOMEN\nTaiAni\n4.\nSc 19\n(i)BACKGROUND DIALOGUE FOR BEGINNING OF SCENE\nHe ahu te rarurarti\n(what happened?)"
+  },
+  {
+   "type": "stage direction",
+   "text": "I konei tonu, ka moe te koroua nei.\n(He just decided to go to sleep)"
+  },
+  {
+   "type": "stage direction",
+   "text": "(ii)BACKGROUND DIALOGUE FOR END OF SCENE\nTaiho. Kei muri pea inga rakan nei. Auc!\nTino matatoru konei.\nMe haere ake ano an ki runga.\n(Hold on maybe behind this clump. Gee the\nundergrowth is thick here. I'll come up again.)\nUNSUBTITLED\nKahore ne huarahi - kahorene tutae.\n(No track, no shit)\nUNSUBTITLED\n5.\nSc 29ADA's piano piece duration approximately 90 sees.\n6.\nSc 30Duet 20-30 sees\n7.\nSc 33FLORA's singing 20 sees\n8.\nSc 34HENI/MARY phrasing of National Anthem\nHENI/MARY\nGot safe ah gayshy Quin\nLong hf a gayshy Quin\nOat shayf a Quin\nShendab Wikitoria\nHar - py en a Clohria\nLong to rain ourush\nGot Safe ah Quin\n9.\nSc 37 TRANSLATION NOTE:\nWho is it that rumbles within?\nIs it Ruaumoko, is it Ruaurnoko?\nJab, smash, jab, smash\nJab, smash, jab, smash\nThe Taniwha, the Taniwba.\nThat is within ... He!\nUNSUBTITLED\n10.\nSc 65  The mud around the School Hall is so deep that a labyrinths of\nplanks is setup to avoid it.\n11.\nSc 87 Extra dialogue\nMAORI PIANO CARRIERS\nTahi Patene ruapuri patene\nTekan patene ornatekau pwari patene\n(One button, two bloody buttons.\nTen buttons, twenty bloody buttons.)\n'cia Whai tarau ano ra monga patene!\n(We need pants for the buttons eh!)\nHe patene te kai, he patene te kai A popo ka tiko patene ahan patene\nma nga tangata katoa.\n(Buttons for food, buttons for food. Buttons for everybody. By\ntomorrow I'll be shitting buttons.)\n12.\nSc 100 Approximately 60 sec. of ADA's piano playing."
+  }
+ ]
+}

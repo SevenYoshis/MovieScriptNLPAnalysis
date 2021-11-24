@@ -1,0 +1,5849 @@
+{
+ "movie_url": "https://imsdb.com/scripts/Fargo.html",
+ "movie_title": "fargo",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "FARGO\na screenplay by\nEthan Coen\nand\nJoel Coen\nThe following text fades in over black:"
+  },
+  {
+   "type": "stage direction",
+   "text": "This is a true story. The events depicted in this film took place\nin Minnesota in 1987. At the request of the survivors, the names\nhave been changed. Out of respect for the dead, the rest has been\ntold exactly as it occured.\nFLARE TO WHITE\nFADE IN FROM WHITE\nSlowly the white becomes a barely perceptible image:  white\nparticles wave over a white background.  A snowfall.\nA car bursts through the curtain of snow.\nThe car is equipped with a hitch and is towing another car,\na brand-new light brown Cutlass Ciera with the pink sales\nsticker showing in its rear window.\nAs the car roars past, leaving snow swirling in their dirft,\nthe title of the film fades in."
+  },
+  {
+   "type": "stage direction",
+   "text": "Green highway signs point the way to MOOREHEAD,\nMINNESOTA/FARGO, NORTH DAKOTA.  The roads for the two cities\ndiverge.  A sign says WELCOME TO NORTH DAKOTA and another\njust after says NOW ENTERING FARGO, ND, POP. 44,412.\nThe car pulls into a Rodeway Inn.\nHOTEL LOBBY\nA man in his early forties, balding and starting to paunch,\ngoes to the reception desk.  The clerk is an older woman."
+  },
+  {
+   "type": "speech",
+   "character": "CLERK",
+   "text": "And how are you today, sir?"
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Real good now.  I'm checking in\n- Mr. Anderson."
+  },
+  {
+   "type": "stage direction",
+   "text": "The man prints \"Jerry Lundega\" onto a registration card,\nthen hastily crosses out the last name and starts to print\n\"Anderson.\"\nAs she types into a computer:"
+  },
+  {
+   "type": "speech",
+   "character": "CLERK",
+   "text": "Okay, Mr. Anderson, and you're\nstill planning on staying with\nus just the night, then?"
+  },
+  {
+   "type": "speech",
+   "character": "ANDERSON",
+   "text": "You bet."
+  },
+  {
+   "type": "stage direction",
+   "text": "HOTEL ROOM\nThe man turns on the TV, which shows the local evening news."
+  },
+  {
+   "type": "speech",
+   "character": "NEWS ANCHOR",
+   "text": "- whether they will go to summer\ncamp at all.  Katie Jensen has\nmore."
+  },
+  {
+   "type": "speech",
+   "character": "KATIE",
+   "text": "It was supposed to be a project\nfunded by the city council;  it\nwas supposed to benefit those\nFargo-Moorehead children who\nwould otherwise not be able to\nafford to attend a lakeshore\nsummer camp.  But nobody consulted\ncity controller Stu Jacobson..."
+  },
+  {
+   "type": "stage direction",
+   "text": "CHAIN RESTAURANT\nAnderson sits alone at a table finishing dinner.  Muzak\nplays.  A middle-aged waitress approaches holding a pot of\nregular coffee in one hand and decaf in the other."
+  },
+  {
+   "type": "speech",
+   "character": "WAITRESS",
+   "text": "Can I warm that up for ya there?"
+  },
+  {
+   "type": "speech",
+   "character": "ANDERSON",
+   "text": "You bet."
+  },
+  {
+   "type": "stage direction",
+   "text": "The man looks at his watch.\nTHROUGH A WINDSHIELD\nWe are pulling into the snowswept parking lot of a one-story\nbrick building.  Broken neon at the top of the building\nidentifies it as the Jolly Troll Tavern.  A troll, also in\nneon, holds a champagne glass aloft.\nINSIDE\nThe bar is downscale even for this town.  Country music\nplays on the jukebox.\nTwo men are seated in a booth at the back.  One is short,\nslight, youngish.  The other man is somewhat older, and\ndour.  The table in front of them is littered with empty\nlong-neck beer bottles.  The ashtray is full.\nAnderson approaches."
+  },
+  {
+   "type": "speech",
+   "character": "ANDERSON",
+   "text": "I'm, uh, Jerry Lundegaard -"
+  },
+  {
+   "type": "speech",
+   "character": "YOUNGER MAN",
+   "text": "You're Jerry Lundegaard?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, Shep Proudfoot said -"
+  },
+  {
+   "type": "speech",
+   "character": "YOUNGER MAN",
+   "text": "Shep said you'd be here at 7:30.\nWhat gives, man?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Shep said 8:30."
+  },
+  {
+   "type": "speech",
+   "character": "YOUNGER MAN",
+   "text": "We been sitting here an hour.\nI've peed three times already."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "I'm sure sorry.  I - Shep told\nme 8:30.  It was a mix-up, I\nguess."
+  },
+  {
+   "type": "speech",
+   "character": "YOUNGER MAN",
+   "text": "Ya got the car?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, you bet.  It's in the lot\nthere.  Brand-new burnt umber\nCiera."
+  },
+  {
+   "type": "speech",
+   "character": "YOUNGER MAN",
+   "text": "Yeah, okay.  Well, siddown then.\nI'm Carl Showalter and this is\nmy associate Gaear Grimsrud."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, how ya doin'.  So, uh, we\nall set on this thing, then?"
+  },
+  {
+   "type": "speech",
+   "character": "YOUNGER MAN",
+   "text": "Sure, Jerry, we're all set.  Why\nwouldn't we be?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, no, I'm sure you are.  Shep\nvouched for you and all.  I got\nevery confidence in you fellas."
+  },
+  {
+   "type": "stage direction",
+   "text": "They stare at him.  An awkward beat."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  So I guess that's it, then.\nHere's the keys -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "No, that's not it, Jerry."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Huh?"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "The new vehicle, plus forty\nthousand dollars."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, but the deal was, the car\nfirst, see, then the forty\nthousand, like as if it was the\nransom.  I thought Shep told you -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Shep didn't tell us much, Jerry."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, okay, it's -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Except that you were gonna be\nhere at 7:30."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, well, that was a mix-up, then."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Yeah, you already said that."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah.  But it's not a whole pay-\nin-advance deal.  I give you a\nbrand-new vehicle in advance and -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "I'm not gonna debate you, Jerry."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Okay."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "I'm not gonna sit here and debate.\nI will say this though:  what Shep\ntold us didn't make a whole lot\nof sense."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Oh, no, it's real sound.  It's\nall worked out."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "You want your own wife kidnapped?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah."
+  },
+  {
+   "type": "stage direction",
+   "text": "Carl Stares.  Jerry looks blankly back."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  You - my point is, you pay\nthe ransom - what eighty thousand\nbucks? -  I mean, you give us\nhalf the ransom, forty thousand,\nyou keep half.  It's like robbing\nPeter to play Paul, it doesn't\nmake any -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Okay, it's - see, it's not me\npayin' the ransom.  The thing is,\nmy wife, she's wealthy - her dad,\nhe's real well off.  Now, I'm in\na bit of trouble -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "What kind of trouble are you in,\nJerry?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, that's, that's, I'm not go\ninta, inta - see, I just need\nmoney.  Now, her dad's real\nwealthy -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "So why don't you just ask him\nfor the money?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud, the dour man who has not yet spoken, now softly\nputs in with a Swedish-accented voice:"
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "Or your fucking wife, you know."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Or your fucking wife, Jerry."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, it's all just part of this -\nthey don't know I need it, see.\nOkay, so there's that.  And even\nif they did, I wouldn't get it.\nSo there's that on top, then.  See,\nthese're personal matters."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Personal matters."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah.  Personal matters that\nneedn't, uh -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Okay, Jerry.  You're tasking us\nto perform this mission, but you,\nyou won't, uh, you won't - aw,\nfuck it, let's take a look at\nthat Ciera."
+  },
+  {
+   "type": "stage direction",
+   "text": "MINNEAPOLIS SUBURBAN HOUSE\nJerry enters through the kitchen door, in a parka and a red\nplaid Elmer Fudd hat.  He stamps snow off his feet.  He is\ncarrying a bag of groceries which he deposits on the kitchen\ncounter."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Hon?  Got the growshries."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Thank you, hon.  How's Fargo?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, real good."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Dad's here."
+  },
+  {
+   "type": "stage direction",
+   "text": "DEN\nJerry enters, pulling off his plaid cap."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "How ya doin', Wade?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Wade Gustafson is mid-sixtyish, vigorous, with a full head\nof gray hair.  His eyes remain fixed on the TV."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Yah, pretty good."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Whatcha watchin' there?"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Norstars."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Who they playin'?"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "OOOoooh!"
+  },
+  {
+   "type": "stage direction",
+   "text": "His reaction synchronizes with a reaction from the crowd.\nKITCHEN\nJerry walks back in, taking off his coat.  His wife is\nputting on an apron.  Jerry nods toward the living room."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Is he stayin' for supper, then?"
+  },
+  {
+   "type": "speech",
+   "character": "WIFE",
+   "text": "Yah, I think so...  Dad, are you\nstayin' for supper?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(off)"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Yah."
+  },
+  {
+   "type": "stage direction",
+   "text": "DINING ROOM\nJerry, his wife, Wade and Scotty, twelve years old, sit\neating."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTTY",
+   "text": "May I be excused?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Sure, ya done there?"
+  },
+  {
+   "type": "speech",
+   "character": "SCOTTY",
+   "text": "Uh-huh.  Goin' out."
+  },
+  {
+   "type": "speech",
+   "character": "WIFE",
+   "text": "Where are you going?"
+  },
+  {
+   "type": "speech",
+   "character": "SCOTTY",
+   "text": "Just out.  Just McDonald's."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Back at 9:30."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTTY",
+   "text": "Okay."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "He just ate.  And he didn't finish.\nHe's going to McDonald's instead\nof finishing here?"
+  },
+  {
+   "type": "speech",
+   "character": "WIFE",
+   "text": "He sees his friends there.  It's\nokay."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "It's okay?  McDonald's?  What do\nyou think they do there?  They\ndon't drink milkshakes, I assure\nyou!"
+  },
+  {
+   "type": "speech",
+   "character": "WIFE",
+   "text": "It's okay, Dad."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Wade, have ya had a chance to\nthink about, uh, that deal I was\ntalkin' about, those forty acres\nthere on Wayzata?"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "You told me about it."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, you said you'd have a think\nabout it.  I understand it's a\nlot of money -"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "A heck of a lot.  What'd you\nsay you were gonna put there?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "A lot.  It's a limited -"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "I know it's a lot."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "I mean a parking lot."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Yah, well, seven hundred and\nfifty thousand dollars is a lot\n- ha ha ha!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, well, it's a chunk, but -"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "I thought you were gonna show\nit to Stan Grossman.  He passes\non this stuff before it gets\nkicked up to me."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, you know Stan'll say no\ndice.  That's why you pay him.\nI'm asking you here, Wade.  This\ncould work out real good for me\nand Jean and Scotty -"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Jean and Scotty never have to\nworry."
+  },
+  {
+   "type": "stage direction",
+   "text": "WHITE\nA black like curls through the white.  Twisting perspective\nshows that it is an aerial shot of a two-lane highway,\nbordered by snowfields.  The highway carries one moving car."
+  },
+  {
+   "type": "location",
+   "text": "INT. CAR"
+  },
+  {
+   "type": "stage direction",
+   "text": "Carl Showalter is driving.  Gaear Grimsrud stares blankly\nout.\nAfter a long beat:"
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "Where is Pancakes Hause?"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "What?"
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "We stop at Pancakes Hause."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "What're you, nuts?  We had\npancakes for breakfast.  I gotta\ngo somewhere I can get a shot\nand a beer - and a steak maybe.\nNot more fuckin' pancakes.  Come\non."
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud gives him a sour look."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Come on, man.  Okay, here's\nan idea.  We'll stop outside of\nBrainerd.  I know a place there\nwe can get laid.  Wuddya think?"
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "I'm fuckin' hungry now, you know."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Yeah, yeah, Jesus - I'm sayin',\nwe'll stop for pancakes, then\nwe'll get laid.  Wuddya think?"
+  },
+  {
+   "type": "stage direction",
+   "text": "GUSTAFSON OLDS GARAGE\nJerry is sitting in his glassed-in salesman's cubicle just\noff the showroom floor.  On the other side of his desk sit\nan irate customer and his wife."
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "We sat here right in this room and\nwent over this and over this!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, but that TruCoat -"
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "I sat right here and said I didn't\nwant no TruCoat!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, but I'm sayin', that TruCoat,\nyou don't get it and you get\noxidization problems.  It'll cost\nyou a heck of lot more'n five\nhunnert -"
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "You're sittin' here, you're talkin'\nin circles!  You're talkin' like\nwe didn't go over this already!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, but this TruCoat -"
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "We had us a deal here for nine-\nteen-five.  You sat there and\ndarned if you didn't tell me\nyou'd get this car, these options,\nWITHOUT THE SEALANT, for nine-\nteen-five!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Okay, I'm not sayin' I didn't -"
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "You called me twenty minutes ago\nand said you had it!  Ready to\nmake delivery, ya says!  Come on\ndown and get it!  And here ya are\nand you're wastin' my time and\nyou're wastin' my wife's time and\nI'm payin' nineteen-five for this\nvehicle here!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, okay, I'll talk to my boss..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He rises, and, as he leaves:"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  See, they install that TruCoat\nat the factory, there's nothin' we\ncan do, but I'll talk to my boss."
+  },
+  {
+   "type": "stage direction",
+   "text": "The couple watch him go to a nearby cubicle."
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "These guys here - these guys!\nIt's always the same!  It's always\nmore!  He's a liar!"
+  },
+  {
+   "type": "speech",
+   "character": "WIFE",
+   "text": "Please, dear."
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "We went over this and over this -"
+  },
+  {
+   "type": "stage direction",
+   "text": "NEARBY CUBICLE\nJerry sits perched on the desk of another salesman who is\neating lunch as he watches a hockey game on a small portable\nTV."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "So you're goin' to the Gophers\non Sunday?"
+  },
+  {
+   "type": "speech",
+   "character": "SALESMAN",
+   "text": "You bet."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "You wouldn't have an extra ticket\nthere?"
+  },
+  {
+   "type": "speech",
+   "character": "SALESMAN",
+   "text": "They're playin' the Buckeyes!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "SALESMAN",
+   "text": "Ya kiddin'!"
+  },
+  {
+   "type": "stage direction",
+   "text": "JERRY'S CUBICLE\nJerry re-enters."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, he never done this before,\nbut seein' as it's special\ncircumstances and all, he says I\ncan knock one hunnert off that\nTruCoat."
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "One hundred!  You lied to me, Mr.\nLundegaard.  You're a bald-faced\nliar!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry sits staring at his lap."
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "...  A fucking liar -"
+  },
+  {
+   "type": "speech",
+   "character": "WIFE",
+   "text": "Bucky, please!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry mumbles into his lap:"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "One hunnert's the best we can\ndo here."
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "Oh, for Christ's sake, where's my\ngoddamn checkbook.  Let's get this\nover with."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIDE EXTERIOR:  TRUCK STOP\nThere is a restaurant with many big rigs parked nearby, and\na motel with an outsize Paul Bunyan and Babe the Blue Ox\nflanking its sign:  BLUE OX MOTEL.\nMOTEL ROOM\nCarl Showalter and Gaear Grimsrud are in the twin beds\nhaving sex with two truck-stop hookers."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Oh, Jesus, yeah."
+  },
+  {
+   "type": "speech",
+   "character": "HIS HOOKER",
+   "text": "There ya go, sugar."
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "Nnph."
+  },
+  {
+   "type": "speech",
+   "character": "HIS HOOKER",
+   "text": "Yeah.  Yeah.  Oh, yeah."
+  },
+  {
+   "type": "stage direction",
+   "text": "LATER\nThe couples like in their respective beds, gazing at the\noffscreen TV."
+  },
+  {
+   "type": "speech",
+   "character": "ED MCMAHON",
+   "text": "-  Johnny's guests tonight will be\nLee Majors, George Wendt, and Steve\nBoutsikaros from the San Diego Zoo,\nso keep that dial -"
+  },
+  {
+   "type": "stage direction",
+   "text": "LUNDEGAARD KITCHEN\nWe hear a morning show on television.  Jean Lundegaard is\nmaking coffee in the kitchen as Scott eats cereal at the\ntable."
+  },
+  {
+   "type": "speech",
+   "character": "JEAN",
+   "text": "I'm talkin' about your potential."
+  },
+  {
+   "type": "stage direction",
+   "text": "(absently)"
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "JEAN",
+   "text": "You're not a C student."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT",
+   "text": "Uhn."
+  },
+  {
+   "type": "speech",
+   "character": "JEAN",
+   "text": "And yet you're gettin' C grades.\nIt's this disparity there that\nconcerns your dad and me."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "JEAN",
+   "text": "You know what a disparity is?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(testily)"
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT",
+   "text": "Yeah!"
+  },
+  {
+   "type": "speech",
+   "character": "JEAN",
+   "text": "Okay.  Well, that's why we don't\nwant ya goin' out fer hockey."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT",
+   "text": "Oh, man!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The phone rings."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT",
+   "text": "...  What's the big deal?  It's\nan hour -"
+  },
+  {
+   "type": "speech",
+   "character": "JEAN",
+   "text": "Hold on."
+  },
+  {
+   "type": "stage direction",
+   "text": "She picks up the phone."
+  },
+  {
+   "type": "speech",
+   "character": "JEAN",
+   "text": "...  Hello?"
+  },
+  {
+   "type": "speech",
+   "character": "PHONE VOICE",
+   "text": "Yah, hiya, hon."
+  },
+  {
+   "type": "speech",
+   "character": "JEAN",
+   "text": "Oh, hiya, Dad."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Jerry around?"
+  },
+  {
+   "type": "speech",
+   "character": "JEAN",
+   "text": "Yah, he's still here - I'll\ncatch him for ya."
+  },
+  {
+   "type": "stage direction",
+   "text": "She holds the phone away and calls:"
+  },
+  {
+   "type": "speech",
+   "character": "JEAN",
+   "text": "...  Hon?"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "JEAN",
+   "text": "It's Dad."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yah..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry enters in shirtsleeves and tie."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Yah, okay..."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT",
+   "text": "Look, Dad, there is no fucking\nway -"
+  },
+  {
+   "type": "speech",
+   "character": "JEAN",
+   "text": "Scott!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Say, let's watch the language -"
+  },
+  {
+   "type": "stage direction",
+   "text": "He takes the phone."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "How ya doin', Wade?"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "What's goin' on there?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Oh, nothing, Wade.  How ya doin'\nthere?"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Stan Grossman looked at your\nproposal.  Says it's pretty\nsweet."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No kiddin'?"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "We might be innarested."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No kiddin'!  I'd need the cash\npretty quick there.  In order\nto close the deal."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Come by at 2:30 and we'll talk\nabout it.  If your numbers are\nright, Stan says its pretty\nsweet.  Stan Grossman."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "2:30."
+  },
+  {
+   "type": "stage direction",
+   "text": "Click.  Dial tone."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, okay."
+  },
+  {
+   "type": "stage direction",
+   "text": "GUSTAFSON OLD GARAGE\nJerry wanders through the service area where cars are being\nworked on.  He stops by an Indian in blue jeans who is\nlooking at the underside of a car that sits on a hydraulic\nlift with a cage light hanging off its innards."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Say, Shep, how ya doin' there?"
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Mm."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Say, ya know those two fellas\nya put me in touch with, up\nthere in Fargo?"
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Put you in touch with Grimsrud."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, yah, but he had a buddy\nthere.  He, uh -"
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Well, I don't vouch for him."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, that's okay, I just -"
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "I vouch for Grimsrud.  Who's his\nbuddy?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Carl somethin'?"
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Never heard of him.  Don't vouch\nfor him."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, that's okay, he's a buddy\nof the guy ya vouched for, so I'm\nnot worryin'.  I just, I was\nwonderin', see, I gotta get in\ntouch with 'em for, I might not\nneed it anymore, sumpn's happenin',\nsee -"
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Call 'em up."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, well, see, I did that, and\nI haven't been able to get 'em,\nso I thought you maybe'd know an\nalternate number or what have ya."
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Nope."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry slaps his fist into his open palm and snaps his\nfingers."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Okay, well, real good, then."
+  },
+  {
+   "type": "stage direction",
+   "text": "CAR\nCarl is driving.  Grimsrud stares out front.\nAfter a beat:"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Look at that.  Twin Cities.\nIDS Building, the big glass one.\nTallest skyscraper in the Midwest.\nAfter the Sears, uh, Chicago...\nYou never been to Minneapolis?"
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Would it kill you to say\nsomething?"
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "I did."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "\"No.\" First thing you've said\nin the last four hours.  That's\na, that's a fountain of conversation,\nman.  That's a geyser.  I mean, whoa,\ndaddy, stand back, man.  Shit, I'm\nsittin' here driving, man, doin'\nall the driving, whole fuckin' way\nfrom Brainerd, drivin', tryin' to,\nyou know, tryin' to chat, keep\nour spirits up, fight the boredom\nof the road, and you can't say one\nfucking thing just in the way of\nconversation."
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsurd smokes, gazing out the window."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Well, fuck it, I don't have\nto talk either, man.  See how\nyou like it..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He drives."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Total silence..."
+  },
+  {
+   "type": "stage direction",
+   "text": "JERRY'S CUBICLE\nHe is on the phone."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, real good.  How you doin'?"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Pretty good, Mr. Lundegaard.\nYou're damned hard to get on the\nphone."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, it's pretty darned busy here,\nbut that's the way we like it."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "That's for sure.  Now, I just\nneed, on these last, these financing\ndocuments you sent us, I can't\nread the serial numbers of the\nvehicles on here, so I -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "But I already got the, it's okay,\nthe loans are in place, I already\ngot the, the what, the -"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yeah, the three hundred and twenty\nthousand dollars, you got the money\nlast month."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, so we're all set."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yeah, but the vehicles you were\nborrowing on, I just can't read\nthe serial numbers on your\napplicaton.  Maybe if you could\njust read them to me -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "But the deal's already done, I\nalready got the money -"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yeah, but we have an audit here,\nI just have to know that these\nvehicles you're financing with\nthis money, that they really\nexist."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, well, they exist all right."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "I'm sure they do - ha ha!  But\nI can't read their serial numbers\nhere.  So if you could read me -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, but see, I don't have 'em\nin front a me - why don't I just\nfax you over a copy -"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "No, fax is no good, that's what\nI have and I can't read the darn\nthing -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, okay, I'll have my girl\nsend you over a copy, then."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Okay, because if I can't correlate\nthis note with the specific vehicles,\nthen I gotta call back that money -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, how much money was that?"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Three hundred and twenty thousand\ndollars.  See, I gotta correlate\nthat money with the cars it's being\nlent on."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, no problem, I'll just fax\nthat over to ya, then."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "No, no, fax is -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "I mean send it over.  I'll shoot\nit right over to ya."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Okay."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Okay, real good, then."
+  },
+  {
+   "type": "stage direction",
+   "text": "CLOSE ON TELEVISION\nA morning-show host in an apron stands behind a counter on a\nkitchen set."
+  },
+  {
+   "type": "speech",
+   "character": "HOST",
+   "text": "So I seperate the - how the heck\ndo I get the egg out of the shell\nwithout breaking it?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jean Lundegaard is curled up on the couch with a cup of\ncoffee, watching the television."
+  },
+  {
+   "type": "speech",
+   "character": "HOSTESS",
+   "text": "You just prick a little hole in\nthe end and blow!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jean smiles as we hear laughter and applause from the studio\naudience.  She hears something else - a faint scraping sound\n- and looks up."
+  },
+  {
+   "type": "speech",
+   "character": "HOST",
+   "text": "Okay, here goes nothing."
+  },
+  {
+   "type": "stage direction",
+   "text": "The scraping sound persists.  Jean sets down her coffee cup\nand rises.\nFrom the studio audience:"
+  },
+  {
+   "type": "speech",
+   "character": "AUDIENCE",
+   "text": "Awoooo!"
+  },
+  {
+   "type": "stage direction",
+   "text": "KITCHEN\nWe track toward the back door.  A curtain is stretched tight\nacross its window.\nJean pulls the curtain back.  Bright sunlight amplified by\nsnow floods in.\nA man in an orange ski mask looks up from the lock.\nJean gasps, drops the curtain, rutns and runs into -\n- a taller man, also in a ski mask, already in the house.\nWe hear the crack of the back-door window being smashed.\nThe tall man - Gaear Grimsrud - grabs Jean's wrist.\nShe screams, staring at her own imprisoned wrist, then wraps\nher gaping mouth around Grimsrud's gloved thumb and bites\ndown hard.\nHe drops her wrist.  As Carl enters, she races up the\nstairs."
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "Unguent."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Huh?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsurd looks at his thumb."
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "I need ... unguent."
+  },
+  {
+   "type": "stage direction",
+   "text": "UPSTAIRS BEDROOM\nAs the two men enter, a door at the far side is slamming\nshut.  A cord snakes in under the door.\nMASTER BATHROOM\nJean, sobbing, frantically pushes at buttons on the princess\nphone.\nThe phone pops out of her hands, jangles across the tile\nfloor, smashes against the door and then bounces away, its\ncord ripped free.\nWith a groaning sound, the door shifts in its frame.\nBEDROOM\nGrimsrud has a crowbar jammed in between the bathroom door\nand frame, and is working it.\nBATHROOM\nJean crosses to a high window above the toilet and throws it\nopen.  Snow that had drifted against the window sifts\nlightly in.  Jean steps up onto the toilet.\nThe door creaks, moving as one piece in its frame.\nJean glances back as she steps up from the toilet seat to\nthe tank.\nThe groaning of the door ends with the wood around its knob\nsplintering and the knob itself falling out onto the floor.\nThe door swings open.\nGrimsrud and Carl enter.\nTHEIR POV\nRoom empty, window open.\nCarl strides to the window and hoists himself out.\nGrimsrud opens the medicine cabinet and delicately taps\naside various bottles and tubes, seeking the proper unguent.\nHe finds a salve but after a moment sets it down, noticing\nsomething in the mirror.\nThe shower curtain is drawn around the tub.\nHe steps toward it.\nAs he reaches for the curtain, it explodes outward, animated\nby thrashing limbs.\nJean, screaming, tangled in the curtain, rips it off its\nrings and stumbles out into the bedroom.  Grimsrud follows.\nBEDROOM\nJean rushes toward the door, cloaked by the shower curtain\nbut awkwardly trying to push it off.\nUPSTAIRS LANDING\nStill thrashing, Jean crashes against the upstairs railing,\ntrips on the curtain and falls, thumping crazily down the\nstairs.\nGrimsrud trots down after her.\nA PLAQUE:  WADE GUSTAFSON INCORPORTATED"
+  },
+  {
+   "type": "location",
+   "text": "INT. WADE'S OFFICE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Wade sits behind his desk; another man rises as Jerry\nenters."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "How ya doin' there, Stan?  How\nare ya, Wade?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Stan Grossman shakes his hand."
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "Good to see ya again, Jerry.  If\nthese numbers are right, this\nlooks pretty sweet."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Oh, those numbers are all right,\nbleemee."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "This is do-able."
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "Congratulations, Jerry."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, thanks, Stan, it's a pretty -"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "What kind of finder's fee were\nyou looking for?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Huh?"
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "The financials are pretty thorough,\nso the only thing we don't know\nis your fee."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  My fee?  Wade, what the\nheck're you talkin' about?"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Stan and I're okay."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "We're good to loan in."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "But we never talked about your\nfee for bringin' it to us."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No, but, Wade, see, I was\nbringin' you this deal for you\nto loan me the money to put\nin.  It's my deal here, see?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Wade scowls, looks at Stan."
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "Jerry - we thought you were\nbringin' us an investment."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, right -"
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "You're sayin' - what're you\nsayin'?"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "You're sayin' that we put in\nall the money and you collect\nwhen it pays off?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No, no.  I - I'd, I'd - pay you\nback the principal, and interest\n- heck, I'd go - one over prime -"
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "We're not a bank, Jerry."
+  },
+  {
+   "type": "stage direction",
+   "text": "Wade is angry."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "What the heck, Jerry, if I wanted\nbank interest on seven hunnert'n\nfifty thousand I'd go to Midwest\nFederal.  Talk to Bill Diehl."
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "He's at Norstar."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "He's at -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No, see, I don't need a finder's\nfee, I need - finder's fee's, what,\nten percent, heck that's not gonna\ndo it for me.  I need the principal."
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "Jerry, we're not just going to\ngive you seven hundred and fifty\nthousand dollars."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "What the heck were you thinkin'?\nHeck, if I'm only gettin' bank\ninterest, I'd look for complete\nsecurity.  Heck, FDIC.  I don't\nsee nothin' like that here."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, but I - okay, I would, I'd\nguarantee ya your money back."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "I'm not talkin' about your damn\nword, Jerry.  Geez, what the\nheck're you?...  Well, look, I\ndon't want to cut you out of the\nloop, but his here's a good deal.\nI assume, if you're not innarested,\nyou won't mind if we move on it\nindependently."
+  },
+  {
+   "type": "stage direction",
+   "text": "PARKING LOT\nWe are high and wide on the office building's parking lot.\nJerry emerges wrapped in a parka, his arms sticking stiffly\nout at his sides, his breath vaporizing.  He goes to his\ncar, opens its front door, pulls out a red plastic scraper\nand starts methodically scraping off the thin crust of ice\nthat has developed on his windshield.\nThe scrape-scrape-scrape sound carries in the frigid air.\nJerry goes into a frenzy, banging the scraper against the\nwindshield and the hood of his car.\nThe tantrum passes.  Jerry stands pantin, staring at nothing\nin particular.\nScrape-scrape-scrape - he goes back to work on the\nwindshield.\nFRONT DOOR\nA beat, silent but for a key scraping at the lock.\nThe door swings open and Jerry edges in, looking about,\nholding a sack of groceries."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Hon?"
+  },
+  {
+   "type": "stage direction",
+   "text": "He shuts the door."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Got the growshries..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He has already seen the shower curtain on the floor.  He\nfrowns, pokes at it with his foot."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Hon?"
+  },
+  {
+   "type": "stage direction",
+   "text": "UPSTAIRS BATHROOM\nJerry walks in.  He sets the groceries down on the toilet\ntank.\nHe looks at the open window, through which snow still sifts\nin.  He shuts it.\nHe picks up the small tube of uguent that sits on the sink,\nfrowns at it, puts it back in the medicine chest.\nHe looks at the shower curtain rod holding empty rings.\nFOYER\nOnce again we are looking at the rumpled shower curtain.\nFrom another room:"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, Wade, I - it's Jerry, I."
+  },
+  {
+   "type": "stage direction",
+   "text": "Then, slightly more agitated."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Yah, Wade, it's, I, it's\nJerry..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Beat."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Wade, it's Jerry, I - we\ngotta talk, Wade, it's terrible..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Beat.\nLIVING ROOM\nJerry stands in wide shot, hands on hips, looking down at a\ntelephone.\nAfter a motionless beat he picks up the phone and punches in\na number."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Yah, Wade Gustafson, please."
+  },
+  {
+   "type": "stage direction",
+   "text": "BLACK\nHold in black.\nA slow tilt down from night sky brings the head of a large\npaper-mache figure into frame.  It is a flannel-shirt\nwoodsman carrying a double-edged ax over one shoulder.  As\nwe hear the rumble of an approaching car, the continuing\ntilt and boom down brings us down the woodsman's body to a\npedestal.\nA sweep of headlights illuminates a sign on the pedestal:\nWELCOME TO BRAINDERD - HOME OF PAUL BUNYAN.\nThe headlights sweep off and a car hums past and on into the\nbackground.  The two-lane highway is otherwise empty."
+  },
+  {
+   "type": "location",
+   "text": "INT. CAR"
+  },
+  {
+   "type": "stage direction",
+   "text": "Carl drives.  Grimsrud smokes and gazes out the window.\nFrom the back seat we hear whimpering.\nGrimsrud turns to look.\nJean lies bound and curled on the back seat underneath a\ntarpaulin."
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "Shut the fuck up or I'll throw\nyou back in the trunk, you know."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Geez.  That's more'n I've heard\nyou say all week."
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud stares at him, then turns back to the window.\nAt a loud WHOOP Carl starts and looks back out the rear\nwindow.  Fifty yards behind a state trooper has turned on\nhis gumballs.\nCarl eases the car onto the shoulder."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Ah, shit, the tags..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud looks at him."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  It's just the tags.  I never\nput my tags on the car.  Don't\nworry, I'll take care of this."
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks into the back seat as the car bounces and slows on\nthe gravel shoulder."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Let's keep still back there,\nlady, or we're gonna have to, ya\nknow, to shoot ya."
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud stares at Carl."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Hey!  I'll take care of this!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Both cars have stopped.  Carl looks up at the rear-view\nmirror.\nThe trooper is stopped on the shoulder just behind them,\nwriting in his citation book.\nCarl watches.\nWe hear the trooper's door open.\nThe trooper walks up the shoulder, one hand resting lightly\non top of his holster, his breath steaming in the cold night\nair.\nCarl opens his window as the trooper draws up."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "How can I help you, officer?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The trooper scans the inside of the car, taking his time.\nGrimsrud smokes and gazes calmly out his window.\nFinally:"
+  },
+  {
+   "type": "speech",
+   "character": "TROOPER",
+   "text": "This is a new car, then, sir?"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "It certainly is, officer.  Still\ngot that smell!"
+  },
+  {
+   "type": "speech",
+   "character": "TROOPER",
+   "text": "You're required to display\ntemporary tags, either in the\nplate area or taped inside the\nback window."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Certainly -"
+  },
+  {
+   "type": "speech",
+   "character": "TROOPER",
+   "text": "Can I see your license and\nregistration please?"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Certainly."
+  },
+  {
+   "type": "stage direction",
+   "text": "He reaches for his wallet."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  I was gonna tape up the\ntemporary tag, ya know, to be\nin full compliance, but it, uh,\nit, uh ... must a slipped my\nmind..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He extends his wallet toward the trooper, a folded fifty-\ndollar bill protruding from it."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  So maybe the best thing\nwould be to take care of that,\nright here in Brainerd."
+  },
+  {
+   "type": "speech",
+   "character": "TROOPER",
+   "text": "What's this, sir?"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "That's my license and regis-\ntration.  I wanna be in\ncompliance."
+  },
+  {
+   "type": "stage direction",
+   "text": "He forces a laugh."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  I was just thinking I could\ntake care of it right here.  In\nBrainerd."
+  },
+  {
+   "type": "stage direction",
+   "text": "The policeman thoughtfully pats the fifty into the billfold\nand hands the billfold back into the car."
+  },
+  {
+   "type": "speech",
+   "character": "TROOPER",
+   "text": "Put that back in your pocket,\nplease."
+  },
+  {
+   "type": "stage direction",
+   "text": "Carl's nervous smile fades."
+  },
+  {
+   "type": "speech",
+   "character": "TROOPER",
+   "text": "...  And step out of the car,\nplease, sir."
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud, smiling thinly, shakes his head.\nThere is a whimpering sound.\nThe policeman hesitates.\nAnother sound.\nThe policeman leans forward into the car, listening.\nGrimsrud reaches across Carl, grabs the trooper by the hair\nand slams his head down onto the car door.\nThe policeman grunts, digs awkwardly for footing outside and\nthrows an arm for balance against the outside of the car.\nWith his free hand, Grimsrud pops the glove compartment.  He\nbrings a gun out and reaches across Carl and shoots - BANG -\ninto the back of the trooper's head.\nJean screams."
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "Shut up."
+  },
+  {
+   "type": "stage direction",
+   "text": "He releases the policeman.\nThe policeman's head slides out the window and his body\nflops back onto the street.\nCarl looks out at the cop in the road."
+  },
+  {
+   "type": "stage direction",
+   "text": "(softly)"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Whoa...  Whoa, Daddy."
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud takes the trooper's hat off of Carl's lap and sails\nit out the open window."
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "You'll take care of it.  Boy, you\nare smooth smooth, you know."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Whoa, Daddy."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jean, for some reason, screams again.  Then stops."
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "Clear him off the road."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Yeah."
+  },
+  {
+   "type": "stage direction",
+   "text": "He gets out."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ROAD"
+  },
+  {
+   "type": "stage direction",
+   "text": "Carl leans down to hoist up the body.\nHeadlights appear:  an oncoming car."
+  },
+  {
+   "type": "location",
+   "text": "INT. CIERA"
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud notices."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ROAD"
+  },
+  {
+   "type": "stage direction",
+   "text": "The car approaches, slowing.\nCarl, with the trooper's body hoisted halfway up, is frozen\nin the headlights.\nThe car accelerates and roars past and away.  We just make\nout the silhouettes of two occupants in front."
+  },
+  {
+   "type": "location",
+   "text": "INT. CIERA"
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud slides into the driver's seat.  He squeals into a U-\nturn, the driver's door slamming shut with his spin.\nSmall red tail lights fishtail up ahead.  The pursued car\nchurns up fine snow.\nGrimsrud takes the cigarette from his mouth and stubs it in\nhis ashtray.  We hear the churning of the car wheels and the\npinging of snow clods and salt on the car's underside.\nIn the back seat, Jean starts screaming.\nGrimsrud is not gaining on the tail lights.\nHe fights with the wheel as his car swims on the road face.\nThe red tail lights ahead start to turn.  With a distant\ncrunching sound, they disappear.\nThe headlights now show only empty road, starting to turn.\nGrimsrud frowns and slows.\nHis headlights show the car up ahead off the road, crumpled\naround a telephone pole, having failed to hold a turn.\nGrimsrud brakes.\nJean slides off the back seat and thumps into the legwell.\nGrimsrud sweeps his gun off the front seat, throws open his\ndoor and gets out."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ROAD"
+  },
+  {
+   "type": "stage direction",
+   "text": "The wrecked car's headlights shine off into a snowfield\nabutting the highway.  A young man in a down parka is\nlimping across the snowfield, away from the wrecked car.\nGrimsrud strides calmly out after the injured boy.  He\nraises his gun and fires.\nWith a poof of feathers, a hole opens up in the boy's back\nand he pitches into the snow.\nGrimsrud walks up to the wreck and peers in its half-open\ndoor.\nA young woman is trapped inside the twisted wreckage,\ninjured.\nSnow swirls in the headlights of the wreck.\nGrimsrud raises his gun and fires.\nAN OIL PAINTING\nA blue-winged teal in flight over a swampy marshland.  The\nroom in which it hangs is dark.  We hear off-screen snoring.\nWe track off to reveal an easel upon which we see a half-\ncompleted oil of a grey mallard.\nThe continuing track reveals a couple in bed, sleeping.  The\nman, fortyish, pajama-clad, is big, and big-bellied.  His\nmouth is agape.  He snores.  His arms are flung over a woman\nin her thirties, wearing a nightie, mouth also open, not\nsnoring.\nWe hold for a long beat on their regular breathing and\nsnoring.\nThe phone rings.\nThe woman stirs."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "Oh, geez..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She reaches for the phone."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "...  Hi, it's Marge..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The man stirs and clears his throat with a long deep rumble."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Oh, my.  Where?...  Yah...\nOh, geez..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The man sits up, gazes stupidly about."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Okay.  There in a jif...\nReal good, then."
+  },
+  {
+   "type": "stage direction",
+   "text": "She hangs up."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  You can sleep, hon.  It's\nearly yet."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Gotta go?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah."
+  },
+  {
+   "type": "stage direction",
+   "text": "The man swings his legs out."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "I'll fix ya some eggs."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "That's okay, hon.  I gotta run."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Gotta eat a breakfast, Marge.\nI'll fix ya some eggs."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Aw, you can sleep, hon."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Ya gotta eat a breakfast..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He clears his throat with another deep rumble."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "...  I'll fix ya some eggs."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Aw, Norm."
+  },
+  {
+   "type": "stage direction",
+   "text": "PLATE\nLeavings of a huge plate of eggs, ham, toast.\nWider, we see Marge now wearing a beige police uniform.  A\npatch on one arm says BRAINERD POLICE DEPARTMENT.  She wears\na heavy belt holding a revolver, walkie-talkie and various\nother jangling police impedimenta.  Norm is in a dressing\ngown."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Thanks, hon.  Time to shove off."
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Love ya, Margie."
+  },
+  {
+   "type": "stage direction",
+   "text": "As she struggles into a parka:"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Love ya, hon."
+  },
+  {
+   "type": "stage direction",
+   "text": "He is exiting back to the bedroom; she exits out the front\ndoor."
+  },
+  {
+   "type": "location",
+   "text": "EXT. GUNDERSON HOUSE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dawn.  Marge is making her way down the icy front stoop to\nher prowler."
+  },
+  {
+   "type": "location",
+   "text": "INT. GUNDERSON HOUSE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Norm sits back onto the bed, shrugging off his robe.  Off-\nscreen we hear the front door open.\nFRONT DOOR\nMarge stamps the snow off her shoes."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Hon?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(off)"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Yah?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Prowler needs a jump."
+  },
+  {
+   "type": "stage direction",
+   "text": "HIGHWAY\nTwo police cars and an ambulance sit idling at the side of\nthe road, a pair of men inside each car.\nThe first car's driver door opens and a figure in a parka\nemerges, holding two styrofoam cups.  His partner leans\nacross the seat to close the door after him.\nThe reverse shows Marge approaching from her own squad car."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Hiya, Lou."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Margie.  Thought you might need\na little warm-up."
+  },
+  {
+   "type": "stage direction",
+   "text": "He hands her one of the cups of coffee."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah, thanks a bunch.  So what's\nthe deal, now?  Gary says triple\nhomicide?"
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Yah, looks pretty bad.  Two\nof'm're over here."
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge looks around as they start walking."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Where is everybody?"
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Well - it's cold, Margie."
+  },
+  {
+   "type": "stage direction",
+   "text": "BY THE WRECK\nLaid out in the early morning light is the wrecked car, a\npair of footprints leading out to a man in a bright orange\nparka face down in the bloodstained snow, and one pair of\nfootsteps leading back to the road.\nMarge is peering into the car."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Ah, geez.  So...  Aw, geez.\nHere's the second one...  It's\nin the head and the ... hand\nthere, I guess that's a defensive\nwound.  Okay."
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge looks up from the car."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Where's the state trooper?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lou, up on the shoulder, jerks his thumb."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Back there a good piece.  In\nthe ditch next to his prowler."
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge looks around at the road."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Okay, so we got a state trooper\npulls someone over, we got a\nshooting, and these folks drive\nby, and we got a high-speed\npursuit, ends here, and this\nexecution-type deal."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "I'd be very surprised if our\nsuspect was from Brainerd."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Yah."
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge is studying the ground."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah.  And I'll tell you what, from\nhis footprints he looks like a big\nfella -"
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge suddenly doubles over, putting her head between her\nknees down near the snow."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Ya see something down there, Chief?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Uh - I just, I think I'm gonna barf."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Geez, you okay, Margie?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "I'm fine - it's just morning\nsickness."
+  },
+  {
+   "type": "stage direction",
+   "text": "She gets up, sweeping snow from her knees."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Well, that passed."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Yah?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah.  Now I'm hungry again."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "You had breakfast yet, Margie?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, yah.  Norm made some eggs."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Yah?  Well, what now, d'ya think?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Let's go take a look at that\ntrooper."
+  },
+  {
+   "type": "stage direction",
+   "text": "BY THE STATE TROOPER'S CAR\nMarge's prowler is parked nearby.\nMarge is on her hands and knees by a body down in the ditch,\nagain looking at footprints in the snow.  She calls up to\nthe road:"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "There's two of 'em, Lou!"
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Yah?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah, this guy's smaller than\nhis buddy."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Oh, yah?"
+  },
+  {
+   "type": "stage direction",
+   "text": "DOWN IN THE DITCH\nIn the foreground is the head of the state trooper, facing\nus.  Peering at it from behind, still on her hands and\nknees, is Marge."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "For Pete's sake."
+  },
+  {
+   "type": "stage direction",
+   "text": "She gets up, clapping the snow off her hands, and climbs out\nof the ditch."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "How's it look, Marge?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Well, he's got his gun on his hip\nthere, and he looks like a nice\nenough guy.  It's a real shame."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "You haven't monkeyed with his car\nthere, have ya?"
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "No way."
+  },
+  {
+   "type": "stage direction",
+   "text": "She is looking at the prowler, which still idles on the\nshoulder."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Somebody shut his lights.  I guess\nthe little guy sat in there, waitin'\nfor his buddy t'come back."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Yah, woulda been cold out here."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Heck, yah.  Ya think, is Dave open\nyet?"
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "You don't think he's mixed up in -"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "No, no, I just wanna get Norm some\nnight crawlers."
+  },
+  {
+   "type": "location",
+   "text": "INT. PROWLER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge is driving; Lou sits next to her."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "You look in his citation book?"
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Yah..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks at his notebook."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "...  Last vehicle he wrote in\nwas a tan Ciera at 2:18 a.m.\nUnder the plate number he put\nDLR - I figure they stopped him\nor shot him before he could finish\nfillin' out the tag number."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "So I got the state lookin' for a\nCiera with a tag startin' DLR.\nThey don't got no match yet."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "I'm not sure I agree with you a\nhunnert percent on your policework,\nthere, Lou."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Yah?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah, I think that vehicle there\nprobly had dealer plates.  DLR?"
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Oh..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lou gazes out the window, thinking."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "...  Geez."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah.  Say, Lou, ya hear the one\nabout the guy who couldn't afford\npersonalized plates, so he went\nand changed his name to J2L 4685?"
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Yah, that's a good one."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah."
+  },
+  {
+   "type": "stage direction",
+   "text": "THE ROAD\nThe police car enters with a whoosh and hums down a straight-\nruled empty highway, cutting a landscape of flat and perfect\nwhite.\nEMBERS FAMILY RESTAURANT\nJerry, Wade, and Stan Grossman sit in a booth, sipping\ncoffee.  Outside the window, snow falls from a gunmetal sky."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "-  All's I know is, ya got a\nproblem, ya call a professional!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No!  They said no cops!  They were\ndarned clear on that, Wade!  They\nsaid you call the cops and we -"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Well, a course they're gonna say\nthat!  But where's my protection?\nThey got Jean here!  I give these\nsons a bitches a million dollars,\nwhere's my guarantee they're gonna\nlet her go."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, they -"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "A million dollars is a lot a damn\nmoney!  And there they are, they\ngot my daughter!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, but think this thing through\nhere, Wade.  Ya give 'em what they\nwant, why wont' they let her go?\nYou gotta listen to me on this one,\nWade."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Heck, you don't know!  You're just\nwhistlin' Dixie here!  I'm sayin',\nthe cops, they can advise us on\nthis!  I'm sayin' call a professional!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No!  No cops!  That's final!  This\nis my deal here, Wade!  Jean is\nmy wife here!"
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "I gotta tell ya, Wade, I'm leanin'\nto Jerry's viewpoint here."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Well -"
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "We gotta protect Jean.  These -\nwe're not holdin' any cards here,\nWade, they got all of 'em.  So\nthey call the shots."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "You're darned tootin'!"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Ah, dammit!"
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "I'm tellin' ya."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Well...  Why don't we..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He saws a finger under his nose."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "...  Stan, I'm thinkin' we should\noffer 'em half a million."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Now come on here, no way, Wade!\nNo way!"
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "We're not horse-trading here, Wade,\nwe just gotta bite the bullet on\nthis thing."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah!"
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "What's the next step here, Jerry?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "They're gonna call, give me\ninstructions for a drop.  I'm\nsupposed to have the money ready\ntomorrow."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Dammit!"
+  },
+  {
+   "type": "stage direction",
+   "text": "THE CASHIER\nShe rings up two dollars forty."
+  },
+  {
+   "type": "speech",
+   "character": "CASHIER",
+   "text": "How was everything today?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, real good now."
+  },
+  {
+   "type": "stage direction",
+   "text": "PARKING LOT\nSnow continues to fall.  Jerry and Stan stand bundled in\ntheir parkas and galoshes near a row of beached vehicles.\nWade sits behind the wheel of an idling Lincoln, waiting for\nStan."
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "Okay.  We'll get the money together.\nDon't worry about it, Jerry.  Now,\nd'you want anyone at home, with you,\nuntil they call?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No, I - they don't want - they're\njust s'posed to be dealin' with\nme, they were real clear."
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "Yah."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry pounds his mittened hands together against the cold."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Ya know, they said no one listenin'\nin, they'll be watchin', ya know.\nMaybe it's all bull, but like you\nsaid, Stan, they're callin' the\nshots."
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "Okay.  And Scotty, is he gonna\nbe all right?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, geez, Scotty.  I'll go talk\nto him."
+  },
+  {
+   "type": "stage direction",
+   "text": "There is a tap at the horn from Wade, and Stan gets into the\nLincoln."
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "We'll call."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Lincoln spits snow as it grinds out of the lot and\nfishtails out onto the boulevard.\nSCOTTY'S BEDROOM\nScotty lies on the bed, weeping.  Jerry enters and perches\nuncomfortably on the edge of his bed."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  How ya doin' there, Scotty?"
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT",
+   "text": "Dad!  What're they doing?  Wuddya\nthink they're doin' with Mom?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "It's okay, Scotty.  They're not\ngonna want to hurt her any.\nThese men, they just want money,\nsee."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT",
+   "text": "What if - what if sumpn goes wrong?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No, no, nothin's goin' wrong here.\nGrandad and I, we're - we're makin'\nsure this gets handled right."
+  },
+  {
+   "type": "stage direction",
+   "text": "Scott snorfles and sits up."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT",
+   "text": "Dad, I really think we should call\nthe cops."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No!  We can't let anyone know about\nthis thing!  We gotta play ball with\nthese guys - you ask Stan Grossman,\nhe'll tell ya the same thing!"
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT",
+   "text": "Yeah, but -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "We're gonna get Mom back for ya, but\nwe gotta play ball.  Ya know, that's\nthe deal.  Now if Lorraine calls, or\nSylvia, you just say that Mom is in\nFlorida with Pearl and Marty..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Scotty starts to weep again.  Jerry stares down at his lap."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  That's the best we can do here."
+  },
+  {
+   "type": "location",
+   "text": "EXT. CABIN"
+  },
+  {
+   "type": "stage direction",
+   "text": "It is a lakeside cabin surrounded by white.  A brown Ciera\nwith dealer plates is pulling into the drive.\nGrimsrud climbs out of the passenger seat as Carl climbs out\nof the driver's.  Grimsrud opens the back door and, with an\narm on her elbow, helps Jean out.  She has her hands tied\nbehind her and a black hood over her head.\nWith a cry, she swings her elbow out of Grimsrud's grasp and\nlurches away across the front lawn.  Grimsrud moves to\nretrieve her but Carl, grinning, lays a hand on his\nshoulder."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Hold it."
+  },
+  {
+   "type": "stage direction",
+   "text": "They both look out at the front lawn, Grimsrud\nexpressionless, Carl smiling.\nWith muffled cries, the hooded woman lurches across the\nunbroken snow, staggering this way and that, stumbling on\nthe uneven terrain.\nShe stops, stands still, her hooded head swaying.\nShe lurches out in an arbitrary direction.  Going downhill,\nshe reels, staggers, and falls face-first into the snow,\nweeping."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Ha ha ha ha ha ha!  Jesus!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud, still expressionless, breaks away from Carl's\nrestraining hand to retrieve her.\nBRAINERD POLICE HEADQUARTERS\nWe track behind Marge as she makes her way across the floor,\ngreeting various officers.  She holds a small half-full\npaper sack.\nBeyond her we see a small glassed-in cublcle.  Norm sits at\nthe desk inside with a box lunch spread out in front of him.\nThere is lettering on the cubicle's glass door:  BRAINERD\nPD. CHIEF GUNDERSON.\nMarge enters and sits behind the desk, detaching her walkie-\ntalkie from her utility belt to accomodate the seat."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Hiya, hon."
+  },
+  {
+   "type": "stage direction",
+   "text": "She slides the paper sack toward him."
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Brought ya some lunch, Margie.\nWhat're those, night crawlers?"
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks inside.\nThe bottom of the sack is full of fat, crawling earthworms."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Thanks, hon."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "You bet.  Thanks for lunch.  What\ndo we got here, Arbie's?"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "stage direction",
+   "text": "She starts eating."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  How's the paintin' goin'?"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Pretty good.  Found out the Hautmans\nare entering a painting this year."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Aw, hon, you're better'n them."
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "They're real good."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "They're good, Norm, but you're\nbetter'n them."
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Yah, ya think?"
+  },
+  {
+   "type": "stage direction",
+   "text": "He leans over and kisses her."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Ah, ya got Arbie's all o'er me."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lou enters."
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Hiya, Norm, how's the paintin'\ngoin'?"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Not too bad.  You know."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "How we doin' on that vehicle?"
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "No motels registered any tan Ciera\nlast night.  But the night before,\ntwo men checked into the Blue Ox\nregistering a Ciera and leavin' the\ntag space blank."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Geez, that's a good lead.  The\nBlue Ox, that's that trucker's\njoint out there on I-35?"
+  },
+  {
+   "type": "speech",
+   "character": "LOU",
+   "text": "Yah.  Owner was on the desk then,\nsaid these two guys had company."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, yah?"
+  },
+  {
+   "type": "location",
+   "text": "EXT. STRIPPER CLUB"
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge's prowler is parked in an otherwise empty lot.  Snow\ndrifts down."
+  },
+  {
+   "type": "location",
+   "text": "INT. STRIPPER CLUB"
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge sits talking with two young women at one end of an\nelevated dance platform.  The club, not yet open for\nbusiness, is deserted."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Where you girls from?"
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER ONE",
+   "text": "Chaska."
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER TWO",
+   "text": "LeSeure.  But I went to high school\nin White Bear Lake."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Okay, I want you to tell me what\nthese fellas looked like."
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER ONE",
+   "text": "Well, the little guy, he was\nkinda funny-looking."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "In what way?"
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER ONE",
+   "text": "I dunno.  Just funny-looking."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Can you be any more specific?"
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER ONE",
+   "text": "I couldn't really say.  He wasn't\ncircumcised."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Was he funny-looking apart from\nthat?"
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER ONE",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "So you were having sex with the\nlittle fella, then?"
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER ONE",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Is there anything else you can\ntell me about him?"
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER ONE",
+   "text": "No.  Like I say, he was funny-looking.\nMore'n most people even."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "And what about the other fella?"
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER TWO",
+   "text": "He was a little older.  Looked like\nthe Marlboro man."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah?"
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER TWO",
+   "text": "Yah.  Maybe I'm sayin' that cause\nhe smoked Marlboros."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER TWO",
+   "text": "A subconscious-type thing."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah, that can happen."
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER TWO",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER ONE",
+   "text": "They said they were goin' to the\nTwin Cities?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, yah?"
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER TWO",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "HOOKER ONE",
+   "text": "Yah.  Is that useful to ya?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, you bet, yah."
+  },
+  {
+   "type": "location",
+   "text": "EXT. LAKESIDE CABIN"
+  },
+  {
+   "type": "stage direction",
+   "text": "It is now dusk.  The brown Ciera with dealer plates still\nsits in the drive."
+  },
+  {
+   "type": "location",
+   "text": "INT. CABIN"
+  },
+  {
+   "type": "stage direction",
+   "text": "We track in on Jean Lundegaard, who sits tied in a chair\nwith the black hood still over her head.  As we track in, we\nhear inarticulate cursing, intermittent banging and loud\nstatic.\nWe track in on Gaear Grimsrud, who sits smoking a cigarette\nand expressionlessly gazing offscreen.\nWe track in on Carl Showalter, who stands over an old black-\nand-white television.  It plays nothing but snow.  Carl is\nbanging on it as he mutters:"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...days ... be here for days with\na - DAMMIT! - a goddamn mute ...\nnothin' to do ... and the fucking -\nDAMMIT!..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Each \"dammit\" brings a pound of his fist on the TV."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  TV doesn't even ... plug me\nin, man...  Gimmee a - DAMMIT! -\nsignal...  Plug me into the\nozone, baby...  Plug me into the\nozone - FUCK!..."
+  },
+  {
+   "type": "stage direction",
+   "text": "With one last bang we cut:\nBACK TO THE TELEVISION SET\nIn extreme close-up an insect is lugging a worm."
+  },
+  {
+   "type": "speech",
+   "character": "TV VOICE-OVER",
+   "text": "The bark beetle carries the worm\nto the nest ... where it will feed\nits young for up to six weeks..."
+  },
+  {
+   "type": "stage direction",
+   "text": "A pull back from the screen reveals that we are in Marge's\nhouse.\nMarge and Norm are watching television in bed.  From the TV\nwe hear insects chirring.\nAfter a long beat, silence except for the TV, Marge murmurs,\nstill looking at the set:"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Well, I'm turnin' in, Norm."
+  },
+  {
+   "type": "stage direction",
+   "text": "Also looking at the TV:"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "...  Oh, yah?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge rolls over and Norm continues to watch.\nWe hold.\nBLACK\nHold.\nA snowflake drops through the black.\nAnother flake.\nIt starts snowing.\nBRAINERD MAIN STREET\nThe lone traffic light blinks slowly, steadily, red.  Snow\nsifts down.  There is no other movement.\nPAUL BUNYAN\nWe are looking up at the bottom-lit statue.  Snow falls.\nHIGH SHOT OF MARGE'S HOUSE\nSnow drops away.\nHIGH SHOT IN MARGE'S BEDROOM\nThe bedroom is dark.  Norm is snoring.\nThe phone rings.\nMarge gropes in the dark."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Hello?"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yah, is this Marge?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah?"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Margie Olmstead?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Well, yah.  Who's this?"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "This is Mike Yanagita.  Ya know\n- Mike Yanagita.  Remember me?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Mike Yanagita!"
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Yah!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge props herself up next to the still-sleeping Norm."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah, yah, course I remember.\nHow are ya?  What time is it?"
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Oh, geez.  It's quarter to eleven.\nI hope I dint wake you."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "No, that's okay."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Yah, I'm down in the Twin Cities\nand I was just watching on TV\nabout these shootings up in\nBrainderd, and I saw you on the\nnews there."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "I thought, geez, is that Margie\nOlmstead?  I can't believe it!"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah, that's me."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Well, how the heck are ya?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Okay, ya know.  Okay."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Yah?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah - how are you doon?"
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Oh, pretty good."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Heck, it's been such a long time,\nMike.  It's great to hear from ya."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Yah...  Yah, yah.  Geeze, Margie!"
+  },
+  {
+   "type": "stage direction",
+   "text": "GUSTAFSON OLDS GARAGE\nJerry is on the sales floor, showing a customer a vehicle."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, ya got yer, this loaded here,\nthis has yer independent, uh, yer\nslipped differential, uh, yer rack-\nand-pinion steering, yer alarm and\nradar, and I can give it to ya with\na heck of a sealant, this TruCoat\nstuff, it'll keep the salt off -"
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "Yah, I don't need no sealant though."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, you don't need that.  Now\nwere you thinking of financing here?\nYou oughta be aware a this GMAC\nplan they have now, it's really\nsuper -"
+  },
+  {
+   "type": "speech",
+   "character": "ANOTHER SALESMAN",
+   "text": "Jerry, ya got a call here."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, okay."
+  },
+  {
+   "type": "stage direction",
+   "text": "JERRY'S CUBICLE\nHe sits in and picks up his phone."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Jerry Lundegaard."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "All right, Jerry, you got this\nphone to yourself?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well ... yah."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Know who this is?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, yah, I got an idea.  How's\nthat Ciera workin' out for ya?"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Circumstances have changed, Jerry."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, what do ya mean?"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Things have changed.  Circumstances,\nJerry.  Beyond the, uh ... acts of\nGod, force majeure..."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "What the - how's Jean?"
+  },
+  {
+   "type": "stage direction",
+   "text": "A beat."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Who's Jean?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "My wife!  What the - how's -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Oh, Jean's okay.  But there's\nthree people up in Brainerd who\naren't so okay, I'll tell ya that."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "What the heck're you talkin' about?\nLet's just finish up this deal\nhere -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Blood has been shed, Jerry."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry sits dumbly.  The voice solemnly repeats:"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Blood has been shed."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "What the heck d'ya mean?"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Three people.  In Brainerd."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Oh, geez."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "That's right.  And we need more\nmoney."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "The heck d'ya mean?  What a you\nguys got yourself mixed up in?"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "We need more -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "This was s'posed to be a no-rough\n-stuff-type deal -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "DON'T EVER INTERRUPT ME, JERRY!\nJUST SHUT THE FUCK UP!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, I'm sorry, but I just - I -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Look.  I'm not gonna debate you,\nJerry.  The price is now the whole\namount.  We want the entire eighty\nthousand."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Oh, for Chrissakes here -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Blood has been shed.  We've incurred\nrisks, Jerry.  I'm coming into town\ntomorrow.  Have the money ready."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Now we had a deal here!  A deal's\na deal!"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "IS IT, JERRY?  You ask those three\npour souls up in Brainerd if a\ndeal's a deal!  Go ahead, ask 'em!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  The heck d'ya mean?"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "I'll see you tomorrow."
+  },
+  {
+   "type": "stage direction",
+   "text": "Click.\nJerry slams down the phone, which immediately rings.  He\nangrily snatches it up."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah!"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Jerome Lundegaard?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah!"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "This is Reilly Deifenbach at GMAC.\nSir, I have not yet recieved those\nvehicle IDs you promised me."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah!  I ... those are in the mail."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Mr. Lundegaard, that very well may\nbe.  I must inform you, however,\nthat absent the reciept of those\nnumbers by tomorrow afternoon, I\nwill have to refer this matter to\nour legal department."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "My patience is at an end."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Good day, sir."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Yah."
+  },
+  {
+   "type": "stage direction",
+   "text": "WIDE ON THE CUBICLE\nWe are looking at Jerry's cubicle from across the showroom.\nNoise muted by distance, we watch Jerry slam down the\nreciever, rise to his feet, fling the phone to the floor,\nraise his desk blotter high over his head with pens and\npencils rolling off it and slam it onto his desktop.\nHe stands for a moment, hands on hips, glaring.\nHe stoops and picks up the phone, places it back on the\ndesktop, starts picking up the pens and pencils.\nTRACK\nOn steam-table bins of food, each identified by a plaque:\nBEEF STROGANOFF, SWEDISH MEATBALLS, BROILED TORSK, CHICKEN\nFLORENTINE.\nA complementary track shows two rays being pushed along a\nbuffet line, piled high with many foods.\nMARGE AND NORM AT A TABLE\nThey sit next to each other at a long cafateria-style\nFormica table, silently eating.\nA hip with a hissing walkie-talkie enters frame."
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "Hiya, Norm.  How ya doin', Margie?\nHow's the fricasse?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Pretty darn good, ya want some?"
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "No, I gotta - hey, Norm, I thought\nyou were goin' fishin' up at Mile\nLacs?"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Yah, after lunch."
+  },
+  {
+   "type": "stage direction",
+   "text": "He goes back to his food."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Whatcha got there?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Gary hands her a flimsy.  Marge takes it with one hand and\nlooks, her other hand frozen with a forkful of food."
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "The numbers y'asked for, calls\nmade from the lobby pay phone\nat the Blue Ox.  Two to Minneapolis\nthat night."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Mm."
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "First one's a trucking company,\nsecond one's a private residence.\nA Shep Proudfoot."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Uh-huh...  A what?"
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "Shep Proudfoot.  That's a name."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Yah, okay, I think I'll\ndrive down there, then."
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "Oh, yah?  Twin Cities?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Norm, who has been eating steadily throughout, looks over at\nMarge with mild interest.  He stares for a beat as he\nfinishes chewing, and them swallows and says:"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "...  Oh, yah?"
+  },
+  {
+   "type": "stage direction",
+   "text": "KITCHEN OF LUNDEGAARD HOUSE\nJerry, Wade, and Stan Grossman sit around the kitchen table.\nIt is night.  The scene is harshly toplit by a hanging\nfixture.  On the table are the remains of coffee and a\ncinammon filbert ring."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Dammit!  I wanna be a part a\nthis thing!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No, Wade!  They were real clear!\nThey said they'd call tomorrow,\nwith instructions, and it's gonna\nbe delivered by me alone!"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "It's my money, I'll deliver it\n- what do they care?"
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "Wade's got a point there.  I'll\nhandle the call if you want, Jerry."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No, no.  See - they, no, see, they\nonly deal with me.  Ya feel this,\nthis nervousness on the phone there,\nthey're very - these guys're\ndangerous -"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "All the more reason!  I don't want\nyou - with all due respect, Jerry\n- I don't want you mucking this up."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "The heck d'ya mean?"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "They want my money, they can deal\nwith me.  Otherwise I'm goin' to\na professional."
+  },
+  {
+   "type": "stage direction",
+   "text": "He points at a briefcase."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "...  There's a million dollars\nhere!"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No, see -"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Look, Jerry, you're not sellin'\nme a damn car.  It's my show here.\nThat's that."
+  },
+  {
+   "type": "speech",
+   "character": "STAN",
+   "text": "It's the way we prefer to handle\nit, Jerry."
+  },
+  {
+   "type": "stage direction",
+   "text": "THE DOWNTOWN RADISSON HOTEL\nMarge is at the reception desk."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "How ya doin'?"
+  },
+  {
+   "type": "speech",
+   "character": "CLERK",
+   "text": "Real good.  How're you today, ma'am?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Real good.  I'm Mrs. Gunderson, I\nhave a reservation."
+  },
+  {
+   "type": "stage direction",
+   "text": "The clerk types into a computer console."
+  },
+  {
+   "type": "speech",
+   "character": "CLERK",
+   "text": "You sure do, Mrs. Gunderson."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Is there a phone down here, ya think?"
+  },
+  {
+   "type": "stage direction",
+   "text": "LOBBY CORNER\nMarge is on a public phone."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Detective Sibert?  Yah, this\nis Marge Gunderson from up Brainerd,\nwe spoke -  Yah.  Well, actually\nI'm in town here.  I had to do a\nfew things in the Twin Cities, so\nI thought I'd check in with ya about\nthat USIF search on Shep Proudfoot...\nOh, yah?...  Well, maybe I'll go\nvisit with him if I have the...  No,\nI can find that...  Well, thanks a\nbunch.  Say, d'ya happen to know a\ngood place for lunch in the downtown\narea?...  Yah, the Radisson...  Oh,\nyah?  Is it reasonable?"
+  },
+  {
+   "type": "stage direction",
+   "text": "A GREEN FREEWAY SIGN\nThrough a windshield we see a sign for the MINNEAPOLIS\nINTERNATIONAL AIRPORT.\nROOFTOP PARKING LOT\nThe brown Ciera enters and drives lazy S-curves around the\nfew snow-covered cars parked on the roof of the lot.\nIt stops by one car and Carl emerges.  He quickly scans the\nlot, then kneels in the snow at the back of the parked car\nand starts unscrewing its license plate.\nEXIT BOOTH\nCarl pulls up and hands the attendant his ticket."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Yeah, I decided not to park here."
+  },
+  {
+   "type": "stage direction",
+   "text": "The attendant frowns uncomprehendingly at the ticket."
+  },
+  {
+   "type": "speech",
+   "character": "ATTENDANT",
+   "text": "...  What do you mean, you decided\nnot to park here?"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Yeah, I just came in.  I decided\nnot to park here."
+  },
+  {
+   "type": "stage direction",
+   "text": "The attendant is still puzzled."
+  },
+  {
+   "type": "speech",
+   "character": "ATTENDANT",
+   "text": "You, uh...  I'm sorry, sir, but -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "I decided not to - I'm, uh, not\ntaking the trip as it turns out."
+  },
+  {
+   "type": "speech",
+   "character": "ATTENDANT",
+   "text": "I'm sorry, sir, we do have to\ncharge you the four dollars."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "I just pulled in here.  I just\nfucking pulled in here!"
+  },
+  {
+   "type": "speech",
+   "character": "ATTENDANT",
+   "text": "Well, see, there's a minimum charge\nof four dollars.  Long-term parking\ncharges by the day."
+  },
+  {
+   "type": "stage direction",
+   "text": "A car behind beeps.  Carl glances back, starts digging for\nmoney."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "I guess you think, ya know, you're\nan authority figure.  With that\nstupid fucking uniform.  Huh, buddy?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The attendant doesn't say anything."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  King Clip-on Tie here.  Big\nfucking man."
+  },
+  {
+   "type": "stage direction",
+   "text": "He is peeling off one dollar bills."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  You know, these are the limits\nof your life, man.  Ruler of your\nlittle fucking gate here.  There's\nyour four dollars.  You pathetic\npiece of shit."
+  },
+  {
+   "type": "stage direction",
+   "text": "GUSTAFSON OLDS GARAGE\nJerry is staring up, mouth agape, at the underside of a car\non a hydraulic lift.  Bewildered, he looks about, then asks\na mechanic passing by, his voice raised over the din of the\nshop."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Where's Shep?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The mechanic points."
+  },
+  {
+   "type": "speech",
+   "character": "MECHANIC",
+   "text": "Talkin' to a cop."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry looks."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Cop?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge and Shep face each other at the other end of the floor\nin a grimy and cluttered glassed-in cubicle."
+  },
+  {
+   "type": "speech",
+   "character": "MECHANIC",
+   "text": "Said she was a policewoman."
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge and Shep silently talk.\nJerry stares, swallows.\nINSIDE THE CUBICLE"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "- Wednesday night?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Shep is shaking his head."
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Nope."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Well, you do reside their at\n1425 Fremont Terrace?"
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Yep."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Anyone else residing there?"
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Nope."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Well, Mr. Proudfoot, this call\ncame in past three in the morning.\nIt's just hard for me to believe\nyou can't remember anyone calling."
+  },
+  {
+   "type": "stage direction",
+   "text": "Shep says nothing."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Now, I know you've had some\nproblems, struggling with the\nnarcotics, some other entanglements,\ncurrently on parole -"
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "So?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Well, associating with criminals,\nif you're the one they talked to,\nthat right there would be a\nviolation of your parole and would\nend with you back in Stillwater."
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Now, I saw some rough stuff on\nyour priors, but nothing in the\nnature of a homicide..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Shep stares at her."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  I know you don't want to be\nan accessory to something like\nthat."
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Nope."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "So you think you might remember\nwho those folks were who called\nya?"
+  },
+  {
+   "type": "stage direction",
+   "text": "JERRY'S OFFICE\nJerry is worriedly pacing behind his desk.  At a noise he\nlooks up.\nMarge has stuck her head in the door."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Mr. Lundegaard?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Huh?  Yah?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "I wonder if I could take just a\nminute of your time here -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "What...  What is it all about?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Huh?  Do you mind if I sit down\n- I'm carrying quite a load here."
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge plops into the chair opposite him."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  You're the owner here, Mr.\nLundegaard?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Naw, I...  Executive Sales Manager."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Well, you can help me.  My name's\nMarge Gunderson -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "My father-in-law, he's the owner."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Uh-huh.  Well, I'm a police officer\nfrom up Brainerd investigating some\nmalfeasance and I was just wondering\nif you've had any new vehicles stolen\noff the lot in the past couple of\nweeks - specifically a tan Cutlass\nCiera?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry stares at her, his mouth open."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Mr. Lundegaard?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Brainerd?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah.  Yah.  Home a Paul Bunyan and\nBabe the Blue Ox."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Babe the Blue Ox?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah, ya know we've got the big\nstatue there.  So you haven't had\nany vehicles go missing, then?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No.  No, ma'am."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Okey-dokey, thanks a bunch.  I'll\nlet you get back to your paperwork,\nthen."
+  },
+  {
+   "type": "stage direction",
+   "text": "As Marge rises, Jerry looks blankly down at the papers on\nthe desk in front of him."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Yah, okay."
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks up at Marge's retreating back.  He looks back down\nat the papers.  He looks over at the phone.\nhe picks up the phone and dials four digits."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Yah, gimmee Shep...  The\nheck d'ya mean?...  Well, where'd\nhe go?  It's only...  No, I don't\nneed a mechanic - oh, geez - I\ngotta talk to a friend of his, so,\nuh ... have him, uh ... oh, geez..."
+  },
+  {
+   "type": "stage direction",
+   "text": "HOTEL BAR\nMarge enters.  She looks around the bar, a rather\ncharacterless, lowlit meeting place for business people."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Marge?"
+  },
+  {
+   "type": "stage direction",
+   "text": "It is a bald, paunching man of about Marge's age, rising\nfrom a booth halfway back.  His features are broad,\nfriendly, Asian-American."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Mike!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He approaches somewhat carefully, as if on his second drink.\nThey hug and head back toward the booth."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Geez!  You look great!"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah - easy there - you do too!\nI'm expecting, ya know."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "I see that!  That's great!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A waitress meets them at the table."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "...  What can I get ya?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Just a Diet Coke."
+  },
+  {
+   "type": "stage direction",
+   "text": "Again she glances about."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  This is a nice place."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Yah, ya know it's the Radisson,\nso it's pretty good."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "You're livin' in Edina, then?"
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Oh, yah, couple years now.  It's\nactually Eden Prarie - that school\ndistrict.  So Chief Gunderson, then!\nSo ya went and married Norm Son-of-\na-Gunderson!"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, yah, a long time ago."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Great.  What brings ya down - are\nya down here on that homicide -\nif you're allowed, ya know, to\ndiscuss that?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, yah, but there's not a heckuva\nlot to discuss.  What about you,\nMike?  Are you married - you have\nkids?"
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Well, yah, I was married.  I was\nmarried to -  You mind if I sit\nover here?"
+  },
+  {
+   "type": "stage direction",
+   "text": "He is sliding out of his side of the booth and easing in\nnext to Marge."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "...  I was married to Linda\nCooksey -"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "No, I -  Mike - wyncha sit over\nthere, I'd prefer that."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Huh?  Oh, okay, I'm sorry."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "No, just so I can see ya, ya know.\nDon't have to turn my neck."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Oh, sure, I unnerstand, I didn't\nmean to -"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "No, no, that's fine."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Yah, sorry, so I was married to\nLinda Cooksey - ya remember Linda?\nShe was a year behind us."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "I think I remember Linda, yah.\nShe was - yah.  So things didn't\nwork out, huh?"
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "And then I, and then I been workin'\nfor Honeywell for a few years now."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Well, they're a good outfit."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Yah, if you're an engineer, yah,\nyou could do a lot worse.  Of\ncourse, it's not, uh, it's\nnothin' like your achievement."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "It sounds like you're doin' really\nsuper."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Yah, well, I, uh ... it's not that\nit didn't work out -  Linda passed\naway.  She, uh..."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "I'm sorry."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Yah, I, uh...  She had leukemia,\nyou know..."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "No, I didn't..."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "It was a tough, uh ... it was a\nlong -  She fought real hard,\nMarge..."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "I'm sorry, Mike."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "Oh, ya know, that's, uh - what\ncan I say?..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He holds up his drink."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "...  Better times, huh?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge clinks it."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Better times."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "I was so...  I been so ... and\nthen I saw you on TV, and I\nremembered, ya know...  I always\nliked you..."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Well, I always liked you, Mike."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "I always liked ya so much..."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "It's okay, Mike -  Should we get\ntogether another time, ya think?"
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "No - I'm sorry!  It's just -  I\nbeen so lonely - then I saw you,\nand..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He is weeping."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "...  I'm sorry...  I shouldn't a\ndone this...  I thought we'd have\na really terrific time, and now\nI've..."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "It's okay..."
+  },
+  {
+   "type": "speech",
+   "character": "MIKE",
+   "text": "You were such a super lady ...\nand then I...  I been so lonely..."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "It's okay, Mike..."
+  },
+  {
+   "type": "stage direction",
+   "text": "CARLTON CELEBRITY ROOM\nCarl Showalter is sitting at a small table with a tarty-\nlooking blonde in a low-cut gown.  Each holds a drink."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Just in town on business.  Just\nin and out.  Ha ha!  A little of\nthe old in-and-out!"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "Wuddya do?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Carl looks around."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Have ya been to the Celebrity Room\nbefore?  With other, uh, clients?"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "I don't think so.  It's nice."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Yeah, well, it depends on the artist.\nYou know, Jose Feliciano, ya got no\ncomplaints.  Waiter!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The reverse shows a disappearing waiter and the backs of\nmany, many people sitting at tables between us and the very\ndistant stage.  Jose Feliciano, very small, performs on a\nspotlit stool.  The acoustics are poor.\nCarl grimaces."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  What is he, deaf?...  So,\nuh, how long have you been with\nthe escort service?"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "I don't know.  Few munce."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Ya find the work interesting, do ya?"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "...  What're you talking about?"
+  },
+  {
+   "type": "stage direction",
+   "text": "A DIRTY BEDROOM\nCarl is humping the escort.\nWe hear the door burst open.\nThe escort is grabbed and flung out of bed."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Shep!  What the hell are you doing?\nI'm banging that girl!  Shep!  Jesus\nCh -"
+  },
+  {
+   "type": "stage direction",
+   "text": "Shep slaps him hard, forehand, backhand."
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Fuck out of my house!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He hauls him up -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Shep!  Don't you dare fucking hit\nme, man!  Don't you -"
+  },
+  {
+   "type": "stage direction",
+   "text": "- punches him and flings him away.\nCarl hits a sofa and we see his bare legs disappear as he\nflips back over it.\nShep enters frame to circle the sofa and kick at Carl behind\nit."
+  },
+  {
+   "type": "speech",
+   "character": "SHEP",
+   "text": "Fuck outta here.  Put me back in\nStillwater.  Little fucking shit."
+  },
+  {
+   "type": "stage direction",
+   "text": "There is a knock at the door."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Hey!  Come on in there!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Shep strides to the door, flings it open.\nA man in boxer shorts stands in the doorway."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "C'mon, brother, it's late -  Unghh!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Shep hits him twice, then grabs both of his ears and starts\nbanging his head against the wall.\nThe hooker runs by, clutching her clothes, and Shep kicks\nher in the ass as she passes.\nHe spins and goes back into the apartment.\nCarl is hopping desperately into his pants."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Stay away from me, man!  Hey!\nSmoke a fuckin' peace pipe, man!\nDon't you dare fuckin' -  Unghh!"
+  },
+  {
+   "type": "stage direction",
+   "text": "After hitting him several times, Shep yanks Carl's belt out\nof his dangling pants and strangles him with it.  Carl\ngurgles.  Shep knees Carl repeatedly, then dumps him onto\nthe floor and starts whipping him with the buckle end of the\nbelt.\nCHAIN RESTAURANT PHONE BOOTH\nCarl listens to the phone ring at the other end.  His face\nis deeply bruised and cut.\nFinally, through the phone..."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "...  Yah?"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "All right, Jerry, I'm through\nfucking around.  You got the\nfucking money?"
+  },
+  {
+   "type": "stage direction",
+   "text": "JERRY'S KITCHEN\nJerry is at the kitchen phone.  Through the door to the\ndining room we see Wade picking up an extension."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, I got the money, but, uh -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Don't you fucking but me, Jerry.\nI want you with this money on the\nDayton-Radisson parking ramp, top\nlevel, thirty minutes, and we'll\nwrap this up."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, okay, but, uh -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "You're there in thirty minutes or\nI find you, Jerry, and I shoot\nyou, and I shoot your fucking wife,\nand I shoot all your little fucking\nchildren, and I shoot 'em all in the\nback of their little fucking heads.\nGot it?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  Yah, well, you stay away from\nScotty now -"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "GOT IT?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Okay, real good, then."
+  },
+  {
+   "type": "stage direction",
+   "text": "The line goes dead.\nA door slams offscreen."
+  },
+  {
+   "type": "location",
+   "text": "EXT. HOUSE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Wade, briefcase in hand, gets into his Cadillac, slams the\ndoor and peels out."
+  },
+  {
+   "type": "location",
+   "text": "INT. CAR"
+  },
+  {
+   "type": "stage direction",
+   "text": "Wade's jaw works as he glares out at traffic.  He mumbles to\nhimself as he drives."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Okay ... here's your damn money,\nnow where's my daughter?...\nGoddamn punk ... where's my damn\ndaughter..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He pulls out a gun, cracks the barrel, peers in."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "...  You little punk."
+  },
+  {
+   "type": "stage direction",
+   "text": "JERRY'S HOUSE\nJerry sits in the foyer, trying to pull on pair of galoshes.\nScotty's voice comes from upstairs:"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "...  Dad?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "It's okay, Scotty."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Where're you going?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Be back in a minute.  If Stan\ncalls you, just tell him I went\nto Embers.  Oh, geez -"
+  },
+  {
+   "type": "stage direction",
+   "text": "Thunk! - his first boot goes on.\nRADISSON\nMarge sits on the bed in her hotel room, shoes off,\nmassaging her feet.  The phone is pressed to her ear, and\nthrough it, we hear ringing."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "...  Hello?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Norm?"
+  },
+  {
+   "type": "stage direction",
+   "text": "MILLE LACS LAKE\nIt is late evening, blowing storm.  A leisurely pan across\nthe bleak gray expanse finds a little hut in the middle of\nthe frozen lake with a pickup truck parked next to it."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE'S VOICE",
+   "text": "They bitin'?"
+  },
+  {
+   "type": "location",
+   "text": "INT. HUT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Norm has a cellular phone to his ear.  His feet are\nstretched out to an electric heater.  The interior is bathed\nin soft orange light."
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Yah, okay.  How's the hotel?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, pretty good.  They bitin'?"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Yeah, couple a muskies.  No pike\nyet.  How d'you feel?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, fine."
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Not on your feet too much?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "No, no."
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "You shouldn't be on your feet too\nmuch, you got weight you're not\nused too.  How's the food down\nthere?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Had dinner at a place called the\nKing's Table.  Buffet style.  It\nwas pretty darn good."
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Was it reasonable?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah, not too bad.  So it's nice\nup there?"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Yah, it's good.  No pike yet, but\nit's good."
+  },
+  {
+   "type": "stage direction",
+   "text": "DAYTON-RADISSON RAMP\nThe top, open, level.  Snow blows.  A car sits idling.\nAnother car pulls onto the roof.  It creeps over to the\nparked car and stops.  It continues to idle as its door\nopens and Wade steps out, carrying the briefcase.\nThe door of the other car bangs open and Carl bounces out."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Who the fuck are you?  Who the\nfuck are you?"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "I got your goddamn money, you\nlittle punk.  Now where's my\ndaughter?"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "I am through fucking around!  Drop\nthat fucking briefcase!"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Where's my daughter?"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Fuck you, man!  Where's Jerry?  I\ngave SIMPLE FUCKING INSTRUCTIONS -"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Where's my damn daughter?  No\nJean, no money!"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Drop that fucking money!"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "No Jean, no money!"
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Is this a fucking joke here?"
+  },
+  {
+   "type": "stage direction",
+   "text": "He pulls out a gun and fires into Wade's gut."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Is this a fucking joke?"
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Unghh ... oh, geez..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He is on the pavement, clutching at his gut.  Snow swirls."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "You fucking imbeciles!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He bends down next to Wade to pick up the briefcase."
+  },
+  {
+   "type": "speech",
+   "character": "WADE",
+   "text": "Oh, for Christ ... oh, geez..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Wade brings out his gun and fires at Carl's head, close by."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Oh!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Carl stumbles and falls back, and then stands up again.  His\njaw is gouting blood."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Owwmm..."
+  },
+  {
+   "type": "stage direction",
+   "text": "One hand pressed to his jaw, he fires down at Wade several\ntimes.  Blood streams through the hand pressed to his jaw."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Mmmmmphnck!  He fnkem shop me..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He pockets the gun, picks up the briefcase one-handed,\nflings it into his car, gets in, peels out.\nDOWN RAMP\nCarl screams down the ramp.  He takes a corner at high speed\nand swerves, just missing Jerry in his Olds on his way to\nthe top."
+  },
+  {
+   "type": "location",
+   "text": "INT. JERRY'S CAR"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry recovers from the near miss and continues up."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Oh, geez!"
+  },
+  {
+   "type": "stage direction",
+   "text": "EXIT BOOTH\nCarl squeals to a halt at the gate, still pressing his hand\nto his bleeding jaw."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Ophhem ma fuchem gaphe!"
+  },
+  {
+   "type": "speech",
+   "character": "ATTENDANT",
+   "text": "May I have your ticket, please?"
+  },
+  {
+   "type": "stage direction",
+   "text": "RAMP ROOF\nJerry pulls to a halt next to Wade's idling Cadillac.  He\ngets out and walks slowly to Wade's body, prostrate in the\nswirling snow."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Oh!  Oh, geez!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He bends down, picks Wade up by the armpits and drags him\nover to the back of the Cadillac.  He drops Wade's body,\nwalks to the driver's side of the car, pulls the keys and\nwalks back to pop the trunk.  He wrestles Wade's body into\nthe trunk, slams it shut and walks back to the scene of the\nshooting.\nHe kicks at the snow with his galoshed feet, trying to hide\nthe fresh bloodstains.\nEXIT BOOTH\nJerry approaches in the Cadillac.\nThe wooden gate barring the exit has been broken away.  The\nbooth is empty.\nJerry eases toward the street, looking over at the booth as\nhe passes.\nInside the booth we see the awkwardly angled leg of a\nprostrate body."
+  },
+  {
+   "type": "location",
+   "text": "EXT. JERRY'S HOUSE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The car pulls into the driveway.\nFOYER\nJerry enters and sits on the foyer chair to take off his\ngaloshes."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT'S VOICE",
+   "text": "...  Dad?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT'S VOICE",
+   "text": "Stan Grossman called."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, okay."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT'S VOICE",
+   "text": "Twice."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Okay."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT'S VOICE",
+   "text": "...  Is everything okay?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah."
+  },
+  {
+   "type": "stage direction",
+   "text": "Thoonk - the first boot comes off."
+  },
+  {
+   "type": "speech",
+   "character": "SCOTT'S VOICE",
+   "text": "Are you calling Stan?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well...  I'm goin' ta bed now."
+  },
+  {
+   "type": "stage direction",
+   "text": "CARL'S CAR\nCarl mumbles as he drives, underlit by the dim dash lights,\none hand now holding a piece of rag to his shredded jaw."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Fnnkn ashlzh...  Fnk..."
+  },
+  {
+   "type": "stage direction",
+   "text": "ROAD\nCarl's car roars into frame, violently swirling the snow.\nIts red tail lights fishtail away.\nFADE OUT\nHOLD IN BLACK\nHARD CUT TO:  BRIGHT - LOOKING THROUGH A WINDSHIELD\nIt is a starky sunny day.  We are cruising down a street of\nhumble lookalike houses.\nWe pan right as we draw toward one house in particular.  In\nits driveway a man in a hooded parka shovels snow.  He\nnotices the approaching car and gives its driver a wave.\nThe driver is Gary, the Brainderd police officer.  He gives\na finger-to-the-head salute and pulls over.\nOUTSIDE\nGary slams his door shut and the other man plants his shovel\nin the snow."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "How ya doin'?"
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "Mr. Mohra?"
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "Officer Olson."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Yah, right-o."
+  },
+  {
+   "type": "stage direction",
+   "text": "The two men caucus the driveway without shaking hands and\nwithout standing particularly close.  They stand stiffly,\narms down at their sides and breath streaming out of their\nparka hoods.  Each has an awkward leaning-away posture, head\ndrawn slightly back and chin tucked in, to keep his face\nfrom protruding into the cold."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "...  So, I'm tendin' bar there at\nEcklund && Swedlin's last Tuesday\nand this little guy's drinkin'\nand he says, 'So where can a guy\nfind some action - I'm goin' crazy\ndown there at the lake.'  And I\nsays, 'What kinda action?' and he\nsays, 'Woman action, what do I\nlook like,'  And I says 'Well,\nwhat do I look like, I don't\narrange that kinda thing,' and he\nsays, 'I'm goin' crazy out there\nat the lake' and I says, 'Well,\nthis ain't that kinda place.'"
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "So he says, 'So I get it, so you\nthink I'm some kinda jerk for\naskin',' only he doesn't use the\nword jerk."
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "I unnerstand."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "And then he calls me a jerk and\nsays the last guy who thought he\nwas a jerk was dead now.  So I\ndon't say nothin' and he says, 'What\ndo ya think about that?'  So I\nsays, 'Well, that don't sound like\ntoo good a deal for him then.'"
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "Ya got that right."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "And he says, 'Yah, that guy's dead\nand I don't mean a old age.'  And\nthen he says, 'Geez, I'm goin'\ncrazy out there at the lake.'"
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "White Bear Lake?"
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Well, Ecklund && Swedlin's, that's\ncloser ta Moose Lake, so I made\nthat assumption."
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "Oh sure."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "So, ya know, he's drinkin', so I\ndon't think a whole great deal of\nit, but Mrs. Mohra heard about the\nhomicides out here and she thought\nI should call it in, so I called\nit in.  End a story."
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "What'd this guy look like anyways?"
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Oh, he was a little guy, kinda\nfunny-lookin'."
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "Uh-huh - in what way?"
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Just a general way."
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "Okay, well, thanks a bunch, Mr.\nMohra.  You're right, it's probably\nnothin', but thanks for callin'\nher in."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Oh sure.  They say she's gonna\nturn cold tomorrow."
+  },
+  {
+   "type": "speech",
+   "character": "GARY",
+   "text": "Yah, got a front movin' in."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Ya got that right."
+  },
+  {
+   "type": "stage direction",
+   "text": "CLOSE ON CARL SHOWALTER\nIn his car, now parked, one hand holding the rag pressed to\nhis mangled jaw.  He is staring down at something in the\nfront seat next to him.\nHis other hand holds open the briefcase.  It has money\ninside - a lot of money.\nCarl unfreezes, takes out one of the bank-wrapped wads and\nlooks at it."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Mmmnphh."
+  },
+  {
+   "type": "stage direction",
+   "text": "He paws through the money in the briefcase to get a feeling\nfor the amount."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Jeshush Shrist...  Jeshush\nfuchem Shrist!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Excited, he counts out a bundle of bills and tosses it onto\nthe back seat.\nHe starts to take the rag away from his chin but the layer\npressed against his face sticks, its loose weave bound to\nhis skin by clotted blood.\nHe pulls very gently and winces as blood starts to flow\nagain.\nHe carefully tears the rag in half so that only a bit of it\nremains adhering to his jaw."
+  },
+  {
+   "type": "location",
+   "text": "EXT. CAR"
+  },
+  {
+   "type": "stage direction",
+   "text": "It is pulled over to the side of an untraveled road.  THe\ndoor opens and Carl emerges with the briefcase.\nHe slogs through the snow, down a gulley and up the\nembankment to a barbed-wire fence.  He kneels at one of the\nfence posts and frantically digs into the snow with his bare\nhands, throws in the briefcase and covers it back up.\nHe stands and tries to beat the circulation back into his\nred, frozen hands.\nHe looks to the right.\nA regular line of identical fence posts stretches away\nagainst unblemished white.\nHe looks to the left.\nA regular line of identical fence posts stretches away\nagainst unblemished white.\nHe looks at the fence post in front of him."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Mmmphh..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks about the snowy vastness for a marker.  Finding\nnone, he kicks the fence post a couple of times, failing to\nscar or tilt it, then hurriedly plants a couple of sicks up\nagainst the post.\nHe bends down, scoops up a handful of snow, presses it\nagainst his wounded jaw, and lopes back to the idling car.\nHOTEL ROOM\nMarge has a packed overnight back sitting on the unmade bed.\nShe is ready to leave, already wearing her parka, but is on\nthe phone."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "No, I'm leavin' this mornin', back\nup to Brainerd."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Well, I'm sorry I won't see ya."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Mm.  But ya think he's all right?\nI saw him last night and he's -"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "What'd he say?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Well, it was nothin' specific\nhe said, it just seemd like it\nall hit him really hard, his\nwife dyin' -"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "His wife?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Linda."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Linda Cooksey?"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "No.  No.  No.  They weren't -\nhe, uh, he was bothering Linda\nfor about, oh, for a good year.\nReally pestering her, wouldn't\nleave her alone."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "So ... they didn't..."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "No.  No.  They never married.\nMike's had psychiatric problems."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh.  Oh, my."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yah, he - he's been struggling.\nHe's living with his parents now."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh.  Geez."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yah, Linda's fine.  You should\ncall her."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Geez.  Well - geez.  That's a\nsuprise."
+  },
+  {
+   "type": "stage direction",
+   "text": "MARGE'S CAR\nMarge drives, gazing out at the road.\nMARGE AT A DRIVE-THROUGH\nShe leans out of her open window and yells at the order\npanel:"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Hello?"
+  },
+  {
+   "type": "stage direction",
+   "text": "MARGE AT THE GUSTAFSON OLDS GARAGE\nShe sits in the lot, eating a breakfast sandwich.\nJERRY LUNDEGAARD'S OFFICE\nJerry is at his desk using a blunt pencil to enter numbers\nonto a form.  Beneath the form is a piece of carbon paper\nand beneath that another form copy, which Jerry periodically\nchecks.  The carbon-copy form shows thick smudgy, illegible\nentries.\nJerry hums nervously.\nGlass rattles as someone taps at his door.\nJerry looks up and freezes, mouth hanging open, brow knit\nwith worry.\nMarge sticks her head in the door."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Mr. Lundegaard?  Sorry to bother\nyou again.  Can I come in?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She starts to enter."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, no, I'm kinda - I'm kinda\nbusy -"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "I unnerstand.  I'll keep it real\nshort, then.  I'm on my way out\nof town, but I was just -  Do you\nmind if I sit down?  I'm carrying\na bit of a load here."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "No, I -"
+  },
+  {
+   "type": "stage direction",
+   "text": "But she is already sitting into the chair opposite with a\nsigh of relieved weight."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah, it's this vehicle I asked you\nabout yesterday.  I was just\nwondering -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, like I told ya, we haven't had\nany vehicles go missing."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Okay, are you sure, cause, I mean,\nhow do you know?  Because, see,\nthe crime I'm investigating, the\nperpetrators were driving a car\nwith dealer plates.  And they\ncalled someone who works here, so\nit'd be quite a coincidence if\nthey weren't, ya know, connected."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Yah, I see."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "So how do you - have you done any\nkind of inventory recently?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "The car's not from our lot, ma'am."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "but do you know that for sure\nwithout -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, I would know.  I'm the\nExecutive Sales Manager."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah, but -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "We run a pretty tight ship here."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "I know, but - well, how do you\nestablish that, sir?  Are the\ncars, uh, counted daily or what\nkind of -"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Ma'am, I answered your question."
+  },
+  {
+   "type": "stage direction",
+   "text": "There is a silent beat."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  I'm sorry, sir?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Ma'am, I answered your question.\nI answered the darn -  I'm\ncooperating here, and I..."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Sir, you have no call to get\nsnippy with me.  I'm just doin'\nmy job here."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "I'm not, uh, I'm not arguin' here.\nI'm cooperating...  There's no, uh\n- we're doin' all we can..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He trails off into silence."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Sir, could I talk to Mr. Gustafson?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry stares at her."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Mr. Lundegaard?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry explodes:"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Well, heck, if you wanna, if you\nwanna play games here!  I'm\nworkin' with ya on this thing, but\nI..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He is getting angrily off his feet."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Okay, I'll do a damned lot count!"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Sir?  Right now?"
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Sure right now!  You're darned\ntootin'!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He is yanking his parka from a hook behind the opened door\nand grabbing a pair of galoshes."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "...  If it's so damned imporant\nto ya!"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "I'm sorry, sir, I -"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry has the parka slung over one arm and the galoshes\npinched in his hand."
+  },
+  {
+   "type": "speech",
+   "character": "JERRY",
+   "text": "Aw, what the Christ!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He stamps out the door.\nMarge stares.\nAfter a long moment her stare breaks.  She glances idly\naround the office.\nThere is a framed picture facing away from her on the\ndesktop.  She turns it to face her.  It is Scotty, holding\nan accordion.  There is another picture of Jean.\nMarge looks at it, looks around, for some reason, at the\nceiling.\nShe looks at a trophy shelf on the wall behind her.\nShe fiddles idly with a pencil.  She pulls a clipboard\ntoward her.  It holds a form from the General Motors Finance\nCorporation.\nShe looks idly around.  Her look abruptly locks."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Oh, for Pete's sake."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry is easing his car around the near corner of the\nbuilding.\nMarge's voice is flat with dismay:"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Oh, for Pete's sake..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She grabs the phone and punches in a number."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  For Pete's s- he's fleein' the\ninterview.  He's feelin' the\ninterview..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry makes a left turn into traffic."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Detective Sibert, please..."
+  },
+  {
+   "type": "stage direction",
+   "text": "POLICE OFFICER\nWe are looking across a steam table at a man in blue.  He\nmoves slowly to the right, pushing his tray along a\ncafeteria line.  Behind him, in the depth of the room, is an\neating area of long Formica tables at which sit a mix of\nuniformed and civilian-clothed police and staff.\nWe are listening to an offscreen woman's voice."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "Well, so far we're just saying he's\nwanted for questioning in connection\nwith a triple homicide.  Nobody at\nthe dealship there's been much help\nguessing where he might go..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The woman is entering frame sliding a tray.  Marge enters\nbehind her, sliding her own.  We move laterally with them as\nthey slowly make their way along the line."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "We called his house; his little\nboy said he hadn't been there."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "And his wife?"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "She's visiting relatives in Florida.\nNow his boss, this guy Gustafson,\nhe's also disappeared.  Nobody at\nhis office knows where he is."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Geez.  Looks like this thing goes\nhigher than we thought.  You call\nhis home?"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "His wife's in the hospital, has\nbeen for a couple months.  The big C."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, my."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "And this Shep Proudfoot character,\nhe's a little darling.  He's now\nwanted for assault and parole\nviolation.  He clobbered a neighbor\nof his last night and another\nperson who could be one of your perps,\nand he's at large."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Boy, this thing is really ... geez."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "Well, they're all out on the wire.\nWell, you know..."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah.  Well, I just can't thank you\nenough, Detective Sibert, this\ncooperation has been outstanding."
+  },
+  {
+   "type": "speech",
+   "character": "DETECTIVE SIBERT",
+   "text": "Ah, well, we haven't had to run\naround like you.  When're you due?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "End a April."
+  },
+  {
+   "type": "speech",
+   "character": "DETECTIVE SIBERT",
+   "text": "Any others?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "This'll be our first.  We've been\nwaiting a long time."
+  },
+  {
+   "type": "speech",
+   "character": "DETECTIVE SIBERT",
+   "text": "That's wonderful.  Mm-mm.  It'll\nchange your life, a course."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, yah, I know that!"
+  },
+  {
+   "type": "speech",
+   "character": "DETECTIVE SIBERT",
+   "text": "They can really take over, that's\nfor sure."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "You have children?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Detective Sibert pulls an accordion of plastic picture\nsleeves from her purse to show Marge."
+  },
+  {
+   "type": "speech",
+   "character": "DETECTIVE SIBERT",
+   "text": "I thought you'd never ask.  The\nolder one is Janet, she's nine, and\nthe younger one is Morgan."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, now he's adorable."
+  },
+  {
+   "type": "speech",
+   "character": "DETECTIVE SIBERT",
+   "text": "He's three now.  Course, not in that\npicture."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, he's adorable."
+  },
+  {
+   "type": "speech",
+   "character": "DETECTIVE SIBERT",
+   "text": "Yah, he -"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Where'd you get him that parka?"
+  },
+  {
+   "type": "stage direction",
+   "text": "They have reached the end of the cafeteria line.  With a nod\nto the cashier, Detective Sibert indicates hers and Marge's\ntrays."
+  },
+  {
+   "type": "speech",
+   "character": "DETECTIVE SIBERT",
+   "text": "Both of these."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, no, I can't let you do that."
+  },
+  {
+   "type": "speech",
+   "character": "DETECTIVE SIBERT",
+   "text": "Oh, don't be silly."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Well, okay - thank you, Detective."
+  },
+  {
+   "type": "speech",
+   "character": "DETECTIVE SIBERT",
+   "text": "Oh, don't be silly."
+  },
+  {
+   "type": "stage direction",
+   "text": "GAEAR GRIMSRUD\nHe sits eating a Swanson's TV dinner from a TV tray he has\nset up in front of an easy chair.\nHe watches the old black-and-white TV set whose image - it\nmight be a game show - is still heavily ghosting and\ndiffused by snow.  The audio crackles with interference.\nDespite the impenetrability of its image, it holds\nGrimsrud's complete attention.\nAt the sound of the front door opening, Grimsrud looks up.\nCarl enters, his face suppurating and raw.\nHe reacts to Grimsrud's wordless look with a grotesque\nlaugh."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "You should she zhe uzher guy!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He glances around."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  The fuck happen a her?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jean sits slumped in a straight-backed chair facing the\nwall.  Her hooded head, resting on her chin, is motionless.\nThere is blood on the facing wall."
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "She started shrieking, you know."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "Jezhush."
+  },
+  {
+   "type": "stage direction",
+   "text": "He shakes his head."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Well, I gotta muddy."
+  },
+  {
+   "type": "stage direction",
+   "text": "He is plunking down eight bank-wrapped bundles on the table."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  All of it.  All eighty gran.\nForty for you..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He makes one pile, pockets the rest."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Forty for me.  Sho thishuzh\nit.  Adiosh."
+  },
+  {
+   "type": "stage direction",
+   "text": "He slaps keys down on the table."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  You c'n'ave my truck.  I'm\ntakin' a Shiera."
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "We split that."
+  },
+  {
+   "type": "stage direction",
+   "text": "Carl looks at him."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "HOW THE FUCK DO WE SHPLITTA FUCKIN'\nCAR?  Ya dummy!  Widda fuckin'\nchainshaw?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud looks sourly up.  There is a beat.  Finally:"
+  },
+  {
+   "type": "speech",
+   "character": "GRIMSRUD",
+   "text": "One of us pays the other for half."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "HOLD ON!  NO FUCKIN' WAY!  YOU\nFUCKIN' NOTISH ISH?  I GOT FUCKIN'\nSHOT INNA FAISH!  I WENT'N GOTTA\nFUCKIN' MONEY!  I GET SHOT FUCKIN'\nPICKIN' IT UP!  I BEEN UP FOR\nTHIRTY-SHIKSH FUCKIN' HOURZH!  I'M\nTAKIN' THAT FUCKIN' CAR!  THAT\nFUCKERZH MINE!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Carl waits for an argument, but only gets the steady sour\nlook.\nCarl pulls out a gun."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  YOU FUCKIN' ASH-HOLE!  I\nLISHEN A YOUR BULLSHIT FOR A WHOLE\nFUCKIN' WEEK!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A beat.  Carl returns Grimsrud's stare."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Are we shquare?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud says nothing."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  ARE WE SHQUARE?"
+  },
+  {
+   "type": "stage direction",
+   "text": "A beat.\nDisgusted, Carl pockets the gun and heads for the door."
+  },
+  {
+   "type": "speech",
+   "character": "CARL",
+   "text": "...  Fuckin' ash-hole.  And if\nyou shee your friend Shep Proudpfut,\ntell him I'm gonna NAIL hizh\nfuckin' ash."
+  },
+  {
+   "type": "stage direction",
+   "text": "OUTSIDE\nWe are pulling Carl as he walks toward the car.  Behind him\nwe see the cabin door opening.  Carl turns, reacting to the\nsound.\nGrimsrud is bounding out wearing mittens and a red hunter's\ncap, but no overcoat.  He is holding an ax.\nCarl fumbles in his pocket for his gun.\nGrimsrud swings overhand, burying the ax in Carl's neck."
+  },
+  {
+   "type": "stage direction",
+   "text": "In her cruiser, on her two-way.  Through it we hear Lou's\nvoice, heavily filtered:"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "His wife.  This guy says she was\nkidnapped last Wednesday."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "The day of our homicides."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yah."
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge is peering to one side as she drives, looking through\nthe bare trees that border the road on a declivity that runs\ndown to a large frozen lake."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "And this guy is..."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Lundegaard's father-in-law's\naccountant."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Gustafson's accountant."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "But we still haven't found Gustafson."
+  },
+  {
+   "type": "stage direction",
+   "text": "(crackle)"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "-  looking."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Sorry - didn't copy."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Still missing.  We're looking."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Copy.  And Lundegaard too."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yah.  Where are ya, Margie?"
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear, distant but growing louder, harsh engine noise, as\nof a chainsaw or lawnmower."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, I'm almost back - I'm driving\naround Moose Lake."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Oh.  Gary's loudmouth."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah, the loudmouth.  So the whole\nstate has it, Lundegaard and\nGustafson?"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yah, it's over the wire, it's\neverywhere, they'll find 'em."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Copy."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "We've got a -"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "There's the car!  There's the car!"
+  },
+  {
+   "type": "stage direction",
+   "text": "We are slowing as we approach a short driveway leading down\nto a cabin.  Parked in front is the brown Cutlass Ciera."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Whose car?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "My car!  My car!  Tan Ciera!"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Don't go in!  Wait for back-up!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge is straining to look.  The power-tool noise is louder\nhere but still muffled, its source not yet visible."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "...  Chief Gunderson?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Copy.  Yah, send me back-up!"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yes, ma'am.  Are we the closest PD?"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Yah, Menominie only has Chief Perpich\nand he takes February off to go to\nBoundary Waters."
+  },
+  {
+   "type": "stage direction",
+   "text": "ROAD EXTERIOR\nMarge pulls her prowler over some distance past the cabin.\nShe gets out, zips up her khaki parka and pulls up its fur-\nlined hood.\nFor a moment, she stands listening to the muffled roar of\nthe power tool.  Then, with one curved arm half pressing\nagainst, half supporting her belly, she takes slow, gingerly\nsteps down the slope, through the deep snow, through the\ntrees angling toward the cabin and the source of the\ngrinding noise.\nShe slogs from tree to tree, letting each one support her\ndownhill-leaning weight for a moment before slogging to the\nnext.\nThe roar grows louder.  Marge stands panting by one tree,\nher breath vaporizing out of her snorkel hood.  She squints\ndown toward the cabin's back lot.\nA tall man with his back to us, wearing a red plaid quilted\njacket and a hunting cap with earflaps, is laboring over a\nlarge power tool which his body blocks from view.\nMarge advances.\nThe man is forcing downward something which engages the\nroaring power tool and makes harsh spluttering noises.\nThe man is Grimsrud, his nose red and eyes watering from the\ncold, hatflaps pulled down over his ears.  His breath steams\nas he sourly goes about his work, both hands pressing down a\nshod foot, as it if were the shaft of a butter churn.\nThe roar is very loud.\nMarge slogs down to the next tree, panting, looking.\nGrimsrud forces more of the leg into the machine, which we\ncan now see sprays small wet chunks out the bottom.\nMarge's eyes shift.\nA large dark form lies in the snow next to Grimsrud.\nGrimsrud works on, eyes watering.  With a grunt he bends\ndown out of frame and then re-enters holding a thick log.\nHe uses it to force the leg deeper into the machine.\nMarge is advancing.  She holds a gun extended toward\nGrimsrud, who is still turned away.\nGrimsrud rubs his nose with the back of his hand.\nMarge closes in, grimacing.\nGrimsrud's back strains as he puts his weight into the log\nthat pushes down into the machine.\nThe dark shape in the snow next to his side is the rest of\nCarl Showalter's body.\nMarge has drawn to within twenty yards.  When she bellows it\nsounds hollow and distant, her voice all but eaten up by the\nroar of the power tool."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Stop!  Police!  Turn around and\nhands up!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Startled, Grimsrud scowls.  He turns to face her.\nHe stares.\nMarge bellows again:"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Hands up!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Conscious of the noise, she shows with a twist of her\nshoulder the armpatch insignia."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Police!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud stares.\nWith a quick twist, he reaches back for the log, hurls it at\nMarge and then starts running away.\nMarge twists her body sideways, shielding herself.\nNo need - the heavy log travels perhaps ten yards and lands\nin the snow several feet short of her.\nGrimsrud pants up the hill - slow going through the deep\nsnow.\nBehind him:"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Halt!"
+  },
+  {
+   "type": "stage direction",
+   "text": "She fires in the air.\nShe lowers the gun and carefully sighs."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Halt!"
+  },
+  {
+   "type": "stage direction",
+   "text": "She fires.\nGrimsrud still slogs up the hill - a miss.\nMarge sights again."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Halt!"
+  },
+  {
+   "type": "stage direction",
+   "text": "She fires again.\nGrimsrud pitches forward.  He mutters in Swedish as he\nreaches down to clutch at his wounded leg.\nMarge walks toward him, gun trained on him as her other hand\nreaches under her parka and gropes around her waist.\nIt comes out with a pair of handcuffs, which she opens with\na snap of the wrist."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  All right, buddy.  On your\nbelly and your hands clasped\nbehind you."
+  },
+  {
+   "type": "stage direction",
+   "text": "THE CRUISER\nMarge drives.  Grimsrud sits in the back seat, hands cuffed\nbehind him.\nFor a long moment there, he is quiet - only engine hum and\nthe periodic clomp of wheels on pavement seams - as Marge\ngrimly shakes her head."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  So that was Mrs. Lundegaard\nin there?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She glances up in the rear-view mirror.\nGrimsrud, cheeks sunk, eyes hollow, looks sourly out at the\nroad.\nMarge shakes her head.\nAt length:"
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  I guess that was your\naccomplice in the wood chipper."
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud's head bobs with bumps on the road; otherwise he is\nmotionless, reactionless, scowling and gazing out."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  And those three people in\nBrainerd."
+  },
+  {
+   "type": "stage direction",
+   "text": "No response.\nMarge, gazing forward, seems to be talking to herself."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  And for what?  For a little\nbit of money."
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear distant sirens."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  There's more to life than money,\nyou know."
+  },
+  {
+   "type": "stage direction",
+   "text": "She glances up in the rear-view mirror."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Don't you know that?...  And\nhere ya are, and it's a beautiful\nday..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Grimsrud's hollow eyes stare out.\nThe sirens are getting louder.  Marge pulls over."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  Well..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She leans forward to the dash to give two short signalling\nWHOOPS on her siren.\nShe turns on her flashers.\nShe leans back with a creak and jangle of utilities.\nShe stares forward, shakes her head.  We hear the dull click\nof her flashers."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  I just don't unnerstand it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Outside it is snowing.  The sky, the earth, the road - all\nwhite.\nA squad car, gumballs spinning, punches through the white.\nIt approaches in slow motion.\nAn ambulance punches through after it.\nAnother squad car.\nFADE OUT:\nFADE IN:\nHIGH AND WIDE ON A SHABBY MOTEL\nIt stands next to a highway on a snowy, windslept plain.\nOne or two cars dot the parking lot along with an idling\npolice cruiser.\nMOTEL ROOM DOORWAY\nWe are looking over the shoulders of two uniformed policemen\nwho stand on either side of the door, their hands resting\nlightly on their holstered sidearms.  One of them raps at\nthe door."
+  },
+  {
+   "type": "speech",
+   "character": "COP ONE",
+   "text": "Mr. Anderson..."
+  },
+  {
+   "type": "stage direction",
+   "text": "A title fades in:  OUTSIDE OF BISMARK, NORTH DAKOTA\nAfter a pause, muffled through the door:"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "...  Who?..."
+  },
+  {
+   "type": "speech",
+   "character": "COP ONE",
+   "text": "Mr. Anderson, is this your burgundy\n88 out here?"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "...  Just a sec."
+  },
+  {
+   "type": "speech",
+   "character": "COP ONE",
+   "text": "Could you open the door, please?"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "...  Yah.  Yah, just a sec."
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear a clatter from inside."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "...  Just a sec..."
+  },
+  {
+   "type": "stage direction",
+   "text": "One of the policemen unholsters his gun and nods to someone\nwhose back enters - a superintendent holding a ring of keys.\nThis man turns a key in the door and then stands away.\nThe two policemen, guns at the ready, bang into the motel\nroom.\nThe rough hand-held camera rushes in behind them as the two\nmen give the room a two-handed sweep with their guns.\nThe room is empty.\nCop one indicates the open bathroom door."
+  },
+  {
+   "type": "speech",
+   "character": "COP ONE",
+   "text": "Dale!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The two men charge the bathroom, belts jingling, guns at the\nready, jittery camera behind them rushing to keep pace.\nA man in boxer shorts is halfway out the bathroom window.\nThe policemen holster their guns and charge the window, and\ndrag Jerry Lundegaard back into the room.\nHis flesh quivers as he thrashes and keens in short,\npiercing screams.\nThe cops wrestle him to the floor but his palsied thrashing\ncontinues.  The policemen struggle to restrain him."
+  },
+  {
+   "type": "speech",
+   "character": "COP ONE",
+   "text": "Call an ambulance!"
+  },
+  {
+   "type": "speech",
+   "character": "COP TWO",
+   "text": "You got him okay?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Cop One pinions Jerry's arms to the floor and Jerry bursts\ninto uncontrolled sobbing."
+  },
+  {
+   "type": "speech",
+   "character": "COP ONE",
+   "text": "Yah, yah, call an ambulance."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jerry sobs and screams.\nA BEDROOM\nWe are square on Norm, who sits in bed watching television.\nAfter a long beat, Marge enters frame in a nightie and\nclimbs into bed, with some effort."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oooph!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Norm reaches for her hand as both watch the television.\nAt length Norm speaks, but keeps his eyes on the TV."
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "They announced it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge looks at him."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "They announced it?"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Yah."
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge looks at him, waiting for more, but Norm's eyes stay\nfixed on the television."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  So?"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Three-cent stamp."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Your mallard?"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Norm, that's terrific!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Norm tries to suppress a smile of pleasure."
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "It's just the three cent."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "It's terrific!"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Hautman's blue-winged teal got the\ntwenty-nine cent.  People don't\nmuch use the three-cent."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Oh, for Pete's - a course they do!\nEvery time they raise the darned\npostage, people need the little\nstamps!"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Yah."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "When they're stuck with a bunch a\nthe old ones!"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "Yah, I guess."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "That's terrific."
+  },
+  {
+   "type": "stage direction",
+   "text": "Her eyes go back to the TV."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "...  I'm so proud a you, Norm."
+  },
+  {
+   "type": "stage direction",
+   "text": "Norm murmurs:"
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "I love you, Margie."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "I love you, Norm."
+  },
+  {
+   "type": "stage direction",
+   "text": "Both of them are watching the TV as Norm reaches out to rest\na hand on top of her stomach."
+  },
+  {
+   "type": "speech",
+   "character": "NORM",
+   "text": "...  Two more months."
+  },
+  {
+   "type": "stage direction",
+   "text": "Marge absently rests her own hand on top of his."
+  },
+  {
+   "type": "speech",
+   "character": "MARGE",
+   "text": "Two more months."
+  },
+  {
+   "type": "stage direction",
+   "text": "Hold; fade out."
+  }
+ ]
+}

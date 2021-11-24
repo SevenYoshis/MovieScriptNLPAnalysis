@@ -1,0 +1,4181 @@
+{
+ "movie_url": "https://imsdb.com/scripts/Grudge,-The.html",
+ "movie_title": "the grudge",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "THE GRUDGE\nWritten by\nStephen Susco\nBased on the films\nJu-on, Ju-on 2 and Ju-on: The Grudge\nBy\nTakashi Shimizu\nProduction Draft - BLUE\nRevised, January 26, 2004\n1   INT. PETER & MARIA'S BEDROOM - DAY                               1\nFADE IN on MARIA (late 20s), asleep in bed. She's\nbreathtakingly beautiful. Morning light fills the room.      The\nsound of wind, and rippling cloth."
+  },
+  {
+   "type": "stage direction",
+   "text": "Maria stirs, and opens her eyes.     She stretches contentedly.\nThen she frowns.    Rolls over.    She's alone in the bed?\nNo, she's not: PETER (20s) sits on the edge, his back to her.\nTwo fresh, steaming mugs of coffee sit on a tray near him."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "Hey.     Are you okay?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Peter doesn't turn. He slowly stands and walks forward\ntowards an OPEN WINDOW.\nThere's something strange about the way he moves -- stiffly,\nalmost jerkily, straining his joints and muscles.\nMaria gets out of bed, concerned."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "Peter?    What's the matter?"
+  },
+  {
+   "type": "stage direction",
+   "text": "He pauses at the window.    Turns his head to look back at her.\nHis eyes are vacant.    His face is a blank.\nThen Peter slowly leans forward.     And falls from the window.\nMaria stands in shock as the sound of SCREECHING TIRES from\noutside reaches her ears. Then SCREAMS OF TERROR from below.\nAghast, she finally manages to numbly walk forward, towards\nthe window. We MOVE PAST her and TILT DOWN TO REVEAL --\n-- PETER'S BODY lies in the middle of the street.     His head\nhas burst open, his body broken and twisted.\nON THE PAVEMENT: a line of blood appears, moving down the\ncenter of the screen. As if hitting grooves we cannot see --\n-- the blood slowly forms the shape of two KANJI CHARACTERS.\nA translation appears over them: \"The Grudge.\"\n2   EXT. STREET CORNER - DAY                                         2\nA blur of movement as hundreds of people stream up from a\nsubway tunnel. Most are Japanese. We're not in Kansas.\nRevisions (Blue) -- 1/26/04     2."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "Standing in the middle of the rush-hour pedestrian traffic is\nKAREN (20s, American). She faces upstream, looking for\nsomeone. The flow threatens to carry her away in a\nheartbeat. She looks fragile, intimidated by the madness."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG (O.S.)",
+   "text": "Karen!\nShe turns to see her boyfriend DOUG (20s, American)\napproaching. With a reassuring smile he takes her hand --\n-- and together, they force their way through the throng,\ntrying to escape the flow. They're jostled and crushed by\nthe crowd, and Doug protectively pulls Karen closer."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I'll never get used to this."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Maybe we should find a different\ntrain station.\nHe abruptly stops, right in the middle of traffic, still\nholding Karen's hand. She turns, wondering what's going on.\nShe sees the smile on his lips a moment before --\n-- he sweeps Karen into his arms and kisses her. As if the\ncrowd of businessmen surging around them isn't there at all.\nIt's tender and loving, and she responds... at first.   But\nthen she pulls away, shy."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "A public display of affection is\nconsidered rude in Japan.\nThere's an opening ahead into a SIDE STREET.   Doug and Karen\ndeftly slip out of the traffic --"
+  },
+  {
+   "type": "stage direction",
+   "text": "2a                                                                 2a"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "OMITTED"
+  },
+  {
+   "type": "stage direction",
+   "text": "2b   EXT. TOKYO STREET - DAY                                       2b"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "-- and walk hand-in-hand down the much quieter street, away\nfrom the crowded thoroughfare.\nDoug smiles as they pass by two JAPANESE HIGH SCHOOL COUPLES,\nmaking out on the street corner. He turns to give Karen a\nsarcastic look --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04      2A.\n-- but she didn't notice the school kids. She's looking in\nthe other direction, at a trickle of SMOKE wafting up over a\nnearby fence."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "What's that?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Doug follows as she walks toward an OLD TEMPLE, nestled\nbeneath a skyscraper. A collision of the ancient and modern.\nThe fence surrounds a GRAVEYARD adjacent to the temple."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "We walk past this temple every day,\nKaren --"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Yeah, but I've never seen this\nbefore."
+  },
+  {
+   "type": "stage direction",
+   "text": "A JAPANESE MAN stands before an ornate headstone, lighting a\nbundle of incense and bowing before the grave."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "It's a Buddhist ritual. The\nincense smoke carries the prayers\nto the spirits of his ancestors, to\nhelp them remain at peace."
+  },
+  {
+   "type": "stage direction",
+   "text": "CLINK. She turns as Doug, grinning, lights a cigarette with\nhis Zippo, flicking it shut and pocketing it."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "It's amazing. You're like this\ninfinite storehouse of wisdom. Or\ntrivia. I'm not sure which."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "It's not trivia. It's what they\nbelieve. And it's far better, by\nthe way, than your little pollution\nritual."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doug's grin softens to a smile. He doesn't respond... but\nthe way he's looking at Karen makes her curious:"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "What?"
+  },
+  {
+   "type": "stage direction",
+   "text": "He turns away for a moment, almost shyly, dropping his\ncigarette and crushing it. Finally:"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04      2B.\nDOUG",
+   "text": "Nothing. I just -- I like that\nabout you. You seem to be able to\nremember everything that's really\nimportant."
+  },
+  {
+   "type": "stage direction",
+   "text": "She smiles.   A tender moment.   Then... he checks his watch."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Except the time."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen checks her own watch, realizing --"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Oh, crap --"
+  },
+  {
+   "type": "stage direction",
+   "text": "She grabs his hand and starts to walk quickly."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "C'mon, you're gonna be late."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04      3-4.\n2c    EXT. CAMPUS - DAY                                           2c"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "An international college in Tokyo. The autumn chill doesn't\ndeter the students from enjoying the beautiful day.\nKaren and Doug, still holding hands, enter the campus."
+  },
+  {
+   "type": "stage direction",
+   "text": "2cc   EXT. NURSING CARE CENTER - DAY                             2cc"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen and Doug approach the doors of a NURSING CARE CENTER.\nShe pulls him to the side just as he's stepping under a\nWORKMAN'S LADDER by the doors."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Uh-uh. Seven years of bad luck."
+  },
+  {
+   "type": "stage direction",
+   "text": "(before Doug can respond:)"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "And I might have a vested interest\nin those years."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Is that right?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Maybe.\nDoug smiles, kissing her romantically.   Then:"
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Will I see you tonight?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I'll call you when I get home.\nWith a flourish, Doug SWINGS HIMSELF back under the ladder."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Fourteen.    I hate odd numbers."
+  },
+  {
+   "type": "stage direction",
+   "text": "2d                                                                2d"
+  },
+  {
+   "type": "location",
+   "text": "INT. NURSING CARE CENTER - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Through the front doors, we see Doug kiss Karen again.   They\nfinally separate, and Doug walks off."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     4A.\nThen Karen walks through the doors into a bright, atrium-like\nlobby area. She waves \"hello\" to the RECEPTIONIST."
+  },
+  {
+   "type": "stage direction",
+   "text": "Leaning against a desk behind Reception is Karen's boss ALEX\n(40s, American). He's got a phone to his ear -- it's\nringing. An ANSWERING MACHINE picks up in Japanese.\nAlex mutters and hangs up.   Then he notices --\nALEX"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04     5.",
+   "text": "Karen!"
+  },
+  {
+   "type": "stage direction",
+   "text": "She's started up a STAIRCASE in the center of the lobby.   She\nturns and comes back down, walking over to Alex.\nALEX"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04     5.",
+   "text": "Are you free this afternoon?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I just came by to pick up some\nbooks I left here. I'm not\nscheduled to work today --"
+  },
+  {
+   "type": "stage direction",
+   "text": "ALEX"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I know. But are you free?    Do you\nhave class?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "(shaking her head:)\nJust a test to study for.   Why?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Alex smiles, holding out a file.\nRevisions (Blue) -- 1/26/04    6.\nALEX"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Your wish has been granted."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen takes the file and opens it, looking at the first page -\n- a picture of an OLDER WOMAN (EMMA) is attached.\nALEX"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "It's Yoko's case, but she didn't\nshow up for work this morning, and\nI can't reach her at home. She\nmust be sick, or something. And\nshe has the damn house key."
+  },
+  {
+   "type": "stage direction",
+   "text": "Studying the file, Karen squints."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "What's this phrase?"
+  },
+  {
+   "type": "stage direction",
+   "text": "ALEX"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "\"Mild dementia with severe\nlethargy.\" Apparently she sleeps\nthrough most of the day. Her\ndaughter-in-law doesn't work, so\nshe'll probably be there."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen seems unsure.   It's a big step for her.\nALEX"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "You're the one who's been bugging\nme about getting out there on your\nown. Besides, it's an English-only\nhouse."
+  },
+  {
+   "type": "stage direction",
+   "text": "One of Alex's CO-WORKERS appears in the doorway, motioning to\nhim. Alex quickly hands Karen a card:\nALEX"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Here's the address. Use the wall\nchart if you need help -- and don't\nforget to bring a map."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     7."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen looks at THE ADDRESS -- a string of thirty numbers and\nJapanese characters. She glances up at\nTHE WALL CHART: a color-coded diagram shows how the long\naddress string is broken down into Postal Code, Prefecture,\nCity, Ward, District, Block, Sub-Block and House Number."
+  },
+  {
+   "type": "stage direction",
+   "text": "ALEX"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Don't worry Karen, you're ready.\nKaren nods.   But she's not quite as confident."
+  },
+  {
+   "type": "stage direction",
+   "text": "3     OMITTED                                                         3\n4     OMITTED                                                         4\n4a    INT. RAIL STATION - DAY                                     4a"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "People rush madly around Karen as she studies A LARGE MAP on\nthe wall. It's the Tokyo rail system -- daunting, at best."
+  },
+  {
+   "type": "stage direction",
+   "text": "4b                                                                4b"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "OMITTED"
+  },
+  {
+   "type": "stage direction",
+   "text": "4bb   INT. TRAIN - DAY                                           4bb"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen sits uncomfortably on the crowded transit car, squeezed\nin tightly by the people around her. The LOUD CRYING of a\nbaby adds to her discomfort."
+  },
+  {
+   "type": "stage direction",
+   "text": "5     EXT. RAIL PLATFORM - DAY                                        5"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "The transit car pulls to a stop and a handful of people get\nout. Karen is one of them, shouldering her backpack."
+  },
+  {
+   "type": "stage direction",
+   "text": "5a                                                                5a"
+  },
+  {
+   "type": "location",
+   "text": "EXT. SHOPPING DISTRICT - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen walks down the populated sidewalk, weaving through\nSTREET VENDORS, and passing a large GROCERY STORE.\nShe pauses, looking at the address on her card. She\napproaches a WOMAN and her DAUGHTER (6) and speaks to them in\nJapanese. The woman nods, pointing towards a small ALLEY.\nKaren gives the daughter a smile;   the girl hides behind her\nmother's leg."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04      7A.\n6    EXT. TOKYO NEIGHBORHOOD - DAY                                   6"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen exits the alley, entering a quiet, narrow street.\nShe's still not sure if she's in the right place.\nBut then her eyes fix on something. She begins to walk\ntowards it, her gaze never leaving it --"
+  },
+  {
+   "type": "stage direction",
+   "text": "6a   EXT. THE HOUSE - DAY                                          6a"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "-- it's THE HOUSE.   Cozy and shaded, nestled into the dead\nend of the street.   Large by Tokyo standards.\nShe double-checks the address and opens the gate, walking\naround a BICYCLE leaning against the wall and following the\nstepping-stone path to the front door. She knocks. No\nanswer. She tries again. Nothing.\nThen, an afterthought, she tries the handle.   It's unlocked."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     8.\n7    INT. THE HOUSE - ENTRANCE - DAY                                7"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen pokes her head inside the genkan (entry hall)."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Hello?   Mrs. Williams?\nNothing. She tentatively steps inside, and the door closes\nbehind her. It's dark and musty -- the blinds are drawn."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Is anyone here?\nShe turns and LOCKS THE FRONT DOOR."
+  },
+  {
+   "type": "stage direction",
+   "text": "8                                                                   8"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - LIVING ROOM - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen stands in the doorway, surveying the room.   The place\nis in a complete state of disarray.\nA SCRAPING sound grabs Karen's attention.\nHER POV: at the far end of the room, a FROSTED-GLASS PANELED\nDOOR leads to an adjacent room.\nA HAND is visible on the other side, clawing at the glass.\nKaren runs over and slides open the door, revealing --"
+  },
+  {
+   "type": "stage direction",
+   "text": "8a   INT. TATAMI ROOM - DAY                                       8a"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "EMMA (60s, American). The older woman in the picture from\nKaren's file. She's lying on her stomach on a stained\nmattress, feebly looking up at Karen."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Oh my God... are you alright? --\nKaren immediately kneels down next to the infirm woman,\nhelping her sit up. Emma looks dazed and disoriented.\nKaren's eyes sweep the room.   It reeks of neglect."
+  },
+  {
+   "type": "stage direction",
+   "text": "9                                                                   9"
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE HOUSE - PORCH - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Emma sits on the back porch, staring vacantly. But her\nexpression isn't simply blank - there's an odd sadness there."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     8A.\nKaren is washing the dirty sheets in a bucket and hanging\nthem to dry. She finishes, turning to her charge.\nRevisions (Blue) -- 1/26/04       9."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Okay, Emma. Let's try again: my\nname is Karen. Do you remember?\nI'm from the Health Center. I'm\nsubstituting for Yoko, just for\ntoday.\nEmma doesn't respond -- and there's no indication that she\nremembers Karen introducing herself before.\nKneeling in front of Emma, Karen notices a BAND-AID around\none of her fingers. Blood has soaked through it."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Looks like you need a new Band-Aid.\nHow'd this happen, Emma?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(still no reaction)"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Would you like a bath? Maybe that\nwill help you feel better.\nEmma doesn't even turn towards her."
+  },
+  {
+   "type": "stage direction",
+   "text": "10                                                                10"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - BATHROOM - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen turns on the water, puts the stopper over the drain."
+  },
+  {
+   "type": "stage direction",
+   "text": "11   INT. THE HOUSE - HALLWAY - DAY                               11"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen supports Emma's weight as she leads the old woman\nslowly down the hallway to the bathroom entrance --\n-- Emma stops at the doorway.    Eyes fixed on THE TUB."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "It's okay, Emma.\nShe takes Emma's hand and walks inside. But Emma doesn't\nbudge. Her free hand TIGHTLY CLUTCHES the door frame.\nHer eyes are wide.   Staring at the bathtub."
+  },
+  {
+   "type": "stage direction",
+   "text": "12                                                                12"
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE HOUSE - PORCH - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen uses a sponge to bathe Emma, her robe rolled to her\nwaist. Emma stares absently at the sky."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     9A.\n13   INT. THE HOUSE - LIVING ROOM - DUSK                       13"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "With Emma back in bed, Karen steps out of the back room and\nslides the door shut. Leans against it for a moment. A\ntough first day on the job."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04        10.\n14   INT. THE HOUSE - LIVING ROOM - DUSK                           14"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen has straightened up the room, and is vacuuming the\nfloor. Something under the couch catches in the vacuum\nintake, jamming it.\nShe turns off the vacuum and feels underneath, pulling out A\nCRUMPLED PHOTO -- ripped into pieces, compressed in a ball."
+  },
+  {
+   "type": "stage direction",
+   "text": "15   INT. THE HOUSE - KITCHEN - DUSK                               15"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen sits at the kitchen table, flattening and taping\ntogether the pieces of the photograph. She finishes.\nON THE PHOTO: a grinning JAPANESE BOY holds a cute BLACK\nCAT. His MOTHER and FATHER stand beside him. They're all\nbeaming at the camera -- a perfect, happy family.\nBut there's a piece missing.   The MOTHER'S FACE.\nKaren walks back into the Living Room. She looks underneath\nthe couch for the missing piece. Can't see anything.\nShe lays down and sticks her arm under the couch, feeling\naround. Nothing.\nKaren sticks her arm in deeper, to the shoulder, straining...\nShe suddenly jerks her arm back, wincing.   She has a small\ncut on her finger.\nKaren looks under the couch for what cut her --\n-- a small FURNITURE NAIL sticks out underneath."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Nice one, Karen.\nShe gets to her feet, folding up the incomplete picture and\nstuffing it into her pocket."
+  },
+  {
+   "type": "stage direction",
+   "text": "16                                                                 16"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - ENTRANCE - DUSK"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen steps into the foyer with the vacuum cleaner. She\nlooks up at A RAILING overhead. Some trash is visible\nsticking over the edge. Karen shakes her head:"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "How did you get up there?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04       11."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "She gathers up the vacuum and heads up to the SECOND FLOOR\nHALLWAY. There's a nearby door, closed (the FRONT ROOM), and\nan open door at the end (the REAR ROOM).\nAs she looks for an outlet, she hears a SCRATCHING SOUND.\nKaren stands there for a moment, listening.    Silence.\nThen she walks towards the open door at the end of the hall."
+  },
+  {
+   "type": "stage direction",
+   "text": "17   INT. THE HOUSE - REAR ROOM - DUSK                            17"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen steps inside. MOVING BOXES are stacked against the\nwall, next to a desk. It's an unfinished room.\nShe listens.   No scratching.   Nothing unusual here.   Except --\nKaren notices a lone object sitting on an otherwise empty\nshelf. It's a BLACK CERAMIC CAT. Facing the wall. Strange.\nAnd then Karen hears the SCRATCHING SOUND again."
+  },
+  {
+   "type": "stage direction",
+   "text": "18                                                                18"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - SECOND FLOOR HALLWAY - DUSK"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen steps into the hallway and listens.   There it is again,\nand this time there's no doubt --\nThe sounds are coming from the room by the stairs.\nKaren walks to the door. She pauses, disturbed by the eerie\nsounds from inside. Then she reaches for the doorknob.\nTHUD. THUD. Karen hesitates. The strange rhythmic THUDDING\ncontinues, coming from beyond the door."
+  },
+  {
+   "type": "stage direction",
+   "text": "(nervous:)"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Hello?\nKaren takes a breath.   And turns the doorknob."
+  },
+  {
+   "type": "stage direction",
+   "text": "19                                                                19"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - FRONT ROOM - DUSK"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "The sounds immediately stop as Karen enters the MASTER\nBEDROOM. It's dark, thick blinds covering the windows. A\nfrosted window, overlooking the foyer, isn't helping much.\nShe stands there for a moment, listening.   Silence.\nThen --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     12."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "SCRATCH SCRATCH. Startled, she gasps and turns towards THE\nCLOSED CLOSET DOORS. That's where the sound is coming from.\nAnd then she notices something strange about the closet door:\nIt's been sealed shut with duct tape.\nThe SCRATCHING quickens, as if sensing a presence nearby.\nAnd then there's a muffled MEOW.   There's a cat in there?\nKaren pulls off the duct tape. She reaches for the door\nhandle, slowly sliding it open a crack and peering inside --\nThe closet seems empty, except for a large BOOK on a shelf.\nKaren reaches inside and picks it up.\nThen she sees, in the darkened far corner of the closet, a\nSMALL BLACK CAT. It's sitting on something, watching her.\nKaren slides the door the rest of the way open --\n-- revealing A YOUNG JAPANESE BOY (age 7) sitting in the\ncorner, staring at Karen. The cat is curled up on his lap.\nStartled, Karen drops the book and falls backwards."
+  },
+  {
+   "type": "stage direction",
+   "text": "20                                                                20"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - KITCHEN - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen is on her cell phone:"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN (INTO PHONE)",
+   "text": "Yes, he was shut in a closet!\nThere was tape around the -- No,\nthey're not home yet. I don't\nknow, Emma hasn't said a word to me\n-- He's still upstairs -- yes, I'm\nsure he's Japanese -- But -- Yes,\nalright, Alex. Just please get\nhere as soon as you can.\nKaren hangs up, putting the phone down on the kitchen table.\nShe leans against the counter, exasperated.\nThen her attention turns to THE BOOK she found in the closet.\nKaren can't resist.   She opens it.\nTHE BOOK is a large journal, filled with elegant Japanese\nwriting. Karen flips through it, stopping on --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04        13."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN (INTO PHONE)",
+   "text": "A PHOTOGRAPH.   A handsome young man, smiling at the camera.\nWe recognize him.   It's PETER, from the opening scene."
+  },
+  {
+   "type": "stage direction",
+   "text": "21   INT. THE HOUSE - ENTRANCE - NIGHT                             21"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN (INTO PHONE)",
+   "text": "Karen walks to the front door, reaching out to unlock it --\n-- but she pauses, realizing something.\nShe reaches into her pocket, pulling out THE PHOTO she found.\nIt only takes a second to verify --\n-- THE BOY in the photo is the one she found in the closet.\nKaren lowers the photo, bewildered.    Then she looks up,\nstartled by --\nTHE BOY. He's kneeling on the second floor landing above,\nwatching her through the bars of the metal railing. Creepy.\nKaren takes a step forward, forcing a smile."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN (IN JAPANESE)",
+   "text": "Hello there.\nReally creepy.\nThe boy just stares at her."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN (IN JAPANESE)",
+   "text": "My name is Karen. What's yours?"
+  },
+  {
+   "type": "stage direction",
+   "text": "THE BOY"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN (IN JAPANESE)",
+   "text": "Toshio.\nBefore she can respond --\nRING! RING!   The phone in the next room startles her."
+  },
+  {
+   "type": "stage direction",
+   "text": "22                                                                 22"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - LIVING ROOM - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN (IN JAPANESE)",
+   "text": "Karen enters the room as the ANSWERING MACHINE picks up, the\nvoices of a happy couple on the GREETING (in English):"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW & JENNIFER (ON MACHINE)",
+   "text": "\"Konnichiwa! Matt and Jennifer\naren't around, leave a message.\""
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN (ON MACHINE)",
+   "text": "\"Hey, guys, it's Susan. Matt, are\nyou there? Pick up..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04       14.\nSUSAN (ON MACHINE) (cont'd)"
+  },
+  {
+   "type": "speech",
+   "character": "(MORE)",
+   "text": "Okay, well, I'm leaving work now so\nyou can try my cell, or just call\nme at home later.\"\nThe caller pauses. Karen steps closer to the phone base,\ncurious, listening:"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN (ON MACHINE)",
+   "text": "\"I just wanted to make sure Mom is\nokay. Yesterday was... a bit\nweird, and -- I'm just a little\nworried.\"\nKaren, reluctant but realizing she should pick up, reaches\nfor the phone...\n...but the PHONE BASE is empty.   The cordless is missing.\nAs Karen tries to figure out how to answer with the base:"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN (ON MACHINE)",
+   "text": "\"Listen, just give me a call when\nyou can, okay?\"\nCLICK.   Too late -- the caller hangs up.\nSilence returns to the room... but not completely.     Karen\nhears the soft sound of WHISPERING from nearby.\nBeyond her, we see a PALE FACE (KAYAKO) pressed against the\nfrosted window of the sliding door of the TATAMI ROOM.\nThe face pulls away from the glass just before Karen turns\ntowards it. But the sound of WHISPERING continues.\nAs she slowly walks to the door, we can make out some words:"
+  },
+  {
+   "type": "stage direction",
+   "text": "EMMA (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN (ON MACHINE)",
+   "text": "...I've told them over and over...\nI've told them over and over...\nKaren listens for a moment, then slides the door open."
+  },
+  {
+   "type": "stage direction",
+   "text": "23   INT. THE HOUSE - TATAMI ROOM - NIGHT                           23"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN (ON MACHINE)",
+   "text": "It's very dark in the room -- the lights have been turned\noff. Emma, sitting up in bed, turns towards Karen."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Emma, who were you talking to?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04        15."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "That's when Karen notices THE INDENTATION in the mattress,\nacross from where Emma is sitting. Where someone else would\nbe, if the old woman was having a conversation.\nEmma looks up at Karen with pleading eyes."
+  },
+  {
+   "type": "speech",
+   "character": "EMMA",
+   "text": "I just want her to leave me alone.\nKaren sits down next to her."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "You should get some rest, Emma.\nShe helps Emma lie back --\n-- but as the old woman's eyes move to the ceiling, they\nsuddenly grow wide, her mouth opening in fear --\n-- Karen follows her gaze, looking up --\n-- and she SCREAMS, falling off the mattress, backing away --\nA MURKY BLACKNESS is lowering from the ceiling. Formless at\nfirst, but flowing and shifting... like a FIGURE draped with\nblack silk. Drifting down until the shadowy \"head\" is only\ninches from Emma's terrified face.\nAnd then the \"head\" slowly turns, rotating towards Karen.\nIn the midst of the blackness are TWO DISEMBODIED EYES.\nFilled with an intense rage. Focused directly on Karen.\nOff Karen's NERVE-SHATTERING SCREAM, we..."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO BLACK.\n24                                                                  24"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - FRONT ROOM - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "MATTHEW and his wife JENNIFER are in bed. He sleeps soundly,\nshe doesn't. She's staring at the ceiling, listening to --\n-- SOUNDS coming in through the open bedroom door. Someone\nmoving downstairs, fumbling around, bumping into things.\nJennifer, frustrated, lets out a sigh."
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - ENTRANCE - MORNING"
+  },
+  {
+   "type": "stage direction",
+   "text": "25                                                                  25"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Matthew comes downstairs, dressed in a business suit.    He\npauses to pick up some of the RUBBISH on the stairs."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04   16.\n26   INT. THE HOUSE - KITCHEN - MORNING                          26"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Jennifer watches the last drops of coffee fall into the pot.\nShe pours herself a mug, takes a big sip. Looks exhausted.\nMatthew enters, surprised to see her."
+  },
+  {
+   "type": "stage direction",
+   "text": "MATTHEW"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "You're up?"
+  },
+  {
+   "type": "stage direction",
+   "text": "JENNIFER"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Mmmmmm.\nMatthew glances into the back room through another sliding\ndoor -- the windows on this one are clear, not frosted like\nthe living room.\nHIS POV:   Emma is asleep on her mattress."
+  },
+  {
+   "type": "stage direction",
+   "text": "MATTHEW"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I wonder if Mom's okay. She's been\nsleeping ever since we got here."
+  },
+  {
+   "type": "stage direction",
+   "text": "JENNIFER"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Not at night.\nMatthew turns to her, surprised."
+  },
+  {
+   "type": "stage direction",
+   "text": "JENNIFER"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I told you, Matthew, you can sleep\nthrough anything.\nMatthew comes over, kisses her."
+  },
+  {
+   "type": "stage direction",
+   "text": "MATTHEW"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I'm sorry, sweetheart. It was\nprobably just the move -- I'm sure\nshe'll get back on schedule.\nJennifer nods, not convinced."
+  },
+  {
+   "type": "stage direction",
+   "text": "MATTHEW"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "You seen my travel mug?"
+  },
+  {
+   "type": "stage direction",
+   "text": "JENNIFER"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I didn't unpack it yet.\nMatthew kneels down next to a pair of MOVING BOXES in the\ncorner -- `KITCHEN' written on the side. He explores it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04   17.\nMATTHEW"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Maybe you should say something to\nthe helper, what's her name?"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Yoko."
+  },
+  {
+   "type": "stage direction",
+   "text": "MATTHEW"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Who knows? Maybe there's something\nshe can suggest."
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Yeah.     Maybe."
+  },
+  {
+   "type": "stage direction",
+   "text": "He finds his travel mug, wrapped in the sports section of an\nAmerican newspaper. Matthew scans it as he fills his mug.\nMATTHEW"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "I miss seeing this every morning."
+  },
+  {
+   "type": "stage direction",
+   "text": "No response from his wife. He turns to see Jennifer looking\ndown at Emma through the window.\nMatthew walks over, puts an arm around her.\nMATTHEW"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Hey, kiddo. You okay?"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "I went for a walk yesterday. Just\nto explore. I got lost and\ncouldn't find anyone who could\nspeak English, who could help me.\nI felt so... stupid."
+  },
+  {
+   "type": "stage direction",
+   "text": "MATTHEW"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "This will get easier soon, for Mom,\nfor all of us. I promise."
+  },
+  {
+   "type": "stage direction",
+   "text": "She turns to him."
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Or else?"
+  },
+  {
+   "type": "stage direction",
+   "text": "MATTHEW"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Or else I'll tell the company it's\njust not working out, and that\nwe're going back to the States with\nor without my old job. They can\nget someone else to crunch their\nnumbers."
+  },
+  {
+   "type": "stage direction",
+   "text": "This makes Jennifer feel better.\nRevisions (Blue) -- 1/26/04    18."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "But until then -- promise me you'll\ngive it a good try, okay Jen?"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Deal."
+  },
+  {
+   "type": "stage direction",
+   "text": "27   EXT. THE HOUSE - MORNING                                       27"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "The door opens and Matthew walks outside, stopping to look at\na familiar BICYCLE, leaning against the house near the door."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Is this Yoko's bike?"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "I think so."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "It's been here all night.\nMatthew rolls the bike from the porch to the gate, leaning it\nagainst the wall (where we saw it earlier).\nHe turns back to Jennifer, giving her a kiss."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "I'll probably be home late, maybe\naround nine or so.\nJennifer gives him a look."
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "I knew you'd forget.\nMatthew pauses, looks back blankly.    Jennifer just smiles."
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Dinner, your sister?    At seven?"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Oh yeah.   Right."
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "You were going to cook."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "I have a big conference.    They\nusually run long.\nJennifer rolls her eyes."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04    19."
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "I'll do the shopping. Just call me\nif you're going to be late.\nShe goes back inside, closes the door."
+  },
+  {
+   "type": "stage direction",
+   "text": "28   INT. GROCERY STORE - DAY                                     28"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Jennifer stands by a cart, looking pale under the stark\nfluorescent lighting. She also looks shell-shocked.\nHER POV: before her is a WALL OF JAPANESE PRODUCTS. Barely\na lick of English on any of the brightly-colored packages.\nJennifer is, in a word, clueless. She looks around for\nassistance -- but she's lost in a whirl of Japanese faces.\nShe tentatively reaches towards a bowl-shaped package.\nStudies the Japanese writing.\nStealing a glance around her, she quietly tears open a corner\nof the bowl. Peeks inside. Sniffs it. She smiles."
+  },
+  {
+   "type": "stage direction",
+   "text": "29                                                                29"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - LIVING ROOM - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "CLOSE ON the same package, a microwaveable soup bowl, now\nopen with a spoon sticking out of it. Resting, with a glass\nof water, atop the kotatsu table.\nPAN TO REVEAL a pair of feet on the lip of a MOVING BOX next\nto the table. It's Jennifer, asleep on the couch.\nA CLATTERING sound wakes her, followed by the sound of\nFOOTSTEPS running away. We PULL BACK as Jennifer sees her\nbowl, and the glass next to it, have been knocked over.\nShe sits up, looking into the TATAMI ROOM. Emma sits on the\nedge of her mattress, staring blankly at her.\nJennifer gets up, sternly walks over."
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "If you need something, all you have\nto do is say so --\nShe stops short as she sees...\nFOOTPRINTS. Formed from the broth, and noodles, of her\nspilled soup. They're the footprints of a child.\nAnd they lead away from the back room, down the main hallway."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04      20."
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Jennifer looks back up to see Emma watching her."
+  },
+  {
+   "type": "stage direction",
+   "text": "30   INT. THE HOUSE - ENTRANCE - DAY                                30"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Jennifer follows the DAMP FOOTPRINTS. They're getting\nlighter, and cease altogether in the foyer.\nShe stands there for a moment, bewildered. Then she tenses,\nas if sensing she's being watched. She slowly turns to see --\n-- A BLACK CAT. Sitting on the first landing of the stairs.\nStaring at her with bright yellow eyes.\nAs Jennifer takes a step towards it --\nTWO CHILD'S HANDS reach around the corner, and pick up the\ncat, pulling it out of view.\nJennifer freezes."
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Who's -- who's there?\nNo response. She walks up the stairs and looks around the\ncorner. Nothing there.\nShe takes a deep breath, and starts to climb."
+  },
+  {
+   "type": "stage direction",
+   "text": "31                                                                  31"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - SECOND FLOOR HALLWAY - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Reaching the top, Jennifer catches a glimpse of a familiar\nBOY running into the FRONT ROOM.\nShe slowly walks towards the open door -- we can't see inside\nthe room from the hallway. But she pauses as she hears --\nTHUD.   THUD.   The same rhythmic thumping that Karen heard.\nAfter a moment, Jennifer steps inside the room, disappearing\nfrom our sight.\nWe hear her suddenly draw a GASP.\nA beat. As we DRIFT CLOSER to the doorway, we notice\nsomething strange: the room appears to be growing darker.\nA SHARP BREATHING can be heard from inside... quick, panicked\ngulps of air. Growing faster.\nJust as we reach the doorway, the harsh breathing stops."
+  },
+  {
+   "type": "stage direction",
+   "text": "A moment of stillness.\nThen the door is SLAMMED SHUT from the inside.\nRevisions (Blue) -- 1/26/04      21.\n32   INT. THE HOUSE - ENTRANCE - NIGHT                                 32"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04   20A.",
+   "text": "Matthew enters from work, jacket slung over his shoulder."
+  },
+  {
+   "type": "stage direction",
+   "text": "(calling out)"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Sorry I'm late, it took awhile to\nwrap things up.\nHe leaves his briefcase by the door and turns to the hall --\n-- noticing the house is completely DARK."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Jen?   Susan?"
+  },
+  {
+   "type": "stage direction",
+   "text": "33                                                                     33"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - LIVING ROOM - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Matthew turns on the lights. The room has reverted to its\nmessy state, even worse than before.\nHe looks down at A PICTURE, formerly hanging on the wall, now\nlying on the ground. The glass is broken."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "What the hell? --\nHe quickly goes to the BACK ROOM. Emma sits on the edge of\nher bed, dazed and staring. In the darkness."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Mom?   Are you alright?\nNo answer.    He kneels down next to her."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Where's Jennifer, Mom?\nStill nothing.      He surveys the mess in the room.   Angrily:"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Did Yoko come today, Mom?\nRemember? The pretty girl?\nHe gets to his feet, looking at the SPILLED SOUP in the\nliving room, now hardened and crusty."
+  },
+  {
+   "type": "stage direction",
+   "text": "34   INT. THE HOUSE - SECOND FLOOR HALLWAY - NIGHT                     34"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "OVER THE RAILING:     Matthew re-enters the foyer, looking up."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     22."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Jen?   Are you up there?\nHe climbs up the stairs, walking to --"
+  },
+  {
+   "type": "stage direction",
+   "text": "35   INT. THE HOUSE - FRONT ROOM - NIGHT                        35"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Matthew stands in the doorway of the dark room.   He tries the\nlight switch. Nothing happens."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Dammit.\nHe slowly enters, feeling his way through the room. We can\nbarely make him out in the darkness... we see the shape of\nTHE BED by a window...\nMatthew feels his way to a table next to the bed.   Switches\non a small lamp --\n-- JENNIFER IS RIGHT NEXT TO HIM. Lying in bed, staring wide-\neyed at the ceiling. Matthew, startled, falls backwards."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Jennifer?    What is it --\nMatthew rushes to her, shaking her. She's unresponsive. The\nonly sign she's alive is that HER FEARFUL EYES slowly fix on\nhim. Her mouth opens, as if she's trying to speak."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "What's wrong? What happened???\nShe tries harder to form words, but can only produce a CROAK."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "I'll... I'll call an ambulance..."
+  },
+  {
+   "type": "stage direction",
+   "text": "36                                                              36"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - KITCHEN - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Matthew runs into the kitchen grabbing A LARGE BOOK on one of\nthe moving boxes. The Japanese equivalent of a YELLOW PAGES.\nHe whips it open -- hardly a word of English in it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     23.\n37   INT. THE HOUSE - LIVING ROOM - NIGHT                         37"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "A stack of BOOKS sit on the very top of a tall bookshelf.\nScissors and a roll of DUCT TAPE rest atop them.\nMatthew pushes everything aside to get at a JAPANESE/ENGLISH\nDICTIONARY underneath. The DUCT TAPE falls to the floor.\nHe tears across the room to THE PHONE BASE -- but the\ncordless phone is missing."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Dammit!"
+  },
+  {
+   "type": "stage direction",
+   "text": "38   INT. THE HOUSE - FRONT ROOM - NIGHT                          38"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Matthew re-enters, out of breath. He sits next to Jennifer,\nwho hasn't moved. Puts a hand on her chest to make sure\nshe's still breathing. She is."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Jesus Christ...\nHe looks through the dictionary, finding the word he needs:"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "`Ambulance'... \"kyukyusha\".\nThen he quickly rips open the Yellow Pages --\n-- seeing, in plain English, `EMERGENCY' on the first page.\nBelow that: `FIRE/AMBULANCE -- DIAL 119'.\nHe drops the book and reaches across the bed for a phone, on\na table at the far side --\n-- THE BOY (TOSHIO) stands up, between Matthew and the phone.\nBut he looks different from before: his skin is discolored,\nhis lips and eyes are ringed and sullen."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Who are you? What -- what are you\ndoing here?\nToshio makes a STRANGE SOUND. Looks at Jennifer, then turns\nto Matthew, SNARLING at him like a CAT.\nMatthew, shocked, falls backwards off the bed, hitting the\ntable with the lamp. It drops to the ground --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     24."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "-- and TOSHIO'S SHADOW, cast by the fallen light, begins to\nSTRETCH AND GROW across the ceiling. The shadow creeps over\nJennifer, shifting and coming towards Matthew --\n-- Matthew grabs the lamp.    He reaches it, holding it up --\nAt first, it looks like both Jennifer and Toshio have\ndisappeared. But then --\n-- Jennifer, suddenly back on the bed, SITS UPRIGHT, jerkily,\nas if she's been yanked up and forward. Her mouth is wide\nand gasping --\n-- and then she falls back onto the bed.     Dead.\nMatthew, stunned, backs away from the bed, against the\ncloset. Terrified, he doesn't notice --\n-- the THUD THUD sound growing around him.     Then --\n-- TOSHIO'S HEAD comes into frame behind him. Matthew hears\na GROWLING SOUND and turns, seeing Toshio right there! --"
+  },
+  {
+   "type": "stage direction",
+   "text": "39                                                                   39"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - ENTRANCE - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "The DOORBELL rings.   Then a few more times.\nSUSAN (American, late 20s) enters, with two bottles of wine."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Hello?\nShe kicks off her shoes."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "You guys in the kitchen?"
+  },
+  {
+   "type": "stage direction",
+   "text": "40                                                                   40"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - KITCHEN - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Susan walks in, puts the wine on the table.     Looks around."
+  },
+  {
+   "type": "stage direction",
+   "text": "(calling out:)"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "I thought you guys were gonna cook!\nShe goes into the BACK ROOM.    Sits next to Emma."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Hi, Mom.    How are you feeling?\nEmma turns to her with her usual vacant look."
+  },
+  {
+   "type": "stage direction",
+   "text": "There's a CREAK from above.   Susan looks up at the ceiling.\nRevisions (Blue) -- 1/26/04       25."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "I guess I came at a bad time, huh?"
+  },
+  {
+   "type": "stage direction",
+   "text": "41   INT. THE HOUSE - ENTRANCE - NIGHT                            41"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Twisting a corkscrew into a wine bottle, Susan leans into the\nfoyer, yelling upstairs:"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "I'll give you guys one minute to\nfinish whatever you're doing up\nthere and get your butts down here.\nAs she heads back towards the kitchen, we CRANE UP to see --\nMATTHEW. He's walking down the second floor hall. He looks\ndifferent: the expression on his face is troubled, occupied.\nAnd he's dragging his dead wife's body.   By the hair.\nHe pulls her inside the REAR ROOM -- the doorway looks more\nimposing, more ominous, than before. It's dark and\nmalevolent, the threshold to a secret that won't stay buried.\nWe CRANE BACK DOWN to see Susan in the kitchen.   She's poured\na glass of wine and sighs impatiently.\nShe walks back down the hall into the foyer."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "I mean it, guys.\nSilence from upstairs.   Shaking her head:"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Well, I warned you. Prepare to be\nemotionally scarred.\nShe starts up the stairs and turns the first corner --\n-- MATTHEW is sitting there, hands on his knees, looking\nharried. Susan YELPS."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Matthew!   Don't scare me like that!\nHe's shaking slightly.   His eyes drift up to hers."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "What's going on?   Where's Jennifer?"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04      26.\nMATTHEW",
+   "text": "She went out. Something came up."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "I hope she's not long.    I'm\nabsolutely starving."
+  },
+  {
+   "type": "stage direction",
+   "text": "Matthew looks back down at his feet.      Susan misreads:"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "I knew it. You guys forgot to go\nshopping, didn't you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Matthew abruptly stands.    Looming over his sister."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "I'm sorry.     This is a bad time."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Are you okay? What's going on?"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "You should go."
+  },
+  {
+   "type": "stage direction",
+   "text": "He moves forward, right into her. His momentum pushes Susan\nback into the foyer. She holds onto his shirt:"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Did something happen?    What's --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Matthew's hands suddenly TIGHTEN ON HER SHOULDERS. His eyes\ngrow wide, filled with anger, as he whispers fiercely --"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "She doesn't love me... she never\nloved me..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Susan watches as he repeats himself, over and over.      Growing\nscared, she finally SHAKES HIM."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "What are you talking about?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Matthew slowly looks up.    Malice on his face.\nHe steps forward.   Susan backs away."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Stop it, Matthew."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Leave me alone."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04        27."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Matthew, please --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(yelling)"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "GO AWAY!!!\nSusan fumbles with the front door. She gets it open and runs\nout just before Matthew reaches her.\nON MATTHEW: he stands there, head tilted down, for a moment.\nThen he straightens. Slowly closes the front door.\nMatthew heads back upstairs. He reaches the second floor and\nopens the door to the rear bedroom.\nThe room beyond is dark. But A DARK FIGURE is visible,\nstanding in the far corner, facing Matthew.\nHe steps inside, and the door slowly swings shut behind him."
+  },
+  {
+   "type": "stage direction",
+   "text": "42                                                                42"
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE HOUSE - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "It's an overcast afternoon.  Swollen clouds hang low over\nThe House. It looks a bit more imposing than usual.\nTHE MAILBOX is adorned with the Japanese equivalent of a \"For\nSale\" sign -- weather-worn, and looks like it's been there\nfor years.\nSUZUKI (30s, Japanese), a Real Estate agent, waits by the\ngate. Then he notices something. Waves, and smiles.\nIt's SUSAN, approaching with MATTHEW, JENNIFER and EMMA.\nSusan shakes Suzuki's hand and they exchange a greeting in\nJapanese. She turns to her brother."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "This is Suzuki-san, he's the Real\nEstate broker.\nSuzuki bows at Matthew and Jennifer, says something."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "What did he say?"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "He said: \"welcome to Tokyo\". And\nthat you must be very important to\nyour company for them to rent this\nplace for you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04        28."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Matthew grins.   Susan rolls her eyes."
+  },
+  {
+   "type": "stage direction",
+   "text": "43   INT. THE HOUSE - ENTRANCE - DAY                               43"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Everyone enters, checking the place out. Suzuki and Susan\nslip off their shoes. As Matthew steps into the foyer:"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Your shoes."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Oh.    Right.\nHe kneels down, untying his shoes.   Jennifer looks perplexed."
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Even in our own house?"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Even in your own house.\nSuzuki smiles as Matthew and Jennifer take off their shoes.\nSusan says something to him in Japanese and he laughs. They\nwalk down the hall, and Matthew and Jennifer follow."
+  },
+  {
+   "type": "stage direction",
+   "text": "44                                                                 44"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - LIVING ROOM - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Suzuki opens the blinds, letting some light into the place.\nIt's not helping much -- it's still pretty dreary."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Isn't the layout great? Wait `till\nyou see the back room. It's\nperfect for Mom -- she won't have\nto deal with the stairs.\nJennifer follows him through the room.   She doesn't look\nquite as enthusiastic.\nMatthew slides open the door leading to the TATAMI ROOM."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Her bed won't be here until next\nweek, but we can put the mattress\non the floor. What do you think?\nJennifer warms a bit.   The wooden room is beautiful.\nSusan asks Suzuki a question in Japanese, and he responds."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04    29."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "He says no one has lived in this\nhouse for three years."
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Why?\nSusan asks Suzuki in Japanese.    He shrugs."
+  },
+  {
+   "type": "stage direction",
+   "text": "SUZUKI\n(trying his English:)"
+  },
+  {
+   "type": "speech",
+   "character": "JENNIFER",
+   "text": "Ex-pen-sive.\nMatthew suddenly realizes:"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Where's Mom?\nWe slowly CRANE UP to the SECOND FLOOR HALL, moving towards\nthe REAR ROOM at the end. The door is ajar."
+  },
+  {
+   "type": "stage direction",
+   "text": "44a                                                            44a"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - SECOND FLOOR HALLWAY - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "Susan comes up the stairs, worried."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Mom?   Where are you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "44b   INT. THE HOUSE - FRONT ROOM - DAY                        44b"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Susan looks inside -- Emma isn't there. She's about to leave\nwhen something catches her attention. She walks to\nTHE CLOSET. The door is open. Susan kneels down, looking at\nsomething inside it. She picks it up --\n-- it's the CERAMIC CAT Karen found earlier. As Susan\nexamines it, she notices something on the wall of the closet\n(which we don't see). Her face softens, and she smiles."
+  },
+  {
+   "type": "stage direction",
+   "text": "MATTHEW (O.S.)"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Did you get her?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(under her breath:)"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Take a pill, will ya?\nSusan stands and walks out of the room. But we stay in the\ncloset, PANNING TO REVEAL the closet wall. It's covered with\nBLACK CRAYON, low to the ground, the work of a child. The\nimages are dozens of BLACK CATS."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04      29A.\n45   INT. THE HOUSE - REAR ROOM - DAY                             45"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Emma stands in the dead center of the empty bedroom.\nLooking directly up at the ceiling.\nSusan enters, placing the ceramic cat on THE SHELF where\nKaren found it earlier. Except Susan faces it INTO THE ROOM."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "C'mon, Mom. You know what the\ndoctor said about stairs.\nShe takes Emma's hand, but the old woman doesn't move.\nMatthew and Jennifer enter, worried."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "She okay?"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Mom?   What is it?\nEveryone follows her gaze to the ceiling.   Only Emma has the\nunmistakable look of dread on her face.\nA long beat."
+  },
+  {
+   "type": "stage direction",
+   "text": "46                                                                46"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - HALLWAY - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Suzuki walks from the kitchen into the hallway, giving the\nplace one final look-over.\nHe pauses by the open bathroom door.   Looks inside."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04       30.\n47   INT. THE HOUSE - BATHROOM - DAY                                  47"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Suzuki enters, looking at THE TUB:    filled to the brim.\nAfter a moment, Suzuki kneels down next to the bathtub.     He\npulls the thin CHAIN connected to the rubber stopper --\n-- but the end of the chain comes out of the water.      Hmmm.\nIt's not connected after all.\nSuzuki eyes the plug at the bottom of the tub.\nThen he takes off his jacket.   Rolls up his shirt sleeve.\nAnd reaches into the water for the rubber stopper.\nIt's just out of reach.\nHe rolls up his sleeve a little more.   Reaches deeper --\n-- suddenly there's a BURST OF SOUND: a dull THUMPING,\nsomething THRASHING in water, the SCREAMING of a YOUNG BOY,\nvoice MUFFLED by water --\n-- Suzuki recoils as water SPLASHES UP around him --\n-- he falls away from the tub in horror, landing on his butt.\nTHE BATHTUB: Filled to the brim.     Still and silent.    Not so\nmuch as a ripple on the surface.\nThat couldn't have just been his imagination, could it?\nAs he slowly stands, he sees something out of the corner of\nhis eye --\n-- a DEAD CAT, bloody and torn, in the corner of the room."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04         30A."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "As Suzuki backs away from it, eyes widening in horror, he's\nstartled by --\nMATTHEW, standing in the doorway.   Beaming at him."
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "It's perfect. We'll take it.\nSuzuki looks back to the corner.    There's no dead cat.\nA RINGING SOUND comes into focus -- the BEEPING of a phone,\nwaiting for someone to pick up and make the connection..."
+  },
+  {
+   "type": "stage direction",
+   "text": "47a   OMITTED                                                      47a\nRevisions (Blue) -- 1/26/04     31.\n47b   OMITTED                                                   47b\n47c   OMITTED                                                   47c\n48    INT. OFFICE BUILDING - SUSAN'S FLOOR - NIGHT               48"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW",
+   "text": "It's after-hours in this office space: CUBICLES fill the\ncenter, surrounded by glass-windowed OFFICES. The glittering\nlights of the Tokyo cityscape beyond show a hell of a view.\nOne light still burns in an office towards the end --\n-- SUSAN'S OFFICE. She's working late. She wears a phone\nheadset while she types lines of code into her computer.\nNo one's answering.   A familiar answering machine picks up:"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW & JENNIFER (ON MACHINE)",
+   "text": "\"Konnichiwa! Matt and Jennifer\naren't around, leave a message.\""
+  },
+  {
+   "type": "stage direction",
+   "text": "SUSAN (INTO PHONE)"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW & JENNIFER (ON MACHINE)",
+   "text": "Hey, guys, it's Susan. Matt, are\nyou there? Pick up... Okay, well,\nI'm leaving work now so you can try\nmy cell, or just call me at home\nlater.\nShe pauses.   Leans back, away from the keyboard."
+  },
+  {
+   "type": "stage direction",
+   "text": "SUSAN (INTO PHONE)"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW & JENNIFER (ON MACHINE)",
+   "text": "I just wanted to make sure Mom is\nokay. Yesterday was..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04        32.\nSUSAN (INTO PHONE) (cont'd)"
+  },
+  {
+   "type": "speech",
+   "character": "(MORE)",
+   "text": "a bit weird, and -- I'm just a\nlittle worried. Listen, just give\nme a call when you can, okay?\nShe hangs up, taking the headset off.   Concerned."
+  },
+  {
+   "type": "stage direction",
+   "text": "49    INT. OFFICE BUILDING - 10TH FLOOR HALL - NIGHT               49"
+  },
+  {
+   "type": "speech",
+   "character": "(MORE)",
+   "text": "Susan walks through the hallway. She hears a strange\nscraping sound -- it sounds as though something is being\ndragged.\nSusan turns around, but the hallway looks normal. Is it just\nher imagination?\nThe sound starts again, coming closer. Susan gets scared and\nopens the door to the emergency stairwell beside her."
+  },
+  {
+   "type": "stage direction",
+   "text": "49a                                                               49a"
+  },
+  {
+   "type": "location",
+   "text": "INT. STAIRWELL - 10TH FLOOR - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "(MORE)",
+   "text": "The hallway is chilly -- Susan shivers. She's about to start\nwalking down when she looks up, noticing THE LIGHTS at the\ntop floor FLICKERING.\nA wind suddenly blows through the center of the stairwell\nwith an eerie ROAR.\nSusan looks disconcerted as she starts walking down...\nThen we hear the SCRAPING SOUND again. Startled, Susan\npauses and looks down, over the railing.\nThere's nothing there -- but the sound continues, growing\nlouder, like something is moving up towards her."
+  },
+  {
+   "type": "stage direction",
+   "text": "(calling out:)"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Is anybody there?\nJust then, the lights on the top floor finally GO OUT.\nSusan's breath catches in her throat as she looks up --\nThe lights on the next floor go out. And the next. The\ndarkness above growing closer with each darkening floor.\nSusan nervously looks back down -- the SCRAPING is even\ncloser. And then, for an instant, she sees A SKINNY PALE\nHAND on the railing two floors down.\nTerrified, Susan starts to back up -- but stops as she\nrealizes that the darkness from above is almost upon her."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     32A."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Then Susan sees A FINGERTIP of the hand at the corner of the\nfloor where she stands, and A HEAD COVERED WITH BLACK HAIR\nslowly crawling up on the wall.\nSusan's mouth opens in a silent screen. With nowhere to\nescape, she opens the same door and rushes back into the\nhallway --"
+  },
+  {
+   "type": "stage direction",
+   "text": "49b   OMITTED                                                    49b\nRevisions (Blue) -- 1/26/04        33.\n49c    OMITTED                                                     49c\n49cc   INT. OFFICE BUILDING - 10TH FLOOR HALL - NIGHT             49cc\n-- but her lucky RABBIT'S FOOT gets caught on the door latch.\nPanicking, Susan struggles to free herself --\nThrough the crack, she sees the darkness continuing to come\ndown. The lights on Susan's floor FLICKER.\nSusan looks up to see A PALE BOY on the landing to the higher\nfloor. The SAME BOY is also standing on the landing of each\nfloor above. They're all staring down at Susan.\nSusan screams as she desperately tries to yank her chain\nfree... and then she sees THE PALE HAND clutching her\nrabbit's foot!\nThe door shuts, and Susan falls backwards into the hallway.\nShe jumps to her feet and runs down the hall.\n50     OMITTED                                                      50\n51     OMITTED                                                      51\nRevisions (Blue) -- 1/26/04      34.\n52     OMITTED                                                      52\n52a    OMITTED                                                     52a\n53     INT. OFFICE BUILDING - SECURITY ROOM - NIGHT                 53\nA cramped room. Susan stands in the doorway, animatedly\ntalking to a young SECURITY GUARD sitting at a desk lined\nwith VIDEO MONITORS. She's speaking rapidly, and shaking:"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN (IN JAPANESE)",
+   "text": "In the stairs... there was...\nsomething... a strange person...\nall the lights were going out..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Guard doesn't understand her -- in her panic, Susan's\nMISPRONOUNCING HER WORDS, and she knows it.\nSusan takes a breath, frustrated and frightened."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pleading, in English)"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Please. Help me."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Guard stands, placing a reassuring hand on her shoulder."
+  },
+  {
+   "type": "speech",
+   "character": "GUARD (IN JAPANESE)",
+   "text": "I'll take a look. Wait here."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Guard leaves.   Susan doesn't look thrilled to be alone.\n54     OMITTED                                                      54\n54a                                                                54a\nOMITTED\nOMITTED\n54aa                                                             54aa\n54ab   INT. 10TH FLOOR HALL - NIGHT                              54ab\nHolding a flashlight, the Guard walks down the hallway,\nchecking the doors.\nRevisions (Blue) -- 1/26/04       35.\n54b   INT. OFFICE BUILDING - SECURITY ROOM - NIGHT                54b"
+  },
+  {
+   "type": "speech",
+   "character": "GUARD (IN JAPANESE)",
+   "text": "Susan takes a breath and sits down, trying to relax. It's\nobvious that she feels safer, here in the Security Room.\nThen she notices movement on one of the SECURITY MONITORS --\nON THE SCREEN: -- the GUARD continues down the 10TH FLOOR\nHALL, stopping at the door to the stairwell.\nSusan leans toward the monitor for a better view.\nON THE SCREEN: the Guard opens the stairwell door and leans\ninside, checking it out.\nON SUSAN:   her eyes are glued to the screen.   Waiting.\nON THE SCREEN: the Guard, finding nothing out of the\nordinary, closes the door and continues on down the hall.\nSUSAN leans back, exhaling.    Relieved.\nThen the video CRACKLES with a sudden quick burst of static.\nAnd Susan GASPS, sitting upright, as she sees --\nON THE SCREEN:   the stairwell door OPENS AGAIN.   And then --\n-- something DARK moves out of the stairwell, entering the\nhallway.\nON SUSAN: she recoils from the screen in horror, unable to\ntear her gaze away. Her mouth opens in a silent scream, her\neyes widening as she watches --\n-- and then she finds the strength to get to her feet."
+  },
+  {
+   "type": "stage direction",
+   "text": "55                                                                 55"
+  },
+  {
+   "type": "location",
+   "text": "INT. OFFICE BUILDING - FOYER - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "GUARD (IN JAPANESE)",
+   "text": "Susan bursts out of the security room and runs through the\nempty lobby, towards the front doors."
+  },
+  {
+   "type": "stage direction",
+   "text": "56    OMITTED                                                      56\n56a   EXT. OFFICE BUILDING - NIGHT                                56a"
+  },
+  {
+   "type": "speech",
+   "character": "GUARD (IN JAPANESE)",
+   "text": "Susan rushes out of the front doors and runs to the street.\nShe frantically hails a cab and gets in."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     35A.\n56b   INT. TAXI - NIGHT                                        56b"
+  },
+  {
+   "type": "speech",
+   "character": "GUARD (IN JAPANESE)",
+   "text": "Susan presses herself in the corner of the back seat, purse\nclutched tightly in her white knuckles."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     36."
+  },
+  {
+   "type": "speech",
+   "character": "GUARD (IN JAPANESE)",
+   "text": "A shifting wash of colors flood the taxi: the NEON LIGHTS of\nthe surrounding buildings tower above, threatening to swallow\nher whole."
+  },
+  {
+   "type": "stage direction",
+   "text": "57   INT. SUSAN'S BUILDING - NIGHT                                  57"
+  },
+  {
+   "type": "speech",
+   "character": "GUARD (IN JAPANESE)",
+   "text": "Susan rushes through the front doors, clutching her purse\nstrap with both hands. Shaken, just wanting to get home.\nShe runs to the elevator and jabs the button for her floor."
+  },
+  {
+   "type": "stage direction",
+   "text": "58   INT. ELEVATOR - NIGHT                                          58"
+  },
+  {
+   "type": "speech",
+   "character": "GUARD (IN JAPANESE)",
+   "text": "Susan tries to regain her composure as the elevator rises.\nShe closes her eyes and leans against the wall --\n-- not noticing A FAMILIAR PALE JAPANESE BOY looking at her\nthrough the window of every floor she passes --\nToshio. He's standing CLOSER TO THE WINDOW with each floor.\nUntil finally, he's RIGHT NEXT TO THE GLASS --\nThe elevator stops at her floor:    no little boy this time."
+  },
+  {
+   "type": "stage direction",
+   "text": "59   INT. HALLWAY - NIGHT                                           59"
+  },
+  {
+   "type": "speech",
+   "character": "GUARD (IN JAPANESE)",
+   "text": "Susan gets out of the elevator, moving quickly to her\napartment at the end of the hall.\nShe chances a look over her shoulder as she puts the key in\nher lock. Then she goes in and closes the door."
+  },
+  {
+   "type": "stage direction",
+   "text": "60   INT. SUSAN'S APARTMENT - NIGHT                                 60"
+  },
+  {
+   "type": "speech",
+   "character": "GUARD (IN JAPANESE)",
+   "text": "Susan enters. She takes a long, deep breath. Safe at home.\nShe sits at her kitchen table, laying her purse down.\nHer eyes go to the BROKEN CHAIN still hanging from the strap,\nwith some rabbit's foot fur lodged in the links.\nSusan's home phone RINGS, and she jumps.    She stares at it\nfor a moment, then tentatively answers:"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN (INTO PHONE)",
+   "text": "Hello?"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW (PHONE)",
+   "text": "It's me."
+  },
+  {
+   "type": "stage direction",
+   "text": "There's something strange about his voice:   it's oddly flat,\nwithout inflection.\nRevisions (Blue) -- 1/26/04    37."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN (INTO PHONE)",
+   "text": "Matthew!   Are you alright?"
+  },
+  {
+   "type": "speech",
+   "character": "MATTHEW (PHONE)",
+   "text": "I'm downstairs. What number are\nyou again?"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN (INTO PHONE)",
+   "text": "702.   I'll buzz you in.\nShe presses a button on the phone, and is about to hang up --\nAlmost immediately there's a LOUD KNOCK at her door. She\ngets to her feet, surprised. How did he get up so fast?\nSusan goes to the door and looks through the peephole.\nHER POV: Matthew's face, distorted by the fish-eye glass.\nHe's looking into the peephole, with a sneer on his face.\nSusan opens the door."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "I don't know what you're up to, but\nthis is not cool --\nShe catches her breath.   THERE'S NO ONE THERE.\nThen the phone emits the THROATY CROAKING sound.   Quickly\ngrowing louder and LOUDER...\nSusan cries out and drops the phone. It BREAKS OPEN on the\nhallway floor as Susan slams her apartment door."
+  },
+  {
+   "type": "stage direction",
+   "text": "61                                                                61"
+  },
+  {
+   "type": "location",
+   "text": "INT. SUSAN'S APARTMENT - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Susan quickly draws the chain lock. Then she builds the\ncourage to step forward, and look through the peephole --\nHER POV: the phone lies broken in the middle of the floor.\nOtherwise, the hallway is empty.\nSusan backs away from the door, shaking in fright.\nBreathing hard, she backs into --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04         38.\n62    INT. SUSAN'S APARTMENT - BEDROOM - NIGHT                        62"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Susan enters, turning off her cell phone and unplugging the\nbedroom phone from the wall.\nThen she retreats to the safety of her bed, eyes on --\nTHE APARTMENT DOOR, next to the kitchen.    Silence.\nSusan's breathing slows. But she looks around the room,\nstill anxious -- it's too quiet in here. Her panic builds.\nBut she's alone in the room, isn't she?\nAs we MOVE IN on Susan, the room starts to become quieter.\nThe SOUND OF TRAFFIC from outside, the HUMMING REFRIGERATOR\nin the kitchen... everything fades to a stifling silence.\nAnd Susan notices, all right.    Her breath, now suddenly loud,\ncatches in her throat.\nA long moment of silence.   Then --\n-- DRIP.   DRIP.\nIt's coming from the KITCHEN SINK.\nSusan stares at it.   She finally stands, and --"
+  },
+  {
+   "type": "stage direction",
+   "text": "62a                                                                  62a"
+  },
+  {
+   "type": "location",
+   "text": "INT. SUSAN'S APARTMENT - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "-- slowly walks into THE KITCHEN. She reaches out and turns\nthe faucet handle. Tightens it. The dripping stops.\nRelieved, Susan turns away --\n-- DRIP.   DRIP.   It begins again.   Louder, more intense.\nScared, Susan turns back to the sink. Water is now GUSHING\nOUT from the faucet, filling up a bowl in the sink.\nShe slowly reaches out a hand and turns the faucet, as\ntightly as she can manage --\n-- tighter... tighter... straining with the effort..\nUntil the water stops.   Only then does she let go --\n-- just then, a CHILD'S PALE HAND quietly rises to the\nsurface from water in the bowl, and starts VIOLENTLY\nSPLASHING the surface."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04        38A."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Susan screams and runs back to her bedroom --"
+  },
+  {
+   "type": "stage direction",
+   "text": "62b   INT. SUSAN'S APARTMENT - BEDROOM - NIGHT                    62b"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "She lies down, shivering, pulling the quilt to her chin.      A\nfinal retreat."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Please... stop it...\nThe SPLASHING SOUNDS in the kitchen continue for a while.\nThen, it suddenly stops.\nSusan is so terrified that she almost faints.\nThen her breathing stops.   Her eyes widen.\nHer hand reaches up under her pillow, feeling around --\n-- and she comes out with HER LUCKY RABBIT'S FOOT.\nThe one she left behind in the stairwell.\nSusan suddenly CRIES OUT, her head tilting back, her body\nabruptly going stiff. We soon see why:\nA LUMP begins to rise at the foot of the bed. A big one.\nMoving slowly up Susan's body. Reaching the edge of the\nquilt, which slowly rises --\n-- revealing a QUICK FLASH of the PALE FACE OF THE JAPANESE\nWOMAN WITH LONG DARK HAIR on top of her!\nSusan SCREAMS, and is abruptly pulled under the covers --"
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO BLACK.\nRevisions (Blue) -- 1/26/04      39.\n63   INT. THE HOUSE - LIVING ROOM - NIGHT                         63"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Dark and still.   Lying in wait.   Completely silent, except --\n-- someone's KNOCKING on the front door."
+  },
+  {
+   "type": "stage direction",
+   "text": "64   INT. THE HOUSE - SECOND FLOOR HALLWAY - NIGHT                64"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "They're still KNOCKING."
+  },
+  {
+   "type": "stage direction",
+   "text": "65   INT. THE HOUSE - ENTRANCE - NIGHT                            65"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Apparently, whoever's KNOCKING isn't going to give up --\n-- the DOOR HANDLE jiggles.   But it's locked."
+  },
+  {
+   "type": "stage direction",
+   "text": "66                                                                66"
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE HOUSE - KITCHEN - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "Karen's CELL PHONE lays on the table in the foreground.\nBeyond is the hallway, and the front door."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04       40."
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "The knocking has stopped.    Silence.\nThen Karen's cell phone suddenly LIGHTS UP, ringing.\nIt rings four times, then goes to voice mail."
+  },
+  {
+   "type": "stage direction",
+   "text": "67   INT. THE HOUSE - BATHROOM - NIGHT                              67"
+  },
+  {
+   "type": "speech",
+   "character": "SUSAN",
+   "text": "A new SOUND breaks the silence: movement outside. Crunching\nfootsteps on gravel, someone brushing past tree limbs.\nA SHADOW falls over the window.   A face looks inside --\n-- it's ALEX, Karen's boss. He walks away from the window\nand continues down the side of the house --\n-- we TRACK down the hallway, past the bathroom, through the\nkitchen, following his progress into --\nTHE BACK ROOM: Alex is visible through the sliding door\nleading to the back porch. He peers inside.\nHIS POV: A FIGURE covered head-to-toe in a white sheet lies\non the mattress. Unmoving.\nAlex tries the sliding door -- it's open.     He steps inside."
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "Karen?\nSilence greets him.   He stares down at the figure in the bed.\nAlex licks his lips, nervous.   Finally walks to the mattress,\nkneeling down next to it.\nRaises a hand and grabs the sheet.      Raises it over the head --\n-- it's Emma. As we last saw her, eyes on the ceiling, mouth\nand eyes wide open in fear.\nBut now it's clear, from the tache noire in the eyes, the\nblanched skin, the rigidity of her body: she's dead.\nAlex falls back onto his butt, staring at Emma.     He pulls\nhimself away from the corpse --\n-- and freezes.    There's something right behind him.\nHe whirls around --\n-- it's KAREN.    In the corner, looking pale and dazed."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04       41.\n68   EXT. THE HOUSE - NIGHT                                       68"
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "Two POLICE CARS and an AMBULANCE are parked out front.\nAn UNMARKED CAR pulls up, and DETECTIVE NAKAGAWA (40s) exits\nthe passenger side. He looks up at The House with dread.\nThe driver, DETECTIVE IGARASHI (30s), moves next to him."
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "I can handle this myself, you know.\nIt's just a routine call. I don't\nknow why you wanted to come.\nHe turns to Nakagawa, awaiting a response. He doesn't get\none. Nakagawa just stares up at The House."
+  },
+  {
+   "type": "stage direction",
+   "text": "69                                                                69"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - LATER"
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "The house feels completely different: all the interior\nlights are on, a few POLICE OFFICERS mill about, two EMTs\nwheel EMMA'S BODY out the front door on a gurney.\nAlex sits at the kitchen table, frazzled.   He turns to --\n-- KAREN. She's sitting in the living room, wrapped in a\nblanket, being attended to by a FEMALE NURSE and speaking\nwith Nakagawa and Igarashi, who is taking notes on a pad.\nKaren says something and the Detective looks over at Alex.\nThen he speaks to the Nurse, who helps Karen to her feet.\nNakagawa and Igarashi enter the kitchen.    In perfect English:"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "I am Detective Nakagawa. This is\nDetective Igarashi, my assistant."
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "Is Karen okay?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04      42."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "She is very shaken. We would like\nher to stay in the hospital\ntonight, under evaluation."
+  },
+  {
+   "type": "stage direction",
+   "text": "He hands Alex a wedding picture of MATTHEW AND JENNIFER."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "Do you know these people?"
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "Matthew Williams, and his wife\nJennifer. He's Emma's son, the\nwoman Karen came here to see."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "When was the last time you saw him?"
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "I met them when they came to\nregister. It's standard procedure,\nthough the visits were arranged by\nhis employer. He works at --"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "We've spoken with his employer.   He\ndid not show up for work today."
+  },
+  {
+   "type": "stage direction",
+   "text": "Something about this gives Alex pause. Nakagawa speaks\nbriefly to Igarashi in Japanese, then hands Alex a card."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "If you could please come by\ntomorrow to make a statement, the\naddress is there, at the bottom --"
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "(realizing)\nYoko."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "I'm sorry?"
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "Karen was a substitute -- Yoko is\nthe girl who is normally in charge\nof Emma. She's also been missing\nfrom work."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "For how long?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     42aA."
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "For the last two days."
+  },
+  {
+   "type": "stage direction",
+   "text": "Nakagawa and Igarashi exchange a look."
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "I think I saw her bike outside."
+  },
+  {
+   "type": "stage direction",
+   "text": "Nakagawa heads for the front door as Igarashi continues to\ninterview Alex.\nRevisions (Blue) -- 1/26/04   42A.\n70   EXT. THE HOUSE - NIGHT                                     70"
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "Nakagawa stands outside by the front gate, looking at --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04       43."
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "-- YOKO'S BICYCLE.   He looks down at it, frowning.\nThen he suddenly cocks his head.    As if sensing something.\nHe turns to look up at A WINDOW ON THE SECOND FLOOR.\nIt's empty."
+  },
+  {
+   "type": "stage direction",
+   "text": "71   INT. THE HOUSE - LIVING ROOM - NIGHT                           71"
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "Igarashi stands by the ANSWERING MACHINE.    The message\ncounter reads `1'. He presses PLAY.\nSUSAN'S MESSAGE replays, and he listens carefully. As it\nends, he turns to see NAKAGAWA standing in the doorway."
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "That's Matthew's sister.\nHe shows Nakagawa a PHOTO of Matthew and Susan, brother and\nsister, grinning at the camera."
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "This must be her.\nThe look on Nakagawa's face is grave."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "Call her at work, then at home. If\nno one answers, send someone to --\nHe trails off, looking down at --\n-- the PHONE BASE.   The cordless phone is missing.\nNakagawa reaches down, pressing the `LOCATE' button.\nA distant BEEPING SOUND can be heard.\nEveryone in the room stops what they're doing.    They listen."
+  },
+  {
+   "type": "stage direction",
+   "text": "72                                                                  72"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - ENTRANCE - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "Nakagawa and Igarashi enter from the hallway, followed by\ntheir men. They look up to the second floor.\nThe BEEPING is definitely coming from upstairs."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04          44.\n73   INT. THE HOUSE - REAR ROOM - NIGHT                              73"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "Nakagawa and Igarashi come upstairs, their men following\nclose behind.\nThey pause in the hallway for a moment. Then Nakagawa walks\ninto the rear room (Matthew's office). The BEEPING is close.\nHe stands there, in the center of the room, listening.\nThen he looks up, at the ceiling.    Everyone follows suit.\nNakagawa turns to the CLOSED CLOSET DOORS."
+  },
+  {
+   "type": "stage direction",
+   "text": "74   INT. CLOSET - NIGHT                                             74"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "He quickly pulls open the door.   The closet is empty.\nNakagawa looks up, peering into the darkness.\nHIS POV:   the ATTIC PANEL yawns wide open.\nAnd right next to it are FOUR LONG GROOVES in the ceiling.\nAs if something was dragged across it, right to the edge.\nSomething like fingernails.\nNakagawa leans out, looking at Igarashi."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "I need your flashlight."
+  },
+  {
+   "type": "stage direction",
+   "text": "75                                                                   75"
+  },
+  {
+   "type": "location",
+   "text": "INT. ATTIC - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "A shaft of light from the flashlight through the open attic\naccess cuts through the thick darkness.\nNakagawa appears, pulling himself up into the attic.     He\nswings his flashlight slowly around the room.\nIgarashi comes up next to Nakagawa just as the Detective's\nflashlight stops on something.\nA beat as they exchange an uneasy look.\nThen Nakagawa and Igarashi crawl through the darkness towards\nthe far corner of the space.\nTwo bodies are tucked into the corner.    MATTHEW AND JENNIFER."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     45."
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "God!\nNakagawa sits in front of the bodies, examining them."
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "What the hell... what is going on?\nNakagawa sees the beeping CORDLESS PHONE a few feet away.\nSOMETHING next to it attracts Nakagawa's interest. We can't\nsee what it is, but there's some DEEP RED in it, and\nsomething very WHITE --"
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "What is that?\n-- Nakagawa's eyes widen as he realizes what he's looking at."
+  },
+  {
+   "type": "stage direction",
+   "text": "76                                                                 76"
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE HOUSE - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "The POLICE CARS outside have attracted a small crowd.   The\nTWO BODIES are being loaded into a POLICE VAN.\nNakagawa stands with THE CORONER. The CORONER'S ASSISTANT,\nwearing a face mask and rubber gloves, approaches. He holds\nsomething small, wrapped in a bloody white sheet.\nThe Coroner slowly unfolds the sheet. We can't see what he's\nlooking at -- but it elicits quite a reaction."
+  },
+  {
+   "type": "speech",
+   "character": "CORONER (IN JAPANESE)",
+   "text": "Who does this belong to?"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA   (IN JAPANESE)",
+   "text": "We don't know.\nThe Coroner quickly re-covers the object."
+  },
+  {
+   "type": "speech",
+   "character": "CORONER (IN JAPANESE)",
+   "text": "I can use the blood to help\nidentify the person.\nAs the Coroner and his assistant walk away:"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "Is it possible that someone could\nlive without... that?\nThe Coroner turns back, his face pale."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04   45A."
+  },
+  {
+   "type": "stage direction",
+   "text": "I certainly hope not.\nRevisions (Blue) -- 1/26/04       46."
+  },
+  {
+   "type": "speech",
+   "character": "CORONER (IN JAPANESE)",
+   "text": "Nakagawa turns away to see Igarashi approaching, talking into\na cell phone. He looks disturbed. As he hangs up:"
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "Someone just reported another\ndeath. It's not in our district...\nbut I think we should check it out.\nNakagawa realizes something's troubling his partner."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "Why?"
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "The cause of death is not clear...\nbut it is the man who sold them\nthis house."
+  },
+  {
+   "type": "stage direction",
+   "text": "77                                                                     77"
+  },
+  {
+   "type": "location",
+   "text": "EXT. TOKYO STREET - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "CLOSE ON the spinning wheels of a bicycle.      A familiar one.\nThe pedals are being pumped by a beautiful young Japanese\nwoman -- this is YOKO (early 20s).\nYoko turns, riding down a small side street.      It ends, and\nshe rounds a corner stopping in front of --"
+  },
+  {
+   "type": "stage direction",
+   "text": "77a   EXT. THE HOUSE - DAY                                         77a"
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "Yoko opens the gate and walks her bike to the front door,\nleaning it against the wall nearby (exactly where we saw\nMatthew bump into it earlier).\nShe rings the door buzzer. Waits. She seems to have\nexpected this: she pulls a KEY from her pocket, with a\nplastic LABEL on it."
+  },
+  {
+   "type": "stage direction",
+   "text": "78                                                                     78"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - ENTRANCE - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "Yoko steps inside. She instinctively slips off her shoes.\nShe calls out, in decent English:"
+  },
+  {
+   "type": "stage direction",
+   "text": "YOKO"
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "Hi, excuse me?\nThere's a small ENVELOPE with YOKO'S NAME resting on a small\ntable by the door. She takes it, opens it."
+  },
+  {
+   "type": "stage direction",
+   "text": "THE LETTER says, simply:   \"Out for a walk, back later.\"\nRevisions (Blue) -- 1/26/04       47.\nYOKO"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04         46A.",
+   "text": "Emma?   It's Yoko.   I'm coming in."
+  },
+  {
+   "type": "stage direction",
+   "text": "79   INT. THE HOUSE - LIVING ROOM - DAY                           79"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04         46A.",
+   "text": "The house is the least \"moved-into\" that we've seen so far:\nalthough the main furniture is in place, MOVING BOXES are\nstacked in every room, in various stages of unpacking.\nBut there's also an unusual amount of mess in the house -- a\ndisarray, much like the opening sequence, that isn't exactly\nrelated to moving in.\nYoko surveys the room, dismayed by the mess.\nThen she sees EMMA at the far end of the living room, her\nback to Yoko. She's looking down at something in her hands."
+  },
+  {
+   "type": "speech",
+   "character": "YOKO",
+   "text": "Hi, Emma.    It's good to see you\nagain.\nEmma turns. Looks blankly at Yoko, who approaches.\nRealizing the woman doesn't remember her:"
+  },
+  {
+   "type": "speech",
+   "character": "YOKO",
+   "text": "My name is Yoko.\nThe old woman still gives no sign of recognition.   Yoko\ngently takes her arm."
+  },
+  {
+   "type": "speech",
+   "character": "YOKO",
+   "text": "You should be in bed --\nThen she sees what Emma was looking at: the roll of DUCT\nTAPE. She's cut her finger on the serrated cutting blade."
+  },
+  {
+   "type": "speech",
+   "character": "YOKO (IN JAPANESE)",
+   "text": "You shouldn't be playing with this!\nShaking her head, Yoko takes the duct tape and looks around\nfor a place where Emma can't get at it --\n-- she puts the tape ON THE STACK OF BOOKS at the top of the\nbookshelf, next to the scissors (where Matthew found them)."
+  },
+  {
+   "type": "stage direction",
+   "text": "80                                                                80"
+  },
+  {
+   "type": "speech",
+   "character": "YOKO (IN JAPANESE)",
+   "text": "OMITTED"
+  },
+  {
+   "type": "stage direction",
+   "text": "81   OMITTED                                                      81\nRevisions (Blue) -- 1/26/04        48.\n81a   INT. THE HOUSE - ENTRANCE - DAY                              81a"
+  },
+  {
+   "type": "speech",
+   "character": "YOKO (IN JAPANESE)",
+   "text": "From the entrance, we see Yoko come out of the kitchen\nholding a tray with a teapot and cup.\nShe walks into the BACK ROOM, looking down at Emma's bed.\nThe old woman must be asleep: Yoko gently lays down the\ntray, quietly steps out of the room and slides the door shut.\nThen Yoko moves through the LIVING ROOM to the PHONE BASE --\n-- she picks up THE CORDLESS, finally where it belongs.\nYoko dials a number as she walks into THE ENTRANCE HALL.     She\nbegins a conversation (in Japanese) as she looks at the\nscattered rubbish on the ground, shaking her head.\nShe climbs up to the SECOND FLOOR, pausing to kneel and pick\nup some pieces of crumpled paper, chatting all the while.\nTHUD. THUD. Yoko pauses, turning towards the open door to\nthe front room. The rhythmic THUMPING continues."
+  },
+  {
+   "type": "stage direction",
+   "text": "82    OMITTED                                                       82\n83    OMITTED                                                       83\n84    INT. THE HOUSE - FRONT ROOM - DAY                             84"
+  },
+  {
+   "type": "speech",
+   "character": "YOKO (IN JAPANESE)",
+   "text": "The room is a mess. The bed is unmade, clothes are strewn on\nthe floor. Looks like a storm swept through it.\nYoko stands in the doorway, listening for the THUMPING\nsounds. But they've stopped.\nShe finishes her call and hangs up. Sighs. She sticks the\ncordless phone into her pocket and starts to clean the room.\nAs Yoko straightens the bedspread, she hears something.\nPauses. And we hear it too --\n-- a familiar THROATY CROAKING SOUND.   Quiet and muffled."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04         49.\nYoko, a bit unnerved by the strange sound, pulls a small MP3\nplayer and headphones from her pocket. She puts them on, and\ngoes back to work.\n84aa   INT. THE HOUSE - SECOND FLOOR HALLWAY - DAY                 84aa\nYoko backs into the hallway, humming along to the music.\nPreoccupied, she doesn't notice as --\nThe DOOR TO THE REAR ROOM, at the end of the dark hall behind\nher, SLOWLY SWINGS OPEN.\nYoko turns and walks down the hall towards it.\n84a    INT. THE HOUSE - REAR ROOM - DAY                             84a\nYoko enters the room, which is also a mess. The MOVING BOXES\nare tumbled about the small room. She sighs.\nThen she notices the CERAMIC CAT on the shelf, FACING HER\n(where Susan left it).   Apparently she's not a big fan of\nfelines: she uneasily turns it to FACE THE WALL instead.\nYoko turns back to the room, staring to stack the moving\nboxes (the way we saw them before). As she does --\n-- she pauses again. The music in her headphones starts\nPHASING, digital noise creeping in...\nYoko takes off the headphones.   Stares at them.\nAnd then there's another CROAKING SOUND.   From close by.\nYoko draws a breath, quickly looking up --\n-- AT THE CEILING, directly above her.   That's where the\nhorrible sound is coming from.\nFreaked out, Yoko backs away, and opens the bedroom door --\n85                                                                   85"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - SECOND FLOOR HALLWAY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "-- the hallway is COMPLETELY DARK. An unnatural blackness.\nThe skylights above, which were previously filled with\nsunlight, are now completely opaque.\nYoko stands in the doorway, scared, afraid to step into the\ndarkness. Then she looks down --"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04         49A.",
+   "text": "HER POV: the murky blackness of the hall seems to be slowly\nCREEPING IN, phantomlike, around the edges of the door."
+  },
+  {
+   "type": "stage direction",
+   "text": "86   INT. THE HOUSE - REAR ROOM - DAY                              86"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04         49A.",
+   "text": "Yoko stumbles back into the room.   Her eyes fixed on --\n-- THE DOORWAY: the creeping darkness is now coming in\naround all sides, not just the bottom.\nYoko backs up to the bed, still clutching the CORDLESS PHONE.\nShe looks back at the door, suddenly CRYING OUT --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04         50."
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04         49A.",
+   "text": "-- A BLACK CAT sits in the doorway. Tail wrapped around\nitself, sitting perfectly still, like a statue. Staring at\nYoko with its yellow eyes. Something unnatural about it.\nYoko backs away towards the closet.   Nowhere to go.\nThe cat suddenly HISSES AT HER --\n-- and that's all Yoko can take.    In a panic, she opens the\ncloset door, ducks inside."
+  },
+  {
+   "type": "stage direction",
+   "text": "87   INT. CLOSET - DAY                                              87"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04         49A.",
+   "text": "Yoko slams the door shut, pulling herself up onto a raised\nshelf. Breathing hard, looking down at --\n-- the crack under the door.   The light is beginning to dim.\nYoko presses back into the closet, trapped.\nThe closet is starting to get dark.   Quickly.\nYoko looks around desperately.   Looking up, she sees --\n-- THE ATTIC PANEL above her is wide open.\nCaught between a rock and a hard place.   Yoko decides:\nShe shakily stands on the shelf and reaches up to pull\nherself into the attic."
+  },
+  {
+   "type": "stage direction",
+   "text": "88                                                                  88"
+  },
+  {
+   "type": "location",
+   "text": "INT. ATTIC - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04         49A.",
+   "text": "Yoko's head appears. Then her shoulders.     She looks around,\nbut can't see a thing in the darkness.\nShe's about to pull herself all the way up --\n-- when she hears the THROATY CROAKING SOUND.\nComing from the darkness.\nYoko stiffens, her breath catching in her throat.\nANOTHER POV: we're at the far end of the attic, suddenly and\nrapidly RACING FORWARD TOWARDS YOKO...\nON YOKO:   something brushes her face.   Long, black hair.\nThere's a head, just inches from hers.    Almost nose-to-nose."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04      51."
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04         49A.",
+   "text": "Yoko is paralyzed with fear, eyes wide.   A long beat.\nThen she reaches into her pocket, pulling out a LIGHTER.\nYoko raises it and flicks the wheel --\n-- we get a glimpse of a PALE FACE, surrounded by long black\nhair, eyes wide and mouth open, the THROATY SOUND suddenly\nincreasing in pitch and volume --\n-- as the face moves forward --"
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO BLACK.\n89   INT. HOSPITAL ROOM - NIGHT                                    89"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04         49A.",
+   "text": "Karen slowly wakes up in bed.    As her eyes clear, she sees --\nDOUG. He sits on the edge of the bed, slightly slumped, his\nback to her.\nHe slowly turns -- and a relieved smile crosses his face.     He\nmoves closer, and reaches out a hand."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "It's okay.     I've got you.\nKaren nods, lacing her fingers in his. But her eyes are\nglazed and unfocused -- she's exhausted."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Your boss told me what happened.\nI'm sorry.\nShe turns away, the memory bothering her.    Doug takes her\nhand, massaging her fingers, worried."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "I talked to your teachers. They\nsaid you can take as much time as\nyou need. We could go to Kyoto for\na weekend, see those temples you're\nalways talking about.\nKaren tries to smile back, but her heart's not in it."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Running away won't help."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04   51aA."
+  },
+  {
+   "type": "stage direction",
+   "text": "There's nothing to run away from,\nKat. No one blames you for what\nhappened."
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04     51A.\nKAREN",
+   "text": "I'm not even sure what did happen."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "You went to help someone who was,\nquite simply, beyond help."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "No, that's not what I mean..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She trails off, trying to remember.   Doug waits."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "That house. There was something..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doug sees her frustration, and tenderly brushes a hair from\nher face."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Don't beat yourself up searching\nfor a greater truth, Kat. An old\nwoman passed away in her sleep.\nIt's sad, but that's all it is --"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Is that how they said she died?"
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "I'm sorry this happened to you.\nBut maybe, in a way, it will help\nyou later. Death is an unfortunate\nbut integral part of your future\ncareer. There's no avoiding it.\nMaybe now you'll be more... ready\nfor it."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I don't think I'll ever be ready\nfor something like that."
+  },
+  {
+   "type": "stage direction",
+   "text": "She turns away. Doug wraps an arm around her.   Karen leans\ninto him, and he strokes her hair."
+  },
+  {
+   "type": "stage direction",
+   "text": "The moment is broken by a soft KNOCK. Detective Nakagawa\nstands in the doorway, holding a thick FILE."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "I'm sorry to disturb you, Miss\nDavies. I was wondering if you\ncould answer some additional\nquestions?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Doug stands, intercepting Nakagawa.   He sticks out a hand."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "I'm Doug.    Karen's boyfriend."
+  },
+  {
+   "type": "stage direction",
+   "text": "Nakagawa nods. Fixes Doug with a blank stare.   Taking the\nhint, Doug turns to Karen."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "You up for this?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "(nodding:)\nWhy don't you find out when I can\ncheck out of here."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     53.\nReluctantly, Doug kisses her brow, then exits. Nakagawa\npulls a chair up to the bed and sits, putting the file on a\nsmall table."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "How are you feeling?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Okay.   Tired."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "You are an exchange student?\n(Karen nods:)\nAnd you have been volunteering at\nthe Health Center for...?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Three months. I needed a social\nwelfare credit."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "You said this was the first time\nyou'd been in that house?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Yes."
+  },
+  {
+   "type": "stage direction",
+   "text": "She notices Nakagawa isn't taking notes. He seems somewhat\nuncomfortable, as if he's building to something:"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "About the Japanese boy you said you\nsaw there --"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Did you find him?"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "No, not yet. You said the boy had\nbeen taped into the closet?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Yes, that's right. He was...\nholding a cat. A black cat.\n(remembering:)\nThere was a book in the closet,\ntoo. I think it was a journal."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "Did it belong to the boy?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04   53aA."
+  },
+  {
+   "type": "stage direction",
+   "text": "I don't think so. I think it\nbelonged to a woman.\nRevisions (Blue) -- 1/26/04   53A.\nNakagawa looks up.   Karen tries to explain:"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "The writing. It looked feminine."
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04    54.\nKAREN",
+   "text": "I left it on the kitchen table."
+  },
+  {
+   "type": "stage direction",
+   "text": "Nakagawa frowns, scribbles a note."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "I didn't see any book on the table.\nPerhaps someone moved it. Did you\nspeak with the boy after you opened\nthe closet?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She thinks, recalling:"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I asked him his name.   He said\n`Toshio'."
+  },
+  {
+   "type": "stage direction",
+   "text": "Nakagawa immediately tenses. A long beat. He can see how\nexhausted Karen is. But something's troubling him:"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "One more question, please."
+  },
+  {
+   "type": "stage direction",
+   "text": "He slowly reaches into his pocket and pulls out THE PHOTO\nKaren found, and taped together. He shows it to her."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "We found this in the room where..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen looks at the picture."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "This is him. This is the boy."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "Are you certain?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Yes.   Positive."
+  },
+  {
+   "type": "stage direction",
+   "text": "Nakagawa stares down at the picture in his hands.\nAnd Karen notices -- Nakagawa's hands are shaking."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Detective Nakagawa?"
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks up at her, a faraway look in his eyes."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "The whole time I was in that house,\nI felt something was... wrong."
+  },
+  {
+   "type": "stage direction",
+   "text": "From the expression on Nakagawa's face, she's onto something."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "What happened there?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Nakagawa holds Karen's gaze for a moment. Even in her\nexhausted state, it's clear -- she's as frightened as he is.\nRevisions (Blue) -- 1/26/04      55."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "The bodies of the son and daughter-\nin-law of the woman you were caring\nfor were found in the attic.\nKaren just stares at him, stunned."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "It seems that the son killed his\nwife, and then himself --\nThere's a KNOCK on the door. Igarashi stands in the doorway.\nHe speaks to Nakagawa in Japanese."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Karen)"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "Please excuse me for a moment.\nNakagawa puts the photo down and steps into the hallway and\ncloses the door, but not all the way. Karen watches and\nlistens through the crack:"
+  },
+  {
+   "type": "stage direction",
+   "text": "90                                                                90"
+  },
+  {
+   "type": "location",
+   "text": "INT. HOSPIAL - HALLWAY - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA",
+   "text": "IN THE HALLWAY:   the men speak with hushed voices."
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "We checked the apartment of Susan,\nthe sister. She wasn't there...\nHe trails off, hesitating."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "Yes?"
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "The chain lock had been drawn from\nthe inside. And the deadbolt. But\nwe found no one in the apartment.\nNakagawa takes this in."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "Get the surveillance tapes from the\noffice building.\nIgarashi nods.    But doesn't move.   After a moment, quietly:"
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "They were the first family to live\nin that house since the incident\nthree years ago --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04        56."
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "Nakagawa's harsh look silences him. Then the Detective\nturns, noticing KAREN watching them. He pulls the door shut."
+  },
+  {
+   "type": "stage direction",
+   "text": "91   INT. HOSPITAL ROOM - NIGHT                                      91"
+  },
+  {
+   "type": "speech",
+   "character": "IGARASHI (IN JAPANESE)",
+   "text": "Nakagawa's stern voice is muffled by the closed door.    Karen\nsits back in bed, disturbed.\nThen her attention turns to THE FILE on the table.\nShe considers.   Then reaches for it.   Opens it.\nIt's a POLICE REPORT, in Japanese.\nKaren scans it, and turns the page.     She draws a breath --\n-- it's a photo of THE HOUSE. Cordoned off with police tape.\nAn ambulance out front. Like the scene she just left...\n...only the picture is dated three years ago.\nTHREE DETECTIVES are visible beyond the open front door,\nconferring in the entryway.\nThe photo of the house is attached to a POLICE REPORT, with\nTHREE PICTURES. A stern-looking Japanese man (TAKEO), a\nsomber woman (KAYAKO), and a YOUNG BOY we know very well --\nKaren makes the connection. She picks up the taped-up photo\nand compares it to the file... the boy and his father are the\nsame as in the newspaper.\nKaren gently touches the \"missing\" face of KAYAKO -- then her\neyes move to the picture of THE BOY.\nHer eyes widen as she reads THE JAPANESE TEXT under his face:"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Toshio..."
+  },
+  {
+   "type": "stage direction",
+   "text": "92                                                                   92"
+  },
+  {
+   "type": "location",
+   "text": "INT. NURSING CARE CENTER - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "The place is quiet, completely deserted.    Except for --\n-- Alex. He's behind his desk in the reception area, staring\noff into space. Alex finally glances up at a clock -- it's\nalmost ten o'clock.\nHe gets up, turns off his computer, switches off the lights,\nand walks around the reception desk towards --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04     57.\nTHE FRONT DOORS. He hits a final light switch and is almost\nto the exit, when --\n-- he suddenly SLIPS. Almost falls.    Saves himself by\nthrowing a hand up against the wall.\nHe looks down.    What the hell did he slip on?\nA pool of liquid. Right by the front doors, where the ladder\nstood earlier. It's too dark to make out what the fluid is.\nAlex looks down at HIS HAND -- it's covered in the liquid.\nAnd there's a dark HANDPRINT where he grabbed the wall.\nHIS POV: a trail of FOOTPRINTS lead from the pool of liquid,\naround the base of the stairs.\nHis eyes on his dirtied hand, Alex slowly reaches for the\nnearby light switch. The overheads come on --\n-- the liquid is deep red.   Blood.\nAlex looks across the room. Shaking, he starts to walk\nforward, following the footsteps.\nHe pauses at the bottom of the stairs, seeing --\n-- the BLOOD TRAIL has stopped.   Right by the bottom step.\nAlex looks up the staircase.   No blood.\nAfter a moment, Alex starts to walk up.    As he reaches the\nfirst landing --\nHe freezes.   Sensing something behind him.   He turns to see --\nYOKO. Head lowered, clothing is torn and bloody. She's\nslowly climbing up the steps, but she's MOVING JERKILY, like\na marionette, her limbs making a strange CREAKING as if\ntendons and muscles are being pushed to their limits.\nAnd there's BLOOD DRIPPING DOWN, splattering on her shoes."
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "Yoko?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She keeps moving, straining, climbing... towards him.\nRevisions (Blue) -- 1/26/04       58."
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "What... What happened, Yoko?\nNow she finally stops, two steps away.    A long beat."
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "Say something, please...\nYoko slowly raises her head towards him --\n-- the lower half of her face is missing. Her jawbone has\nbeen ripped out, her tongue hanging limply on her chest.\nAlex stumbles backwards... and his foot lands right in a\npuddle of blood. His legs fly out from under him and he\nCRACKS HIS HEAD AGAINST THE GROUND.\nHIS POV: everything goes blurry, and canted 90 degrees.       But\nit looks like there's A FIGURE standing in the hallway,\nwatching the scene...\n...a small boy holding a black cat...\nDazed, Alex plants a hand on the ground and pulls himself\ninto a seating position --\n-- and coming face-to-face with YOKO, kneeling down directly\nin front of him. Her bloody tongue dripping, lolling...\nON ALEX:   eyes wide, he opens his mouth to scream --"
+  },
+  {
+   "type": "stage direction",
+   "text": "HARD CUT TO:\n93   INT. POLICE STATION - NAKAGAWA'S OFFICE - DAWN                93"
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "Nakagawa sits at the desk. Exhausted, dark circles under his\neyes, he's staring down at --\nTHE FILE on his desk.   As if he's afraid to even open it.\nBut he does. He flips through the photos, pausing on that of\nTOSHIO, but continuing on to THE BLACK AND WHITE PHOTO of The\nHouse from three years ago (the one Karen saw), with the\nTHREE DETECTIVES.\nNakagawa turns to a FRAMED PICTURE on his desk -- it's\nYOUNGER NAKAGAWA at a bar with THREE FAMILIAR DETECTIVES.\nThey're off-duty, grinning at the camera. Buddies.\nThe two photographs share THE SAME THREE DETECTIVES."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04      59."
+  },
+  {
+   "type": "speech",
+   "character": "ALEX",
+   "text": "As Nakagawa looks at the crime scene photo, he realizes\nsomething. He slowly stands, in shock, trembling.\nThe phone RINGS, startling him.\nNakagawa walks over, picks up the phone."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "Hello?\nHe listens.\nHis face goes blank.    He slowly lowers the phone."
+  },
+  {
+   "type": "stage direction",
+   "text": "94   OMITTED                                                      94\n95   OMITTED                                                      95\n96   OMITTED                                                      96"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "OMITTED"
+  },
+  {
+   "type": "stage direction",
+   "text": "97                                                                97\n98   OMITTED                                                      98\n99   INT. MORGUE - DAY                                            99"
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "The CORONER sits on a stool, staring at the floor. TWO\nBODIES lie under bloody white sheets on two STEEL TABLES.\nBetween them is a small cart -- a bloody cloth on top.\nNakagawa and Igarashi enter. The Coroner stands, nervous.\nHe walks to one of the tables and pulls back the sheet."
+  },
+  {
+   "type": "speech",
+   "character": "NAKAGAWA (IN JAPANESE)",
+   "text": "Have you determined a cause of\ndeath?"
+  },
+  {
+   "type": "speech",
+   "character": "CORONER (IN JAPANESE)",
+   "text": "Not yet. The blood on his body --\nisn't his. It belongs to her.\nHe points to the other table.    But doesn't look at it."
+  },
+  {
+   "type": "stage direction",
+   "text": "I don't understand. He killed\nYoko, before he died?\nThe Coroner shakes his head. Nakagawa looks to Igarashi,\nthen walks up to the second body, pulling back the sheet.\nIT'S YOKO.    Still missing her jawbone.\nNakagawa and Igarashi stare down at her in disbelief.\nThe Coroner walks to the small table, removing the cloth.\nYoko's JAWBONE is underneath it."
+  },
+  {
+   "type": "stage direction",
+   "text": "The jawbone you found in the attic\nyesterday with the American couple\nbelongs to this girl. I estimate\nit was -- removed -- from her body\ntwo or three days ago."
+  },
+  {
+   "type": "stage direction",
+   "text": "But I thought you said her body was\nfound with this man, tonight.\nThe Coroner nods.    Eyes on his shoes."
+  },
+  {
+   "type": "stage direction",
+   "text": "Then how did she get from the house\nto the Health Center?\nThe Coroner, lost in his imagination, answers quietly:"
+  },
+  {
+   "type": "stage direction",
+   "text": "I have no idea.\nA beat.   Nakagawa walks to the jawbone.   Stares at it."
+  },
+  {
+   "type": "stage direction",
+   "text": "She survived for two days without\nthis?"
+  },
+  {
+   "type": "stage direction",
+   "text": "It would seem so."
+  },
+  {
+   "type": "stage direction",
+   "text": "How is that possible?\nThe Coroner looks up at him, his face pale."
+  },
+  {
+   "type": "stage direction",
+   "text": "I don't believe it is.\nRevisions (Blue) -- 1/26/04       61.\n100    INT. HOSPITAL ROOM - DAY                                         100\nDoug sits on the bed, next to a DRESSING CURTAIN. Karen's\nsilhouette is visible behind it, pulling on her clothes.\nHe watches the curtain for a beat, concerned.     Then:"
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "I got us a guidebook to Kyoto. I\nthought maybe we'd leave tomorrow --"
+  },
+  {
+   "type": "stage direction",
+   "text": "The curtain suddenly SLIDES BACK.    Karen, dressed, stares at\nhim. She looks angry."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Why didn't you tell me?"
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Tell you what?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "About the bodies they found in the\nattic."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "You were recovering from a shock.\nI didn't want to --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen turns away, picking up her backpack and slinging it.\nShe walks past him, disappointed, and leaves the room."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Karen -- wait --"
+  },
+  {
+   "type": "stage direction",
+   "text": "He quickly grabs his coat and bag.\n100a                                                                100a"
+  },
+  {
+   "type": "location",
+   "text": "INT. HOSPITAL HALLWAY - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen paces down the hall towards a RECEPTION AREA.       Doug\ncatches up with her, turning her towards him."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Look, I'm sorry. I was just\nworried about you, and -- I know\nyou, Karen."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen turns to him.   A sober look on her face.\nRevisions (Blue) -- 1/26/04   61A."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "The same thing happened three years\nago, Doug. To a Japanese family,\nwho lived in that house. They were\nall found dead."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doug studies her for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "So you think the events are\nconnected?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "How would you explain it?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She watches Doug as he thinks.   Carefully."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Okay. How about this: the\nAmerican family knew about what had\nhappened there before, and this\nknowledge subconsciously caused\nthem to repeat the same events."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen gives Doug a skeptical look."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "It's exactly how superstitions\nsurvive: if you walk under a\nladder and think uh-oh, you're in\nfor some bad luck, sure enough,\nwhat do you know? You trip over --"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "(heard it before:)\n-- trip over the curb and sprain\nyour ankle."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Makes sense, right?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen stops walking.   Considering something.\nRevisions (Blue) -- 1/26/04   61B."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Okay. Then explain this: when I\nwent to that house, I didn't know\nanything about its past. But yet I\nstill saw..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She hesitates, realizing she's said too much."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Saw what?    Karen?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Emma and I were alone in that room,\nbut -- there was something else\nthere. I'm sure of it."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "You watched a woman die, Kat.\nThat's a horrible thing to\nexperience. I can't imagine how\nyou must feel. But sometimes the\nmind tries to cope with terrible\nthings in a way that distorts what\nactually occurred."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen's eyes never leave his.   Softly, but firmly:"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "You might be right, Doug. But I\nknow what I saw.\n(then, faltering:)\nI think I know what I saw..."
+  },
+  {
+   "type": "stage direction",
+   "text": "After a moment, Doug pulls her into a hug."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "You just need to rest. We'll get\nyou home, get a good night's sleep."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Yeah."
+  },
+  {
+   "type": "stage direction",
+   "text": "But her eyes speak differently. She covers it well, stepping\nback and glancing over at the reception desk:"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "You've got class, and I'm sure I\nonly have to fill out a few forms\nor something --"
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "You sure?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04        61BA."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I'm fine, Doug. Really."
+  },
+  {
+   "type": "stage direction",
+   "text": "He kisses her, then exits. He pauses at the front doors to\ngive her a little wave. She smiles... but the smile droops\nas soon as he's out of sight.\nAfter a moment, she turns and walks to the front desk.\nDISSOLVE TO:\nRevisions (Blue) -- 1/26/04      61C-63.\n101   OMITTED                                                    101\n102   OMITTED                                                    102\n103   INT. KAREN'S APARTMENT - LIVING ROOM - NIGHT               103"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen sits at her computer desk.   She looks exhausted.\nOnline, Karen pulls up the home page for The Japan Times, an\nEnglish-language newspaper.\nShe types Toshio's full name into a SEARCH window.\nA LIST of links appear, filling the screen. Karen scans\nthem. Tries one. It's not what she's looking for.\nShe re-enters Toshio's name along with a year -- `2001'.\nOnly ONE LINK appears.   The word `MURDERED' in the headline."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04      64."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Karen clicks it.   The article fills the screen.\nAs Karen reads it, we catch glimpses of names -- `Toshio',\n`Kayako', `Takeo'. And an ominous phrase: \"MURDER/SUICIDE\".\nKaren clicks a link marked `IMAGE'. A scanned picture of the\nnewspaper appears -- the article is on the front page, with\nfamiliar photos of Toshio, Kayako and Takeo.\nBut then Karen's eyes drift to another picture at the bottom\nof the page --\n-- PETER. She quickly recognizes him from the picture she\nfound in the journal. His name is printed below the photo.\nA picture of Peter and Maria's CONDO BUILDING is next to it.\nShe looks at the headline:   \"AMERICAN ENGLISH TEACHER THROWS\nSELF FROM BUILDING\".\nKaren scans the article, thinking.   Then she looks up at --\n-- TOSHIO'S PICTURE."
+  },
+  {
+   "type": "stage direction",
+   "text": "DISSOLVE TO:\n104                                                              104"
+  },
+  {
+   "type": "location",
+   "text": "INT. POLICE STATION - NAKAGAWA'S OFFICE - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Nakagawa is looking at the same picture, in his file.\nOFFICER #1 appears in the hall.   Knocks gently on the door."
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER #1 (IN JAPANESE)",
+   "text": "This just came in. It's the\nsurveillance video you requested.\nIt takes a moment for Nakagawa to snap out of it.\nHe finally nods, takes the tape. He opens the envelope and\nlooks at the cassette. Like he doesn't want to watch it.\nThen he turns to a TV/VCR combo and inserts the tape.\nON THE SCREEN: the 10TH FLOOR HALLWAY from Susan's office\nbuilding, and the door leading to the stairwell.\nA beat.   The image FLICKERS for a moment.\nThen the door suddenly bursts open and Susan, terrified, runs\nfrom the stairwell and down the hall.\nON NAKAGAWA:   he fast-forwards the video.   Until --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04       65."
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER #1 (IN JAPANESE)",
+   "text": "ON SCREEN: -- the SECURITY GUARD appears in the hallway.        As\nSusan saw earlier, he opens the door to the stairwell and\nlooks inside. Then he closes the door and continues o.s.\nON NAKAGAWA:   he reaches forward to turn off the video --\nON SCREEN:   -- but then the video CRACKLES with a quick burst\nof static.   And the door to the stairwell opens again.\nON NAKAGAWA: he's watching, entranced, terrified.      He can\nhardly believe what he's seeing --\nON SCREEN: -- A DARK FIGURE EMERGES FROM THE STAIRWELL.    It's\nthe shape of a woman with long hair --\n-- but the figure is BLURRY AND SHIFTING, as if the black\nshadow has loosely compacted itself into the form of a human.\nNAKAGAWA watches, breathless, as THE FIGURE slowly enters the\nhallway, passing by, underneath the camera.\nThe image stops flickering.    An empty hallway now.   A beat.\nNakagawa, his hand shaking, reaches forward, about to turn\noff the television set, when --\nDARKNESS SUDDENLY OVERTAKES THE SCREEN, rising up from the\nbottom until everything is dark. A strange HUMMING RATTLE\ncomes from the speakers, and the image JITTERS madly.\nNakagawa leans forward, right up to the screen, trying to\nmake out an image in the swirling blackness --\nTwo eyes open, staring at Nakagawa.\nTerrified, Nakagawa stands and turns away, closing his eyes.\nAnd when he finds the strength to look back --\n-- THE EYES are still there.\nLocked onto him, even though he's moved.\nUnflinching.   Unblinking."
+  },
+  {
+   "type": "stage direction",
+   "text": "105                                                                105"
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE HOUSE - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER #1 (IN JAPANESE)",
+   "text": "Nakagawa stands at the front door.    Gathering his courage."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04       66.\nHe opens the door.   Nothing but yawning darkness inside.\nNakagawa picks up TWO HEAVY OBJECTS, one in each hand, and,\nducking under the police tape, enters the house.\n106    INT. THE HOUSE - ENTRANCE - NIGHT                            106\nNakagawa puts the two heavy objects by the front door and\ncloses it. Now we can see what they are --\n-- GASOLINE CANS.    Two gallons each.   Full.\nNakagawa catches his breath. Then he reaches for the lid of\none of the cans, starting to unscrew it. His hands are\nshaking, and the gasoline SPLASHES AROUND inside --\n-- but then there's ANOTHER SPLASHING SOUND.     From nearby.\nNakagawa freezes.    The splashing continues.    His eyes go to --\nTHE BATHROOM DOOR. It's closed. The SPLASHING is coming\nfrom inside, accompanied by a series of THUDS. The sounds of\na small child, STRUGGLING...\nNakagawa fearfully reaches for the door handle --\n106a                                                               106a"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - BATHROOM - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Nakagawa's eyes widen as the door swings open.     He sees --\nA YOUNG BOY kneeling by the edge of the tub, overflowing with\nwater. His head hangs below the surface.\nNakagawa immediately drops to the boy, lifting his lifeless\nhead from the water. It's TOSHIO. He's dead. Drowned.\nBefore Nakagawa can understand what's happening, the boy's\neyes SUDDENLY OPEN, fixing on Nakagawa --\n-- and then a PALE HAND grabs Nakagawa's head from behind and\nroughly pushes it into the water, holding him under.\nNakagawa's LEGS flail and kick as he struggles, his SCREAMING\nmuffled by the water. But finally, his legs become still.\n107                                                                 107\nOMITTED\n108    OMITTED                                                      108"
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER #1 (IN JAPANESE)",
+   "text": "Revisions (Blue) -- 1/26/04   67."
+  },
+  {
+   "type": "stage direction",
+   "text": "109    OMITTED                                  109\n109a   OMITTED                                 109a\nRevisions (Blue) -- 1/26/04      68.\n110    INT. KAREN'S APARTMENT - LIVING AREA - DAY                110\nTHE WALL by Karen's computer desk is now covered with WEBPAGE\nPRINT-OUTS: NEWSPAPER CLIPPINGS of TOSHIO and his parents,\nKAYAKO and TAKEO; MATTHEW and JENNIFER; PETER; and\nDETECTIVES NAKAGAWA and IGARASHI, plus reports on THE EARLIER\nINVESTIGATION.\nIn the center of it all is a picture of The House.\nON THE DESK is a PRINT-OUT: the newspaper article about\nPeter's death, with the photo of his CONDO. Below the photo,\nKaren has written the number `224'.\nWe hear the sound of RUNNING WATER -- it's the shower.   We\ndrift away from the desk and towards the bathroom...\n110a   OMITTED                                                  110a\nRevisions (Blue) -- 1/26/04        68A.\n110b   OMITTED                                                    110b\n111    INT. KAREN'S APARTMENT - BATHROOM - DAY                     111\nKaren is in the shower. She stands there, glassy-eyed, as\nthe water runs over her. She's looking at --\n-- HER REFLECTION in the mirror. It fogs up, obscuring the\nview. This snaps Karen out of her trance.\nShe rinses her hair and squeezes some shampoo into her hand.\nStarts a nice lather.\nFROM BEHIND: Karen works the shampoo into her scalp.   But,\nas she does, we see something...\n... A PALE HAND BURIED UNDER HER HAIR, as if someone is\nbehind her, with a hand on her head.\nKaren's fingers brush the hand.   She CRIES OUT and turns --\n-- there's no one there.   She's alone.\nRevisions (Blue) -- 1/26/04     69.\n112   OMITTED                                                    112\n113   OMITTED                                                    113\n114   INT. KAREN'S APARTMENT - LIVING AREA - DAY                 114"
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER #1 (IN JAPANESE)",
+   "text": "There's the sound of the front door UNLOCKING and Doug\nenters, carrying a bag. He closes the door behind him and\nwalks in, turning the corner --\n-- finding Karen, looking a bit dazed, standing right there.\nHe's startled, but quickly recovers:"
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "I come bearing gifts.\nKaren smiles weakly. She takes the bag and enters the\nkitchen. He watches her go, worried. Then he notices --\nHER DESK. Doug walks over, looking at the printouts she's\ntaped to the wall. And the photo of The House in the center.\nBewildered, he sits down, leaning forward and taking a good\nlook. His eyes stop on the picture of TOSHIO.\nDoug turns to see Karen staring at him from the kitchen.\nIt's an awkward moment: he's concerned, but doesn't know\nwhat to say. And neither does Karen.\nFinally she approaches, looking at Toshio's picture:"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04      69A."
+  },
+  {
+   "type": "stage direction",
+   "text": "That's the boy who was there\nyesterday. In that house. But\nthis boy, he's --\nHer voice trembles, her fear showing through."
+  },
+  {
+   "type": "stage direction",
+   "text": "-- he's supposed to be dead.\nA beat.   Karen's eyes plead with Doug."
+  },
+  {
+   "type": "stage direction",
+   "text": "I saw him, Doug. I talked to him.\nHe told me his name. A boy who was\nkilled by his father three years\nago told me his name.\nDoug looks away, shaking his head."
+  },
+  {
+   "type": "stage direction",
+   "text": "You don't believe me."
+  },
+  {
+   "type": "stage direction",
+   "text": "How can I believe you, Karen?\nKaren's face darkens.   Before she can retort --\n-- the phone RINGS. As Karen walks across the room to answer\nit, Doug starts reading the newspaper article."
+  },
+  {
+   "type": "stage direction",
+   "text": "Hello?\nShe listens.   Her face slowly drops."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "(almost a whisper:)"
+  },
+  {
+   "type": "stage direction",
+   "text": "What?\nShe numbly lowers the phone.   Doug turns to her, seeing that\nsomething's very wrong.\nSnapping to life, Karen walks to the desk, picking up the\nphoto of Peter and Maria's condo and a map of Tokyo.\nDoug puts a hand on her shoulder.    She finally looks at him."
+  },
+  {
+   "type": "stage direction",
+   "text": "Alex and Yoko are dead.\nDoug, surprised, doesn't know what to say.   Karen doesn't\ngive him a chance to figure it out:\nRevisions (Blue) -- 1/26/04        69AA."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "(intense:)\nThere's something wrong with that\nhouse, Doug. Something really bad.\n(re: Peter's photo)\nThe boy in that house, he had a\nphoto of this man. He died on that\nsame day three years ago. I need\nto talk to his wife... widow. If I\ncan find out what happened, or\nif... maybe --"
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Maybe, what?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen pulls away, making for the door.   Doug follows."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "I'm concerned about you going out\nwhile you're so upset --"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "You don't understand.   I have to,\nDoug."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Why?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Because I've been inside that\nhouse, Doug. Don't you get it?\nI've been inside!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A beat. We see the resolve come over Karen's face.   She\nreaches out and touches Doug tenderly."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I love you. But I have to go."
+  },
+  {
+   "type": "stage direction",
+   "text": "She leaves.\nDoug, troubled, turns back to the desk.\nHe looks up at the wall, tracing a finger over the photo of\nThe House. Beneath it, is the address..."
+  },
+  {
+   "type": "stage direction",
+   "text": "115   EXT. CONDO BUILDING - DAY                                 115"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04     70-72.",
+   "text": "The same building from the newspaper clipping.   Monolithic\nagainst a cloudy, bleak sky.\nKaren stands before it, staring up at it.\nThen she walks to the intercom and looks at the directory,\nfinds `M. Kirk'. She activates the intercom and dials the\nnumber. It rings a few times, and then a voice picks up:"
+  },
+  {
+   "type": "speech",
+   "character": "MARIA (INTERCOM, IN JAPANESE)",
+   "text": "Yes?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I'm looking for Maria Kirk?"
+  },
+  {
+   "type": "stage direction",
+   "text": "MARIA (INTERCOM)"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Who is this?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "My name is Karen Davies. I'm a\nstudent at -- I'm sorry to bother\nyou, but I was wondering if I could\nask you a few questions.\nA long beat.   Karen stares at the intercom."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Ms. Kirk?"
+  },
+  {
+   "type": "stage direction",
+   "text": "MARIA (INTERCOM)"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Questions about what?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I'm here because... I need to speak\nwith you about your husband.\nWhen Maria's voice comes back through the intercom, she\nsounds different, shaken:"
+  },
+  {
+   "type": "stage direction",
+   "text": "MARIA (INTERCOM)"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Leave me alone."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Maria --"
+  },
+  {
+   "type": "speech",
+   "character": "MARIA (INTERCOM)",
+   "text": "Please.\nKaren stands there for a moment.   Then, as she walks away --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04        72A.\nCLICK.   The electronic door lock disengages behind her."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA (INTERCOM)",
+   "text": "Revisions (Blue) -- 1/26/04   73."
+  },
+  {
+   "type": "stage direction",
+   "text": "115a   OMITTED                                 115a\n115b   OMITTED                                 115b\nRevisions (Blue) -- 1/26/04       74.\n116    OMITTED                                                     116\n116a   INT. PETER & MARIA'S APARTMENT - DAY                       116a\nThe front door opens. MARIA (early 30s) has changed from\nwhen we first saw her -- she wears a revealing outfit, and\nher natural beauty now smolders beneath the surface.\nShe regards Karen warily."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "I'm late for work."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I just need a couple minutes."
+  },
+  {
+   "type": "stage direction",
+   "text": "Maria finally steps aside, letting Karen in.\nThe APARTMENT is small, and completely unkempt.    The kitchen\nis a mess, clothes lie everywhere."
+  },
+  {
+   "type": "stage direction",
+   "text": "(sarcastic:)"
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "Make yourself at home."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen looks for a place to sit.    She decides to stand.\nMaria sizes her up.   A beat.   Then:"
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "Well?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Your husband, Peter.    Three years\nago he..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She trails off, in delicate territory."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "He what?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "He killed himself."
+  },
+  {
+   "type": "stage direction",
+   "text": "Maria eyes her blankly. Then she turns to look at something\no.s. Karen follows her gaze --\n-- to the open door of THE BEDROOM.     And THE WINDOW beyond."
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04        74A.\nKAREN",
+   "text": "(almost ashamed:)\nI'm... sorry."
+  },
+  {
+   "type": "stage direction",
+   "text": "Maria turns back to her, sadness on her face.   Then:"
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "Thank you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Maria reaches for a pack of cigarettes.   Lights one.   Offers\nthem to Karen. She shakes her head."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "How did you know Peter?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I didn't."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "Then what are you doing here?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "I think there's a connection\nbetween your husband's death and\nsomething that happened to me."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "What happened to you?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "It's... hard to explain."
+  },
+  {
+   "type": "stage direction",
+   "text": "Maria takes a drag from her cigarette.    Waiting."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Look, I know this sounds strange,\nbut... I don't think your husband\nwanted to die."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "(even:)\nThen why would he throw himself out\na window?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen struggles to find the answer."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "Let me guess: `hard to explain'?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen nods.   Maria's brave face slips.   She turns away."
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04    74B.\nMARIA",
+   "text": "I put all this behind me. I don't\nwant to open it back up again."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "If that's true, then why are you\nstill here in Japan?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Maria turns back.   She only looks defensive for a moment."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "Because I can't leave. I tried.\nBut I couldn't. Not without..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Maria speaks softly, forming words she's never spoken aloud:"
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "He usually didn't wake up before\nme. But that morning, he did. He\nmade coffee for us. Then he sat\nthere and waited for me to wake up.\nAnd when I did, he looked me right\nin the eye. And then he jumped.\nThe night before we'd been talking\nabout having children together..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She wipes away the tears in her eyes."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Did you know a woman named Kayako?"
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Did Peter?"
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "I don't think so."
+  },
+  {
+   "type": "stage direction",
+   "text": "Maria turns away, growing tense."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Maybe it was someone he worked\nwith?"
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "Look. I've had the police up here,\nI talked with Detectives, I even\nhired a P.I.--\n(composing herself:)"
+  },
+  {
+   "type": "stage direction",
+   "text": "MARIA (cont'd)"
+  },
+  {
+   "type": "speech",
+   "character": "(MORE)\nRevisions (Blue) -- 1/26/04     74C.",
+   "text": "I don't know what you're going\nthrough, or what you think you know\nabout my husband. But I don't have\nany answers. I'm sorry."
+  },
+  {
+   "type": "stage direction",
+   "text": "She turns back to Karen -- to find the young woman sitting\nslumped on the edge of a sofa, tears in her eyes.\nMaria softens as Karen looks up at her, pleading:"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Please. I don't know what else to\ndo. Please help me."
+  },
+  {
+   "type": "stage direction",
+   "text": "117    INT. CLOSET - DAY                                           117\nMaria reaches up to a high shelf. She moves a few things\naside to get to TWO SHOEBOXES buried towards the rear.\n118    OMITTED                                                     118\n118a   INT. PETER & MARIA'S APARTMENT - DAY                      118a\nMaria re-enters the room, laying the shoeboxes on a table."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "This is all his stuff from school."
+  },
+  {
+   "type": "stage direction",
+   "text": "She stares at the boxes, afraid to open them. Karen sits\ndown and gently removes the lid of one of them.\nTHE BOX contains stacks of PHOTOGRAPHS and notes. Karen\nremoves a pile of photos and starts looking through it.\nAfter a moment, Maria sits down next to her. She opens the\nother box and pulls out another stack of photos.\nShe looks at the first one, sadness crossing her face."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "This was our first date."
+  },
+  {
+   "type": "stage direction",
+   "text": "She shows Karen THE TOP PHOTO: a \"self-portrait\" of Peter\nand Maria in a park lined with blooming cherry trees.\nThe pain returns, and she puts the picture away.\nKaren works through her own pile: she's looking at pictures\nof Peter from his University days.\nHer eyes widen as she sees --\nKayako. She looks young and alive... but yet somehow sullen\nand withdrawn, as if she feels she doesn't belong there.\nShe's with a group of fellow students. PETER is in the\ngroup, although he and Kayako aren't next to one another.\nKaren turns to the next picture -- it's a graduation party.\nKayako is in this one too: standing to the side, watching\nPETER AND MARIA as they give a goofy grin to the camera.\nRevisions (Blue) -- 1/26/04      77A.\nAs Karen flips through them, a definite pattern emerges --\n-- Kayako is in practically every picture.\nAnd in most, she's not smiling at the camera.    Rather, she's\nstaring at Peter."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "(under her breath:)\nOh my God."
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "What?   Did you find something?"
+  },
+  {
+   "type": "stage direction",
+   "text": "We move to THE GROUP PHOTO. Peter with Maria, surrounded by\nclassmates. Kayako off to the side, her eyes on Peter.\nDISSOLVE TO:\nRevisions (Blue) -- 1/26/04        78.\n119   INT. COLLEGE - PETER'S OFFICE - DAY (THREE YEARS AGO)       119"
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "The same GROUP PHOTO is in a frame on Peter's desk.\nPeter stands behind the desk, using a small mirror to knot\nhis tie. His open door reads: `DEPARTMENT OF ENGLISH'.\nA CO-WORKER (20s, Japanese) enters with a stack of mail."
+  },
+  {
+   "type": "stage direction",
+   "text": "PETER"
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "Happy Monday."
+  },
+  {
+   "type": "stage direction",
+   "text": "CO-WORKER"
+  },
+  {
+   "type": "speech",
+   "character": "MARIA",
+   "text": "Yeah, right. Here's your mail.\nHe hands it to Peter. On the top is a small BLUE ENVELOPE.\nThe name in the return address is `Kayako'."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04       79."
+  },
+  {
+   "type": "speech",
+   "character": "CO-WORKER",
+   "text": "Another one, huh?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Peter shakes his head, looking distastefully at the letter."
+  },
+  {
+   "type": "speech",
+   "character": "PETER",
+   "text": "I don't even know her. She says I\nused to tutor her, but I don't know\nwho the hell she is."
+  },
+  {
+   "type": "stage direction",
+   "text": "The co-worker shrugs and leaves.    Disturbed, Peter fingers\nthe blue envelope.\nHis eyes go to one of his desk drawers.    He slides it open.\nMore BLUE ENVELOPES are inside.    All from `KAYAKO'.\nPeter's face darkens.   He dumps the letters into a trash can.\n120                                                                120"
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE HOUSE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Peter stands in front of The House.\nHe glances down at the BLUE ENVELOPE in his hand. He stuffs\nit in his pocket, unsure about what he's going to do.\nThen he opens the gate and goes in, walking to the front\ndoor. Knocks. Silence from inside. He rings the bell.\nWaits. No one comes. He's about to leave --\nBut then he hears something from around the side of the\nhouse. It sounded like a muffled SPLASH of water.\n120a   EXT. THE HOUSE - SIDE - DAY                                120a\nPeter peers around the side of the house, a narrow walkway\nlined with bushes and trees. It's quiet."
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "Hello?   Excuse me?"
+  },
+  {
+   "type": "stage direction",
+   "text": "After a moment, Peter decides to check it out. As he steps\naround a bush, he suddenly stops, surprised to see --\nPETER'S POV: two ARMS hang from a window at the side of the\nhouse. They look disembodied, mottled and bruised."
+  },
+  {
+   "type": "stage direction",
+   "text": "It takes Peter a moment to recover.   He slowly walks over.\nRevisions (Blue) -- 1/26/04      80."
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04      79A.",
+   "text": "A familiar BOY is inside -- it's TOSHIO. His glazed and\nstaring eyes don't seem to notice Peter, standing right in\nfront of him."
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "Hello.\nNo reaction. There's definitely something wrong with this\nboy. Peter looks beyond him, into the dark house."
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "My name is Peter. I'm here to see\nyour mother. Is she home?\nThe boy slowly straightens. His eyes focus on Peter. Then\nhe FALLS BACKWARDS. Startled, Peter tries to see inside:"
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "Hey!   Are you okay??? Hello???\nPeter quickly goes back to the front door.   Tries the handle -\n- it's unlocked. He opens the door."
+  },
+  {
+   "type": "stage direction",
+   "text": "121                                                              121"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - ENTRANCE - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "Peter steps inside, unsure about entering uninvited."
+  },
+  {
+   "type": "stage direction",
+   "text": "(calling out)"
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "Hello? Excuse me. I'm coming in.\nHis concern for the boy wins out. He kicks off his shoes,\nand quickly walks to the open bathroom door."
+  },
+  {
+   "type": "stage direction",
+   "text": "122                                                              122"
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "OMITTED"
+  },
+  {
+   "type": "stage direction",
+   "text": "123   INT. THE HOUSE - BATHROOM - DAY                            123"
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "Peter enters, finding Toshio lying on the floor. He must\nhave been standing on the edge of a TUB by the window."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04        81."
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "Are you alright?\nAs Peter helps the boy to his feet, he glances at the\nbathtub. It's filled, literally to the brim, with water."
+  },
+  {
+   "type": "stage direction",
+   "text": "124   INT. THE HOUSE - LIVING ROOM - DAY                             124"
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "Peter holds Toshio's hand as he leads him back to a couch in\nthe living room."
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "Are you alone? Where are your\nparents?\nThe boy sits in the couch, slumped over, still looking dazed.\nPeter studies him, looking at the ugly BRUISES on his arms\nand legs. There's also a big one around his neck."
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "What happened to you?\nPeter reaches out to lift Toshio's chin, but he FLINCHES,\npulling backwards. His eyes manage to focus on Peter.\nThen the boy looks away.    Lowers his head.   A long beat.\nPeter's worried. This really doesn't look good.     He scans\nthe messy room, eyes falling on something.\nHe reaches down and picks up PIECES OF A PHOTOGRAPH, lying\nnext to a broken frame -- they've been crumpled into a ball.\nON THE PHOTO: Peter unfolds the pieces and rearranges them.\nWe've seen this picture before --\n-- a FAMILY PORTRAIT. TOSHIO, holding a cute BLACK CAT.\nStanding with his mother and father -- KAYAKO and TAKEO.\nThey're all beaming at the camera, a perfect, happy family.\nExcept that the mother's face has been torn out.\nThen there's a muffled MEOW.    Peter looks over at the window.\nDid that come from outside?\nAnother MEOW.   Peter walks to the window, looking out.\nFROM OUTSIDE, LOOKING IN: a worried look crosses Peter's\nface as the MEOW becomes more of a GROWL, as if in warning.\nHe looks outside, but can't see anything --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04        82."
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "-- but we see, over Peter's shoulder, that TOSHIO is now\nLOOKING DIRECTLY AT HIM, eyes wide --\n-- the MEOWING emitting from his wide open mouth --"
+  },
+  {
+   "type": "stage direction",
+   "text": "125   INT. POLICE STATION - DAY                                   125"
+  },
+  {
+   "type": "speech",
+   "character": "PETER (IN JAPANESE)",
+   "text": "Karen enters quickly, going up to the front desk.\nOFFICER #2, filling out paperwork, doesn't look up."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN (IN JAPANESE)",
+   "text": "Excuse me, I need to speak with\nDetective Nakagawa.\nOfficer #2 looks up at her.   Blankly."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN (IN JAPANESE)",
+   "text": "It's an emergency."
+  },
+  {
+   "type": "stage direction",
+   "text": "OFFICER #2 (IN JAPANESE)"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN (IN JAPANESE)",
+   "text": "One moment.\nOfficer #2 walks to the end of the desk, where two more\nOFFICERS speak in hushed tones with DETECTIVE AOKI.\nOfficer #2 interrupts their conversation. And they all look\nover at Karen. A beat. Then Detective Aoki approaches."
+  },
+  {
+   "type": "stage direction",
+   "text": "AOKI (IN ENGLISH)"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN (IN JAPANESE)",
+   "text": "You are asking for Detective\nNakagawa?"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Yes, I have important information\nfor him about a case...\nShe looks around. Everyone is watching her. The mood is\ndecidedly grim. She can tell something's up."
+  },
+  {
+   "type": "stage direction",
+   "text": "AOKI"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Detective Nakagawa is not here\nright now. Can you tell me what\ncase this is regarding?\nThere's something behind the Detective's words."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "His partner, Detective Igarashi?\nCan I speak with him?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04      83."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Aoki exchanges a look with the officers."
+  },
+  {
+   "type": "stage direction",
+   "text": "AOKI"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Can you tell me your name, please?\nKaren looks at the somber faces in the quiet station.     She\nbacks away from the desk as the realization sinks in."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "They're dead, aren't they?\nKaren turns and runs for the exit."
+  },
+  {
+   "type": "stage direction",
+   "text": "AOKI"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Miss, wait please --\nBut she's long gone."
+  },
+  {
+   "type": "stage direction",
+   "text": "126                                                               126"
+  },
+  {
+   "type": "location",
+   "text": "INT. KAREN'S APARTMENT - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "A reading light on the computer desk provides the only\nillumination in the dark apartment.\nKaren enters, standing in the doorway for a moment.     Shell-\nshocked. As she slides off her coat:"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Doug?"
+  },
+  {
+   "type": "stage direction",
+   "text": "No answer. She slowly walks to the bedroom and looks inside.\nHe's not there. This seems to worsen Karen's mood."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen looks down at a NOTEPAD. She's written THREE JAPANESE\nNAMES. The detectives in charge of the case three years ago.\nThey all have red lines drawn through them.\nThen we PAN UP to see that these are the last names on a\nlonger list. We recognize the other names: MATTHEW,\nJENNIFER, and EMMA WILLIAMS; YOKO and ALEX; NAKAGAWA and\nIGARASHI. Everyone who's been in The House.\nEveryone who died.   All the names have been CROSSED OUT --\n-- except `Nakagawa' and `Igarashi'.    Karen picks up a red\npen and draws a line through them.\nThen we see one final name at the bottom:\n`Me.'   Now the only one not crossed out.   The only one left.\nKaren puts down her pen.    Then she looks up at --\n-- THE WALL, where's she's taped all the pictures and\narticles in a circle.\nKaren realizes something.    She reaches for the lamp, and\nturns it closer --\n-- the picture in the middle of the \"spider's web\" is gone.\nThe photo of The House.\nKaren draws a breath. Then, out of the corner of her eye,\nshe sees something she hadn't noticed before --\n-- a faint red FLASHING from a small table by the kitchen.\nShe slowly stands. Walks over to it. The flashing red light\nis barely visible on her face, as she looks down at --\n-- HER ANSWERING MACHINE.    The message light is blinking.\n`1 MESSAGE'.\nShe reaches out a shaky finger and presses `PLAY'.\nDOUG (ON MACHINE)\n\"Hey, Karen. It's me. I just\nwanted to say -- I'm sorry. I know\nI wasn't hearing you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Revisions (Blue) -- 1/26/04         85."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG (ON MACHINE) (cont'd)",
+   "text": "If all this is real to you, then\nit's important to me, and I'm gonna\ncheck that house out. So just sit\ntight, I won't be long. I love\nyou.\""
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen presses the STOP button.\nShe stands there for a moment, in the near-darkness.\nThen, softly:"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "No."
+  },
+  {
+   "type": "stage direction",
+   "text": "126a    EXT. KAREN'S APARTMENT BUILDING - NIGHT                      126a\nKaren runs outside, struggling to pull on her coat.    She\nraces down the sidewalk at top speed.\n126b                                                                 126b"
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE HOUSE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Doug stands at the gate, lighting a cigarette, looking down\nat the POLICE TAPE sealing the entrance. He pockets his\nZippo and ducks under the tape, walking up to --\nTHE FRONT DOOR. Doug tries the handle, and the door swings\nopen. He stands on the porch, looking into the dark place.\n126bb   EXT. STREET - NIGHT                                      126bb\nKaren runs down the steps from the train, racing into the\nSHOPPING DISTRICT.\n126c    INT. THE HOUSE - ENTRANCE - NIGHT                            126c\nDoug steps inside, trying the light switch. Nothing happens.\nBut he smiles, shaking his head, completely unafraid."
+  },
+  {
+   "type": "speech",
+   "character": "DOUG",
+   "text": "Hello?"
+  },
+  {
+   "type": "stage direction",
+   "text": "As he takes a step forward his foot bumps THE GAS CANS, still\nsitting by the front door.\nHe's confused -- and then he gets a good idea.   He tosses his\ncigarette outside and closes the front door.\nRevisions (Blue) -- 1/26/04     85A.\n126d   INT. THE HOUSE - LIVING ROOM - NIGHT                    126d\nDoug walks through the living room, glancing inside the small\nKITCHEN, then he slides open the door to the TATAMI ROOM.\nHe winces as his eyes meet the STAINED MATTRESS.\n126e   INT. THE HOUSE - ENTRANCE - NIGHT                       126e\nDoug re-enters the entryway, looking back up to the second\nfloor. He starts up.\nRevisions (Blue) -- 1/26/04     86.\n126f   INT. THE HOUSE - SECOND FLOOR HALLWAY - NIGHT            126f\nDoug walks to the FRONT ROOM door and opens it. He leans\ninside, trying to let his eyes adjust to the dark.\nThen he walks down the hall to the REAR ROOM.   Does the same.\nNothing but darkness beyond.\nDoug closes the door and turns away from it, wondering why\nhe's here, what he's looking for.\nHe reaches into his pocket and pulls out his cell phone.\nSpeed-dials Karen's number. As he raises it to his ear --\n-- he doesn't notice the door to the rear room SLOWLY\nSWINGING OPEN BEHIND HIM --\n127                                                               127"
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE HOUSE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen runs towards us, breathless, stopping as she reaches --\n-- THE HOUSE.   Looming over her.    Waiting.\nShe only hesitates a moment before running inside.\n128    INT. THE HOUSE - NIGHT                                     128\nKaren enters, calling out:"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Doug!   Where are you???"
+  },
+  {
+   "type": "stage direction",
+   "text": "A MUFFLED SOUND from upstairs.    A voice."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Doug???"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen immediately runs up the stairs to --\nTHE SECOND FLOOR. Before she reaches the top of the stairs,\nKaren suddenly realizes:\nTHE VOICE she's hearing isn't Doug's."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE (O.S.)",
+   "text": "Hey, Maria, it's me. Yeah, I'm\nstill at school..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen slowly looks up to see --\nRevisions (Blue) -- 1/26/04        87."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE (O.S.)",
+   "text": "-- PETER. She recognizes him immediately.    He's standing in\nthe hallway, talking on his cell phone."
+  },
+  {
+   "type": "stage direction",
+   "text": "PETER (INTO PHONE)"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE (O.S.)",
+   "text": "...I know, I'm sorry -- these staff\nmeetings always run over -- maybe\nanother ten minutes or so -- okay,\nI'll be home soon -- I love you\ntoo.\nHe hangs up.   Leans against the wall.   Looking into --\nTHE FRONT BEDROOM. Karen gasps as she sees TOSHIO through\nthe open door. He's sitting on the ground, making drawings\nof BLACK CATS. This is his bedroom."
+  },
+  {
+   "type": "stage direction",
+   "text": "(under his breath)"
+  },
+  {
+   "type": "speech",
+   "character": "PETER",
+   "text": "Guess your mom's late, huh?\nThen Toshio suddenly looks up.   Right at Karen.\nFollowing Toshio's gaze, Peter quickly turns to face Karen.\nBut even though she's right there, he doesn't see her:\nShe's seeing something that happened three years ago.\nAs if sensing her presence, Peter walks right to the edge of\nthe stairs, looking down. Then:\nA RUSTLING SOUND comes from the dark hallway. Peter turns\ntowards the REAR BEDROOM at the end of the hall."
+  },
+  {
+   "type": "stage direction",
+   "text": "129                                                                129"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - REAR BEDROOM - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "PETER",
+   "text": "Peter stands in the doorway, looking into the MASTER BEDROOM\nof Toshio's parents. His attention is drawn to something\nnear the door --\n-- a DESK. It's got a computer, some files.     Someone's\npersonal work space.\nPeter steps to the desk. He picks up A STACK OF PHOTOGRAPHS.\nFamily pictures: with father (TAKEO), mother (KAYAKO), and\nson (TOSHIO), holding his black CAT.\nKAYAKO'S FACE has been torn out of every one.\nPeter notices something underneath the pile of photos -- a\nfamiliar JOURNAL. The same one Karen found in the closet.\nHe opens it."
+  },
+  {
+   "type": "stage direction",
+   "text": "HIS POV: it's a journal Kayako kept. As Peter flips through\nit, KAYAKO'S VOICE speaks the words...\n...and even though it's mostly Japanese, there's one word we\nrecognize, that she's written repeatedly --\n-- \"Peter\". It's been written over and over, in both English\nand Japanese, as if she couldn't get enough of seeing it.\nPast the early pages Karen saw, THE WRITING becomes more\nmanic, the delicate script becoming a frantic scrawl,\nKAYAKO'S VOICE becomes more desperate and pleading.\nTaped on the final page is A PHOTO: PETER with a group of\nhis University friends, at a party. Kayako has scribbled\nhearts around his head, and SCRATCHED OUT the other faces.\nA bloody THUMBPRINT distorts Peter's face.   It's still wet.\nPeter slams the book shut and drops it. As he does, a\nPHOTOGRAPH falls out from inside, landing right-side up.\nTHE PHOTO is of PETER at a college party, talking with MARIA.\nIt's clear they're having a great time with one another...\n...but the photo is TORN IN HALF, splitting Maria's face.\nAnd KAYAKO is visible between them, sadly and stoically\nwatching Peter, strands of hair falling down her face.\nPeter and Karen both reach to pick up the photo at the same\ntime -- and they BUMP SHOULDERS. Karen falls backwards,\nagainst the wall.\nIn disbelief, Peter looks around wildly. He reaches out a\ntentative hand, feeling around... Karen moves out of the way.\nShe can't understand how this could be happening.\nAs Peter is about to stand back up, SOMETHING small flutters\ndown from above, landing on the floor in front of him.\nIt's KAYAKO'S FACE.   One of the missing pieces from the torn-\nout photographs.\nPeter slowly looks up to see --\n-- ALL THE MISSING KAYAKO FACES have been pinned to the\ncloset door. Many of the pins go through HER EYES.\nAnd that's when Peter and Karen hear THE FLIES.   Buzzing\nanxiously. Sounds like there's a lot of them.\nIt's coming from THE CLOSET.   Just behind the torn-out faces.\nRevisions (Blue) -- 1/26/04       88A.\nKaren watches, terrified, as Peter reaches out a hand --\n-- and slides the door open.\nHe immediately recoils.    A terrible stench inside.\nThe BUZZING of the flies is louder.    Coming from above.\nPeter pulls a book of matches from his pocket.    Lights one.\nAnd looks up.\nHIS POV:   the attic panel is slightly open.\nPeter reaches up to open it fully --\n-- AND THE UPPER HALF OF KAYAKO swings down.\nShe's been wrapped in plastic sheeting, mottled splotches of\nblood on the inside. Her neck hangs at an odd angle.\nRevisions (Blue) -- 1/26/04       89."
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04        88.",
+   "text": "Peter backs away in horror --"
+  },
+  {
+   "type": "stage direction",
+   "text": "130   INT. THE HOUSE - SECOND FLOOR HALLWAY - NIGHT               130"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04        88.",
+   "text": "Peter backs into the hallway, breathing hard.\nThen a familiar sound reaches our ears:   THUD.   THUD.   THUD.\nIt's coming from Toshio's room. And it's the same rhythmic\nTHUDDING we've heard coming from this room before.\nPeter wrenches his gaze from the horrific sight and heads\nquickly down the hall (with Karen following him):"
+  },
+  {
+   "type": "speech",
+   "character": "PETER",
+   "text": "Toshio!   We have to --\nHe stops short at the door, as he sees --\n-- TAKEO, Toshio's father. Eyes rolled back in his head,\ntongue swollen and lolling from his blue lips.\nHe's dead -- he's hanging from the ceiling by BLACK HAIR that\nseems to cover its entire surface. Kayako's hair.\nTOSHIO, now back to his \"dead\" appearance, playfully swings\nthe body. Takeo's feet THUD rhythmically against the wall."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Oh my God...\nPeter doesn't stay to see any more.   He runs."
+  },
+  {
+   "type": "stage direction",
+   "text": "131                                                               131"
+  },
+  {
+   "type": "location",
+   "text": "INT. THE HOUSE - ENTRANCE - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "Peter tears down the stairs and runs for the front door,\npassing a mirror --\n-- he freezes. He saw SOMETHING in the reflection as he\npassed. Something wrong.\nHe takes a step back and looks --\n-- it's not his reflection in the mirror.   It's KAYAKO.\nPeter stares at the image in disbelief. Then he notices\nTOSHIO standing next to Kayako, looking up at her."
+  },
+  {
+   "type": "stage direction",
+   "text": "As Peter slowly turns to look down, a small PALE HAND slips\ninto his own. Peter jerks backward in shock as --\nA SERIES OF IMAGES, THE ORIGIN OF \"THE GRUDGE\", FLASH BY:\n-- TAKEO, looking down at THE JOURNAL, reading his wife's\nwords, his face contorted with rage... he turns to see\nKAYAKO, home from work, standing in the doorway...\nRevisions (Blue) -- 1/26/04      90.\n-- KAYAKO running down the steps, TAKEO chasing her, tackling\nher before she can reach the door... sitting on top of her,\nhe wraps his hands around her neck...\n-- KAYAKO seeing TOSHIO, her son, watching through the bars\nof the second floor railing as...\n-- TAKEO snaps Kayako's neck with an audible CRACK...\n-- KAYAKO, not dead, but paralyzed, watching as...\n-- TAKEO drowns a flailing TOSHIO in the bathroom tub...\n-- TAKEO tears apart TOSHIO'S CAT, still alive, in the\nbathroom sink...\n-- KAYAKO letting out a HORRIBLE CROAKING, the only sound her\nbroken neck can emit, as TAKEO advances on her with a knife,\nhis eyes filled with a manic madness...\n-- TAKEO in THE ATTIC, stuffing KAYAKO and TOSHIO, both very\ndead, wrapped in plastic sheeting, into a corner...\n-- KAYAKO suddenly TURNING HER HEAD and GRABBING TAKEO'S\nARM... her lifeless eyes focusing on Takeo's as she CROAKS...\nTakeo's eyes go wide with fear... and TOSHIO suddenly reaches\nfrom his plastic grave, grabbing Takeo's other arm...\nBACK TO THE PRESENT:\nWe PAN FROM Peter to THE REFLECTION IN THE MIRROR --\nIt's not the pale, frightening Kayako anymore. Rather:     a\nbeautiful, young Kayako with eyes filled with sorrow.\nWe PAN BACK to see KAREN standing there, instead of Peter.\nKaren slumps to the ground in front of the mirror, the\nrevelation taking everything out of her.\nA beat.   Then:"
+  },
+  {
+   "type": "speech",
+   "character": "Revisions (Blue) -- 1/26/04     89A.",
+   "text": "That came from upstairs."
+  },
+  {
+   "type": "stage direction",
+   "text": "THUMP.\nKaren looks up as the sound continues. We PAN OVER towards\nthe stairs as A DRAGGING sound moves across the ceiling.\nAccompanied by a strange SCRAPING, like plastic."
+  },
+  {
+   "type": "stage direction",
+   "text": "No more... please, no more...\nShe suddenly freezes, sensing something next to her. We see\nit now, as she turns her head, almost hidden in the darkness--\nRevisions (Blue) -- 1/26/04      91.\n-- a PALE FACE in the darkened hallway, staring up at the\nceiling. Eyes wide and rolled back, mouth yawning open in\nabject terror --\n-- it's DOUG'S BODY. He lies on his back, his top half\nsticking out from a niche by the stairwell. It's been right\nnext to her all along."
+  },
+  {
+   "type": "speech",
+   "character": "KAREN",
+   "text": "DOUG!   NO!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Karen takes Doug into her arms as the SOUNDS continue above,\ngrowing closer. But it's no use -- he's dead.\nAnd now there's a new sound, moving down the stairs. A\nfamiliar THROATY CROAKING SOUND, along with a strange\nSKITTERING, like the world's biggest cockroach.\nKaren turns to the staircase to see --\n-- KAYAKO, crawling down the stairs. Still wrapped in the\nplastic sheeting, she moves like a wounded animal, neck\nhanging limply, struggling to pull herself forward --\n-- her eyes locked on Karen, CROAKING horribly --\nKaren sorrow turns to abject terror. She tries to lift\nDoug's body and pull it to the front door. It's too heavy.\nAnd KAYAKO is getting closer.\nSobbing, Karen drops Doug and falls back against the front\ndoor, bumping into --\nTHE GAS CANS. The one Nakagawa unscrewed TIPS OVER, spilling\ngasoline into the entryway.\nAs Doug's arm flops to the floor, his outstretched HAND lands\nnext to Karen. She sees something clenched in his fingers --\n-- his ZIPPO LIGHTER.\nRealization dawns over Karen as she feels the liquid spilling\nonto her hands. The odor is unmistakable.\nKaren immediately reaches forward, trying to loosen Doug's\ngrip on the lighter as --\n-- Kayako reaches the bottom of the stairs. Her broken neck\nmakes a horrific CRACKING as she swivels to face Karen.\nKaren finally gets the lighter. She pushes back against the\ndoor with legs too numb to stand. Her eyes drift up to see --"
+  },
+  {
+   "type": "stage direction",
+   "text": "-- TOSHIO, watching from the railing above, as before, his\ncold eyes locked on hers.\nKaren grabs another can, and spins the lid until it pops off.\nShe tips it onto the floor, spilling more gas.\nRevisions (Blue) -- 1/26/04     92.\nKayako doesn't seem to care. She crawls over Doug's body and\npulls herself through the gasoline, slowly, drawing\ninexorably closer --\nKaren drops the empty gas can and opens DOUG'S LIGHTER.\nShe flicks it.   Nothing.\nKaren tries the lighter again.     And again.   Nothing.\nKayako reaches out, blood dripping from her gaping mouth --\nThe lighter CATCHES.\nKaren flails with her free arm and opens the front door --\n-- just as Kayako GRABS HER ANKLE.\nKaren reaches outside, anchoring a hand to the door frame --\n-- but she can't pull herself free, as --\n-- Kayako pulls herself closer, her CROAKING intensifying --\n-- resigned, Karen slowly lowers the flame to the gas can --\n-- and ignites the gas!     There's a sudden BRIGHT FLASH that\novertakes the screen --\nFADE TO WHITE:\n132    OMITTED                                                      132\n132a                                                               132a"
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE HOUSE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "The flashing lights of POLICE CARS wash over the formerly\nquiet neighborhood, illuminating --\nRevisions (Blue) -- 1/26/04    93.\nKAREN. She's lying on a gurney, regaining consciousness.\nJapanese EMTS are speaking to her as she's being loaded into\nthe back of an ambulance.\nKAREN'S POV: the blurry forms of FIREMEN rush by in slow\nmotion. Everything is dizzy and incoherent...\nKaren tries to sit up -- but a YOUNG EMT lays a gentle hand\non her arm, deftly sliding a needle under her skin. The\nsedative takes hold almost immediately.\nKaren sinks back into the gurney, her eyes rolling back in\nher head. She's fading fast.\n132b   INT. AMBULANCE - NIGHT                                  132b\nThe EMTs secure the gurney inside and close the doors. Karen\nfights the drug, but its grip is inevitable: she finally\ngives up, sliding into a medicated sleep.\nWe slowly MOVE IN on her face, until it fills the screen.\nThen...\n132c                                                           132c"
+  },
+  {
+   "type": "location",
+   "text": "INT. AMBULANCE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "...the light CHANGES. Darkness becomes morning sunlight\nspilling across Karen's face. The tranquil sound of birds\nCHIRPING surrounds us. But it sounds like a distant echo.\nKaren's eyelids flutter. She opens her eyes and sits up, now\nwide awake -- but peaceful and calm.\nShe gently swings her legs from the gurney and walks to the\nwindow, confused by the daylight. She looks out to see --\n132d                                                           132d"
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE HOUSE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "It's the most beautiful we've ever seen it.   A lush\nspringtime bloom fills the trees and bushes around the place.\nVOICES off-screen (Japanese) are audible, getting closer --"
+  },
+  {
+   "type": "stage direction",
+   "text": "ON KAREN, as she is surprised to see...\nKAYAKO. Beautiful and meek. She's smiling, walking hand-in-\nhand with TAKEO. A happy couple.\nAs they reach the front door and go inside, Kayako turns back\nto the front gate. She smiles and gestures, \"come on\".\nAnd then TOSHIO walks forward, through the gate.   His\nattention is on a tiny BLACK KITTEN in his arms.\nAt the door, Toshio turns to look back over his shoulder --\n-- DIRECTLY AT KAREN. They hold each other's gaze for a\nmoment, as if he somehow sees her in the ambulance.\nThen Kayako gestures to Toshio, and he turns away, entering\nThe House and closing the door.\nCUT TO BLACK."
+  },
+  {
+   "type": "character",
+   "text": "THE END"
+  }
+ ]
+}
