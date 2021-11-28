@@ -1,0 +1,502 @@
+,trope,char,movie,actor
+1,absent_minded_professor,Professor Philip Brainard,Flubber,Robin Williams
+2,absent_minded_professor,Professor Keenbean,Richie Rich,Michael McShane
+3,absent_minded_professor,Dr. Reinhardt Lane,The Shadow,Ian McKellen
+4,absent_minded_professor,Dr. Harold Medford,Them!,Edmund Gwenn
+5,absent_minded_professor,Daniel Jackson,Stargate,James Spader
+6,adventurer_archaeologist,Indiana Jones,Indiana Jones and the Kingdom of the Crystal Skull,Harrison Ford
+7,adventurer_archaeologist,Indiana Jones,Indiana Jones and the Raiders of the Lost Ark,Harrison Ford
+8,adventurer_archaeologist,Indiana Jones,Indiana Jones and the Temple of Doom,Harrison Ford
+9,adventurer_archaeologist,Evelyn Carnahan-O'Connell,The Mummy,Rachel Weisz
+10,arrogant_kungfu_guy,Han,Enter the Dragon,Shih Kien
+11,arrogant_kungfu_guy,Johnny Lawrence,The Karate Kid,William Zabka
+12,arrogant_kungfu_guy,Jen Yu,"Crouching Tiger, Hidden Dragon",Zhang Ziyi
+13,arrogant_kungfu_guy,Pai Mei,Kill Bill Volume 2,Chia Hui Liu
+14,arrogant_kungfu_guy,Apollo Creed,Rocky,Carl Weathers
+15,arrogant_kungfu_guy,Clubber Lang,Rocky III,Mr. T
+16,arrogant_kungfu_guy,Storm Shadow,G.I. Joe: The Rise of Cobra,Lee Byung-Hun
+17,arrogant_kungfu_guy,Kurgan,Highlander,Clancy Brown
+18,arrogant_kungfu_guy,Anakin Skywalker,Star Wars Episode III: Revenge of the Sith,Hayden Christensen
+19,big_man_on_campus,Guy Perkins,Never Been Kissed,Jeremy Jordan
+20,big_man_on_campus,John Tucker,John Tucker Must Die,Jesse Metcalfe
+21,big_man_on_campus,Woody Deane,It's a Boy Girl Thing,Kevin Zegers
+22,big_man_on_campus,Van Wilder,National Lampoon's Van Wilder,Ryan Reynolds
+23,big_man_on_campus,Paul Metzler,Election,Chris Klein
+24,big_man_on_campus,Troy Bolton,High School Musical,Zac Efron
+25,big_man_on_campus,Mike Dexter,Can't Hardly Wait,Peter Facinelli
+26,bounty_hunter,Man with No Name,For a Few Dollars More,Clint Eastwood
+27,bounty_hunter,Josey Wales,The Outlaw Josey Wales,Clint Eastwood
+28,bounty_hunter,Jellon Lamb,The Proposition,John Hurt
+29,bounty_hunter,Beck,The Rundown,The Rock
+30,bounty_hunter,Rick Deckard,Blade Runner,Harrison Ford
+31,bounty_hunter,Leonard Smalls,Raising Arizona,"Randall ""Tex"" Cobb"
+32,bounty_hunter,Jack Walsh,Midnight Run,Robert De Niro
+33,bounty_hunter,Milo Boyd,The Bounty Hunter,Gerard Butler
+34,bounty_hunter,Toombs,The Chronicles of Riddick,Nick Chinlund
+35,bounty_hunter,Nick Randall,Wanted: Dead or Alive,Rutger Hauer
+36,brainless_beauty,Gemma Honeycutt,Fool's Gold,Alexis Dziena
+37,brainless_beauty,Matt Mateo,The Opposite of Sex,Ivan Sergei
+38,brainless_beauty,Paul Metzler,Election,Chris Klein
+39,brainless_beauty,Shelley Darlingson,The House Bunny,Anna Faris
+40,brainless_beauty,Brace Channing,My Favorite Martian,Elizabeth Hurley
+41,brainless_beauty,Mia,Stan Helsing,Desi Lydic
+42,brainless_beauty,Marcia Brady,The Brady Bunch Movie,Christine Taylor
+43,brainless_beauty,Chris,Roxanne,Rick Rossovich
+44,brainless_beauty,Buffy Summers,Buffy the Vampire Slayer,Kristy Swanson
+45,brainless_beauty,Brad,Extract,Dustin Milligan
+46,brainless_beauty,Jack Bartlett,Sugar & Spice,James Marsden
+47,brainless_beauty,Maggie Feller,In Her Shoes,Cameron Diaz
+48,broken_bird,Chelsea Deardon,Legal Eagles,Daryl Hannah
+49,broken_bird,Mad Hatter,Alice in Wonderland,Johnny Depp
+50,broken_bird,Nicole Oakley,Crazy/Beautiful,Kirsten Dunst
+51,broken_bird,Annie Newton,The Invisible,Margarita Levieva
+52,broken_bird,Nina Sayers,Black Swan,Natalie Portman
+53,bromantic_foil,Randal Graves,Clerks.,Jeff Anderson
+54,bromantic_foil,Randal Graves,Clerks II,Jeff Anderson
+55,bromantic_foil,Brodie Bruce,Mallrats,Jason Lee
+56,bromantic_foil,Banky Edwards,Chasing Amy,Jason Lee
+57,bromantic_foil,Ed,Shaun of the Dead,Nick Frost
+58,bruiser_with_a_soft_center,Hellboy,Hellboy: Blood and Iron,Ron Perlman
+59,bruiser_with_a_soft_center,Tron,Tron,Bruce Boxleitner
+60,bruiser_with_a_soft_center,James Bond,Casino Royale,Daniel Craig
+61,bully,Biff Tannen,Back to the Future,Thomas F. Wilson
+62,bully,Scut Farkus,A Christmas Story,Zack Ward
+63,bully,Vanessa,The Grudge 2,Teresa Palmer
+64,byronic_hero,Jake LaMotta,Raging Bull,Robert De Niro
+65,byronic_hero,James Bond,Casino Royale,Daniel Craig
+66,byronic_hero,Travis Bickle,Taxi Driver,Robert De Niro
+67,byronic_hero,Anakin Skywalker,Star Wars Episode III: Revenge of the Sith,Hayden Christensen
+68,byronic_hero,Martin Q. Blank,Grosse Pointe Blank,John Cusack
+69,byronic_hero,Brand Hauser,War Inc.,John Cusack
+70,byronic_hero,Cobb,Inception,Leonardo DiCaprio
+71,byronic_hero,Achilles,Troy,Brad Pitt
+72,byronic_hero,Britt Reid,The Green Hornet,Seth Rogen
+73,byronic_hero,Donnie Darko,Donnie Darko,Jake Gyllenhaal
+74,byronic_hero,Captain Jack Sparrow,Pirates of the Caribbean: Dead Man's Chest,Johnny Depp
+75,byronic_hero,"John Wilmot, 2nd Earl of Rochester",The Libertine,Johnny Depp
+76,byronic_hero,Robert Angier,The Prestige,Hugh Jackman
+77,byronic_hero,Tony Stark,Iron Man,Robert Downey Jr.
+78,byronic_hero,Loki,Thor,Tom Hiddleston
+79,byronic_hero,Lenny Nero,Strange Days,Ralph Fiennes
+80,byronic_hero,Bill 'The Butcher' Cutting,Gangs of New York,Daniel Day-Lewis
+81,casanova,Giacomo Casanova,Casanova,Heath Ledger
+82,casanova,Telly,Kids,Leo Fitzpatrick
+83,casanova,Tony Stark,Iron Man,Robert Downey Jr.
+84,casanova,Dorian Gray,The League of Extraordinary Gentlemen,Stuart Townsend
+85,casanova,"John Wilmot, 2nd Earl of Rochester",The Libertine,Johnny Depp
+86,casanova,Timothy,The Long Kiss Goodnight,Craig Bierko
+87,casanova,Johnny Wickham,Bride and Prejudice,Daniel Gillies
+88,chanteuse,Jessica Rabbit,Who Framed Roger Rabbit,Kathleen Turner
+89,chanteuse,Tina Carlyle,The Mask,Cameron Diaz
+90,chanteuse,Susie Diamond,The Fabulous Baker Boys,Michelle Pfeiffer
+91,chanteuse,Sugar Kane Kowalczyk,Some Like It Hot,Marilyn Monroe
+92,chanteuse,Dorothy Vallens,Blue Velvet,Isabella Rossellini
+93,chanteuse,Ellen Aim,Streets of Fire,Diane Lane
+94,charmer,James Bond,Casino Royale,Daniel Craig
+95,charmer,Han Solo,Star Wars Episode IV: A New Hope,Harrison Ford
+96,charmer,Captain Jack Sparrow,Pirates of the Caribbean: Dead Man's Chest,Johnny Depp
+97,charmer,Frank Abagnale Jr.,Catch Me If You Can,Leonardo DiCaprio
+98,charmer,Harold Hill,The Music Man,Matthew Broderick
+99,charmer,Flynn Rider,Tangled,Zachary Levi
+100,charmer,Hannibal Lecter,The Silence of the Lambs,Anthony Hopkins
+101,child_prodigy,Anakin Skywalker,Star Wars Episode I: The Phantom Menace,Jake Lloyd
+102,child_prodigy,Chris Knight,Real Genius,Val Kilmer
+103,classy_cat_burglar,Danielle Foussard,To Catch a Thief,Brigitte Auber
+104,consummate_professional,Frank Martin,The Transporter,Jason Statham
+105,consummate_professional,Agent Smith,The Matrix,Hugo Weaving
+106,consummate_professional,The Professor,The Bourne Identity,Clive Owen
+107,consummate_professional,Sam 'Ace' Rothstein,Casino,Robert De Niro
+108,corrupt_corporate_executive,Dick Jones,RoboCop,Ronny Cox
+109,corrupt_corporate_executive,Cutler Beckett,Pirates of the Caribbean: Dead Man's Chest,Tom Hollander
+110,corrupt_corporate_executive,Cutler Beckett,Pirates of the Caribbean: At World's End,Tom Hollander
+111,corrupt_corporate_executive,Max Zorin,A View to a Kill,Christopher Walken
+112,corrupt_corporate_executive,Carter Burke,Aliens,Paul Reiser
+113,corrupt_corporate_executive,Noah Cross,Chinatown,John Huston
+114,corrupt_corporate_executive,Doctor Doom,Fantastic Four,Julian McMahon
+115,corrupt_corporate_executive,Kingpin,Daredevil,Michael Clarke Duncan
+116,corrupt_corporate_executive,Judge Doom,Who Framed Roger Rabbit,Christopher Lloyd
+117,corrupt_corporate_executive,Conal Cochran,Halloween III: Season of the Witch,Dan O'Herlihy
+118,corrupt_corporate_executive,Mayor Augustus Maywho,How the Grinch Stole Christmas!,Jeffrey Tambor
+119,corrupt_corporate_executive,Henry F. Potter,It's a Wonderful Life,Lionel Barrymore
+120,corrupt_corporate_executive,Royalton,Speed Racer,Roger Allam
+121,corrupt_corporate_executive,B.Z.,Santa Claus: The Movie,John Lithgow
+122,corrupt_corporate_executive,Les Grossman,Tropic Thunder,Tom Cruise
+123,corrupt_corporate_executive,James McCullen - 1641,G.I. Joe: The Rise of Cobra,David Murray
+124,corrupt_corporate_executive,Ed Dillinger,Tron,David Warner
+125,corrupt_corporate_executive,Ian Hawke,Alvin and the Chipmunks,David Cross
+126,corrupt_corporate_executive,Jack Bennett,Edge of Darkness,Danny Huston
+127,corrupt_corporate_executive,Charles Travis,Congo,Bruce Campbell
+128,corrupt_corporate_executive,Gary Winston,Antitrust,Tim Robbins
+129,corrupt_corporate_executive,Dietrich Banning,The Tuxedo,Ritchie Coster
+130,corrupt_corporate_executive,Ratchet,Robots,Greg Kinnear
+131,coward,Beni Gabor,The Mummy,Kevin J. O'Connor
+132,coward,Lt. Roget / Singing man,Paths of Glory,Wayne Morris
+133,coward,Captain Jack Sparrow,Pirates of the Caribbean: Dead Man's Chest,Johnny Depp
+134,coward,Carter Burke,Aliens,Paul Reiser
+135,coward,Ike Clanton,Tombstone,Stephen Lang
+136,coward,Cpl. Timothy P. Upham,Saving Private Ryan,Jeremy Davies
+137,crazy_jealous_guy,Jake LaMotta,Raging Bull,Robert De Niro
+138,crazy_jealous_guy,Sir Alfred De Carter,Unfaithfully Yours,Rex Harrison
+139,crazy_jealous_guy,Heathcliff,Wuthering Heights,Laurence Olivier
+140,crazy_jealous_guy,Alisdair Stewart,The Piano,Sam Neill
+141,crazy_jealous_guy,Dr. Stephen Fleming,Damage,Jeremy Irons
+142,crazy_jealous_guy,Otto,A Fish Called Wanda,Kevin Kline
+143,crazy_jealous_guy,Frank N. Furter,The Rocky Horror Picture Show,Tim Curry
+144,crazy_jealous_guy,David McCall,Fear,Mark Wahlberg
+145,crazy_jealous_guy,Bud White,L.A. Confidential,Russell Crowe
+146,crazy_jealous_guy,Tony Montana,Scarface,Al Pacino
+147,crazy_jealous_guy,Martin Burney,Sleeping with the Enemy,Patrick Bergin
+148,crazy_jealous_guy,Sam 'Ace' Rothstein,Casino,Robert De Niro
+149,crazy_jealous_guy,Tommy DeVito,Goodfellas,Joe Pesci
+150,crazy_jealous_guy,John Lotter,Boys Don't Cry,Peter Sarsgaard
+151,crazy_jealous_guy,Jake McKenna,U Turn,Nick Nolte
+152,crazy_jealous_guy,Duke of Monroth,Moulin Rouge!,Richard Roxburgh
+153,crazy_jealous_guy,Bill,Kill Bill Volume 1,David Carradine
+154,crazy_jealous_guy,Bobby Tennison,No One Would Tell,Fred Savage
+155,crazy_jealous_guy,Johnny Farrell,Gilda,Glenn Ford
+156,crazy_jealous_guy,Takeo,The Grudge,Takashi Matsuyama
+157,crazy_jealous_guy,Guy,Swimming with Sharks,Frank Whaley
+158,crazy_jealous_guy,Blue,Sucker Punch,Oscar Isaac
+159,crazy_jealous_guy,Tony Wendice,Dial M for Murder,Ray Milland
+160,crazy_jealous_guy,Steven Taylor,A Perfect Murder,Michael Douglas
+161,crazy_jealous_guy,Geoffrey Clifton,The English Patient,Colin Firth
+162,crazy_survivalist,Harlan Ogilvy,War of the Worlds,Tim Robbins
+163,crazy_survivalist,Eli,The Book of Eli,Denzel Washington
+164,crazy_survivalist,Marvin Boggs,Red,John Malkovich
+165,cultured_badass,James Bond,Casino Royale,Daniel Craig
+166,cultured_badass,Dorian Gray,The League of Extraordinary Gentlemen,Stuart Townsend
+167,cultured_badass,Everett Hitch,Appaloosa,Viggo Mortensen
+168,cultured_badass,Leopold,Kate & Leopold,Hugh Jackman
+169,cultured_badass,Hannibal Lecter,The Silence of the Lambs,Anthony Hopkins
+170,cultured_badass,Ghost Dog,Ghost Dog: The Way of the Samurai,Forest Whitaker
+171,cultured_badass,Dupont,Equilibrium,Angus Macfadyen
+172,cultured_badass,Arthur Burns,The Proposition,Danny Huston
+173,dean_bitterman,Richard Vernon,The Breakfast Club,Paul Gleason
+174,dean_bitterman,Ed Rooney,Ferris Bueller's Day Off,Jeffrey Jones
+175,dean_bitterman,Mr. Nolan,Dead Poets Society,Norman Lloyd
+176,dean_bitterman,Dean Richmond,The Nutty Professor,Larry Miller
+177,dirty_cop,Alonzo,Training Day,Denzel Washington
+178,dirty_cop,Dennis Peck,Internal Affairs,Richard Gere
+179,dirty_cop,Colin Sullivan,The Departed,Matt Damon
+180,dirty_cop,Police Captain Hank Quinlan,Touch of Evil,Orson Welles
+181,dirty_cop,Rooster,Righteous Kill,Al Pacino
+182,dirty_cop,Abel Turner,Lakeview Terrace,Samuel L. Jackson
+183,dirty_cop,The Lieutenant,Bad Lieutenant,Harvey Keitel
+184,ditz,Cher Horowitz,Clueless,Alicia Silverstone
+185,ditz,Mr. Bean,Mr. Bean's Holiday,Rowan Atkinson
+186,ditz,Arthur Bach,Arthur,Russell Brand
+187,ditz,Nick,30 Minutes or Less,Jesse Eisenberg
+188,ditz,Henry Roth,50 First Dates,Adam Sandler
+189,ditz,Michael Newman,Click,Adam Sandler
+190,ditz,Chuck Levine,I Now Pronounce You Chuck and Larry,Adam Sandler
+191,doormat,George McFly,Back to the Future,Crispin Glover
+192,doormat,Harry Dunne,Dumb & Dumber,Jeff Daniels
+193,doormat,Belle,Beauty and the Beast: The Enchanted Christmas,Paige O'Hara
+194,doormat,Stu Price,The Hangover,Ed Helms
+195,drill_sargeant_nasty,Gny. Sgt. Hartman,Full Metal Jacket,R. Lee Ermey
+196,drill_sargeant_nasty,Master Chief John James Urgayle,G.I. Jane,Viggo Mortensen
+197,drill_sargeant_nasty,Sgt. Hulka,Stripes,Warren Oates
+198,drill_sargeant_nasty,Sergeant Thomas Highway,Heartbreak Ridge,Clint Eastwood
+199,drill_sargeant_nasty,Staff Sergeant Robert Barnes,Platoon,Tom Berenger
+200,drill_sargeant_nasty,Maj. John Reisman,The Dirty Dozen: The Next Mission,Lee Marvin
+201,dumb_blonde,Kitty Packard,Dinner at Eight,Jean Harlow
+202,dumb_blonde,Cindy Campbell,Scary Movie 4,Anna Faris
+203,dumb_blonde,Cindy Campbell,Scary Movie 3,Anna Faris
+204,dumb_blonde,Brandi,Observe and Report,Anna Faris
+205,dumb_blonde,Pola Debevoise,How to Marry a Millionaire,Marilyn Monroe
+206,dumb_blonde,Romy White,Romy and Michele's High School Reunion,Mira Sorvino
+207,dumb_blonde,Michele Weinberger,Romy and Michele's High School Reunion,Lisa Kudrow
+208,dumb_blonde,Suzanne Stone Maretto,To Die For,Nicole Kidman
+209,dumb_blonde,Rocky Horror - A Creation,The Rocky Horror Picture Show,Peter Hinwood
+210,dumb_blonde,Mia,Stan Helsing,Desi Lydic
+211,dumb_blonde,Lina Lamont,Singin' in the Rain,Jean Hagen
+212,dumb_muscle,Lennie Pike,"It's a Mad, Mad, Mad, Mad World",Jonathan Winters
+213,dumb_muscle,Mongo,Blazing Saddles,Alex Karras
+214,dumb_muscle,Fezzik,The Princess Bride,André the Giant
+215,dumb_muscle,Karl Childers,Sling Blade,Billy Bob Thornton
+216,eccentric_mentor,Aughra,The Dark Crystal,Billie Whitelaw
+217,eccentric_mentor,Mr. Kesuke Miyagi,The Karate Kid,Pat Morita
+218,eccentric_mentor,Yoda,Star Wars Episode V: The Empire Strikes Back,Frank Oz
+219,eccentric_mentor,Gandalf,The Lord of the Rings: The Fellowship of the Ring,Ian McKellen
+220,eccentric_mentor,Fin Raziel,Willow,Patricia Hayes
+221,egomaniac_hunter,Clayton,Tarzan,Brian Blessed
+222,egomaniac_hunter,Gaston,Beauty and the Beast,Richard White
+223,egomaniac_hunter,Charles Muntz,Up,Christopher Plummer
+224,egomaniac_hunter,John Wilson,"White Hunter, Black Heart",Clint Eastwood
+225,egomaniac_hunter,Victor Quartermaine,Wallace & Gromit: The Curse of the Were-Rabbit,Ralph Fiennes
+226,egomaniac_hunter,The Predator,Predator 2,Kevin Peter Hall
+227,egomaniac_hunter,The Predator,Predator,Peter Cullen
+228,evil_prince,Prince Yu,Curse of the Golden Flower,Junjie Qin
+229,evil_prince,Crown Prince Leopold,The Illusionist,Rufus Sewell
+230,evil_prince,Commodus,Gladiator,Joaquin Phoenix
+231,evil_prince,Lord Nelson Rathbone,Shanghai Knights,Aidan Gillen
+232,evil_prince,Prince Nuada,Hellboy 2: The Golden Army,Luke Goss
+233,evil_prince,Nizam,Prince of Persia: The Sands of Time,Ben Kingsley
+234,evil_prince,Prince Otwani,Sheena,Trevor Thomas
+235,evil_prince,Prince Humperdinck,The Princess Bride,Chris Sarandon
+236,fastest_gun_in_the_west,Jim,Blazing Saddles,Gene Wilder
+237,fastest_gun_in_the_west,Bret Maverick,Maverick,Mel Gibson
+238,fastest_gun_in_the_west,Ned Nederlander,¡Three Amigos!,Martin Short
+239,fastest_gun_in_the_west,Harmonica,Once Upon a Time in the West,Charles Bronson
+240,fastest_gun_in_the_west,Sheriff Woody,Toy Story,Tom Hanks
+241,fastest_gun_in_the_west,Ben Wade,3:10 to Yuma,Russell Crowe
+242,fastest_gun_in_the_west,RoboCop,RoboCop,Peter Weller
+243,father_to_his_men,Capt. Mikhail Polenin,K-19: The Widowmaker,Liam Neeson
+244,father_to_his_men,Capt. Nathan Cutting Brittles,She Wore a Yellow Ribbon,John Wayne
+245,father_to_his_men,Maximus Decimus Meridius,Gladiator,Russell Crowe
+246,father_to_his_men,Jack Aubrey,Master and Commander: The Far Side of the World,Russell Crowe
+247,father_to_his_men,Captain Benjamin L. Willard,Apocalypse Now,Martin Sheen
+248,father_to_his_men,Captain of the 'Weser',Das Boot,Günter Lamprecht
+249,father_to_his_men,Captain Nemo,The League of Extraordinary Gentlemen,Naseeruddin Shah
+250,father_to_his_men,Capt. James 'Bugger' Staros,The Thin Red Line,Elias Koteas
+251,father_to_his_men,Gen. Robert E. Lee,Gettysburg,Martin Sheen
+252,father_to_his_men,General Kuribayashi,Letters from Iwo Jima,Ken Watanabe
+253,father_to_his_men,Lt. Commander Ron Hunter,Crimson Tide,Denzel Washington
+254,father_to_his_men,Christopher Pike,Star Trek,Bruce Greenwood
+255,father_to_his_men,Zordon,Mighty Morphin' Power Rangers: The Movie,Nicholas Bell
+256,father_to_his_men,Wolfstan,Black Death,John Lynch
+257,father_to_his_men,Major Henry West,28 Days Later,Christopher Eccleston
+258,final_girl,Nancy Thompson,A Nightmare on Elm Street,Heather Langenkamp
+259,final_girl,Sidney Prescott,Scream,Neve Campbell
+260,final_girl,Ellen Ripley,Alien,Sigourney Weaver
+261,final_girl,Sarah Connor,The Terminator,Linda Hamilton
+262,final_girl,Laurie Strode,Halloween,Jamie Lee Curtis
+263,final_girl,Whitney Miller,Friday the 13th,Amanda Righetti
+264,gadgeteer_genius,Tony Stark,Iron Man,Robert Downey Jr.
+265,gadgeteer_genius,Dr. Loveless,Wild Wild West,Kenneth Branagh
+266,gadgeteer_genius,Artemus Gordon,Wild Wild West,Kevin Kline
+267,gadgeteer_genius,Lewis,Meet the Robinsons,Tom Selleck
+268,gadgeteer_genius,Anakin Skywalker,Star Wars Episode I: The Phantom Menace,Jake Lloyd
+269,gadgeteer_genius,Ling Ling Fat,Forbidden City Cop,Stephen Chow
+270,gadgeteer_genius,Lucius Fox,The Dark Knight,Morgan Freeman
+271,gentleman_thief,John Robie,To Catch a Thief,Cary Grant
+272,gentleman_thief,Sir Charles Lytton,The Pink Panther,David Niven
+273,gentleman_thief,Neil McCauley,Heat,Robert De Niro
+274,gentleman_thief,Rodney Skinner,The League of Extraordinary Gentlemen,Tony Curran
+275,gentleman_thief,Cobb,Inception,Leonardo DiCaprio
+276,gentleman_thief,Nick Wells,The Score,Robert De Niro
+277,granola_person,Beth,John Tucker Must Die,Sophia Bush
+278,granola_person,Jasper Palmer,Children of Men,Michael Caine
+279,granola_person,Max Dennison,Hocus Pocus,Omri Katz
+280,granola_person,Lotte Schwartz,Being John Malkovich,Cameron Diaz
+281,granola_person,Ana Pascal,Stranger Than Fiction,Maggie Gyllenhaal
+282,granola_person,Ashley,Orange County,Schuyler Fisk
+283,granola_person,Sheldon Mopes,Death to Smoochy,Edward Norton
+284,granola_person,Bill Django,The Men Who Stare at Goats,Jeff Bridges
+285,grumpy_old_man,Max Goldman,Grumpy Old Men,Walter Matthau
+286,grumpy_old_man,Walt Kowalski,Gran Torino,Clint Eastwood
+287,grumpy_old_man,Carl Fredricksen,Up,Ed Asner
+288,grumpy_old_man,Howard Beale,Network,Peter Finch
+289,grumpy_old_man,Judge Elihu Smails,Caddyshack,Ted Knight
+290,hardboiled_detective,Sam Spade,The Maltese Falcon,Humphrey Bogart
+291,hardboiled_detective,Philip Marlowe,The Big Sleep,Humphrey Bogart
+292,hardboiled_detective,Dist. Atty. Martin Ferguson,The Enforcer,Humphrey Bogart
+293,hardboiled_detective,Capt. 'Rip' Murdock,Dead Reckoning,Humphrey Bogart
+294,hardboiled_detective,Jeff Bailey,Out of the Past,Robert Mitchum
+295,hardboiled_detective,J. J. Gittes,Chinatown,Jack Nicholson
+296,hardboiled_detective,Eddie Valiant,Who Framed Roger Rabbit,Bob Hoskins
+297,hardboiled_detective,Rick Deckard,Blade Runner,Harrison Ford
+298,heartbroken_badass,Mina Harker,The League of Extraordinary Gentlemen,Peta Wilson
+299,heartbroken_badass,James Bond,Quantum of Solace,Daniel Craig
+300,heartbroken_badass,Max Rockatansky,Mad Max,Mel Gibson
+301,heartbroken_badass,Josey Wales,The Outlaw Josey Wales,Clint Eastwood
+302,heartbroken_badass,Tallahassee,Zombieland,Woody Harrelson
+303,heartbroken_badass,Bruce Wayne,The Dark Knight Rises,Christian Bale
+304,heartbroken_badass,Bill,Kill Bill Volume 1,David Carradine
+305,henpecked_husband,Norbit,Norbit,Eddie Murphy
+306,henpecked_husband,Bobby Davis,Wild Hogs,Martin Lawrence
+307,henpecked_husband,Dr. Ernest Menville,Death Becomes Her,Bruce Willis
+308,henpecked_husband,Dr. Howard Bannister,"What's Up, Doc?",Ryan O'Neal
+309,henpecked_husband,Ned Schneebly,School of Rock,Mike White
+310,hitman_with_a_heart,Julian Noble,The Matador,Pierce Brosnan
+311,hitman_with_a_heart,Ghost Dog,Ghost Dog: The Way of the Samurai,Forest Whitaker
+312,hitman_with_a_heart,Jimmy 'The Tulip' Tudeski,The Whole Nine Yards,Bruce Willis
+313,hitman_with_a_heart,Mr. Goodkat,Lucky Number Slevin,Bruce Willis
+314,hitman_with_a_heart,John Lee,The Replacement Killers,Chow Yun-Fat
+315,hitman_with_a_heart,Il Duce,The Boondock Saints,Billy Connolly
+316,hitman_with_a_heart,Jason Bourne,The Bourne Identity,Matt Damon
+317,hitman_with_a_heart,Frank Falenczyk,You Kill Me,Ben Kingsley
+318,hitman_with_a_heart,Wesley Gibson,Wanted,James McAvoy
+319,hitman_with_a_heart,Vincent,Collateral,Tom Cruise
+320,jerk_jock,Austin,Not Another Teen Movie,Eric Christian Olsen
+321,jerk_jock,Johnny Lawrence,The Karate Kid,William Zabka
+322,jerk_jock,Gaston,Beauty and the Beast,Richard White
+323,jerk_jock,Jim,Edward Scissorhands,Anthony Michael Hall
+324,jerk_jock,Biff Tannen,Back to the Future,Thomas F. Wilson
+325,jerk_jock,Kurt Kelly,Heathers,Lance Fenton
+326,jerk_jock,Bo,Cursed,Milo Ventimiglia
+327,jerk_jock,Mike Dexter,Can't Hardly Wait,Peter Facinelli
+328,jerk_jock,Garth,Alpha and Omega,Chris Carmack
+329,junkie_prophet,Agatha,Minority Report,Samantha Morton
+330,junkie_prophet,Cassie Holmes,Push,Dakota Fanning
+331,klutz,Mia Thermopolis,The Princess Diaries,Anne Hathaway
+332,klutz,Seymour Krelborn,Little Shop of Horrors,Rick Moranis
+333,loser_protagonist,Paul Blart,Paul Blart: Mall Cop,Kevin James
+334,loser_protagonist,Sidney Young,How to Lose Friends & Alienate People,Simon Pegg
+335,loser_protagonist,Dennis,"Run, Fat Boy, Run",Simon Pegg
+336,loser_protagonist,Mark Bellison,The Invention of Lying,Ricky Gervais
+337,loser_protagonist,Dewey Finn,School of Rock,Jack Black
+338,loser_protagonist,Rob Gordon,High Fidelity,John Cusack
+339,loveable_rogue,Han Solo,Star Wars Episode IV: A New Hope,Harrison Ford
+340,loveable_rogue,Captain Jack Sparrow,Pirates of the Caribbean: Dead Man's Chest,Johnny Depp
+341,loveable_rogue,Peter Blood,Captain Blood,Errol Flynn
+342,loveable_rogue,Capt. Louis Renault,Casablanca,Claude Rains
+343,loveable_rogue,Abu,The Thief of Bagdad,Sabu Dastagir
+344,loveable_rogue,Eames,Inception,Tom Hardy
+345,loveable_rogue,Rodney Skinner,The League of Extraordinary Gentlemen,Tony Curran
+346,loveable_rogue,Harold Hill,The Music Man,Matthew Broderick
+347,loveable_rogue,Wolverine,X-Men,Hugh Jackman
+348,master_swordsman,Qui-Gon Jinn,Star Wars Episode I: The Phantom Menace,Liam Neeson
+349,master_swordsman,Obi-Wan Kenobi,Star Wars Episode I: The Phantom Menace,Ewan McGregor
+350,master_swordsman,Darth Vader,Star Wars Episode V: The Empire Strikes Back,James Earl Jones
+351,master_swordsman,Inigo Montoya,The Princess Bride,Mandy Patinkin
+352,master_swordsman,Bill,Kill Bill Volume 1,David Carradine
+353,master_swordsman,Archibald Cunningham,Rob Roy,Tim Roth
+354,master_swordsman,Madmartigan,Willow,Val Kilmer
+355,master_swordsman,Nameless,Hero,Jet Li
+356,master_swordsman,Broken Sword,Hero,Tony Leung Chiu Wai
+357,master_swordsman,Aragorn,The Lord of the Rings: The Return of the King,Viggo Mortensen
+358,master_swordsman,Blade,Blade,Wesley Snipes
+359,master_swordsman,He-Man,Masters of the Universe,Dolph Lundgren
+360,morally_bankrupt_banker,Mr. Perkins,Despicable Me,Will Arnett
+361,morally_bankrupt_banker,Patrick Bateman,American Psycho,Christian Bale
+362,morally_bankrupt_banker,Henry F. Potter,It's a Wonderful Life,Lionel Barrymore
+363,officer_and_a_gentleman,Norrington,Pirates of the Caribbean: Dead Man's Chest,Jack Davenport
+364,officer_and_a_gentleman,Col. Robert Gould Shaw,Glory,Matthew Broderick
+365,officer_and_a_gentleman,Jack Aubrey,Master and Commander: The Far Side of the World,Russell Crowe
+366,officer_and_a_gentleman,Captain Nicholls,War Horse,Tom Hiddleston
+367,ophelia,Elisabeth Burrows,Don't Say a Word,Brittany Murphy
+368,ophelia,Crazy Cora,Quigley Down Under,Laura San Giacomo
+369,ophelia,Justine,Melancholia,Kirsten Dunst
+370,ophelia,Gina Montana,Scarface,Mary Elizabeth Mastrantonio
+371,ophelia,Jane Olsen,The Cabinet of Dr. Caligari,Lil Dagover
+372,playful_hacker,Kevin Flynn,Tron,Jeff Bridges
+373,playful_hacker,Sam Flynn,Tron: Legacy,Garrett Hedlund
+374,playful_hacker,Riley Poole,National Treasure,Justin Bartha
+375,playful_hacker,David Lightman,WarGames,Matthew Broderick
+376,playful_hacker,Mr. Universe,Serenity,David Krumholtz
+377,prima_donna,Lina Lamont,Singin' in the Rain,Jean Hagen
+378,prima_donna,Sharpay Evans,High School Musical,Ashley Tisdale
+379,prima_donna,Sharpay Evans,High School Musical 2,Ashley Tisdale
+380,prima_donna,Sharpay Evans,High School Musical 3: Senior Year,Ashley Tisdale
+381,prima_donna,Margo Channing,All About Eve,Bette Davis
+382,prima_donna,Norma Desmond,Sunset Boulevard,Gloria Swanson
+383,psycho_for_hire,Gaear Grimsrud,Fargo,Peter Stormare
+384,psycho_for_hire,Harlen Maguire,Road to Perdition,Jude Law
+385,psycho_for_hire,Mr. Blonde,Reservoir Dogs,Michael Madsen
+386,psycho_for_hire,Red Grant,From Russia with Love,Robert Shaw
+387,psycho_for_hire,Anton Chigurh,No Country for Old Men,Javier Bardem
+388,psycho_for_hire,Jackson Rippner,Red Eye,Cillian Murphy
+389,psycho_for_hire,Staff Sergeant Robert Barnes,Platoon,Tom Berenger
+390,psycho_for_hire,George Higgins,8mm,Chris Bauer
+391,psycho_for_hire,Major Arnold Toht,Indiana Jones and the Raiders of the Lost Ark,Ronald Lacey
+392,psycho_for_hire,Mortimer Brewster,Arsenic and Old Lace,Cary Grant
+393,psycho_for_hire,Col. Paul Tanner,My Fellow Americans,Everett McGill
+394,psycho_for_hire,Bullet Tooth Tony,Snatch,Vinnie Jones
+395,psycho_for_hire,Waingro,Heat,Kevin Gage
+396,psycho_for_hire,Jack Wilson,Shane,Jack Palance
+397,psycho_for_hire,Isaacs,Hanna,Tom Hollander
+398,psycho_for_hire,Frank,Once Upon a Time in the West,Henry Fonda
+399,pupil_turned_to_evil,Count Dooku,Star Wars Episode II: Attack of the Clones,Christopher Lee
+400,pupil_turned_to_evil,Aaron Hallam,The Hunted,Benicio del Toro
+401,retired_outlaw,William Munny,Unforgiven,Clint Eastwood
+402,retired_outlaw,Ned Logan,Unforgiven,Morgan Freeman
+403,retired_outlaw,Butch Cassidy,Butch Cassidy and the Sundance Kid,Paul Newman
+404,retired_outlaw,The Sundance Kid,Butch Cassidy and the Sundance Kid,Robert Redford
+405,retired_outlaw,Patrick Floyd 'Pat' Garrett,Young Guns II,William Petersen
+406,retired_outlaw,Roy O'Bannon,Shanghai Noon,Owen Wilson
+407,revenge,Inigo Montoya,The Princess Bride,Mandy Patinkin
+408,revenge,Khan Noonien Singh,Star Trek II: The Wrath of Khan,Ricardo Montalbán
+409,revenge,Col. Douglas Mortimer,For a Few Dollars More,Lee Van Cleef
+410,revenge,Leonard,Memento,Guy Pearce
+411,revenge,Harmonica,Once Upon a Time in the West,Charles Bronson
+412,revenge,Conan the Barbarian,Conan the Destroyer,Arnold Schwarzenegger
+413,romantic_runnerup,Lon Hammond Jr.,The Notebook,James Marsden
+414,romantic_runnerup,Prince Edward,Enchanted,James Marsden
+415,romantic_runnerup,James Norrington,Pirates of the Caribbean: At World's End,Jack Davenport
+416,romantic_runnerup,Julian Mercer,Something's Gotta Give,Keanu Reeves
+417,romantic_runnerup,Michael Grates,Reality Bites,Ben Stiller
+418,romantic_runnerup,Proteus,Sinbad: Legend of the Seven Seas,Joseph Fiennes
+419,self_made_man,George Kittredge,The Philadelphia Story,John Howard
+420,self_made_man,Roger Callaway,It Takes Two,Steve Guttenberg
+421,self_made_man,"Daniel ""Rudy"" Ruettiger",Rudy,Sean Astin
+422,slacker,Brodie Bruce,Mallrats,Jason Lee
+423,slacker,Dale Denton,Pineapple Express,Seth Rogen
+424,slacker,Ben Stone,Knocked Up,Seth Rogen
+425,slacker,Shaun,Shaun of the Dead,Simon Pegg
+426,slacker,Kumar Patel,Harold & Kumar Go to White Castle,Kal Penn
+427,slacker,Kumar Patel,Harold & Kumar Escape from Guantanamo Bay,Kal Penn
+428,slacker,Romy White,Romy and Michele's High School Reunion,Mira Sorvino
+429,slacker,Michele Weinberger,Romy and Michele's High School Reunion,Lisa Kudrow
+430,slacker,John Winger,Stripes,Bill Murray
+431,slacker,Dewey Finn,School of Rock,Jack Black
+432,slacker,Aram Finklestein,The Rebound,Justin Bartha
+433,stoner,Jay,Dogma,Jason Mewes
+434,stoner,"Bill S. Preston, Esq.",Bill & Ted's Excellent Adventure,Alex Winter
+435,stoner,"Ted ""Theodore"" Logan",Bill & Ted's Excellent Adventure,Keanu Reeves
+436,stoner,Jeff Spicoli,Fast Times at Ridgemont High,Sean Penn
+437,stoner,Luke Shapiro,The Wackness,Josh Peck
+438,stoner,Kumar Patel,Harold & Kumar Go to White Castle,Kal Penn
+439,stoner,Harold Lee,Harold & Kumar Go to White Castle,John Cho
+440,stoner,Dale Denton,Pineapple Express,Seth Rogen
+441,stoner,Red,Pineapple Express,Danny McBride
+442,stoner,Saul Silver,Pineapple Express,James Franco
+443,stoner,Thadeous,Your Highness,Danny McBride
+444,stoner,Fabious,Your Highness,James Franco
+445,stoner,Marty Mikalski,The Cabin in the Woods,Fran Kranz
+446,storyteller,Dilios,300,David Wenham
+447,storyteller,Ed Bloom - Young,Big Fish,Ewan McGregor
+448,storyteller,Garth McCann,Secondhand Lions,Michael Caine
+449,storyteller,Wendy Darling,Peter Pan,Rachel Hurd-Wood
+450,stupid_crooks,Sol,Snatch,Lennie James
+451,stupid_crooks,Vinny,Snatch,Robbie Gee
+452,stupid_crooks,Tyrone,Snatch,Ade
+453,stupid_crooks,Jerry Lundegaard,Fargo,William H. Macy
+454,stupid_crooks,Vincent Vega,Pulp Fiction,John Travolta
+455,surfer_dude,"Ted ""Theodore"" Logan",Bill & Ted's Excellent Adventure,Keanu Reeves
+456,surfer_dude,"Bill S. Preston, Esq.",Bill & Ted's Excellent Adventure,Alex Winter
+457,surfer_dude,Jeff Spicoli,Fast Times at Ridgemont High,Sean Penn
+458,surfer_dude,Chicken Joe,Surf's Up,Jon Heder
+459,surfer_dude,Geek,Surf's Up,Jeff Bridges
+460,surfer_dude,Stoney Brown,Encino Man,Pauly Shore
+461,surfer_dude,Crawl,Son in Law,Pauly Shore
+462,surfer_dude,Bud Macintosh,Bio-Dome,Pauly Shore
+463,surfer_dude,Lance B. Johnson,Apocalypse Now,Sam Bottoms
+464,the_chief,Dreyfus,The Pink Panther,Kevin Kline
+465,the_chief,Lt. Andrew Bogomil,Beverly Hills Cop,Ronny Cox
+466,the_chief,The Chief,Dirty Harry,John Larch
+467,the_editor,Ben Bradlee,All the President's Men,Jason Robards
+468,the_editor,Walter Burns,His Girl Friday,Cary Grant
+469,tranquil_fury,Eric Draven,The Crow,Brandon Lee
+470,tranquil_fury,John Preston,Equilibrium,Christian Bale
+471,tranquil_fury,Ethan Hunt,Mission: Impossible,Tom Cruise
+472,tranquil_fury,Inigo Montoya,The Princess Bride,Mandy Patinkin
+473,tranquil_fury,David Sumner,Straw Dogs,Dustin Hoffman
+474,tranquil_fury,Max Cady,Cape Fear,Robert De Niro
+475,tranquil_fury,Driver,Drive,Ryan Gosling
+476,trickster,Han Solo,Star Wars Episode V: The Empire Strikes Back,Harrison Ford
+477,trickster,Captain Jack Sparrow,Pirates of the Caribbean: Dead Man's Chest,Johnny Depp
+478,trickster,Tyler Durden,Fight Club,Brad Pitt
+479,trickster,Mr. Nick,The Imaginarium of Dr. Parnassus,Tom Waits
+480,trickster,Loki,Thor,Tom Hiddleston
+481,valley_girl,Julie Richman,Valley Girl,Deborah Foreman
+482,valley_girl,Cher Horowitz,Clueless,Alicia Silverstone
+483,valley_girl,Romy White,Romy and Michele's High School Reunion,Mira Sorvino
+484,valley_girl,Buffy Summers,Buffy the Vampire Slayer,Kristy Swanson
+485,valley_girl,Elle Woods,Legally Blonde,Reese Witherspoon
+486,valley_girl,Karen,White Chicks,Busy Philipps
+487,warrior_poet,Katsumoto,The Last Samurai,Ken Watanabe
+488,warrior_poet,Arthur Burns,The Proposition,Danny Huston
+489,warrior_poet,Zohan,You Don't Mess with the Zohan,Adam Sandler
+490,warrior_poet,Broken Sword,Hero,Tony Leung Chiu Wai
+491,warrior_poet,Colonel Walter E. Kurtz,Apocalypse Now,Marlon Brando
+492,warrior_poet,Master Li Mu Bai,"Crouching Tiger, Hidden Dragon",Chow Yun-Fat
+493,warrior_poet,Tool,The Expendables,Mickey Rourke
+494,warrior_poet,T. E. Lawrence,Lawrence of Arabia,Peter O'Toole
+495,warrior_poet,Horton the Elephant,Horton Hears a Who!,Jim Carrey
+496,young_gun,Chico,The Magnificent Seven,Horst Buchholz
+497,young_gun,Morgan Earp,Tombstone,Bill Paxton
+498,young_gun,Colorado Ryan,Rio Bravo,Ricky Nelson
+499,young_gun,Tom Sawyer,The League of Extraordinary Gentlemen,Shane West
+500,young_gun,William H. 'Billy the Kid' Bonney,Young Guns II,Emilio Estevez
+501,young_gun,Jake,Silverado,Kevin Costner
